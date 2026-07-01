@@ -1,0 +1,196 @@
+{{Short description|1939 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1939
+|team1='''[[1938–39 Boston Bruins season|Boston Bruins]]'''
+|team1_short=Boston
+|team1_coach=[[Art Ross]]
+|team1_captain=[[Cooney Weiland]]
+|team1_1='''2'''
+|team1_2=2*
+|team1_3='''3'''
+|team1_4='''2'''
+|team1_5='''3'''
+|team1_tot=4
+|team2=[[1938–39 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto 
+|team2_captain=[[Charlie Conacher]]
+|team2_coach=[[Dick Irvin]]
+|team2_1=1
+|team2_2='''3'''*
+|team2_3=1
+|team2_4=0
+|team2_5=1
+|team2_tot=1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Boston]]: [[Boston Garden]] (1, 2, 5)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4)
+|dates=April 6–16, 1939
+|series_winner=[[Roy Conacher]] (17:54, second)
+|hofers='''Bruins:'''<br/>[[Bobby Bauer]] (1996)<br/>[[Frank Brimsek]] (1966)<br/>[[Dit Clapper]] (1947)<br/>[[Roy Conacher]] (1998)<br/>[[Bill Cowley]] (1968)<br/>[[Woody Dumart]] (1992)<br/>[[Milt Schmidt]] (1961)<br/>[[Eddie Shore]] (1947)<br/>[[Cooney Weiland]] (1971)<br/>'''Maple Leafs:'''<br/>[[Syl Apps]] (1961)<br/>[[Turk Broda]] (1967)<br/>[[Gordie Drillon]] (1975)<br/>[[Red Horner]] (1965)<br/>[[Busher Jackson]] (1971)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Art Ross]] (1949, player)
+}}
+The '''1939 Stanley Cup Final''' was contested by the [[1938–39 Boston Bruins season|Boston Bruins]] and the [[1938–39 Toronto Maple Leafs season|Toronto Maple Leafs]]. It was Boston's first appearance in the Finals since [[1930 Stanley Cup Finals|1930]]; Toronto had appeared in the [[1938 Stanley Cup Finals|previous year]]. Boston won the series 4–1 to win their second [[Stanley Cup]]. This was the first Stanley Cup Finals to be contested as a best-of-seven series, and every subsequent Stanley Cup Finals have been contested as such.
+
+==Paths to the Finals==
+Boston defeated [[New York Rangers]] in a best-of-seven 4–3 to advance to the Finals. The Maple Leafs had to play two best-of three series; winning 2–0 against [[New York Americans]], and 2–1 against the [[Detroit Red Wings]] to advance to the Finals.
+
+==Game summaries==
+Frank Brimsek held Toronto to just six goals in the 5 games.
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Boston Bruins
+|stadium1=[[Boston Garden]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 6
+|home1       =1
+|score1      =1–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-bos/1939/04/06/1938030211#game=1938030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =16:04 - [[Woody Dumart]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =[[Red Horner]] (1) - 13:54
+|1-3-2       =16:31 - [[Bobby Bauer]] (2)
+|goalie1-1   =[[Turk Broda]]
+|goalie1-2   =[[Frank Brimsek]]
+
+|date2       =April 9
+|home2       =1
+|score2      =3–2
+|ot2         =1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/tor-vs-bos/1939/04/09/1938030212#game=1938030212,game_state=final
+|2-1-1       =[[Murph Chamberlain]] (2) - 8:55<br>[[Syl Apps]] (2) - 9:29
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =15:05 - [[Roy Conacher]] (2)<br>16:18 - [[Mel Hill]] (5)
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|2-4-1       =[[Doc Romnes]] (1)
+|2-4-2       =''No scoring''
+|goalie2-1   =[[Turk Broda]]
+|goalie2-2   =[[Frank Brimsek]]
+
+|date3       =April 11
+|home3       =2
+|score3      =3–1
+|won3        =2
+|recap3      =bigmouthsports.com/wp-content/uploads/2014/10/1939-Stanley-Cup-Playoff-boxscores-BOS.pdf
+|3-1-1       =''No scoring''
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =19:11 - [[Gus Marker]] (2)
+|3-3-2       =[[Bobby Bauer]] (3) - 1:28<br>[[Roy Conacher]] (3) - 8:12<br>[[Jack Crawford (ice hockey)|Jack Crawford]] (1) - 13:03
+|goalie3-1   =[[Turk Broda]]
+|goalie3-2   =[[Frank Brimsek]]
+
+|date4       =April 13
+|home4       =2
+|score4      =2–0
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/bos-vs-tor/1939/04/13/1938030214#game=1938030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Roy Conacher]] (4) - ''pp'' - 2:20
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =''No scoring''
+|4-3-2       =Roy Conacher (5) - 12:55
+|goalie4-1   =[[Turk Broda]]
+|goalie4-2   =[[Frank Brimsek]]
+
+|date5       =April 16
+|home5       =1
+|score5      =1–3
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/tor-vs-bos/1939/04/16/1938030215#game=1938030215,game_state=final
+|5-1-1       =[[Bingo Kampman]] (1) - 18:40
+|5-1-2       =11:40 - [[Mel Hill]] (6)
+|5-2-1       =''No scoring''
+|5-2-2       =17:54 - [[Roy Conacher]] (6)
+|5-3-1       =''No scoring''
+|5-3-2       =19:23 - [[Flash Hollett]] (1)
+|goalie5-1   =[[Turk Broda]]
+|goalie5-2   =[[Frank Brimsek]]
+
+|series = Boston won series 4–1
+}}
+
+==Stanley Cup engraving==
+The 1939 Stanley Cup was presented to Bruins captain Cooney Weiland by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Bruins 3–1 win over the Maple Leafs in game five.
+
+The following Bruins players and staff had their names engraved on the Stanley Cup
+
+<!-- Deleted image removed: [[File:Boston Bruins 1939 Stanley Cup champions.jpg|thumb|right|Boston Bruins 1939 Stanley Cup champions|400px]] -->
+'''1938–39 Boston Bruins'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Frank Brimsek]]
+|defence=*2 [[Eddie Shore]]
+*3 Bill [[Flash Hollett]]
+*4 [[Terry Reardon]]*
+*5 Aubrey [[Dit Clapper]]
+*5 [[Jack Shewchuk]]*
+*8 [[Jack Portland]]
+*19 [[Jack Crawford (ice hockey)|Jack Crawford]]
+|centres=*5 Ralph [[Cooney Weiland]] (Captain) 
+*10 [[Bill Cowley]]
+*11 [[Gord Pettinger]] 
+*15 [[Milt Schmidt]]
+*16 [[Pat McReavy]]*
+|wingers=*4 [[Charlie Sands (ice hockey)|Charlie Sands]]
+*6 [[Ray Getliffe]]
+*6-16 Robert [[Red Hamill]]
+*9 [[Roy Conacher]] 
+*14 [[Woody Dumart]]
+*16-4 [[Harry Frost]]
+*17 [[Bobby Bauer]]
+*18 [[Mel Hill]]
+|player-notes=
+{{asterisk}} Name engraved on Stanley Cup despite not officially qualifying.
+|non-players=
+* [[Weston Adams (ice hockey, born 1904)|Weston Adams]] Sr. (President/Owner), [[Art Ross]] (Vice President/Manager-Coach) 
+* Ralph Burkard (Treasurer)
+* [[Frank Ryan (sportscaster)|Frank Ryan]] (Publicity Director)†
+* Win Green (Trainer)†‡
+*† Win Green (Trainer), Frank Ryan (Publicity Director) were included on one of the two team pictures but left off the Stanley Cup.
+*‡ Missing from the Stanley Cup, but qualified to be on it. 
+|engraving-notes=
+* * Three players were included on the Stanley Cup, but did not qualify Pat McReavy (6 games played), Terry Reardon (4 games played), Jack Shewchuk (3 games played).  Not one of the three players played in the playoffs. Every player who played for Boston that season was included on the Stanley Cup.
+* From 1930 to 1939, except for the 1933 New York Rangers, 1934 Chicago Black Hawks and 1935 Montreal Maroons every team included their playoff games scores on the Stanley Cup. In 1939, the Boston Bruins were the last team to do this. When the Cup was redone during 1957–58 season all playoff game scores were left off the new ring for the cup winners from 1928 to 1940.}}
+
+==See also==
+* [[1938–39 NHL season]]
+
+==References & notes==
+* {{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+{{reflist}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+{{s-start}}
+{{succession box |
+ before = [[1938 Stanley Cup Finals|Chicago Black Hawks<br>1938]] |
+ after = [[1940 Stanley Cup Finals|New York Rangers<br>1940]] |
+ title = [[List of Stanley Cup champions|Boston Bruins<br>Stanley Cup champions]] |
+ years = 1939|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Boston Bruins}}
+{{Toronto Maple Leafs}}
+{{1938–39 NHL season by team}}
+
+[[Category:1938–39 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1939 sports events in the United States|Stanley Cup Finals]]
+[[Category:1930s in Toronto|Stanley Cup Finals, 1939]]
+[[Category:1930s in Boston|Stanley Cup Finals, 1939]]
+[[Category:1939 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1939 in Ontario|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:April 1939 sports events in Canada]]

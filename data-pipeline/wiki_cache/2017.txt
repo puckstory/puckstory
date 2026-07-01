@@ -1,0 +1,1771 @@
+{{short description|2017 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 2017
+| image = 2017 Stanley Cup Finals logo.png
+| team1 = [[2016–17 Nashville Predators season|Nashville Predators]]
+| team2 ='''[[2016–17 Pittsburgh Penguins season|Pittsburgh Penguins]]''' 
+| team1_1 = 3
+| team2_1 = '''5'''
+| team1_2 = 1
+| team2_2 = '''4'''
+| team1_3 = '''5'''
+| team2_3 = 1
+| team1_4 = '''4'''
+| team2_4 = 1
+| team1_5 = 0
+| team2_5 = '''6'''
+| team1_6 = 0
+| team2_6 = '''2'''
+| team1_tot = 2
+| team2_tot = 4
+| table-note = 
+| location1 = [[Nashville, Tennessee|Nashville]]: [[Bridgestone Arena]] (3, 4, 6) 
+| location2 = [[Pittsburgh]]: [[PPG Paints Arena]] (1, 2, 5) 
+| team1_coach = [[Peter Laviolette]] 
+| team2_coach = [[Mike Sullivan (ice hockey)|Mike Sullivan]] 
+| team1_short = Nashville 
+| team2_short = Pittsburgh 
+| coaches = 
+| team1_captain = [[Mike Fisher (ice hockey)|Mike Fisher]] 
+| team2_captain = [[Sidney Crosby]] 
+| captains = 
+| team2_national_anthem = [[Jeff Jimerson]] 
+| team1_national_anthem = [[Martina McBride]] (3), [[Dierks Bentley]] (4), [[Faith Hill]] (6) 
+| national_anthems = 
+| referees = [[Wes McCauley]] (1, 3, 5)<br>[[Brad Meier]] (1, 3, 5)<br>[[Dan O'Halloran]] (2, 4, 6)<br>[[Kevin Pollock]] (2, 4, 6)
+| dates = May 29 – June 11, 2017
+| mvp = [[Sidney Crosby]] (Penguins)
+| series_winner = [[Patric Hörnqvist|Patric Hornqvist]] (18:25, third)
+| networks ='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–6), [[NHL on NBC|NBCSN]] (2–3)
+| net_announcers =(CBC/SN) [[Jim Hughson]] and [[Craig Simpson]]<br/>(TVA) Felix Seguin and [[Patrick Lalime]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Steve Mears]] and [[Kevin Weekes]]<br/>([[NBC Sports Radio]] & [[NHL Radio]]) [[Kenny Albert]], [[Joe Micheletti]], and [[Ray Ferraro]]
+|hofers='''Predators:'''<br/>[[Pekka Rinne]] (2026)}}
+The '''2017 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2016–17 NHL season|2016–17 season]], and the culmination of the [[2017 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion and [[2016 Stanley Cup Final|defending Stanley Cup champion]] [[2016–17 Pittsburgh Penguins season|Pittsburgh Penguins]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2016–17 Nashville Predators season|Nashville Predators]], four games to two to repeat as Stanley Cup champions. Penguins captain [[Sidney Crosby]] was awarded the [[Conn Smythe Trophy]] as the most valuable player of the playoffs for the second consecutive year. The Penguins won the Stanley Cup in their opponent's rink for the fifth time.
+
+During the regular season, the Penguins finished second in the league with 111 points, which gave them home ice advantage in the series. The series began on May 29 and concluded on June 11.<ref>{{cite web| url=https://www.nhl.com/news/stanley-cup-final-schedule/c-289529902|title=Stanley Cup Final will begin Monday, May 29|website=NHL.com|date=May 19, 2017|access-date=May 19, 2017}}</ref> The Penguins made their second consecutive Finals appearance, marking the third time in their history they had done this, following their appearances in {{scfy|1991}}–{{scfy|1992}} and {{scfy|2008}}–{{scfy|2009}}. This was the first time since 2009, a rematch between the Penguins and [[Detroit Red Wings]], that any team appeared in consecutive Finals. The Penguins also became the first team since the Red Wings (in {{scfy|1997}} and {{scfy|1998}}) to win the Stanley Cup in consecutive years and the first to do so since the introduction of the [[salary cap]]. They also became the fifth franchise to accomplish this feat more than once.
+
+This marked the second consecutive season in which a Western Conference team made their first appearance in the Finals; the [[San Jose Sharks]] made their Finals debut [[2016 Stanley Cup Final|the year prior]]. This was the first time in NHL history that two United States–born head coaches faced off against each other in the Stanley Cup Final.<ref>{{cite news|last=Werner|first=Steve|date=May 26, 2017|title=Mike Sullivan, Peter Laviolette make Stanley Cup final history|url=http://www.post-gazette.com/sports/penguins/2017/05/27/stanley-cup-final-penguins-predators-American-coaches-Sullivan-Laviolette/stories/201705270065|work=Pittsburgh Post-Gazette|access-date=May 28, 2017}}</ref>
+
+The Penguins won the first two games of the series despite being massively outshot by the Predators in both games. Nashville tied the series at two with a pair of convincing wins at home. However, Penguins goaltender [[Matt Murray (ice hockey, born 1994)|Matt Murray]] shut out the Predators for the remainder of the series. Penguins coach [[Mike Sullivan (ice hockey)|Mike Sullivan]] became the third coach in NHL history to win the Stanley Cup in his first two seasons as a coach with his team, joining [[Pete Green (ice hockey)|Pete Green]] of the original [[Ottawa Senators (original)|Ottawa Senators]] (in {{scfy|1920}} and {{scfy|1921}}) and [[Toe Blake]] of the [[Montreal Canadiens]] (in {{scfy|1956}} and {{scfy|1957}}). This was the first Finals since {{scfy|1983}} in which no game was decided by one goal, and the second Finals in three years to have none of its games reach overtime.
+
+As of {{CURRENTYEAR}}, this is the most recent major professional sports championship won by a [[Pittsburgh]]-based team.
+
+==Paths to the Finals==
+===Pittsburgh Penguins===
+{{Main|2016–17 Pittsburgh Penguins season}}
+
+[[File:Pittsburgh Penguins, Washington Capitals, Bryan Rust (33744033514).jpg|thumb|Bryan Rust of the Pittsburgh Penguins scores the series-winning goal against the Washington Capitals in Game&nbsp;7 of the Eastern Conference Second Round]]
+
+This was Pittsburgh's second consecutive Finals appearance, and sixth overall. The Penguins did not make any major transactions during the offseason, instead of signing head coach [[Mike Sullivan (ice hockey)|Mike Sullivan]] to a three-year extension. At the deadline, Pittsburgh acquired defensemen [[Ron Hainsey]] and [[Mark Streit]] via trade, which proved helpful for depth when star [[Kris Letang]] suffered a season-ending injury just weeks before the playoffs started.
+
+Pittsburgh finished with 111 points (50–21–11) during the regular season to finish second in the Metropolitan Division and second overall among playoff teams. Center and team captain [[Sidney Crosby]] led the Penguins with 89 points, which ranked second in the league, and won the [[Rocket Richard Trophy]] with 44 goals. [[Phil Kessel]] led the team in assists with 47.
+
+In the playoffs, the Penguins defeated the [[Columbus Blue Jackets]] in five games, eliminated the back-to-back [[Presidents' Trophy]]-winning [[Washington Capitals]] for a second consecutive year, this time in seven games, and edged the [[Ottawa Senators]] in seven games in the Eastern [[NHL Conference Finals]] after [[Chris Kunitz]] scored in double overtime of game seven.<ref>{{cite web|url=https://www.hockey-reference.com/teams/PIT/2017.html|title=2016-17 Pittsburgh Penguins Roster and Statistics|publisher=Sports Reference LLC|website=hockey-reference.com|access-date=June 14, 2017}}</ref>
+
+===Nashville Predators===
+{{Main|2016–17 Nashville Predators season}}
+
+This was Nashville's first Stanley Cup Final appearance in its 19-year history. They were also the first [[Major professional sports leagues in the United States and Canada|major professional sports team]] from [[Tennessee]] to play for a championship since the also Nashville-based [[Tennessee Titans]] made [[Super Bowl XXXIV]] in 2000.
+
+During the offseason, Nashville traded defenceman and long-time team captain [[Shea Weber]] to [[Montreal Canadiens|Montreal]] for defenceman [[P. K. Subban]], and during the regular season, traded for forwards [[Cody McLeod]] and [[Vernon Fiddler]]. The Predators also re-signed forward [[Filip Forsberg]] during the offseason.
+
+Nashville finished with 94 points (41–29–12) during the regular season, finishing as the eighth seed and second wild card team in the Western Conference, and the 16th overall. Forsberg and [[Viktor Arvidsson]] tied for the team lead in regular-season goal-scoring with 31 each. [[Ryan Johansen]] led the team in assists with 47. Arvidsson and Johansen tied for the team lead in points with 61.
+
+The Predators started the playoffs by upsetting the top-seeded [[Chicago Blackhawks]] in a sweep, becoming the second team in NHL history to be the lowest seed in their conference to sweep the top seeded team in the opening round ([[1993 Stanley Cup playoffs#(N1) Chicago Blackhawks vs. (N4) St. Louis Blues|1993 St. Louis Blues]]).<ref>{{cite web|url=https://www.nhl.com/news/chicago-blackhawks-nashville-predators-game-4-recap/c-288979552|title=Predators finish sweep of Blackhawks with Game 4 win at home|last=Stanley|first=Robby|publisher=NHL Enterprises, L.P.|date=April 20, 2017|website=NHL.com|access-date=September 23, 2020}}</ref> They followed that up by eliminating the [[St. Louis Blues]] and [[Anaheim Ducks]], both in six games. [[Kevin Fiala]] and Johansen sustained serious leg injuries in the second and third rounds respectively, and both missed the remainder of the playoffs. The Predators became the third team to be the lowest seed in their conference in [[NHL]] history to reach the [[Stanley Cup Final]], joining the [[2005–06 Edmonton Oilers season|2006 Edmonton Oilers]] and the [[2011–12 Los Angeles Kings season|2012 Los Angeles Kings]]. The Predators were also the third different franchise that head coach [[Peter Laviolette]] led to the Stanley Cup Final. He won the Cup with the [[Carolina Hurricanes]] in [[2006 Stanley Cup Final|2006]], and also took the [[Philadelphia Flyers]] to the [[2010 Stanley Cup Final]].<ref>{{cite web|url=https://www.hockey-reference.com/teams/NSH/2017.html|title=2016-17 Nashville Predators Roster and Statistics|publisher=Sports Reference LLC|website=hockey-reference.com|access-date=June 14, 2017}}</ref>
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|date1= May 29
+|team1= Nashville Predators
+|team2= Pittsburgh Penguins
+|stadium1= [[PPG Paints Arena]]
+|won1 = 2
+|score1 = 3–5
+|recap1 = www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-1-stanley-cup-final-recap/c-289662896
+}}
+[[File:Nick Bonino 2016-04-07 1.JPG|thumb|right|upright=.8|[[Nick Bonino]] scored two goals in Game 1.]]
+Late in the first period, penalties from Nashville forwards [[Calle Järnkrok|Calle Jarnkrok]] and [[James Neal (ice hockey)|James Neal]] gave Pittsburgh a full two-minute 5-on-3 power play, and [[Evgeni Malkin]] scored to make it 1–0. Just 1:15 later, [[Conor Sheary]] scored into an open net after a cross-ice pass from [[Chris Kunitz]] caught Nashville's defence off guard. In the final seconds of the period, a centring pass from [[Nick Bonino]] deflected off [[Mattias Ekholm]] and into the net to give Pittsburgh a 3–0 lead. Following Bonino's goal, the Penguins went 37 consecutive minutes without a shot on goal, including the entire second period. The Predators used power-play goals from [[Ryan Ellis]] and [[Colton Sissons]] to make it 3–2, and [[Frédérick Gaudreau|Frederick Gaudreau]] scored immediately following a Penguins power play to tie the game midway through the third. Soon afterwards, Pittsburgh's first shot since the first period resulted in a [[Jake Guentzel]] goal to give Pittsburgh the lead again. Bonino scored again into an empty net to clinch the victory for Pittsburgh.<ref>{{cite web|url=https://www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-1-stanley-cup-final-recap/c-289662896|title=Penguins recover to edge Predators in Game 1 of Cup Final|last=Crosby|first=Wes|publisher=NHL Enterprises, L.P.|date=May 29, 2017|website=NHL.com|access-date=May 29, 2017}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | PIT
+|align=center | [[Evgeni Malkin]] (8)&nbsp;– ''pp''
+|align=center | [[Trevor Daley]] (3) and [[Sidney Crosby]] (14)
+|align=center | 15:32
+|align=center | 1–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Conor Sheary]] (1)
+|align=center | [[Chris Kunitz]] (4) and Sidney Crosby (15)
+|align=center | 16:37
+|align=center | 2–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Nick Bonino]] (3)
+|align=center | [[Brian Dumoulin]] (3)
+|align=center | 19:43
+|align=center | 3–0 PIT
+|-
+| style="text-align:center;"| '''2nd''' 
+|align=center | NSH
+|align=center | [[Ryan Ellis]] (5) – ''pp''
+|align=center | [[P. K. Subban]] (9) and [[Mike Fisher (ice hockey)|Mike Fisher]] (1)
+|align=center | 08:21
+|align=center | 3–1 PIT
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | NSH
+|align=center | [[Colton Sissons]] (6) – ''pp''
+|align=center | [[Roman Josi]] (6) and [[Calle Järnkrok|Calle Jarnkrok]] (3)
+|align=center | 10:06
+|align=center | 3–2 PIT
+|-
+|align=center | NSH
+|align=center | [[Frédérick Gaudreau|Frederick Gaudreau]] (1)
+|align=center | [[Austin Watson]] (3) and Mike Fisher (2)
+|align=center | 13:29
+|align=center | 3–3
+|-
+|align=center | PIT
+|align=center | [[Jake Guentzel]] (10)
+|align=center | [[Matt Cullen]] (6) and [[Justin Schultz]] (8)
+|align=center | 16:43
+|align=center | 4–3 PIT
+|-
+|align=center | PIT
+|align=center | Nick Bonino (4)&nbsp;– ''en''
+|align=center | Chris Kunitz (5)
+|align=center | 18:58
+|align=center | 5–3 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NSH
+|align=center | Calle Jarnkrok
+|align=center | Interference
+|align=center | 13:50
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[James Neal (ice hockey)|James Neal]]
+|align=center | Cross-checking
+|align=center | 13:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | PIT
+|align=center | [[Olli Määttä|Olli Maatta]]
+|align=center | Interference
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ian Cole]]
+|align=center | Roughing
+|align=center | 06:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PIT
+|align=center | [[Evgeni Malkin]]
+|align=center | Slashing
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | P. K. Subban
+|align=center | Delay of game (puck over glass)
+|align=center | 11:24
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} || align=center | 11 || align=center | 9 || align=center | 6 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 8 || align=center | 0 || align=center | 4 || align=center | 12
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1= May 31
+|team1= Nashville Predators
+|team2= Pittsburgh Penguins
+|stadium1= [[PPG Paints Arena]]
+|won1 = 2
+|score1= 1–4
+|recap1 = www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-2-stanley-cup-final-recap/c-289699762
+}}
+[[File:Jake Guentzel 2017-06-08 1.jpg|thumb|right|upright=.8|[[Jake Guentzel]] scored twice, including his second-consecutive game-winning goal, in Game 2.]]
+Midway through the first, the Predators took their first-ever lead in a Stanley Cup Final game when [[Pontus Åberg|Pontus Aberg]] scored around [[Olli Määttä|Olli Maatta]]. The Penguins tied it late in the period when a Guentzel tip sneaked past [[Pekka Rinne]]. After a scoreless second period in which the Predators took twice as many shots as the Penguins, Pittsburgh came out firing in the third, scoring three goals in 3:18. The first was Guentzel's twelfth of the playoffs, making him the first rookie since [[Dino Ciccarelli]] to score twelve times in a single postseason. The next two goals came 15 seconds apart and prompted Predators head coach [[Peter Laviolette]] to replace Rinne with backup [[Juuse Saros]]. Nashville never cut into the deficit as Pittsburgh won the game by 4–1.<ref>{{cite web|url=https://www.nhl.com/news/nashville-predators-pittsburgh-penguins-game-2-stanley-cup-final-recap/c-289699762|title=Penguins surge past Predators to win Game 2 of Cup Final|last=Crosby|first=Wes|publisher=NHL Enterprises, L.P.|date=May 31, 2017|website=NHL.com|access-date=June 11, 2017}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NSH
+|align=center | [[Pontus Åberg|Pontus Aberg]] (2)
+|align=center | [[Viktor Arvidsson]] (9) and [[Mike Fisher (ice hockey)|Mike Fisher]] (3)
+|align=center | 12:57
+|align=center | 1–0 NSH
+|-
+|align=center | PIT
+|align=center | [[Jake Guentzel]] (11)
+|align=center | [[Conor Sheary]] (5) and [[Chris Kunitz]] (6)
+|align=center | 16:36
+|align=center | 1–1
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PIT
+|align=center | Jake Guentzel (12)
+|align=center | [[Bryan Rust]] (2) and [[Ron Hainsey]] (5)
+|align=center | 00:10
+|align=center | 2–1 PIT
+|-
+|align=center | PIT
+|align=center | [[Scott Wilson (ice hockey)|Scott Wilson]] (3)
+|align=center | [[Phil Kessel]] (13) and [[Matt Cullen]] (7)
+|align=center | 03:13
+|align=center | 3–1 PIT
+|-
+|align=center | PIT
+|align=center | [[Evgeni Malkin]] (9)
+|align=center | Chris Kunitz (7) and [[Ian Cole]] (8)
+|align=center | 03:28
+|align=center | 4–1 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | NSH
+|align=center | [[Craig Smith (ice hockey)|Craig Smith]]
+|align=center | Cross-checking
+|align=center | 02:04
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Chris Kunitz
+|align=center | Cross-checking
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Evgeni Malkin
+|align=center | Hooking
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Mike Fisher
+|align=center | Interference
+|align=center | 10:34
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Roman Josi]]
+|align=center | Cross-checking
+|align=center | 14:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NSH
+|align=center | [[Austin Watson]]
+|align=center | Interference
+|align=center | 11:48
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Cody McLeod]]
+|align=center | High-sticking
+|align=center | 17:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''3rd'''
+|align=center | NSH
+|align=center | Pontus Aberg
+|align=center | Slashing
+|align=center | 04:51
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Sidney Crosby]]
+|align=center | Interference
+|align=center | 09:20
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Evgeni Malkin
+|align=center | Fighting – major
+|align=center | 12:14
+|align=center | 5:00
+|-
+|align=center | PIT
+|align=center | Evgeni Malkin (served by Scott Wilson)
+|align=center | Roughing
+|align=center | 12:14
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[P. K. Subban]]
+|align=center | Fighting – major
+|align=center | 12:14
+|align=center | 5:00
+|-
+|align=center | NSH
+|align=center | Cody McLeod
+|align=center | Interference
+|align=center | 18:01
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Chris Kunitz
+|align=center | Slashing
+|align=center | 18:29
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} ||align=center | 18 ||align=center | 14 ||align=center | 6 ||align=center | 38
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} ||align=center | 12 ||align=center | 7 ||align=center | 8 ||align=center | 27
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1= June 3
+|team1= Pittsburgh Penguins
+|team2= Nashville Predators
+|stadium1= [[Bridgestone Arena]]
+|won1 = 2
+|score1= 1–5
+|recap1 = www.nhl.com/news/pittsburgh-penguins-nashville-predators-game-3-recap/c-289765836
+}}
+[[File:Roman Josi 2017-06-08.jpg|thumb|right|upright=.8|[[Roman Josi]] scored a goal and three points in Game 3.]]
+Jake Guentzel came within one goal of Dino Ciccarelli's rookie playoff record when a shot 2:46 into the game got past Pekka Rinne. In the second period, [[Roman Josi]] and Frederick Gaudreau scored only 42 seconds apart to quickly give Nashville the lead. Neal scored with 23 seconds left in the second to give the Predators a two-goal lead. In the third period, a breakaway by [[Craig Smith (ice hockey)|Craig Smith]] and a goal by Ekholm provided insurance in a 5–1 victory for Nashville. Near the end of the game, several misconducts were assessed after a cross-checking by [[Phil Kessel]] drew a crowd and [[Fighting in ice hockey|fights]] broke out.<ref>{{cite web|url=https://www.nhl.com/news/pittsburgh-penguins-nashville-predators-game-3-recap/c-289765836|title=Predators cruise to Game 3 win against Penguins, first in Cup Final|last=Stanley|first=Robby|publisher=NHL Enterprises, L.P.|date=June 3, 2017|website=NHL.com|access-date=June 11, 2017}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | PIT
+|align=center | [[Jake Guentzel]] (13)
+|align=center | [[Ian Cole]] (9) and [[Sidney Crosby]] (16)
+|align=center | 2:46
+|align=center | 1–0 PIT
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NSH
+|align=center | [[Roman Josi]] (6) – ''pp''
+|align=center | [[Calle Järnkrok|Calle Jarnkrok]] and [[Mattias Ekholm]] (9)
+|align=center | 5:51
+|align=center | 1–1
+|-
+|align=center | NSH
+|align=center | [[Frédérick Gaudreau|Frederick Gaudreau]] (2)
+|align=center | [[Austin Watson]] (4) and Roman Josi (7)
+|align=center | 6:33
+|align=center | 2–1 NSH
+|-
+|align=center | NSH
+|align=center | [[James Neal (ice hockey)|James Neal]] (6)
+|align=center | [[Viktor Arvidsson]] (10) and Roman Josi (8)
+|align=center | 19:37
+|align=center | 3–1 NSH
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NSH
+|align=center | [[Craig Smith (ice hockey)|Craig Smith]] (1)
+|align=center | ''Unassisted''
+|align=center | 4:54
+|align=center | 4–1 NSH
+|-
+|align=center | NSH
+|align=center | Mattias Ekholm (1) – ''pp''
+|align=center | Calle Jarnkrok (5) and [[Colton Sissons]] (6)
+|align=center | 13:10
+|align=center | 5–1 NSH
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NSH
+|align=center | [[P. K. Subban]]
+|align=center | Holding
+|align=center | 4:50
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Bench (served by James Neal)
+|align=center | Too many men on the ice
+|align=center | 12:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | PIT
+|align=center | [[Justin Schultz]]
+|align=center | Holding
+|align=center | 4:13
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Ryan Ellis]]
+|align=center | Boarding
+|align=center | 16:37
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="15"| '''3rd'''
+|align=center | PIT
+|align=center | [[Carl Hagelin]]
+|align=center | Roughing
+|align=center | 10:42
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Mattias Ekholm
+|align=center | Roughing
+|align=center | 10:42
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Sidney Crosby
+|align=center | Boarding
+|align=center | 12:43
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Evgeni Malkin]]
+|align=center | Cross-checking
+|align=center | 12:43
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Filip Forsberg]]
+|align=center | Cross-checking
+|align=center | 12:43
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Trevor Daley]]
+|align=center | Holding
+|align=center | 15:24
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Viktor Arvidsson
+|align=center | Holding
+|align=center | 15:24
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | James Neal
+|align=center | Unsportsmanlike conduct
+|align=center | 15:24
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ian Cole]]
+|align=center | Roughing
+|align=center | 15:24
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Patric Hörnqvist|Patric Hornqvist]]
+|align=center | Misconduct
+|align=center | 15:38
+|align=center | 10:00
+|-
+|align=center | NSH
+|align=center | Mattias Ekholm
+|align=center | Misconduct
+|align=center | 15:38
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | [[Phil Kessel]]
+|align=center | Cross-checking
+|align=center | 17:01
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Chris Kunitz]]
+|align=center | Misconduct
+|align=center | 17:01
+|align=center | 10:00
+|-
+|align=center | NSH
+|align=center | [[Austin Watson]]
+|align=center | Misconduct
+|align=center | 17:01
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | [[Matt Cullen]]
+|align=center | Misconduct
+|align=center | 17:01
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 6 || align=center | 13 || align=center | 9 ||align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} || align=center | 12 || align=center | 16 ||align=center | 5 ||align=center | 33
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1= June 5
+|team1= Pittsburgh Penguins
+|team2= Nashville Predators
+|stadium1= [[Bridgestone Arena]]
+|won1 = 2
+|score1= 1–4
+|recap1 = www.nhl.com/news/pittsburgh-penguins-nashville-predators-stanley-cup-game-4-recap/c-289798404
+}}
+[[File:PekkaRinne35.jpg|thumb|right|upright=.8|[[Pekka Rinne]] saved 23 of 24 shots faced in Game 4.]]
+[[Calle Järnkrok|Calle Jarnkrok]] gave Nashville an early lead, but a breakaway goal by [[Sidney Crosby]] tied the score at one. In the second period, after a Penguins breakaway was stopped by Rinne, Gaudreau's wrap-around shot appeared to be stopped by [[Matt Murray (ice hockey, born 1994)|Matt Murray]], but video review showed the puck sneak under Murray's paddle and across the goal line before Murray sent it back out. A breakaway goal by [[Viktor Arvidsson]] gave the Predators their third goal of the game. Rinne would stop all nine shots faced in the third period and an empty-net goal by [[Filip Forsberg]] gave Nashville a 4–1 win and tied the series 2–2.<ref>{{cite web|url=https://www.nhl.com/news/pittsburgh-penguins-nashville-predators-stanley-cup-game-4-recap/c-289798404|title=Predators top Penguins in Game 4 to tie Stanley Cup Final|last=Stanley|first=Robby|publisher=NHL Enterprises, L.P.|date=June 5, 2017|website=NHL.com|access-date=June 11, 2017}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NSH
+|align=center | [[Calle Järnkrok|Calle Jarnkrok]] (2)
+|align=center | [[Craig Smith (ice hockey)|Craig Smith]] (2) and [[Austin Watson]] (5)
+|align=center | 14:51
+|align=center | 1–0 NSH
+|-
+|align=center | PIT
+|align=center | [[Sidney Crosby]] (8)
+|align=center | [[Brian Dumoulin]] (4)
+|align=center | 15:57
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NSH
+|align=center | [[Frédérick Gaudreau|Frederick Gaudreau]] (3)
+|align=center | [[Ryan Ellis]] (8) and [[Harry Zolnierczyk]] (2)
+|align=center | 03:45
+|align=center | 2–1 NSH
+|-
+|align=center | NSH
+|align=center | [[Viktor Arvidsson]] (3)
+|align=center | [[Mike Fisher (ice hockey)|Mike Fisher]] (4) and [[James Neal (ice hockey)|James Neal]] (3)
+|align=center | 13:08
+|align=center | 3–1 NSH
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | NSH
+|align=center | [[Filip Forsberg]] (9) – ''en''
+|align=center | ''Unassisted''
+|align=center | 16:37
+|align=center | 4–1 NSH
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | PIT
+|align=center | [[Patric Hörnqvist|Patric Hornqvist]]
+|align=center | Tripping
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | James Neal
+|align=center | Interference
+|align=center | 19:18
+|align=center | 2:00
+|-
+| style="text-align:center;"| '''2nd'''
+|align=center | PIT
+|align=center | [[Ron Hainsey]]
+|align=center | High-sticking
+|align=center | 06:15
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | NSH
+|align=center | [[Mattias Ekholm]]
+|align=center | Roughing
+|align=center | 18:21
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Josh Archibald]]
+|align=center | Roughing
+|align=center | 18:21
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Mattias Ekholm
+|align=center | Slashing
+|align=center | 18:21
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Ryan Ellis
+|align=center | Cross-checking
+|align=center | 19:35
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} ||align=center | 6 ||align=center | 8 ||align=center | 10 ||align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} ||align=center | 7 ||align=center | 8 ||align=center | 11 ||align=center | 26
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1= June 8
+|team1= Nashville Predators
+|team2= Pittsburgh Penguins
+|stadium1= [[PPG Paints Arena]]
+|score1= 0–6
+|won1= 2
+|recap1=www.nhl.com/news/nashville-predators-pittsburgh-penguins-stanley-cup-final-game-5-recap/c-289851792
+}}
+[[File:Matt Murray 2016-04-28 1.JPG|thumb|right|upright|[[Matt Murray (ice hockey, born 1994)|Matt Murray]] registered a 24-save shutout, his first of back-to-back shutouts, in Game 5.]]
+[[Justin Schultz]] scored for Pittsburgh early in the first period on the power play. Two more goals from the Penguins caused Nashville to again replace Rinne with Saros in net to start the second period. Pittsburgh scored three more times in the second, the first from [[Conor Sheary]]. Guentzel assisted on Sheary's goal, tying the rookie record for points in a single postseason (21). Kessel and [[Ron Hainsey]] scored the last of Pittsburgh's six goals; Kessel and Crosby both ended the game with three points. Neither team scored in the third period, and Matt Murray stopped all 24 shots he faced to record his second shutout of the postseason. Murray also became the first rookie since [[Cam Ward (ice hockey)|Cam Ward]] in 2006 to record a shutout in the Stanley Cup Final. During the third period, 20 penalties were assessed, the most in one period since the third game of the [[2011 Stanley Cup Final]].<ref>{{cite web|url=https://www.nhl.com/news/nashville-predators-pittsburgh-penguins-stanley-cup-final-game-5-recap/c-289851792|title=Penguins score six, shut out Predators in Game 5|last=Crosby|first=Wes|publisher=NHL Enterprises, L.P.|date=June 8, 2017|website=NHL.com|access-date=June 11, 2017}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | PIT
+|align=center | [[Justin Schultz]] (4) – ''pp''
+|align=center | [[Sidney Crosby]] (17) and [[Patric Hörnqvist|Patric Hornqvist]] (4)
+|align=center | 01:31
+|align=center | 1–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Bryan Rust]] (7)
+|align=center | [[Chris Kunitz]] (8) and [[Trevor Daley]] (4)
+|align=center | 06:43
+|align=center | 2–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Evgeni Malkin]] (10)
+|align=center | [[Phil Kessel]] (14) and [[Ron Hainsey]] (6)
+|align=center | 19:49
+|align=center | 3–0 PIT
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | PIT
+|align=center | [[Conor Sheary]] (2)
+|align=center | Sidney Crosby (18) and [[Jake Guentzel]] (8)
+|align=center | 01:19
+|align=center | 4–0 PIT
+|-
+|align=center | PIT
+|align=center | Phil Kessel (8)
+|align=center | [[Olli Määttä|Olli Maatta]] (6) and Sidney Crosby (19)
+|align=center | 08:02
+|align=center | 5–0 PIT
+|-
+|align=center | PIT
+|align=center | Ron Hainsey (2)
+|align=center | Evgeni Malkin (18) and Phil Kessel (15)
+|align=center | 16:40
+|align=center | 6–0 PIT
+|-
+|- style="text-align:center;" 
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NSH
+|align=center | [[Ryan Ellis]]
+|align=center | Holding
+|align=center | 00:50
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Bench (served by [[Scott Wilson (ice hockey)|Scott Wilson]])
+|align=center | Too many men on ice
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[P. K. Subban]]
+|align=center | Holding
+|align=center | 18:28
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Sidney Crosby
+|align=center | Holding
+|align=center | 18:28
+|align=center | 2:00
+|-
+| style="text-align:center;"| '''2nd'''
+|align=center | NSH
+|align=center | [[Filip Forsberg]]
+|align=center | Goaltender interference
+|align=center | 13:02
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="18"| '''3rd'''
+|align=center | PIT
+|align=center | Bryan Rust
+|align=center | Tripping
+|align=center | 03:45
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[James Neal (ice hockey)|James Neal]]
+|align=center | Cross-checking
+|align=center | 07:31
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Evgeni Malkin
+|align=center | Roughing – double minor
+|align=center | 11:32
+|align=center | 4:00
+|-
+|align=center | NSH
+|align=center | P. K. Subban
+|align=center | Unsportsmanlike conduct
+|align=center | 11:32
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Roman Josi]]
+|align=center | Interference
+|align=center | 11:32
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Patric Hornqvist
+|align=center | Unsportsmanlike conduct
+|align=center | 11:32
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | Roman Josi
+|align=center | Roughing – double minor
+|align=center | 11:32
+|align=center | 4:00
+|-
+|align=center | NSH
+|align=center | [[Viktor Arvidsson]]
+|align=center | Fighting – major
+|align=center | 11:32
+|align=center | 5:00
+|-
+|align=center | NSH
+|align=center | Viktor Arvidsson
+|align=center | Misconduct
+|align=center | 11:32
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | [[Carl Hagelin]]
+|align=center | Misconduct
+|align=center | 11:32
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | Carl Hagelin
+|align=center | Fighting – major
+|align=center | 11:32
+|align=center | 5:00
+|-
+|align=center | NSH
+|align=center | [[Austin Watson]]
+|align=center | Charging
+|align=center | 12:40
+|align=center | 2:00
+|-
+|align=center | NSH
+|align=center | [[Colton Sissons]]
+|align=center | Match penalty
+|align=center | 19:26
+|align=center | 10:00
+|-
+|align=center | NSH
+|align=center | [[Yannick Weber]]
+|align=center | Fighting – major
+|align=center | 19:26
+|align=center | 5:00
+|-
+|align=center | NSH
+|align=center | Austin Watson
+|align=center | Misconduct
+|align=center | 19:26
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | Trevor Daley
+|align=center | Misconduct
+|align=center | 19:26
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | Chris Kunitz
+|align=center | Fighting – major
+|align=center | 19:26
+|align=center | 5:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} ||align=center | 9 ||align=center | 6 ||align=center | 9 ||align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} ||align=center | 9 ||align=center | 10 ||align=center | 5 ||align=center | 24
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1= June 11
+|team1= Pittsburgh Penguins
+|team2= Nashville Predators
+|stadium1= [[Bridgestone Arena]]
+|score1= 2–0
+|won1= 1
+|recap1=www.nhl.com/news/pittsburgh-penguins-nashville-predators-game-6-recap/c-289884970
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=jeXfjoLkQQQ Game 6 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:Patric Hornqvist 2017-06-11 1.jpg|thumb|right|upright=.8|[[Patric Hörnqvist|Patric Hornqvist]] scored the [[Stanley Cup]]-clinching goal in Game 6.]]
+Although game six remained scoreless through two periods, a [[Glossary of ice hockey terms#Q|quick whistle]] prevented a Predators' scoring chance that almost certainly would have resulted in a goal. Referee [[Kevin Pollock]] thought Matt Murray had covered a Filip Forsberg shot, but the puck was, in fact, loose in the goal crease, when [[Colton Sissons]] tapped it in.<ref>{{cite news|work=USA Today|title=Stanley Cup Final controversy: Predators' goal waved off after quick whistle|url=https://www.usatoday.com/story/sports/nhl/2017/06/11/predators-goal-called-off-whistle-colton-sissons-stanley-cup-final/102764362/|date=June 11, 2017|access-date=June 12, 2017}}</ref> The game remained scoreless until the final two minutes of the third period when former Predator [[Patric Hörnqvist|Patric Hornqvist]] scored with 1:35 left in the game. Nashville challenged for goaltender interference, but the on-ice ruling was upheld. [[Carl Hagelin]] added an empty net goal with 15 seconds remaining whilst the [[Pittsburgh Penguins|Penguins]] would win their second consecutive Stanley Cup becoming the first since the [[Detroit Red Wings|Red Wings]] did it against the [[1997 Stanley Cup Final|Flyers]] and the [[1998 Stanley Cup Final|Capitals]] in [[1997 Stanley Cup playoffs|1997]] and [[1998 Stanley Cup playoffs|1998]] respectively. Coach [[Mike Sullivan (ice hockey)|Mike Sullivan]] became the first American-born coach to win two Stanley Cups. Matt Murray made 27 saves in net for Pittsburgh, making him the first goaltender since [[Terry Sawchuk]] in [[1952 Stanley Cup Final|1952]] to close out a Stanley Cup Final with back-to-back shutouts. Sidney Crosby was awarded the [[Conn Smythe Trophy]] as MVP of the playoffs for the second consecutive season, becoming the first player since [[Mario Lemieux]] in [[1991 Stanley Cup Final|1991]] and [[1992 Stanley Cup Final|1992]] to be awarded the trophy in back-to-back years.<ref>{{cite news |url=http://www.sportingnews.com/nhl/news/stanley-cup-final-2017-penguins-vs-predators-game-6-live-updates-highlights-video-score/f00eiar0p2c71ne5u7dbik8dc|title=Pittsburgh Penguins win Stanley Cup; defeat Nashville Predators for back-to-back titles|work=Sporting News |date=June 11, 2017|access-date=June 12, 2017}}</ref><ref>{{cite web|url=https://www.nhl.com/news/pittsburgh-penguins-nashville-predators-game-6-recap/c-289884970|title=Penguins repeat Stanley Cup with Game 6 win against Predators|last=Stanley|first=Robby|publisher=NHL Enterprises, L.P.|date=June 11, 2017|website=NHL.com|access-date=June 14, 2017}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|-
+|align=center | PIT
+|align=center | [[Patric Hörnqvist|Patric Hornqvist]] (5)
+|align=center | [[Justin Schultz]] (2) and [[Chris Kunitz]] (6)
+|align=center | 18:25
+|align=center | 1–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Carl Hagelin]] (2) – ''en''
+|align=center | [[Brian Dumoulin]] (5)
+|align=center | 19:46
+|align=center | 2–0 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+|align=center | PIT
+|align=center | [[Ian Cole]]
+|align=center | Interference
+|align=center | 13:14
+|align=center | 2:00
+|-
+| style="text-align:center;"| '''2nd'''
+|align=center | PIT
+|align=center | [[Conor Sheary]]
+|align=center | Tripping
+|align=center | 04:38
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PIT
+|align=center | [[Olli Määttä|Olli Maatta]]
+|align=center | Tripping
+|align=center | 07:19
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Trevor Daley]]
+|align=center | Roughing
+|align=center | 08:47
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} ||align=center | 9 ||align=center | 13 ||align=center | 7 ||align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Nashville}} ||align=center | 8 ||align=center | 11 ||align=center | 8 ||align=center | 27
+|}
+
+==Team rosters==
+===Nashville Predators===
+[[File:Mike Fisher (4144850605).jpg|right|thumb|250px|[[Mike Fisher (ice hockey)|Mike Fisher]] (pictured with Ottawa) captained the Predators to their first [[Stanley Cup Final]] appearance in franchise history]]
+{| class="sortable wikitable plainrowheaders"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! scope="col" |#
+! scope="col" |[[Nationality|Nat]]
+! scope="col" |Player
+! scope="col" |Position
+! scope="col" |Hand
+! scope="col" |Age
+! scope="col" |Acquired
+! scope="col" class="unsortable" | Place of birth
+! scope="col" class="unsortable" | Finals appearance
+|-
+| 46
+| {{flagicon|Sweden}}
+! scope="row" align="left" | {{sortname|Pontus|Aberg|Pontus Åberg}}
+| LW
+| R
+| {{hs|23–243}}23
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| align="left" | first
+|-
+| 38
+| {{flagicon|Sweden}}
+! scope="row" align="left" | {{sortname|Viktor|Arvidsson}}
+| LW
+| R
+| {{hs|24–046}}24
+| [[2014 NHL Entry Draft|2014]]
+| align="left" | [[Skellefteå|Skellefteå, Sweden]]
+| align="left" | first
+<!-- |-
+| 16
+| {{flagicon|Canada}}
+! scope="row" align="left" | {{sortname|Cody|Bass}}
+| C
+| R
+| {{hs|27–096}}30
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Owen Sound, Ontario]]
+| align="left" | first -->
+<!-- |-
+| 2
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Anthony|Bitetto}}
+| D
+| L
+| {{hs|28–294}}26
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Island Park, New York]]
+| align="left" | first -->
+<!-- |-
+| 73
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Alexandre|Carrier}}
+| D
+| R
+| {{hs|39–207}}20
+| [[2015 NHL Entry Draft|2015]]
+| align="left" | [[Quebec City|Quebec City, Quebec]]
+| align="left" | first -->
+<!-- |-
+| 53
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Jack|Dougherty}}
+| D
+| R
+| {{hs|32–231}}20
+| [[2014 NHL Entry Draft|2014]]
+| align="left" | [[Saint Paul, Minnesota]]
+| align="left" | first -->
+|-
+| 14
+| {{flagicon|Sweden}}
+! scope="row" align="left" | {{sortname|Mattias|Ekholm}}
+| D
+| L
+| {{hs|27–000}}27
+| [[2009 NHL Entry Draft|2009]]
+| align="left" | [[Borlänge|Borlänge, Sweden]]
+| align="left" | first
+|-
+| 4
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Ryan|Ellis}}&nbsp;– [[Captain (ice hockey)#Alternate captains|A]]
+| D
+| R
+| {{hs|26–141}}26
+| [[2009 NHL Entry Draft|2009]]
+| align="left" | [[Hamilton, Ontario]]
+| align="left" | first
+|-
+| 83
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Vernon|Fiddler}}
+| C
+| L
+| {{hs|37–016}}37
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| align="left" | first
+|-
+| 12
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Mike|Fisher|dab=ice hockey}}&nbsp;– [[Captain (ice hockey)#Captains|C]]
+| C
+| R
+| {{hs|36–353}}36
+| [[2011–12 NHL season|2011]]
+| align="left" | [[Peterborough, Ontario]]
+| align="left" | second {{small|([[2007 Stanley Cup Final|2007]])}}
+|-
+| 9
+| {{flagicon|SWE}}
+! scope="row" align="left" | {{sortname|Filip|Forsberg}}
+| LW
+| R
+| {{hs|22–284}}22
+| [[2012–13 NHL season|2013]]
+| align="left" | [[Östervåla|Östervåla, Sweden]]
+| align="left" | first
+|-
+| 32
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Frederick|Gaudreau|Frédérick Gaudreau}}
+| C
+| R
+| {{hs|24–023}}24
+| [[2016–17 NHL season|2016]]
+| align="left" | [[Bromont, Quebec]]
+| align="left" | first
+<!-- |-
+| 8
+| {{flagicon|SWE}}
+! scope="row" align="left" | {{sortname|Petter|Granberg}}
+| D
+| R
+| {{hs|24–127}}24
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Gällivare|Gällivare, Sweden]]
+| align="left" | first -->
+<!-- |-
+| 24
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Brad|Hunt|dab=ice hockey}}
+| D
+| L
+| {{hs|36–244}}28
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Maple Ridge, British Columbia]]
+| align="left" | first -->
+|-
+| 52
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Matt|Irwin}}
+| D
+| L
+| {{hs|29–176}}29
+| [[2016–17 NHL season|2016]]
+| align="left" | [[Victoria, British Columbia]]
+| align="left" | first
+|-
+| 19
+| {{flagicon|SWE}}
+! scope="row" align="left" | {{sortname|Calle|Jarnkrok|Calle Järnkrok}}
+| C
+| R
+| {{hs|25–241}}25
+| [[2013–14 NHL season|2014]]
+| align="left" | [[Gävle|Gävle, Sweden]]
+| align="left" | first
+<!-- |-
+| 92
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Ryan|Johansen}}
+| C
+| R
+| {{hs|21–279}}24
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Port Moody|Port Moody, British Columbia]]
+| align="left" | first -->
+|-
+| 59
+| {{flagicon|SWI}}
+! scope="row" align="left" | {{sortname|Roman|Josi}}&nbsp;– [[Captain (ice hockey)#Alternate captains|A]]
+| D
+| L
+| {{hs|26–357}}26
+| [[2008 NHL Entry Draft|2008]]
+| align="left" | [[Bern|Bern, Switzerland]]
+| align="left" | first
+<!-- |-
+| 50
+| {{flagicon|RUS}}
+! scope="row" align="left" | {{sortname|Vladislav|Kamenev}}
+| LW
+| L
+| {{hs|22–002}}20
+| [[2014 NHL Entry Draft|2014]]
+| align="left" | [[Orsk|Orsk, Russia]]
+| align="left" | first -->
+|-
+| 55
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Cody|McLeod}}
+| LW
+| L
+| {{hs|32–332}}32
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Binscarth|Binscarth, Manitoba]]
+| align="left" | first
+|-
+| 18
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|James|Neal|dab=ice hockey}}&nbsp;– [[Captain (ice hockey)#Alternate captains|A]]
+| RW
+| L
+| {{hs|29–263}}29
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Whitby, Ontario]]
+| align="left" | first
+|-
+| 11
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|P. A.|Parenteau}}
+| RW
+| R
+| {{hs|34–061}}34
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Hull, Quebec]]
+| align="left" | first
+|-
+| 35
+| {{flagicon|FIN}}
+! scope="row" align="left" | {{sortname|Pekka|Rinne}}
+| G
+| L
+| {{hs|34–202}}34
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Kempele|Kempele, Finland]]
+| align="left" | first
+|-
+| 20
+| {{flagicon|FIN}}
+! scope="row" align="left" | {{sortname|Miikka|Salomaki|Miikka Salomäki}}
+| RW
+| L
+| {{hs|24–076}}24
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Raahe|Raahe, Finland]]
+| align="left" | first
+|-
+| 74
+| {{flagicon|FIN}}
+! scope="row" align="left" | {{sortname|Juuse|Saros}}
+| G
+| L
+| {{hs|20–035}}22
+| [[2013 NHL Entry Draft|2013]]
+| align="left" | [[Forssa|Forssa, Finland]]
+| align="left" | first
+|-
+| 10
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Colton|Sissons}}
+| C
+| R
+| {{hs|23–200}}23
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[North Vancouver (city)|North Vancouver, British Columbia]]
+| align="left" | first
+|-
+| 15
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Craig|Smith|dab=ice hockey}}
+| RW
+| R
+| {{hs|27–261}}27
+| [[2009 NHL Entry Draft|2009]]
+| align="left" | [[Madison, Wisconsin]]
+| align="left" | first
+|-
+| 76
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|P. K.|Subban}}
+| D
+| R
+| {{hs|28–011}}28
+| [[2016–17 NHL season|2016]]
+| align="left" | [[Toronto|Toronto, Ontario]]
+| align="left" | first
+|-
+| 51
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Austin|Watson}}
+| W/C
+| R
+| {{hs|25–131}}25
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Ann Arbor, Michigan]]
+| align="left" | first
+|-
+| 7
+| {{flagicon|SWI}}
+! scope="row" align="left" | {{sortname|Yannick|Weber}}
+| D
+| R
+| {{hs|28–243}}28
+| [[2016–17 NHL season|2016]]
+| align="left" | [[Morges|Morges, Switzerland]]
+| align="left" | first
+|-
+| 33
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Colin|Wilson|dab=ice hockey}}
+| LW
+| L
+| {{hs|27–216}}27
+| [[2008 NHL Entry Draft|2008]]
+| align="left" | [[Greenwich, Connecticut]]
+| align="left" | first
+|-
+| 26
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Harry|Zolnierczyk}}
+| LW
+| L
+| {{hs|29–265}}29
+| [[2016–17 NHL season|2016]]
+| align="left" | [[Toronto|Toronto, Ontario]]
+| align="left" | first
+|}
+
+===Pittsburgh Penguins===
+[[File:Sidney_Crosby_with_Conn_Smythe_Trophy_2017-06-11_2.jpg|right|thumb|250px|[[Sidney Crosby]] [[Captain (ice hockey)|captained]] the Penguins to their second-consecutive Stanley Cup championship and fourth Finals appearance in ten seasons]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! scope="col" | #
+! scope="col" | [[Nationality|Nat]]
+! scope="col" | Player
+! scope="col" | Position
+! scope="col" | Hand
+! scope="col" | Age
+! scope="col" | Acquired
+! scope="col" class="unsortable" | Place of birth
+! scope="col" class="unsortable" | Finals appearance
+|-
+| 45
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Josh|Archibald}}
+| RW
+| R
+| {{hs|24–232}}24
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Regina, Saskatchewan]]
+| align="left" | first
+|-
+| 13
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Nick|Bonino}}
+| C
+| L
+| {{hs|29–037}}29
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Hartford, Connecticut]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 28
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Ian|Cole}}
+| D
+| L
+| {{hs|28–096}}28
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Ann Arbor, Michigan]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 87
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Sidney|Crosby}}&nbsp;– [[Captain (ice hockey)|C]]
+| C
+| L
+| {{hs|29–294}}29
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Cole Harbour, Nova Scotia]]
+| align="left" | fourth {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 7
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Matt|Cullen}}
+| C
+| L
+| {{hs|40–207}}40
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Virginia, Minnesota]]
+| align="left" | third {{small|('''[[2006 Stanley Cup Final|2006]]''', '''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 6
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Trevor|Daley}}
+| D
+| L
+| {{hs|33–231}}33
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Toronto|Toronto, Ontario]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 8
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Brian|Dumoulin}}
+| D
+| L
+| {{hs|25–264}}25
+| [[2012–13 NHL season|2012]]
+| align="left" | [[Biddeford, Maine]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 29
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Marc-Andre|Fleury|Marc-André Fleury}}
+| G
+| L
+| {{hs|32–181}}32
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[Sorel-Tracy|Sorel-Tracy, Quebec]]
+| align="left" | fourth {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 59
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Jake|Guentzel}}
+| C/LW
+| L
+| {{hs|22–181}}22
+| [[2013 NHL Entry Draft|2013]]
+| align="left" | [[Omaha, Nebraska]]
+| align="left" | first
+|-
+| 62
+| {{flagicon|SWE}}
+! scope="row" align="left" | {{sortname|Carl|Hagelin}}
+| LW
+| L
+| {{hs|28–278}}28
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Södertälje|Södertälje, Sweden]]
+| align="left" | third {{small|([[2014 Stanley Cup Final|2014]], '''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 65
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Ron|Hainsey}}
+| D
+| L
+| {{hs|36–278}}36
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Bolton, Connecticut]]
+| align="left" | first
+|-
+| 72
+| {{flagicon|SWE}}
+! scope="row" align="left" | {{sortname|Patric|Hornqvist|Patric Hörnqvist}}
+| RW
+| R
+| {{hs|30–147}}30
+| [[2014–15 NHL season|2014]]
+| align="left" | [[Sollentuna Municipality|Sollentuna, Sweden]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 81
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Phil|Kessel}}
+| RW
+| R
+| {{hs|29–238}}29
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Madison, Wisconsin]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 34
+| {{flagicon|GER}}
+! scope="row" align="left" | {{sortname|Tom|Kuhnhackl|Tom Kühnhackl}}
+| LW
+| L
+| {{hs|25–127}}25
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Landshut|Landshut, Germany]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 14
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Chris|Kunitz}}&nbsp;– [[Captain (ice hockey)#Alternate captains|A]]
+| LW
+| L
+| {{hs|37–244}}37
+| [[2008–09 NHL season|2009]]
+| align="left" | [[Regina, Saskatchewan]]
+| align="left" | fourth {{small|('''[[2007 Stanley Cup Final|2007]]''', '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''')}}
+<!-- |-
+| 58
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Kris|Letang}}
+| D
+| R
+| {{hs|30–033}}30
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Montreal|Montreal, Quebec]]
+| align="left" | fourth {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''')}} -->
+|-
+| 3
+| {{flagicon|FIN}}
+! scope="row" align="left" | {{sortname|Olli|Maatta|Olli Määttä}}
+| D
+| L
+| {{hs|22–279}}22
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Jyväskylä|Jyväskylä, Finland]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 71
+| {{flagicon|RUS}}
+! scope="row" align="left" | {{sortname|Evgeni|Malkin}}&nbsp;– [[Captain (ice hockey)#Alternate captains|A]]
+| C
+| L
+| {{hs|30–301}}30
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Magnitogorsk|Magnitogorsk, Soviet Union]]
+| align="left" | fourth {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 30
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Matt|Murray|dab=ice hockey, born 1994}}
+| G
+| L
+| {{hs|23–002}}23
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Thunder Bay|Thunder Bay, Ontario]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 37
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Carter|Rowney}}
+| RW/C
+| R
+| {{hs|28–002}}28
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Sexsmith, Alberta]]
+| align="left" | first
+|-
+| 17
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Bryan|Rust}}
+| RW
+| R
+| {{hs|25–016}}25
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Pontiac, Michigan]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 4
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Justin|Schultz}}
+| D
+| R
+| {{hs|26–326}}26
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Kelowna|Kelowna, British Columbia]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 43
+| {{flagicon|USA}}
+! scope="row" align="left" | {{sortname|Conor|Sheary}}
+| LW
+| L
+| {{hs|24–354}}24
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Melrose, Massachusetts]]
+| align="left" | second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| 32
+| {{flagicon|SUI}}
+! scope="row" align="left" | {{sortname|Mark|Streit}}
+| D
+| L
+| {{hs|39–166}}39
+| [[2016–17 NHL season|2017]]
+| align="left" | [[Bern|Bern, Switzerland]]
+| align="left" | first
+|-
+| 23
+| {{flagicon|CAN}}
+! scope="row" align="left" | {{sortname|Scott|Wilson|dab=ice hockey}}
+| LW
+| L
+| {{hs|25–354}}25
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Oakville, Ontario]]
+| align="left" | first
+|-
+|}
+
+==Stanley Cup engraving==
+The 2017 Stanley Cup was presented to Penguins captain Sidney Crosby by [[NHL Commissioner]] [[Gary Bettman]] following the Penguins 2–0 win over the Predators in game six
+
+The following Penguins players and staff had their names engraved on the Stanley Cup
+
+'''2016–17 Pittsburgh Penguins'''
+{{Stanley Cup champion
+|defence=
+*3 [[Olli Määttä|Olli Maatta]]
+*4 [[Justin Schultz]]
+*6 [[Trevor Daley]]
+*8 [[Brian Dumoulin]]
+*28 [[Ian Cole]]
+*32 [[Mark Streit]] ‡
+*58 [[Kris Letang]] †
+*65 [[Ron Hainsey]]
+|wingers=
+*14 [[Chris Kunitz]] (A)
+*17 [[Bryan Rust]]
+*23 [[Scott Wilson (ice hockey)|Scott Wilson]]
+*34 [[Tom Kühnhackl|Tom Kuhnhackl]]
+*37 [[Carter Rowney]]*
+*43 [[Conor Sheary]]
+*45 [[Josh Archibald]]
+*62 [[Carl Hagelin]]
+*72 [[Patric Hörnqvist|Patric Hornqvist]]
+*81 [[Phil Kessel]]
+|centres=
+*7 [[Matt Cullen]] 
+*13 [[Nick Bonino]]
+*59 [[Jake Guentzel]]*
+*71 [[Evgeni Malkin]] (A)
+*87 [[Sidney Crosby]] (Captain)
+|goaltenders=
+*29 [[Marc-André Fleury|Marc-Andre Fleury]]
+*30 [[Matt Murray (ice hockey, born 1994)|Matt Murray]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Mario Lemieux]] (Chairman/Co-Owner/Alt. Governor), [[Ronald Burkle]] (Co-Owner/Alt. Governor), William Kassling (Co-Owner/Alt. Governor)
+* [[David Morehouse]] (President/Governor), Travis Williams (Chief Operating Officer/Alt. Governor), [[Jim Rutherford]] (Exe. Vice President/General Manager)
+* [[Jason Botterill]] (Asst. General Manager), [[Bill Guerin]] (Asst. General Manager), Jason Karmanos (Vice President of Hockey Operations)
+* [[Mark Recchi]] (Player Development Coach), [[Mike Sullivan (ice hockey)|Mike Sullivan]] (Head Coach), [[Rick Tocchet]] (Asst. Coach)
+* [[Jacques Martin (ice hockey)|Jacques Martin]] (Asst. Coach), [[Mike Bales]] (Goaltending Coach), Andy Saucier (Video Coach), 
+* [[Sergei Gonchar]] (Defense Coach), Dr. Dharmesh Vyas (Head Team Physician), Chris Stewart (Athletic Trainer)
+* Curtis Bell (Asst. Athletic Trainer), Patrick Steidle (Asst. Athletic Trainer), Andy O'Brien (Director of Sport Science & Performance)
+* Dana Heinze (Equipment Manager), J.C. Ihrig (Asst. Equipment Manager), Jon Taglianetti (Asst. Equipment Manager) 
+* Jim Britt (Director of Team Operations), [[Randy Sexton]] (Director of Amateur Scouting), Derek Clancey (Director of Pro Scouting)}}
+===Engraving notes===
+* #58 [[Kris Letang]] (D) – played in 41 regular season games, but none in the playoffs due to a herniated disk in his neck that required surgery.<ref>{{cite web|last1=Crosby|first1=Wes|title=Kris Letang of Penguins recovering 'really well' from neck surgery|url=https://www.nhl.com/news/penguins-kris-letang-progressing-well-in-recovery-from-neck-surgery/c-289674966|website=NHL.com|publisher=NHL|date=May 30, 2017|access-date=July 18, 2025}}</ref><ref>{{cite web|title=Letang takes Stanley Cup to Quebec hospital|url=https://www.nhl.com/news/kris-letang-enjoys-day-with-stanley-cup/c-290479512|website=NHL.com|publisher=NHL|date=July 23, 2017|access-date=July 18, 2025}}</ref> As he played in half of the regular season games with Pittsburgh, he automatically qualified to have his name engraved on the Stanley Cup.{{efn|name=qualify}}
+* #32 [[Mark Streit]] (D) – played in 19 regular season games and 3 playoff games (all in the Eastern Conference Finals) for Pittsburgh, previously 49 regular season games for [[Philadelphia Flyers|Philadelphia]]. As he did not automatically qualify,{{efn|name=qualify}} Pittsburgh successfully requested an exemption to engrave his name. Streit became the third Swiss player (and first non-goaltender Swiss player) to win the Stanley Cup.<ref>{{cite news|last=Mackey|first=Jason|date=October 25, 2017|title=Nearing retirement, Mark Streit recalls last year's 'special' Stanley Cup run|url=https://www.post-gazette.com/sports/penguins/2017/10/25/Mark-Streit-Penguins-Stanley-Cup-Canadiens-retirement-ahl-laval-rocket/stories/201710250102|publisher=Pittsburgh Post-Gazette|access-date=July 18, 2025}}</ref><ref>{{cite news|date=June 10, 2001|title=Stanley Cup joy for Aebischer|url=https://www.swissinfo.ch/eng/demographics/stanley-cup-joy-for-aebischer/2080004|publisher=SWI swissinfo|accessdate=July 18, 2025}}</ref>
+* [[Mario Lemieux]] is the only one to have his name engraved on the Stanley Cup for their titles in {{scfy|1991}}, {{scfy|1992}}, {{scfy|2009}}, {{scfy|2016}}, and 2017.
+* [[Sergei Gonchar]] (Defense Coach) was left off the Stanley Cup engraving of the {{scfy|2016}} title, but included on the 2017 title engraving.
+* The Penguins fill the last spot on the bottom ring of the Stanley Cup. The top ring, featuring winners from 1954 to 1965, was removed after the Capitals were added in 2018. 
+* Matt Murray became the first goalie to win the Stanley Cup-clinching game as a Rookie 2 years in a row. In 2016 Murray only played 13 regular season games but started all 6 games of the Finals for Pittsburgh. So in 2017 he was still a rookie (having not played 25 regular season games in a season) when he started all 6 games of the Finals for Pittsburgh. 
+*Alex Trinca (Strength & Conditioning Coach) (on Cup in 2016) and Danny Kroll (Assistant Equipment Manager) (on Cup in 2009) were left off the 2017 Stanley Cup engraving, but included in the team picture.
+
+===Player notes===
+* Fourteen players were on the roster during the playoffs, but left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}}<ref>[https://www.nhl.com/scores/htmlreports/20162017/RO030416.HTM Playing Roster]</ref>
+** #2 [[Chad Ruhwedel]] (D) – played 34 regular-season games and 11 playoff games. (plus 27 games in the minors). Missed last 2 games of Conference and all 6 games of the finals due to a concussion.
+** #25 [[Tom Sestito]] (LW) – 13 regular season games and none in the playoffs
+** #24 [[Cameron Gaunce]] (D) – played 12 regular season games and none in the playoffs
+** #35 [[Tristan Jarry]] (G) – dressed for 11 playoff games while Matt Murray was injured (Jarry received his second Stanley Cup ring, despite only playing one NHL game) – name not engraved on Cup
+** #51 [[Derrick Pouliot]] (D) – played 11 regular season games and none in the playoffs
+** #40 [[Oskar Sundqvist]] (C) – played 10 regular season games and none in the playoffs
+** #5 [[David Warsofsky]] (D) – played 7 regular season games and none in the playoffs
+** #11 [[Kevin Porter (ice hockey)|Kevin Porter]] (C) – played 7 regular season games and none in the playoffs
+** #20 [[Frank Corrado]] (D) – played 2 regular season games and none in the playoffs
+** #49 [[Dominik Simon]] (C) – played 2 regular season games and none in the playoffs
+** #39 [[Jean-Sébastien Dea]] (C) – played 1 regular season game and none in the playoffs
+** #19 [[Garrett Wilson (ice hockey)|Garrett Wilson]] (LW) – did not play in the regular season or playoffs
+** #31 Sean Maguire (G) – did not play in the regular season or playoffs
+** #41 [[Daniel Sprong]] (RW) – did not play in the regular season or playoffs
+
+==Television and radio==
+In Canada, the series was broadcast by [[Sportsnet]] and simulcast by [[CBC Television]] in English,<ref>{{cite press release|url=https://www.sportsnet.ca/hockey/nhl/nhl-announces-full-schedule-stanley-cup-final/| title=NHL announces full schedule for Stanley Cup Final|publisher=[[Sportsnet]]|date=May 26, 2017|access-date=May 26, 2017|location=[[Toronto]]}}</ref> and [[TVA Sports]] in [[French language|French]]. In the U.S., [[NHL on NBC|NBC]] broadcast most of the games; games two and three were aired by [[NBCSN]].<ref>{{cite press release|url=http://nbcsportsgrouppressbox.com/2017/04/06/theres-nothing-like-playoff-hockey-nbc-sports-group-to-present-every-stanley-cup-playoff-game-for-sixth-consecutive-season/| title=NBC Sports Group to present every Stanley Cup playoff game for sixth consecutive year|publisher=[[NBC Sports]]|date=April 6, 2017|access-date=May 11, 2017|location=[[Stamford, Connecticut]]}}</ref> In the U.S., the games were seen by an average of 4.762 million viewers, an increase of 19% over the 2016 finals, and the highest-rated finals without an [[Original Six]] team. Despite competition from the [[71st Tony Awards|2017 Tony Awards]] broadcast and the return of ABC's Sunday-night [[game show]] block, game six achieved a total viewership of 7.086 million.<ref name="deadline-finalratings17">{{cite web|title=Tony Awards Ratings Fall, Stanley Cup Final Decider Rises, Game Shows Return|url=https://deadline.com/2017/06/tony-awards-ratings-2017-stanley-cup-finals-game-6-1202111614/|website=[[Deadline Hollywood]]|date=June 12, 2017 |access-date=June 13, 2017}}</ref>
+
+[[Westwood One (current)|''The NHL on Westwood One'']]/[[NBC Sports Radio]] carried the games throughout the United States on radio and through online streaming,<ref>{{cite press release|title=The NHL returns to Westwood One in 2017|publisher=Westwood One|date=5 December 2016|url=http://westwoodonesports.com/2016/12/the-nhl-returns-to-westwood-one-in-2017/|access-date=6 June 2017}}</ref> while the home calls of Nashville ([[WPRT-FM]]/[[Nashville Predators Radio Network|Predators Radio Network]]) and Pittsburgh ([[WXDX-FM]]/[[Pittsburgh Penguins Radio Network|Penguins Radio Network]]) was available both over the air in their home markets and through online streaming.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{Official website|https://www.nhl.com/stanley-cup-playoffs/2017/penguins-vs-predators-series-o}}
+
+{{s-start}}
+{{succession box | before = [[2016 Stanley Cup Final|Pittsburgh Penguins<br />2016]] | title = [[List of Stanley Cup champions|Pittsburgh Penguins<br />Stanley Cup champions]] | years = 2017 | after = [[2018 Stanley Cup Final|Washington Capitals<br />2018]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Pittsburgh Penguins}}
+{{Nashville Predators}}
+{{2016–17 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on Sportsnet}}
+{{NHL Radio}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:Stanley Cup Finals]]
+[[Category:2017 Stanley Cup| ]]
+[[Category:2016–17 NHL season|Stanley Cup Finals]]
+[[Category:Nashville Predators games]]
+[[Category:Sports competitions in Nashville, Tennessee|Stanley Cup Finals]]
+[[Category:2017 in sports in Tennessee|Stanley Cup Finals]]
+[[Category:Pittsburgh Penguins games]]
+[[Category:2017 in sports in Pennsylvania|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Pittsburgh]]
+[[Category:2017 in Pittsburgh]]
+[[Category:May 2017 sports events in the United States|Stanley Cup Finals]]
+[[Category:June 2017 sports events in the United States|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Tennessee]]
+[[Category:2017 in Nashville, Tennessee]]

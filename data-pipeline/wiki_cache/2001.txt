@@ -1,0 +1,1726 @@
+{{Short description|2001 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 2001
+| image = 2001 Stanley Cup Logo.svg
+| team1 = '''[[2000–01 Colorado Avalanche season|Colorado Avalanche]]'''
+| team1_1 = '''5'''
+| team1_2 = 1
+| team1_3 = '''3'''
+| team1_4 = 2
+| team1_5 = 1
+| team1_6 = '''4'''
+| team1_7 = '''3'''
+| team1_tot = 4
+| team1_short = Colorado
+| team1_coach = [[Bob Hartley]]
+| team1_captain = [[Joe Sakic]]
+| team1_national_anthem = Jake Schroeder
+| team2 = [[2000–01 New Jersey Devils season|New Jersey Devils]]
+| team2_1 = 0
+| team2_2 = '''2'''
+| team2_3 = 1
+| team2_4 = '''3'''
+| team2_5 = '''4'''
+| team2_6 = 0
+| team2_7 = 1
+| team2_tot = 3
+| team2_short = New Jersey
+| team2_coach = [[Larry Robinson]]
+| team2_captain = [[Scott Stevens]]
+| team2_national_anthem = [[Arlette Roxburgh]]
+| dates = May 26 – June 9, 2001
+| series_winner = [[Alex Tanguay]] (4:57, second)
+| hofers = '''Avalanche:'''<br/>[[Rob Blake]] (2014)<br/>[[Ray Bourque]] (2004)<br/>[[Peter Forsberg]] (2014; did not play)<br/>[[Patrick Roy]] (2006)<br/>[[Joe Sakic]] (2012)<br/>'''Devils:'''<br/>[[Martin Brodeur]] (2018)<br/>[[Alexander Mogilny]] (2025)<br/>[[Scott Niedermayer]] (2013)<br/>[[Scott Stevens]] (2007)<br/>'''Coaches:'''<br/>[[Larry Robinson]] (1995, player)<br/>[[Bryan Trottier]] (1997, player)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ESPN|ESPN]] (1–2), [[NHL on ABC|ABC]] (3–7)
+| net_announcers = (CBC) [[Bob Cole (announcer)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Michel Bergeron (ice hockey, born 1946)|Michel Bergeron]]<br/>(ESPN/ABC) [[Gary Thorne]] and [[Bill Clement]]
+| mvp = [[Patrick Roy]] (Avalanche)
+| referees = [[Dan Marouelli]] (1, 3, 6, 7)<br/>[[Paul Devorski]] (1, 4)<br/>[[Bill McCreary (referee)|Bill McCreary]] (2, 4, 6)<br/>[[Rob Shick]] (2, 5)<br/>[[Kerry Fraser]] (3, 5, 7)
+| location1 = [[Denver]]: [[Pepsi Center]] (1, 2, 5, 7)
+| location2 = [[East Rutherford, New Jersey|East Rutherford]]: [[Continental Airlines Arena]] (3, 4, 6)
+}}
+The '''2001 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2000–01 NHL season|2000–01 season]], and the culmination of the [[2001 Stanley Cup playoffs]]. It was contested between the [[Eastern Conference (NHL)|Eastern Conference]] champion and [[2000 Stanley Cup Final|defending Stanley Cup champion]] [[2000–01 New Jersey Devils season|New Jersey Devils]] and the [[Western Conference (NHL)|Western Conference]] champion and [[Presidents' Trophy]]-winning [[2000–01 Colorado Avalanche season|Colorado Avalanche]]. It was Colorado's second appearance in the Final, and the first since the team won the [[1996 Stanley Cup Final|Cup in 1996]]. It was New Jersey's third appearance in the Final and second straight appearance after winning the Cup in the [[2000 Stanley Cup Final|previous year]].
+
+Colorado defeated New Jersey in seven games to win their second Stanley Cup in franchise history. Colorado's [[Patrick Roy]] was awarded the [[Conn Smythe Trophy]] as the MVP of the 2001 playoffs. This was the first Stanley Cup Final since {{scfy|1994}} that would be decided in the maximum seven games. This was also the first and, as of {{scfy|2024}}, most recent Final since {{scfy|1989}} that the number one seeds in each conference met in the Final. This marked the only time in NHL history where two teams who occupied the same market at different times faced off against each other. The Devils were based out of Denver as the [[Colorado Rockies (NHL)|Colorado Rockies]] from 1976 to 1982 and the Avalanche established themselves in the city in 1995 after relocating from [[Quebec City]].
+
+==Paths to the Final==
+{{further|2001 Stanley Cup playoffs}}
+{{See also|2000–01 Colorado Avalanche season|2000–01 New Jersey Devils season}}
+===New Jersey Devils===
+New Jersey finished the regular season with 111 points and an Atlantic Division title, good for the first overall seed in the Eastern Conference. In the playoffs, they defeated the [[Carolina Hurricanes]] 4–2, the [[Toronto Maple Leafs]] 4–3 and the [[Pittsburgh Penguins]] 4–1 to advance to the Final.
+
+===Colorado Avalanche===
+Colorado finished the regular season with 118 points and a Northwest Division title, good for the first overall seed in the Western Conference, and the Presidents' Trophy as the team with the league's best regular season record. In the playoffs, they defeated the [[Vancouver Canucks]] 4–0, the [[Los Angeles Kings]] 4–3 and the [[St. Louis Blues]] 4–1 to advance to the Final.
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+|date1= May 26
+|team1= New Jersey Devils
+|team2= Colorado Avalanche 
+|stadium1= [[Pepsi Center]]
+|won1 = 2
+|score1 = 0–5
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030411.HTM
+}}
+Colorado centre [[Joe Sakic]] scored his 10th and 11th goal of the playoffs in the first and second periods of game one. The Avalanche smothered the New Jersey defense and scored five goals in the game. [[Patrick Roy]] stopped all 25 shots he faced to record his third shutout of the postseason. In the third period, after [[Steven Reinprecht]] scored to make the game 5–0, things culminated in a fistfight between the Avalanche's [[Chris Dingman]] and the Devils' [[Sean O'Donnell]]. O'Donnell also received a minor penalty for instigating the fight and was a given a misconduct. The third period had a total tally of 44 penalty minutes accumulated by both clubs.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | COL
+|align=center | [[Joe Sakic]] (10)
+|align=center | [[Milan Hejduk]] (14) and [[Rob Blake]] (11)
+|align=center | 11:07
+|align=center | 1–0 COL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd''' 
+|align=center | COL
+|align=center | [[Chris Drury]] (9)
+|align=center | [[Dan Hinote]] (2) and [[Ville Nieminen]] (5)
+|align=center | 09:35
+|align=center | 2–0 COL
+|-
+|align=center | COL
+|align=center | Joe Sakic (11)
+|align=center | Rob Blake (12) and [[Martin Skoula]] (5)
+|align=center | 15:06
+|align=center | 3–0 COL
+|-
+| style="text-align:center;" rowspan="2"| '''3rd''' 
+|align=center | COL
+|align=center | Rob Blake (5) – ''pp''
+|align=center | [[Alex Tanguay]] (13) and Joe Sakic (13)
+|align=center | 05:36
+|align=center | 4–0 COL
+|-
+|align=center | COL
+|align=center | [[Steven Reinprecht]] (2)
+|align=center | [[Chris Dingman]] (3) and [[Dave Reid (ice hockey, born 1964)|Dave Reid]] (3)
+|align=center | 17:36
+|align=center | 5–0 COL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Holding
+|align=center | 04:28
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Shjon Podein]]
+|align=center | Elbowing
+|align=center | 13:46
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | COL
+|align=center | [[Greg de Vries]]
+|align=center | Boarding
+|align=center | 07:01
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Alex Tanguay
+|align=center | Tripping
+|align=center | 10:46
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Ville Nieminen
+|align=center | Goaltender interference 
+|align=center | 14:16
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Boarding
+|align=center | 14:16
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="15"| '''3rd'''
+|align=center | COL
+|align=center | [[Dan Hinote]]
+|align=center | Holding
+|align=center | 03:30
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Turner Stevenson]]
+|align=center | Goaltender interference 
+|align=center | 04:45
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Adam Foote]]
+|align=center | Roughing – double minor
+|align=center | 08:04
+|align=center | 4:00
+|-
+|align=center | NJ
+|align=center | [[Petr Sýkora|Petr Sykora]]
+|align=center | Charging
+|align=center | 08:04
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Colin White
+|align=center | Roughing
+|align=center | 08:04
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Ken Daneyko
+|align=center | Roughing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Ken Daneyko
+|align=center | Slashing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Shjon Podein
+|align=center | Tripping
+|align=center | 11:34
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Sean O'Donnell]]
+|align=center | Roughing
+|align=center | 11:34
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Greg de Vries 
+|align=center | Tripping
+|align=center | 13:20
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Chris Dingman 
+|align=center | Fighting – major
+|align=center | 17:36
+|align=center | 5:00
+|-
+|align=center | NJ
+|align=center | Sean O'Donnell
+|align=center | Instigator 
+|align=center | 17:36
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Sean O'Donnell
+|align=center | Fighting – major
+|align=center | 17:36
+|align=center | 5:00
+|-
+|align=center | NJ
+|align=center | Sean O'Donnell
+|align=center | Misconduct 
+|align=center | 17:36
+|align=center | 10:00
+|-
+|align=center | COL
+|align=center | Dan Hinote 
+|align=center | Roughing 
+|align=center | 18:20
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 7 || align=center | 11 || align=center | 7 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 14 || align=center | 7 || align=center | 9 || align=center | 30
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1= May 29
+|team1= New Jersey Devils
+|team2= Colorado Avalanche 
+|stadium1= [[Pepsi Center]]
+|won1 = 1
+|score1= 2–1
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030412.HTM
+}}
+
+The second game began with goals in the first period by Colorado's Sakic and New Jersey's [[Bob Corkum]] and [[Turner Stevenson]]. The 2–1 lead by the Devils held throughout the game as they defeated the Avalanche to even the series at one game apiece.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | COL
+|align=center | [[Joe Sakic]] (12) – ''pp'' 
+|align=center | [[Milan Hejduk]] (15) and [[Rob Blake]] (13)
+|align=center | 05:58
+|align=center | 1–0 COL
+|-
+|align=center | NJ
+|align=center | [[Bob Corkum]] (1)
+|align=center | [[Brian Rafalski]] (9)
+|align=center | 14:29
+|align=center | 1–1 
+|-
+|align=center | NJ
+|align=center | [[Turner Stevenson]] (1)
+|align=center | [[Scott Niedermayer]] (9) and [[Alexander Mogilny]] (10)
+|align=center | 17:20
+|align=center | 2–1 NJ
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | NJ
+|align=center | Scott Niedermayer
+|align=center | Cross-checking
+|align=center | 01:43
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Sergei Brylin]]
+|align=center | Interference 
+|align=center | 04:53
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]]
+|align=center | Slashing
+|align=center | 12:28
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Éric Messier|Eric Messier]]
+|align=center | Roughing
+|align=center | 14:46
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Adam Foote]]
+|align=center | Holding the stick
+|align=center | 15:17
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Slashing
+|align=center | 19:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | COL
+|align=center | [[Greg de Vries]]
+|align=center | Interference 
+|align=center | 09:11
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[John Madden (ice hockey)|John Madden]]
+|align=center | Embellishment 
+|align=center | 09:11
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Martin Škoula|Martin Skoula]]
+|align=center | Holding
+|align=center | 14:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Cross-checking
+|align=center | 01:28
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Ville Nieminen]]
+|align=center | Roughing
+|align=center | 02:58
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Roughing
+|align=center | 02:58
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Alexander Mogilny
+|align=center | High-sticking
+|align=center | 04:26
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 12 || align=center | 6 || align=center | 2 || align=center | 20
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 8 || align=center | 4 || align=center | 8 || align=center | 20
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1= May 31
+|team1= Colorado Avalanche 
+|team2= New Jersey Devils
+|stadium1= [[Continental Airlines Arena]]
+|won1 = 1
+|score1= 3–1
+|recap1 =www.nhl.com/scores/htmlreports/20002001/GS030413.HTM
+}}
+
+Game three was held in New Jersey. Devils centre [[Jason Arnott]] scored an early power-play goal, but in the tenth minute, the Avalanche evened through defenceman [[Martin Škoula|Martin Skoula]]. Neither team scored any goals in the second period. Early in the third, Colorado defenceman [[Ray Bourque]] scored a power-play goal to break the tie. Five minutes later, Colorado winger [[Dan Hinote]] scored the team's third goal, and the Devils did not respond. The win by Colorado marked another road win in the series.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Jason Arnott]] (8) – ''pp'' 
+|align=center | [[Bobby Holík|Bobby Holik]] (9) and [[Patrik Eliáš|Patrik Elias]] (12)
+|align=center | 03:16
+|align=center | 1–0 NJ
+|-
+|align=center | COL
+|align=center | [[Martin Škoula|Martin Skoula]] (1)
+|align=center | [[Shjon Podein]] (3) and [[Éric Messier|Eric Messier]] (2)
+|align=center | 10:38
+|align=center | 1–1 
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | COL
+|align=center | [[Ray Bourque]] (4) – ''pp'' 
+|align=center | [[Joe Sakic]] (10) 
+|align=center | 00:31
+|align=center | 2–1 COL
+|-
+|align=center | COL
+|align=center | [[Dan Hinote]] (2)
+|align=center | [[Ville Nieminen]] (6) and [[Chris Drury]] (5)
+|align=center | 06:28
+|align=center | 3–1 COL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | COL
+|align=center | [[Adam Foote]]
+|align=center | Tripping
+|align=center | 01:29
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Stéphane Yelle|Stephane Yelle]]
+|align=center | Interference 
+|align=center | 06:28
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Sergei Brylin]]
+|align=center | Interference 
+|align=center | 14:29
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Alex Tanguay]]
+|align=center | Hooking
+|align=center | 15:03
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Ville Nieminen 
+|align=center | Boarding
+|align=center | 16:29
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NJ
+|align=center | [[Sean O'Donnell]]
+|align=center | Cross-checking
+|align=center | 02:40
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Sean O'Donnell
+|align=center | Holding
+|align=center | 08:25
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Adam Foote
+|align=center | Tripping
+|align=center | 14:52
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Jason Arnott]]
+|align=center | Boarding
+|align=center | 19:02
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | COL
+|align=center | [[Jon Klemm]]
+|align=center | Holding
+|align=center | 08:22
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 5 || align=center | 11 || align=center | 5 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 8 || align=center | 3 || align=center |11 || align=center | 22
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1= June 2
+|team1= Colorado Avalanche 
+|team2= New Jersey Devils
+|stadium1= [[Continental Airlines Arena]]
+|won1 = 2
+|score1= 2–3
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030413.HTM
+}}
+
+In the first period of game four, Colorado scored an early goal when [[Rob Blake]] shot the puck past Devils goaltender [[Martin Brodeur]]. [[Patrik Eliáš|Patrik Elias]] and New Jersey responded when he scored a short-handed goal to even the score at one goal apiece. Later in the second, Avalanche centre [[Chris Drury]] scored to give the Avalanche a one-goal lead going into the third period. But the third period belonged to the Devils: [[Scott Gomez]] and [[Petr Sýkora|Petr Sykora]] each scored a goal in the third, and Brodeur stopped every puck that went his way. The New Jersey offence overwhelmed the Avalanche defence as they managed 35 shots; Colorado managed only 12 shots. New Jersey again evened the series, this time at two games apiece.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | COL
+|align=center | [[Rob Blake]] (6)
+|align=center | [[Alex Tanguay]] (14)
+|align=center | 03:58
+|align=center | 1–0 COL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd''' 
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]] (8) – ''sh''
+|align=center | [[Petr Sýkora|Petr Sykora]] (11)
+|align=center | 03:42
+|align=center | 1–1
+|-
+|align=center | COL
+|align=center | [[Chris Drury]] (10)
+|align=center | [[Chris Dingman]] (4) and [[Dan Hinote]] (3)
+|align=center | 13:54
+|align=center | 2–1 COL
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NJ
+|align=center | [[Scott Gomez]] (5)
+|align=center | [[Jay Pandolfo]] (4) and [[Bob Corkum]] (2)
+|align=center | 08:09
+|align=center | 2–2
+|-
+|align=center | NJ
+|align=center | Petr Sykora (9)
+|align=center | Patrik Elias (4) and [[Bobby Holík|Bobby Holik]] (10)
+|align=center | 17:23
+|align=center | 3–2 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | NJ
+|align=center | [[Turner Stevenson]]
+|align=center | Interference 
+|align=center | 01:36
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Scott Gomez
+|align=center | Goaltender interference 
+|align=center | 04:42
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Stéphane Yelle|Stephane Yelle]]
+|align=center | Embellishment 
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Petr Sykora
+|align=center | Hooking
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Hooking
+|align=center | 07:42
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Joe Sakic]]
+|align=center | Hooking
+|align=center | 08:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Roughing
+|align=center | 02:18
+|align=center | 2:00
+|-
+|align=center | COL 
+|align=center | [[Martin Škoula|Martin Skoula]]
+|align=center | Interference 
+|align=center | 08:25
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Turner Stevenson
+|align=center | Tripping
+|align=center | 14:52
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 4 || align=center | 4 || align=center | 4 || align=center | 12
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 8 || align=center | 11 || align=center |16 || align=center | 35
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1= June 4
+|team1= New Jersey Devils
+|team2= Colorado Avalanche 
+|stadium1= [[Pepsi Center]]
+|won1 = 1
+|score1= 4–1
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030415.HTM
+}}
+
+In Colorado for game five, Devils forward Patrik Elias started the scoring for the Devils as they jumped out to an early one-goal lead. Exactly seven minutes later, Colorado winger [[Alex Tanguay]] tied the game on the power-play. However, in the late minutes of the first period, New Jersey forward [[Alexander Mogilny]] scored the game's eventual winner. In the second period, Devils forward [[Sergei Brylin]] scored a power-play goal to give the Devils a two-goal lead, and in the third period, centre [[John Madden (ice hockey)|John Madden]] scored a fourth goal for insurance. The Devils won and reclaimed the home-ice advantage; they eventually won 4–1. They forced the Avalanche to try to win on the road to force a Game 7 in Denver.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]] (9)
+|align=center | [[Petr Sýkora|Petr Sykora]] (12) and [[Brian Rafalski]] (10)
+|align=center | 03:09
+|align=center | 1–0 NJ
+|-
+|align=center | COL
+|align=center | [[Alex Tanguay]] (3) – ''pp''
+|align=center | [[Joe Sakic]] (11) and [[Ray Bourque]] (6)
+|align=center | 10:09
+|align=center | 1–1
+|-
+|align=center | NJ
+|align=center | [[Alexander Mogilny]] (5)
+|align=center | [[Scott Gomez]] (11) and [[Brian Rafalski]] (11)
+|align=center | 18:47
+|align=center | 2–1 NJ
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NJ
+|align=center | [[Sergei Brylin]] (3)
+|align=center | Alexander Mogilny (11) and [[Scott Niedermayer]] (6)
+|align=center | 04:39
+|align=center | 3–1 NJ
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | [[John Madden (ice hockey)|John Madden]] (4)
+|align=center | [[Turner Stevenson]] (3) and [[Sergei Brylin]] (4)
+|align=center | 18:05
+|align=center | 4–1 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Tripping 
+|align=center | 08:56
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bench (served by Scott Gomez)
+|align=center | Too many men on the ice
+|align=center | 19:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | COL
+|align=center | [[Rob Blake]]
+|align=center | Interference
+|align=center | 03:53
+|align=center | 2:00
+|-
+|align=center | NJ 
+|align=center | Scott Niedermayer
+|align=center | Interference 
+|align=center | 16:33
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | COL
+|align=center | [[Adam Foote]]
+|align=center | Roughing
+|align=center | 10:11
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Roughing
+|align=center | 10:11
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Jim McKenzie (ice hockey)|Jim McKenzie]]
+|align=center | Holding
+|align=center | 12:54
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Dan Hinote]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Ken Sutton]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 6 || align=center | 10 || align=center | 10 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 6 || align=center | 9 || align=center |8 || align=center | 23
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1= June 7
+|team1= Colorado Avalanche 
+|team2= New Jersey Devils
+|stadium1= [[Continental Airlines Arena]]
+|won1 = 1
+|score1= 4–0
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030416.HTM
+}}
+
+Game six paralleled game one for the Avalanche. The Devils tested the Avalanche early with a barrage of shots on goaltender [[Patrick Roy]]. After stopping them all, and with two minutes remaining in the first period, Colorado defenceman [[Adam Foote]] scored an unassisted goal to give the Avalanche the lead on just their fourth shot. Early in the second period, Avalanche winger [[Ville Nieminen]] scored a power-play goal, and late in the second period, Drury scored his 11th goal of the playoffs to give the Avalanche a commanding lead entering the third period. Alex Tanguay scored the only goal of the third period and the Avalanche won to force a deciding game seven in Denver. Late in the third period, tensions boiled over and fights broke out. Despite New Jersey outshooting Colorado and Colorado's high number of penalty minutes, the Devils were unable to put anything past Roy, who made 24 saves to record his fourth shutout of the postseason, and his second shutout of the finals.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | COL
+|align=center | [[Adam Foote]] (3)
+|align=center | ''Unassisted''
+|align=center | 18:02
+|align=center | 1–0 COL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | COL
+|align=center | [[Ville Nieminen]] (4) – ''pp'' 
+|align=center | [[Martin Škoula|Martin Skoula]] (11) and Adam Foote (2)
+|align=center | 02:26
+|align=center | 2–0 COL
+|-
+|align=center | COL
+|align=center | [[Chris Drury]] (11)
+|align=center | [[Steven Reinprecht]] (3) and Adam Foote (3)
+|align=center | 18:27
+|align=center | 3–0 COL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | COL
+|align=center | [[Alex Tanguay]] (4)
+|align=center | [[Dave Reid (ice hockey, born 1964)|Dave Reid]] (4) and [[Joe Sakic]] (12)
+|align=center | 13:46
+|align=center | 4–0 COL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | COL
+|align=center | Dave Reid
+|align=center | Holding the stick – Obstruction
+|align=center | 05:22
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Adam Foote
+|align=center | Hooking
+|align=center | 07:20
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Alexander Mogilny]]
+|align=center | Hooking
+|align=center | 09:12
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Martin Skoula
+|align=center | Hooking
+|align=center | 11:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Roughing
+|align=center | 00:29
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Bench (served by Ville Nieminen)
+|align=center | Too many men on the ice
+|align=center | 08:35
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Niedermayer]]
+|align=center | Holding
+|align=center | 11:10
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Ray Bourque]]
+|align=center | Hooking – Obstruction 
+|align=center | 13:01
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''3rd'''
+|align=center | COL
+|align=center | [[Shjon Podein]]
+|align=center | Interference 
+|align=center | 03:24
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Scott Niedermayer
+|align=center | Slashing
+|align=center | 08:26
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Slashing
+|align=center | 17:27
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Dan Hinote]]
+|align=center | Fighting – major
+|align=center | 18:19
+|align=center | 5:00
+|-
+|align=center | NJ
+|align=center | [[Ken Sutton]]
+|align=center | Roughing
+|align=center | 18:19
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Ken Sutton
+|align=center | Fighting – major
+|align=center | 18:19
+|align=center | 5:00
+|-
+|align=center | NJ
+|align=center | Colin White
+|align=center | High-sticking
+|align=center | 19:43
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Chris Dingman]]
+|align=center | Fighting – major
+|align=center | 19:48
+|align=center | 5:00
+|-
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Fighting – major
+|align=center | 19:48
+|align=center | 5:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 5 || align=center | 7 || align=center | 6 || align=center | 18
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 12 || align=center | 7 || align=center |5 || align=center | 24
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|date1= June 9
+|team1= New Jersey Devils
+|team2= Colorado Avalanche
+|stadium1= [[Pepsi Center]]
+|won1 = 2
+|score1= 1–3
+|recap1 = www.nhl.com/scores/htmlreports/20002001/GS030416.HTM
+}}
+
+Around eight minutes into game seven, Alex Tanguay of the Avalanche scored the period's only goal. Colorado then scored two consecutive goals in the second period: another by Tanguay, his sixth of the playoffs, and a power-play goal scored by Joe Sakic, his 13th of the playoffs. Shortly after Sakic's goal, Petr Sykora and the Devils sprang into life when he scored a power-play goal. It left the Devils with only two goals to overcome, but Roy and the Avalanche would prove too much for the Devils in the third period as Colorado defensively shut the door on New Jersey to win the game and the series.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | COL
+|align=center | [[Alex Tanguay]] (5) 
+|align=center | [[Dan Hinote]] (4)
+|align=center | 07:58
+|align=center | 1–0 COL
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | COL
+|align=center | Alex Tanguay (6) 
+|align=center | [[Joe Sakic]] (13) and [[Adam Foote]] (4)
+|align=center | 04:57
+|align=center | 2–0 COL
+|-
+|align=center | COL
+|align=center | Joe Sakic (13) – ''pp'' 
+|align=center | [[Milan Hejduk]] (16) and Alex Tanguay (15)
+|align=center | 06:16
+|align=center | 3–0 COL
+|-
+|align=center | NJ
+|align=center | [[Petr Sýkora|Petr Sykora]] (10) – ''pp'' 
+|align=center | [[Patrik Eliáš|Patrik Elias]] (14) and [[Jason Arnott]] (15)
+|align=center | 09:33
+|align=center | 3–1 COL
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Sergei Brylin]]
+|align=center | Boarding
+|align=center | 03:20
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Gomez]]
+|align=center | Holding
+|align=center | 16:06
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NJ
+|align=center | [[Sean O'Donnell]]
+|align=center | High-sticking
+|align=center | 05:51
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | [[Éric Messier|Eric Messier]]
+|align=center | High-sticking
+|align=center | 09:22
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Eric Messier
+|align=center | Holding
+|align=center | 12:23
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Jason Arnott
+|align=center | Tripping
+|align=center | 12:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | COL
+|align=center | [[Rob Blake]]
+|align=center | Interference
+|align=center | 04:59
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | High-sticking
+|align=center | 10:32
+|align=center | 2:00
+|-
+|align=center | COL
+|align=center | Adam Foote
+|align=center | Holding the stick
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Tripping
+|align=center | 14:42
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 9 || align=center | 12 || align=center | 5 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Colorado}} || align=center | 10 || align=center | 7 || align=center | 5 || align=center | 22
+|}
+With the win, the Avalanche became the fifth team to win the Presidents' Trophy and Stanley Cup in the same season since the former trophy's introduction in [[1985–86 NHL season|1985–86]]. To date, only three more Presidents' Trophy winners have gone on to win the Stanley Cup. They are the [[Detroit Red Wings]] in both the [[2001–02 Detroit Red Wings season|2001–02]] and [[2007–08 Detroit Red Wings season|2007–08]] seasons, and the [[Chicago Blackhawks]] in the [[2012–13 Chicago Blackhawks season|2012–13]] season.
+
+The Devils' series loss marked the second straight season that the defending Stanley Cup champion lost in the Final, as the Devils themselves defeated the [[1999 Stanley Cup Final|1999 Stanley Cup]] champion [[Dallas Stars]] in the [[2000 Stanley Cup Final]]. The Devils would appear in the Final again in [[2003 Stanley Cup Final|2003]], when they defeated the [[Mighty Ducks of Anaheim]] in seven games. 
+
+This was the first and only Stanley Cup championship for defenceman [[Ray Bourque]], who retired shortly after the series ended. His number 77 would be retired by both the Avalanche and [[Boston Bruins]] (the team he played for from 1979 to 2000).<ref>{{Cite web |title=ESPN.com - NHL - Avs -- and Bruins -- to retire Bourque's No. 77 |url=https://www.espn.com/nhl/news/2001/0625/1218618.html |access-date=2025-10-18 |website=www.espn.com}}</ref> To date, he is one of only nine NHL players to have his number retired by more than one team.<ref>{{Cite web |last=Whitaker |first=Mike |date=2024-09-27 |title=9 NHL legends who had their jersey number retired by two teams ft. Gretzky, Messier and more |url=https://www.sportskeeda.com/us/nhl/9-nhl-legends-jersey-number-retired-two-teams-ft-gretzky-messier |access-date=2025-10-18 |website=www.sportskeeda.com}}</ref>
+
+This was the last major professional sports championship won by a Denver-based team until 2016, when the [[Denver Broncos]] won [[Super Bowl 50]] in the [[2015 NFL season]]. This would also be the Avalanche's last Stanley Cup title and Final appearance until [[2022 Stanley Cup Final|2022]], when they defeated the two-time defending Stanley Cup champion [[Tampa Bay Lightning]] in six games.
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Colorado Avalanche===
+[[File:Joe sakic.jpg|thumb|[[Joe Sakic]] captained the Avalanche to the Final for the first time since 1996.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''1'''
+| {{flagicon|SUI}}
+! scope="row" style="text-align:left;"|{{sortname|David|Aebischer}}
+| G
+| L
+| [[1997 NHL Entry Draft|1997]]
+| style="text-align:left;"|[[Fribourg, Switzerland]]
+| first {{small|(did not play)}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Blake}}
+| D
+| R
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Simcoe, Ontario]]
+| second {{small|({{scfy|1993}})}}
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ray|Bourque}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1999|end}}
+| style="text-align:left;"|[[Saint-Laurent, Quebec]]
+| third {{small|({{scfy|1988}}, {{scfy|1990}})}}
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|de Vries}}
+| D
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Sundridge, Ontario]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Dingman}}
+| LW
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''37'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Drury}}
+| C/RW
+| R
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Trumbull, Connecticut]]
+| first
+|-
+| '''52'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Foote}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|('''{{scfy|1996}}''')}}
+|-
+| '''21'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Forsberg}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C/LW
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| second {{small|('''{{scfy|1996}}'''; did not play)}}
+|-
+| '''23'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Milan|Hejduk}}
+| RW
+| R
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Ústí nad Labem|Ústí nad Labem, Czechoslovakia]]
+| first
+|-
+| '''13'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Dan|Hinote}}
+| RW/C
+| R
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[Leesburg, Florida]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Klemm}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| second {{small|('''{{scfy|1996}}''')}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Messier|Éric Messier}}
+| LW
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Drummondville|Drummondville, Quebec]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryan|Muir}}
+| D
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first {{small|(did not play)}}
+|-
+| '''39'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Ville|Nieminen}}
+| LW
+| L
+| [[1997 NHL Entry Draft|1997]]
+| style="text-align:left;"|[[Tampere|Tampere, Finland]]
+| first
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Parker|dab=ice hockey}}
+| RW
+| R
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Hanford, California]]
+| first {{small|(did not play)}}
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shjon|Podein}}
+| LW
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Rochester, Minnesota]]
+| second {{small|({{scfy|1997}})}}
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nolan|Pratt}}
+| D
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Fort McMurray|Fort McMurray, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Reid|dab=ice hockey, born 1964}}
+| LW
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Reinprecht}}
+| C/W
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Roy}}
+| G
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| fifth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1993}}''', '''{{scfy|1996}}''')}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Sakic}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| second {{small|('''{{scfy|1996}}''')}}
+|-
+| '''41'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Skoula|Martin Škoula}}
+| D
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Litoměřice|Litoměřice, Czechoslovakia]]
+| first
+|-
+| '''40'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Tanguay}}
+| LW
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Sainte-Justine, Quebec]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Yelle|Stéphane Yelle}}
+| C
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| second {{small|('''{{scfy|1996}}''')}}
+|}
+
+===New Jersey Devils===
+[[File:Stanley Cup Bush Devils Stevens crop.jpg|thumb|[[Scott Stevens]] (pictured in 2003) captained the Devils to the Final for the second consecutive season.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Arnott}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Collingwood, Ontario]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Brodeur}}
+| G
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''18'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Brylin}}
+| LW
+| L
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Corkum}}
+| C
+| R
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Salisbury, Massachusetts]]
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Daneyko}}
+| D
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''26'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Patrik|Elias|Patrik Eliáš}}
+| LW
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Třebíč|Třebíč, Czechoslovakia]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Gomez}}
+| C
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Anchorage, Alaska]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''16'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Holik|Bobby Holík}}
+| LW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Jihlava|Jihlava, Czechoslovakia]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Madden|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|McKay}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|McKenzie|dab=ice hockey}}
+| LW
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Gull Lake, Saskatchewan]]
+| first {{small|(did not play)}}
+|-
+| '''89'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Mogilny}}
+| RW
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Khabarovsk|Khabarovsk, Soviet Union]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''12'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Nemchinov}}
+| C
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| third {{small|('''{{scfy|1994}}''', '''{{scfy|2000}}'''; did not play)}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Niedermayer}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sean|O'Donnell}}
+| D
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Pandolfo}}
+| LW
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Winchester, Massachusetts]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Rafalski}}
+| D
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Dearborn, Michigan]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Stevens}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| third {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Turner|Stevenson}}
+| RW
+| R
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Prince George, British Columbia]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Sutton}}
+| D
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''17'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Sykora|Petr Sýkora}}
+| RW
+| L
+| [[1995 NHL Entry Draft|1995]]
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| second {{small|('''{{scfy|2000}}''')}}
+|-
+| '''34'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|Vanbiesbrouck}}
+| G
+| L
+| {{NHL Year|2000}} 
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| second {{small|({{scfy|1996}}; did not play)}}
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|White|dab=ice hockey, born 1977}}
+| D
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[New Glasgow, Nova Scotia]]
+| second {{small|('''{{scfy|2000}}''')}}
+|}
+
+==Stanley Cup engraving==
+The 2001 Stanley Cup was presented to Avalanche captain Joe Sakic by [[NHL Commissioner]] [[Gary Bettman]] following the Avalanche's 3–1 win over the Devils in game seven. Although the normal tradition dictates that the captain skates with the cup first, in a gesture of class by Sakic, he kept the cup under his waist and handed it to Bourque, who skated with it first, in what is widely considered to be one of the most emotional moments in NHL history.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=mRMQseHZD-k |title=Memories: Bourque wins the Stanley Cup after 22 years |date=2017-06-12 |last=NHL |access-date=2025-08-25 |via=YouTube}}</ref>
+
+The following Avalanche players and staff had their names engraved on the Stanley Cup:
+
+'''2000–01 Colorado Avalanche'''
+{{Stanley Cup champion
+|centres=
+*19 [[Joe Sakic]] (Captain)
+*21 [[Peter Forsberg]]* (A)†
+*26 [[Stéphane Yelle|Stephane Yelle]]
+*28 [[Steven Reinprecht]]*
+*37 [[Chris Drury]]*
+|wingers=
+*11 [[Chris Dingman]]
+*13 [[Dan Hinote]]*
+*14 [[Dave Reid (ice hockey, born 1964)|Dave Reid]]
+*23 [[Milan Hejduk]]
+*25 [[Shjon Podein]]
+*27 [[Scott Parker (ice hockey)|Scott Parker]] †
+*29 [[Éric Messier|Eric Messier]]
+*39 [[Ville Nieminen]]
+*40 [[Alex Tanguay]]
+|defence=
+*2 [[Bryan Muir]] ‡
+*4 [[Rob Blake]]
+*7 [[Greg de Vries]]
+*24 [[Jon Klemm]]
+*41 [[Martin Škoula|Martin Skoula]]
+*44 [[Nolan Pratt]] †
+*52 [[Adam Foote]] (A)
+*77 [[Ray Bourque]] (A)
+|goaltenders=
+*1 [[David Aebischer]]
+*33 [[Patrick Roy]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.{{efn|name=Forsberginjury|#21 [[Peter Forsberg]] (C/LW) missed the rest of the season due to a ruptured spleen that occurred in the second round of the playoffs. He underwent a splenectomy on May 10, 2001.<ref>{{cite news|last=Elliott|first=Helene|date=May 11, 2001|title=Colorado's Forsberg Has Speen Removed|url=https://www.latimes.com/archives/la-xpm-2001-may-11-sp-62231-story.html|publisher=Los Angeles Times|access-date=July 18, 2025}}</ref>}}
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*[[E. Stanley Kroenke]] (Owner/Governor/Chairman), [[Pierre Lacroix (ice hockey, born 1948)|Pierre Lacroix]] (President/General Manager), [[Bob Hartley]] (Head Coach)
+*[[Jacques Cloutier]] (Goaltending Coach), [[Bryan Trottier]] (Asst. Coach), Paul Fixter (Video Coach) 
+*[[François Giguère|Francois Giguere]] (Vice President of Hockey Operations), Brian MacDonald (Asst. General Manager), [[Michel Goulet]] (Vice President of Player Personnel)
+*[[Jean Martineau (ice hockey)|Jean Martineau]] (Vice President-Communications & Team Service), Pat Karns (Athletic Therapist), Matthew Sokolowski (Asst. Athletic Therapist)
+*Wayne Flemming (Equipment Manager), Mark Miller (Equipment Manager), Dave Randolph (Asst. Equipment Manager)
+*Paul Goldberg (Strength-Conditioning Coach), Gregorio Pradera (Massage Therapist), Brad Smith (Pro Scout)
+*Jim Hammett (Chief Scout), Garth Joy (Scout), Steve Lyons (Scout),
+*[[Joni Lehto]] (Scout), [[Orval Tessier]] (Scout), [[Charlotte Grahame]] (Director of Hockey Operations)}}
+===Engraving notes===
+* #2 [[Bryan Muir]] (D) – played in 8 regular season games (previously ten games for the [[Tampa Bay Lightning]]) and 3 playoff games. As he did not automatically qualify,{{efn|name=qualify}} Colorado successfully requested an exemption to engrave his name.
+* Six players also won the Stanley Cup with Colorado in 1996: Joe Sakic, Peter Forsberg, Jon Klemm, Stephane Yelle, Patrick Roy and Adam Foote.
+* [[David Aebischer]] was the first player born and trained in Switzerland to win the Stanley Cup.
+
+==Broadcasting==
+In Canada, the series was televised on [[Hockey Night in Canada|CBC]]. In the United States, [[NHL on ESPN|ESPN]] aired the first two games while [[NHL on ABC|ABC]] broadcast the rest of the series.
+
+==See also==
+* [[2000–01 NHL season]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+*{{cite book |last=Podnieks|first=Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+==External links==
+*{{cite web | title=CNNSI.com – 2001 NHL playoffs | url=http://sportsillustrated.cnn.com/hockey/nhl/2001/playoffs | archive-url=https://web.archive.org/web/20010413174109/http://sportsillustrated.cnn.com/hockey/nhl/2001/playoffs/ | url-status=dead | archive-date=April 13, 2001 | access-date=2008-04-27}}
+
+{{s-start}}
+{{succession box | before = [[2000 Stanley Cup Final|New Jersey Devils<br>2000]] | title = [[List of Stanley Cup champions|Colorado Avalanche<br>Stanley Cup champions]] | years = 2001 | after = [[2002 Stanley Cup Final|Detroit Red Wings<br>2002]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Colorado Avalanche}}
+{{New Jersey Devils}}
+{{2000–01 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on ABC}}
+{{ESPN National Hockey Night}}
+{{NHL Radio}}
+}}
+
+[[Category:2001 Stanley Cup| ]]
+[[Category:2000–01 NHL season|Stanley Cup]]
+[[Category:Colorado Avalanche games]]
+[[Category:New Jersey Devils games|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:May 2001 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2001 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Denver]]
+[[Category:2000s in Denver]]
+[[Category:21st century in East Rutherford, New Jersey]]
+[[Category:Ice hockey competitions in New Jersey]]

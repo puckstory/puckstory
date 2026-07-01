@@ -1,0 +1,1432 @@
+{{short description|2015 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=June 2015}}
+{{Infobox Stanley Cup Final
+|year = 2015
+|image = 2015StanleyCupFinals.png
+|team1 = '''[[2014–15 Chicago Blackhawks season|Chicago Blackhawks]]'''
+|team1_1 = '''2'''
+|team1_2 = 3
+|team1_3 = 2
+|team1_4 = '''2'''
+|team1_5 = '''2'''
+|team1_6 = '''2'''
+|team1_tot= 4
+|team1_short = Chicago
+|team1_coach =[[Joel Quenneville]]
+|team1_captain = [[Jonathan Toews]]
+|team1_national_anthem =[[Jim Cornelison]]
+|team2 = [[2014–15 Tampa Bay Lightning season|Tampa Bay Lightning]]
+|team2_1 = 1
+|team2_2 = '''4'''
+|team2_3 = '''3'''
+|team2_4 = 1
+|team2_5 = 1
+|team2_6 = 0
+|team2_tot= 2
+|team2_short = Tampa Bay
+|team2_coach = [[Jon Cooper (ice hockey)|Jon Cooper]]
+|team2_captain = [[Steven Stamkos]]
+|team2_national_anthem = Sonya Bryson-Kirksey
+|referees = [[Wes McCauley]] (1, 3, 5)<br>[[Kevin Pollock]] (1, 3, 5)<br>[[Kelly Sutherland]] (2, 4, 6)<br>[[Dan O'Halloran]] (2, 4, 6)
+|dates = June 3–15, 2015
+|location1 = [[Chicago]]: [[United Center]] (3, 4, 6)
+|location2 = [[Tampa, Florida|Tampa]]: [[Amalie Arena]] (1, 2, 5)
+|mvp = [[Duncan Keith]]<ref>{{cite web|url= http://www.chicagotribune.com/sports/hockey/blackhawks/ct-blackhawks-lightning-spt-0616-20150615-story.html|title= Blackhawks seize their third Stanley Cup in six seasons|date=June 16, 2015|work=Chicago Tribune|access-date=June 16, 2015}}</ref> (Blackhawks)
+|series_winner = [[Duncan Keith]] (17:13, second)
+|hofers = '''Blackhawks:'''<br/>[[Marián Hossa|Marian Hossa]] (2020)<br/>[[Duncan Keith]] (2025)
+|networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1–2, 5–6), [[NHL on NBC|NBCSN]] (3–4)
+|net_announcers = (CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br/>(TVA) Felix Seguin and [[Patrick Lalime]]<ref>{{cite web | language=fr | url=http://www.tvasports.ca/2014/01/09/patrick-lalime-analyste-des-matchs-du-ch | title=Patrick Lalime, Analyste des Matchs Du Ch | publisher=TVA Sports | date=January 9, 2014 | access-date=May 6, 2015}}</ref><br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]] (1, 3–6), [[Mike Milbury]] (2), and [[Pierre McGuire]]<ref name=NBCSports20150401/><br/>(NHL International) [[Dave Strader]] and [[Kevin Weekes]]
+}}
+The '''2015 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2014–15 NHL season|2014–15 season]], and the culmination of the [[2015 Stanley Cup playoffs]]. The [[Western Conference (NHL)|Western Conference]] champion [[2014–15 Chicago Blackhawks season|Chicago Blackhawks]] defeated the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2014–15 Tampa Bay Lightning season|Tampa Bay Lightning]] four games to two to win their sixth championship in franchise history, and their third title in six seasons.
+
+The Lightning, as the club with the better regular-season record, held home-ice advantage in the series. The [[Best-of-seven playoff|best-of-seven series]] was played in a 2–2–1–1–1 format, with Tampa Bay hosting game 1, 2, and 5; and Chicago hosting games 3, 4, and 6. Amalie Arena in Tampa would have hosted game 7 had it been necessary. The series started June 3 and ended on June 15.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=769113|title=Stanley Cup Final will open Wednesday, June 3. |publisher=National Hockey League|date=May 28, 2015|access-date=May 29, 2015}}</ref><ref>{{cite web|url= https://www.espn.com/blog/nhl/post/_/id/38471/third-cup-proves-blackhawks-are-among-the-eras-best|title= Another Cup proves Blackhawks are among the era's best|date=June 16, 2015|publisher=ESPN|access-date=June 16, 2015}}</ref>
+
+[[Tyler Johnson (ice hockey)|Tyler Johnson]] and [[Patrick Kane]] led the Stanley Cup playoffs in points scored with 23 points each.<ref>{{cite web|url= http://www.nhl.com/stats/player?sort=points&viewName=summary&fetchKey=20153ALLSASAll|title= NHL Statistics|publisher=NHL|access-date=June 17, 2015}}</ref>
+
+==Paths to the Finals==
+
+===Tampa Bay Lightning===
+{{Main|2014–15 Tampa Bay Lightning season}}
+[[File:Tampa Bay Lightning Game 6 Watch Party (18219067034) (cropped).jpg|thumb|Amalie Arena before game 6]]
+This was Tampa Bay's second Final appearance after winning the Cup in {{scfy|2004}}. Since their win in 2004, the Lightning had lost in the conference finals in [[2011 Stanley Cup playoffs|2011]] in seven games to the [[Boston Bruins]], one win short from reaching the Stanley Cup Final. The Lightning were eliminated in the first round in [[2006 Stanley Cup playoffs|2006]], [[2007 Stanley Cup playoffs|2007]], and [[2014 Stanley Cup playoffs|2014]].
+
+The Lightning entered the 2014–15 season with major re-signings during the offseason including centre [[Tyler Johnson (ice hockey)|Tyler Johnson]], wingers [[Ryan Callahan]] and [[Ondřej Palát|Ondrej Palat]], and goalie [[Ben Bishop]]. In free agency, Tampa Bay picked up centre [[Brian Boyle]] and defenseman [[Anton Strålman|Anton Stralman]] from the [[2014–15 New York Rangers season|New York Rangers]] and [[Brenden Morrow]] from the [[2014–15 St. Louis Blues season|St. Louis Blues]]. The team made two trades to bolster the defense, picking up [[Jason Garrison]] at the 2014 draft and [[Braydon Coburn]] just before the 2015 trade deadline.
+
+Tampa Bay compiled 108 points (50–24–8) during the regular season to finish in second place in the Atlantic Division. Centre and team captain [[Steven Stamkos]] finished second in goal-scoring during the regular season with 43 goals only behind [[Washington Capitals]] winger and captain [[Alexander Ovechkin]], who recorded a league leading 53 goals.<ref>{{cite web | url=http://www.sportingnews.com/nhl/story/2015-05-24/stanley-cup-playoffs-2015-eastern-conference-finals-game-5-results-new-york-rangers-tampa-bay-lightning | title=Eastern Conference finals: Return of Steven Stamkos has Lightning confident, Rangers on edge | work=Sporting News | first=Brandon | last=Schlager | date=May 24, 2015 | access-date=May 30, 2015}}</ref> Early in the season, Head Coach [[Jon Cooper (ice hockey)|Jon Cooper]] nicknamed the team's second line of Johnson, Palat and winger [[Nikita Kucherov]] as the "Triplets" because they were so in sync;<ref>{{cite web | url=https://www.espn.com/blog/nhl/post/_/id/37343/tampa-bays-triplets-line-a-rare-dynamic-unit-in-todays-playoffs | title=Tampa Bay's Triplets Line a rare dynamic unit in today's playoffs | publisher=ESPN | first=Joe | last=McDonald | date=May 18, 2015 | access-date=May 30, 2015}}</ref> at the mid-season in January, the three players led the League in [[Plus–minus (sports)|plus-minus]].<ref>{{cite web | url=http://thehockeywriters.com/tampa-bay-lightning-offense-aces-mid-season-report/ | title=Tampa Bay Lightning Offense Aces Mid-Season Report | work=The Hockey Writers | first=Brian |last=Sklar | date=January 16, 2015 | access-date=May 30, 2015}}</ref>
+
+In the playoffs, the Lightning eliminated the [[2014–15 Detroit Red Wings season|Detroit Red Wings]] in the first round in seven games, the [[2014–15 Montreal Canadiens season|Montreal Canadiens]] in the second round in six games, and the [[Presidents' Trophy]]-winning New York Rangers in the Eastern Conference finals in seven games. They became the first post-[[1967 NHL expansion|1967 expansion team]] to beat three [[Original Six]] teams on the way to the Stanley Cup Final and the only team in NHL history to face an Original Six team at every stage of the playoffs.
+
+===Chicago Blackhawks===
+{{Main|2014–15 Chicago Blackhawks season}}
+[[File:Chicago Pride (19147721536).jpg|thumb|[[Lions (Kemeys)|The lion sculptures]] outside of the [[Art Institute of Chicago]] decorated for the Blackhawks' Stanley Cup run]]
+This series marked Chicago's third Final appearance in six seasons; having won the Cup in both {{scfy|2010}} and {{scfy|2013}}. This was the team's 13th appearance overall, and they were seeking their sixth overall Cup championship.
+
+The Blackhawks entered the 2014 offseason after being eliminated in the Western Conference finals in seven games by the eventual {{scfy|2014}} Cup champion [[2013–14 Los Angeles Kings season|Los Angeles Kings]]. On July 1 they signed free agent centre [[Brad Richards]] who had won the Stanley Cup and Conn Smythe in 2004 with Tampa.<ref>{{cite web | url=http://blackhawks.nhl.com/club/news.htm?id=724979 | title=Blackhawks agree to terms with Richards | work=Chicago Blackhawks | publisher=National Hockey League | date=July 1, 2014 | access-date=May 31, 2015}}</ref><ref>{{cite web | url=http://blackhawks.nhl.com/club/news.htm?id=732965 | title=Blackhawks agree to terms with Carcillo | work=Chicago Blackhawks | publisher=National Hockey League | date=October 4, 2014 | access-date=May 31, 2015}}</ref> Approaching the [[NHL trade deadline]] in early March, Chicago traded for defenseman [[Kimmo Timonen]] from the [[2014–15 Philadelphia Flyers season|Philadelphia Flyers]],<ref>{{cite web|url=http://blackhawks.nhl.com/club/news.htm?id=755462|title=Blackhawks acquire Timonen from Flyers|date=February 27, 2015|publisher=National Hockey League|access-date=February 27, 2015}}</ref> centre [[Antoine Vermette]] from the [[2014–15 Arizona Coyotes season|Arizona Coyotes]],<ref>{{cite web|url=http://blackhawks.nhl.com/club/news.htm?id=755704|title=Blackhawks acquire Antoine Vermette from Coyotes|date=February 28, 2015|publisher=National Hockey League|access-date=February 28, 2015}}</ref> and centre [[Andrew Desjardins]] from the [[2014–15 San Jose Sharks season|San Jose Sharks]].<ref>{{cite web|url=http://blackhawks.nhl.com/club/news.htm?id=756073|title=Blackhawks acquire Andrew Desjardins from San Jose Sharks|date=March 2, 2015|publisher=National Hockey League|access-date=March 2, 2015}}</ref>
+
+Chicago finished in third place in the Central Division, earning 102 points (48–28–6). Goalie [[Corey Crawford]] tied the Canadiens' [[Carey Price]] as the [[William M. Jennings Trophy]] recipient for allowing a league-low 189 goals during the regular season.
+
+In the playoffs, the Blackhawks eliminated the [[2014–15 Nashville Predators season|Nashville Predators]] in the first round in six games, swept the [[2014–15 Minnesota Wild season|Minnesota Wild]] in the second round, and defeated the top seeded and Presidents' Trophy runner-up [[2014–15 Anaheim Ducks season|Anaheim Ducks]] in the Western Conference finals in seven games. They became the only team in NHL history to face a post-1990 expansion team at every stage of the playoffs.
+
+==Game summaries==
+:'' Number in parentheses represents the player's total goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game 1===
+{{NHLPlayoffs
+|date1= June 3
+|team1= Chicago Blackhawks
+|team2= Tampa Bay Lightning
+|stadium1= [[Amalie Arena]]
+|won1 = 1
+|score1= 2–1
+|recap1 = www.nhl.com/gamecenter/chi-vs-tbl/2015/06/03/2014030411
+}}
+[[File:Teuvo_Terevainen_2015rally_(cropped).jpg|thumb|right|upright=.8|[[Teuvo Teräväinen|Teuvo Teravainen]] scored two-points in game 1, assisting on the game-winning goal.]]
+In game 1, Tampa Bay struck first with a deflected goal by [[Alex Killorn]] at 4:31 in the first period. The Lightning nursed the lead into the third period with a strong conservative defensive effort, but [[Teuvo Teräväinen|Teuvo Teravainen]] and Antoine Vermette scored 118 seconds apart to win the game 2–1 for the Blackhawks. By assisting on Vermette's goal, Teravainen became the second-youngest player (at 20 years and 265 days) in NHL history, after [[Jaromír Jágr|Jaromir Jagr]] had two assists in game 1 of the {{scfy|1991}} Final (on May 15, 1991, at 19 years and 89 days), to have a multi-point game in the Stanley Cup Final.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | TB
+|align=center | [[Alex Killorn]] (8)
+|align=center | [[Anton Strålman|Anton Stralman]] (7) and [[Valtteri Filppula]] (9)
+|align=center | 04:31
+|align=center | 1–0 TB
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | CHI
+|align=center | [[Teuvo Teräväinen|Teuvo Teravainen]] (3)
+|align=center | [[Duncan Keith]] (17) and [[Andrew Shaw (ice hockey)|Andrew Shaw]] (6)
+|align=center | 13:28
+|align=center | 1–1
+|-
+|align=center | CHI
+|align=center | [[Antoine Vermette]] (3)
+|align=center | [[Teuvo Teräväinen|Teuvo Teravainen]] (5)
+|align=center | 15:26
+|align=center | 2–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CHI
+|align=center | [[Andrew Shaw (ice hockey)|Andrew Shaw]]
+|align=center | Tripping
+|align=center | 06:14
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Jason Garrison]]
+|align=center | Cross-checking
+|align=center | 16:48
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | TB
+|align=center | [[Alex Killorn]]
+|align=center | High-sticking
+|align=center | 00:28
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Bench (served by [[Steven Stamkos]])
+|align=center | Too many men on the ice
+|align=center | 09:48
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kris Versteeg]]
+|align=center | Goaltender interference
+|align=center | 13:28
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 7 || align=center | 6 || align=center | 8 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 10 || align=center | 8 || align=center | 5 || align=center | 23
+|}
+
+===Game 2===
+{{NHLPlayoffs
+|date1= June 6
+|team1= Chicago Blackhawks
+|team2= Tampa Bay Lightning
+|stadium1= [[Amalie Arena]]
+|won1=2
+|score1= 3–4
+|recap1 = www.nhl.com/gamecenter/chi-vs-tbl/2015/06/06/2014030412
+}}
+[[File:Jason Garrison - Tampa Bay Lightning.jpg|thumb|right|upright=.8|[[Jason Garrison]] scored the game-winning goal in game 2.]]
+[[Jason Garrison]]'s power play goal at 8:49 of the third period proved to be the difference in Tampa Bay's victory in game 2. Lightning starting goaltender [[Ben Bishop]] had left the game moments earlier for reasons that were undisclosed at the time, but was later revealed to be a torn groin. He was replaced with [[Andrei Vasilevskiy]] who was credited with his first playoff victory. He also became the first goalie to win a Stanley Cup Final game in relief of an injured starter since [[Lester Patrick]] helped the [[New York Rangers]] defeat the [[Montreal Maroons]] in overtime of game 2 of the [[1928 Stanley Cup Final]], 2–1.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | TB
+|align=center | [[Cédric Paquette|Cedric Paquette]] (2)
+|align=center | [[Ryan Callahan]] (4) and [[Victor Hedman]] (10)
+|align=center | 12:56
+|align=center | 1–0 TB
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | CHI
+|align=center | [[Andrew Shaw (ice hockey)|Andrew Shaw]] (5)
+|align=center | [[Marcus Krüger]] (2) and [[Andrew Desjardins]] (3)
+|align=center | 03:04
+|align=center | 1–1
+|-
+|align=center | CHI
+|align=center | [[Teuvo Teräväinen|Teuvo Teravainen]] (4)&nbsp;– ''pp''
+|align=center | [[Marián Hossa|Marian Hossa]] (10) and [[Patrick Sharp]] (9)
+|align=center | 05:20
+|align=center | 2–1 CHI
+|-
+|align=center | TB
+|align=center | [[Nikita Kucherov]] (10)
+|align=center | [[Jason Garrison]] (4) and [[Braydon Coburn]] (3)
+|align=center | 06:52
+|align=center | 2–2
+|-
+|align=center | TB
+|align=center | [[Tyler Johnson (ice hockey)|Tyler Johnson]] (13)
+|align=center | [[Nikita Kucherov]] (11)
+|align=center | 13:58
+|align=center | 3–2 TB
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | CHI
+|align=center | [[Brent Seabrook]] (7)
+|align=center | [[Jonathan Toews]] (10) and [[Johnny Oduya]] (5)
+|align=center | 03:38
+|align=center | 3–3
+|-
+|align=center | TB
+|align=center | [[Jason Garrison]] (2)&nbsp;– ''pp''
+|align=center | [[Victor Hedman]] (11) and [[Ryan Callahan]] (5)
+|align=center | 08:49
+|align=center | 4–3 TB
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | CHI
+|align=center | Johnny Oduya
+|align=center | Tripping
+|align=center | 18:28
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TB
+|align=center | [[Alex Killorn]]
+|align=center | Hooking
+|align=center | 04:26
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center |Braydon Coburn
+|align=center | Holding
+|align=center | 09:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Patrick Sharp]]
+|align=center | Slashing
+|align=center | 04:59
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Patrick Sharp
+|align=center | High-sticking
+|align=center | 07:17
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Andrej Šustr|Andrej Sustr]]
+|align=center | Delay of game (puck over glass)
+|align=center | 13:08
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 11 || align=center | 8 || align=center | 10 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 12 || align=center | 10 || align=center | 2 || align=center | 24
+|}
+
+===Game 3===
+{{NHLPlayoffs
+|date1= June 8
+|team1= Tampa Bay Lightning
+|team2= Chicago Blackhawks
+|stadium1= [[United Center]]
+|won1 = 1
+|score1= 3–2
+|recap1 = www.nhl.com/gamecenter/tbl-vs-chi/2015/06/08/2014030413
+}}
+[[File:Cedric_Paquette_-_Tampa_Bay_Lightning.jpg|thumb|right|upright=.8|[[Cédric Paquette]] scored the game-winning goal in game 3.]]
+The series moved to Chicago for game 3. There was some debate on whether [[Ben Bishop]] or rookie goaltender [[Andrei Vasilevskiy]] for Tampa Bay, but regular starter Bishop started the game for Tampa Bay. For the third time in a row, Tampa Bay struck first, on [[Ryan Callahan]]'s slapshot goal at 5:09 of the first. [[Brad Richards]] tied it up on a power-play goal and the teams were tied after the first period. The first period was dominated by Chicago, who outshot Tampa Bay 19–7. The second period was dominated by Tampa Bay, which outshot Chicago 17–7, but there was no scoring. In the third period, [[Brandon Saad]] gave Chicago its first lead at 4:14, but Tampa Bay countered on the next shift on a goal by [[Ondrej Palat]] to tie the score once again. Late in the third period, [[Victor Hedman]] led a rush down ice for Tampa Bay and passed to [[Cédric Paquette|Cedric Paquette]] who scored to put the Lightning ahead again. The Lightning were able to defend their lead to win the game 3–2 and take a series lead two games to one.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | TB
+|align=center | [[Ryan Callahan]] (2)
+|align=center | [[Victor Hedman]] (12) and [[J. T. Brown (ice hockey)|J. T. Brown]] (1)
+|align=center | 05:09
+|align=center | 1–0 TB
+|-
+|align=center | CHI
+|align=center | [[Brad Richards]] (3)&nbsp;– ''pp''
+|align=center | [[Marián Hossa|Marian Hossa]] (11) and [[Andrew Shaw (ice hockey)|Andrew Shaw]] (7)
+|align=center | 14:22
+|align=center | 1–1
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Brandon Saad]] (7)
+|align=center | Marian Hossa (12) and [[Duncan Keith]] (18)
+|align=center | 04:14
+|align=center | 2–1 CHI
+|-
+|align=center | TB
+|align=center | [[Ondřej Palát|Ondrej Palat]] (8)
+|align=center | [[Nikita Kucherov]] (12) and [[Tyler Johnson (ice hockey)|Tyler Johnson]] (10)
+|align=center | 04:27
+|align=center | 2–2
+|-
+|align=center | TB
+|align=center | [[Cédric Paquette|Cedric Paquette]] (3)
+|align=center | [[Victor Hedman]] (13) and [[Ryan Callahan]] (6)
+|align=center | 16:49
+|align=center | 3–2 TB
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | Brandon Saad
+|align=center | Cross-checking
+|align=center | 08:12
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Braydon Coburn]]
+|align=center | Tripping
+|align=center | 08:12
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Braydon Coburn
+|align=center | Hooking
+|align=center | 12:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | TB
+|align=center | Nikita Kucherov
+|align=center | Tripping
+|align=center | 08:53
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Bryan Bickell]]
+|align=center | Roughing
+|align=center | 15:18
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Brandon Saad
+|align=center | Goaltender interference
+|align=center | 15:52
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 7 || align=center | 17 || align=center | 8 || align=center | 32
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 19 || align=center | 7 || align=center | 12 || align=center | 38
+|}
+
+===Game 4===
+{{NHLPlayoffs
+|date1= June 10
+|team1= Tampa Bay Lightning
+|team2= Chicago Blackhawks
+|stadium1= [[United Center]]
+|score1= 1–2
+|won1 = 2
+|recap1 = www.nhl.com/gamecenter/tbl-vs-chi/2015/06/10/2014030414
+}}
+[[File:Brandon Saad - Chicago Blackhawks.jpg|thumb|right|upright=.8|[[Brandon Saad]] scored the game-winning goal in game 4.]]
+The Lightning chose to rest injured goaltender [[Ben Bishop]] for game 4 in favor of rookie [[Andrei Vasilevskiy]]. The Lightning protected Vasilevskiy with tight defensive play, allowing only two shots by the Blackhawks in the first period, which was scoreless. For the first time in the series, the Blackhawks scored the first goal, on a goal by [[Jonathan Toews]] at 6:40 of the second. [[Alex Killorn]] tied it for the Lightning at 11:47 and the game was tied 1–1 after two periods. In the third, the Blackhawks' [[Brandon Saad]] muscled his way to the goal and scored on a backhand past Vasilevskiy at 6:22 to put the Blackhawks ahead. The game's pace picked up as the Lightning tried to tie the score but the Blackhawks goaltender [[Corey Crawford]] made several outstanding saves to shut out Tampa Bay the rest of the way. The win tied the series at two games apiece. It was the first time since {{scfy|1968}} that the first four Stanley Cup Final games were all decided by one goal.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2" | '''2nd'''
+|align=center | CHI
+|align=center | [[Jonathan Toews]] (10)
+|align=center | [[Patrick Sharp]] (10) and [[Marián Hossa|Marian Hossa]] (13)
+|align=center | 06:40
+|align=center | 1–0 CHI
+|-
+|align=center | TB
+|align=center | [[Alex Killorn]] (9)
+|align=center | [[Valtteri Filppula]] (10) and [[Steven Stamkos]] (11)
+|align=center | 11:47
+|align=center | 1–1
+
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | CHI
+|align=center | [[Brandon Saad]] (8)
+|align=center | [[Patrick Kane]] (11)
+|align=center | 06:22
+|align=center | 2–1 CHI
+
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | [[Brent Seabrook]]
+|align=center | Interference
+|align=center | 09:10
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Jason Garrison]]
+|align=center | Interference
+|align=center | 11:41
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Jonathan Toews]]
+|align=center | High sticking
+|align=center | 12:42
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kimmo Timonen]]
+|align=center | Hooking
+|align=center | 16:33
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Alex Killorn]]
+|align=center | High sticking
+|align=center | 19:08
+|align=center | 2:00
+
+|-
+| style="text-align:center;" | '''2nd'''
+|align=center | CHI
+|align=center | [[Brent Seabrook]]
+|align=center | Cross-checking
+|align=center | 07:19
+|align=center | 2:00
+
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | TB
+|align=center | Steven Stamkos
+|align=center | Delay of game (puck over glass)
+|align=center | 01:04
+|align=center | 2:00
+
+|}
+
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 9 || align=center | 8 || align=center | 8 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 2 || align=center | 12 || align=center | 5 || align=center | 19
+|}
+
+===Game 5===
+{{NHLPlayoffs
+|date1= June 13
+|team1= Chicago Blackhawks
+|team2= Tampa Bay Lightning
+|stadium1= [[Amalie Arena]]
+|score1=2–1
+|won1=1
+|recap1 = www.nhl.com/gamecenter/chi-vs-tbl/2015/06/13/2014030415
+}}
+[[File:Corey_Crawford_(9217014038).jpg|thumb|right|upright=.8|[[Corey Crawford]] saved 28 of 29 shots faced in game 5.]]
+The series returned to Tampa for game 5 and [[Ben Bishop]] returned to the net for the Lightning. The Blackhawks scored first for the second consecutive game, this time on a miscue by Bishop and Lightning defenseman [[Victor Hedman]]. The two collided and [[Patrick Sharp]] skated to the empty net with the puck, scoring at 6:11 of the first, a lead they held until 10:53 of the second when [[Valtteri Filppula]] scored to tie the score 1–1. The teams were tied going into the third, but [[Antoine Vermette]] scored for the Blackhawks at 2:00 of third and the lead held up as the Blackhawks played tight defense the rest of the way. The Blackhawks took the lead in the series three games to two, to give themselves a chance to win the Cup at home, something the franchise has not done since {{scfy|1938}}. For the second time in Final history and the first since {{scfy|1951}}, wherein all five games that had to be played went to overtime, all games of the series through game 5 were decided by one goal, with neither team leading by more than one goal.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | CHI
+|align=center | [[Patrick Sharp]] (5)
+|align=center | [[Teuvo Teräväinen|Teuvo Teravainen]] (6) and [[Jonathan Toews]] (11)
+|align=center | 06:11
+|align=center | 1–0 CHI
+|-
+| style="text-align:center;" | '''2nd'''
+|align=center | TB
+|align=center | [[Valtteri Filppula]] (4)
+|align=center | [[Jason Garrison]] (5) and [[Anton Strålman|Anton Stralman]] (8)
+|align=center | 10:53
+|align=center | 1–1
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | CHI
+|align=center | [[Antoine Vermette]] (4)
+|align=center | [[Kris Versteeg]] (1)
+|align=center | 02:00
+|align=center | 2–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2" | '''2nd'''
+|align=center | TB
+|align=center | [[Cédric Paquette|Cedric Paquette]]
+|align=center | Hooking
+|align=center | 00:47
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Brandon Saad]]
+|align=center | Slashing
+|align=center | 11:25
+|align=center | 2:00
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | TB
+|align=center | Bench (served by [[Jonathan Drouin]])
+|align=center | Too many men on the ice
+|align=center | 19:51
+|align=center | 2:00
+|}
+
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 14 || align=center | 8 || align=center | 7 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 5 || align=center | 12 || align=center | 15 || align=center | 32
+|}
+
+===Game 6===
+{{NHLPlayoffs
+|date1= June 15
+|team1= Tampa Bay Lightning
+|team2= '''Chicago Blackhawks'''
+|stadium1= [[United Center]]
+|score1= '''0–2'''
+|recap1= www.nhl.com/gamecenter/tbl-vs-chi/2015/06/15/2014030416
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=6RVB5uCe_98 Game 6 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:Duncan_Keith_2011-02-16.jpg|thumb|right|upright=.8|[[Duncan Keith]] scored the [[Stanley Cup]]-clinching goal in game 6.]]
+In game 6, the teams were scoreless after the first period. In the first period, Lightning captain [[Steven Stamkos]] put a shot off the crossbar and was stopped on a breakaway early in the second by Corey Crawford but it was the Blackhawks who scored first on a goal by [[Duncan Keith]] on a rebound of his own shot near the end of the second period to put Chicago ahead 1–0 after two periods. In the third period, the Blackhawks' [[Patrick Kane]] scored on a pass from [[Brad Richards]] and play by [[Brandon Saad]] to put the 'Hawks ahead 2–0, the first two-goal lead of the series. The Blackhawks then frustrated the Lightning the rest of the way to win the game 2–0, a shutout for Crawford and the Stanley Cup championship. It was revealed after the game that the Lightning's goaltender [[Ben Bishop]] had played with a torn groin muscle since game 2 and [[Tyler Johnson (ice hockey)|Tyler Johnson]] was playing with a fractured wrist, injured in game 1. This was also the first time since 1938, when they beat the [[Toronto Maple Leafs]] in the fourth game of a best-of-five Final at [[Chicago Stadium]], and the first time at the [[United Center]] that the Blackhawks won the Stanley Cup on home ice.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/13088089/2015-stanley-cup-finals-ben-bishop-tampa-bay-lightning-reveals-injury-suffered-was-torn-groin|title=Tampa Bay goalie Ben Bishop says he played through torn groin|work=ESPN|first=Katie |last=Strang|date=June 16, 2015|access-date=June 16, 2015}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" | '''2nd'''
+|align=center | CHI
+|align=center | [[Duncan Keith]] (3)
+|align=center | [[Patrick Kane]] (12) and [[Brad Richards]] (10)
+|align=center | 17:13
+|align=center | 1–0 CHI
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | CHI
+|align=center | [[Patrick Kane]] (11)
+|align=center | [[Brad Richards]] (11) and [[Brandon Saad]] (3)
+|align=center | 14:46
+|align=center | 2–0 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+|style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | TB
+|align=center | [[Cédric Paquette|Cedric Paquette]]
+|align=center | Tripping
+|align=center | 08:35
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Brian Boyle]]
+|align=center | Roughing
+|align=center | 13:53
+|align=center | 2:00
+|-
+|style="text-align:center;" | '''2nd'''
+|align=center | TB
+|align=center | [[Ondřej Palát|Ondrej Palat]]
+|align=center | Elbowing
+|align=center | 19:13
+|align=center | 2:00
+|-
+|style="text-align:center;" | '''3rd'''
+|align=center | CHI
+|align=center | [[Andrew Desjardins]]
+|align=center | Tripping
+|align=center | 16:21
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 4 || align=center | 7 || align=center | 14 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 13 || align=center | 10 || align=center | 9 || align=center | 32
+|}
+
+==Team rosters==
+
+===Chicago Blackhawks===
+[[File:Toews-cup1-2015.jpg|thumb|right|250px|[[Jonathan Toews]] captained the Blackhawks to their sixth championship in franchise history, and their third championship in six seasons]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+
+|- style="background:#eeeeee;"
+| '''29'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Bryan|Bickell}}
+| LW
+| L
+| {{hs|29–107}}29
+| [[2004 NHL entry draft|2004]]
+| align="left" | [[Bowmanville|Bowmanville, Ontario]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''13'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Daniel|Carcillo}}
+| LW
+| L
+| 30
+| [[2014–15 NHL season|2014]]
+| align="left" | [[King City, Ontario]]
+| fourth {{small|(did not play; [[2010 Stanley Cup Final|2010]], '''[[2013 Stanley Cup Final|2013]]''', [[2014 Stanley Cup Final|2014]])}}
+|- style="background:#eeeeee;"
+| '''50'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Corey|Crawford}}
+| G
+| L
+| {{hs|30–175}}30
+| [[2003 NHL entry draft|2003]]
+| align="left" | [[Montreal|Montreal, Quebec]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''26'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Kyle|Cumiskey}}
+| D
+| L
+| 28
+| [[2014–15 NHL season|2014]]
+| align="left" | [[Abbotsford, British Columbia]]
+| first
+|- style="background:#eeeeee;"
+| '''33'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Scott|Darling|dab=ice hockey}}
+| G
+| L
+| 26
+| [[2014–15 NHL season|2014]]
+| align="left" | [[Newport News, Virginia]]
+| first
+|- style="background:#eeeeee;"
+| '''11'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Andrew|Desjardins}}
+| C
+| L
+| 28
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Walden, Ontario|Lively, Ontario]]
+| first
+|- style="background:#eeeeee;"
+| '''4'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Niklas|Hjalmarsson}}
+| D
+| L
+| {{hs|27-018}}27
+| [[2005 NHL entry draft|2005]]
+| align="left" | [[Eksjö|Eksjö, Sweden]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''81'''
+| {{flagicon|SVK}}
+| align="left" | {{sortname|Marian|Hossa|Marián Hossa}}
+| RW
+| L
+| {{hs|36–163}}36
+| [[2009–10 NHL season|2009]]
+| align="left" | [[Stará Ľubovňa|Stará Ľubovňa, Czechoslovakia]]
+| fifth {{small|([[2008 Stanley Cup Final|2008]], [[2009 Stanley Cup Final|2009]], '''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''88'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Patrick|Kane}}
+| RW
+| L
+| {{hs|26–217}}26
+| [[2007 NHL entry draft|2007]]
+| align="left" | [[Buffalo, New York]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''2'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Duncan|Keith}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|31–343}}31
+| [[2002 NHL entry draft|2002]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''16'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Marcus|Kruger|Marcus Krüger}}
+| C
+| L
+| {{hs|25-028}}25
+| [[2009 NHL entry draft|2009]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''42'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Joakim|Nordstrom|Joakim Nordström}}
+| C
+| L
+| 23
+| [[2010 NHL entry draft|2010]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| first 
+|- style="background:#eeeeee;"
+| '''27'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Johnny|Oduya}}
+| D
+| L
+| {{hs|33–266}}33
+| [[2011–12 NHL season|2012]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''31'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Antti|Raanta}}
+| G
+| L
+| 26
+| [[2013–14 NHL season|2013]]
+| align="left" | [[Rauma, Finland]]
+| first
+|- style="background:#eeeeee;"
+| '''91'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brad|Richards}}
+| C
+| L
+| {{hs|35–236}}35
+| [[2014–15 NHL season|2014]]
+| align="left" | [[Murray Harbour, Prince Edward Island]]
+| third {{small|('''[[2004 Stanley Cup Final|2004]]''', [[2014 Stanley Cup Final|2014]])}}
+|- style="background:#eeeeee;"
+| '''32'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Michal|Rozsival|Michal Rozsíval}}
+| D
+| R
+| {{hs|36–294}}36
+| [[2012–13 NHL season|2012]]
+| align="left" | [[Vlašim|Vlašim, Czechoslovakia]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''5'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|David|Rundblad}}
+| D
+| R
+| 24
+| [[2013–14 NHL season|2013]]
+| align="left" | [[Lycksele|Lycksele, Sweden]]
+| first
+|- style="background:#eeeeee;"
+| '''20'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Brandon|Saad}}
+| LW
+| L
+| {{hs|22–240}}22
+| [[2011 NHL entry draft|2011]]
+| align="left" | [[Pittsburgh|Pittsburgh, Pennsylvania]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''7'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brent|Seabrook}}
+| D
+| R
+| {{hs|30-065}}30
+| [[2003 NHL entry draft|2003]]
+| align="left" | [[Richmond, British Columbia]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''10'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Patrick|Sharp}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW/C
+| R
+| {{hs|33–179}}33
+| [[2005–06 NHL season|2005]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''65'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Andrew|Shaw|Andrew Shaw (ice hockey)}}
+| C
+| R
+| {{hs|23–339}}23
+| [[2011 NHL entry draft|2011]]
+| align="left" | [[Belleville, Ontario]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''86'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Teuvo|Teravainen|Teuvo Teräväinen}}
+| W/C
+| L
+| 20
+| [[2012 NHL entry draft|2012]]
+| align="left" | [[Helsinki|Helsinki, Finland]]
+| first
+|- style="background:#eeeeee;"
+| '''44'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Kimmo|Timonen}}
+| D
+| L
+| 40
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Kuopio|Kuopio, Finland]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|- style="background:#eeeeee;"
+| '''19'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jonathan|Toews}}&nbsp;– '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|27-056}}27
+| [[2006 NHL entry draft|2006]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| third {{small|('''[[2010 Stanley Cup Final|2010]]''', '''[[2013 Stanley Cup Final|2013]]''')}}
+|- style="background:#eeeeee;"
+| '''57'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Trevor|van Riemsdyk}}
+| D
+| R
+| 23
+| [[2013–14 NHL season|2014]]
+| align="left" | [[Middletown Township, New Jersey|Middletown, New Jersey]]
+| first
+|- style="background:#eeeeee;"
+| '''80'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Antoine|Vermette}}
+| C
+| L
+| 32
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Saint-Agapit, Quebec]]
+| second {{small|([[2007 Stanley Cup Final|2007]])}}
+|- style="background:#eeeeee;"
+| '''23'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Kris|Versteeg}}
+| LW
+| R
+| 29
+| [[2013–14 NHL season|2013]]
+| align="left" | [[Lethbridge|Lethbridge, Alberta]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|}
+
+===Tampa Bay Lightning===
+[[File:Steve Stamkos - Tampa Bay Lightning.jpg|thumb|right|250px|[[Steven Stamkos]] captained the Lightning to their second [[Stanley Cup Final]] appearance, and their first in ten seasons]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+
+|- style="background:#eee;"
+|'''30'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ben|Bishop}}
+| G
+| L
+| 28
+| [[2012–13 NHL season|2013]]
+| [[Denver|Denver, Colorado]]
+| first
+|- style="background:#eee;"
+|'''11'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Brian|Boyle}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|30–205}}30
+| [[2014–15 NHL season|2014]]
+| [[Hingham, Massachusetts]]
+| second {{small|([[2014 Stanley Cup Final|2014]])}}
+|- style="background:#eee;"
+|'''23'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|J. T.|Brown|dab=ice hockey}}
+| RW
+| R
+| 24
+| [[2012–13 NHL season|2013]]
+| [[Burnsville, Minnesota]]
+| first
+|- style="background:#eee;"
+| '''25'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Matt|Carle}}
+| D
+| L
+| {{hs|30–205}}30
+| [[2012–13 NHL season|2012]]
+| style="text-align:left;"| [[Anchorage, Alaska]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|- style="background:#eee;"
+| '''55'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Braydon|Coburn}}
+| D
+| L
+| {{hs|30–058}}30
+| [[2014–15 NHL season|2015]]
+| style="text-align:left;"| [[Calgary|Calgary, Alberta]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|- style="background:#eee;"
+|'''24'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ryan|Callahan}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| 30
+| [[2013–14 NHL season|2014]]
+| [[Rochester, New York]]
+| first
+|- style="background:#eee;"
+|'''27'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jonathan|Drouin}}
+| LW
+| L
+| 20
+| [[2013 NHL entry draft|2013]]
+| [[Sainte-Agathe-des-Monts|Sainte-Agathe-des-Monts, Quebec]]
+| first
+|- style="background:#eee;"
+|'''51'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Valtteri|Filppula}}
+| C
+| L
+| 31
+| [[2013–14 NHL season|2013]]
+| [[Vantaa|Vantaa, Finland]]
+| third {{small|('''[[2008 Stanley Cup Final|2008]]''', [[2009 Stanley Cup Final|2009]])}}
+|- style="background:#eee;"
+|'''5'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jason|Garrison}}
+| D
+| L
+| 30
+| [[2014–15 NHL season|2014]]
+| [[White Rock, British Columbia]]
+| first
+|- style="background:#eee;"
+|'''50'''
+| {{flagicon|LVA}}
+| align="left" | {{sortname|Kristers|Gudlevskis|Kristers Gudļevskis}}
+| G
+| L
+| 22
+| [[2013 NHL entry draft|2013]]
+| [[Aizkraukle|Aizkraukle, Latvia]]
+| first
+|- style="background:#eee;"
+| '''77'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Victor|Hedman}}
+| D
+| L
+| {{hs|24–352}}24
+| [[2009 NHL entry draft|2009]]
+| align="left" | [[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| first
+|- style="background:#eee;"
+|'''9'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Tyler|Johnson|dab=ice hockey}}
+| C
+| R
+| 24
+| [[2010–11 NHL season|2011]]
+| [[Spokane, Washington]]
+| first
+|- style="background:#eee;"
+|'''17'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Alex|Killorn}}
+| C
+| L
+| 25
+| [[2007 NHL entry draft|2007]]
+| [[Halifax, Nova Scotia]]
+| first
+|- style="background:#eee;"
+|'''86'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Nikita|Kucherov}}
+| RW
+| L
+| 21
+| [[2011 NHL entry draft|2011]]
+| [[Maykop|Maykop, Russia]]
+| first
+|- style="background:#eee;"
+|'''42'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jonathan|Marchessault}}
+| C
+| R
+| 24
+| [[2013–14 NHL season|2014]]
+| [[Cap-Rouge, Quebec City|Cap-Rouge, Quebec]]
+| first
+|- style="background:#eeeeee;"
+| '''10'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brenden|Morrow}}
+| LW
+| L
+| {{hs|36–294}}36
+| [[2014–15 NHL season|2014]]
+| style="text-align:left;"| [[Carlyle, Saskatchewan]]
+| second {{small|([[2000 Stanley Cup Final|2000]])}}
+|- style="background:#eee;"
+|'''90'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Vladislav|Namestnikov}}
+| C
+| L
+| 22
+| [[2011 NHL entry draft|2011]]
+| [[Voskresensk|Voskresensk, Russia]]
+| first
+|- style="background:#eee;"
+|'''89'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Nikita|Nesterov}}
+| D
+| L
+| 22
+| [[2011 NHL entry draft|2011]]
+| [[Chelyabinsk|Chelyabinsk, Russia]]
+| first
+|- style="background:#eee;"
+|'''18'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Ondrej|Palat|Ondřej Palát}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| R
+| 24
+| [[2011 NHL entry draft|2011]]
+| [[Frýdek-Místek|Frýdek-Místek, Czechoslovakia]]
+| first
+|- style="background:#eee;"
+|'''13'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Cedric|Paquette|Cédric Paquette}}
+| C
+| L
+| 21
+| [[2012 NHL entry draft|2012]]
+| [[Gaspé, Quebec]]
+| first
+|- style="background:#eeeeee;"
+| '''91'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Steven|Stamkos}}&nbsp;– '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{hs|25-038}}25
+| [[2008 NHL entry draft|2008]]
+| align="left" | [[Markham, Ontario]]
+| first
+|- style="background:#eee;"
+|'''6'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Anton|Stralman|Anton Strålman}}
+| D
+| R
+| 28
+| [[2014–15 NHL season|2014]]
+| [[Tibro Municipality|Tibro, Sweden]]
+| second {{small|([[2014 Stanley Cup Final|2014]])}}
+|- style="background:#eee;"
+|'''62'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Andrej|Sustr|Andrej Šustr}}
+| D
+| R
+| 24
+| [[2012–13 NHL season|2013]]
+| [[Plzeň|Plzeň, Czechoslovakia]]
+| first
+|- style="background:#eeeeee;"
+| '''88'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Andrei|Vasilevskiy}}
+| G
+| L
+| 20
+| [[2012 NHL entry draft|2012]]
+| align="left" | [[Tyumen|Tyumen, Russia]]
+| first
+
+|}
+
+==Stanley Cup engraving==
+The 2015 Stanley Cup was presented to Blackhawks captain Jonathan Toews by [[NHL Commissioner]] [[Gary Bettman]] following the Blackhawks' 2–0 win over the Lightning in game 6.
+
+The following Blackhawks players and staff had their names engraved on the Stanley Cup
+
+'''2014–15 Chicago Blackhawks'''
+{{Stanley Cup champion
+|defence=
+*2 [[Duncan Keith]] (A)
+*4 [[Niklas Hjalmarsson]]
+*5 [[David Rundblad]]
+*7 [[Brent Seabrook]]
+*26 [[Kyle Cumiskey]]
+*27 [[Johnny Oduya]]
+*32 [[Michal Rozsíval|Michal Rozsival]]
+*44 [[Kimmo Timonen]]
+*57 [[Trevor van Riemsdyk]]
+|centres=
+*11 [[Andrew Desjardins]]*
+*16 [[Marcus Krüger|Marcus Kruger]]*
+*19 [[Jonathan Toews]] (Captain)
+*42 [[Joakim Nordström|Joakim Nordstrom]] †
+*65 [[Andrew Shaw (ice hockey)|Andrew Shaw]]*
+*80 [[Antoine Vermette]]
+*91 [[Brad Richards]]
+|wingers=
+*10 [[Patrick Sharp]]* (A)
+*13 [[Daniel Carcillo]] †
+*20 [[Brandon Saad]]
+*23 [[Kris Versteeg]]
+*29 [[Bryan Bickell]]
+*81 [[Marián Hossa|Marian Hossa]]
+*86 [[Teuvo Teräväinen|Teuvo Teravainen]]*
+*88 [[Patrick Kane]]
+|goaltenders=*33 [[Scott Darling]]
+*50 [[Corey Crawford]]
+|player-notes=
+* * Played both centre and wing.
+* † Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* W. [[Rocky Wirtz]] (Owner/Chairman/Governor), [[John McDonough (sports executive)|John McDonough]] (President/Chief Executive Officer/Alt. Governor), Jay Blunk (Exec. Vice President), 
+*[[Stan Bowman]] (Vice President/General Manager), [[Al MacIsaac]] (Vice President of Hockey Operations), [[Norm Maciver]] (Asst. General Manager), William [[Scotty Bowman]] (Sr. Advisor Hockey Operations), 
+*[[Joel Quenneville]] (Head Coach), [[Mike Kitchen]] (Asst. Coach), [[Kevin Dineen]] (Asst. Coach), [[Jimmy Waite]] (Goaltending Coach), Matt Meacham (Video Coach), Paul Goodman (Strength & Conditioning Coach)
+*Mike Gapski (Athletic Trainer), Troy Parchman (Equipment Manager), Jeff Thomas (Asst. Athletic Trainer), Pawel Prylinski (Massage Therapist), Jeff Heintzleman (Asst. Equipment Manager)
+*[[Pierre Gauthier]] (Director of Player Personnel), Mark Kelly (Sr. Director of Amateur Scouting), 
+*[[Barry Smith (ice hockey, born 1952)|Barry Smith]] (Director of Player Development), Ryan Stewart (Director of Pro Scouting), [[Ron Anderson (ice hockey, born 1950)|Ron Anderson]] (Director of Player Recruitment), 
+*Tony Ommen (Sr. Director of Team Services), Mark Bernard (Director of Hockey Administration/Rockford(AHL) General Manager), Dr. Michael Terry (Head Team Physician)
+}}
+===Engraving notes===
+* Chicago successfully requested an exemption to engrave the names of two players who did not automatically qualify.
+** #13 [[Daniel Carcillo]] (LW) – spent the whole season with Chicago, only 39 games played, not dressed in the playoffs due to injury.
+** #42 [[Joakim Nordström|Joakim Nordstrom]] (C) – played 38 games for Chicago, 23 games for Rockford, played three playoff games, including one game in the conference finals.
+* Scotty Bowman won his 14th Stanley Cup in 1973, 1976, 1977, 1978, 1979 (Montreal), 1991, 1992 (Pittsburgh), 1997, 1998, 2002, 2008 (Detroit), 2010, 2013, 2015 (Chicago)
+
+===Left off Stanley Cup===
+* Six players who were on the roster during the Final did not qualify to have their names engraved. Chicago did not request an exemption for any of them.<ref>[https://www.nhl.com/scores/htmlreports/20142015/RO030416.HTM Playing Roster]</ref>
+
+;Included in the team picture
+* #31 [[Antti Raanta]] – played 14 games and was dressed in 51 games for Chicago. He also played 11 games for Rockford (AHL). Raanta was sent to the minors on February 22, 2015, when Scott Darling was recalled. Raanta rejoined Chicago on April 12 but did not dress in the playoffs. His name was not included on the Cup since Raanta had spent time playing in the minors after the trading deadline. He was, however, in the team picture at centre ice and did receive a personal day with the Cup over the summer.
+* #43 [[Viktor Svedberg]] (D) – did not play in the regular season or playoffs
+* D. J. Kogut (Equipment Asst.), Jeff Uyenko (Equipment Asst.) – got championship rings
+
+;Not in the team picture
+* #38 [[Ryan Hartman]] (RW) – played 5 regular season games and none in the playoffs
+* #24 [[Phillip Danault]] (C) – played 2 regular season games and none in the playoffs
+* #47 [[Michael Paliotta]] (D) – played 1 regular season game and none in the playoffs
+* #17 [[Ville Pokka]] (D) – did not play in the regular season or playoffs
+* Clinton Reif (Asst. Equipment Manager) who died on December 21, 2014, was also left off. Reif is on the Cup with Chicago in 2010 and 2013.
+
+==Television==
+In the U.S., the Final series were split between [[NBC]] and [[NBCSN]], called by [[NBC Sports]]' lead commentary team of [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]; it was originally announced that games two and three were to be broadcast by NBCSN, with the rest on NBC. Game 2 was moved to NBC to serve as a lead-out for its coverage of the [[2015 Belmont Stakes]] in favor of game 4 on NBCSN.<ref name="ratings4"/> As Olczyk was also a contributor to NBC's Belmont coverage, he missed game 2.<ref name=NBCSports20150401>{{cite press release | url=http://nbcsportsgrouppressbox.com/2015/04/01/nbc-sports-group-fills-out-2015-stanley-cup-playoff-bracket-with-complete-coverage-beginning-april-15/ | title=NBC Sports Group Fills Out 2015 Stanley Cup Playoff Bracket With Complete Coverage Beginning April 15 | publisher=NBC Sports | date=April 1, 2015 | access-date=April 1, 2015}}</ref><ref name=nhlcom-horsesense>{{cite web|title=Strangis: Olczyk brings horse sense to Cup Final|url=http://www.nhl.com/ice/news.htm?id=769689|website=NHL.com|access-date=20 June 2015}}</ref><ref name=smw-belmontnhl>{{cite web|title=Game 2 of Stanley Cup Final Moves to NBC With Belmont Lead-In|url=http://www.sportsmediawatch.com/2014/05/game-2-of-stanley-cup-final-moves-to-nbc-with-belmont-lead-in/|website=Sports Media Watch|date=May 31, 2014 |access-date=20 June 2015}}</ref>
+
+In Canada, all six games were broadcast by [[CBC Television]] (through ''[[Hockey Night in Canada]]'', as produced by [[NHL on Sportsnet|Sportsnet]] through a brokerage agreement) in [[English language|English]], [[TVA Sports]] in [[French language|French]], and [[Omni Television]] in [[Punjabi language|Punjabi]].<ref name=sn-playofftv>{{cite web|title=Stanley Cup Playoffs broadcast schedule|url=http://www.sportsnet.ca/hockey/nhl/stanley-cup-playoffs-broadcast-schedule/|website=Sportsnet.ca|publisher=Rogers Media|access-date=April 12, 2015}}</ref><ref name=nhlcom-schedule>{{cite web|title=2015 Stanley Cup Playoffs Round 1 schedule|url=http://www.nhl.com/ice/news.htm?id=762688|website=NHL.com|access-date=April 12, 2015}}</ref> These were the first Stanley Cup Final under [[Rogers Communications]]' exclusive national broadcast rights to the NHL in Canada.<ref name=torstar-rogersnhl14>{{cite news |title=NHL signs 12-year TV, Internet deal with Rogers; CBC keeps 'Hockey Night in Canada{{'-}} |first=Curtis |last=Rush |date=November 26, 2013 |url=https://www.thestar.com/sports/hockey/2013/11/26/nhl_signs_12year_broadcast_deal_with_rogers_cbc_keeps_hockey_night_in_canada.html |work=[[Toronto Star]] |access-date=March 26, 2014}}</ref><ref name=gandm-howcbclost>{{cite news|last1=Shoalts|first1=David|title=Hockey Night in Canada: How CBC lost it all|url=https://www.theglobeandmail.com/sports/hockey/hockey-night-in-canada-how-cbc-lost-it-all/article21072643/|website=The Globe and Mail|date=October 10, 2014 |access-date=October 11, 2014}}</ref><ref>{{cite news |title=NHL deal with Rogers huge blow to CBC: Mudhar |first=Raju |last=Mudhar |date=November 26, 2013 |url=https://www.thestar.com/sports/hockey/2013/11/26/nhl_deal_with_rogers_a_huge_blow_to_tsn_and_cbc_mudhar.html |work=[[Toronto Star]] |access-date=March 26, 2014}}</ref>
+
+This was the second-most watched Stanley Cup Final on U.S. television since 1995, trailing only the [[2013 Stanley Cup Final]], with an average 3.2 [[Nielsen rating]] and 5.6 million viewers on NBC and NBCSN.<ref>{{cite web | url=http://www.sportsmediawatch.com/2015/06/stanley-cup-final-ratings-second-most-watched-series-since-1995-blackhawks-lightning-nhl/ | title=2015 Stanley Cup Final Second-Most Watched in Past Two Decades | website=Sports Media Watch | date=June 16, 2015 | access-date=June 19, 2015}}</ref> Game 6 was seen by 7.6 million viewers nationally on NBC. Ratings for game 6 were especially strong in Chicago and Tampa Bay: it was the most-watched NHL broadcast locally in Chicago history, and the second-highest in Tampa Bay.<ref name=variety-finalratings>{{cite web|title=Ratings: Stanley Cup Final's Game 6 on NBC Rules Monday|url=https://variety.com/2015/tv/news/stanley-cup-final-ratings-bachelorette-ratings-1201520669/|website=Variety|date=June 16, 2015 |access-date=June 17, 2015}}</ref> By contrast, ratings in Canada dropped significantly, making it the lowest-rated Stanley Cup Final since [[2009 Stanley Cup Final|2009]]. Game 6, facing competition from a [[Canadian women's national soccer team|Team Canada]] match in the [[2015 FIFA Women's World Cup]], and the [[Toronto Blue Jays]] (which had seen increased ratings due to a long winning streak), was the lowest-rated deciding NHL playoff game on Canadian television since the [[2003 Stanley Cup Final]].<ref name=yahoo-finalsratings2015>{{cite web|title=The Great Canadian Ratings Report: NHL playoffs failed to produce big ratings for Rogers|url=https://ca.sports.yahoo.com/blogs/eh-game/the-great-canadian-ratings-report--201309600.html|website=Yahoo! Sports Canada|access-date=June 17, 2015}}</ref>
+
+{| class="wikitable" style="text-align:center;" border="1"
+|+ U.S. Ratings
+|-
+! Game !! Network !! [[Nielsen ratings|Ratings]]<br>(households) !! American audience<br>(in millions)
+|-
+! 1<ref name="ratings1">{{cite web |url=http://www.tvmediainsights.com/tv-ratings/wednesday-final-nationals-blackhawks-lightning-nbc-viewed-nhl-stanley-cup-final-non-overtime-game-1-since-1997/|title=Wednesday Final Nationals: Blackhawks-Lightning on NBC is Most-Viewed NHL Stanley Cup Final Non-Overtime Game 1 Since 1997|work=TV Media Insights|date=June 4, 2015|access-date=June 13, 2015}}</ref>
+| NBC || 3.3 || 5.547
+|-
+! 2<ref name="ratings2">{{cite web |url=http://www.tvmediainsights.com/tv-ratings/saturday-final-nationals-147th-belmont-stakes-fuels-nhl-stanley-cup-final-game-2-on-nbc/|title=Saturday Final Nationals: 147th Belmont Stakes Fuels NHL Stanley Cup Final Game 2 on NBC|work=TV Media Insights|date=June 9, 2015|access-date=June 13, 2015}}</ref>
+| NBC || 3.9 || 6.549
+|-
+! 3<ref name="ratings3">{{cite web|url=http://www.tvmediainsights.com/tv-ratings/monday-final-nationals-american-ninja-warrior-on-nbc-achieves-series-high-huge-gains-for-stanley-cup-final-on-nbcsn-and-womens-world-cup-on-fox-sports-1/|title=Monday Final Nationals: 'American Ninja Warrior' on NBC Achieves Series-High, Huge Gains for Stanley Cup Final on NBCSN and Women's World Cup on Fox Sports 1|work=TV Media Insights|date=June 9, 2015|access-date=June 13, 2015|archive-date=June 14, 2015|archive-url=https://web.archive.org/web/20150614191942/http://www.tvmediainsights.com/tv-ratings/monday-final-nationals-american-ninja-warrior-on-nbc-achieves-series-high-huge-gains-for-stanley-cup-final-on-nbcsn-and-womens-world-cup-on-fox-sports-1/|url-status=dead}}</ref>
+| NBCSN || 2.2 || 3.896
+|-
+! 4<ref name="ratings4">{{cite web|url=http://www.tvmediainsights.com/tv-ratings/wednesday-final-nationals-nhl-stanley-cup-final-game-4-gives-nbcsn-prime-time-victory-among-adults-18-49-adults-18-34/|title=Wednesday Final Nationals: NHL Stanley Cup Final Game 4 Gives NBCSN Prime Time Victory Among Adults 18–49, Adults 18–34|work=TV Media Insights|date=June 11, 2015|access-date=June 13, 2015}}</ref>
+| NBCSN || 2.2 || 3.914
+|-
+! 5<ref name="ratings5">{{cite web|url=http://www.tvmediainsights.com/tv-ratings/saturday-final-nationals-nhl-helps-nbc-to-dominate-in-adults-18-49-over-abc-cbs-and-fox-combined/ |title=Saturday Final Nationals: NHL Helps NBC to Dominate in Adults 18-49 Over ABC, CBS and Fox Combined |work=TV Media Insights |date=June 16, 2015 |access-date=June 18, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150621224034/http://www.tvmediainsights.com/tv-ratings/saturday-final-nationals-nhl-helps-nbc-to-dominate-in-adults-18-49-over-abc-cbs-and-fox-combined/ |archive-date=June 21, 2015}}</ref>
+| NBC || 3.0 || 5.260
+|-
+! 6<ref name="ratings6">{{cite web|url=http://www.tvmediainsights.com/tv-ratings/monday-final-nationals-2015-stanley-cup-final-clincher-ranks-as-fourth-most-watched-nhl-telecast-since-1995/ |title=Monday Final Nationals: 2015 Stanley Cup Final Clincher on NBC Ranks as Fourth Most-Watched NHL Telecast Since 1995 |work=TV Media Insights |date=June 16, 2015 |access-date=June 18, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150621224032/http://www.tvmediainsights.com/tv-ratings/monday-final-nationals-2015-stanley-cup-final-clincher-ranks-as-fourth-most-watched-nhl-telecast-since-1995/ |archive-date=June 21, 2015 |df=mdy}}</ref>
+| NBC || 4.4 || 8.005
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{succession box | before = [[2014 Stanley Cup Final|Los Angeles Kings<br />2014]] | title = [[List of Stanley Cup champions|Chicago Blackhawks<br />Stanley Cup champions]] | years = 2015 | after = [[2016 Stanley Cup Final|Pittsburgh Penguins<br />2016]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Chicago Blackhawks}}
+{{Tampa Bay Lightning}}
+{{2014–15 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2014–15 NHL season|Stanley Cup Final]]
+[[Category:2015 Stanley Cup| ]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Tampa Bay Lightning games]]
+[[Category:2015 in Chicago]]
+[[Category:2015 in sports in Florida|Stanley Cup Final]]
+[[Category:2010s in Tampa, Florida]]
+[[Category:Stanley Cup Finals]]
+[[Category:June 2015 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Tampa, Florida]]
+[[Category:2015 in sports in Illinois|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:Events at United Center]]

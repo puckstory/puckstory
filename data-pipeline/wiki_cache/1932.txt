@@ -1,0 +1,176 @@
+{{Short description|1932 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1932
+|team1='''[[1931–32 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto
+|team1_1='''6'''
+|team1_2='''6'''
+|team1_3='''6'''
+|team1_tot=3
+|team2=[[1931–32 New York Rangers season|New York Rangers]]
+|team2_short=New York
+|team2_1=4
+|team2_2=2
+|team2_3=4
+|team2_tot=0
+|location1=[[New York City]]: [[Madison Square Garden (1925)|Madison Square Garden]] (1)
+|location2=[[Boston]]: [[Boston Garden]] (2)
+|location3=[[Toronto]]: [[Maple Leaf Gardens]] (3)
+|dates=April 5–9, 1932
+|coaches=Toronto: [[Dick Irvin]]<br/>New York: [[Lester Patrick]]
+|team1_captain=[[Hap Day]]
+|team2_captain=[[Bill Cook]]
+|series_winner=[[Ace Bailey]] (15:07, third)
+|hofers='''Maple Leafs:'''<br/>[[Ace Bailey]] (1975)<br/>[[King Clancy]] (1958)<br/>[[Charlie Conacher]] (1961)<br/>[[Hap Day]] (1961)<br/>[[Red Horner]] (1965)<br/>[[Busher Jackson]] (1971)<br/>[[Joe Primeau]] (1963)<br/>'''Rangers:'''<br/>[[Frank Boucher]] (1958)<br/>[[Bill Cook]] (1952)<br/>[[Bun Cook]] (1995)<br/>[[Ching Johnson]] (1958)<br/>[[Earl Seibert]] (1963)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Lester Patrick]] (1947, player)
+|format=Best-of-five
+}}
+The '''1932 Stanley Cup Final''' was a best-of-five series between the [[1931–32 New York Rangers season|New York Rangers]] and the [[1931–32 Toronto Maple Leafs season|Toronto Maple Leafs]]. Toronto would win the series in three straight to win their first [[Stanley Cup]] as the Maple Leafs.<ref>The franchise won two Stanley Cup championships as the 'Torontos' (1918) and 'St. Patricks' (1922).</ref>
+
+Game two was moved from New York to Boston due to a scheduling conflict at [[Madison Square Garden (1925)|Madison Square Garden]]. It remains the only neutral site Stanley Cup Finals game to be played in the United States and the first neutral site Stanley Cup Finals game contested by two NHL teams.
+
+==Paths to the Finals==
+New York defeated the defending champion Canadiens in a best-of-five 3–1 to advance to the finals. The Leafs had to play  two total-goals series; 6–2 against 1931 finalists Chicago, and 4–3 against the Maroons.
+
+==Game summaries==
+New York would have to play game two in Boston, due to the circus having been booked into Madison Square Garden.
+
+Toronto's 'Kid Line' of Jackson, Conacher and Primeau, in their first Finals, combined for eight goals.
+
+Toronto's coach [[Dick Irvin]] made his second straight Finals appearance, having coached for Chicago in 1931.
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=New York Rangers
+|stadium2=[[Maple Leaf Gardens]]
+|stadium1=[[Madison Square Garden III]]
+
+|date1       =April 5
+|score1      =6–4
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/tor-vs-nyr/1932/04/05/1931030211#game=1931030211,game_state=final
+|1-1-1       =[[Hap Day]] (3) - 4:25
+|1-1-2       =17:25 - [[Bun Cook]] (3)
+|1-2-1       =[[Busher Jackson]] (1) - 3:35<br>Busher Jackson (2) - 10:20<br>[[Charlie Conacher]] (4) - 10:50<br>Busher Jackson (3) - 17:05
+|1-2-2       =18:20 - [[Cecil Dillon]] (2)
+|1-3-1       =[[Red Horner]] (2) - 18:32
+|1-3-2       =2:35 - [[Ching Johnson]] (2)<br>6:30 - Bun Cook (4)
+|goalie1-1   =[[Lorne Chabot]]
+|goalie1-2   =[[John Ross Roach]]
+}}{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=New York Rangers
+|stadium2=[[Maple Leaf Gardens]]
+|stadium1=[[Boston Garden]]
+
+|date2       =April 7
+|score2      =6–2
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/tor-vs-nyr/1932/04/07/1931030212#game=1931030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =3:53 - [[Bun Cook]] (5)
+|2-2-1       =[[Busher Jackson]] (4) - 2:06<br>[[Charlie Conacher]] (5) - 8:58
+|2-2-2       =1:00 - [[Doug Brennan]] (1)
+|2-3-1       =[[King Clancy]] (1) - 1:49<br>Charlie Conacher (6) - 9:56<br>King Clancy (2) - 10:51<br>[[Baldy Cotton]] (2) - 17:10
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Lorne Chabot]]
+|goalie2-2   =[[John Ross Roach]]
+
+|date3       =April 9
+|score3      =4–6
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/nyr-vs-tor/1932/04/09/1931030213#game=1931030213,game_state=final
+|3-1-1       =5:39 - [[Andy Blair (ice hockey)|Andy Blair]] (1)<br>6:11 - Andy Blair (2)
+|3-1-2       =''No scoring''
+|3-2-1       =10:57 - [[Busher Jackson]] (5)
+|3-2-2       =[[Frank Boucher]] (1) - 15:24 
+|3-3-1       =8:56 - [[Frank Finnigan]] (2)<br>15:07 - [[Ace Bailey]] (1)<br>17:36 - [[Bob Gracie]] (3)
+|3-3-2       =[[Bun Cook]] (6) - 16:32<br>Frank Boucher (2) - 18:26<br>Frank Boucher (3) - 19:26
+|goalie3-1   =[[Lorne Chabot]]
+|goalie3-2   =[[John Ross Roach]]
+
+|series = Toronto won series 3–0
+}}
+
+==Stanley Cup engraving==
+The 1932 Stanley Cup was presented to Maple Leafs captain Hap Day by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Maple Leafs 6–4 win over the Rangers in game three.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1931–32 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Lorne Chabot]]
+|defence=*2 Reginald [[Red Horner]]
+*3 [[Alex Levinsky]]
+*4 Clarence [[Hap Day]] (Captain)
+*7 Frank [[King Clancy]]
+*18 [[Fred Robertson]]*
+|centres=*5 [[Andy Blair (ice hockey)|Andy Blair]]
+*10 [[Joe Primeau]]
+*14 [[Bob Gracie]]
+|wingers=*6 Irvine [[Ace Bailey]]
+*8 Harold [[Harold Cotton (ice hockey)|Baldy Cotton]]
+*9 [[Charlie Conacher]]
+*11 Harvey [[Busher Jackson]]
+*12 [[Frank Finnigan]]*
+*15 [[Earl Miller (ice hockey)|Earl Miller]]*
+*16 Harold [[Hal Darragh|Hal Darragh]]*
+|non-players=
+* [[Jack Bickell]] (President/Owner), Harry MacGee (Vice President/Owner)
+* George Cortelle (Vice president/Owner), Ed Bickle (Vice President/Owner),
+* [[Conn Smythe]] (Managing Director/Manager/Owner), [[Frank Selke]] Sr. (Publicity Director)
+* [[Dick Irvin]] Sr. (Coach), Tim Daly (Trainer)
+* [[Stafford Smythe]] (Mascot)
+* John Aird*, John Edward Birks*, Albert Ellsworth†, George Goodenham*, Bob Laidlaw*,
+* Leighton McCarty*, [[W. A. H. MacBrien|William MacBrien]]*, Fred Morrow*, John Murdoch*, 
+* Frank O'Connor*, Alfred Rogers*, Frank Ralph*, Victor Ross*, William Ross*, 
+* Horne Smith*, Sigmund Samuel*, John Tory* (Investors).
+|all-notes=
+{{asterisk}} Left off the newer ring.
+|engraving-notes=
+* Conn Smythe's son Stafford Smythe (who later served as president of the Toronto Maple Leafs from 1958 to 1970) is the youngest person to be engraved on the Stanley Cup, engraved in 1932 at age 11.  His name was also engraved sideways on the original ring. It was engraved the correct way on the newer version.
+* Conn Smythe was engraved twice, once as Conn Smythe, manager, and the other time as Conn Smythe, managing director.  His name was only included once on the newer version of the Stanley Cup.
+* Smythe wanted to include 17 investors on the Stanley Cup and playoff scores.  To have enough room, five players' names were engraved by their last names only: Darragh, Finnigan, Gracie, Miller, Robertson.  When the cup was redesigned during the 1957–58 season, the playoff game scores, 17 investors, and five players listed by only their last name were removed.  Those five players played every playoff game and qualified to be on the cup.  There was more than enough room to include the 5 missing players.
+}}
+
+==See also==
+*[[1931–32 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+
+{{s-start}}
+{{succession box |
+ before = [[1931 Stanley Cup Finals|Montreal Canadiens<br>1931]] |
+ after = [[1933 Stanley Cup Finals|New York Rangers<br>1933]] |
+ title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+ years = 1932|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{New York Rangers}}
+{{Toronto Maple Leafs}}
+{{1931–32 NHL season by team}}
+
+[[Category:1931–32 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Rangers games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1932 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1932 in sports in New York City|Stanley Cup Finals]]
+[[Category:1932 in sports in Ontario|Stanley Cup Finals]]
+[[Category:1930s in Boston]]
+[[Category:1930s in Toronto]]
+[[Category:1932 in Canadian sports|Stanley Cup Finals]]
+[[Category:1930s in Manhattan]]
+[[Category:Events at the Boston Garden]]
+[[Category:April 1932 sports events in the United States]]
+[[Category:April 1932 sports events in Canada]]

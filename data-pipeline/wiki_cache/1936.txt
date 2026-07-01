@@ -1,0 +1,177 @@
+{{Short description|1936 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1936
+|team1='''[[1935–36 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_1='''3'''
+|team1_2='''9'''
+|team1_3=3*
+|team1_4='''3'''
+|team1_tot=3
+|team2=[[1935–36 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto
+|team2_1=1
+|team2_2=4
+|team2_3='''4'''*
+|team2_4=2
+|team2_tot=1
+|format=best-of-five
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 2)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4)
+|dates=April 5–11, 1936
+|team2_coach=[[Dick Irvin]]
+|team1_coach=[[Jack Adams]]
+|team1_captain=[[Doug Young (hockey player)|Doug Young]]
+|team2_captain=[[Hap Day]]
+|series_winner=[[Pete Kelly (ice hockey)|Pete Kelly]] (9:45, third)
+|hofers='''Red Wings:'''<br/>[[Marty Barry]] (1965)<br/>[[Ebbie Goodfellow]] (1963)<br/>[[Syd Howe]] (1965)<br/>[[Herbie Lewis (ice hockey)|Herbie Lewis]] (1989)<br/>'''Maple Leafs:'''<br/>[[King Clancy]] (1958)<br/>[[Charlie Conacher]] (1961)<br/>[[Hap Day]] (1961)<br/>[[George Hainsworth]] (1961)<br/>[[Red Horner]] (1965)<br/>[[Busher Jackson]] (1971)<br/>[[Joe Primeau]] (1963)<br/>'''Coaches:'''<br/>[[Jack Adams]] (1936, player)<br/>[[Dick Irvin]] (1958, player)
+}}
+The '''1936 Stanley Cup Final''' was contested by the [[1935–36 Detroit Red Wings season|Detroit Red Wings]] and the [[1935–36 Toronto Maple Leafs season|Toronto Maple Leafs]]. This was Detroit's second appearance in the Finals and Toronto's sixth. Detroit would win the series 3–1 to win their first [[Stanley Cup]]. This marked the sixth consecutive season of a different winner, and the eighth of the first ten teams (excluding the New York Americans and the Pittsburgh Pirates/Philadelphia Quakers, who never won the Cup) to win in the ten seasons since the Stanley Cup became exclusive to the NHL. 
+
+==Path to the Final==
+Detroit defeated the defending champion [[Montreal Maroons]] in a best-of-five 3–0 to advance to the Finals. The Leafs had to play a total-goals series; 8–6 against [[Boston Bruins]], and win a best-of-three 2–1 against the [[New York Americans]] to advance to the Finals.
+
+==Game summaries==
+
+{{NHLPlayoffs
+|team2=Detroit Red Wings
+|team1=Toronto Maple Leafs
+|stadium1=[[Olympia Stadium]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 5
+|home1       =1
+|score1      =1–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-det/1936/04/05/1935030211#game=1935030211,game_state=final
+|1-1-1       =[[Buzz Boll]] (5) - 12:15
+|1-1-2       =4:53 - ''sh'' - [[Bucko McDonald]] (1)<br>5:37 - [[Syd Howe]] (2)<br>12:05 - [[Wally Kilrea]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[George Hainsworth]]
+|goalie1-2   =[[Normie Smith]]
+
+|date2       =April 7
+|home2       =1
+|score2      =4–9
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/tor-vs-det/1936/04/07/1935030212#game=1935030212,game_state=final
+|2-1-1       =[[Buzz Boll]] (6) - 12:35
+|2-1-2       =1:30 - [[Wally Kilrea]] (2)<br>4:25 - [[Marty Barry]] (1)<br>10:05 - ''pp'' - [[Herbie Lewis (ice hockey)|Herbie Lewis]] (2)<br>16:55 - [[Bucko McDonald]] (2)
+|2-2-1       =[[Joe Primeau]] (1) - 14:00
+|2-2-2       =7:15 - ''pp'' - [[John Sorrell (ice hockey)|John Sorrell]] (2)<br>9:10 - [[Gord Pettinger]] (1)
+|2-3-1       =[[Bill Thoms]] (2) - 9:40<br>[[Bob Davidson (ice hockey)|Bob Davidson]] (1) - 16:10
+|2-3-2       =7:30 - John Sorrell (3)<br>12:05 - Gord Pettinger<br>17:15 - Bucko McDonald (3)
+|goalie2-1   =[[George Hainsworth]]
+|goalie2-2   =[[Normie Smith]]
+
+|date3       =April 9
+|home3       =2
+|score3      =3–4
+|ot3         =1
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/det-vs-tor/1936/04/09/1935030213#game=1935030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Ralph Bowman]] (2) - 9:23
+|3-2-1       =''No scoring''
+|3-2-2       =[[Mud Bruneteau]] (2) - 1:05
+|3-3-1       =13:09 - [[Joe Primeau]] (2)<br>15:20 - [[Pep Kelly]] (1)<br>19:19 - Pep Kelly (2)
+|3-3-2       =[[Syd Howe]] (3) - 11:15
+|3-4-1       =00:30 - [[Buzz Boll]] (7)
+|3-4-2       =''No scoring''
+|goalie3-1   =[[George Hainsworth]]
+|goalie3-2   =[[Normie Smith]]
+
+|date4       =April 11
+|home4       =2
+|score4      =3–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/det-vs-tor/1936/04/11/1935030214#game=1935030214,game_state=final
+|4-1-1       =15:10 - [[Joe Primeau]] (3)
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =[[Ebbie Goodfellow]] (1) - 9:55<br>[[Marty Barry]] (2) - 10:38
+|4-3-1       =10:57 - [[Bill Thoms]] (3)
+|4-3-2       =[[Pete Kelly (ice hockey)|Pete Kelly]] (1) - 9:45
+|goalie4-1   =[[George Hainsworth]]
+|goalie4-2   =[[Normie Smith]]
+
+|series = Detroit won series 3–1
+}}
+
+==Stanley Cup engraving==
+The 1936 Stanley Cup was presented to Red Wings captain Doug Young by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Red Wings 3–2 win over the Maple Leafs in game four.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1935–36 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Normie Smith]]
+|defence=*2 [[Doug Young (hockey player)|Doug Young]] (Captain)
+*3 Wilfred [[Bucko McDonald]]
+*5 [[Ebbie Goodfellow]]
+*16 [[Ralph "Scotty" Bowman]]
+|centres=*7 [[Marty Barry]]
+*9 [[Wally Kilrea]]
+*11 [[Gord Pettinger]]
+|wingers=*4 [[Herbie Lewis (ice hockey)|Herbie Lewis]]
+*6 [[Larry Aurie]]
+*8 [[Syd Howe]]
+*10 [[John Sorrell (ice hockey)|John Sorrell]]
+*12 [[Hec Kilrea]]
+*14 [[Mud Bruneteau|Mordere "Mud" Bruneteau]]
+*15 [[Pete Kelly (ice hockey)|Pete Kelly]]
+|non-players=
+*[[James E. Norris]] Sr. (President/Owner), [[James D. Norris]] Jr. (Vice President/Owner) 
+*[[Arthur Wirtz]] Sr. (Secretary-Treasurer/Owner),  [[Jack Adams]] (Manager-Coach)
+* Frank "Honey" Walker (Trainer), John Gilles (Business Manager) 
+|engraving-notes=
+* Four Red Wings were included on the team picture, but left off the Stanley Cup: #14 [[Wilfie Starr]] (C), #17 [[Art Giroux]] (RW), Les Tooke (G), and assistant trainer Carl Mattson. Tooke, who spent the season with the Windsor Shamrocks of the Michigan-Ontario Hockey League, was the Wings' spare goaltender; he never played in the NHL. 
+}}
+
+==Detroit: "City of Champions"==
+When the Red Wings won the 1936 Stanley Cup, the City of Detroit was mired in the Great Depression, which had hit Detroit and its industries particularly hard. But with the success of the Red Wings and other Detroit teams and athletes in the 1935/36 sports season, Detroit's luck appeared to be changing, as the city was dubbed the "[[Champions day#City of Champions|City of Champions]]".<ref>{{cite web|url=https://www.espn.com/espn/titletown/news/story?id=3427425 |title=Detroit is a hockey, baseball, basketball town |website=[[ESPN]] |date=June 17, 2008 |access-date=February 25, 2014}}</ref> The [[Detroit Tigers]] started the winning streak by winning the [[1935 World Series]], and the [[Detroit Lions]] continued the process by capturing the [[1935 NFL Championship Game]]. When the Red Wings completed their own championship drive, the city had seen three major sporting league championships in less than a year.
+
+==See also==
+* [[1935–36 NHL season]]
+
+==Notes==
+{{Reflist |group=Note}}
+
+==References==
+{{reflist}}
+
+===Bibliography===
+* {{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+ before = [[1935 Stanley Cup Finals|Montreal Maroons<br>1935]] |
+ after = [[1937 Stanley Cup Finals|Detroit Red Wings<br>1937]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1936|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Detroit Red Wings}}
+{{Toronto Maple Leafs}}
+{{1935–36 NHL season by team}}
+
+[[Category:1935–36 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:Ice hockey competitions in Detroit]] 
+[[Category:April 1936 sports events in Canada|Stanley Cup Finals]] 
+[[Category:April 1936 sports events in the United States|Stanley Cup Finals]] 
+[[Category:1936 in sports in Michigan|Stanley Cup]]
+[[Category:1936 in Detroit]]
+[[Category:1936 in Ontario]]
+[[Category:1930s in Toronto]]
+[[Category:Ice hockey competitions in Toronto]]

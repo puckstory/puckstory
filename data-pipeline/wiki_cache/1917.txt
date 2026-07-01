@@ -1,0 +1,183 @@
+{{Short description|1917 ice hockey championship series}}
+{{Use mdy dates|date=May 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1917
+|format=best-of-five
+|team1='''[[1916–17 Seattle Metropolitans season|Seattle Metropolitans]]''' (PCHA)
+|team1_short=Seattle
+|team1_1=4
+|team1_2='''6'''
+|team1_3='''4'''
+|team1_4='''9'''
+|team1_tot=3
+|team2=[[1916–17 Montreal Canadiens season|Montreal Canadiens]] (NHA)
+|team2_short=Montreal
+|team2_1='''8'''
+|team2_2=1
+|team2_3=1
+|team2_4=1
+|team2_tot=1
+|table-note=
+|team1_coach=[[Pete Muldoon]]
+|team2_coach=[[George Kennedy (sports promoter)|George Kennedy]]
+|dates= March 17–26, 1917
+|location1=[[Seattle]]: [[Seattle Ice Arena]]
+|series_winner=[[Bernie Morris]] (7:55, first)
+|hofers='''Metropolitans:'''<br/>[[Frank Foyston]] (1958)<br/>[[Hap Holmes]] (1972)<br/>[[Jack Walker (ice hockey)|Jack Walker]] (1960)<br/>'''Canadiens:'''<br/>[[Newsy Lalonde]] (1950)<br/>[[Jack Laviolette]] (1963)<br/>[[Reg Noble]] (1962)<br/>[[Didier Pitre]] (1963)<br/>[[Tommy Smith (ice hockey)|Tommy Smith]] (1973)<br/>[[Georges Vézina|Georges Vezina]] (1945)<br/>'''Coaches:'''<br/>Newsy Lalonde (1950, player)
+}}
+The '''1917 Stanley Cup Final''' was contested by the [[Pacific Coast Hockey Association]] (PCHA) champion [[1916–17 Seattle Metropolitans season|Seattle Metropolitans]] and the [[National Hockey Association]] (NHA)  and [[Stanley Cup]] defending champion [[1916–17 Montreal Canadiens season|Montreal Canadiens]]. Seattle defeated Montreal three games to one in a best-of-five-game series to become the first team from the United States to win the Cup. The series was also the first Stanley Cup Final to be played in the United States,<ref>{{Cite web|title=Seattle Metropolitans win the Stanley Cup on March 26, 1917.|url=https://www.historylink.org/file/20915|last=Ticen|first=Kevin|date=January 28, 2020|website=HistoryLink.org}}</ref> and the last Stanley Cup Final to not feature a [[National Hockey League]] team, as the NHA rebranded as the NHL in November 1917.<ref>{{Harvnb|Holzman|Nieforth|2002|p=159}}</ref> This was the first major professional sports championship ever won by a Seattle-based team.
+
+==Paths to the Final==
+{{Main|1916–17 NHA season|1916–17 PCHA season}}
+
+Seattle won the PCHA title after finishing the [[1916–17 PCHA season|1916–17 regular season]] in first place with a 16–8 record. Meanwhile, Montreal, who was the champion of the first half of the NHA season, advanced to the final series after narrowly defeating the [[Ottawa Senators (original)|Ottawa Senators]], 7–6, in a two-game total-goals playoff series to end the [[1916–17 NHA season]].
+
+===Bracket===
+{{3TeamBracket-info
+| legs = 2
+| RD1-legs = 2
+| aggregate = y
+| RD1=NHA Championship
+| RD2=Stanley Cup Final
+| RD1-seed1='''N1'''
+| RD1-team1='''Montreal Canadiens'''
+| RD1-score1-1='''5'''
+| RD1-score1-2=2
+| RD1-seed2=N2
+| RD1-team2=Ottawa Senators
+| RD1-score2-1=2
+| RD1-score2-2='''4'''
+| RD1-score1-agg='''7'''
+| RD1-score2-agg=6
+
+| RD2-legs = 4
+| RD2-seed1='''PC'''
+| RD2-team1='''Seattle Metropolitans'''
+| RD2-score1-1=4
+| RD2-score1-2='''6'''
+| RD2-score1-3='''4'''
+| RD2-score1-4='''9'''
+| RD2-seed2=NC
+| RD2-team2=Montreal Canadiens
+| RD2-score2-1='''8'''
+| RD2-score2-2=1
+| RD2-score2-3=1
+| RD2-score2-4=1
+| RD2-score1-agg='''3'''
+| RD2-score2-agg=1
+}}
+
+==Game summaries==
+[[Image:Bernie Morris.jpg|thumb|150px|Bernie Morris]]
+The games of the Final were played at the Seattle Ice Arena. Games one and three were played under PCHA seven-man rules; games two and four were played under NHA six-man rules. [[Bernie Morris]] scored 14 of Seattle's 23 total goals for the series, including six in their 9–1 victory in game four.<ref>{{cite book |last1=Ticen |first1=Kevin |title=When It Mattered Most |date=April 2019 |publisher=Clyde Hill Publishing |location=Seattle, WA |isbn=978-1798208496}}</ref> Future [[Hockey Hall of Fame]] goaltender [[Hap Holmes]] recorded a 2.90 goals-against average for the Mets.
+
+Montreal Canadiens NHA champion roster - George Vezina goalie, Bert Corbeau defence, Harry Mummery defence, Edouard "Newsy" Lalonde (Captain) Center-Rover Tommy Smith center, Didier Pitre right wing, Reginald "Reg" Noble left wing, Jack Laviolette left wing, Louis Berlinguette left wing, Wilfred "Billy" Coutu defence spares - Sarsfield "Steve" Malone center, George "Skinner" Poulin center, Jules Rochon - defence Harold "Hal" McNamara defence 
+Dave Majors defence, Arthur Brooks defence, Joe Maltais right wing, U.P. Boulder (President), George "Kennedy" Kendall (Owner/Manager-Coach),
+
+Seattle Metropolitans PCHA champion roster - Harry "Happy" Holmes goalie, Roy Rickey defence, Everard "Ed" Carpenter defence, Jack Walker rover-right wing, Bernie Morris center, Frank Foyston (Captain) left wings, Jim Riley left wing, Bobby "Stubby" Rowe defence, Carol "Cully" Wilson right wing, Pete Muldoon (Owner/Manager-Coach).
+
+;Game one
+In game one, [[Didier Pitre]] scored four goals as he led the Canadiens to an 8–4 victory. Pitre opened the scoring in the third minute before Morris tied it four minutes later. [[Jack Laviolette]] scored twenty seconds later to put the Canadiens ahead, followed by Pitre to put the Canadiens ahead 3–1 after one period. [[Con Corbeau]] and [[Newsy Lalonde]] scored in the second to put the Canadiens ahead 5–1 after two periods. In the third, Morris and [[Frank Foyston]] scored to bring Seattle within two goals, before Pitre scored again. Morris scored to make it 6–4 before Pitre and Corbeau scored to make the final score 8–4.<ref>{{cite news |newspaper=Montreal Gazette |title=Canadiens Won By Good Margin From Seattle |date=March 19, 1917 |page=16}}</ref>
+
+;Game two
+Seattle tied the series with a convincing win played under NHA hockey rules. Morris opened the scoring at nine minutes of the first period. Wilson scored to make it 2–0 for Seattle after the first period. Morris and Foyston scored in the second to put Seattle up 4–0 after two periods. Frank Foyston then scored twice in the third period to complete his [[hat trick]] and give Seattle a lead of 6–0. Seattle then played defensively but [[Tommy Smith (ice hockey)|Tommy Smith]] scored in the final minutes for the Canadiens to spoil the shutout. Frustration boiled over at the start of the third period with a fight between [[Roy Rickey]] and [[Billy Coutu]] before [[Harry Mummery]] jumped into the fray.<ref>{{cite news |newspaper=Montreal Daily Mail |title=Seattle Outplayed the Canadiens in Game Last Night |date=March 21, 1917 |page=8}}</ref>
+
+;Game three
+The game was played at a fast clip with no goals before Morris scored after ten minutes. Montreal's goaltender [[Georges Vézina]] made several big saves in the second to hold Seattle off from scoring. Coutu and Rickey had their third fight of the series and Coutu was given a twenty-minute penalty and Rickey a ten-minute period. The Canadiens held off Seattle in an ensuing power play to end the second with Seattle holding a one-goal lead. In the third, Foyston scored after five minutes and Morris scored a quick pair of goals to give Seattle a 4–0 lead.<ref>{{cite news |newspaper=Montreal Daily Mail |title=Mets Take Lead In Struggle for Old Stanley Cup |date=March 21, 1917 |page=8}}</ref>
+
+;Game four
+In an individual rush, Morris put the Mets ahead early in the first period. The Canadiens tried to fight back, but were stymied by the defences of Seattle. Seattle scored three times in the second period to put the game out of reach. In the third, the onslaught continued, as the Mets led 7–0 before Laviolette scored to break the shut out.<ref>{{cite news |newspaper=Montreal Daily Mail |title=Seattle Wrest the Stanley Cup from Flying Frenchmen |date=March 27, 1917 |page=8}}</ref>
+
+{|class="wikitable"
+!colspan=2|Game-by-game
+!Winning team
+!Score
+!Losing team
+!Rules used
+!Location
+|-
+|1||March 17||Montreal Canadiens|| align="center"|8–4||Seattle Metropolitans||PCHA||rowspan="4"|[[Seattle Ice Arena]]
+|-
+|2||March 20||Seattle Metropolitans|| align="center"|6–1||Montreal Canadiens||NHA
+|-
+|3||March 23||Seattle Metropolitans|| align="center"|4–1||Montreal Canadiens||PCHA
+|-
+|4||March 26||Seattle Metropolitans|| align="center"|9–1||Montreal Canadiens||NHA
+|-
+!colspan="7" style="text-align:left;"|Metropolitans win best-of-five series 3 games to 1
+|}
+
+==Stanley Cup engraving==
+The 1917 Stanley Cup was presented by the trophy's trustee [[William Foran]]. 
+
+The following Metropolitans players and staff were members of the Stanley Cup winning team.
+
+[[File:Seametro.jpg|thumb|300px|Seattle Metropolitans team in 1917.]]
+
+'''1916–17 Seattle Metropolitans'''
+
+{{Stanley Cup champion
+|defence=*[[Bobby Rowe (ice hockey)|Bobby Rowe]] (Captain)
+*[[Roy Rickey]]
+* Everard [[Eddie Carpenter]]
+|goaltenders=*1 Harry [[Hap Holmes]]
+|centres=*[[Bernie Morris]]
+*7 [[Jack Walker (ice hockey)|Jack Walker]]‡
+|wingers=*4 [[Frank Foyston]]
+*[[James Riley (ice hockey)|Jim Riley]]
+*Carol [[Cully Wilson]]
+|non-players=*[[Pete Muldoon]] (President-Owner/Manager-Coach)
+‡ Played rover, a position between both defences and behind the centre.
+|engraving-notes=
+* "1917 Seattle World's Champions defeated Canadians" was engraved on the cup - a misspelling of Canadiens.
+* Four of the Metropolitans had played together with the 1914 Stanley Cup champion [[1913–14 Toronto Hockey Club season|Toronto Blueshirts]]: Jack Walker, Frank Foyston, Hap Holmes and Cully Wilson.{{sfn|Harper|2013|p=272}}
+* Pete Muldoon was 29 years and nine months old and is still youngest coach or manager to win the Stanley Cup.<ref>{{cite book |last1=Ticen |first1=Kevin |title=When It Mattered Most |date=April 2019 |publisher=Clyde Hill Publishing |location=Seattle, WA |isbn=978-1798208496}}</ref>
+
+}}
+
+==Banner==
+[[File:MetropolitansStanleyCupBanner.jpg|alt=Metropolitans Stanley Cup Banner raised in Climate Pledge Arena|thumb|Metropolitans Stanley Cup Banner raised in Climate Pledge Arena]]
+
+The [[Seattle Kraken]] revealed and hung a banner in honor of their forerunners' achievement on October 27, 2021, the night they hosted the Canadiens for the first time; if one does not include a 1961 exhibition game against the [[Seattle Totems]], the Canadiens had not played a game of professional hockey in Seattle in 102 years – since the [[1919 Stanley Cup Final]] that was never completed due to the [[Spanish flu]] pandemic.<ref>{{Cite web|title=Kraken raise Metropolitans Stanley Cup banner at Climate Pledge Arena|url=https://www.nhl.com/news/kraken-raise-metropolitans-banner-at-arena/c-327264188|date=October 27, 2021|access-date=October 27, 2021|website=NHL.com|language=en-US}}</ref>
+
+==See also==
+* [[1916–17 NHA season]]
+* [[1916–17 PCHA season]]
+
+==References==
+*{{cite web|url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1916-17 |title=1916–17 Stanley Cup Winner: Seattle Metropolitans |publisher=[[Hockey Hall of Fame]] |access-date=July 2, 2006 |url-status=dead |archive-url=https://web.archive.org/web/20121020173731/http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1916-17 |archive-date=October 20, 2012 }}
+*{{cite web | url=http://www.hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm | title=hockeyleaguehistory.com – Pacific Coast Hockey Association | access-date=July 2, 2006| archive-url= https://web.archive.org/web/20060703172648/http://hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm| archive-date= July 3, 2006 | url-status= live}}
+* {{Citation|last=Harper|first=Stephen J.|title=A Great Game: The Forgotten Leafs & The Rise of Professional Hockey|year=2013|publisher=Simon & Schuster Canada|location=Toronto|isbn=978-1-4767-1653-4 }}
+* {{Citation|last1=Holzman|first1=Morey|last2=Nieforth|first2=Joseph|title=Deceptions and Doublecross: How the NHL Conquered Hockey|year=2002|publisher=Dundurn Press|location=Toronto|isbn=1-55002-413-2}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame |author2-link=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 49}}
+*{{cite book | editor-last=Diamond|editor-first=Dan | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=48–49}}
+
+;Notes
+{{Reflist}}
+
+{{s-start}}
+{{succession box |
+  before = [[1916 Stanley Cup Final|Montreal Canadiens<br>1916]] |
+  after = [[1918 Stanley Cup Final|Toronto<br>1918]] |
+  title = [[List of Stanley Cup champions|Seattle Metropolitans<br>Stanley Cup champions]] |
+  years = 1917|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{1916–17 NHA season by team}}
+{{Montreal Canadiens}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1916–17 in Canadian ice hockey|Stanley Cup]]
+[[Category:1916–17 in American ice hockey|Stanley Cup]]
+[[Category:1916–17 PCHA season|Stan]]
+[[Category:1916–17 NHA season|Stan]]
+[[Category:Ice hockey in Seattle]]
+[[Category:Montreal Canadiens games]]
+[[Category:Seattle Metropolitans games]]
+[[Category:Sports competitions in Seattle]]
+[[Category:1910s in Seattle]]
+[[Category:1917 in sports in Washington (state)|Stanley Cup]]
+[[Category:March 1917 sports events in the United States]]

@@ -1,0 +1,187 @@
+{{Short description|1952 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1952
+|image=1952 Detroit Red Wings.jpg
+|image_size=
+|caption=Team photo of the [[1951–52 Detroit Red Wings season|1951–52 Detroit Red Wings]]
+|team1='''[[1951–52 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_captain=[[Sid Abel]]
+|team1_coach=[[Tommy Ivan]]
+|team1_1='''3'''
+|team1_2='''2'''
+|team1_3='''3'''
+|team1_4='''3'''
+|team1_tot=4
+|team2=[[1951–52 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal 
+|team2_captain=[[Émile Bouchard|Emile Bouchard]]
+|team2_coach=[[Dick Irvin]]
+|team2_1=1
+|team2_2=1
+|team2_3=0
+|team2_4=0
+|team2_tot=0
+|dates=April 10–15, 1952
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4)
+|series_winner=[[Metro Prystai]] (6:50, first)
+|hofers='''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Alex Delvecchio]] (1977)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Marcel Pronovost]] (1978)<br/>[[Terry Sawchuk]] (1971)<br/>'''Canadiens:'''<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Elmer Lach]] (1966)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Maurice Richard]] (1961)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Tommy Ivan]] (1974)
+}}
+The '''1952 Stanley Cup Final''' was contested by the [[1951–52 Detroit Red Wings season|Detroit Red Wings]] and the [[1951–52 Montreal Canadiens season|Montreal Canadiens]] in the first of the four Detroit–Montreal [[Stanley Cup Final]] series of the 1950s. The Canadiens were appearing in their second straight Finals series, while Detroit was returning after winning in [[1950 Stanley Cup Final|1950]].
+
+The Red Wings swept the Canadiens in four games, shutting them out twice and allowing one goal in each of the other two games. The Red Wings had also swept the [[1951–52 Toronto Maple Leafs season|Toronto Maple Leafs]] to reach the Finals, becoming the first team to go 8–0 in an NHL postseason, and became the first undefeated NHL playoff team since the [[1928–29 Boston Bruins season|1928–29 Boston Bruins]] went 5–0.
+
+==Paths to the Finals==
+Detroit defeated the [[1951 Stanley Cup Final|defending champion]] [[Toronto Maple Leafs]] 4–0 to reach the Finals. Montreal defeated the [[Boston Bruins]] 4–3 to reach the Finals.
+
+==Game summaries==
+[[Terry Sawchuk]] posted two shutouts in his Cup Finals debut. [[Gordie Howe]] scored two goals in his Cup Finals debut. The Red Wings went through the playoffs perfect, a feat that has been replicated only once since: in {{scfy|1960}}, the Canadiens went 8–0 against first the [[Chicago Blackhawks|Chicago Black Hawks]] and then the Maple Leafs en route to their record fifth consecutive Stanley Cup.
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Olympia Stadium]]
+
+|date1       =April 10
+|home1       =1
+|score1      =3–1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/det-vs-mtl/1952/04/10/1951030211#game=1951030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Tony Leswick]] (2) - 3:27
+|1-2-2       =''No scoring''
+|1-3-1       =Tony Leswick (3) - 7:59<br>[[Ted Lindsay]] (3) - ''en'' - 19:44
+|1-3-2       =11:01 - [[Tom Johnson (ice hockey)|Tom Johnson]] (1)
+|goalie1-1   =[[Terry Sawchuck]]
+|goalie1-2   =[[Gerry McNeil]]
+
+|date2       =April 12
+|home2       =1
+|score2      =2–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/det-vs-mtl/1952/04/12/1951030212#game=1951030212,game_state=final
+|2-1-1       =[[Marty Pavelich]] (2) - 16:09
+|2-1-2       =18:37 - ''pp'' - [[Elmer Lach]] (1)
+|2-2-1       =[[Ted Lindsay]] (4) - ''pp'' - 00:43
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Terry Sawchuck]]
+|goalie2-2   =[[Gerry McNeil]]
+
+|date3       =April 13
+|home3       =2
+|score3      =0–3
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/mtl-vs-det/1952/04/13/1951030213#game=1951030213,game_state=final
+|3-1-1       =4:31 - ''pp'' - [[Gordie Howe]] (1)
+|3-1-2       =''No scoring''
+|3-2-1       =9:13 - [[Ted Lindsay]] (5)
+|3-2-2       =''No scoring''
+|3-3-1       =6:54 - Gordie Howe (2)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Terry Sawchuck]]
+|goalie3-2   =[[Gerry McNeil]]
+
+|date4       =April 15
+|home4       =2
+|score4      =0–3
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/mtl-vs-det/1952/04/15/1951030214#game=1951030214,game_state=final
+|4-1-1       =6:50 - ''pp'' - [[Metro Prystai]] (1)
+|4-1-2       =''No scoring''
+|4-2-1       =19:39 - [[Glen Skov]] (1)
+|4-2-2       =''No scoring''
+|4-3-1       =7:35 - Metro Prystai (2)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Terry Sawchuck]]
+|goalie4-2   =[[Gerry McNeil]]
+
+|series = Detroit won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1952 Stanley Cup was presented to Red Wings captain Sid Abel by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Red Wings 3–0 win over the Canadiens in game four.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1951–52 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Terry Sawchuk]]
+* [[Bill Tibbs]]*
+* [[Glenn Hall]]*
+|defence=*2 [[Bob Goldham]]
+*3 [[Benny Woit]]
+*4 Leonard [[Red Kelly]] (A)
+*5 [[Leo Reise Jr.]] (A)
+*18 [[Marcel Pronovost]] 
+*19 [[Larry Zeidel]]
+* [[Hugh Coflin]]*
+|centres=*10 [[Metro Prystai]]
+*12 [[Sid Abel]] (Captain)
+*14 [[Glen Skov]]
+*15 [[Alex Delvecchio]]
+*16 [[Fred Glover (ice hockey)|Fred Glover]]
+|wingers=*7 [[Ted Lindsay]] (A)
+*8 [[Tony Leswick]]
+*9 [[Gordie Howe]]
+*11 [[Marty Pavelich]]
+*16 [[Enio Sclisizzi]] †
+*17 [[Johnny Wilson (ice hockey)|John Wilson]]
+*22 [[Vic Stasiuk]]
+|player-notes=
+<nowiki>*</nowiki> Did not play in Finals.<br/>
+† Name later not included one redone ring of Stanley Cup.
+|non-players=
+*[[James E. Norris]] Sr. (President/Owner), [[James D. Norris]] Jr. (Vice President/Owner) 
+*[[Bruce Norris (ice hockey)|Bruce Norris]] (Vice Presidents/Owner), [[Jack Adams]] (Manager)
+* Fred Huber Jr. (Publicity Director), [[Tommy Ivan]] (Coach) 
+*[[Carson Cooper]] (Chief Scout), Carl Mattson (Trainer) 
+*Ross [[Lefty Wilson]] (Asst. Trainer), Wally Crossman (Asst. Trainer/Stick Boy)
+|engraving-notes=
+* * Three players were engraved on the Stanley Cup but did not play in any games when on Detroit's roster. [[Glenn Hall]] played his first NHL game in the 1952–53 Season. [[Bill Tibbs]] never played a game when in the NHL. [[Hugh Coflin]] never played in any games when he was with Detroit. Coflin's only NHL Season was 1950–51 when he played 31 games for the Chicago Blackhawks. 
+* Glenn Hall was listed as GLEN HALL on the original 1952 engraving. When the cup was redone in 1957–58, Hall was engraved on the Stanley Cup as GLIN HALL, a mistake that was repeated on the Replica Cup created in 1992–93. He was engraved before he played in his first NHL game in the 1952–53 season. Glenn Hall went on to play a record 502 consecutive complete games. Hall would win Rookie of the Year in 1956, becoming the 2nd player to have his name on the Stanley Cup, before winning the Calder Trophy (Rookie of the Year).
+* † #16 [[Enio Sclisizzi]] (LW) did not have his name included when the cup was redone in 1957–58. He played only nine games and did not play in the playoffs. 
+*Coflin, Tibbs, and Hall, who did not play in any games when with Detroit in 1952, were included on the new version of the Stanley Cup. Coflin's name was not included on the Replica Stanley Cup created in 1993.
+
+|
+}}
+
+==See also==
+* [[1951–52 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1951 Stanley Cup Final|Toronto Maple Leafs<br>1951]] |
+ after = [[1953 Stanley Cup Final|Montreal Canadiens<br>1953]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1952|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Detroit Red Wings}}
+{{Montreal Canadiens}}
+{{1951–52 NHL season by team}}
+
+[[Category:1951–52 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:April 1952 sports events in Canada|Stanley Cup Final]]
+[[Category:April 1952 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1952 in sports in Michigan|Stanley Cup]]
+[[Category:1950s in Montreal]]
+[[Category:1952 in Quebec]]
+[[Category:1952 in Detroit]]

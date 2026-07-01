@@ -1,0 +1,15 @@
+{
+  // Static-assets-only Worker: no server code, just serve the Vite build output.
+  // `npm run build` emits dist/index.html (single self-contained file); Wrangler
+  // uploads ./dist and serves it on Cloudflare's edge. Free-tier friendly.
+  "name": "puckstory",
+  "compatibility_date": "2026-07-01",
+  // Keep the app OFF the public *.workers.dev URL and the per-version preview
+  // URLs — the only intended public address is the custom domain (puckstory.com).
+  // These MUST live in config: if absent, every Git deploy re-enables them by default.
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./dist"
+  }
+}

@@ -1,0 +1,984 @@
+{{Short description|1966 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|team1=[[1965–66 Detroit Red Wings season|Detroit Red Wings]]
+|team2='''[[1965–66 Montreal Canadiens season|Montreal Canadiens]]'''
+|year=1966
+|team1_1='''3'''
+|team2_1=2
+|team1_2='''5'''
+|team2_2=2
+|team1_3=2
+|team2_3='''4'''
+|team1_4=1
+|team2_4='''2'''
+|team1_5=1
+|team2_5='''5'''
+|team1_6=2*
+|team2_6='''3'''*
+|team1_tot=2
+|team2_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 24 – May 5, 1966
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4, 6)
+|team2_winner=1
+|mvp=[[Roger Crozier]] (Red Wings)
+|series_winner=[[Henri Richard]] (2:20, OT)
+|coaches=Montreal: [[Toe Blake]]<br/>Detroit: [[Sid Abel]]
+|captains=Montreal: [[Jean Beliveau]]<br>Detroit: [[Alex Delvecchio]]
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Yvan Cournoyer]] (1982)<br/>[[Dick Duff]] (2006)<br/>[[Jacques Laperrière|Jacques Laperriere]] (1987; did not play)<br/>[[Henri Richard]] (1979)<br/>[[Gump Worsley]] (1980)<br/>'''Red Wings:'''<br/>[[Andy Bathgate]] (1978)<br/>[[Leo Boivin]] (1986)<br/>[[Alex Delvecchio]] (1977)<br/>[[Bill Gadsby]] (1970)<br/>[[Gordie Howe]] (1972)<br/>[[Norm Ullman]] (1982)<br/>'''Coaches:'''<br/>[[Sid Abel]] (1969, player)<br/>[[Toe Blake]] (1966, player) <br/>'''Officials:'''<br/>[[John Ashley (ice hockey)|Josh Ashley]] (1981)<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[John D'Amico (ice hockey)|John D'Amico]] (1993)<br/>[[Matt Pavelich]] (1987)<br/>[[Frank Udvari]] (1973)
+}}
+The '''1966 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1965–66 NHL season|1965–66 season]], and the culmination of the [[1966 Stanley Cup playoffs]]. It was contested by the [[1965–66 Detroit Red Wings season|Detroit Red Wings]] and the defending champion [[1965–66 Montreal Canadiens season|Montreal Canadiens]]. This was the fifth Detroit–Montreal series; they previously met in [[1952 Stanley Cup Final|1952]], [[1954 Stanley Cup Final|1954]], [[1955 Stanley Cup Final|1955]], and [[1956 Stanley Cup Final|1956]], with the Red Wings winning the former three and the Canadiens winning the latter. The Canadiens defeated the Red Wings in six games to win the [[Stanley Cup]] for the seventh time in eleven years. This was the last Cup Final appearance for the Red Wings until [[1995 Stanley Cup Final|1995]].
+
+==Paths to the Final==
+Montreal defeated the [[Toronto Maple Leafs]] 4–0 to advance to the Final, and Detroit defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–2.
+
+==Game summaries==
+The Montreal Canadiens were the defending champions in their twenty-second Stanley Cup Finals, after winning their thirteenth championship the previous year with a seven-game victory over the Chicago Black Hawks. This was the Detroit Red Wings' eighteenth Stanley Cup Finals, having won seven championships previously. Their most recent Finals came in 1964, when they lost to the Toronto Maple Leafs in seven games. This was the eleventh playoff series between these two teams, with Detroit winning seven of their ten previous series. Their most recent series had come in the 1958 semifinals, where Montreal won in a four-game sweep. Montreal won eighteen of twenty-eight points in this year's regular season series. Detroit would not return to the Stanley Cup Finals again until 1995. [[Toe Blake]] had coached the Canadiens to seven Cups in eleven years. 
+
+===Game one===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Olympia Stadium]]
+|date1       =April 24
+|home1       =1
+|score1      =3–2
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/det-vs-mtl/1966/04/24/1965030211#game=1965030211,game_state=final
+}}
+In game one, [[Roger Crozier]] made 33 saves in net for Detroit, and [[Paul Henderson]] scored the game winning goal early in the third period to win the game 3–2, giving the Red Wings a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DET
+|align=center | [[Floyd Smith (ice hockey)|Floyd Smith]] (3)
+|align=center | [[Andy Bathgate]] (1) 
+|align=center | 13:25
+|align=center | 1–0 DET
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Ralph Backstrom]] (2)
+|align=center | [[J. C. Tremblay]] (5) 
+|align=center | 04:23
+|align=center | 1–1 
+|-
+|align=center | DET
+|align=center | [[Bill Gadsby]] (1)
+|align=center | [[Ab McDonald]] (3) 
+|align=center | 05:14
+|align=center | 2–1 DET
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | [[Paul Henderson]] (3)
+|align=center | [[Bert Marshall]] (2)
+|align=center | 02:14
+|align=center | 3–1 DET
+|-
+|align=center | DET
+|align=center | [[Terry Harper]] (2)
+|align=center | [[Bobby Rousseau]] (3) 
+|align=center | 02:36
+|align=center | 3–2 DET
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DET
+|align=center | Bill Gadsby
+|align=center | Interference
+|align=center | 00:35
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Interference
+|align=center | 09:10
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Andy Bathgate
+|align=center | Hooking
+|align=center | 09:26
+|align=center | 2:00
+|-
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 9 || align=center | 10 || align=center | 16 || align=center | 35
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 10 || align=center | 11 || align=center | 14 || align=center | 35
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =April 26
+|home1       =1
+|score1      =5–2
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/det-vs-mtl/1966/04/26/1965030212
+}}
+In game two, Detroit defeated Montreal by a score of 5–2, to take a 2–0 series lead back home.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[J. C. Tremblay]] (2) – ''pp'' 
+|align=center | [[Jean Béliveau|Jean Beliveau]] (4) and [[Yvan Cournoyer]] (3)
+|align=center | 06:55
+|align=center | 1–0 MTL
+|-
+|align=center | DET
+|align=center | [[Andy Bathgate]] (6) – ''pp''
+|align=center | [[Dean Prentice]] (5) and [[Norm Ullman]] (8) 
+|align=center | 18:39
+|align=center | 1–1 
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | DET
+|align=center | [[Bruce MacGregor]] (1)
+|align=center | [[Paul Henderson]] (1) and Norm Ullman (9)
+|align=center | 01:51
+|align=center | 2–1 DET
+|-
+|align=center | DET
+|align=center | [[Ab McDonald]] (1)
+|align=center | [[Bill Gadsby]] (3) and [[Floyd Smith (ice hockey)|Floyd Smith]] (2) 
+|align=center | 02:45
+|align=center | 3–1 DET
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (1)
+|align=center | [[Terry Harper]] (2) and [[Noel Price]] (1)
+|align=center | 12:00
+|align=center | 3–2 DET
+|-
+|align=center | DET
+|align=center | Floyd Smith (4)
+|align=center | Andy Bathgate (2)
+|align=center | 12:28
+|align=center | 4–2 DET
+|-
+|align=center | DET
+|align=center | Dean Prentice (5)
+|align=center | [[Alex Delvecchio]] (9)
+|align=center | 16:25
+|align=center | 5–2 DET
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | MTL
+|align=center | [[Dick Duff]]
+|align=center | Cross-checking
+|align=center | 03:01
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Andy Bathgate
+|align=center | Elbowing
+|align=center | 05:30
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Paul Henderson
+|align=center | Tripping
+|align=center | 10:18
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bobby Rousseau]]
+|align=center | Hooking
+|align=center | 14:11
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Interference
+|align=center | 17:06
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | DET
+|align=center | [[Leo Boivin]]
+|align=center | Slashing
+|align=center | 03:01
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jean-Guy Talbot]]
+|align=center | Boarding
+|align=center | 05:22
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bruce MacGregor]]
+|align=center | Tripping
+|align=center | 08:55
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bryan Watson (ice hockey)|Bryan Watson]]
+|align=center | Cross-checking
+|align=center | 10:26
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]]
+|align=center | Roughing
+|align=center | 10:26
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Bryan Watson
+|align=center | Hooking
+|align=center | 12:50
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Terry Harper
+|align=center | High-sticking 
+|align=center | 17:09
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | MTL
+|align=center | Jean-Guy Talbot 
+|align=center | Slashing
+|align=center | 03:49
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | Cross-checking
+|align=center | 17:24
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | John Ferguson
+|align=center | Cross-checking
+|align=center | 17:24
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 14 || align=center | 7 || align=center | 13 || align=center | 34
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 7 || align=center | 6 || align=center | 12 || align=center | 25
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Detroit Olympia]]
+|date1       =April 28
+|home1       =1
+|score1      =4–2
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/det-vs-mtl/1966/04/26/1965030212
+}}
+[[Gilles Tremblay (ice hockey)|Gilles Tremblay]] scored twice for the Canadiens in a 4–2 over the Red Wings in game three to cut the series lead in half. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DET
+|align=center | [[Norm Ullman]] (3)
+|align=center | ''Unassisted''
+|align=center | 04:20
+|align=center | 1–0 DET
+|-
+|align=center | MTL
+|align=center | [[Dave Balon]] (1)
+|align=center | [[Terry Harper]] (3) and [[Henri Richard]] (1)
+|align=center | 15:40
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (3)
+|align=center | ''Unassisted''
+|align=center | 19:12
+|align=center | 2–1 MTL
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | MTL
+|align=center | [[Gilles Tremblay (ice hockey)|Gilles Tremblay]] (3)
+|align=center | Jean Beliveau (5)
+|align=center | 01:45
+|align=center | 3–1 MTL
+|-
+|align=center | MTL
+|align=center | Gilles Tremblay (4) – ''pp''
+|align=center | [[J. C. Tremblay]] (6) and [[Bobby Rousseau]] (4)
+|align=center | 03:21
+|align=center | 4–1 MTL
+|-
+|align=center | DET
+|align=center | [[Gordie Howe]] (4)
+|align=center | [[Alex Delvecchio]] (10) and [[Bert Marshall]] (3)
+|align=center | 19:59
+|align=center | 4–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Ralph Backstrom]]
+|align=center | Elbowing
+|align=center | 08:38
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[Leon Rochefort]]
+|align=center | High-sticking
+|align=center | 02:46
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | High-sticking
+|align=center | 05:20
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Dean Prentice]]
+|align=center | Tripping
+|align=center | 11:31
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bryan Watson (ice hockey)|Bryan Watson]]
+|align=center | Charging
+|align=center | 18:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Dave Balon]]
+|align=center | Misconduct
+|align=center | 18:23
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | DET
+|align=center | Bert Marshall
+|align=center | Holding
+|align=center | 03:03
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | High-sticking
+|align=center | 10:14
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dave Balon
+|align=center | Tripping
+|align=center | 10:14
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jean-Guy Talbot]]
+|align=center | Interference
+|align=center | 13:24
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Bench (served by [[Ab McDonald]])
+|align=center | Too many men on the ice
+|align=center | 16:50
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 9 || align=center | 9 || align=center | 13 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 9 || align=center | 15 || align=center | 7 || align=center | 31
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Detroit Olympia]]
+|date1       =May 1
+|home1       =1
+|score1      =2–1
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-det/1966/05/01/1965030214/summary
+}}
+Roger Crozier was injured in the opening five minutes and forty-eight seconds into game four and had to be replaced by backup [[Hank Bassen]]. After a scoreless first, [[Norm Ullman]] opened the scoring for the Red Wings, and [[Jean Béliveau|Jean Beliveau]] tied the game with nine seconds remaining in the second period. Ralph Backstrom scored the game winning goal in the third, and [[Gump Worsley]] made a total of 22 saves to give the Canadiens a 2–1 victory to tie the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+||'''1st'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | DET
+|align=center | [[Norm Ullman]] (4) 
+|align=center | [[Brad MacGregor]] (4) and [[Paul Henderson]] (2)
+|align=center | 11:24
+|align=center | 1–0 DET
+|-
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (4) – ''pp''
+|align=center | [[Dick Duff]] (3) and [[J. C. Tremblay]] (7)
+|align=center | 19:51
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | [[Ralph Backstrom]] (3)
+|align=center | Dick Duff (4) and [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]] (1)
+|align=center | 13:37
+|align=center | 2–1 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | DET
+|align=center | [[Parker MacDonald]]
+|align=center | Tripping
+|align=center | 04:25
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | Cross-checking
+|align=center | 10:15
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | High-sticking
+|align=center | 13:21
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Gordie Howe]]
+|align=center | Elbowing
+|align=center | 14:52
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | DET
+|align=center | [[Bryan Watson (ice hockey)|Bryan Watson]]
+|align=center | Charging
+|align=center | 07:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Terry Harper]]
+|align=center | Tripping
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Interference
+|align=center | 18:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | MTL
+|align=center | John Ferguson
+|align=center | Holding
+|align=center | 04:33
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Gary Bergman]]
+|align=center | Roughing
+|align=center | 16:36
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Provost]]
+|align=center | Elbowing
+|align=center | 16:36
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 12 || align=center | 13 || align=center | 8 || align=center | 33
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 5 || align=center | 9 || align=center | 9 || align=center | 23
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =May 3
+|home1       =1
+|score1      =1–5
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/det-vs-mtl/1966/05/03/1965030215
+}}
+In game five, Montreal defeated Detroit by a score of 5–1 on their home ice, giving them a 3–2 series lead, needing just one more victory to clinch the series and win the Stanley Cup.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Claude Provost]] (2)
+|align=center | [[Ralph Backstrom]] (3) and [[J. C. Tremblay]] (8)
+|align=center | 01:06
+|align=center | 1–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (2) – ''pp''
+|align=center | J. C. Tremblay (9) and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]] (4) 
+|align=center | 19:21
+|align=center | 2–0 MTL
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MTL
+|align=center | [[Dave Balon]] (2)
+|align=center | [[Henri Richard]] (2) and [[Leon Rochefort]] (1)
+|align=center | 01:05
+|align=center | 3–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Bobby Rousseau]] (4)
+|align=center | [[Dick Duff]] (5) and Ralph Backstrom (4)
+|align=center | 11:22
+|align=center | 4–0 MTL
+|-
+|align=center | DET
+|align=center | [[Norm Ullman]] (5) 
+|align=center | [[Paul Henderson]] (3) and [[Andy Bathgate]] (3) 
+|align=center | 14:22
+|align=center | 4–1 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | Dick Duff (2)
+|align=center | Henri Richard (3)
+|align=center | 05:31
+|align=center | 5–1 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Jean-Guy Talbot]]
+|align=center | Hooking
+|align=center | 05:51
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Paul Henderson
+|align=center | Interference
+|align=center | 18:07
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | DET
+|align=center | [[Gary Bergman]]
+|align=center | Elbowing
+|align=center | 02:44
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bob Wall (ice hockey)|Bob Wall]]
+|align=center | Tripping
+|align=center | 05:03
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Bobby Rousseau
+|align=center | Hooking
+|align=center | 06:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dave Balon
+|align=center | Holding
+|align=center | 12:21
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bert Marshall]]
+|align=center | Holding
+|align=center | 16:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DET
+|align=center | Bert Marshall
+|align=center | Holding
+|align=center | 07:49
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Leon Rochefort
+|align=center | Slashing
+|align=center | 13:17
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Leo Boivin
+|align=center | Slashing
+|align=center | 17:12
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 8 || align=center | 5 || align=center | 8 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 13 || align=center | 15 || align=center | 5 || align=center | 33
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Detroit Olympia]]
+|date1       =May 5
+|home1       =1
+|score1      =3–2
+|won1        =1
+|ot1         = 1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-det/1966/05/05/1965030216
+}}
+[[Henri Richard]], a member of all seven championship teams, would score his first goal of the playoffs in game six to win the series in overtime. Two minutes into the extra period, Richard broke in on Red Wing goalie Roger Crozier, lost his footing on the newly resurfaced ice as he cut across the goalmouth, and sprawled into Crozier. The puck went in, and even though Crozier and the Wings protested that Richard had pushed the puck in with his hand, the goal stood. His brilliant play in goal, even in defeat, earned Crozier the Conn Smythe Trophy as the most valuable player in the playoffs, becoming the first player to win the award as a member of the losing team.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (5)
+|align=center | [[Gilles Tremblay (ice hockey)|Gilles Tremblay]] (3) and [[Claude Provost]] (3)
+|align=center | 09:08
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Leon Rochefort]] (1)
+|align=center | [[Henri Richard]] (4) and [[Dave Balon]] (2)
+|align=center | 10:11
+|align=center | 2–0 MTL
+|-
+|align=center | DET
+|align=center | [[Norm Ullman]] (6)
+|align=center | [[Alex Delvecchio]] (11) and [[Gordie Howe]] (6)
+|align=center | 11:55
+|align=center | 2–1 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | [[Floyd Smith (ice hockey)|Floyd Smith]] (5)
+|align=center | [[Gary Bergman]] (3) and [[Ab McDonald]] (4)
+|align=center | 10:30
+|align=center | 2–2 
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | MTL
+|align=center | Henri Richard (1)
+|align=center | Dave Balon (3) and [[Jean-Guy Talbot]] (2)
+|align=center | 02:20
+|align=center | 3–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DET
+|align=center | [[Bryan Watson (ice hockey)|Bryan Watson]]
+|align=center | Hooking
+|align=center | 11:15
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dave Balon
+|align=center | Slashing
+|align=center | 15:04
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | DET
+|align=center | [[Leo Boivin]]
+|align=center | Charging
+|align=center | 00:23
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bert Marshall]]
+|align=center | Holding
+|align=center | 07:13
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Interference
+|align=center | 10:42
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+|align=center | Misconduct
+|align=center | 11:55
+|align=center | 10:00
+|-
+|align=center | DET
+|align=center | Bryan Watson
+|align=center | Hooking
+|align=center | 12:18
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Ab McDonald
+|align=center | Tripping
+|align=center | 16:42
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 5 || align=center | 6 || align=center | 9 || align=center | 2 || align=center | 22
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 10 || align=center | 9 || align=center | 10 || align=center | 1 || align=center | 30
+|}
+
+==Stanley Cup engraving==
+The 1966 Stanley Cup was presented to Canadiens captain Jean Beliveau by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 3–2 win over the Red Wings in game six.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1965–66 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Charlie Hodge (ice hockey)|Charlie Hodge]]
+*30 Lorne [[Gump Worsley]]
+|defence=*2 [[Jacques Laperriere]]
+*3 Jean-Claude [[J. C. Tremblay]] 
+*10 Edward [[Ted Harris (ice hockey)|Ted Harris]]
+*17 [[Jean-Guy Talbot]] (A)
+*19 [[Terry Harper]]
+*23 [[Noel Price]]
+|centres=*4 [[Jean Beliveau]] (Captain)
+*6 [[Ralph Backstrom]]
+*16 [[Henri Richard]] (A)
+*18 [[Leon Rochefort]]
+|wingers=*8 [[Dick Duff]]
+*12 [[Yvan Cournoyer]]
+*11 [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+*14 [[Claude Provost]]
+*15 [[Bobby Rousseau]]
+*20 [[David Balon]]
+*21 [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]
+*22 [[John Ferguson Sr.]]
+*26 [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+|non-players=
+* [[Hartland Molson]] (Chairman/owner), [[J. David Molson]] (President) 
+* [[Sam Pollock]] (Vice President/Manager), Hector [[Toe Blake]] (Coach)
+* Andy Galley (Trainer), Larry Albut (Asst. Trainer)}}
+
+===Stanley Cup engravings===
+* Montreal Canadiens name was misspelt MONTREAL CANADIENE.  This mistake was later corrected on the Replica Cup created in 1992–93.
+
+==Broadcasting==
+In 1966, [[NHL on NBC|NBC]] became the first<ref>{{cite news|title=Stanley Cup Hockey Playoffs on Today|newspaper=[[Hartford Courant]]|page=3G|date=April 10, 1966}}</ref> television network in the United States to air a national broadcast of a [[Stanley Cup Playoff]] game. The network provided coverage of four Sunday afternoon playoff games<ref>{{cite news|title=NBC May Televise Stanley Cup Play|agency=[[Associated Press]]|newspaper=Hartford Courant|page=6C|date=February 27, 1966}}</ref><ref>{{cite news|title=NHL Near Deal for TV of Cup Games|date=February 27, 1966|newspaper=[[Chicago Tribune]]|page=C1}}</ref> during the {{NHL Year|1965}} postseason.<ref>{{cite news|title=NBC Makes Plans to TV Stanley Cup Playoffs|newspaper=[[Los Angeles Times]]|page=B6|date=February 28, 1966}}</ref> On April 10<ref>{{cite news|title=Let's Ear It for Transistor Man|author=Don Page|newspaper=Los Angeles Times|page=D2|date=April 9, 1966}}</ref> and April 17,<ref>{{cite news|title=More Than Feelings Hurting—As Black Hawks Limp Back Home|agency=Associated Press|newspaper=Hartford Courant|page=20|date=April 16, 1966}}</ref> NBC aired semifinal games between the [[1965–66 Chicago Black Hawks season|Chicago Black Hawks]] and the [[1965–66 Detroit Red Wings season|Detroit Red Wings]]. On April 24,<ref>{{cite news|title=TV News Notes|newspaper=Chicago Tribune|page=IND_A17|date=April 24, 1966}}</ref> and May 1,<ref>{{cite news|title=NBC to Carry Stanley Cup Games on TV|newspaper=Chicago Tribune|page=C1|date=March 29, 1966}}</ref> NBC aired Games 1 and 4<ref>{{cite news|title=Abel's 'switcheroo' works|author=Bob Gates|newspaper=[[The Christian Science Monitor]]|page=7|date=April 29, 1966}}</ref> of the Stanley Cup Final between the [[1965–66 Montreal Canadiens season|Montreal Canadiens]] and the Detroit Red Wings. [[Win Elliot]] served as the play-by-play man while [[Bill Mazer]] served as the color commentator for the games.<ref>{{cite news|title=TV SPORTS Hockey Gets Network – for a Day|author=Stan Issacs|newspaper=[[Newsday]]|page=137|date=January 19, 1990}}</ref>
+
+NBC's coverage of the 1966 Stanley Cup Final marked the first time that hockey games were broadcast on network television in [[color television|color]].<ref>{{cite news|title=Black Hawks in Colorful Color|author=Ted Damata|newspaper=Chicago Tribune|page=C1|date=April 10, 1966}}</ref> The [[Hockey Night in Canada|CBC]] would follow suit the following year. NBC's Stanley Cup coverage preempted a sports [[anthology series]] called ''NBC Sports in Action'', hosted by [[Jim Simpson (sportscaster)|Jim Simpson]] and [[Bill Cullen]], who were between-periods co-hosts for the Stanley Cup broadcasts.
+
+==Aftermath==
+The next season, the Red Wings finished a distant fifth, 24 points out of the playoffs, marking the beginning of a 20 year slump known as the "Dead Wings" era. The Red Wings only made the playoffs four times in the next 20 years between 1967 and 1986, and would not return to the Stanley Cup Final again until [[1995 Stanley Cup Final|1995]], where they were swept by the [[New Jersey Devils]].
+
+The Canadiens would return to the Stanley Cup Final the [[1967 Stanley Cup Final|next season]], but lost to the [[Toronto Maple Leafs]] in six games. However, the Canadiens would eventually become a dynasty, winning the Stanley Cup in [[1968 Stanley Cup Final|1968]], [[1969 Stanley Cup Final|1969]], [[1971 Stanley Cup Final|1971]], [[1973 Stanley Cup Final|1973]], [[1976 Stanley Cup Final|1976]], [[1977 Stanley Cup Final|1977]], [[1978 Stanley Cup Final|1978]], and [[1979 Stanley Cup Final|1979]].
+
+==See also==
+* [[1965–66 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1965 Stanley Cup Final|Montreal Canadiens<br>1965]] | title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] | years = 1966 | after = [[1967 Stanley Cup Final|Toronto Maple Leafs<br>1967]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Montreal Canadiens}}
+{{Detroit Red Wings}}
+{{1965–66 NHL season by team}} 
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+}}
+
+[[Category:1965–66 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1966 in Detroit]]
+[[Category:1966 in sports in Michigan|Stanley Cup]]
+[[Category:April 1966 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1966 sports events in Canada|Stanley Cup Final]]
+[[Category:April 1966 sports events in the United States|Stanley Cup Final]]
+[[Category:May 1966 sports events in the United States|Stanley Cup Final]]
+[[Category:1966 in Montreal]]

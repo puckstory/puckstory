@@ -1,0 +1,217 @@
+{{Short description|1940 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1940
+|team1='''[[1939–40 New York Rangers season|New York Rangers]]'''
+|team1_short=New York
+|team1_coach=[[Frank Boucher]]
+|team1_captain=[[Art Coulter]]
+|team1_1='''2'''*
+|team1_2='''6'''
+|team1_3=1
+|team1_4=0
+|team1_5='''2'''**
+|team1_6='''3'''*
+|team1_tot=4
+|team2=[[1939–40 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto
+|team2_captain=[[Red Horner]]
+|team2_coach=[[Dick Irvin]]
+|team2_1=1*
+|team2_2=2
+|team2_3='''2'''
+|team2_4='''3'''
+|team2_5=1**
+|team2_6=2*
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[New York City]]: [[Madison Square Garden (1925)|Madison Square Garden]] (1, 2)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3–6)
+|dates=April 2–13, 1940
+|series_winner=[[Bryan Hextall]] (2:07, OT)
+|hofers='''Rangers:'''<br/>[[Neil Colville]] (1967)<br/>[[Art Coulter]] (1974)<br/>[[Bryan Hextall]] (1969)<br/>[[Lynn Patrick]] (1980)<br/>[[Babe Pratt]] (1966)<br/>[[Clint Smith (hockey player)|Clint Smith]] (1991)<br/>'''Maple Leafs:'''<br/>[[Syl Apps]] (1961)<br/>[[Turk Broda]] (1967)<br/>[[Gordie Drillon]] (1975)<br/>[[Red Horner]] (1965)<br/>[[Sweeney Schriner]] (1962)<br/>'''Coaches:'''<br/>[[Frank Boucher]] (1958, player)<br/>[[Dick Irvin]] (1958, player)
+}}
+
+The '''1940 Stanley Cup Final''' was a best-of-seven series between the [[1939–40 New York Rangers season|New York Rangers]] and the [[1939–40 Toronto Maple Leafs season|Toronto Maple Leafs]]. New York would win the series 4–2 to win their third [[Stanley Cup]]. The Rangers would not win another for [[1994 Stanley Cup Finals|54 years]], a circumstance termed the [[Curse of 1940]].
+
+==Paths to the Finals==
+New York defeated the [[Boston Bruins]] in a best-of-seven 4–2 to advance to the Finals. The Maple Leafs had to play two best-of three series; winning 2–0 against the [[Chicago Blackhawks|Chicago Black Hawks]], and 2–0 against the [[Detroit Red Wings]] to advance to the Finals.
+
+==Game summaries==
+The Final series between the Rangers and the Maple Leafs was an exciting one that went back and forth with three [[Overtime (hockey)|overtime]] games. The Rangers took the first two at home and the Leafs took the next two in Toronto.
+The circus forced the Rangers to vacate [[Madison Square Garden (1925)|Madison Square Garden]] after the first two games. The Rangers would score three game-winning goals in overtime including the Cup winner. Lynn and Murray Patrick played for the Rangers to become the third and fourth members of the Patrick family to win the Stanley Cup.<ref>{{Cite web |title=Stanley Cup Champions 1940-1949 |url=https://www.nhl.com/news/nhl-stanley-cup-champions-1940-1949/c-288132576 |access-date=2022-07-18 |website=NHL.com |language=en-US}}</ref>
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=New York Rangers
+|stadium1=[[Madison Square Garden III]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 2
+|home1       =1
+|score1      =1–2
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-nyr/1940/04/02/1939030211#game=1939030211,game_state=final
+|1-1-1       =[[Red Heron]] (2) - 11:01
+|1-1-2       =9:09 - ''pp'' - [[Art Coulter]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =''No scoring''
+|1-4-2       =15:30 - [[Alf Pike]] (2)
+|goalie1-1   =[[Turk Broda]]
+|goalie1-2   =[[Dave Kerr]]
+
+|date2       =April 3
+|home2       =1
+|score2      =2–6
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/tor-vs-nyr/1940/04/03/1939030212#game=1939030212,game_state=final
+|2-1-1       =[[Billy Taylor (ice hockey b. 1919)|Billy Taylor]] (1) - 5:01<br>[[Hank Goldup]] (4) - 6:01
+|2-1-2       =15:14 - [[Bryan Hextall]]
+|2-2-1       =''No scoring''
+|2-2-2       =3:57 - [[Babe Pratt]] (3)<br>19:48 - ''pp'' - Bryan Hextall (2)
+|2-3-1       =''No scoring''
+|2-3-2       =6:26 - Bryan Hextall (3)<br>12:21 - ''pp'' - [[Dutch Hiller]] (2)<br>13:09 - ''pp'' - [[Lynn Patrick]] (2)
+|goalie2-1   =[[Turk Broda]]
+|goalie2-2   =[[Dave Kerr]]
+
+|date3       =April 6
+|home3       =2
+|score3      =1–2
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/nyr-vs-tor/1940/04/06/1939030213#game=1939030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Phil Watson]] (3) - 18:19
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =10:32 - [[Gordie Drillon]] (2)<br>13:40 - [[Hank Goldup]] (5)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Turk Broda]]
+|goalie3-2   =[[Dave Kerr]]
+
+|date4       =April 9
+|home4       =2
+|score4      =0–3
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/nyr-vs-tor/1940/04/09/1939030214#game=1939030214,game_state=final
+|4-1-1       =19:20 - [[Gus Marker]] (1)
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =16:03 - [[Wally Stanowski]] (1)<br>19:26 - [[Gordie Drillon]] (3)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Turk Broda]]
+|goalie4-2   =[[Dave Kerr]]
+
+|date5       =April 11
+|home5       =2
+|score5      =2–1
+|ot5         =2
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/nyr-vs-tor/1940/04/11/1939030215#game=1939030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =[[Neil Colville]] (1) - 12:21
+|5-2-1       =16:55 - [[Syl Apps]] (4)
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|5-4-1       =''No scoring''
+|5-4-2       =[[Muzz Patrick]] (3) - 11:43
+|goalie5-1   =[[Turk Broda]]
+|goalie5-2   =[[Dave Kerr]]
+
+|date6       =April 13
+|home6       =2
+|score6      =3–2
+|ot6         =1
+|won6        =2
+|recap6      =www.nhl.com/gamecenter/nyr-vs-tor/1940/04/13/1939030216#game=1939030216,game_state=final
+|6-1-1       =6:52 - [[Syl Apps]] (5)
+|6-1-2       =''No scoring''
+|6-2-1       =4:51 - [[Nick Metz]] (1)
+|6-2-2       =''No scoring''
+|6-3-1       =''No scoring''
+|6-3-2       =[[Neil Colville]] (2) - 8:08<br>[[Alf Pike]] (3) - 10:01
+|6-4-1       =''No scoring''
+|6-4-2       =[[Bryan Hextall]] (4) - 2:07
+|goalie6-1   =[[Turk Broda]]
+|goalie6-2   =[[Dave Kerr]]
+
+|series = New York won series 4–2
+}}
+
+==Stanley Cup engraving==
+The 1940 Stanley Cup was presented to Rangers captain Art Coulter by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Rangers 3–2 overtime win over the Maple Leafs in game six.
+
+The following Rangers players and staff had their names engraved on the Stanley Cup
+
+'''1939–40 New York Rangers'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Dave Kerr]] 
+|defence=*2  [[Art Coulter]] (Captain)
+*3 Erhardt [[Ott Heller]]
+*8 Walter [[Babe Pratt]]
+*15 Murray [[Muzz Patrick]]
+|centres= *6 [[Neil Colville]]
+*7 [[Phil Watson]]
+*10 [[Clint Smith (hockey player)|Clint Smith]]
+*16 [[Alf Pike]]
+*17 [[Stanford Smith]]^
+|wingers=*4  [[Alex Shibicky]]
+*5 [[Mac Colville]]
+*8  Wilbert [[Dutch Hiller]]
+*9 [[Lynn Patrick]]
+*12 [[Bryan Hextall]] Sr.
+*14 James [[Kilby MacDonald]]
+|non-players=
+* [[John Reed Kilpatrick]] (President/Owner), [[Lester Patrick]] (Manager)
+*[[Frank Boucher]] (Coach), Harry Westerby (Trainer)
+*[[Stanton Griffis]]* (Vice President/Owner)
+<nowiki>*</nowiki> Missing from the Stanley Cup, but qualified to be on it.
+|engraving-notes=
+* #17 [[Stanford Smith]]^ (C) played in 1 regular-season game and 1 Finals game. Despite playing in the Finals, his name was left off the Stanley Cup engraving.
+* Frank Boucher was the 6th NHL rookie coach to win the Stanley Cup.
+* Lester Patrick and Frank Boucher became the first (and to this date, the only) duo to win the Stanley Cup together as players and then as a coach-managerial team, having won as players on the Rangers in 1928.<ref>{{cite news|title=New York Is Edmonton's Home Away From Home|quote=If the [[Edmonton Oilers|Oilers]] win the [[2006 Stanley Cup Finals|Stanley Cup]], [[Kevin Lowe|Lowe]] and [[Craig MacTavish|MacTavish]] will be the second twosome in NHL history to win as teammates, and as general manager and coach. Lester Patrick was the Rangers' general manager, and Frank Boucher was the coach when they won the championship in 1940. They played together when the Rangers won the Cup in 1928.|date=June 1, 2006|first=John|last=Branch|newspaper=The New York Times|page=D7|url=https://www.nytimes.com/2006/06/01/sports/hockey/01oilers.html?_r=1&gwh=C9778442EFF9D63B01B3FC205DDA86B9}}</ref>
+* A new ring was added to the Stanley Cup.  This large ring had room to hold 7 winning Stanley Cup teams.
+}}
+
+==See also==
+* [[1939–40 NHL season]]
+
+==References and notes==
+===Notes===
+{{Reflist}}
+
+===References===
+*{{Cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+*{{Cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|location=Bolton, Ont.|publisher=Fenn Pub.|pages=12, 50|isbn=978-1-55168-261-7}}
+
+{{S-start}}
+{{Succession box |
+ before = [[1939 Stanley Cup Finals|Boston Bruins<br>1939]] |
+ after = [[1941 Stanley Cup Finals|Boston Bruins<br>1941]] |
+ title = [[List of Stanley Cup champions|New York Rangers<br>Stanley Cup champions]] |
+ years = 1940|
+}}
+{{S-end}}
+
+{{Stanley Cup Finals}}
+{{New York Rangers}}
+{{Toronto Maple Leafs}}
+{{1939–40 NHL season by team}}
+
+
+[[Category:1939–40 NHL season|Stanley Cup Finals″]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Rangers games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1940 sports events in Canada|Stanley Cup Finals]] 
+[[Category:April 1940 sports events in the United States|Stanley Cup Finals]] 
+[[Category:1940 in New York City|Stanley Cup Finals]]
+[[Category:1940 in Ontario|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1940s in Toronto]]
+[[Category:1940s in Manhattan]]

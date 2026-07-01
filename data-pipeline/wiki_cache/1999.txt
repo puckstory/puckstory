@@ -1,0 +1,1604 @@
+{{Short description|1999 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 1999
+| image = 1999 Stanley Cup patch.png
+| dates = June 8–19, 1999
+| location1 = [[Dallas]]: [[Reunion Arena]] (1, 2, 5)
+| location2 = [[Buffalo, New York|Buffalo]]: [[KeyBank Center|Marine Midland Arena]] (3, 4, 6)
+| team1 = '''[[1998–99 Dallas Stars season|Dallas Stars]]'''
+| team1_short = Dallas
+| team1_1 = 2*
+| team1_2 = '''4'''
+| team1_3 = '''2'''
+| team1_4 = 1
+| team1_5 = '''2'''
+| team1_6 = '''2'''***
+| team1_tot = 4
+| team2 = [[1998–99 Buffalo Sabres season|Buffalo Sabres]]
+| team2_short = Buffalo
+| team2_1 = '''3'''*
+| team2_2 = 2
+| team2_3 = 1
+| team2_4 = '''2'''
+| team2_5 = 0
+| team2_6 = 1***
+| team2_tot = 2
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = [[Terry Gregson]] (1, 3, 6)<br/>[[Bill McCreary (referee)|Bill McCreary]] (1, 4, 6)<br/>[[Kerry Fraser]] (2, 4)<br/>[[Dan Marouelli]] (2, 5)<br/>[[Don Koharski]] (3, 5)
+| mvp = [[Joe Nieuwendyk]] (Stars)
+| team1_captain = [[Derian Hatcher]]
+| team2_captain = [[Michael Peca]]
+| team1_coach = [[Ken Hitchcock]]
+| team2_coach = [[Lindy Ruff]]
+| series_winner = [[Brett Hull]] (14:51, third OT)
+| hofers = '''Stars:'''<br />[[Ed Belfour]] (2011)<br />[[Guy Carbonneau]] (2019)<br/>[[Brett Hull]] (2009)<br />[[Mike Modano]] (2014)<br />[[Joe Nieuwendyk]] (2011)<br />[[Sergei Zubov]] (2019)<br />'''Sabres:'''<br />[[Dominik Hašek|Dominik Hasek]] (2014)<br />'''Coaches:'''<br />[[Ken Hitchcock]] (2023)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on Fox|Fox]] (1–2, 5), [[NHL on ESPN|ESPN]] (3–4, 6)
+| net_announcers = (CBC) [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Michel Bergeron (ice hockey, born 1946)|Michel Bergeron]]<br/>(Fox) [[Mike Emrick]] and [[John Davidson (ice hockey)|John Davidson]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]] 
+}}
+The '''1999 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1998–99 NHL season|1998–99 season]], and the culmination of the [[1999 Stanley Cup playoffs]]. It was contested by the [[Eastern Conference (NHL)|Eastern Conference]] champion [[1998–99 Buffalo Sabres season|Buffalo Sabres]] and the [[Western Conference (NHL)|Western Conference]] champion [[1998–99 Dallas Stars season|Dallas Stars]]. It was the 106th year of the [[Stanley Cup]] being contested.
+
+The Sabres were led by captain [[Michael Peca]], head coach [[Lindy Ruff]] and goaltender [[Dominik Hašek|Dominik Hasek]]. The Stars were led by captain [[Derian Hatcher]], head coach [[Ken Hitchcock]] and goaltender [[Ed Belfour]]. The Stars defeated the Sabres in six games to win their first Stanley Cup, becoming the eighth post-1967 expansion team to earn a championship, and the first team based in the [[Southern United States]] to win the Cup. This was the first Stanley Cup Final to not end in a sweep since 1994.
+
+The series ended with a controversial triple-overtime goal in game six, when replays showed that Stars forward [[Brett Hull]] scored with his skate in the crease. Although the Sabres protested later, the league stated that the goal had been reviewed and was judged as a good goal, since Hull had maintained possession of the puck as it exited the crease just before he shot it.
+
+==Background==
+{{Further|1999 Stanley Cup playoffs}}
+{{See also|1998–99 Buffalo Sabres season|1998–99 Dallas Stars season}}
+
+This was the third meeting between teams from [[Dallas]] and [[Buffalo, New York|Buffalo]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship. This previously occurred in two Super Bowls in [[Super Bowl XXVII|1993]] and [[Super Bowl XXVIII|1994]].<ref>{{Cite web|url=https://www.nytimes.com/1994/01/31/sports/super-bowl-xxviii-it-s-fourth-and-heartbreak-as-the-bills-lose-one-more.html|last=George|first=Thomas|title=SUPER BOWL XXVIII; It's Fourth-and-Heartbreak as the Bills Lose One More|website=[[The New York Times]]|date=January 31, 1994|accessdate=December 16, 2024}}</ref>
+
+===Buffalo Sabres===
+Buffalo entered the playoffs as the seventh seed in the Eastern Conference. They first swept the second seeded [[1998–99 Ottawa Senators season|Ottawa Senators]], then defeated the sixth seeded [[1998–99 Boston Bruins season|Boston Bruins]] in six games, and then defeated the fourth seeded [[1998–99 Toronto Maple Leafs season|Toronto Maple Leafs]] in five games to advance to the Finals. This was Buffalo's first Stanley Cup Final appearance since [[1975 Stanley Cup Final|1975]], in which they fell to the [[Philadelphia Flyers]] in six games. The Sabres also became the second seventh seeded team to reach the Finals after the [[1993–94 Vancouver Canucks season|Vancouver Canucks]] did so in [[1994 Stanley Cup Final|1994]].
+
+===Dallas Stars===
+Dallas entered the playoffs as the [[Presidents' Trophy]] winner for the second consecutive season as they clinched the best record in the NHL once again. They swept the eighth seeded [[1998–99 Edmonton Oilers season|Edmonton Oilers]], then defeated the fifth seeded [[1998–99 St. Louis Blues season|St. Louis Blues]] in six games, and the second seeded [[1998–99 Colorado Avalanche season|Colorado Avalanche]] in seven games to advance to the Finals. The Stars became the second team from a Southern state to reach the Stanley Cup Final, joining the [[Florida Panthers]], who accomplished the feat [[1996 Stanley Cup Final|three years prior]].
+
+==Game summaries==
+
+
+
+===Game one===
+{{NHLPlayoffs
+|team1=Buffalo Sabres
+|team2=Dallas Stars
+|stadium1=[[Reunion Arena]]
+|date1=June 8
+|score1=3–2
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/gamecenter/buf-vs-dal/1999/06/08/1998030411
+}}
+The opening game was in Dallas and it was the visiting Buffalo Sabres who struck first, winning 3–2 in overtime. Dallas led 1–0 on a power play goal by [[Brett Hull]], but [[Stu Barnes]] and [[Wayne Primeau]] scored 5:04 apart in the third to give Buffalo a 2–1 lead. [[Jere Lehtinen]] tied the game in the final minute of the third period, but [[Jason Woolley]] scored at 15:30 of overtime to give the Sabres the series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DAL
+|align=center | [[Brett Hull]] (6) – ''pp''
+|align=center | [[Mike Modano]] (12) and [[Jere Lehtinen]] (2)
+|align=center | 10:17
+|align=center | 1–0 DAL
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd''' 
+|align=center | BUF
+|align=center | [[Stu Barnes]] (9)
+|align=center | [[Joé Juneau|Joe Juneau]] (8) and [[Richard Šmehlík|Richard Smehlik]] (1)
+|align=center | 08:33
+|align=center | 1–1 
+|-
+|align=center | BUF
+|align=center | [[Wayne Primeau]] (3) – ''pp''
+|align=center | [[Alexei Zhitnik]] (10) and Richard Smehlik (2)
+|align=center | 13:37
+|align=center | 2–1 BUF
+|-
+|align=center | DAL
+|align=center | Jere Lehtinen (8) – ''pp''
+|align=center | Mike Modano (13) and [[Sergei Zubov]] (10)
+|align=center | 13:37
+|align=center | 2–2
+|-
+| style="text-align:center;" | '''OT'''
+|align=center | BUF
+|align=center | [[Jason Woolley]] (4)
+|align=center | [[Curtis Brown (ice hockey)|Curtis Brown]] (6)
+|align=center | 12:18
+|align=center | 3–2 BUF
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | DAL
+|align=center | Sergei Zubov
+|align=center | Roughing
+|align=center | 06:36
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Miroslav Šatan|Miroslav Satan]]
+|align=center | Boarding
+|align=center | 08:18
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[James Patrick (ice hockey)|James Patrick]]
+|align=center | High-sticking – double minor
+|align=center | 12:46
+|align=center | 4:00
+|-
+|align=center | BUF
+|align=center | [[Dixon Ward]]
+|align=center | Interference
+|align=center | 19:11
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | BUF
+|align=center | [[Václav Varaďa|Vaclav Varada]]
+|align=center | Goaltender interference
+|align=center | 04:53
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Interference
+|align=center | 07:07
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Dixon Ward
+|align=center | Roughing 
+|align=center | 09:34
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Craig Ludwig]]
+|align=center | Hooking
+|align=center | 12:21
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Richard Matvichuk]]
+|align=center | Interference
+|align=center | 16:33
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | DAL
+|align=center | [[Darryl Sydor]]
+|align=center | Tripping – Obstruction
+|align=center | 12:10
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Jay McKee]]
+|align=center | Charging
+|align=center | 14:17
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''OT'''
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Hooking
+|align=center | 06:41
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Geoff Sanderson]]
+|align=center | Boarding
+|align=center | 09:06
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 5 || align=center | 4 || align=center | 10 || align=center | 5 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 11 || align=center | 13 || align=center | 6 || align=center | 7 || align=center | 37
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Buffalo Sabres
+|team2=Dallas Stars
+|stadium1=Reunion Arena
+|date1=June 10
+|score1=2–4
+|won1=2
+|recap1=www.nhl.com/gamecenter/buf-vs-dal/1999/06/10/1998030412
+}}
+With three seconds left in the first period, Dallas center [[Mike Modano]] tripped Buffalo goaltender [[Dominik Hašek|Dominik Hasek]], and a number of scrums broke out as time expired. Dallas winger [[Joe Nieuwendyk]] fought Buffalo center [[Brian Holzinger]] in the circle to the right of Hasek. These were the first fighting majors in three years in the final round, and it was also Nieuwendyk's first fighting major in five years in either the playoffs or regular season.
+
+After the scoreless opening period, the teams traded goals in the middle frame. [[Craig Ludwig]]'s first goal in 102 playoff games gave Dallas its first lead of the game in the third period, but [[Alexei Zhitnik]] tied it 71 seconds later. Brett Hull scored on a slap shot, a one-timer on a pass from [[Tony Hrkac]], from the top of the circle to Hasek's left with 2:50 remaining in the game, but Buffalo had an excellent chance to tie the game with [[Derian Hatcher]] being assessed a high-sticking minor 19 seconds later. During the power play, Buffalo pulled Hasek for a 6-on-4 attacking advantage, but the Stars were able to kill the penalty, and Hatcher scored an empty-netter just three seconds after emerging from the penalty box.  The empty net goal sealed the win for Dallas, and evened the series at one game apiece. Mike Modano left the game with approximately ten minutes to play after suffering a broken wrist.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+||'''1st'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+|align=center | BUF
+|align=center | [[Michael Peca]] (8) – ''pp''
+|align=center | [[Jason Woolley]] (11) and [[Miroslav Šatan|Miroslav Satan]] (5)
+|align=center | 07:27
+|align=center | 1–0 BUF
+|-
+|align=center | DAL
+|align=center | [[Jamie Langenbrunner]] (10)
+|align=center | [[Richard Matvichuk]] (4) and [[Joe Nieuwendyk]] (10)
+|align=center | 18:26
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="4"| '''3rd''' 
+|align=center | DAL
+|align=center | [[Craig Ludwig]] (1)
+|align=center | [[Brian Skrudland]] (2) 
+|align=center | 04:25
+|align=center | 2–1 DAL
+|- 
+|align=center | BUF
+|align=center | [[Alexei Zhitnik]] (4) – ''pp''
+|align=center | ''Unassisted'' 
+|align=center | 05:36
+|align=center | 2–2 
+|-
+|align=center | DAL
+|align=center | [[Brett Hull]] (7)
+|align=center | [[Tony Hrkac]] (2) and [[Shawn Chambers]] (2)
+|align=center | 17:10
+|align=center | 3–2 DAL
+|- 
+|align=center | DAL
+|align=center | [[Derian Hatcher]] (1) – ''en''
+|align=center | [[Sergei Zubov]] (2) and [[Mike Keane]] (2)
+|align=center | 19:34
+|align=center | 4–2 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="8"| '''1st'''
+|align=center | DAL
+|align=center | Brian Skrudland
+|align=center | Charging
+|align=center | 12:25
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Boarding
+|align=center | 15:31
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Richard Šmehlík|Richard Smehlik]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Cross-checking
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Brian Holzinger]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | DAL
+|align=center | [[Mike Modano]]
+|align=center | Tripping
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Joe Nieuwendyk]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | DAL
+|align=center | Derian Hatcher
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | DAL
+|align=center | [[Darryl Sydor]]
+|align=center | Hooking
+|align=center | 05:41
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Jason Woolley]]
+|align=center | Interference
+|align=center | 09:19
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Václav Varaďa|Vaclav Varada]]
+|align=center | Tripping – Obstruction
+|align=center | 13:14
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Tripping
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | DAL
+|align=center | Darryl Sydor
+|align=center | High-sticking
+|align=center | 04:50
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Vaclav Varada
+|align=center | High-sticking
+|align=center | 10:32
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Alexei Zhitnik
+|align=center | Hooking
+|align=center | 11:48
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Derian Hatcher
+|align=center | High-sticking 
+|align=center | 17:31
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 7 || align=center | 10 || align=center | 4 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 5 || align=center | 7 || align=center | 19 || align=center | 31
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=Buffalo Sabres
+|stadium1=Marine Midland Arena
+|date1=June 12
+|score1=2–1
+|won1=1
+|recap1=www.nhl.com/gamecenter/dal-vs-buf/1999/06/12/1998030413
+}}
+
+The series shifted to Buffalo for games three and four. It was the visiting Dallas Stars turn to win one on the road, winning 2–1. With Modano hampered by his wrist injury, and Hull leaving the game with a groin injury, [[Joe Nieuwendyk]]'s two goals, including his sixth game-winner of the playoffs, led Dallas to the win.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+||'''1st'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+|align=center | BUF
+|align=center | [[Stu Barnes]] (6) 
+|align=center | [[Richard Šmehlík|Richard Smehlik]] (3) and [[Brian Holzinger]] (5)
+|align=center | 07:51
+|align=center | 1–0 BUF
+|-
+|align=center | DAL
+|align=center | [[Joe Nieuwendyk]] (10)
+|align=center | [[Dave Reid (ice hockey, born 1964)|Dave Reid]] (3) and [[Jamie Langenbrunner]] (6)
+|align=center | 15:33
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="1"| '''3rd''' 
+|align=center | DAL
+|align=center | Joe Nieuwendyk (11)
+|align=center | Jamie Langenbrunner (7) and Dave Reid (4)
+|align=center | 09:35
+|align=center | 2–1 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | BUF
+|align=center | [[Erik Rasmussen (ice hockey)|Erik Rasmussen]]
+|align=center | Roughing
+|align=center | 07:45
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Shawn Chambers]]
+|align=center | Roughing
+|align=center | 07:45
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Craig Ludwig]]
+|align=center | Interference
+|align=center | 07:45
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Richard Matvichuk]]
+|align=center | Roughing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Brian Skrudland]]
+|align=center | Slashing
+|align=center | 18:13
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Roughing
+|align=center | 18:46
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | BUF
+|align=center | [[Alexei Zhitnik]]
+|align=center | Interference
+|align=center | 03:38
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Mike Modano]]
+|align=center | Tripping
+|align=center | 09:54
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Mike Modano
+|align=center | Slashing
+|align=center | 12:21
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Brian Holzinger
+|align=center | High-sticking
+|align=center | 19:09
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Mike Modano
+|align=center | Interference
+|align=center | 19:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DAL
+|align=center | [[Tony Hrkac]]
+|align=center | Tripping
+|align=center | 17:38
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 8 || align=center | 13 || align=center | 8 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 3 || align=center | 6 || align=center | 3 || align=center | 12
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=Buffalo Sabres
+|stadium1=Marine Midland Arena
+|date1=June 15
+|score1=1–2
+|won1=2
+|recap1=www.nhl.com/gamecenter/dal-vs-buf/1999/06/15/1998030414
+}}
+Facing a two games to one deficit in the series, the Sabres came through with a 2–1 victory on Dixon Ward's game-winning goal in the second period.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | BUF
+|align=center | [[Geoff Sanderson]] (4)
+|align=center | ''Unassisted'' 
+|align=center | 08:09
+|align=center | 1–0 BUF
+|-
+|align=center | DAL
+|align=center | [[Jere Lehtinen]] (9) – ''pp'' 
+|align=center | [[Mike Modano]] (14) and [[Derian Hatcher]] (6)
+|align=center | 10:14
+|align=center | 1–1 
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | BUF
+|align=center | [[Dixon Ward]] (7)
+|align=center | ''Unassisted'' 
+|align=center | 08:09
+|align=center | 2–1 BUF
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DAL
+|align=center | [[Richard Matvichuk]]
+|align=center | Roughing
+|align=center | 03:48
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Wayne Primeau]]
+|align=center | Roughing
+|align=center | 09:32
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Jason Woolley]]
+|align=center | Holding
+|align=center | 19:05
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | DAL
+|align=center | [[Pat Verbeek]]
+|align=center | Interference
+|align=center | 00:21
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Craig Ludwig]]
+|align=center | Interference
+|align=center | 11:07
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Brian Skrudland]]
+|align=center | Roughing
+|align=center | 14:49
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Brian Holzinger]]
+|align=center | Boarding
+|align=center | 16:44
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Dominik Hašek|Dominik Hasek]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Alexei Zhitnik]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Pat Verbeek
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | DAL
+|align=center | [[Joe Nieuwendyk]]
+|align=center | Hooking
+|align=center | 01:06
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Dixon Ward
+|align=center | Roughing – double minor
+|align=center | 20:00
+|align=center | 4:00
+|-
+|align=center | BUF
+|align=center | [[Rhett Warrener]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Dave Reid (ice hockey, born 1964)|Dave Reid]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Jamie Langenbrunner]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 9 || align=center | 9 || align=center | 13 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 7 || align=center | 9 || align=center | 2 || align=center | 18
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Buffalo Sabres
+|team2=Dallas Stars
+|stadium1=Reunion Arena
+|date1=June 17
+|score1=0–2
+|won1=2
+|recap1=www.nhl.com/gamecenter/buf-vs-dal/1999/06/17/1998030415
+}}
+With the series tied at two games apiece and returning to Dallas, [[Ed Belfour]] made 23 saves to shut out the Sabres, and move Dallas within one win of the Stanley Cup.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+||'''1st'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1"|'''2nd'''
+|align=center | DAL
+|align=center | [[Darryl Sydor]] (3) – ''pp''
+|align=center | [[Mike Modano]] (11) and [[Sergei Zubov]] (12)
+|align=center | 02:23
+|align=center | 1–0 DAL
+|-
+| style="text-align:center;" rowspan="1"|'''3rd'''
+|align=center | DAL
+|align=center | [[Pat Verbeek]] (3)
+|align=center | [[Richard Matvichuk]] (5) and Mike Modano (16)
+|align=center | 15:21
+|align=center | 2–0 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DAL
+|align=center | [[Craig Ludwig]]
+|align=center | Tripping – Obstruction
+|align=center | 02:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | BUF
+|align=center | [[Curtis Brown (ice hockey)|Curtis Brown]]
+|align=center | Interference
+|align=center | 01:42
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Jason Woolley]]
+|align=center | Holding – Obstruction
+|align=center | 03:31
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Jamie Langenbrunner]]
+|align=center | Roughing
+|align=center | 07:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''3rd'''
+|align=center | BUF
+|align=center | [[Wayne Primeau]]
+|align=center | Roughing
+|align=center | 08:21
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Darryl Sydor]]
+|align=center | Roughing
+|align=center | 08:21
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Rhett Warrener]]
+|align=center | Slashing
+|align=center | 16:31
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Alexei Zhitnik]]
+|align=center | Elbowing
+|align=center | 17:27
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Joe Nieuwendyk]]
+|align=center | Roughing
+|align=center | 17:27
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Brian Skrudland]]
+|align=center | Tripping – Obstruction
+|align=center | 19:29
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | Rhett Warrener
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 9 || align=center | 5 || align=center | 9 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 8 || align=center | 7 || align=center | 6 || align=center | 21
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=Buffalo Sabres
+|stadium1=Marine Midland Arena
+|date1=June 19
+|score1=2–1
+|ot1=3
+|won1=1
+|recap1=www.nhl.com/gamecenter/dal-vs-buf/1999/06/19/1998030416
+}}
+The series shifted back to Marine Midland Arena for Game 6, where the Dallas Stars would seek their first Stanley Cup, while the Buffalo Sabres would fight for a win to extend the series to a seventh and final game.
+
+Dallas, which allowed the first goal in the earlier two games played at Marine Midland Arena, took a 1–0 lead on one of its few scoring chances in the first period when Lehtinen scored his tenth goal of the playoffs at 8:09. The Sabres tied the game with their first goal since the third period of game four when Barnes' wrist shot eluded Belfour with 1:39 to play in the second period.
+
+The game remained tied at one through the third period and the first two overtime periods, despite several chances by both teams to score. At 14:51 of the third overtime period, Brett Hull scored to end the series and win Dallas their first [[Stanley Cup]]. Joe Nieuwendyk was awarded the [[Conn Smythe Trophy]] as the most valuable player in the playoffs.
+
+It was the longest Cup-winning game in Finals history, and the second-longest Finals game overall, after game one of the [[1990 Stanley Cup Final]], which ended at 15:13 of the third overtime.
+
+This was the last championship for a Dallas-based [[Major professional sports leagues in the United States and Canada|major professional sports team]] until 2011, when the [[Dallas Mavericks]] defeated the [[Miami Heat]] in that year's NBA Final.
+
+The Stars did make a return trip to the Final [[1999–2000 NHL season|the next season]], but lost in six games to the Eastern Conference Champion, the [[New Jersey Devils]].
+
+To date, this is the last trip to the Stanley Cup Final for the Sabres.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DAL
+|align=center | [[Jere Lehtinen]] (10)
+|align=center | Mike Modano (17) and [[Craig Ludwig]] (4)
+|align=center | 08:09
+|align=center | 1–0 DAL
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | BUF
+|align=center | [[Stu Barnes]] (7)
+|align=center | [[Wayne Primeau]] (4) and [[Alexei Zhitnik]] (11)
+|align=center | 18:21
+|align=center | 1–1 
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''2OT''' 
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1"| '''3OT'''
+|align=center | DAL
+|align=center | [[Brett Hull]] (8)
+|align=center | Jere Lehtinen (3) and Mike Modano (18)
+|align=center | 14:51
+|align=center | 2–1 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | BUF
+|align=center | [[Geoff Sanderson]]
+|align=center | Interference
+|align=center | 05:19
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Craig Ludwig
+|align=center | Interference
+|align=center | 10:49
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Benoît Hogue|Benoit Hogue]]
+|align=center | Tripping
+|align=center | 14:28
+|align=center | 2:00
+|-
+|align=center | BUF
+|align=center | [[Michael Peca]]
+|align=center | Slashing
+|align=center | 19:27
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''2OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''3OT'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:29em; text-align:right;"
+|-
+! colspan=8 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | 2OT
+! style="width:3em;" | 3OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 5 || align=center | 11 || align=center | 10 || align=center | 4 || align=center | 13 || align=center | 7 || align=center | 50
+|-
+| style="text-align:left;"| {{nowrap|Buffalo}} || align=center | 11 || align=center | 6 || align=center | 8 || align=center | 12 || align=center | 10 || align=center | 7 || align=center | 54
+|}
+
+==Hull's series-ending goal==
+In the third overtime, [[Jere Lehtinen]] took a shot from the [[Ice hockey rink#Faceoff spots and circles|left circle]] that was deflected by [[Brett Hull]] but stopped by [[Dominik Hašek|Dominik Hasek]].<ref>{{cite news |last1=Barr |first1=Josh |title=Stars Win Stanley Cup in a Thriller |url=https://www.washingtonpost.com/wp-srv/sports/nhl/longterm/1999/stanleycup/articles/dalbuf20.htm |newspaper=Washington Post |access-date=26 August 2020}}</ref> Hull was not in the crease for the first shot. The rebound came near Hull's left skate, which Hull used to kick the puck to his stick, which was just outside the crease. His left skate entered the crease just before his second shot went in and ended the series.<ref>{{cite web |last1=Miller |first1=Harry Orbach |title=Five Most Controversial Goals in NHL Playoff History |url=https://bleacherreport.com/articles/1138723-nhl-5-most-controversial-goals-in-playoff-history |publisher=Bleacher Report |access-date=7 May 2020 |date=10 April 2012}}</ref>
+
+None of the Sabres players or coaches questioned the legality of the goal in the immediate aftermath. It was not until league commissioner [[Gary Bettman]] was on the ice to hand out the trophies that Buffalo coach Lindy Ruff returned to his bench and began screaming at Bettman to explain why the goal had not been reviewed. In the Sabres' locker room, players who had seen the replays were infuriated. Hasek recalled, "My first reaction was 'Let's get back on the ice.' But it's 2 o'clock in the morning and I look at everyone and it's like, 'I'm already out of my pants. It's impossible.'"<ref name="20years">{{cite web |last1=Harrington |first1=Mike |title=20 years later, Sabres' No Goal drama is 'huge disappointment' for Hasek |url=https://buffalonews.com/2019/06/18/buffalo-sabres-dominik-hasek-brett-hull-no-goal-stanley-cup-final-nhl/ |publisher=Buffalo News |access-date=7 May 2020 |date=18 June 2019}}</ref>
+
+The NHL had sent a private memo out earlier in the season with a clarification to the in-the-crease rule. The memo stated that if a player was in control of the puck, a skate could be in the crease even if the puck was not, and a goal in that circumstance would count.<ref>{{cite web |title=Most memorable moment of Brett Hull's career still tainted for some |url=https://thehockeynews.com/news/article/most-memorable-moment-of-brett-hulls-career-still-tainted-for-some |website=thehockeynews.com |publisher=The Canadian Press |access-date=7 May 2020 |date=5 November 2009}}</ref> [[Director of Officiating (NHL)|NHL Director of Officiating]] [[Bryan Lewis]] said after the game that the goal had been reviewed, just as every goal that season had been, and the officials in the video review booth had determined that since Hull was deemed to have been in possession of the puck throughout the play, he was allowed to shoot and score a goal, even though one skate had entered the crease before the puck.<ref>{{cite book |last1=Strachan |first1=Al |title=Go to the Net: Eight Goals That Changed the Game |date=2011 |publisher=Doubleday Canada |isbn=9780385673730 |page=163 |url=https://books.google.com/books?id=0cf4zqA4AgwC&pg=PT163 |access-date=7 May 2020}}</ref>
+
+Among Sabres fans, both the game and the play itself are often simply referred to as "No Goal".<ref>{{cite web |last1=Harrington |first1=Mike |title=Buffalo sports' greatest what-ifs: What if 'No Goal' was really no goal? |url=https://buffalonews.com/2020/04/01/buffalo-sports-greatest-what-ifs-what-if-no-goal-was-really-no-goal/ |publisher=Buffalo News |access-date=7 May 2020 |date=1 April 2020}}</ref><ref name="WGRZ">{{cite web |last1=Boyar |first1=Stu |title='No goal' will never go away for Sabres fans |url=https://www.wgrz.com/article/news/no-goal-will-never-go-away-for-sabres-fans/71-62db5f8c-8fb3-41bc-9a3c-96df8db85390 |publisher=WGRZ |access-date=7 May 2020 |date=19 June 2019}}</ref><ref>{{cite web |last1=Kirst |first1=Sean |title=Twenty years beyond No Goal game: Where did you watch it? |url=https://buffalonews.com/2019/06/19/twenty-years-beyond-no-goal-game-where-did-you-watch-it/ |publisher=Buffalo News |access-date=7 May 2020 |date=19 June 2019}}</ref>
+
+==Team rosters==
+Bolded years under Finals appearance indicates year won Stanley Cup.
+
+===Dallas Stars===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''1'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Roman|Turek}}
+| G
+| R
+| [[1990 NHL Entry Draft|1990]] 
+| style="text-align:left;"|[[Strakonice|Strakonice, Czechoslovakia]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Belfour}}
+| G
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Carman, Manitoba]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Derian|Hatcher}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Sterling Heights, Michigan]]
+| first 
+|-
+| '''3'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Ludwig}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Rhinelander, Wisconsin]]
+| third {{small|('''{{scfy|1986}}''', {{scfy|1989}})}} 
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darryl|Sydor}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|({{scfy|1993}})}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Richard|Matvichuk}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first 
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{Sortname|Shawn|Chambers}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Royal Oak, Michigan]]
+| third {{small|({{scfy|1991}}, '''{{scfy|1995}}''')}}
+|-
+<!--| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Lukowich}}
+| D
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| first {{small|(did not play)}}-->
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brent|Severyn}}
+| D
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Vegreville, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''56'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Zubov}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| second {{small|('''{{scfy|1994}}''')}}
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Modano}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Livonia, Michigan]]
+| second {{small|({{scfy|1991}})}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Skrudland}}
+| C
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Peace River, Alberta]]
+| fourth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, {{scfy|1996}})}}
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Blake|Sloan}}
+| RW
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Park Ridge, Illinois]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Keane}}
+| RW
+| R
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| fourth {{small|({{scfy|1989}}, '''{{scfy|1993}}''', '''{{scfy|1996}}''')}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Reid|Dave Reid (ice hockey, born 1964)}}
+| LW
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Langenbrunner}}
+| RW
+| R
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Cloquet, Minnesota]]
+| first
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Verbeek}}
+| RW
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Sarnia|Sarnia, Ontario]]
+| first
+|-
+| '''18'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Derek|Plante}}
+| C
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Cloquet, Minnesota]]
+| first {{small|(did not play)}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Guy|Carbonneau}}
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Sept-Îles, Quebec]]
+| fourth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1993}}''')}}
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Hull}}
+| RW
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Belleville, Ontario]]
+| second {{small|({{scfy|1986}})}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Nieuwendyk}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Oshawa|Oshawa, Ontario]]
+| second {{small|('''{{scfy|1989}}''')}}
+|-
+| '''26'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jere|Lehtinen}}
+| RW
+| R
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Espoo|Espoo, Finland]]
+| first
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Marshall}}
+| RW
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Port Credit|Port Credit, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Benoit|Hogue|Benoît Hogue}}
+| LW
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Repentigny, Quebec]]
+| first 
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tony|Hrkac}}
+| C/LW
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''49'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Sim}}
+| LW
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"| [[New Glasgow, Nova Scotia]]
+| first
+|}
+
+===Buffalo Sabres===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dwayne|Roloson}}
+| G
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Simcoe, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''39'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Dominik|Hasek|Dominik Hašek}}
+| G
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Pardubice|Pardubice, Czechoslovakia]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|James|Patrick|James Patrick (ice hockey)}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' 
+| D
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first 
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rhett|Warrener}}
+| D
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Shaunavon, Saskatchewan]]
+| second {{small|({{scfy|1996}})}}
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Woolley}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|({{scfy|1996}})}}
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darryl|Shannon}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Barrie|Barrie, Ontario]]
+| first 
+|-
+| '''42'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{Sortname|Richard|Smehlik|Richard Šmehlík}}
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Ostrava|Ostrava, Czechoslovakia]]
+| first
+|-
+| '''44'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Zhitnik}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Kyiv|Kyiv, Soviet Union]]
+| second {{small|({{scfy|1993}})}}
+|-
+| '''74'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|McKee}}
+| D
+| L
+| [[1995 NHL Entry Draft|1995]]
+| style="text-align:left;"|[[Kingston, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Rasmussen|Erik Rasmussen (ice hockey)}}
+| LW
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dixon|Ward}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Leduc, Alberta]]
+| first 
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Cunneyworth}}
+| LW
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first
+|-
+| '''18'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Michal|Grosek}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Vyškov|Vyškov, Czechoslovakia]]
+| first
+|-
+| '''19'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Holzinger}}
+| C
+| R
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Parma, Ohio]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Primeau}}
+| C
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Kruse}}
+| LW
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Merritt, British Columbia]]
+| first 
+|-
+| '''25'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Vaclav|Varada|Václav Varaďa}}
+| RW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Vsetín|Vsetín, Czechoslovakia]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Peca}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|({{scfy|1994}})}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Ray}}
+| RW
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Stirling, Ontario]]
+| first
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Curtis|Brown|Curtis Brown (ice hockey)}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Unity, Saskatchewan]]
+| first
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stu|Barnes}}
+| C
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Spruce Grove|Spruce Grove, Alberta]]
+| second {{small|({{scfy|1996}})}}
+|-
+| '''80'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Geoff|Sanderson}}
+| LW
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Hay River, Northwest Territories]]
+| first
+|-
+| '''81'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Miroslav|Satan|Miroslav Šatan}}
+| RW
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Jacovce|Jacovce, Czechoslovakia]]
+| first
+|-
+| '''90'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Juneau|Joé Juneau}}
+| C
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Pont-Rouge, Quebec]]
+| second {{small|({{scfy|1998}})}}
+|}
+
+==Stanley Cup engraving==
+The 1999 Stanley Cup was presented to Stars captain Derian Hatcher by [[NHL Commissioner]] [[Gary Bettman]] following the Stars 2–1 triple overtime win over the Sabres in game six.
+
+'''1998–99 Dallas Stars'''
+{{Stanley Cup champion
+|defence=*2 [[Derian Hatcher]] (Captain)
+*3 [[Craig Ludwig]] (A)
+*5 [[Darryl Sydor]]
+*17 [[Brent Severyn]] ‡
+*24 [[Richard Matvichuk]]
+*56 [[Sergei Zubov]] (A)
+*27 [[Shawn Chambers]]
+|centres=*9 [[Mike Modano]] (A)
+*10 [[Brian Skrudland]]
+*18 [[Derek Plante]] ‡
+*21 [[Guy Carbonneau]]
+*25 [[Joe Nieuwendyk]] (A)
+*41 [[Tony Hrkac]]*
+*49 [[Jon Sim]]
+|wingers=*11 [[Blake Sloan]]
+*12 [[Mike Keane]]
+*14 [[Dave Reid (ice hockey, born 1964)|Dave Reid]]
+*15 [[Jamie Langenbrunner]]
+*16 [[Pat Verbeek]]
+*22 [[Brett Hull]]
+*26 [[Jere Lehtinen]]
+*29 [[Grant Marshall]] †
+*33 [[Benoît Hogue|Benoit Hogue]]
+|goaltenders=*1 [[Roman Turek]]
+*20 [[Ed Belfour]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*[[Tom Hicks|Thomas O. Hicks]] (Chairman/Owner/Governor), [[Jim Lites]] (President), [[Bob Gainey]] (Vice President/General Manager)
+*[[Doug Armstrong]] (Asst. General Manager), [[Craig Button]] (Director of Player Personnel), [[Ken Hitchcock]] (Head Coach)
+*[[Doug Jarvis]] (Asst. Coach), [[Rick Wilson (ice hockey)|Rick Wilson]] (Asst. Coach), Rick McLaughlin (Vice President-Chief Financial Officer), Jeff Cogen (Vice President-Marketing & Promotions) 
+*Bill Strong (Vice President-Marketing & Broadcasting), Tim Bernhardt (Director-Amateur Scouting), Doug Overton (Director-Pro Scouting)
+*Bob Gernader (Chief Scout), Stu McGregor (Western Scout), Dave Suprenant (Medical Trainer) 
+*Dave Smith (Equipment Manager), Rick Matthews (Asst. Equipment Manager), Jean-Jacque McQueen (Strength-Conditioning Coach)
+*[[Rick St. Croix]] (Goaltending Consultant), Dan Stuchal (Director of Team Services), Larry Kelly (Director of Public Relations)}}
+===Engraving notes===
+* #18 [[Derek Plante]] (C) played in 10 regular-season games and 8 playoff games for Dallas, previously 41 regular-season games for [[Buffalo Sabres|Buffalo]]. #17 [[Brent Severyn]] (D) played in 30 regular-season games, missing 22 due to injuries. He spent the entire season with Dallas. They did not play (both healthy scratches) in the Final. As they did not automatically qualify,{{efn|name=qualify}} Dallas successfully requested an exemption to engrave their names.
+* Mike Modano and [[Shawn Chambers]] were the only players on the roster who had played for the [[Minnesota North Stars]]. Chambers left the Stars in the summer of 1991 for Washington. He joined Tampa Bay in the summer of 1992. Chambers won the Stanley Cup first year in New Jersey in 1995, before rejoining the Stars in the summer of 1997. Modano was part of the Stars franchise for the first 20 years of his NHL career.
+<!--Listed in order by NHL games played during the 1998–99 NHL season.-->
+* #37 [[Brad Lukowich]] (D – 14 regular season games and 8 playoff games) and #6 [[Doug Lidster]] (D – 7 regular season games and 4 playoff games) were on the roster during the Final, but were left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} They were included in the team picture and received Stanley Cup rings.
+* Leon Friedrich (Video Coordinator), Craig Lowery (Trainer Asst.), Doug Warner (Equipment Asst.) were left off the Stanley Cup engraving, but included in the team picture and received Stanley Cup rings.
+
+==Broadcasting==
+In Canada, the series was televised on [[Hockey Night in Canada|CBC]]. In the United States, this was fifth and final year in which coverage of the Cup Finals was split between [[NHL on Fox|Fox]] and [[NHL on ESPN|ESPN]]. Fox aired games one, two, and five; while ESPN had games three, four, and six.<ref>{{cite web | archive-url=https://web.archive.org/web/20000303124917/http://www.nhl.com/cupcrazy/currentsched.htm | url=http://www.nhl.com:80/cupcrazy/currentsched.htm | archive-date=2000-03-03 | title=1999 Stanley Cup Final schedule | website=NHL.com | url-status=dead | access-date=2018-09-02 }}</ref> Had there been a game seven, it would have aired on Fox. Under the U.S. TV contracts that would take effect beginning next season, [[NHL on ABC|ABC]] would take over for Fox as the NHL's network television partner.
+
+==See also==
+* [[1998–99 NHL season]]
+* [[1999 Stanley Cup playoffs]]
+* [[List of Stanley Cup champions]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.youtube.com/watch?v=vF_LRVuhNa4 Explanation of the crease rule and Hull's goal, with overhead view]
+
+{{s-start}}
+{{succession box |
+ before = [[1998 Stanley Cup Final|Detroit Red Wings<br>1998]] |
+ after = [[2000 Stanley Cup Final|New Jersey Devils<br>2000]] |
+ title = [[List of Stanley Cup champions|Dallas Stars<br>Stanley Cup champions]] |
+ years = 1999 |
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Dallas Stars}}
+{{Buffalo Sabres}}
+{{1998–99 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Fox}}
+{{ESPN National Hockey Night}}
+{{NHL Radio}}
+}}
+
+[[Category:1999 Stanley Cup]]
+[[Category:1998–99 NHL season|Stanley Cup]]
+[[Category:Buffalo Sabres games]]
+[[Category:Dallas Stars games]]
+[[Category:Stanley Cup Finals]]
+[[Category:Ice hockey in the Dallas–Fort Worth metroplex]]
+[[Category:1999 in sports in Texas|Stanley Cup]]
+[[Category:1999 in sports in New York (state)|Stanley Cup]]
+[[Category:June 1999 sports events in the United States|Stanley Cup Final]]
+[[Category:Sports competitions in Dallas]]
+[[Category:1990s in Dallas]]
+[[Category:1990s in Buffalo, New York]]
+[[Category:Ice hockey competitions in Texas]]
+[[Category:Ice hockey competitions in Buffalo, New York]]

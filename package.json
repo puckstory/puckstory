@@ -1,0 +1,40 @@
+{
+  "name": "puckstory",
+  "private": true,
+  "license": "MIT",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Puckstory - an interactive network graph of hockey's champions",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && cp dist/index.html puckstory.html",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "test": "vitest run",
+    "e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@sveltejs/vite-plugin-svelte": "^3.1.2",
+    "@testing-library/svelte": "^4.2.3",
+    "@tsconfig/svelte": "^5.0.4",
+    "@types/d3-force": "^3.0.10",
+    "@types/d3-selection": "^3.0.10",
+    "@types/d3-zoom": "^3.0.8",
+    "graphology": "^0.25.4",
+    "graphology-communities-louvain": "^2.0.1",
+    "happy-dom": "^20.10.6",
+    "svelte": "^4.2.19",
+    "svelte-check": "^3.8.6",
+    "tslib": "^2.7.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.8",
+    "vite-plugin-singlefile": "^2.0.2",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "d3-force": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0"
+  }
+}

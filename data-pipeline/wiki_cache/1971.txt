@@ -1,0 +1,275 @@
+{{Short description|1971 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1971
+|team1='''[[1970–71 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_coach=[[Al MacNeil]]
+|team1_captain=[[Jean Beliveau]]
+|team2=[[1970–71 Chicago Black Hawks season|Chicago Black Hawks]]
+|team2_short=Chicago 
+|team2_coach=[[Bill Reay]]
+|team2_captain= Vacant
+|team1_1=1*
+|team1_2=3
+|team1_3='''4'''
+|team1_4='''5'''
+|team1_5=0
+|team1_6='''4'''
+|team1_7='''3'''
+|team1_tot=4
+|team2_1='''2'''*
+|team2_2='''5'''
+|team2_3=2
+|team2_4=2
+|team2_5='''2'''
+|team2_6=3
+|team2_7=2
+|team2_tot=3
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=May 4–18, 1971
+|location1=[[Chicago]]: [[Chicago Stadium]] (1, 2, 5, 7)
+|location2=[[Montreal]]: [[Montreal Forum]] (3, 4, 6)
+|team1_winner=1
+|mvp=[[Ken Dryden]] (Canadiens)
+|series_winner=[[Henri Richard]] (2:34, third)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Yvan Cournoyer]] (1982)<br/>[[Ken Dryden]] (1983)<br/>[[Jacques Laperrière|Jacques Laperriere]] (1987)<br/>[[Guy Lapointe]] (1993)<br/>[[Jacques Lemaire]] (1984)<br/>[[Frank Mahovlich]] (1981)<br/>[[Henri Richard]] (1979)<br/>[[Serge Savard]] (1986; did not play)<br/>[[Rogie Vachon]] (2016)<br/>'''Black Hawks:'''<br/>[[Tony Esposito]] (1988)<br/>[[Bobby Hull]] (1983)<br/>[[Stan Mikita]] (1983)
+|networks=[[Hockey Night in Canada|CBC]] (Canada)<br>[[La Soiree du Hockey|SRC]] (Canada, French)<br>[[NHL on CBS|CBS]] (United States) (games 3, 6, and 7) 
+|net_announcers= (CBC): [[Danny Gallivan]] and [[Dick Irvin Jr.]] <br>(SRC): [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br>(CBS): [[Dan Kelly (sportscaster)|Dan Kelly]], [[Jim Gordon (sportscaster)|Jim Gordon]], and [[Phil Esposito]]
+}}
+The '''1971 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1970–71 NHL season|1970–71 season]], and the culmination of the [[1971 Stanley Cup playoffs]]. It was contested between the [[1970–71 Chicago Black Hawks season|Chicago Black Hawks]] and the [[1970–71 Montreal Canadiens season|Montreal Canadiens]]. The Black Hawks made their first appearance in the finals since [[1965 Stanley Cup Final|1965]], while the Canadiens had last played in and won the final in [[1969 Stanley Cup Final|1969]]. The Canadiens won the series, four games to three.
+
+==Paths to the Finals==
+The playoff system changed this year to allow cross-over between the divisions during the playoffs.
+
+Chicago defeated the [[Philadelphia Flyers]] 4–0 and the [[New York Rangers]] 4–3 to advance to the final.
+
+Montreal defeated the defending champion [[Boston Bruins]] 4–3 and the [[Minnesota North Stars]] 4–2. This set up the first "Original Six" Finals since the [[1967 Stanley Cup Final]].
+
+==Game summaries==
+Brothers [[Frank Mahovlich|Frank]] and [[Peter Mahovlich]] starred for the Canadiens, scoring nine goals in the seven-game final series. [[Ken Dryden]] debuted for the Canadiens, while this was [[Jean Béliveau|Jean Beliveau]]'s last Finals appearance. He ended his career with ten championships. This was only the second time that the road team won a game seven in Finals history. The only previous time it happened was when the [[Toronto Maple Leafs]] defeated the [[Detroit Red Wings]] 2–1 in game seven in the [[1945 Stanley Cup Final]] in [[Detroit]]. Montreal also won the series despite losing the first two games on the road; none happened again until [[2009 Stanley Cup Final|2009]], when the [[Pittsburgh Penguins]] defeated the Red Wings in game seven by the same 2–1 score after losing the first two games to the Red Wings. The next seven-game Stanley Cup Final did not occur until the [[1987 Stanley Cup Final]] with the [[Edmonton Oilers]] and the [[Philadelphia Flyers]].
+
+===Game one===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks 
+|stadium1=[[Chicago Stadium]] 
+|date1       =May 4
+|score1      =1–2
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-chi/1971/05/04/1970030311#game=1970030311,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Jacques Lemaire]] (7) – ''pp'' – 12:29
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =07:54 – ''pp'' – [[Bobby Hull]] (9)
+|1-4-1       =''No scoring''
+|1-4-2       =01:11 – [[Jim Pappin]] (7)
+|goalie1-1   =[[Ken Dryden]] 56 saves / 58 shots
+|goalie1-2   =[[Tony Esposito]] 36 saves / 37 shots
+}}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks 
+|stadium1=[[Chicago Stadium]]
+|date1      =May 6
+|score1      =3–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-chi/1971/05/06/1970030312#game=1970030312,game_state=final
+|2-1-1       =[[Jacques Lemaire]] (8) – ''pp'' – 09:06<br>[[Peter Mahovlich]] (6) – 17:58
+|2-1-2       =04:39 – ''pp'' – [[Bobby Hull]] (10)
+|2-2-1       =''No scoring''
+|2-2-2       =11:58 – [[Chico Maki]] (5)<br>13:50 – [[Jim Pappin]] (8)
+|2-3-1       =[[Frank Mahovlich]] (11) – 08:56
+|2-3-2       =07:27 – [[Lou Angotti]] (2)<br>16:47 – Lou Angotti (3)
+|goalie2-1   =[[Ken Dryden]] 30 saves / 35 shots
+|goalie2-2   =[[Tony Esposito]] 24 saves / 27 shots
+}}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]] 
+|date1       =May 9
+|score1      =2–4 
+|won1=2
+|recap1      =www.nhl.com/gamecenter/chi-vs-mtl/1971/05/09/1970030313#game=1970030313,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Cliff Koroll]] (6) – ''pp'' – 04:26<br>[[Bobby Hull]] (11) – 13:38
+|3-2-1       =05:56 – [[Peter Mahovlich]] (7)<br>17:34 – ''pp'' – [[Frank Mahovlich]] (12)
+|3-2-2       =''No scoring''
+|3-3-1       =06:23 – [[Yvan Cournoyer]] (7)<br>12:13 – ''pp'' – Frank Mahovlich (13)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Ken Dryden]] 16 saves / 18 shots
+|goalie3-2   =[[Tony Esposito]] 36 saves / 40 shots
+}}
+
+===Game four===
+{{NHLPlayoffs
+|team2=Montreal Canadiens
+|team1=Chicago Black Hawks
+|stadium1=[[Montreal Forum]] 
+|date1       =May 11
+|score1      =2–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-mtl/1971/05/11/1970030314#game=1970030314,game_state=final
+|4-1-1       =01:00 – [[Peter Mahovlich]] (8)<br>06:55 – ''pp'' – [[Jean Beliveau]] (6)<br>16:33 – [[Guy Lapointe]] (4)
+|4-1-2       =[[Stan Mikita]] (5) – ''pp'' – 03:09
+|4-2-1       =09:07 – [[Yvan Cournoyer]] (8)<br>15:53 – ''pp'' – Yvan Cournoyer (9)
+|4-2-2       =[[Dennis Hull]] (5) – 12:30
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Ken Dryden]] 30 saves / 32 shots
+|goalie4-2   =[[Tony Esposito]] 27 saves / 32 shots
+}}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks 
+|stadium1=[[Chicago Stadium]]
+|date1       =May 13
+|score1      =0–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-chi/1971/05/13/1970030315#game=1970030315,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =10:57 – ''pp'' – [[Dennis Hull]] (6)
+|5-2-1       =''No scoring''
+|5-2-2       =11:26 – [[Cliff Koroll]] (7)
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Ken Dryden]] 20 saves / 22 shots
+|goalie5-2   =[[Tony Esposito]] 31 saves / 31 shots
+}}
+
+===Game six===
+{{NHLPlayoffs
+|team2=Montreal Canadiens
+|team1=Chicago Black Hawks
+|stadium1=[[Montreal Forum]] 
+|date1       =May 16
+|score1      =3–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-mtl/1971/05/16/1970030316#game=1970030316,game_state=final
+|6-1-1       =12:33 – [[Yvan Cournoyer]] (10)
+|6-1-2       =[[Jim Pappin]] (9) – 11:25
+|6-2-1       =05:04 – [[Peter Mahovlich]] (9)
+|6-2-2       =[[Chico Maki]] (6) – 17:40<br>Jim Pappin (10) – 18:48
+|6-3-1       =05:10 – [[Frank Mahovlich]] (14)<br>08:56 – ''sh'' – Peter Mahovlich (10)
+|6-3-2       =''No scoring''
+|goalie6-1   =[[Ken Dryden]] 27 saves / 30 shots
+|goalie6-2   =[[Tony Esposito]] 12 saves / 16 shots
+}}
+
+===Game seven===
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks 
+|stadium1=[[Chicago Stadium]]
+|date1       =May 18
+|score1      =3–2
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mtl-vs-chi/1971/05/18/1970030317#game=1970030317,game_state=final
+|7-1-1       =''No scoring''
+|7-1-2       =19:12 – ''pp'' – [[Dennis Hull]] (7)
+|7-2-1       =[[Jacques Lemaire]] (9) – 14:18<br>[[Henri Richard]] (4) – 18:20
+|7-2-2       =07:33 – [[Danny O'Shea (ice hockey)|Danny O'Shea]] (2)
+|7-3-1       =Henri Richard (5) – 02:34
+|7-3-2       =''No scoring''
+|goalie7-1   =[[Ken Dryden]] 31 saves / 33 shots
+|goalie7-2   =[[Tony Esposito]] 22 saves / 25 shots
+}}
+
+==Coaching controversies==
+Both clubs would suffer public controversies regarding coaching performances, specifically accusations of mishandling star players during the series.
+
+Chicago head coach [[Billy Reay]] would be attacked in the media by Hawks star forward [[Bobby Hull]] for his excessive employment of two little used forwards, [[Lou Angotti]] and [[Eric Nesterenko]], as well as the injured defenceman [[Keith Magnuson]] in game seven. With a 2–0 Black Hawks lead, both Hull and Hawks star centre [[Stan Mikita]] were left on the bench for extended periods in favor of Angotti and Nesterenko, including two four-on-four situations. The wide open matchup should have favoured the frustrated Hull, who had been successfully shadowed in the series by Canadiens rookie [[Réjean Houle|Rejean Houle]]. The first two Canadien goals were tallied with the two backliners on the ice and the hobbled Magnuson was beaten one on one by speedy Montreal centre [[Henri Richard]] for the ultimate game winner.
+
+The Canadiens suffered their own coaching controversy earlier in the series when head coach [[Al MacNeil]] benched alternate captain [[Henri Richard]] in game five. Following the 2-0 loss, Richard ripped MacNeil in the media calling him incompetent and "the worst coach I ever played for." Accusation of favoring English-speaking players plagued MacNeil and turned the public against him. Following death threats, MacNeil and his family were assigned body guards for the final home game in Montreal. MacNeil resigned as coach after the final and was replaced by [[Scotty Bowman]].
+
+==Stanley Cup engraving==
+The 1971 Stanley Cup was presented to Canadiens captain Jean Beliveau by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 3–2 win over the Black Hawks in game seven.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1970–71 Montreal Canadiens'''
+{{Stanley Cup champion
+|centres=*4 [[Jean Beliveau]] (Captain)
+*16 [[Henri Richard]] (A)
+*20 [[Peter Mahovlich]]
+*24 [[Bobby Sheehan (ice hockey)|Bobby Sheehan]]
+*25 [[Jacques Lemaire]]
+|defence=*2 [[Jacques Laperriere]]
+*3  Jean-Claude [[J. C. Tremblay]] 
+*5 [[Guy Lapointe]]
+*18 [[Serge Savard]]†
+*19 [[Terry Harper]] (A)
+*23 [[Bob Murdoch (ice hockey, born 1946)|Bob Murdoch]]
+*26 [[Pierre Bouchard]]
+|goaltenders=*29 [[Ken Dryden]]
+*1 [[Rogatien Vachon]]
+*30 [[Phil Myre]]†
+|wingers=*11 [[Marc Tardif]]
+*14 [[Rejean Houle]]
+*12 [[Yvan Cournoyer]]
+*15 [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+*17 [[Phil Roberto]]
+*21 [[Leon Rochefort]]
+*22 [[John Ferguson Sr.]] (A)
+*24 [[Chuck Lefley]]
+*27 [[Frank Mahovlich]] (A)
+|non-players=
+* [[J. David Molson]] (President/Owner), William Molson (Vice President/Owner)
+* Peter Molson (Vice Presidents/Owners), [[Sam Pollock]] (Vice President/General Manager)
+* [[Ron Caron]] (Asst. General Manager), [[Al MacNeil]] (Head Coach)
+* Yvon Belanger (Trainer) 
+* Phil Langlois (Asst. Trainer), [[Eddy Palchak]] (Asst Trainer)
+ 
+|player-notes=
+* †Serge Savard played 37 regular season games, but missed the rest of season injured. †Phil Myre played 30 games, dressed for 70 games, but was not dressed in the playoffs. Both players were included in the team picture.  They were not engraved on the Stanley Cup, because they did not play in the playoffs.
+* #8 Larry Pleau was included on the team, but did not qualify. He played only 19 regular season games played, and did not dress in the playoffs. so his name was not included on the Stanley Cup. He would get his name on the Stanley Cup as an Asst. Manager with New York Rangers in 1994.
+|engraving-notes=
+* Al MacNeil (coach) was engraved on the Stanley Cup as .COACH. MAC NEIL missing his first name "Al". MacNeil was spelled AL MACNEIL COACH on the Replica Cup. MacNeil became the first rookie coach to win the Stanley Cup as a mid-season replacement. MacNeil replaced [[Claude Ruel]] after 23 games. MacNeil was also the 11th NHL Rookie Coach to win the Stanley Cup. MacNeil only coached the last 55 regular season games for Montreal.
+* Phil Roberto was misspelled P ROBRTO missing an "E".  Roberto's name was corrected to P. ROBERTO on the Replica Cup created during the 1992–93 season.
+* Ken Dryden would win the Conn Smythe Trophy (Playoff MVP) and Stanley Cup in 1971 and won the Calder Trophy (Rookie of the Year) in 1972.  5th player to win the Stanley Cup before winning Rookie of the Year. He is the only player to win Playoff MVP before winning Rookie of the Year.
+}}
+
+==See also==
+* [[1970–71 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1970 Stanley Cup Final|Boston Bruins<br>1970]] | title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] | years = 1971 | after = [[1972 Stanley Cup Final|Boston Bruins<br>1972]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Montreal Canadiens}}
+{{Chicago Blackhawks}}
+{{1970–71 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+}}
+
+[[Category:1970–71 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Montreal Canadiens games]]
+[[Category:May 1971 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1971 in Chicago]]
+[[Category:1971 in Montreal]]
+[[Category:1971 in sports in Illinois|Stanley Cup Final]]
+[[Category:Events at Chicago Stadium]]

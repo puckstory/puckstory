@@ -1,0 +1,1412 @@
+{{Short description|2000 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 2000
+| image = 2000 Stanley Cup logo.svg
+| dates = May 30 – June 10, 2000
+| team1 = '''[[1999–2000 New Jersey Devils season|New Jersey Devils]]'''
+| team1_1 = '''7'''
+| team1_2 = 1
+| team1_3 = '''2'''
+| team1_4 = '''3'''
+| team1_5 = 0***
+| team1_6 = '''2'''**
+| team1_tot = 4
+| team2 = [[1999–2000 Dallas Stars season|Dallas Stars]]
+| team2_1 = 3
+| team2_2 = '''2'''
+| team2_3 = 1
+| team2_4 = 1
+| team2_5 = '''1'''***
+| team2_6 = 1**
+| team2_tot = 2
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| mvp = [[Scott Stevens]] (Devils)
+| location1 = [[East Rutherford, New Jersey|East Rutherford]]: [[Meadowlands Arena|Continental Airlines Arena]] (1, 2, 5)
+| location2 = [[Dallas]]: [[Reunion Arena]] (3, 4, 6)
+| team1_short = New Jersey
+| team2_short = Dallas
+| referees = [[Don Koharski]] (1, 3, 6)<br/>[[Bill McCreary (referee)|Bill McCreary]] (1, 4, 6)<br/>[[Kerry Fraser]] (2, 4)<br/>[[Dan Marouelli]] (2, 5)<br/>[[Terry Gregson]] (3, 5)
+| coaches = New Jersey: [[Larry Robinson]] (interim)<br/>Dallas: [[Ken Hitchcock]]
+| captains = New Jersey: [[Scott Stevens]]<br/>Dallas: [[Derian Hatcher]]
+| team1_national_anthem = [[Arlette Roxburgh]]
+| team2_national_anthem = [[Kenny Chesney]]
+| series_winner = [[Jason Arnott]] ([[List of Stanley Cup Final overtime series winners|8:20, second OT]])
+| hofers = '''Devils:'''<br/>[[Martin Brodeur]] (2018)<br/>[[Alexander Mogilny]] (2025)<br/>[[Scott Niedermayer]] (2013)<br/>[[Scott Stevens]] (2007)<br/>'''Stars:'''<br/>[[Ed Belfour]] (2011)<br/>[[Guy Carbonneau]] (2019)<br/>[[Brett Hull]] (2009)<br/>[[Mike Modano]] (2014)<br/>[[Joe Nieuwendyk]] (2011)<br/>[[Sergei Zubov]] (2019)<br/>'''Coaches:'''<br/>[[Ken Hitchcock]] (2023)<br/>[[Larry Robinson]] (1995, player)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ESPN|ESPN]] (1–2), [[NHL on ABC|ABC]] (3–6)
+| net_announcers =(CBC) [[Bob Cole (announcer)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Michel Bergeron (ice hockey, born 1946)|Michel Bergeron]]<br/>(ESPN/ABC) [[Gary Thorne]] and [[Bill Clement]]
+}}
+The '''2000 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1999–2000 NHL season|1999–2000 season]], and the culmination of the [[2000 Stanley Cup playoffs]]. It was contested by the [[Eastern Conference (NHL)|Eastern Conference]] champion [[1999–2000 New Jersey Devils season|New Jersey Devils]] against the [[Western Conference (NHL)|Western Conference]] champion and defending [[1999 Stanley Cup Final|Stanley Cup]] champion [[1999–2000 Dallas Stars season|Dallas Stars]]. The Devils were led by captain [[Scott Stevens]], head coach [[Larry Robinson]] and goaltender [[Martin Brodeur]]. The Stars were led by captain [[Derian Hatcher]], head coach [[Ken Hitchcock]] and goaltender [[Ed Belfour]].
+
+The Devils defeated the defending champion Stars four games to two to win their second Stanley Cup in franchise history. This was the first of two Stanley Cup Final where two relocated teams faced each other; the other being in [[2001 Stanley Cup Final|2001]].
+
+==Paths to the Final==
+{{further|2000 Stanley Cup playoffs}}
+{{See also|1999–2000 Dallas Stars season|1999–2000 New Jersey Devils season}}
+
+===New Jersey Devils===
+New Jersey entered the playoffs as the fourth seed in the Eastern Conference after finishing the regular season with 103 points. In the playoffs, they first swept the fifth-seeded [[Florida Panthers]]. In the second round they defeated the third-seeded [[Toronto Maple Leafs]] in six games. In the Eastern Conference finals, the Devils defeated the top-seeded [[Philadelphia Flyers]] in seven games (in the process becoming the first team since expansion to come back from a 3-1 deficit later than the second round) to advance to the Final.
+
+===Dallas Stars===
+Dallas captured the Pacific Division title and entered the playoffs as the second seed in the Western Conference after finishing the regular season with 102 points. In the playoffs, they defeated the seventh-seeded [[Edmonton Oilers]] in the first round in five games. In the second round, the Stars defeated the eighth-seeded [[San Jose Sharks]], also in five games. In a rematch of the previous year’s Western Conference finals, the Stars again defeated the [[Colorado Avalanche]] in seven games to advance to the Final.
+
+==Game summaries==
+Despite New Jersey being a lower seed in conference play (4) than Dallas (2), New Jersey's 103 points were one more than Dallas, giving them home-ice advantage in the series. The Devils won the Cup in game six on a one-timer goal by [[Jason Arnott]] in [[List of Stanley Cup Final overtime series winners|double overtime]]. It was their second Stanley Cup overall and first since [[1995 Stanley Cup Final|1995]].
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date1       =May 30
+|score1      =3–7
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/dal-vs-njd/2000/05/30/1999030411
+}}
+[[Petr Sýkora|Petr Sykora]] and [[Jason Arnott]] each recorded 4 points for New Jersey in game one, and [[Ken Daneyko]] scored his first goal of the playoffs during the second period. [[Ed Belfour]] was replaced in the third period by [[Manny Fernandez (ice hockey)|Manny Fernandez]] after allowing 6 goals on 18 shots. New Jersey would go on to win the game by a score of 7–3, giving them a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Jason Arnott]] (5)
+|align=center | [[Petr Sýkora|Petr Sykora]] (7) and [[Patrik Eliáš|Patrik Elias]] (9)
+|align=center | 07:22
+|align=center | 1–0 NJ
+|-
+|align=center | DAL
+|align=center | [[Darryl Sydor]] (1)
+|align=center | [[Jere Lehtinen]] (3) and [[Mike Keane]] (4)
+|align=center | 13:13
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NJ
+|align=center | [[Ken Daneyko]] (1)
+|align=center | [[Sergei Brylin]] (5) and [[John Madden (ice hockey)|John Madden]] (4)
+|align=center | 02:52
+|align=center | 2–1 NJ
+|-
+|align=center | NJ
+|align=center | Petr Sykora (7)
+|align=center | Patrik Elias (10) and Jason Arnott
+|align=center | 10:28
+|align=center | 3–1 NJ
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]] (3)
+|align=center | [[Jay Pandolfo]] (4) and [[Brian Rafalski]] (4)
+|align=center | 16:04
+|align=center | 4–1 NJ
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | NJ
+|align=center | Sergei Brylin (2)
+|align=center | [[Randy McKay]] (6)
+|align=center | 02:21
+|align=center | 5–1 NJ
+|-
+|align=center | NJ
+|align=center | Petr Sykora (8)
+|align=center | Jason Arnott (11) and Patrik Elias (11)
+|align=center | 03:02
+|align=center | 6–1 NJ
+|-
+|align=center | NJ
+|align=center | Jason Arnott (6) – ''pp''
+|align=center | [[Bobby Holík|Bobby Holik]] (7) and Petr Sykora (8)
+|align=center | 05:12
+|align=center | 7–1 NJ
+|-
+|align=center | DAL
+|align=center | [[Jon Sim]] (1)
+|align=center | [[Guy Carbonneau]] (3)
+|align=center | 07:43
+|align=center | 7–2 NJ
+|-
+|align=center | DAL
+|align=center | [[Kirk Muller]] (2)
+|align=center | Guy Carbonneau (4)
+|align=center | 07:55
+|align=center | 7–3 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Slashing
+|align=center | 18:20
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DAL
+|align=center | [[Scott Thornton (ice hockey)|Scott Thornton]]
+|align=center | Roughing
+|align=center | 03:35
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Dave Manson]]
+|align=center | Slashing
+|align=center | 12:05
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Dave Manson
+|align=center | Elbowing
+|align=center | 19:55
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 5 || align=center | 7 || align=center | 6 || align=center | 18
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 7 || align=center | 9 || align=center | 10 || align=center | 26
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date1       =June 1
+|score1      =2–1
+|won1        =1
+|recap1      = www.nhl.com/gamecenter/dal-vs-njd/2000/06/01/1999030412
+}}
+In game two, [[Brett Hull]] scored twice, including the game winner with four minutes and sixteen seconds remaining in regulation. [[Ed Belfour]] made 27 saves to secure a 2–1 for Dallas, tying the series at a game apiece. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DAL
+|align=center | [[Brett Hull]] (10)
+|align=center | [[Mike Modano]] (11) and [[Richard Matvichuk]] (5)
+|align=center | 04:25
+|align=center | 1–0 DAL
+|-
+|align=center | NJ
+|align=center | [[Alexander Mogilny]] (4)
+|align=center | [[Scott Gomez]] (6) and [[Scott Stevens]] (7)
+|align=center | 12:42
+|align=center | 1–1
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DAL
+|align=center | Brett Hull (11)
+|align=center | [[Jere Lehtinen]] (4) and Mike Modano (11)
+|align=center | 15:44
+|align=center | 2–1 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | NJ
+|align=center | [[Claude Lemieux]]
+|align=center | Holding
+|align=center | 06:36
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Blake Sloan]]
+|align=center | Roughing
+|align=center | 10:56
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Brian Rafalski]]
+|align=center | Roughing
+|align=center | 10:56
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center |Richard Matvichuk
+|align=center | Roughing
+|align=center | 13:52
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Roughing
+|align=center | 13:52
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Richard Matvichuk
+|align=center | Roughing
+|align=center | 18:27
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | DAL
+|align=center | [[Jon Sim]]
+|align=center | Holding
+|align=center | 10:48
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 3 || align=center | 7 || align=center | 7 || align=center | 17
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 9 || align=center | 8 || align=center | 11 || align=center | 28
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=New Jersey Devils
+|team2=Dallas Stars
+|stadium1=[[Reunion Arena]]
+|date1       =June 3
+|score1      =2–1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/njd-vs-dal/2000/06/03/1999030413
+}}
+After the teams were tied at one goal apiece in the first period of game three, [[Petr Sýkora|Petr Sykora]] scored the game-winning goal on a power play in second period, and [[Martin Brodeur]] made 22 saves, giving the Devils a 2–1 victory, and a 2–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DAL
+|align=center | [[Sylvain Côté|Sylvain Cote]] (2) – ''pp''
+|align=center | ''Unassisted'' 
+|align=center | 13:38
+|align=center | 1–0 DAL
+|-
+|align=center | NJ
+|align=center | [[Jason Arnott]] (7)
+|align=center | [[Brian Rafalski]] (5) and [[Colin White (ice hockey, born 1977)|Colin White]] (5)
+|align=center | 18:06
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NJ
+|align=center | [[Petr Sýkora|Petr Sykora]] (9) – ''pp''
+|align=center | Jason Arnott (12) and  Brian Rafalski (6)
+|align=center | 12:27
+|align=center | 2–1 NJ
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NJ
+|align=center | [[Sergei Nemchinov]]
+|align=center | Slashing
+|align=center | 12:46
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Vladimir Malakhov (ice hockey)|Vladimir Malakhov]]
+|align=center | Interference
+|align=center | 13:51
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Claude Lemieux]]
+|align=center | Cross-checking
+|align=center | 15:02
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | DAL
+|align=center | [[Brett Hull]]
+|align=center | Interference 
+|align=center | 08:09
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Sylvain Cote
+|align=center | Elbowing
+|align=center | 11:03
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | [[Martin Brodeur]]
+|align=center | Delay of game
+|align=center | 15:45
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 7 || align=center | 9 || align=center | 7 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 10 || align=center | 16 || align=center | 5 || align=center | 31
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=New Jersey Devils
+|team2=Dallas Stars
+|stadium1=[[Reunion Arena]]
+|date1       =June 5
+|score1      =3–1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/njd-vs-dal/2000/06/05/1999030414
+}}
+After the Stars took a 1–0 lead in the second period, the Devils capitalized three times in the third period due to defensive errors by Dallas in the third period to a commanding 3–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | DAL
+|align=center | [[Joe Nieuwendyk]] (7) – ''pp''
+|align=center | [[Darryl Sydor]] (6) and [[Brett Hull]] (12)
+|align=center | 18:02
+|align=center | 1–0 DAL
+|- 
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | NJ
+|align=center | [[Sergei Brylin]] (3) 
+|align=center | [[Alexander Mogilny]] (3) and [[Vladimir Malakhov (ice hockey)|Vladimir Malakhov]] (4)
+|align=center | 02:27
+|align=center | 1–1 
+|- 
+|align=center | NJ
+|align=center | [[John Madden (ice hockey)|John Madden]] (3) – ''sh''
+|align=center | [[Sergei Nemchinov]] (2) and [[Ken Daneyko]] (2)
+|align=center | 04:51
+|align=center | 2–1 NJ
+|- 
+|align=center | NJ
+|align=center | [[Brian Rafalski]] (2)
+|align=center | [[Patrik Eliáš|Patrik Elias]] (12)
+|align=center | 06:08
+|align=center | 3–1 NJ
+|- 
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DAL
+|align=center | [[Brenden Morrow]]
+|align=center | Tripping – Obstruction
+|align=center | 14:38
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Dave Manson]]
+|align=center | Slashing
+|align=center | 17:27
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Niedermayer]]
+|align=center | Holding – Obstruction
+|align=center | 17:27
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NJ
+|align=center | [[Petr Sýkora|Petr Sykora]]
+|align=center | Hooking
+|align=center | 05:45
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Mike Keane]]
+|align=center | Boarding
+|align=center | 08:45
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Randy McKay]]
+|align=center | Hooking
+|align=center | 11:59
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Vladimir Malakhov
+|align=center | Cross-checking
+|align=center | 11:59
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Interference
+|align=center | 03:17
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Jon Sim]]
+|align=center | Slashing
+|align=center | 11:59
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 6 || align=center | 7 || align=center | 4 || align=center | 17
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 8 || align=center | 8 || align=center | 15 || align=center | 31
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Dallas Stars
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date1       =June 8
+|score1      =1–0
+|ot1         = 3
+|won1        =1
+|recap1      = www.nhl.com/gamecenter/dal-vs-njd/2000/06/08/1999030415
+}}
+With Dallas facing elimination, both goaltenders remained unbeatable to set a record. It set a new record for the longest scoreless tie in a Stanley Cup Final game (106:21), passing the previous record set by Game 4 of the [[1996 Stanley Cup Final]].<ref>{{cite web|url=https://records.nhl.com/records/scf-team-records/overtime/longest-overtimes-scf-history|title=Stanley Cup Final Team Records {{!}} Longest Overtimes, Stanley Cup Final History|access-date=May 8, 2026|website=NHL Records}}</ref><ref>{{cite web|url=https://www.nytimes.com/2000/06/10/sports/stanley-cup-finals-crestfallen-devils-try-to-regroup.html|website=The New York Times|title=STANLEY CUP FINALS; Crestfallen, Devils Try to Regroup|first=Alex|last=Yannis|date=June 10, 2000}}</ref>
+ 
+[[Mike Modano]] scored the game-winning goal at 6:21 of the third overtime, deflecting a shot from [[Brett Hull]] past [[Martin Brodeur]], giving the Stars a 1–0 victory, keeping the Stars' hopes alive and forcing a sixth game back in Dallas.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''3OT'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Mike Modano]] (10)
+| style="text-align:center;"| [[Brett Hull]] (13) and [[Jere Lehtinen]] (5)
+| style="text-align:center;"| 06:21
+| style="text-align:center;"| 1–0 DAL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Hooking
+|align=center | 11:01
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Interference
+|align=center | 11:43
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | [[Petr Sýkora|Petr Sykora]]
+|align=center | High-sticking
+|align=center | 14:23
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Jere Lehtinen
+|align=center | High-sticking
+|align=center | 17:01
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DAL
+|align=center | [[Brenden Morrow]]
+|align=center | Tripping – Obstruction
+|align=center | 13:45
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''2OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''3OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:29em; text-align:right;"
+|-
+! colspan=8 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | 2OT
+! style="width:3em;" | 3OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 7 || align=center | 11 || align=center | 9 || align=center | 10 || align=center | 8 || align=center | 3 || align=center | 48
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 11 || align=center | 6 || align=center | 5 || align=center | 5 || align=center | 12 || align=center | 2 || align=center | 41
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|team1=New Jersey Devils
+|team2=Dallas Stars
+|stadium1=[[Reunion Arena]]
+|date1       =June 8
+|score1      =2–1
+|ot1         =2
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/njd-vs-dal/2000/06/03/1999030413
+}}
+
+A scoreless first period gave way to both teams scoring a goal in the span of 69 seconds, with [[Mike Keane]]'s goal proving crucial to overtime when neither scored in the third period. The first overtime saw no scoring, but in double overtime, [[Jason Arnott]] scored the game winning goal past [[Ed Belfour]] to win the game for the Devils and give them their second Stanley Cup in five years. [[Scott Stevens]] was awarded the [[Conn Smythe Trophy]] for his dominant defensive play, unmatched physicality, and leadership during the playoffs.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | [[Scott Niedermayer]] (5) – ''sh''
+|align=center | [[Darryl Sydor]] (6) and [[Brett Hull]] (12)
+|align=center | 05:18
+|align=center | 1–0 NJ
+|- 
+|align=center | DAL
+|align=center | [[Mike Keane]] (2)
+|align=center | [[Scott Thornton (ice hockey)|Scott Thornton]] (3) and [[Mike Modano]] (13)
+|align=center | 06:27
+|align=center | 1–1 
+|- 
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''2OT'''
+| style="text-align:center;"| NJ
+| style="text-align:center;"| [[Jason Arnott]] (8)
+| style="text-align:center;"| [[Patrik Eliáš|Patrik Elias]] (13) and [[Scott Stevens]] (8)
+| style="text-align:center;"| 08:20
+| style="text-align:center;"| 2–1 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Slashing
+|align=center | 04:46
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Jon Sim]]
+|align=center | Elbowing
+|align=center | 06:54
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Ken Daneyko
+|align=center | High-sticking
+|align=center | 13:45
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | NJ
+|align=center | [[Brian Rafalski]]
+|align=center | Holding
+|align=center | 03:30
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | [[Derian Hatcher]]
+|align=center | Roughing
+|align=center | 13:48
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Scott Stevens
+|align=center | Roughing
+|align=center | 13:48
+|align=center | 2:00
+|-
+|align=center | DAL
+|align=center | Scott Thornton
+|align=center | Roughing
+|align=center | 19:21
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Roughing
+|align=center | 19:21
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+| style="text-align:center;"| '''OT'''
+|align=center | NJ
+|align=center | Jason Arnott
+|align=center | Cross-checking
+|align=center | 18:43
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''2OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=7 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | 2OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 11 || align=center | 13 || align=center | 7 || align=center | 11 || align=center | 3 || align=center | 45
+|-
+| style="text-align:left;"| {{nowrap|Dallas}} || align=center | 7 || align=center | 9 || align=center | 13 || align=center | 1 || align=center | 1 || align=center | 31
+|}
+
+
+This was the first Final that featured two relocated teams competing for the Stanley Cup, as well as the first Final in which both teams had won the Stanley Cup previously after relocation (the Devils in 1995, and the Stars in 1999).
+
+For the Stars, this was the first time since the [[New York Islanders]] lost to the Edmonton Oilers in the [[1984 Stanley Cup Final|1984 Final]] that a defending Stanley Cup champion lost in the Final. This would happen again in [[2001 Stanley Cup Final|2001]], as the Devils made a return trip to the Final, but lost in seven games to the [[Colorado Avalanche]].
+
+This was the last Stars' appearance in the Stanley Cup Final until [[2020 Stanley Cup Final|2020]], in which they lost in six games to the [[Tampa Bay Lightning]].
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Dallas Stars===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Belfour}}
+| G
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Carman, Manitoba]]
+| third {{small|({{scfy|1992}}, '''{{scfy|1999}}''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Guy|Carbonneau}}
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Sept-Îles, Quebec]]
+| fifth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1993}}''', '''{{scfy|1999}}''')}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sylvain|Cote|Sylvain Côté}}
+| D
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Manny|Fernandez|dab=ice hockey}}
+| G
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Aaron|Gavey}}
+| C
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Greater Sudbury|Sudbury, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Derian|Hatcher}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Sterling Heights, Michigan]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Hull}}
+| RW
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Belleville, Ontario]]
+| third {{small|({{scfy|1986}}, '''{{scfy|1999}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Keane}}
+| RW
+| R
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| fifth {{small|({{scfy|1989}}, '''{{scfy|1993}}''',  '''{{scfy|1996}}''', '''{{scfy|1999}}''')}}
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Langenbrunner}}
+| RW
+| R
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Cloquet, Minnesota]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''26'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jere|Lehtinen}}
+| RW
+| R
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Espoo|Espoo, Finland]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''36'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Roman|Lyashenko}}
+| C
+| R
+| [[1997 NHL Entry Draft|1997]]
+| style="text-align:left;"|[[Murmansk|Murmansk, Soviet Union]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Manson}}
+| D
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Prince Albert, Saskatchewan]]
+| first
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Marshall}}
+| RW
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Port Credit|Port Credit, Ontario]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Richard|Matvichuk}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Modano}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Livonia, Michigan]]
+| third {{small|({{scfy|1991}}, '''{{scfy|1999}}''')}}
+|-
+| '''45'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brenden|Morrow}}
+| LW
+| L
+| [[1997 NHL Entry Draft|1997]]
+| style="text-align:left;"|[[Carlyle, Saskatchewan]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kirk|Muller}}
+| C
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Kingston, Ontario]]
+| second {{small|('''{{scfy|1993}}''')}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Nieuwendyk}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Oshawa|Oshawa, Ontario]]
+| third {{small|('''{{scfy|1989}}''', '''{{scfy|1999}}''')}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Pushor}}
+| D
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Lethbridge|Lethbridge, Alberta]]
+| second {{small|('''{{scfy|1997}}'''; did not play)}}
+|-
+| '''49'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Sim}}
+| LW
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[New Glasgow, Nova Scotia]]
+| second {{small|('''{{scfy|1999}}'''; did not play)}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Skrudland}}
+| C
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Peace River, Alberta]]
+| fifth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, {{scfy|1996}}, '''{{scfy|1999}}''')}}
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Blake|Sloan}}
+| RW
+| R
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Park Ridge, Illinois]]
+| second {{small|('''{{scfy|1999}}''')}}
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darryl|Sydor}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| third {{small|({{scfy|1993}}, '''{{scfy|1999}}''')}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Thornton|dab=ice hockey}}
+| LW
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''56'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Zubov}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| third {{small|('''{{scfy|1994}}''', '''{{scfy|1999}}''')}}
+|}
+
+===New Jersey Devils===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Arnott}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Collingwood, Ontario]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Bombardir}}
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Powell River, British Columbia]]
+| first {{small|(did not play)}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Brodeur}}
+| G
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Brule|Steve Brûlé}}
+| RW
+| R
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''18'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Brylin}}
+| LW/C
+| L
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Daneyko}}
+| D
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''26'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Patrik|Elias|Patrik Eliáš}}
+| LW
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Třebíč|Třebíč, Czechoslovakia]]
+| first
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Gomez}}
+| C
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Anchorage, Alaska]]
+| first
+|-
+| '''16'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Holik|Bobby Holík}}
+| LW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Jihlava|Jihlava, Czechoslovakia]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Kelly}}
+| C
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first {{small|(did not play)}}
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Claude|Lemieux}}
+| RW
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Buckingham, Quebec]]
+| fifth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1995}}''', '''{{scfy|1996}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Madden|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''7'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Malakhov|dab=ice hockey}}
+| D
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Yekaterinburg|Sverdlovsk, Soviet Union]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|McKay}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''89'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Mogilny}}
+| RW
+| L
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Khabarovsk|Khabarovsk, Soviet Union]]
+| first
+|-
+| '''12'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Nemchinov}}
+| C
+| L
+| {{NHL Year|1998}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| second {{small|('''{{scfy|1994}}''')}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Niedermayer}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''29'''
+| {{flagicon|POL}}
+! scope="row" style="text-align:left;"|{{sortname|Krzysztof|Oliwa}}
+| LW
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Tychy|Tychy, Poland]]
+| first {{small|(did not play)}}
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Pandolfo}}
+| LW
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Winchester, Massachusetts]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Rafalski}}
+| D
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Dearborn, Michigan]]
+| first
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Stevens}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''17'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Sykora|Petr Sýkora}}
+| RW
+| L
+| [[1995 NHL Entry Draft|1995]]
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| first
+|-
+| '''31'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Terreri}}
+| G
+| L
+| {{NHL Year|1998}} 
+| style="text-align:left;"|[[Providence, Rhode Island]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|White|dab=ice hockey, born 1977}}
+| D
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[New Glasgow, Nova Scotia]]
+| first 
+|}
+
+==Stanley Cup engraving==
+[[File:StanleyCupDevs1999-00Engraved.jpg|thumb|The names of the 1999–2000 New Jersey Devils players, coaching staff and executives, engraved on the Stanley Cup]]
+The 2000 Stanley Cup was presented to Devils captain Scott Stevens by [[NHL Commissioner]] [[Gary Bettman]] following the Devils 2–1 double overtime win over the Stars in game six.
+
+The following Devils players and staff had their names engraved on the Stanley Cup
+
+'''1999–2000 New Jersey Devils'''
+{{Stanley Cup champion
+|defence=*2 [[Ken Sutton]] ‡
+*4 [[Scott Stevens]] (C)
+*3 [[Ken Daneyko]]
+*5 [[Colin White (ice hockey, born 1977)|Colin White]]
+*6 [[Brad Bombardir]] ‡
+*7 [[Vladimir Malakhov (ice hockey)|Vladimir Malakhov]]
+*27 [[Scott Niedermayer]]
+*28 [[Brian Rafalski]]
+|goaltenders=*30 [[Martin Brodeur]]
+*31 [[Chris Terreri]]
+|centres=*10 [[Steve Brûlé|Steve Brule]] ‡
+*11 [[John Madden (ice hockey)|John Madden]]
+*12 [[Sergei Nemchinov]]
+*15 [[Steve Kelly]] ‡
+*23 [[Scott Gomez]]
+*25 [[Jason Arnott]] (A)
+|wingers=*16 [[Bobby Holík|Bobby Holik]]
+*17 [[Petr Sýkora|Petr Sykora]]
+*18 [[Sergei Brylin]]*
+*20 [[Jay Pandolfo]]
+*21 [[Randy McKay]] (A)
+*22 [[Claude Lemieux]]
+*26 [[Patrik Eliáš|Patrik Elias]]
+*29 [[Krzysztof Oliwa]] †
+*89 [[Alexander Mogilny]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*[[John J. McMullen]] (Owner/Chairman/Governor), Peter McMullen (Vice President), [[Lou Lamoriello]] (President/General Manager) 
+*[[Larry Robinson]] (Interim Head Coach), [[Viacheslav Fetisov]] (Asst. Coach), [[Bobby Carpenter (ice hockey)|Bobby Carpenter]] Jr. (Asst. Coaches), [[Jacques Caron]] (Goaltending Coach), [[John Cunniff]] (AHL Coach) 
+*David Conte (Director of Scouting), Claude Carrier (Scout), Milt Fisher (Scout), Dan Labraatan (Scout), [[Marcel Pronovost]] (Scout) 
+*Bob Hoffmeyer (Scout), Barry Fisher (Head Team Physician), [[Dennis Gendron]] (AHL Asst. Coach), [[Robbie Ftorek]] (Coach/Scout), [[Vladimir Bure]] (Consultant)
+*Taran Singelton (Video Coordinator), Marie Carnevale (Hockey Operations-Ass't to President-General Manager), Callie Smith (Scouting Staff Asst.), Bill Murray (Medical Trainer), Michael Vasalani (Strength-Conditioning Coordinator) 
+*Dana McGuane (Equipment Manager), Juergen Merz (Message Therapist), Harry Bricker (Asst. Equipment Manager), Lou Centanni (Asst. Equipment Manager)}}
+===Engraving notes===
+* New Jersey successfully requested an exemption to engrave the names of four players who did not automatically qualify.{{efn|name=qualify}}
+** #6 [[Brad Bombardir]] (D) played in 32 regular-season games and 1 playoff game.
+** #15 [[Steve Kelly]] (C) played in 1 regular season game and 10 playoff games, four of the ten in the Eastern Conference finals.
+** #2 [[Ken Sutton]] (D) joined the team at the [[NHL trade deadline]] from the minors. He played in 6 regular-season games, but was a healthy scratch for the entire playoffs.
+** #10 [[Steve Brûlé|Steve Brule]] (C) did not play in the regular season, but played in 1 game of the Eastern Conference finals.
+* [[Krzysztof Oliwa]] became the first Polish-born and trained player to win the Stanley Cup. He played 69 regular-season games for the Devils, but missed the whole playoffs due to injury. Oliwa qualified for playing more than half of the regular season games.
+* [[Larry Robinson]] was promoted from assistant coach to head coach with only eight games left in the regular season to replace [[Robbie Ftorek]]. Ftorek stayed on as a scout for the rest of the season, and the NHL allowed his name to be included on the Stanley Cup. Robinson became the first interim head coach in NHL history to guide a team to a Stanley Cup championship.
+* 14 members were engraved with an initial and two full names.
+* #24 [[Willie Mitchell (ice hockey)|Willie Mitchell]] (D – 2 regular season games) did not play in the playoffs (he was a healthy scratch). He was on the roster during the Final, but was left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} He later won the Stanley Cup with the [[Los Angeles Kings]] in [[2012 Stanley Cup Final|2012]] (against the Devils) and [[2014 Stanley Cup Final|2014]].<ref>{{Cite web |url=http://www.hockeyprimetime.com/news/headlines/mitchells-strange-trip-to-the-stanley-cup-finals# |title = Hockey Primetime - Mitchell's strange trip to the Stanley Cup finals |access-date=2013-11-28 |archive-url=https://web.archive.org/web/20131203001311/http://www.hockeyprimetime.com/news/headlines/mitchells-strange-trip-to-the-stanley-cup-finals# |archive-date=2013-12-03 |url-status=dead}}</ref>
+* [[Deron Quint]] (D – 50 regular season games for [[Arizona Coyotes|Phoenix]], and 4 for New Jersey) (joined in a March 7 trade for [[Lyle Odelein]]) was not engraved on the Stanley Cup because New Jersey suspended him for failing to report to the minors for conditioning purposes. Quint wore #2 when playing for New Jersey, but his number became available when he was suspended by the team. #2 was taken by Ken Sutton later in the season.
+* Rob McLean (Consultant) – Still awarded a Stanley Cup Ring, and on the team picture.
+
+==Broadcasting==
+In Canada, the series was televised on [[Hockey Night in Canada|CBC]]. In the United States, this was the first year under the new joint American TV contract with the [[The Walt Disney Company|Disney]]-owned networks [[ESPN National Hockey Night|ESPN]] and [[NHL on ABC|ABC]], with ESPN airing the first two games of the Cup Final and ABC broadcasting the rest of the series. Devils team broadcasters Mike Miller and [[Randy Velischek]] called the series on local radio on [[WABC (AM)|WABC–AM]] 770 in New York City. In Dallas, Stars broadcasters [[Ralph Strangis]] and [[Daryl Reaugh]] called the series on [[WBAP (AM)|WBAP]] 820 AM.
+
+==See also==
+* [[1999–2000 NHL season]]
+* [[2000 Stanley Cup playoffs]]
+* [[List of Stanley Cup champions]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1999 Stanley Cup Final|Dallas Stars<br>1999]] | title = [[List of Stanley Cup champions|New Jersey Devils<br>Stanley Cup champions]] | years = 2000 | after = [[2001 Stanley Cup Final|Colorado Avalanche<br>2001]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New Jersey Devils}}
+{{Dallas Stars}}
+{{1999–2000 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on ABC}}
+{{ESPN National Hockey Night}}
+}}
+
+{{DEFAULTSORT:Stanley Cup Final, 2000}}
+[[Category:2000 Stanley Cup| ]]
+[[Category:1999–2000 NHL season]]
+[[Category:2000 in sports in Texas]]
+[[Category:2000 in sports in New Jersey]]
+[[Category:2000s in Dallas]]
+[[Category:20th century in East Rutherford, New Jersey]]
+[[Category:May 2000 sports events in the United States]]
+[[Category:June 2000 sports events in the United States]]
+[[Category:Stanley Cup Finals|2000]]
+[[Category:Dallas Stars games]]
+[[Category:New Jersey Devils games|Stanley Cup Final]]
+[[Category:Ice hockey in the Dallas–Fort Worth metroplex]]
+[[Category:Ice hockey competitions in New Jersey]]
+[[Category:Ice hockey competitions in Texas]]
+[[Category:Sports competitions in Dallas]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]

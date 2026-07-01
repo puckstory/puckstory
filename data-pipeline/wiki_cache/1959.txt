@@ -1,0 +1,201 @@
+{{Short description|1959 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1959
+|team1='''[[1958–59 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Maurice Richard]]
+|team1_coach=[[Toe Blake]]
+|team2=[[1958–59 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto
+|team2_captain=[[George Armstrong (ice hockey)|George Armstrong]]
+|team2_coach=[[Punch Imlach]]
+|team1_1='''5'''
+|team1_2='''3'''
+|team1_3=2*
+|team1_4='''3'''
+|team1_5='''5'''
+|team1_tot=4
+|team2_1=3
+|team2_2=1
+|team2_3='''3'''*
+|team2_4=2
+|team2_5=3
+|team2_tot=1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 9–18, 1959
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4)
+|series_winner=[[Marcel Bonin]] (9:55, second)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972; did not play)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Jacques Plante]] (1978)<br/>[[Henri Richard]] (1979)<br/>[[Maurice Richard]] (1961)<br/>'''Maple Leafs:'''<br/>[[George Armstrong (ice hockey)|George Armstrong]] (1975)<br/>[[Johnny Bower]] (1976)<br/>[[Dick Duff]] (2006)<br/>[[Tim Horton]] (1977)<br/>[[Frank Mahovlich]] (1981)<br/>[[Bert Olmstead]] (1985)<br/>[[Bob Pulford]] (1991)<br/>[[Allan Stanley]] (1981)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>[[Punch Imlach]] (1984)
+}}
+The '''1959 Stanley Cup Final'''  was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1958–59 NHL season|1958–59 season]], and the culmination of the [[1959 Stanley Cup playoffs]]. It was contested between the three-time defending champion [[1958–59 Montreal Canadiens season|Montreal Canadiens]] and their arch-rival [[1958–59 Toronto Maple Leafs season|Toronto Maple Leafs]]. It was the third Stanley Cup Final meeting in the history of the [[Canadiens–Maple Leafs rivalry]]. Montreal was making its ninth consecutive appearance in the Finals series. It was Toronto's first appearance since their {{scfy|1951}} win over Montreal. The Canadiens won the series, four games to one, for their fourth straight Cup victory.
+
+==Paths to the Finals==
+Montreal defeated the [[Chicago Blackhawks|Chicago Black Hawks]] in six games to reach the Finals. Toronto defeated the [[Boston Bruins]] in seven games to reach the Finals.
+
+==Game summaries==
+[[Maurice Richard]], hampered by injuries, had no points during the playoffs.
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 9
+|home1       =1
+|score1      =3–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-mtl/1959/04/09/1958030211#game=1958030211,game_state=final
+|1-1-1       =[[Dick Duff]] (3) - ''sh'' - 4:53<br>[[Billy Harris (ice hockey b. 1935)|Billy Harris]] (1) - 6:24
+|1-1-2       =00:36 - [[Henri Richard]] (3)<br>15:41 - [[Ralph Backstrom]] (1)
+|1-2-1       =[[Ron Stewart]] (2) - 18:26
+|1-2-2       =16:28 - [[Andre Pronovost]] (2)
+|1-3-1       =''No scoring''
+|1-3-2       =11:59 - [[Marcel Bonin]] (8)<br>15:02 - ''pp'' - [[Dickie Moore (ice hockey)|Dickie Moore]] (4)
+|goalie1-1   =[[Johnny Bower]] 26 saves / 31 shots
+|goalie1-2   =[[Jacques Plante]] 21 saves / 24 shots
+
+|date2       =April 11
+|home2       =1
+|score2      =1–3
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/tor-vs-mtl/1959/04/11/1958030212#game=1958030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =5:12 - ''pp'' - [[Tom Johnson (ice hockey)|Tom Johnson]] (1)
+|2-2-1       =[[Ron Stewart]] (3) - 11:41
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =5:02 - [[Claude Provost]] (5)<br>18:33 - Claude Provost (6)
+|goalie2-1   =[[Johnny Bower]] 38 saves / 41 shots
+|goalie2-2   =[[Jacques Plante]] 28 saves / 29 shots
+
+|date3       =April 14
+|home3       =2
+|score3      =2–3
+|ot3         =1
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/mtl-vs-tor/1959/04/14/1958030213#game=1958030213,game_state=final
+|3-1-1       =16:29 - [[Billy Harris (ice hockey b. 1935)|Billy Harris]] (2)
+|3-1-2       =[[Marcel Bonin]] (9) - ''pp'' - 17:31
+|3-2-1       =17:11 - [[Bert Olmstead]] (3)
+|3-2-2       =''No scoring''
+|3-3-1       =''No scoring''
+|3-3-2       =[[Dickie Moore (ice hockey)|Dickie Moore]] (5) - 1:30
+|3-4-1       =10:06 - [[Dick Duff]] (4)
+|3-4-2       =''No scoring''
+|goalie3-1   =[[Johnny Bower]] 29 saves / 31 shots
+|goalie3-2   =[[Jacques Plante]] 32 saves / 35 shots
+
+|date4       =April 16
+|home4       =2
+|score4      =3–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-tor/1959/04/16/1958030214#game=1958030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =3:45 - [[Billy Harris (ice hockey b. 1935)|Billy Harris]] (3)<br>18:36 - [[Frank Mahovlich]] (5)
+|4-3-2       =[[Ab McDonald]] (1) - 9:54<br>[[Ralph Backstrom]] (2) - 13:01<br>[[Bernie Geoffrion]] (3) - 15:56
+|goalie4-1   =[[Johnny Bower]] 26 saves / 29 shots
+|goalie4-2   =[[Jacques Plante]] 26 saves / 28 shots
+
+|date5       =April 18
+|home5       =1
+|score5      =3–5
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/tor-vs-mtl/1959/04/18/1958030215#game=1958030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =4:13 - ''pp'' - [[Ralph Backstrom]] (3)<br>13:42 - [[Bernie Geoffrion]] (4)<br>16:26 - [[Tom Johnson (ice hockey)|Tom Johnson]] (2)
+|5-2-1       =[[Bob Pulford]] (4) - ''pp'' - 4:27
+|5-2-2       =9:55 - [[Marcel Bonin]] (10)<br>19:25 - ''pp'' - Bernie Geoffrion (5)
+|5-3-1       =[[Frank Mahovlich]] (6) - 12:07<br>[[Bert Olmstead]] (4) - 16:19
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Johnny Bower]] 32 saves / 37 shots
+|goalie5-2   =[[Jacques Plante]] 30 saves / 33 shots
+
+|series      =Montreal won series 4–1
+}}
+
+==Stanley Cup engraving==
+The 1959 Stanley Cup was presented to Canadiens captain Maurice Richard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 5–3 win over the Maple Leafs in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1958–59 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Jacques Plante]]
+*1 [[Charlie Hodge (ice hockey)|Charlie Hodge]] (Sub)
+|defence=*2 [[Doug Harvey (ice hockey)|Doug Harvey]] (A)
+*8 [[Bill Hicke]]
+*10 [[Tom Johnson (ice hockey)|Tom Johnson]] (A)
+*11 [[Bob Turner (ice hockey)|Bob Turner]]
+*17 [[Jean-Guy Talbot]]
+*19 [[Albert Langlois]]
+*21 [[Ian Cushenan]]
+|centres=*4 [[Jean Beliveau]]
+*6 [[Ralph Backstrom]]
+*8 [[Kenny Mosdell]]
+*16 [[Henri Richard]]
+*20 [[Phil Goyette]]
+|wingers=*
+*5 [[Bernie Geoffrion]] (A)
+*9 [[Maurice Richard|Maurice "Rocket" Richard]]  (Captain)
+*12 [[Dickie Moore (ice hockey)|Dickie Moore]]
+*14 [[Claude Provost]]
+*15 [[Ab McDonald]]
+*18 [[Marcel Bonin]]
+*22 [[Donnie Marshall|Don Marshall]]
+*23 [[Andre Pronovost]]
+|non-players=
+*[[Hartland Molson]] (President/Owner) 
+*[[Frank Selke]] Sr. (Manager), [[Ken Reardon]] (Vice President) 
+*[[Sam Pollock]] (Personnel Director), [[Toe Blake]] (Coach)
+*Hector Dubois (Trainer, Larry Aubut (Asst. Trainer)
+*Camile DesRoches*, [[Frank Selke Jr.]]* (Publicity Directors)
+* * on the team picture, but missing from the Stanley Cup.}}
+
+=== Stanley Cup engravings ===
+* Ken Reardon name was spelt KEN READON VICE PRES missing an "R". Mistake was corrected on the replica cup created in 1992–93.
+
+==See also==
+* [[1958–59 NHL season]]
+
+==References==
+{{reflist}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1958 Stanley Cup Final|Montreal Canadiens<br>1958]] |
+  after = [[1960 Stanley Cup Final|Montreal Canadiens<br>1960]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1959|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{Toronto Maple Leafs}}
+{{1958–59 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1958–59 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1959 sports events in Canada|Stanley Cup Finals]]
+[[Category:1950s in Montreal]]
+[[Category:1959 in Quebec]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1959 in Ontario|Stanley Cup Finals]]
+[[Category:1950s in Toronto]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Canadiens–Maple Leafs rivalry|Stanley Cup Finals, 1959]]

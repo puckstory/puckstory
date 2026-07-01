@@ -1,0 +1,296 @@
+{{Short description|1977 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1977
+|image=
+|team1='''[[1976–77 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal
+|team1_captain=[[Yvan Cournoyer]]<ref>Due to injury, Cournoyer did not play in any playoff games. [[Serge Savard]] served as acting captain.</ref>
+|team1_coach=[[Scotty Bowman]]
+|team2=[[1976–77 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston
+|team2_coach=[[Don Cherry]]
+|team2_captain=[[Johnny Bucyk]]
+|series_winner=[[Jacques Lemaire]] (4:32, OT)
+|hofers='''Canadiens:'''<br/>[[Yvan Cournoyer]] (1982; did not play)<br/>[[Ken Dryden]] (1983)<br/>[[Bob Gainey]] (1992)<br/>[[Guy Lafleur]] (1988)<br/>[[Guy Lapointe]] (1993)<br/>[[Jacques Lemaire]] (1984)<br/>[[Larry Robinson]] (1995)<br/>[[Serge Savard]] (1986)<br/>[[Steve Shutt]] (1993)<br/>'''Bruins:'''<br/>[[Johnny Bucyk]] (1981)<br/>[[Gerry Cheevers]] (1985)<br/>[[Brad Park]] (1988)<br/>[[Jean Ratelle]] (1985)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)
+|dates=May 7–14, 1977
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4)
+|mvp=[[Guy Lafleur]] (Canadiens)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL Network (1975 TV program)|NHL Network]] (national), [[WSBK-TV]] (Boston)
+|net_announcers=(CBC) [[Danny Gallivan]], [[Dick Irvin Jr.]], [[Donnie Marshall|Don Marshall]] (1), and [[Red Storey]] (2)<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(NHLN) [[Marv Albert]], [[Tim Ryan (sportscaster)|Tim Ryan]], [[Stan Mikita]] (1), [[Garry Unger]] (2), [[Chico Resch]] (3), [[Don Awrey]] (4)<br>(WSBK) [[Fred Cusick]] and [[Johnny Peirson]]
+|team1_1='''7'''
+|team1_2='''3'''
+|team1_3='''4'''
+|team1_4='''2'''*
+|team1_tot=4
+|team2_1=3
+|team2_2=0
+|team2_3=2
+|team2_4=1*
+|team2_tot=0
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+}}
+The '''1977 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1976–77 NHL season|1976–77 season]], and the culmination of the [[1977 Stanley Cup playoffs]]. It was contested between the [[1976–77 Boston Bruins season|Boston Bruins]] and the defending champion [[1976–77 Montreal Canadiens season|Montreal Canadiens]]. The Bruins were making their first appearance in the final series since their loss in the [[1974 Stanley Cup Final|1974 Final]]. The Canadiens would win the best-of-seven series four games to none, to win their second straight [[Stanley Cup]] championship, and 20th overall.
+
+==Paths to the Finals==
+Montreal defeated the [[St. Louis Blues]] 4–0 and the [[New York Islanders]] 4–2 to advance to the final.
+
+Boston defeated the [[Los Angeles Kings]] 4–2 and the [[Philadelphia Flyers]] 4–0 to make it to the final.
+
+==Game summaries==
+[[Jacques Lemaire]] scored three game-winning goals, including the Cup-winner in overtime. [[Guy Lafleur]] won the [[Conn Smythe Trophy]] for scoring nine goals and 17 assists during the playoffs.
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Boston Garden]]
+
+|date1       =May 7
+|home1       =1
+|score1      =3–7
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-mtl/1977/05/07/1976030411#game=1976030411,game_state=final
+|1-1-1       =[[Brad Park]] (2) - 5:23
+|1-1-2       =1:45 - [[Doug Risebrough]] (1)<br>4:23 - ''pp'' - [[Yvon Lambert]] (2)<br>14:35 - [[Mario Tremblay]] (2)
+|1-2-1       =[[Terry O'Reilly]] (5) - 11:54<br>[[Bobby Schmautz]] (10) - ''pp'' - 16:35
+|1-2-2       =5:08 - [[Jacques Lemaire]] (4)
+|1-3-1       =''No scoring''
+|1-3-2       =00:59 - [[Rick Chartraw]] (2)<br>2:04 - Mario Tremblay (3)<br>13:58 - Yvon Lambert (3)
+|goalie1-1   =[[Gerry Cheevers]]
+|goalie1-2   =[[Ken Dryden]]
+
+|date2       =May 10
+|home2       =1
+|score2      =0–3
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/bos-vs-mtl/1977/05/10/1976030412#game=1976030412,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =7:43 - ''pp'' - [[Peter Mahovlich]] (4)<br>12:07 - [[Doug Risebrough]] (2)
+|2-3-1       =''No scoring''
+|2-3-2       =5:40 - [[Steve Shutt]] (7)
+|goalie2-1   =[[Gerry Cheevers]]
+|goalie2-2   =[[Ken Dryden]]
+
+|date3       =May 12
+|home3       =2
+|score3      =4–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-bos/1977/05/12/1976030413#game=1976030413,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Guy Lafleur]] (8) - ''pp'' - 4:08<br>[[Steve Shutt]] (8) - ''pp'' - 7:58<br>[[Jacques Lemaire]] (5) - ''pp'' - 18:29
+|3-2-1       =6:32 - [[Gregg Sheppard]] (5)
+|3-2-2       =''No scoring''
+|3-3-1       =18:34 - ''pp'' - [[Peter McNab]] (5)
+|3-3-2       =Guy Lafleur (9) - 12:52
+|goalie3-1   =[[Gerry Cheevers]]
+|goalie3-2   =[[Ken Dryden]]
+
+|date4       =May 14
+|home4       =2
+|score4      =2–1
+|ot4         =1
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-bos/1977/05/14/1976030414#game=1976030414,game_state=final
+|4-1-1       =11:38 - [[Bobby Schmautz]] (11)
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =[[Jacques Lemaire]] (6) - 1:34
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|4-4-1       =''No scoring''
+|4-4-2       =Jacques Lemaire (7) - 4:32
+|goalie4-1   =[[Gerry Cheevers]]
+|goalie4-2   =[[Ken Dryden]]
+
+|series      =Montreal won series 4–0
+}}
+
+==Team rosters==
+
+===Boston Bruins===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Gilles | last = Gilbert | dab =  | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 3 | birthday = 31 | acq = [[1973-74 NHL season|1973]] | birthplace = [[Saint-Esprit, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Darryl | last = Edestrand | dab = | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 11 | birthday = 6 | acq = [[1973-74 NHL season|1973]] | birthplace = [[Strathroy, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Peter | last = McNab | dab = | num = 8 | pos = C | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 5 | birthday = 8 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Vancouver, British Columbia]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Johnny | last = Bucyk | dab = | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1935 | birthmonth = 5 | birthday = 12 | acq = [[1957-58 NHL season|1957]] | birthplace = [[Edmonton, Alberta]] | cap = C | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Jean | last = Ratelle | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 10 | birthday = 3 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Lac Saint-Jean, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Bobby | last = Schmautz | dab = | num = 11 | pos = RW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 3 | birthday = 28 | acq = [[1973-74 NHL season|1973]] | birthplace = [[Saskatoon, Saskatchewan]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Wayne | last = Cashman | dab = | num = 12 | pos = LW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 6 | birthday = 24 | acq = [[1965-66 NHL season|1965]] | birthplace = [[Kingston, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Dave | last = Forbes | dab =  | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 9 | birthday = 28 | acq = [[1973-74 NHL season|1973]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Rick | last = Middleton | dab = | num = 16 | pos = RW | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 12 | birthday = 4 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Stan | last = Jonathan | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 9 | birthday = 5 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Ohsweken, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = John | last = Wensink | dab = | num = 18 | pos = LW | nat = Netherlands | s/g = L | birthyear = 1953 | birthmonth = 4 | birthday = 1 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Cornwall, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Gregg | last = Sheppard | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 4 | birthday = 23 | acq = [[1972-73 NHL season|1972]] | birthplace = [[North Battleford, Saskatchewan]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Al | last = Sims | dab = | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 4 | birthday = 18 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Don | last = Marcotte | dab = | num = 21 | pos = LW | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 4 | birthday = 15 | acq = [[1967-68 NHL season|1967]] | birthplace = [[Arthabaska, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Brad | last = Park | dab = | num = 22 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 7 | birthday = 6 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Rick | last = Smith | dab = Rick Smith (ice hockey) | num = 23 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 6 | birthday = 29 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Kingston, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Terry | last = O'Reilly | dab = | num = 24 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 6 | birthday = 7 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Niagara Falls, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Gary | last = Doak | dab = | num = 25 | pos = D | nat = Canada | s/g = R | birthyear = 1946 | birthmonth = 2 | birthday = 25 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Goderich, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Mike | last = Milbury | dab = | num = 26 | pos = D | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 6 | birthday = 17 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brighton, Boston|Brighton, Massachusetts]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Earl | last = Anderson | dab = Earl Anderson (ice hockey) | num = 27 | pos = RW | nat = United States | s/g = R | birthyear = 1951 | birthmonth = 2 | birthday = 24 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Roseau, Minnesota]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Matti | last = Hagman | dab = | num = 28 | pos = C | nat = Finland | s/g = L | birthyear = 1955 | birthmonth = 9 | birthday = 21 | acq = [[1977-78 NHL season|1978]] | birthplace = [[Helsinki, Finland]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Doug | last = Halward | dab =  | num = 29 | pos = D | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 11 | birthday = 1 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Gerry | last = Cheevers | dab = | num = 30 | pos = G | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 12 | birthday = 7 | acq = [[1975-76 NHL season|1976]] | birthplace = [[St. Catharines, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+|}
+
+===Montreal Canadiens===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Michel | last = Larocque | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 6 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Hull, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Bill | last = Nyrop | dab = | num = 2 | pos = D | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 23 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Washington, D.C.]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Guy | last = Lapointe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 18 | acq = [[1968-69 NHL season|1969]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Jimmy | last = Roberts | dab = Jim Roberts (ice hockey, born 1940) | num = 6 | pos = RW | nat = Canada | s/g = R | birthyear = 1940 | birthmonth = 4 | birthday = 9 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Doug| last = Risebrough | dab = | num = 8 | pos = C | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 1 | birthday = 29 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Guelph, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Guy | last = Lafleur | dab = | num = 10 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 9 | birthday = 20 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Yvon | last = Lambert | dab = | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 5 | birthday = 20 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Drummondville, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Yvan | last = Cournoyer | dab = | num = 12 | pos = RW | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 11 | birthday = 22 | acq = [[1963-64 NHL season|1963]] | birthplace = [[Montreal, Quebec]] | cap = C | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Mario | last = Tremblay | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1956 | birthmonth = 09 | birthday = 02 | acq = [[1973-74 NHL season|1974]] | birthplace = [[Alma, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Rejean | last = Houle | dab = | num = 15 | pos = RW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 25 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Rouyn, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Murray | last = Wilson | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 11 | birthday = 7 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Toronto, Canada]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Serge | last = Savard | dab = | num = 18 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 22 | acq = [[1966-67 NHL season|1966]] | birthplace = [[Landrienne, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Larry | last = Robinson | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 6 | birthday = 2 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Winchester, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Peter | last = Mahovlich | dab = | num = 20 | pos = C | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 10 | birthday = 10 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Timmins, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Doug | last = Jarvis | dab = | num = 21 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 3 | birthday = 24 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brantford, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Steve | last = Shutt | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 1 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[North York, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Bob | last = Gainey | dab = | num = 23 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Peterborough, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Pierre | last = Mondou | dab = | num = 24 | pos = C | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 11 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Sorel, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Jacques | last = Lemaire | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 27 | acq = [[1967-68 NHL season|1967]] | birthplace = [[LaSalle, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Pierre | last = Bouchard | dab = | num = 26 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 2 | birthday = 20 | acq = [[1965 NHL Amateur Draft|1965]] | birthplace = [[Longueuil, Quebec]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Rick | last = Chartraw | dab = | num = 27 | pos = D | nat = United States | s/g = R | birthyear = 1954 | birthmonth = 7 | birthday = 13 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Caracas, Venezuela]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Mike | last = Polich | dab = | num = 28 | pos = C | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 12 | birthday = 19 | acq = [[1976-77 NHL season|1977]] | birthplace = [[Hibbing, Minnesota]] | cap = | year = 1977 | month = 5 | day = 7}}
+{{Ice hockey team player
+| first = Ken | last = Dryden | dab = | num = 29 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 8 | birthday = 8 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1977 | month = 5 | day = 7}}
+|}
+
+==Stanley Cup engraving==
+The 1977 Stanley Cup was presented to Canadiens captain Yvan Cournoyer by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 2–1 overtime win over the Bruins in game four. This was the last year for Clarence Campbell to present the Stanley Cup. He was succeeded by [[John Ziegler Jr.]] the following season.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1976–77 Montreal Canadiens'''
+{{Stanley Cup champion|team=Montreal Canadiens |year=1973
+|centres=*8 [[Doug Risebrough]]
+*20 [[Peter Mahovlich]]
+*21 [[Doug Jarvis]]
+*24 [[Pierre Mondou]]
+*25 [[Jacques Lemaire]]
+*28 [[Mike Polich]]
+|defence=*2 [[Bill Nyrop]]
+*5 [[Guy Lapointe]]
+*18 [[Serge Savard]]
+*19 [[Larry Robinson]]
+*26 [[Pierre Bouchard]]
+*27 [[Rick Chartraw]]
+|goaltenders=*1 [[Michel Larocque]]
+*29 [[Ken Dryden]]
+|wingers=*6 [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]] 
+*10 [[Guy Lafleur]]
+*11 [[Yvon Lambert]]
+*12 [[Yvan Cournoyer]]* (Captain)
+*14 [[Mario Tremblay]]
+*15 [[Rejean Houle]]
+*17 [[Murray Wilson]] †
+*22 [[Steve Shutt]]
+*23 [[Bob Gainey]]
+|player-notes=
+* * Did not play or dress in the Final.{{ref|A|[A]}}
+|non-players=
+*[[Jacques Courtois (ice hockey)|Jacques Courtois]] (President), [[Sam Pollock]] (Vice President/General Manager)
+*[[Jean Beliveau]] (Vice President – Director of Corporate Relations), William [[Scotty Bowman]] (Head Coach)
+*[[Peter Bronfman]] (Chairman/Owner/Director), [[Edward Bronfman]] (Executive Director/Owner) 
+*[[Claude Ruel]] (Director of Player Development), [[Floyd Curry]] (Asst. General Manager), [[Ron Caron]] (Asst. General Manager)
+*Pierre Meilleur (Asst. Trainer), [[Eddy Palchak]] (Trainer)
+|engraving-notes=
+* <sup>{{note|A|A}}</sup> #18 Serge Savard (D) served as interim captain when #12 Yvan Cournoyer (RW) missed the whole playoffs due to a back injury.
+* Murray Wilson's name was misspelled in 1973, 1976, 1977 as MURRY WILSON, missing an "A". Murray Wilson was spelled correctly on the Stanley Cup in 1978. Wilson's name was also spelled correctly on the Replica Cup all 4 times. Bob Gainey was misspelled on the Stanley Cup as ROBERT GAINY, missing an "E". When the Replica Cup was created in 1992–93, ROBERT GAINEY was spelled correctly with 1977 Montreal. 
+* #3 [[Brian Engblom]] (D) did not play in the regular season, but played in 2 playoff games (none in the Finals). His name was left off the Cup because he did not qualify. Engblom also won the Calder Cup with Mike Polich and Pierre Mondou in 1977 with the Nova Scotia Voyagers.}}
+
+==See also==
+* [[1976–77 NHL season]]
+
+==References==
+{{reflist}}
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1976 Stanley Cup Final|Montreal Canadiens<br>1976]] |
+  after = [[1978 Stanley Cup Final|Montreal Canadiens<br>1978]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1977|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{Boston Bruins}}
+{{1976–77 NHL season by team}}
+{{Hockey Night in Canada}}
+{{The NHL Network (1975–79)}}
+{{NHL on NBC}}
+}}
+
+[[Category:1976–77 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1977 in Boston|Stanley Cup Final]]
+[[Category:1977 in Montreal]]
+[[Category:1977 in sports in Quebec|Stanley Cup Final]]
+[[Category:May 1977 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1977 sports events in the United States|Stanley Cup Final]]
+[[Category:1977 in sports in Massachusetts]]

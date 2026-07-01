@@ -1,0 +1,1144 @@
+{{Short description|1967 ice hockey championship series}}
+{{Use mdy dates|date=July 2022}}
+{{Infobox Stanley Cup Final
+|year=1967
+|team1='''[[1966–67 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto
+|team1_captain=[[George Armstrong (ice hockey)|George Armstrong]]
+|team1_1=2
+|team1_2='''3'''
+|team1_3='''3'''**
+|team1_4=2
+|team1_5='''4'''
+|team1_6='''3'''
+|team1_tot=4
+|team2=[[1966–67 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal
+|team2_captain=[[Jean Beliveau]]
+|team2_1='''6'''
+|team2_2=0
+|team2_3=2**
+|team2_4='''6'''
+|team2_5=1
+|team2_6=1
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 20 – May 2, 1967
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4, 6)
+|mvp=[[Dave Keon]] (Maple Leafs)
+|series_winner=[[Jim Pappin]] (19:24, second)
+|coaches=Toronto: [[Punch Imlach]]<br />Montreal: [[Toe Blake]]
+|hofers='''Maple Leafs:'''<br/>[[George Armstrong (ice hockey)|George Armstrong]] (1975)<br/>[[Johnny Bower]] (1976)<br/>[[Tim Horton]] (1977)<br/>[[Red Kelly]] (1969)<br/>[[Dave Keon]] (1986)<br/>[[Frank Mahovlich]] (1981)<br/>[[Marcel Pronovost]] (1978)<br/>[[Bob Pulford]] (1991)<br/>[[Terry Sawchuk]] (1971)<br/>[[Allan Stanley]] (1981)<br/>'''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Yvan Cournoyer]] (1982)<br/>[[Dick Duff]] (2006)<br/>[[Jacques Laperrière|Jacques Laperriere]] (1987)<br/>[[Henri Richard]] (1979)<br/>[[Rogie Vachon]] (2016)<br/>[[Gump Worsley]] (1980)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>[[Punch Imlach]] (1984)<br/>'''Officials:'''<br/>[[John Ashley (ice hockey)|Josh Ashley]] (1981)<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[Matt Pavelich]] (1987)
+}}
+The '''1967 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1966–67 NHL season|1966–67 season]], and the culmination of the [[1967 Stanley Cup playoffs]]. A best-of-seven series, it was contested between the [[1966–67 Montreal Canadiens season|Montreal Canadiens]] and the [[1966–67 Toronto Maple Leafs season|Toronto Maple Leafs]]. This was the fifth and most recent Cup Final Meeting in the history of the [[Canadiens-Maple Leafs rivalry]]. The Maple Leafs defeated the Canadiens in six games to win their thirteenth and most recent [[Stanley Cup]] championship.
+
+To date, this is Toronto's last appearance in the Stanley Cup Final and they have [[List of NHL franchise post-season droughts#Stanley Cup droughts|the longest-active championship drought]] in the NHL. The 1967 series was also the last Stanley Cup Final in the [[Original Six]] era. This was also the last all-Canadian Final series until [[1986 Stanley Cup Final|1986]], the last Stanley Cup Final to be played in Ontario until [[2007 Stanley Cup Final|2007]], and the last championship series to feature a Toronto-based team until the [[Toronto Blue Jays|Blue Jays]] made the [[1992 World Series]].
+
+==Paths to the Final==
+{{main|1967 Stanley Cup playoffs}}
+This was the last Stanley Cup before the 1967 expansion, which meant there were only two rounds and three series in total played in the playoffs. Montreal defeated New York to advance to the Final and Toronto defeated Chicago.
+
+==Game summaries==
+
+The average age of the Leafs' players was 31, the oldest lineup to win the Cup.<ref>{{cite book|title=Stanley Cup|pages=42}}</ref> [[Johnny Bower]] was 42 and [[Allan Stanley]] was 41. Toronto won the series in six games, with [[Dave Keon]] won the [[Conn Smythe Trophy]].
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+|date1       = April 20
+|home1       = 1
+|score1      = 2–6
+|won1        = 2
+|recap1      = www.nhl.com/gamecenter/tor-vs-mtl/1967/04/20/1966030211#game=1966030211,game_state=final
+}}
+Montreal won the opener 6–2, with [[Henri Richard]] recording a hat trick and an assist, and [[Yvan Cournoyer]] scoring twice. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (1) – ''pp''
+|align=center | [[Jean Béliveau|Jean Beliveau]] (4) and [[Bobby Rousseau]] (4)
+|align=center | 06:25
+|align=center | 1–0 MTL
+|-
+|align=center | TOR
+|align=center | [[Larry Hillman]] (1)
+|align=center | [[Jim Pappin]] (5)
+|align=center | 06:40
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]] (1)
+|align=center | [[Leon Rochefort]] (1) and [[Dave Balon]] (1)
+|align=center | 11:19
+|align=center | 2–1 MTL
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MTL
+|align=center | Yvan Cournoyer (2) – ''pp''
+|align=center | Bobby Rousseau (5) and Henri Richard (4)
+|align=center | 05:03
+|align=center | 3–1 MTL
+|-
+|align=center | MTL
+|align=center | Jean Beliveau (3)
+|align=center | [[Gilles Tremblay (ice hockey)|Gilles Tremblay]] (1)
+|align=center | 06:36
+|align=center | 4–1 MTL
+|-
+|align=center | TOR
+|align=center | Jim Pappin (4)
+|align=center | [[Tim Horton]] (3) and [[Bob Pulford]] (5)
+|align=center | 12:59
+|align=center | 4–2 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Henri Richard (2)
+|align=center | Dave Balon (2)
+|align=center | 04:53
+|align=center | 5–2 MTL
+|-
+|align=center | MTL
+|align=center | Henri Richard (3)
+|align=center | [[J. C. Tremblay]] (3)
+|align=center | 08:21
+|align=center | 6–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | MTL
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+|align=center | High-sticking
+|align=center | 01:07
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Frank Mahovlich]]
+|align=center | Interference
+|align=center | 05:56
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Hooking
+|align=center | 08:35
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Ted Harris
+|align=center | Hooking
+|align=center | 11:53
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Bench (served by [[Aut Erickson]])
+|align=center | Too many men on the ice
+|align=center | 12:48
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Elbowing
+|align=center | 14:51
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Leon Rochefort
+|align=center | Charging
+|align=center | 18:27
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | TOR
+|align=center | Jim Pappin
+|align=center | Hooking
+|align=center | 02:06
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Brian Conacher]]
+|align=center | Elbowing
+|align=center | 04:28
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Terry Harper]]
+|align=center | Elbowing
+|align=center | 12:41
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Claude Larose
+|align=center | Slashing
+|align=center | 13:12
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Hooking
+|align=center | 14:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | TOR
+|align=center | Brian Conacher
+|align=center | Charging
+|align=center | 09:14
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dave Balon
+|align=center | Tripping
+|align=center | 13:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Hooking
+|align=center | 18:34
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 8 || align=center | 10 || align=center | 8 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 12 || align=center | 18 || align=center | 14 || align=center | 44
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+|date1       = April 22
+|home1       = 1
+|score1      = 3–0
+|won1        = 1
+|recap1      = www.nhl.com/gamecenter/tor-vs-mtl/1967/04/22/1966030212#game=1966030212,game_state=final
+}}
+With [[Terry Sawchuk]] being pulled in game one, [[Johnny Bower]] started the second game and provided the Leafs with a shutout win, stopping all 31 shots in a 3–0 victory. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | TOR
+|align=center | [[Pete Stemkowski]] (4) – ''pp''
+|align=center | [[Bob Pulford]] (4) and [[Mike Walton]] (3)
+|align=center | 12:14
+|align=center | 1–0 TOR
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TOR
+|align=center | Mike Walton (3) – ''pp''
+|align=center | [[Jim Pappin]] (4) and [[Frank Mahovlich]] (6)
+|align=center | 09:12
+|align=center | 2–0 TOR
+|-
+|align=center | TOR
+|align=center | [[Tim Horton]] (2)
+|align=center | Pete Stemkowski (4) and [[Brian Conacher]] (2)
+|align=center | 16:57
+|align=center | 3–0 TOR
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | TOR
+|align=center | [[Ron Ellis]]
+|align=center | Holding
+|align=center | 01:29
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Terry Harper]]
+|align=center | Roughing
+|align=center | 11:59
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Allan Stanley]]
+|align=center | Tripping
+|align=center | 14:56
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Hooking
+|align=center | 17:17
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Roughing
+|align=center | 19:41
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Brian Conacher
+|align=center | Roughing
+|align=center | 19:41
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Tripping
+|align=center | 05:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]]
+|align=center | Slashing
+|align=center | 07:18
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Marcel Pronovost]]
+|align=center | Tripping
+|align=center | 10:23
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Brian Conacher
+|align=center | Charging
+|align=center | 11:58
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | John Ferguson
+|align=center | Interference
+|align=center | 14:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | TOR
+|align=center | Brian Conacher
+|align=center | Hooking
+|align=center | 07:58
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Slashing
+|align=center | 14:21
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Pete Stemkowski
+|align=center | Tripping
+|align=center | 16:02
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 14 || align=center | 10 || align=center | 19 || align=center | 43
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 13 || align=center | 9 || align=center | 9 || align=center | 31
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|date1       = April 25
+|score1     = 2–3
+|ot1         = 2
+|won1        = 2
+|recap1      = www.nhl.com/gamecenter/mtl-vs-tor/1967/04/25/1966030213#game=1966030213,game_state=final
+}}
+
+Bower was back in net for game three, making 61 saves in the contest and winning the game 3–2 on [[Bob Pulford]]'s double-overtime goal. This game has been described as "one of the most exciting games ever played".<ref>McFarlane (1973), pg. 171</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (4) – ''pp''
+|align=center | [[Bobby Rousseau]] (6) and [[Dick Duff]] (2)
+|align=center | 02:27
+|align=center | 1–0 MTL
+|-
+|align=center | TOR
+|align=center | [[Pete Stemkowski]] (5) – ''pp''
+|align=center | [[Larry Hillman]] (2) and [[Jim Pappin]] (7)
+|align=center | 08:39
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TOR
+|align=center | Jim Pappin (5)
+|align=center | [[Tim Horton]] (4) and [[Bob Pulford]] (7)
+|align=center | 10:34
+|align=center | 2–1 TOR
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]] (4)
+|align=center | Jean Beliveau (5)
+|align=center | 19:10
+|align=center | 2–2 
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''2OT'''
+| style="text-align:center;"| TOR
+| style="text-align:center;"| Bob Pulford (1)
+| style="text-align:center;"| Pete Stemkowski (5) and Jim Pappin (8)
+| style="text-align:center;"| 08:26
+| style="text-align:center;"| 3–2 TOR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Interference
+|align=center | 01:13
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | John Ferguson
+|align=center | Interference
+|align=center | 08:04
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Johnny Bower]]
+|align=center | Tripping
+|align=center | 09:27
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+|align=center | Slashing
+|align=center | 13:52
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Frank Mahovlich]]
+|align=center | Tripping
+|align=center | 15:57
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | TOR
+|align=center | [[Allan Stanley]]
+|align=center | Tripping
+|align=center | 02:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Claude Larose
+|align=center | Fighting – major
+|align=center | 06:10
+|align=center | 5:00
+|-
+|align=center | TOR
+|align=center | [[Brian Conacher]]
+|align=center | Fighting – major
+|align=center | 06:10
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]]
+|align=center | High-sticking
+|align=center | 06:38
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Eddie Shack]]
+|align=center | High-sticking
+|align=center | 06:38
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dick Duff
+|align=center | Interference
+|align=center | 16:17
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Charging
+|align=center | 19:32
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich
+|align=center | Cross-checking
+|align=center | 19:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | John Ferguson
+|align=center | Hooking
+|align=center | 03:23
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''2OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=7 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | 2OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 20 || align=center | 8 || align=center | 14 || align=center | 13 || align=center | 8 || align=center | 63
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 12 || align=center | 12 || align=center | 10 || align=center | 11 || align=center | 9 || align=center | 54
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Maple Leaf Gardens]]
+|date1       = April 27
+|score1      = 2–6
+|won1        = 2
+|recap1      = https://www.nhl.com/gamecenter/mtl-vs-tor/1967/04/27/1966030214
+}}
+Johnny Bower was injured before game four and Terry Sawchuk had to replace him. [[Al Smith (ice hockey)|Al Smith]] was called up from the minors to serve as back-up for the fourth and fifth games. The Canadiens defeated the Leafs 6–2 again, this time in Toronto to even the series, with [[Jean Béliveau|Jean Beliveau]] and [[Ralph Backstrom]] both recording two goals for Montreal. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Ralph Backstrom]] (4)
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]] (5)
+|align=center | 12:25
+|align=center | 1–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (5) – ''pp''
+|align=center | [[Bobby Rousseau]] (7) and [[Yvan Cournoyer]] (2)
+|align=center | 13:08
+|align=center | 2–0 MTL
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | TOR
+|align=center | [[Mike Walton]] (4) – ''pp''
+|align=center | [[Peter Stemkowski]] (6) and [[Bob Pulford]] (8)
+|align=center | 02:09
+|align=center | 2–1 MTL
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]] (4)
+|align=center | ''Unassisted''
+|align=center | 02:26
+|align=center | 3–1 MTL
+|-
+|align=center | TOR
+|align=center | [[Tim Horton]] (3)
+|align=center | ''Unassisted''
+|align=center | 12:16
+|align=center | 3–2 MTL
+|-
+|align=center | MTL
+|align=center | Jean Beliveau (6)
+|align=center | [[John Ferguson Sr.|John Ferguson]] (2) and [[Yvan Cournoyer]] (3)
+|align=center | 13:41
+|align=center | 4–2 MTL
+|-
+|align=center | MTL
+|align=center | Ralph Backstrom (5)
+|align=center | [[J. C. Tremblay]] (4)
+|align=center | 15:58
+|align=center | 5–2 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]] (1)
+|align=center | Henri Richard (5)
+|align=center | 15:17
+|align=center | 6–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | MTL
+|align=center | [[Jacques Laperrière|Jacques Laperriere]]
+|align=center | Interference
+|align=center | 00:18
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[George Armstrong (ice hockey)|George Armstrong]]
+|align=center | Interference
+|align=center | 06:19
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Marcel Pronovost]]
+|align=center | Tripping
+|align=center | 12:38
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Boarding
+|align=center | 01:46
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | George Armstrong
+|align=center | Hooking
+|align=center | 04:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''3rd'''
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Tripping
+|align=center | 02:32
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Eddie Shack]]
+|align=center | Charging
+|align=center | 08:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+|align=center | Slashing
+|align=center | 16:34
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Bobby Baun]]
+|align=center | Hooking
+|align=center | 16:34
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Ted Harris
+|align=center | Slashing
+|align=center | 17:09
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | Slashing
+|align=center | 17:09
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Roughing
+|align=center | 19:29
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | Roughing
+|align=center | 19:29
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 19 || align=center | 10 || align=center | 11 || align=center | 40
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 11 || align=center | 16 || align=center | 10 || align=center | 37
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+|date5       = April 29
+|home5       = 1
+|score5      = 4–1
+|won5        = 1
+|recap5      = www.nhl.com/gamecenter/tor-vs-mtl/1967/04/29/1966030215#game=1966030215,game_state=final
+}}
+Sawchuk would play well in game five, making 37 saves in a 4–1 victory.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Leon Rochefort]] (1)
+|align=center | [[Dick Duff]] (3) and [[Henri Richard]] (6)
+|align=center | 06:03
+|align=center | 1–0 MTL
+|-
+|align=center | TOR
+|align=center | [[Jim Pappin]] (6)
+|align=center | [[Dave Keon]] (5) and [[Frank Mahovlich]] (7) 
+|align=center | 15:06
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | TOR
+|align=center | [[Brian Conacher]] (3)
+|align=center | [[Red Kelly]] (3) and [[Ron Ellis]] (1)
+|align=center | 03:07
+|align=center | 2–1 TOR
+|-
+|align=center | TOR
+|align=center | [[Marcel Pronovost]] (1) – ''sh''
+|align=center | ''Unassisted'' 
+|align=center | 12:02
+|align=center | 3–1 TOR
+|-
+|align=center | TOR
+|align=center | Dave Keon (3)
+|align=center | [[Tim Horton]] (5)
+|align=center | 19:27
+|align=center | 4–1 TOR
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | TOR
+|align=center | Jim Pappin
+|align=center | Charging
+|align=center | 03:09
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+|align=center | Boarding 
+|align=center | 13:30
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Interference
+|align=center | 18:29
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Charging
+|align=center | 06:54
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Red Kelly
+|align=center | Interference
+|align=center | 11:40
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]]
+|align=center | Elbowing
+|align=center | 14:55
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dick Duff 
+|align=center | Roughing
+|align=center | 17:35
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Ron Ellis
+|align=center | Roughing
+|align=center | 17:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | TOR
+|align=center | [[Frank Mahovlich]]
+|align=center | Tripping
+|align=center | 06:17
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 7 || align=center | 12 || align=center | 10 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 13 || align=center | 13 || align=center | 12 || align=center | 38
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|date1=May 2
+|team1=Montreal Canadiens 
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|score1=1–3
+|won1=2
+|recap1=https://www.nhl.com/gamecenter/mtl-vs-tor/1967/05/02/1966030216
+}}
+In the sixth game, Johnny Bower returned to the line-up as back up for Toronto. [[Gump Worsley]] would also replace [[Rogie Vachon]] for Montreal, who had been pulled in game five. [[Jim Pappin]] scored his seventh goal of the playoffs and Sawchuk stopped 40 shots helping Toronto win the Cup. Pappin had four goals and four assists in the final series. Captain [[George Armstrong (ice hockey)|George Armstrong]] scored the 3–1 empty-net insurance goal to put game six out of reach.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TOR
+|align=center | [[Ron Ellis]] (2)
+|align=center | [[Red Kelly]] (4) and [[Allan Stanley]] (2)
+|align=center | 06:25
+|align=center | 1–0 TOR
+|-
+|align=center | TOR
+|align=center | [[Jim Pappin]] (7)
+|align=center | [[Pete Stemkowski]] (7) and [[Bob Pulford]] (9)
+|align=center | 19:24
+|align=center | 2–0 TOR
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | [[Dick Duff]] (2)
+|align=center | [[Ted Harris (ice hockey)|Ted Harris]] (1)
+|align=center | 05:28
+|align=center | 2–1 TOR
+|-
+|align=center | TOR
+|align=center | [[George Armstrong (ice hockey)|George Armstrong]] (2) – ''en''
+|align=center | Bob Pulford (10) and Red Kelly (5)
+|align=center | 19:13
+|align=center | 3–1 TOR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | TOR
+|align=center | [[Brian Conacher]]
+|align=center | Interference
+|align=center | 02:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ralph Backstrom]]
+|align=center | Holding
+|align=center | 05:16
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]]
+|align=center | Cross-checking
+|align=center | 10:21
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Brian Conacher
+|align=center | Interference
+|align=center | 13:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[John Ferguson Sr.|John Ferguson]]
+|align=center | Elbowing
+|align=center | 18:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | MTL
+|align=center | [[Terry Harper]]
+|align=center | Holding
+|align=center | 03:05
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Pete Stemkowski]]
+|align=center | Cross-checking
+|align=center | 07:14
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Allan Stanley]]
+|align=center | Hooking
+|align=center | 13:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bobby Rousseau]]
+|align=center | Tripping
+|align=center | 14:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | TOR
+|align=center | Jim Pappin
+|align=center | Slashing
+|align=center | 11:46
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 17 || align=center | 14 || align=center | 10 || align=center | 41
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 11 || align=center | 16 || align=center | 9 || align=center | 35
+|}
+
+==Stanley Cup engraving==
+The 1967 Stanley Cup was presented to Maple Leafs captain George Armstrong by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 3–1 win over the Canadiens in Game Six.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup.
+
+'''1966–67 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=* 1 [[Johnny Bower]]
+*30 [[Terry Sawchuk]]
+*1 [[Al Smith (ice hockey)|Al Smith]]^
+|defence=*2 [[Larry Hillman]]
+* 3 [[Marcel Pronovost]]
+* 7 Miles [[Tim Horton|Tim Horton]]
+* 21 [[Bob Baun]]
+* 24 [[Aut Erickson]]*
+* 26 [[Allan Stanley]] (A)
+|centres=*4 Leonard [[Red Kelly]] 
+* 12 [[Pete Stemkowski]]
+* 14 [[Dave Keon]]
+* 16 [[Mike Walton]]
+* 22 [[Brian Conacher]]
+* 25 [[Milan Marcetta]]*
+|wingers=*8 [[Ron Ellis]]
+* 10 [[George Armstrong (ice hockey)|George Armstrong]] (Captain)
+* 15 [[Larry Jeffrey]]
+* 18 [[Jim Pappin]]
+* 20 [[Bob Pulford]] (A)
+* 23 [[Eddie Shack]] 
+* 27 [[Frank Mahovlich]]
+|player-notes=
+* * Did not play in the regular season.{{ref|A|[A]}}
+|non-players=
+* [[Stafford Smythe]] (President/Owner), [[Harold Ballard]] (Exe. Vice President/Owner) 
+* [[John W. H. Bassett]] (Chairman/Owner), George [[Punch Imlach]] (Manager-Coach)
+* Frank [[King Clancy]] (Asst. Manager-Coach), [[Bob Davidson (hockey)|Bob Davidson]] (Chief Scout)
+* John Anderson (Business Manager)
+* Bob Haggert (Trainer), Tom Nayler (Asst. Trainer)
+* Dr. Karl Elieff (Physiotherapist)
+* Richard Smythe (Mascot)
+
+|engraving-notes=
+* The first "K" in Peter Stemkowski's name was engraved backwards.
+* Stafford Smythe's name was misspelled  C. ST FFORD SMYTHE PRESIDENT, missing an "A". Both mistakes were corrected on the Replica Cup created in 1992–93.
+* The job title for John Anderson was misspelled BUISS MANN (sic)
+* Leonard "Red" Kelly won the Stanley Cup 8 times.  He was engraved as Leonard Kelly in 1954, 1955, 1962, 1963, and 1964.  Kelly was engraved as Red Kelly in 1950, 1952, and 1967.
+* <sup>{{note|A|A}}</sup> #25 [[Milan Marcetta]] (C) played 3 games in the Final, and #24 [[Aut Erickson]] (D) played 1 game in the Final, qualifying to be on the Stanley Cup engraving.  Neither player played a game for Toronto in the regular season.
+*[[Johnny Bower]] (G) was 42 years old when he won his fourth and final Stanley Cup.
+
+Left off the Stanley Cup for playing in the minors during the playoffs.
+* #24 [[John Brenneman]] (LW) played 41 games, but played in the minors during the playoffs
+* #19 [[Kent Douglas]] (D) played 39 games, but played in the minors during the playoffs
+* #1-#30 [[Bruce Gamble]] (G) played 23 regular-season games, dressed for 35, but was playing in the minors during the playoffs.
+* #1 [[Al Smith (ice hockey)|Al Smith]]^ (G) was dressed in the finals, due to Johnny Bowers missing games 4 and 5 (of 6) in the finals due to injury. Smith's name was left off the Cup because he only played 1 regular-season game and did not play in the playoffs. Al Smith qualified to be on the Cup because he was dressed in the series. 
+* Dr. Hugh Symthe (Team Physician) – Also left (His name is on cup 1942 with Toronto as mascot).}}
+
+===Won the Stanley Cup 4 times in 6 years with Toronto 1962, 1963, 1964, 1967===
+* George Armstrong, Bob Baun, Johnny Bower, Larry Hillman, Tim Horton, Red Kelly, Dave Keon, Frank Mahovlich, Bob Pulford, Eddie Shack, Allan Stanley (11 players), Stafford Smythe, Harold Ballard, John Bassett, Punch Imlach, King Clancy, Bob Haggert, Tom Nayler (7 non-players), Bob Davidson, Karl Elieff (were part of all 4 cups, but were not included on the cup each season.)
+
+==See also==
+* [[1966–67 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+{{external media|video1={{youTube|1Pyap77uGSU|1967 Stanley Cup Final, Game 6: Maple Leafs vs. Canadiens}}}}
+* {{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |title=The History of the National Hockey League |last=McFarlane |first=Brian |year=1973 |publisher=Charles Scribner's Sons |location=New York |isbn=0-684-13424-1 |url-access=registration |url=https://archive.org/details/storyofnationalh0000mcfa }}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1966 Stanley Cup Final|Montreal Canadiens<br />1966]] | title = [[List of Stanley Cup champions|Toronto Maple Leafs<br />Stanley Cup champions]] | years = 1967 | after = [[1968 Stanley Cup Final|Montreal Canadiens<br />1968]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Toronto Maple Leafs}}
+{{Montreal Canadiens}}
+{{1966–67 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+}}
+
+[[Category:1967 Stanley Cup| ]]
+[[Category:1966–67 NHL season|Stanley Cup]]
+[[Category:Montreal Canadiens games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:April 1967 sports events in Canada|Stanley Cup]]
+[[Category:May 1967 sports events in Canada|Stanley Cup]]
+[[Category:1967 in Montreal]]
+[[Category:1967 in Toronto|Stanley Cup]]
+[[Category:Canadiens–Maple Leafs rivalry|Stanley Cup Final, 1967]]

@@ -1,0 +1,1286 @@
+{{Short description|1995 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1995
+|image=1995 NHL Logo.png
+|team1='''[[1994–95 New Jersey Devils season|New Jersey Devils]]'''
+|team1_short=New Jersey
+|team1_1='''2'''
+|team1_2='''4'''
+|team1_3='''5'''
+|team1_4='''5'''
+|team1_tot=4
+|team2=[[1994–95 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit
+|team2_1=1
+|team2_2=2
+|team2_3=2
+|team2_4=2
+|team2_tot=0
+|mvp=[[Claude Lemieux]] (Devils)
+|location1=[[East Rutherford, New Jersey|East Rutherford]]: [[Meadowlands Arena|Brendan Byrne Arena]] (3, 4)
+|location2=[[Detroit]]: [[Joe Louis Arena]] (1, 2)
+|dates=June 17–24, 1995
+|team1_coach=[[Jacques Lemaire]]
+|team2_coach=[[Scotty Bowman]]
+|team1_captain=[[Scott Stevens]]
+|team2_captain=[[Steve Yzerman]]
+|referees=[[Bill McCreary (referee)|Bill McCreary]] (1, 4)<br/>[[Terry Gregson]] (2)<br/>[[Kerry Fraser]] (3)
+|team1_national_anthem=Unknown 
+|team2_national_anthem=[[Karen Newman]]
+|series_winner=[[Neal Broten]] (7:56, second)
+|hofers='''Devils:'''<br/>[[Martin Brodeur]] (2018)<br/>[[Scott Niedermayer]] (2013)<br/>[[Scott Stevens]] (2007)<br/>'''Red Wings:'''<br/>[[Dino Ciccarelli]] (2010)<br/>[[Paul Coffey]] (2004)<br/>[[Sergei Fedorov]] (2015)<br/>[[Viacheslav Fetisov]] (2001)<br/>[[Mark Howe]] (2011)<br/>[[Nicklas Lidström|Nicklas Lidstrom]] (2015)<br/>[[Mike Vernon (ice hockey)|Mike Vernon]] (2023)<br/>[[Steve Yzerman]] (2009)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>[[Jacques Lemaire]] (1984, player)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on Fox|Fox]] (1, 4), [[NHL on ESPN|ESPN]] (2–3)
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(Fox) [[Mike Emrick]] and [[John Davidson (ice hockey)|John Davidson]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]]
+}}
+The '''1995 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1994–95 NHL season|1994–95 season]], and the culmination of the [[1995 Stanley Cup playoffs]]. It was contested by the [[Eastern Conference (NHL)|Eastern Conference]] champion [[1994–95 New Jersey Devils season|New Jersey Devils]] and the [[Western Conference (NHL)|Western Conference]] champion [[1994–95 Detroit Red Wings season|Detroit Red Wings]]. It was the Devils franchise's first appearance in the Final, while the Red Wings returned to the Final for the first time since {{scfy|1966}}. The Devils upset the heavily-favored Red Wings in a sweep to win their first [[Stanley Cup]] championship in franchise history in their 21st season. The Devils became the sixth team to earn a championship after joining the league in [[1967 NHL expansion|1967]] or later. This was the first of nine consecutive Final series to feature only American-based franchises. This also marked the first of four consecutive sweeps in the Final series.
+
+This was also the first time in both the NHL and NBA history where both finals involved the first-seeded team being swept. In addition, the Devils became the first team in NHL history to win the title without having home ice advantage in any of the four playoff rounds since the playoffs was expanded to a 16-team format in 1980.<ref name=":02">{{Cite news |last=Yannis |first=Alex |date=June 25, 1995 |title=1995 STANLEY CUP FINALS; New Jersey and the Cup - Perfect Together |url=https://www.nytimes.com/1995/06/25/sports/1995-stanley-cup-finals-new-jersey-and-the-cup-perfect-together.html |access-date=January 11, 2023 |work=The New York Times |issn=0362-4331}}</ref> Coincidentally, this feat would also be achieved in the [[National Basketball Association|NBA]] by the [[Houston Rockets]] that same year, when they won the [[1995 NBA Finals|NBA championship]] over the [[Orlando Magic]].
+
+Despite the fact that the regular season was cut short by the owners' [[1994–95 NHL lockout|lockout]], both the season and the Final were saved at the eleventh hour – this was the latest date that the Stanley Cup was awarded. This record was later matched in {{scfy|2013}} and then broken by the [[COVID-19 pandemic in North America|COVID-19 pandemic]] affected the [[2019–20 NHL season|2019–20 season]]. The fifth seeded Devils held the record as the lowest seeded team to win the Stanley Cup until the [[Los Angeles Kings]] broke the record in {{scfy|2012}}. Their regular season winning percentage was also the lowest for a Cup winner since the [[1966–67 Toronto Maple Leafs season|1966–67 Toronto Maple Leafs]].
+
+This was the first Cup Final since [[1980 Stanley Cup Final|1980]] to be played entirely within one time zone.
+
+==Paths to the Final==
+{{further|1995 Stanley Cup playoffs|1994–95 Detroit Red Wings season|1994–95 New Jersey Devils season}}
+
+===New Jersey Devils===
+The Devils entered the playoffs as the 5th seed in the Eastern Conference. In the first round, they defeated the fourth-seeded [[Boston Bruins]] in five games. In the second round, they defeated the third-seeded [[Pittsburgh Penguins]], also in five games. In the East Final, the Devils upset their [[Devils–Flyers rivalry|rival]] in the top-seeded [[Philadelphia Flyers]] in six games to reach their first Stanley Cup Final in franchise history.
+
+===Detroit Red Wings===
+The Red Wings were the [[Presidents' Trophy]] winner and therefore was the overall #1 seed in the playoffs. In the first round, the Red Wings handled the eighth-seeded [[Dallas Stars]] in five games. In the second round, the Red Wings got revenge on the seventh-seeded [[San Jose Sharks]] in a sweep after being upset by them in the first round of [[1994 Stanley Cup playoffs|last year's playoffs]], to return to the Western Conference Final for the first time since [[1988 Stanley Cup playoffs#Conference finals|1988]]. In the West Final, the Red Wings faced their fellow [[Blackhawks–Red Wings rivalry|rival]] in the [[Chicago Blackhawks]] and defeated them in five games to return to the Stanley Cup Final for the first time since [[1966 Stanley Cup Final|1966]].
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = New Jersey Devils
+ |team2 = Detroit Red Wings
+ |stadium1 = [[Joe Louis Arena]]
+ |recap1 = www.nhl.com/gamecenter/det-vs-njd/1995/06/17/1994030411
+ |date1 = June 17
+ |score1 = 2–1
+ |won1 = 1
+}}
+
+The series opened on June 17, at the Joe Louis Arena in [[Detroit]]. Few gave New Jersey much of a chance against the NHL's best team. Going into the game, Detroit was a perfect 8–0 at home in the playoffs and had outscored their opponents 30–11 in their eight home games. In the first three rounds alone the Red Wings had scored 18 power-play goals. Detroit fans, first greeting their opponents with a chorus of boos, then chanted after every Devils name was read during introductions, "''Who cares?''"<ref>{{cite web|url=https://www.nhl.com/devils/news/devils-over-the-decades-born-in-the-lockout-1995-devils-cup-champs-317240688|website=NHL.com|title=DEVILS OVER THE DECADES: Born in the Lockout, 1995 Devils Cup Champs|first=Stan|last=Fischler|date=June 24, 2020}}</ref>
+
+After a scoreless first period, the underdog Devils got on the board first, when [[Stéphane Richer (ice hockey forward)|Stephane Richer]] blasted a slap shot from the top of the right circle that just squeezed through Detroit goaltender [[Mike Vernon (ice hockey)|Mike Vernon]]. The power-play goal came at 9:41 of the second period and gave New Jersey a 1–0 lead. The Red Wings responded less than four minutes later and tied the game on a power-play goal by [[Dino Ciccarelli]] at 13:08. The Devils would regain the lead on a goal by [[Claude Lemieux]], a slapper from the slot at 3:17 of the third period. New Jersey would go on to win the game 2–1 and take a one-game-to-none series lead. They played a solid defensive game, frustrating the Red Wings and holding them to just 17 shots. The win was their ninth road win of the playoffs.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| NJ
+| style="text-align:center;"| [[Stéphane Richer|Stephane Richer]] (5) – ''pp''
+| style="text-align:center;"|[[Tommy Albelin]] (6) and [[Neal Broten]] (10) 
+| style="text-align:center;"|09:41
+| style="text-align:center;"|1–0 NJ
+|-
+| style="text-align:center;"|DET
+| style="text-align:center;"| [[Dino Ciccarelli]] (9) – ''pp''
+| style="text-align:center;"|[[Nicklas Lidström|Nicklas Lidstrom]] (11) and [[Paul Coffey]] (12)
+| style="text-align:center;"|13:08 
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|'''3rd'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"| [[Claude Lemieux]] (12)
+| style="text-align:center;"|[[John MacLean (ice hockey)|John MacLean]] (10) and [[Tom Chorske]] (4)
+| style="text-align:center;"|03:17
+| style="text-align:center;"| 2–1 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NJ
+|align=center | [[Bill Guerin]]
+|align=center | Holding
+|align=center | 06:47
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Vladimir Konstantinov]]
+|align=center | Holding the stick
+|align=center | 11:05
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | DET
+|align=center | [[Kris Draper]]
+|align=center | Roughing
+|align=center | 09:35
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | High-sticking
+|align=center | 11:37
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Claude Lemieux
+|align=center | Hooking
+|align=center | 13:41
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Dino Ciccarelli
+|align=center | Roughing
+|align=center | 15:54
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Roughing
+|align=center | 15:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | [[Doug Brown (ice hockey)|Doug Brown]]
+|align=center | Tripping
+|align=center | 04:48
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 9 || align=center | 10 || align=center | 9 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 7 || align=center | 5 || align=center | 15 || align=center | 17
+|}
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = New Jersey Devils
+ |team2 = Detroit Red Wings
+ |stadium1 = [[Joe Louis Arena]]
+ |recap1 =www.nhl.com/gamecenter/det-vs-njd/1995/06/20/1994030412
+ |date1 = June 20
+ |score1 = 4–2
+ |won1 = 1
+}}
+
+In game two, Detroit played with a sense of urgency. [[Vyacheslav Kozlov]] scored on the power play at 7:17 of the second period to make the score 1–0 in favor of the Red Wings. Devils forward [[John MacLean (ice hockey)|John MacLean]] would tie the game at 1–1 less than two and a half minutes later with a goal at 9:40. Then, on a Detroit breakaway, New Jersey defenceman and [[Captain (ice hockey)|captain]] [[Scott Stevens]] laid a thundering body check on Kozlov as he made a move to the inside past the New Jersey blue line. Although the Red Wings regained the lead on [[Sergei Fedorov]]'s goal at 1:36 of the third period, the Stevens hit seemed to inspire the Devils. With the midway point of the third period approaching, New Jersey defenceman [[Scott Niedermayer]] picked up the puck in his own zone and skated up the ice. Once over the Detroit blue line, he got a step on Detroit defenceman [[Paul Coffey]] and fired a shot towards the Detroit net. Although the puck missed the net, it bounced off the end boards and came right back to Niedermayer, who shot it past Mike Vernon to tie the game at 2–2. The game remained tied until late in the third period. Devils defenceman [[Shawn Chambers]] fired a shot from the point and the rebound came right to [[Jim Dowd (ice hockey)|Jim Dowd]] who backhanded the puck into the net to give the Devils a 3–2 lead. Stéphane Richer would add an empty-net goal as New Jersey won, 4–2.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Vyacheslav Kozlov]] (9) – ''pp''
+| style="text-align:center;"|[[Dino Ciccarelli]] (2) and [[Sergei Fedorov]] (16)
+| style="text-align:center;"|07:17
+| style="text-align:center;"|1–0 DET
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"| [[John MacLean (ice hockey)|John MacLean]] (5)
+| style="text-align:center;"|[[Scott Niedermayer]] (5) and [[Neal Broten]] (11)
+| style="text-align:center;"|09:40
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;" rowspan="4"|'''3rd'''
+| style="text-align:center;"|DET
+| style="text-align:center;"| Sergei Fedorov (5)
+| style="text-align:center;"|[[Doug Brown (ice hockey)|Doug Brown]] (6) and [[Viacheslav Fetisov]] (6)
+| style="text-align:center;"|01:36
+| style="text-align:center;"| 2–1 DET
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Scott Niedermayer]] (4)
+| style="text-align:center;"|[[Jim Dowd (ice hockey)|Jim Dowd]] (1)
+| style="text-align:center;"|09:47
+| style="text-align:center;"| 2–2 
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Jim Dowd (ice hockey)|Jim Dowd]] (2)
+| style="text-align:center;"|[[Shawn Chambers]] (5) and [[Tommy Albelin]] (7)
+| style="text-align:center;"|18:36
+| style="text-align:center;"| 3–2 NJ
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Stéphane Richer|Stephane Richer]] (6) – ''en''
+| style="text-align:center;"|Scott Niedermayer (6)
+| style="text-align:center;"|19:39
+| style="text-align:center;"| 4–2 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Roughing
+|align=center | 00:37
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Dino Ciccarelli
+|align=center | Slashing
+|align=center | 05:57
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Darren McCarty]]
+|align=center | Roughing
+|align=center | 08:49
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Neal Broten
+|align=center | High-sticking
+|align=center | 09:27
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | NJ
+|align=center | [[Martin Brodeur]]
+|align=center | Delay of game
+|align=center | 06:56
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Darren McCarty
+|align=center | Slashing
+|align=center | 08:58
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Bill Guerin]]
+|align=center | Slashing
+|align=center | 08:58
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bob Errey]]
+|align=center | Charging
+|align=center | 16:01
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Jim Dowd
+|align=center | Interference 
+|align=center | 18:30
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | [[Bobby Holík|Bobby Holik]]
+|align=center | Boarding
+|align=center | 04:58
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 3 || align=center | 9 || align=center | 11 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 7 || align=center | 6|| align=center | 5 || align=center | 18
+|}
+
+===Game three===
+{{NHLPlayoffs
+ |team2 = New Jersey Devils
+ |team1 = Detroit Red Wings
+ |stadium1 = [[Brendan Byrne Arena]]
+ |recap1 = www.nhl.com/gamecenter/det-vs-njd/1995/06/22/1994030413
+ |date1 = June 22
+ |score1 = 2–5
+ |won1 = 2
+}}
+
+Game 3 was first NHL game ever played after the official [[summer solstice]] and also the first Stanley Cup Final game played in the state of [[New Jersey]]. During the first game, the Detroit crowd taunted the Devils by collectively jeering "Who cares?" after each player was introduced. The Devils fans countered by raining boos down on the visiting Red Wings and delivering chants of "Red Wings suck." The Devils did their talking on the ice, dominating the Red Wings, scoring five consecutive goals. [[Bruce Driver]], Claude Lemieux, [[Neal Broten]], [[Randy McKay]] and [[Bobby Holík|Bobby Holik]] all scored to give the Devils a 5–0 lead with 11:46 remaining in the game. Detroit scored twice on power-play goals by Sergei Fedorov and [[Steve Yzerman]] at 16:57 and 18:27 of the third period, but it was insufficient to keep New Jersey from winning a 5–2 game. They now had a commanding three-games-to-none lead in the series.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2" |'''1st'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Bruce Driver]] (1) – ''pp''
+| style="text-align:center;"|[[Neal Broten]] (12) and [[John MacLean (ice hockey)|John MacLean]] (11)
+| style="text-align:center;"|10:30
+| style="text-align:center;"|1–0 NJ
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Claude Lemieux]] (13)
+| style="text-align:center;"|[[Bobby Carpenter (ice hockey)|Bobby Carpenter]] (4) and [[Scott Stevens]] (6)
+| style="text-align:center;"|16:52
+| style="text-align:center;"|2–0 NJ
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"|Neal Broten (5)
+| style="text-align:center;"|Scott Stevens (7) and John MacLean (12)
+| style="text-align:center;"|06:59
+| style="text-align:center;"|3–0 NJ
+|-
+| style="text-align:center;"|NJD
+| style="text-align:center;"|[[Randy McKay]] (8)
+| style="text-align:center;"|[[Bobby Holík|Bobby Holik]] (4) and Bruce Driver (5)
+| style="text-align:center;"|08:20
+| style="text-align:center;"|4–0 NJ
+|-
+| style="text-align:center;" rowspan="3" |'''3rd'''
+| style="text-align:center;"|NJD
+| style="text-align:center;"|Bobby Holik (4) – ''pp'' 
+| style="text-align:center;"|[[Bill Guerin]] (5) and [[Stéphane Richer|Stephane Richer]] (14)
+| style="text-align:center;"|08:14
+| style="text-align:center;"|5–0 NJ
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"|[[Sergei Fedorov]] (6) – ''pp'' 
+| style="text-align:center;"|[[Viacheslav Fetisov]] (7) and [[Doug Brown (ice hockey)|Doug Brown]] (7)
+| style="text-align:center;"|16:57
+| style="text-align:center;"|5–1 NJ
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"|[[Steve Yzerman]] (4) – ''pp'' 
+| style="text-align:center;"|[[Ray Sheppard]] (3) and [[Nicklas Lidström|Nicklas Lidstrom]] (12)
+| style="text-align:center;"|18:27
+| style="text-align:center;"|5–2 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | DET
+|align=center | [[Keith Primeau]]
+|align=center | Slashing
+|align=center | 01:09
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Claude Lemieux]]
+|align=center | Roughing
+|align=center | 01:09
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Vladimir Konstantinov]]
+|align=center | Slashing
+|align=center | 08:56
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bobby Holik
+|align=center | Tripping
+|align=center | 10:58
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Martin Lapointe]]
+|align=center | Unsportsmanlike conduct
+|align=center | 16:38
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bill Guerin
+|align=center | Unsportsmanlike conduct
+|align=center | 16:38
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NJ
+|align=center | Neal Broten
+|align=center | Holding the stick
+|align=center | 11:01
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Keith Primeau
+|align=center | Tripping
+|align=center | 16:03
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bobby Carpenter
+|align=center | Cross-checking
+|align=center | 19:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="14"| '''3rd'''
+|align=center | NJ
+|align=center | [[Tommy Albelin]]
+|align=center | High-sticking
+|align=center | 02:30
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Vladimir Konstantinov
+|align=center | High-sticking
+|align=center | 04:25
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Kris Draper]]
+|align=center | High-sticking
+|align=center | 05:17
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Keith Primeau
+|align=center | Cross-checking
+|align=center | 06:31
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bobby Holik
+|align=center | Interference
+|align=center | 08:44
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Stephane Richer
+|align=center | Hooking
+|align=center | 12:28
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Dino Ciccarelli]]
+|align=center | Roughing
+|align=center | 15:37
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]]
+|align=center | Roughing
+|align=center | 15:37
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Martin Lapointe
+|align=center | Roughing – double minor
+|align=center | 15:37
+|align=center | 4:00
+|-
+|align=center | NJ
+|align=center | Bill Guerin
+|align=center | Boarding
+|align=center | 15:37
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bill Guerin
+|align=center | Roughing
+|align=center | 15:37
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Valeri Zelepukin]]
+|align=center | Roughing – double minor
+|align=center | 15:37
+|align=center | 4:00
+|-
+|align=center | NJ
+|align=center | [[Sergei Brylin]]
+|align=center | High-sticking
+|align=center | 15:37
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Sergei Brylin
+|align=center | Roughing
+|align=center | 15:37
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 7 || align=center | 5 || align=center | 12 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 15 || align=center | 8 || align=center | 8 || align=center | 31
+|}
+
+===Game four===
+{{NHLPlayoffs
+ |team2 = New Jersey Devils
+ |team1 = Detroit Red Wings
+ |stadium1 = [[Brendan Byrne Arena]]
+ |recap1 = www.nhl.com/gamecenter/det-vs-njd/1995/06/24/1994030414
+ |date1 = June 24
+ |score1 = 2–5
+ |won1 = 2
+}}
+
+The Devils jumped out to a 1–0 lead on Neal Broten's goal just 68 seconds into the game. However, the Red Wings were fighting to stay alive and tied the game on Sergei Fedorov's goal just 55 seconds later. Coffey scored a shorthanded goal at 13:01 to give Detroit a 2–1 lead. New Jersey responded less than five minutes later, at 17:45 on a slap-shot goal by Shawn Chambers that beat Mike Vernon glove-side. Then, in the second period, Scott Niedermayer passed to Broten, who chipped the puck over Vernon's glove from just in front of the net. The goal, Broten's second of the game, gave the Devils a 3–2 lead. New Jersey would increase its lead with goals by [[Sergei Brylin]] and Chambers (his second of the game) at 7:46 and 12:32 of the third period. The Devils won the game 5–2 and the series four games to none. It was New Jersey's first [[List of Stanley Cup champions|Stanley Cup championship]] in team history. Devils [[goaltender]] [[Martin Brodeur]] allowed just seven goals against the Red Wings in the series and Devils forward Claude Lemieux was awarded the [[Conn Smythe Trophy]] as playoff MVP, having led all skaters in playoff goals with 13. He would win the Stanley Cup again the very next season with the Colorado Avalanche.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4" |'''1st'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Neal Broten]] (6)
+| style="text-align:center;"|[[Stéphane Richer|Stephane Richer]] (15) and [[Tom Chorske]] (5)
+| style="text-align:center;"|01:08
+| style="text-align:center;"|1–0 NJ
+|-
+| style="text-align:center;"|DET
+| style="text-align:center;"|[[Sergei Fedorov]] (7)
+| style="text-align:center;"|[[Martin Lapointe]] (1) and [[Viacheslav Fetisov]] (8)
+| style="text-align:center;"|02:03
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|DET
+| style="text-align:center;"|[[Paul Coffey]] (6) – ''sh''
+| style="text-align:center;"|[[Doug Brown (ice hockey)|Doug Brown]] (8) and Sergei Fedorov (17)
+| style="text-align:center;"|13:01
+| style="text-align:center;"|2–1 DET
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Shawn Chambers]] (3)
+| style="text-align:center;"|[[Bruce Driver]] (6) and [[John MacLean (ice hockey)|John MacLean]] (13)
+| style="text-align:center;"|17:45
+| style="text-align:center;"|2–2 
+|-
+| style="text-align:center;"|'''2nd'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Neal Broten]] (7)
+| style="text-align:center;"|[[Scott Niedermayer]] (7) and [[Bill Guerin]] (6)
+| style="text-align:center;"|07:56
+| style="text-align:center;"|3–2 NJ
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Sergei Brylin]] (1)
+| style="text-align:center;"|[[Brian Rolston]] (1) and Bill Guerin (7)
+| style="text-align:center;"|07:46
+| style="text-align:center;"|4–2 NJ
+|-
+| style="text-align:center;"|NJ
+| style="text-align:center;"|[[Shawn Chambers]] (4)
+| style="text-align:center;"|Sergei Brylin (2) and Bill Guerin (8)
+| style="text-align:center;"|12:32
+| style="text-align:center;"|5–2 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DET
+|align=center | [[Bob Errey]]
+|align=center | Hooking
+|align=center | 11:03
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Ken Daneyko]]
+|align=center | Roughing
+|align=center | 13:36
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Keith Primeau]]
+|align=center | Goaltender interference
+|align=center | 15:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | NJ
+|align=center | Ken Daneyko
+|align=center | Slashing
+|align=center | 00:30
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Martin Lapointe
+|align=center | Roughing
+|align=center | 10:09
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Roughing
+|align=center | 10:09
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Bill Guerin
+|align=center | Interference
+|align=center | 12:43
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Vladimir Konstantinov]]
+|align=center | Hooking
+|align=center | 19:12
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | [[Stu Grimson]]
+|align=center | Roughing
+|align=center | 10:24
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 8 || align=center | 7 || align=center | 1|| align=center | 16
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 8 || align=center | 8 || align=center | 10 || align=center | 26
+|}
+
+==Broadcasting==
+This was the first year that coverage of the Cup Final in the United States was split between [[NHL on Fox|Fox]] and [[NHL on ESPN|ESPN]]. Fox broadcast games one and four with [[Mike Emrick]] (who was the Devils' local television announcer during the season) and [[John Davidson (ice hockey)|John Davidson]], while ESPN broadcast games two and three with [[Gary Thorne]] and [[Bill Clement]]. This was also the first Cup Final in which the U.S. national networks had exclusive rights, and no longer could any of the regional rights holders of the participating U.S. teams produce local telecasts of their respective games. Game four, the first Stanley Cup-clinching game to air on network television in the United States since game six in {{scfy|1980}}, drew a 4.7 rating and a 10 share.<ref name=":0">{{Cite web|last=services|first=News wire|title=FOX'S RATING IN FINALE SOARS|url=https://buffalonews.com/news/foxs-rating-in-finale-soars/article_25e8467f-1136-57a1-9775-73bb8084f9d4.html|access-date=2021-09-25|website=The Buffalo News|date=26 June 1995 |language=en}}</ref> In the New York City area, the game drew a 10.6 rating and 21 share and in Detroit, 14.1 and 26.<ref name=":0" />
+
+In Canada, [[Bob Cole (announcer)|Bob Cole]] and [[Harry Neale]] were in the broadcast booth for [[Hockey Night in Canada|CBC]].
+
+On the radio side, the series was broadcast continentally on [[NHL Radio]] with [[Kenny Albert]] and [[Gary Green (ice hockey)|Gary Green]] announcing. Devils team broadcasters Mike Miller and [[Sherry Ross]] called the series on local radio on [[WABC (AM)|WABC–AM]] 770 in New York City and Red Wings team broadcasters [[Bruce Martyn]] and [[Paul Woods (ice hockey)|Paul Woods]] called the series on local radio on [[WJR]]–AM 760 in [[Detroit]].
+
+==Team rosters==
+===Detroit Red Wings===
+[[File:YzermanCaptain.png|thumb|[[Steve Yzerman]] (pictured in 1987) captained the Red Wings to their first Stanley Cup Final in [[1966 Stanley Cup Final|29 years]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Brown|dab=ice hockey}}
+| RW
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Southborough, Massachusetts]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shawn|Burr}}
+| LW
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Sarnia|Sarnia, Ontario]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dino|Ciccarelli}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Sarnia|Sarnia, Ontario]]
+| second {{small|({{scfy|1981}})}}
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Coffey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Weston, Toronto|Weston, Ontario]]
+| sixth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1991}}''')}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kris|Draper}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Errey}}
+| LW
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| third {{small|('''{{scfy|1991}}''', '''{{scfy|1992}}''')}}
+|-
+|  '''91'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{Sortname|Sergei|Fedorov}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Pskov|Pskov, Soviet Union]]
+| first
+|-
+| '''44'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Viacheslav|Fetisov}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first
+|-
+| '''4'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Howe}}
+| D
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| third {{small|({{scfy|1985}}, {{scfy|1987}})}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Johnson|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''16'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Konstantinov}}
+| D
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Murmansk|Murmansk, Soviet Union]]
+| first
+|-
+| '''13'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vyacheslav|Kozlov}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Voskresensk, Moscow Oblast|Voskresensk, Soviet Union]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Krushelnyski}}
+| LW
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| fourth {{small|('''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''')}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Lapointe}}
+| RW
+| R
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Lachine, Quebec|Ville St. Pierre, Quebec]]
+| first 
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Nicklas|Lidstrom|Nicklas Lidström}}
+| D
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Krylbo|Krylbo, Sweden]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darren|McCarty}}
+| RW
+| R
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| first
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Osgood}}
+| G
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Peace River, Alberta]]
+| first 
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Primeau}}
+| C
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Ramsey|dab=ice hockey}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Rouse}}
+| D
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Surrey, British Columbia]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ray|Sheppard}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Pembroke, Ontario]]
+| first
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Taylor|dab=ice hockey, born 1969}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Stratford, Ontario]]
+| first 
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Vernon|dab=ice hockey}}
+| G
+| L
+| {{NHL Year|1994}} 
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| third {{small|({{scfy|1986}}, '''{{scfy|1989}}''')}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Yzerman}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| first
+|}
+
+===New Jersey Devils===
+[[File:ScottStevens.png|thumb|[[Scott Stevens]] (pictured in 1989) captained the Devils to their first Stanley Cup Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''6'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tommy|Albelin}}
+| D
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Brodeur}}
+| G
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Neal|Broten}}
+| C
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Roseau, Minnesota]]
+| third {{small|({{scfy|1981}}, {{scfy|1991}})}}
+|-
+| '''18'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Brylin}}
+| LW/C
+| L
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first
+|-
+| '''19'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Carpenter|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Beverly, Massachusetts]]
+| first
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shawn|Chambers}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Royal Oak, Michigan]]
+| second {{small|({{scfy|1991}})}}
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Chorske}}
+| LW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Danton|Cole}}
+| RW
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Pontiac, Michigan]]
+| first {{small|(did not play)}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Daneyko}}
+| D
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Dean|dab=ice hockey}}
+| D
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Madison, Wisconsin]]
+| first {{small|(did not play)}}
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Dowd|dab=ice hockey}}
+| C
+| R
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Brick Township, New Jersey|Brick, New Jersey]]
+| first 
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bruce|Driver}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bill|Guerin}}
+| RW
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Worcester, Massachusetts]]
+| first
+|-
+| '''16'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Holik|Bobby Holík}}
+| C
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Jihlava|Jihlava, Czechoslovakia]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Claude|Lemieux}}
+| RW
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Buckingham, Quebec]]
+| third {{small|('''{{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|MacLean|dab=ice hockey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Oshawa|Oshawa, Ontario]]
+| first
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|McAlpine}}
+| D
+| R
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Roseville, Minnesota]]
+| first {{small|(did not play)}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|McKay}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Niedermayer}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''8'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Peluso|dab=ice hockey, born 1965}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Pengilly, Minnesota]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Richer|Stéphane Richer (ice hockey forward)}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Ripon, Quebec]]
+| third {{small|('''{{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Rolston}}
+| C
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Flint, Michigan]]
+| first
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Stevens}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''31'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Terreri}}
+| G
+| L
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Providence, Rhode Island]]
+| first
+|-
+| '''25'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Valeri|Zelepukin}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Voskresensk, Moscow Oblast|Voskresensk, Soviet Union]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1995 Stanley Cup was presented to Devils captain Scott Stevens by [[NHL Commissioner]] [[Gary Bettman]] following the Devils 5–2 win over the Red Wings in game four
+
+The following Devils players and staff had their names engraved on the Stanley Cup
+
+'''1994–95 New Jersey Devils'''
+{{Stanley Cup champion
+|defence=*3 [[Ken Daneyko]]
+*4 [[Scott Stevens]] (Captain)
+*6 [[Tommy Albelin]]
+*7 [[Chris McAlpine]] †
+*23 [[Bruce Driver]] (A)
+*27 [[Scott Niedermayer]]
+*28 [[Kevin Dean (ice hockey)|Kevin Dean]] ‡
+*29 [[Shawn Chambers]]
+|goaltenders=*30 [[Martin Brodeur]]
+*31 [[Chris Terreri]]
+|centres=*9 [[Neal Broten]]
+*11 [[Jim Dowd (ice hockey)|Jim Dowd]]
+*14 [[Brian Rolston]]
+*16 [[Bobby Holík|Bobby Holik]]
+*19 [[Bobby Carpenter (ice hockey)|Bob Carpenter]] 
+|wingers=*8 [[Mike Peluso (ice hockey, born 1965)|Mike Peluso]]
+*12 [[Bill Guerin]]
+*15 [[John MacLean (ice hockey)|John MacLean]] (A)
+*17 [[Tom Chorske]]
+*18 [[Sergei Brylin]]*
+*20 [[Danton Cole]] ‡
+*21 [[Randy McKay]]*
+*22 [[Claude Lemieux]]
+*25 [[Valeri Zelepukin]]
+*44 [[Stéphane Richer (ice hockey forward)|Stephane Richer]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.
+|non-players=
+*[[John J. McMullen]] (Owner/Chairman/Governor), Peter McMullen (Vice President)
+*[[Lou Lamoriello]] (President/General Manager), [[Jacques Lemaire]] (Head Coach), [[Jacques Caron]] (Goaltender Coach)
+*[[Dennis Gendron]] (Asst. Coach), [[Larry Robinson]] (Asst. Coach), [[Robbie Ftorek]] (AHL Coach)
+*Alex Abasto (Asst. Equipment Manager), Bob Huddleston (Massage Therapist), Dave Nichols (Equipment Manager)
+*Ted Schuch (Medical Trainer), Mike Vasalani (Strength-Conditioning Coach), David Conte (Director of Scouting), Milt Fisher (Scout)
+*Claude Carrie (Scout), Dan Labraaten (Scout), [[Marcel Pronovost]] (Scout)}}
+===Engraving notes===
+* #7 [[Chris McAlpine]] (D) played in 24 regular-season games and none in the playoffs. Due to the [[1994-95 NHL lockout]], he played in half of the regular-season games, automatically qualifying to have his name engraved on the Stanley Cup.
+* #28 [[Kevin Dean (ice hockey)|Kevin Dean]] (D) played in 17 regular-season games and 3 playoff games. #20 [[Danton Cole]] (RW) played in 12 regular-season games and 1 playoff game. As they did not automatically qualify (24 regular season games or 1 Final game for the shortened season), New Jersey successfully requested an exemption to engrave their names.
+* Eight members were engraved with an initial and two full names. Stephane Richer was engraved as Stephane J. J. Richer, because there was another [[Stéphane Richer (ice hockey defenceman)|Stephane J. G. Richer]], who was playing in the NHL. Stephane J. G. Richer played 27 NHL games over four years from 1992–93 to 1994–95.
+* Starting in 1994-95, every team that has won the Stanley Cup has left off non-playing positions except for 1 year (see [[2007 Stanley Cup Final]])
+
+==See also==
+*[[1994–95 NHL season]]
+*[[1994–95 Detroit Red Wings season]]
+*[[1994–95 New Jersey Devils season]]
+*[[1995 Stanley Cup playoffs]]
+*[[List of Stanley Cup champions]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite book|last=Diamond |first=Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+*{{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1994 Stanley Cup Final|New York Rangers<br>1994]] | title = [[List of Stanley Cup champions|New Jersey Devils<br>Stanley Cup champions]] | years = 1995 | after = [[1996 Stanley Cup Final|Colorado Avalanche<br>1996]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New Jersey Devils}}
+{{Detroit Red Wings}}
+{{1994–95 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Fox}}
+{{ESPN National Hockey Night}}
+{{NHL Radio}}
+}}
+
+[[Category:1995 Stanley Cup| ]]
+[[Category:1994–95 NHL season|Stanley Cup]]
+[[Category:Detroit Red Wings games]]
+[[Category:New Jersey Devils games|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:20th century in East Rutherford, New Jersey]]
+[[Category:June 1995 sports events in the United States|Stanley Cup Final]]
+[[Category:1995 in sports in New Jersey|Stanley Cup Final]]
+[[Category:1995 in Detroit|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1995 in sports in Michigan|Stanley Cup Final]]
+[[Category:Ice hockey competitions in New Jersey]]

@@ -1,0 +1,208 @@
+{{Short description|1968 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|team1=[[1967–68 St. Louis Blues season|St. Louis Blues]]
+|team1_short=St. Louis
+|team2='''[[1967–68 Montreal Canadiens season|Montreal Canadiens]]'''
+|team2_short=Montreal
+|team2_coach=[[Toe Blake]]
+|team1_coach=[[Scotty Bowman]]
+|team2_captain=[[Jean Béliveau|Jean Beliveau]]
+|team1_captain=[[Al Arbour]]
+|year=1968
+|team2_1='''3'''*
+|team1_1=2*
+|team2_2='''1'''
+|team1_2=0
+|team1_3=3*
+|team2_3='''4'''*
+|team1_4=2
+|team2_4='''3'''
+|team1_tot=0
+|team2_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=May 5–11, 1968
+|location1=[[St. Louis]]: [[St. Louis Arena]] (1, 2)
+|location2=[[Montreal]]: [[Montreal Forum]] (3, 4)
+|team2_winner=1
+|mvp=[[Glenn Hall]] (Blues)
+|series_winner=[[J. C. Tremblay]] (11:40, third)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Yvan Cournoyer]] (1982)<br/>[[Dick Duff]] (2006)<br/>[[Jacques Laperrière|Jacques Laperriere]] (1987)<br/>[[Jacques Lemaire]] (1984)<br/>[[Henri Richard]] (1979)<br/>[[Serge Savard]] (1986)<br/>[[Rogie Vachon]] (2016)<br/>[[Gump Worsley]] (1980)<br/>'''Blues:'''<br/>[[Al Arbour]] (1996, builder)<br/>[[Glenn Hall]] (1975)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>[[Scotty Bowman]] (1991)
+}}
+The '''1968 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1967–68 NHL season|1967–68 season]], and the culmination of the [[1968 Stanley Cup playoffs]]. It was contested between the [[1967–68 Montreal Canadiens season|Montreal Canadiens]] and the [[1967–68 St. Louis Blues season|St. Louis Blues]]. The Canadiens swept the Blues to win their 15th Stanley Cup championship.
+
+This was the first Stanley Cup Final after the [[1967 NHL expansion|NHL expansion]] to twelve teams. Although the series was a sweep, it was a much more intense and close-fought series than anyone had expected, as all four games were decided by one goal, two went to overtime, and the other two saw the winning goal scored in the third period.  The Blues were the only first-year franchise to play for the [[Stanley Cup]] in the post-expansion era, until the [[Vegas Golden Knights]] participated in the Stanley Cup Final [[2018 Stanley Cup Final|a half-century later]].
+
+==Paths to the Finals==
+{{further|1968 Stanley Cup playoffs}}
+This was the first Stanley Cup championship after the [[1967 NHL expansion]]. All of the new teams were placed in the [[West Division (NHL)|West Division]], all the [[Original Six]] teams were put in the [[East Division (NHL)|East Division]], and the playoffs were organized so that divisional champions would play off for the Stanley Cup.
+
+Montreal defeated the [[Boston Bruins]] and [[Chicago Blackhawks|Chicago Black Hawks]] to advance to the finals as the East Division champion.
+
+St. Louis would defeat the [[Philadelphia Flyers]] and [[Minnesota North Stars]] to advance to the finals as the West Division champion.
+
+==Game summaries==
+The Montreal Canadiens finished first in the East Division with 94 points. The St. Louis Blues finished third in the West Division with 70 points. In this year's four-game regular season series, there were three wins for Montreal and one tie.
+
+Coming into the series, most people were expecting the established Canadiens to blow the first-year Blues out of the water; after all, the Canadiens had dominated the East with 42 wins, while the Blues hadn't even finished with a winning record, with just 27 wins. However, what ended up happening would turn heads, as the Blues proceeded to put up a fight, riding the back of their goaltender, [[Glenn Hall]].
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=St. Louis Blues
+|stadium1=[[St. Louis Arena]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =May 5
+|home1       =1
+|score1      =3–2
+|ot1         =1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mtl-vs-stl/1968/05/05/1967030311#game=1967030311,game_state=final
+|1-1-1       =[[Henri Richard]] (3) - 9:42
+|1-1-2       =9:19 - [[Barclay Plager]] (2)
+|1-2-1       =[[Yvan Cournoyer]] (5) - 18:14
+|1-2-2       =8:16 - ''pp'' - [[Dickie Moore (ice hockey)|Dickie Moore]] (7)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =[[Jacques Lemaire]] (7) - 1:41
+|1-4-2       =''No scoring''
+|goalie1-1   =[[Gump Worsley]] 34 saves / 36 shots
+|goalie1-2   =[[Glenn Hall]] 35 saves / 38 shots
+
+|date2       =May 7
+|home2       =1
+|score2      =1–0
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/mtl-vs-stl/1968/05/07/1967030312#game=1967030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =[[Serge Savard]] (1) - ''sh'' - 2:17
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Gump Worsley]] 19 saves / 19 shots
+|goalie2-2   =[[Glenn Hall]] 35 saves / 36 shots
+
+|date3       =May 9
+|home3       =2
+|score3      =3–4
+|ot3         =1
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/stl-vs-mtl/1968/05/09/1967030313#game=1967030313,game_state=final
+|3-1-1       =14:24 - ''pp'' - [[Yvan Cournoyer]] (6)
+|3-1-2       =[[Frank St. Marseille]] (5) - ''pp'' - 10:22
+|3-2-1       =1:23 - ''sh'' - [[Serge Savard]] (2)
+|3-2-2       =[[Red Berenson]] (4) - 3:37
+|3-3-1       =11:43 - [[Ralph Backstrom]] (4)
+|3-3-2       =Red Berenson (5) - ''sh'' - 17:25
+|3-4-1       =1:13 - [[Bobby Rousseau]] (2)
+|3-4-2       =''No scoring''
+|goalie3-1   =[[Gump Worsley]] 12 saves / 15 shots
+|goalie3-2   =[[Glenn Hall]] 42 saves / 46 shots
+
+|date4       =May 11
+|home4       =2
+|score4      =2–3
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/stl-vs-mtl/1968/05/11/1967030314#game=1967030314,game_state=final
+|4-1-1       =16:47 - [[Dick Duff]] (3)
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =[[Craig Cameron (ice hockey)|Craig Cameron]] (1) - 6:53<br>[[Gary Sabourin]] (4) - ''pp'' - 7:50
+|4-3-1       =7:24 - [[Henri Richard]] (4)<br>11:40 - [[J.C. Tremblay]] (3)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Gump Worsley]] 19 saves / 21 shots)
+|goalie4-2   =[[Glenn Hall]] 28 saves / 31 shots
+
+|series      =Montreal won series 4–0
+}}
+
+===Game three===
+[[Glenn Hall]] was sensational, especially in game three when the Canadiens outshot the Blues 46–15. Wrote [[Red Burnett]], the dean of hockey writers then: "A number of Hall's saves were seemingly impossible. Experts walked out of the Forum convinced no other goaltender had performed so brilliantly in a losing cause." In the overtime of game three, Hall made a spectacular save on [[Dick Duff]] and then, standing on his head, made another save. "It was a heartbreaker to see," said Burnett. "After the saves on Duff, [[Bobby Rousseau]] came and batted home the second rebound." Hall's heroics even in defeat earned him the [[Conn Smythe Trophy]] as the most valuable player in the playoffs.
+
+===Game four===
+With their backs against the wall, the Blues put everything to the test, rallying from an early one-goal deficit to take the lead into the third period. However, Montreal was not to be denied and won the Stanley Cup in game four as [[J. C. Tremblay]] fired home the winning goal. When the game ended, the fans came on the ice to celebrate, and balloons, hats and programs were thrown from the stands. [[Jean Béliveau|Jean Beliveau]], in a cast and crutches from his broken ankle, with [[Ralph Backstrom]] accepted the Cup from NHL president [[Clarence Campbell]] and the players did a victory lap with the Cup.
+
+==Aftermath==
+Less than twelve minutes after the Canadiens won the Cup, Canadiens coach [[Toe Blake]] announced his retirement. He gave the reason that it had been a hard season, but the real reason was that his wife was dying of cancer and he wanted to spend his time with her. The celebration became a mournful event with players paying tribute to Blake, many in tears. He won eight Cups as the Canadiens' coach and three others as a player with the Canadiens and [[Montreal Maroons]], the former being a record that stood for thirty-four years. None other than Bowman, the runner-up team's head coach in this Finals, would be the one to break Blake's record: he won the Cup with the Canadiens in {{scfy|1973}}, {{scfy|1976}}, {{scfy|1977}}, {{scfy|1978}}, and {{scfy|1979}}, with the [[Pittsburgh Penguins]] in {{scfy|1992}}, and with the [[Detroit Red Wings]] in {{scfy|1997}}, {{scfy|1998}}, and {{scfy|2002}}.
+
+The Blues would return to the Cup Finals [[1969 Stanley Cup Final|the next year]], but were once again swept by the Canadiens. They would also reach the Finals in [[1970 Stanley Cup Final|1970]], but were swept by the [[Boston Bruins]]. The Blues would have to wait until [[2019 Stanley Cup Final|2019]] to finally win the Cup.
+
+==Stanley Cup engraving==
+The 1968 Stanley Cup was presented to Canadiens captain Jean Beliveau by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 3–2 win over the Blues in Game 4.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1967–68 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 Lorne [[Gump Worsley]]
+*29 [[Ernie Wakely]]*
+*30 [[Rogatien Vachon]] 
+|defence=*2 [[Jacques Laperrière|Jacques Laperriere]]
+*3 Jean-Claude [[J. C. Tremblay]] 
+*10 Edward [[Ted Harris (ice hockey)|Ted Harris]]
+*17 [[Carol Vadnais]]
+*18 [[Serge Savard]]
+*19 [[Terry Harper]]
+|centres=*4 [[Jean Béliveau|Jean Beliveau]] (C)
+*6 [[Ralph Backstrom]]
+*16 [[Henri Richard]] (A)
+*25 [[Jacques Lemaire]]
+|wingers=*8 [[Dick Duff]]
+*12 [[Yvan Cournoyer]]
+*11 [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+*14 [[Claude Provost]] (A)
+*15 [[Bobby Rousseau]]
+*21 [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]
+*22 [[John Ferguson, Sr.|John Ferguson]]
+*23 [[Danny Grant (ice hockey)|Danny Grant]]
+*24 [[Mickey Redmond]]
+|player-notes=
+* * Did not play or dress in the Final.{{ref|A|[A]}}
+|non-players=
+* [[Hartland Molson]] (chairman/owner) 
+*[[J. David Molson]] (president), [[Sam Pollock]] (vice president/general manager) 
+* [[Toe Blake]] (head coach), Larry Albut (trainer), [[Eddy Palchak]] (asst. trainer)
+|engraving-notes= 
+* <sup>{{note|A|A}}</sup> Ernie Wakely was engraved on the Stanley Cup for dressing for game 5 (of 5) of the Stanley Cup Semi-finals due to Gump Worsley missing the game injured. Wakely's name is on the Stanley Cup twice with Montreal in 1965, 1968, but he did not play any games for Montreal in either season. His first NHL game was in 1963, and his second in 1969. He would lead the NHL with the best goals-against average while playing with St. Louis in 1971.
+* Danny Grant won the Stanley Cup in 1968 with Montreal and in 1969 won the Calder Trophy (Rookie of the Year) with Minnesota. Grant was the 3rd player to accomplish that feat.
+* Toe Blake is the only coach to win the Stanley Cup in his first ({{scfy|1956}}) and last NHL season (1968) as such.}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1967 Stanley Cup Final|Toronto Maple Leafs<br>1967]] |
+  after = [[1969 Stanley Cup Final|Montreal Canadiens <br>1969]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens <br>Stanley Cup champions]] |
+  years = 1968|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{St. Louis Blues}}
+{{1967–68 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+}}
+
+[[Category:1968 Stanley Cup| ]]
+[[Category:1967–68 NHL season|Stanley Cup]]
+[[Category:Montreal Canadiens games]]
+[[Category:St. Louis Blues games]]
+[[Category:Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in St. Louis]]
+[[Category:May 1968 sports events in the United States|Stanley Cup]]
+[[Category:1960s in St. Louis]]
+[[Category:1968 in Montreal]]
+[[Category:1968 in sports in Missouri|Stanley Cup]]
+[[Category:May 1968 sports events in Canada]]

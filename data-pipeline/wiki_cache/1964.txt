@@ -1,0 +1,242 @@
+{{Short description|1964 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1964
+|team1=[[1963–64 Detroit Red Wings season|Detroit Red Wings]]
+|team1_short=Detroit 
+|team1_captain=[[Alex Delvecchio]]
+|team1_coach=[[Sid Abel]]
+|team2='''[[1963–64 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team2_short=Toronto 
+|team2_captain=[[George Armstrong (ice hockey)|George Armstrong]]
+|team2_coach=[[Punch Imlach]]
+|team1_1=2
+|team1_2='''4'''*
+|team1_3='''4'''
+|team1_4=2
+|team1_5='''2'''
+|team1_6=3*
+|team1_7=0
+|team1_tot=3
+|team2_1='''3'''
+|team2_2=3*
+|team2_3=3
+|team2_4='''4'''
+|team2_5=1
+|team2_6='''4'''*
+|team2_7='''4'''
+|team2_tot=4
+|dates=April 11–25, 1964
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Toronto]]: [[Maple Leaf Gardens]] (1, 2, 5, 7)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4, 6)
+|team2_winner=1
+|series_winner=[[Andy Bathgate]] (3:04, first)
+|hofers='''Maple Leafs:'''<br/>[[Al Arbour]] (1996, builder)<br/>[[George Armstrong (ice hockey)|George Armstrong]] (1975)<br/>[[Andy Bathgate]] (1978)<br/>[[Johnny Bower]] (1976)<br/>[[Tim Horton]] (1977)<br/>[[Red Kelly]] (1969)<br/>[[Dave Keon]] (1986)<br/>[[Frank Mahovlich]] (1981)<br/>[[Bob Pulford]] (1991)<br/>[[Allan Stanley]] (1981)<br/>'''Red Wings:'''<br/>[[Alex Delvecchio]] (1977)<br/>[[Bill Gadsby]] (1970)<br/>[[Gordie Howe]] (1972)<br/>[[Marcel Pronovost]] (1978)<br/>[[Terry Sawchuk]] (1971)<br/>[[Norm Ullman]] (1982)<br/>'''Coaches:'''<br/>[[Sid Abel]] (1969, player)<br/>[[Punch Imlach]] (1984)
+}}
+The '''1964 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1963–64 NHL season|1963–64 season]], and the culmination of the [[1964 Stanley Cup playoffs]]. It was contested between the defending champion [[1963–64 Toronto Maple Leafs season|Toronto Maple Leafs]] and the [[1963–64 Detroit Red Wings season|Detroit Red Wings]] for the second straight year. The Maple Leafs overcame a 3-2 series deficit to defeat the Red Wings in seven games for their third-straight championship. It was the second [[Stanley Cup]] [[three-peat]] by the Maple Leafs.
+
+As of today, this is the last time the Stanley Cup Final has ended before the month of May. There would not be another game seven at [[Maple Leaf Gardens]] for [[1993 Stanley Cup playoffs|almost three decades]].
+
+==Paths to the Finals==
+Toronto defeated the [[Montreal Canadiens]] 4–3 to advance to the finals and Detroit defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–3.
+
+==Game summaries==
+This series is famous for the courageous play of [[Bobby Baun|Bob Baun]]. In game six of the Final, he took a [[Gordie Howe]] slapshot on his ankle and had to leave play. He returned in overtime and scored the winning goal. He also played in game seven despite the pain and only after the series was over was it revealed that he had played on a fractured ankle.<ref>{{cite web |last1=Fischler |first1=Stan |title=Baun was unlikely hero of Maple Leafs' run to Cup in 1964 |url=https://www.nhl.com/news/bob-baun-was-instrumental-in-toronto-cup-run/c-298697860 |website=nhl.com |access-date=Mar 9, 2021 |date=May 22, 2018}}</ref>
+
+Until the 2008–09 Final, [[John MacMillan (ice hockey)|John MacMillan]] was the only player to play in back-to-back Finals with different teams in successive series that pitted the same teams against each other.  MacMillan won the Cup with the 1963 Toronto Maple Leafs in a five-game decision over Detroit and then lost the 1964 Cup Final to the Leafs as a member of the Red Wings.<ref>{{cite news|url=https://www.denverpost.com/2009/05/29/red-wings-are-a-formidable-foe/|title=Red Wings are a formidable foe|first=Adrian|last=Dater|newspaper=The Denver Post|date=March 29, 2009|accessdate=June 17, 2024}}</ref>
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|stadium2=[[Olympia Stadium]]
+
+|date1       =April 11
+|home1       =1
+|score1      =2–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-tor/1964/04/11/1963030211#game=1963030211,game_state=final
+|1-1-1       =[[Bruce MacGregor]] (3) - 4:31<br>[[Gordie Howe]] (6) - ''pp'' - 10:25
+|1-1-2       =4:44 - [[George Armstrong (ice hockey)|George Armstrong]] (2)
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =4:02 - ''pp'' - George Armstrong (3)<br>19:58 - ''sh'' - [[Bob Pulford]] (3)
+|goalie1-1   =[[Terry Sawchuck]] 29 saves / 32 shots
+|goalie1-2   =[[Johnny Bower]] 30 saves / 32 shots
+
+|date2       =April 14
+|home2       =1
+|score2      =4–3
+|ot2         =1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/det-vs-tor/1964/04/14/1963030212#game=1963030212,game_state=final
+|2-1-1       =[[Norm Ullman]] (7) - 12:43
+|2-1-2       =4:41 - [[Allan Stanley]] (1)
+|2-2-1       =[[Eddie Joyal]] (1) - 3:19<br>[[Floyd Smith (ice hockey)|Floyd Smith]] (2) - ''pp'' - 16:15
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =11:57 - [[Red Kelly]] (3)<br>19:17 - [[Gerry Ehman]] (1)
+|2-4-1       =[[Larry Jeffrey]] (1) - 7:52
+|2-4-2       =''No scoring''
+|goalie2-1   =[[Terry Sawchuck]] 26 saves / 29 shots
+|goalie2-2   =[[Johnny Bower]] 45 saves / 49 shots
+
+|date3       =April 16
+|home3       =2
+|score3      =3–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/tor-vs-det/1964/04/16/1963030213#game=1963030213,game_state=final
+|3-1-1       =2:40 - [[Floyd Smith (ice hockey)|Floyd Smith]] (3)<br>3:38 - [[Bruce MacGregor]] (4)<br>14:47 - ''pp'' - Floyd Smith (4)
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =[[Andy Bathgate]] (3) - ''pp'' - 4:16
+|3-3-1       =19:43 - [[Alex Delvecchio]] (3)
+|3-3-2       =[[Dave Keon]] (4) - 7:34<br>[[Don McKenney]] (4) - 18:47
+|goalie3-1   =[[Terry Sawchuck]] 31 saves / 34 shots
+|goalie3-2   =[[Johnny Bower]] 30 saves / 34 shots
+
+|date4       =April 18
+|home4       =2
+|score4      =4–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/tor-vs-det/1964/04/18/1963030214#game=1963030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Dave Keon]] (5) - 5:45
+|4-2-1       =5:57 - [[Bruce MacGregor]] (5)<br>13:05 - ''pp'' - [[Gordie Howe]] (7)
+|4-2-2       =Dave Keon (6) - ''pp'' - 16:09
+|4-3-1       =''No scoring''
+|4-3-2       =[[Andy Bathgate]] (4) - 10:55<br>[[Frank Mahovlich]] (4) - 18:09
+|goalie4-1   =[[Terry Sawchuck]] 31 saves / 35 shots
+|goalie4-2   =[[Johnny Bower]] 25 saves / 27 shots
+
+|date5       =April 21
+|home5       =1
+|score5      =2–1
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/det-vs-tor/1964/04/21/1963030215#game=1963030215,game_state=final
+|5-1-1       =[[Gordie Howe]] (8) - 10:52
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =[[Eddie Joyal]] (2) - 7:50
+|5-3-2       =14:57 - ''pp'' - [[George Armstrong (ice hockey)|George Armstrong]] (4)
+|goalie5-1   =[[Terry Sawchuck]] 33 saves / 34 shots
+|goalie5-2   =[[Johnny Bower]] 32 saves / 34 shots
+
+|date6       =April 23
+|home6       =2
+|score6      =4–3
+|ot6         =1
+|won6        =2
+|recap6      =www.nhl.com/gamecenter/tor-vs-det/1964/04/23/1963030216#game=1963030216,game_state=final
+|6-1-1       =''No scoring''
+|6-1-2       =[[Bob Pulford]] (4) - ''sh'' - 17:01
+|6-2-1       =4:20 - [[Paul Henderson]] (2)<br>10:56 - ''pp'' - [[Pit Martin]] (1)<br>15:56 - [[Gordie Howe]] (9)
+|6-2-2       =Bob Pulford (5) - 14:36<br>[[Billy Harris (ice hockey b. 1935)|Billy Harris]] (1) - 17:48
+|6-3-1       =''No scoring''
+|6-3-2       =''No scoring''
+|6-4-1       =''No scoring''
+|6-4-2       =[[Bob Baun]] (2) - 1:43
+|goalie6-1   =[[Terry Sawchuck]] 32 saves / 34 shots
+|goalie6-2   =[[Johnny Bower]] 38 saves / 41 shots
+
+|date7       =April 25
+|home7       =1
+|score7      =0–4
+|won7        =2
+|recap7      =www.nhl.com/gamecenter/det-vs-tor/1964/04/25/1963030217#game=1963030217,game_state=final
+|7-1-1       =''No scoring''
+|7-1-2       =3:04 - [[Andy Bathgate]] (5)
+|7-2-1       =''No scoring''
+|7-2-2       =''No scoring''
+|7-3-1       =''No scoring''
+|7-3-2       =4:26 - [[Dave Keon]] (7)<br>5:53 - [[Red Kelly]] (4)<br>15:26 - [[George Armstrong (ice hockey)|George Armstrong]] (5)
+|goalie7-1   =[[Terry Sawchuck]] 33 saves / 37 shots
+|goalie7-2   =[[Johnny Bower]] 33 saves / 33 shots
+
+|series      =Toronto won series 4–3
+}}
+
+==Stanley Cup engraving==
+The 1964 Stanley Cup was presented to Maple Leafs captain George Armstrong by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 4–0 win over the Red Wings in game seven.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1963–64 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Johnny Bower]]
+* 1  [[Don Simmons (ice hockey)|Don Simmons]]
+|defence=*2 [[Carl Brewer (ice hockey)|Carl Brewer]]
+*3 [[Al Arbour]]^
+*7 Miles [[Tim Horton]] 
+*16 [[Larry Hillman]]
+*19 [[Kent Douglas]]^
+*21 [[Bobby Baun|Bob Baun]]
+*26 [[Allan Stanley]] (A)
+|centres=*4 Leonard [[Red Kelly]]
+*14 [[Dave Keon]]
+*15 [[Billy Harris (ice hockey, born 1935)|Billy Harris]]
+*17 [[Don McKenney]]
+|wingers=*8 [[Gerry Ehman]]
+*10 [[George Armstrong (ice hockey)|George Armstrong]] (Captain)
+*18 [[Jim Pappin]] 
+*20 [[Bob Pulford]] (A)
+*23 [[Eddie Shack]]
+*25 [[Ed Litzenberger]]^
+*12 [[Ron Stewart]]
+*27 [[Frank Mahovlich]] 
+*9 [[Andy Bathgate]]
+|non-players=
+* [[Stafford Smythe]] (President/Owner), [[Harold Ballard]] (Exe. Vice President/Owner)
+*[[John W. H. Bassett]] (Chairman/Owner)
+* George [[Punch Imlach]] (Manager-Coach), Frank [[King Clancy]] (Asst. Manager-Coach)*
+* Bob Haggert (Trainer)
+* Tom Nayler (Asst. Trainer)
+* Hugh Hoult (Stickboy/Asst. Trainer)
+|engraving-notes=
+* #25 [[Ed Litzenberger]]^ (RW – 19 regular season games and 1 Finals game) and #3 [[Al Arbour]]^ (D – 6 regular season games and 1 Finals game) played in the Stanley Cup Final qualified to have their names engraved on the Stanley Cup, but were left off. Both spent most of the season in the minors.
+* #19 [[Kent Douglas]]^ (D) – played in 43 games for Toronto. His name was left off the Stanley Cup because he played in the minors during the playoffs.
+* * Frank "King" Clancy's name was misspelled on the Stanley Cup as FRANK KING CLANCE ASST COACH GEN MAN. In 1992–93 the mistake was corrected on the newly created Replica Cup.
+* Bob Davidson (Chief Scout), Dr. Karl Elieff (Physiotherapist), Dr. Jame Murphy, Dr. Hugh Smythe (Team Doctors) - left off
+* (Also see 1965 Montreal about Toronto 1962-63-64 engravings).}}
+
+==See also==
+* [[1963–64 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+  before = [[1963 Stanley Cup Final|Toronto Maple Leafs<br>1963]] |
+  after = [[1965 Stanley Cup Final|Montreal Canadiens<br>1965]] |
+  title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+  years = 1964|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Toronto Maple Leafs}}
+{{Detroit Red Wings}}
+{{1963–64 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1963–64 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1964 sports events in Canada|Stanley Cup Final]]
+[[Category:1964 in Toronto|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1964 in Detroit|Stanley Cup Final]]
+[[Category:1964 in sports in Michigan|Stanley Cup]]

@@ -1,0 +1,141 @@
+{{Short description|1930 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1930
+|dates=April 1–3, 1930
+|team1=[[1929–30 Boston Bruins season|Boston Bruins]]
+|team1_short=Boston
+|team1_captain=[[Lionel Hitchman]]
+|team1_coach=[[Art Ross]]
+|team2='''[[1929–30 Montreal Canadiens season|Montreal Canadiens]]'''
+|team2_short=Montreal
+|team2_captain=[[Sylvio Mantha]]
+|team2_coach=[[Cecil Hart]]
+|format=best-of-three
+|team1_1=0
+|team1_2=3
+|team1_tot=0
+|team2_1='''3'''
+|team2_2='''4'''
+|team2_tot=2
+|series_winner=[[Howie Morenz]] (1:00, second)
+|hofers='''Canadiens:'''<br/>[[George Hainsworth]] (1961)<br/>[[Aurèle Joliat|Aurele Joliat]] (1947)<br/>[[Sylvio Mantha]] (1960)<br/>[[Howie Morenz]] (1945)<br/>'''Bruins:'''<br/>[[Marty Barry]] (1965)<br/>[[Dit Clapper]] (1947)<br/>[[Mickey MacKay]] (1952)<br/>[[Harry Oliver (ice hockey)|Harry Oliver]] (1967)<br/>[[Eddie Shore]] (1947)<br/>[[Tiny Thompson]] (1959)<br/>[[Cooney Weiland]] (1971)<br/>'''Coaches:'''<br/>[[Art Ross]] (1949, player)
+|location1=[[Boston]]: [[Boston Garden]] (1)
+|location2=[[Montreal]]: [[Montreal Forum]] (2)
+}}
+The '''1930 Stanley Cup Final''' was played between the [[1929–30 Boston Bruins season|Boston Bruins]] and the [[1929–30 Montreal Canadiens season|Montreal Canadiens]]. In a best of three series, Montreal won 4–3 and 3–0 to win the team's third [[Stanley Cup]] title.
+
+==Paths to the Finals==
+The defending champion Boston Bruins had an outstanding season. Their final record of 38–5–1 translates to an .875 winning percentage, the best in NHL history. The team did not lose two games in a row all season, until being swept by the Canadiens. This prompted the change for the following year in the Finals format to a best-of-five format.
+
+==Game summaries==
+The Finals was a best-of-three series. The Canadiens had lost all four of their regular-season meetings with the Bruins. Captain [[Sylvio Mantha]] was the leader, scoring in both final games.
+
+Game one saw the Bruins play way below their usual form and [[George Hainsworth]] picked up a shutout. In game two, Howie Morenz scored what proved to be the winning goal at 17:50 of the second
+period and the Canadiens won the Stanley Cup. It was the first time all year that the Bruins lost two games in a row.
+
+{{NHLPlayoffs
+|team2=Boston Bruins
+|team1=Montreal Canadiens
+|stadium1=[[Boston Madison Square Garden]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 1
+|home1       =1
+|score1      =3–0
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mtl-vs-bos/1930/04/01/1929030211#game=1929030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Albert Leduc]] (1) - 8:43<br>[[Sylvio Mantha]] (1) - 13:17
+|1-2-2       =''No scoring''
+|1-3-1       =[[Pit Lepine]] (2) - 6:27
+|1-3-2       =''No scoring''
+|goalie1-1   =[[George Hainsworth]]
+|goalie1-2   =[[Tiny Thompson]]
+
+|date2       =April 3
+|home2       =2
+|score2      =3–4
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/bos-vs-mtl/1930/04/03/1929030212#game=1929030212,game_state=final
+|2-1-1       =9:10 - [[Bert McCaffrey]] (1)<br>17:36 - [[Nick Wasnie]] (2)
+|2-1-2       =''No scoring''
+|2-2-1       =1:33 - [[Sylvio Mantha]] (2)<br>15:43 - [[Howie Morenz]] (3)
+|2-2-2       =[[Eddie Shore]] (1) - 10:42
+|2-3-1       =''No scoring''
+|2-3-2       =[[Percy Galbraith]] (1) - 8:47<br>[[Dit Clapper]] (4) - 10:59
+|goalie2-1   =[[George Hainsworth]]
+|goalie2-2   =[[Tiny Thompson]]
+
+|series = Montreal won series 2–0
+}}
+
+==Stanley Cup engraving==
+The 1930 Stanley Cup was presented to Canadiens captain Sylvio Mantha by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Canadiens 4–3 win over the Bruins in game two.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1929–30 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=* 1 [[George Hainsworth]]
+|defence=*2 [[Sylvio Mantha]] (captain)
+* 3 [[Marty Burke]]
+*8 [[Albert Leduc]]
+*12 [[Georges Mantha]]
+*14 [[Gerald Carson]]
+|centres=*7 [[Howie Morenz]]
+* 9 Alfred [[Pit Lepine]]
+|wingers=*4 [[Aurel Joliat]]
+*5 [[Armand Mondou]] 
+*6 [[Nick Wasnie]]
+*10 [[Wildor Larochelle]]
+*11 [[Bert McCaffrey]]
+*16 [[Gus Rivers]]
+|non-players=
+*Louis [[Athanase David]] (President), Fernand Rinfeet (Director) 
+*[[Joseph Cattarinich]] (Vice President/Owner), Edouard St. Pere (Vice President)
+* [[Leo Dandurand|Joseph Viateur "Leo" Dandurand]] (Secretary-Treasurer/Owner), Henry Gray (Director)
+* [[Cecil Hart]] (Manager-Coach), Georges Richer* (Director)
+* [[Louis Letourneau|Hilarion A. "Louis" Letourneau]] (Director/Owner), Dr. James Albert Corrigan (Team Physician)
+* Amerdee Monet (Director) 
+* Edward Dulfour (Trainer), Jim McKenna (Asst. Trainer), 
+*Joseph-Pierre "J.P." Le Petit† (Asst. Trainer/left off cup-on team picture)
+|engraving-notes=
+* * Mistake – Georges Richer was engraved as a physician, but his official title was a member of the board of directors.
+*†J.P. Le Petit's name was sometimes misspelled Le Petite with an extra E.
+* Montreal included the date, day, game number, location, and score for each playoff game on the Stanley Cup. In 1930, 1931, 1932, 1936, 1937, 1938, 1939, each playoff game, date and score by the winning team were included on the Stanley Cup.}}
+
+==See also==
+*[[1929–30 NHL season]]
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | pages=[https://archive.org/details/totalstanleycupo0000unse/page/51 51] | isbn=1-892129-07-8 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse/page/51 }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). Lord Stanley's Cup. Triumph Books, 12, 57. {{ISBN|1-55168-261-3}}.
+
+{{s-start}}
+{{succession box |
+ before = [[1929 Stanley Cup Finals|Boston Bruins<br>1929]] |
+ after = [[1931 Stanley Cup Finals|Montreal Canadiens<br>1931]] |
+ title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+ years = 1930|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Boston Bruins}}
+{{Montreal Canadiens}}
+{{1929–30 NHL season by team}}
+
+[[Category:1929–30 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Montreal Canadiens games]]
+[[Category:April 1930 sports events in the United States|Stanley Cup Finals]] 
+[[Category:April 1930 sports events in Canada|Stanley Cup Finals]] 
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1930s in Boston]]
+[[Category:1930 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1930 in Quebec|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1930s in Montreal]]

@@ -1,0 +1,1218 @@
+{{Short description|1997 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1997
+|image= 1997 Stanley Cup patch.png
+|team1='''[[1996–97 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_1='''4'''
+|team1_2='''4'''
+|team1_3='''6'''
+|team1_4='''2'''
+|team1_tot=4
+|team2=[[1996–97 Philadelphia Flyers season|Philadelphia Flyers]]
+|team2_1=2
+|team2_2=2
+|team2_3=1
+|team2_4=1
+|team2_tot=0
+|dates=May 31 – June 7, 1997
+|team1_short=Detroit
+|team2_short=Philadelphia
+|coaches=Detroit: [[Scotty Bowman]]<br />Philadelphia: [[Terry Murray]]
+|captains=Detroit: [[Steve Yzerman]]<br />Philadelphia: [[Eric Lindros]]
+|mvp=[[Mike Vernon (ice hockey)|Mike Vernon]] (Red Wings)
+|location1=[[Detroit]]: [[Joe Louis Arena]] (3, 4)
+|location2=[[Philadelphia]]: [[CoreStates Center]] (1, 2)
+|referees=[[Bill McCreary (referee)|Bill McCreary]] (1, 4)<br />[[Terry Gregson]] (2)<br />[[Kerry Fraser]] (3)
+|team1_national_anthem= [[Karen Newman]]
+|team2_national_anthem= [[Lauren Hart (American pop singer)|Lauren Hart]]
+|series_winner=[[Darren McCarty]] (13:02, second)
+|hofers='''Red Wings:'''<br />[[Sergei Fedorov]] (2015)<br />[[Viacheslav Fetisov]] (2001)<br />[[Igor Larionov]] (2008)<br />[[Nicklas Lidström|Nicklas Lidstrom]] (2015)<br />[[Larry Murphy (ice hockey)|Larry Murphy]] (2004)<br />[[Brendan Shanahan]] (2013)<br />[[Mike Vernon (ice hockey)|Mike Vernon]] (2023)<br/>[[Steve Yzerman]] (2009)<br />'''Flyers:'''<br />[[Paul Coffey]] (2004)<br />[[Dale Hawerchuk]] (2001)<br />[[Eric Lindros]] (2016)<br />'''Coaches:'''<br />[[Scotty Bowman]] (1991)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on Fox|Fox]] (1), [[NHL on ESPN|ESPN]] (2–4)
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(Fox) [[Mike Emrick]] and [[John Davidson (ice hockey)|John Davidson]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]]
+}}
+The '''1997 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1996–97 NHL season|1996–97 season]], and the culmination of the [[1997 Stanley Cup playoffs]]. It was contested by the [[1996–97 Detroit Red Wings season|Detroit Red Wings]] and the [[1996–97 Philadelphia Flyers season|Philadelphia Flyers]]. The Red Wings made the Finals for the second time in three years, while the Flyers were making their first appearance in [[1987 Stanley Cup Final|a decade]]. The Red Wings swept the Flyers to win the [[Stanley Cup]] for the eighth time in franchise history and for the first time since [[1955 Stanley Cup Final|1955]], ending what was the longest Stanley Cup drought in the league at that time.
+
+The Red Wings were the last team to win the Cup without home ice advantage in the Finals and with fewer than 100 points earned during the regular season until [[2009 Stanley Cup Final|2009]].
+
+==Paths to the Final==
+{{further|1997 Stanley Cup playoffs}}
+{{see also|1996–97 Detroit Red Wings season|1996–97 Philadelphia Flyers season}}
+
+===Philadelphia Flyers===
+Philadelphia rose to the top on the back of a 17-game unbeaten streak in December and January, and, despite losing the [[Atlantic Division (NHL)|Atlantic Division]] title to New Jersey, were successful with the [[Pittsburgh Penguins]] and [[Buffalo Sabres]] in the first two rounds. The Flyers arrived into the Stanley Cup Final having beaten their rivals, the [[New York Rangers]], in a five-game [[Eastern Conference (NHL)|Eastern Conference]] finals series. [[Eric Lindros]] and [[Wayne Gretzky]] each recorded a hat trick in the set, but the size, strength and discipline of Philadelphia (particularly the [[Legion of Doom (ice hockey)|Legion of Doom]] line) trumped the veteran savvy of the Blueshirts.
+
+===Detroit Red Wings===
+For Detroit there was the departure of several players whom head coach [[Scotty Bowman]] blamed for their loss to Colorado a year prior, including trading away [[Paul Coffey]] to get star [[Brendan Shanahan]].<ref>{{cite web | url=https://vault.si.com/vault/1997/06/16/crushed-the-red-wings-swept-to-their-first-stanley-cup-in-42-years-by-outskating-outhitting-and-outplaying-the-overmatched-flyers | title=Crushed the Red Wings Swept to Their First Stanley Cup in 42 Years by Outskating, Outhitting and Outplaying the Overmatched Flyers }}</ref> Detroit won 38 games in the regular season, in contrast to the record-setting 62 win season the previous year, making them the dark horse in the [[Western Conference (NHL)|Western Conference]] as the third seed behind the [[Dallas Stars]] and the [[Presidents' Trophy]] winner [[Colorado Avalanche]]. In the playoffs, the Wings dispatched a fractured [[St. Louis Blues]] team in six games, and a surprising [[Anaheim Ducks|Mighty Ducks of Anaheim]] in a sweep to reach the Western Conference finals for the third straight season. In a rematch of last year's Western finals, the Red Wings upset the defending Stanley Cup champion Avalanche in six brutal games to earn their second trip to the Stanley Cup Final in three years.
+
+This is the first time that these two teams met in the postseason.
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Philadelphia Flyers
+|stadium1=[[CoreStates Center]]
+|stadium2=Joe Louis Arena
+|recap1=www.nhl.com/gamecenter/det-vs-phi/1997/05/31/1996030411
+|date1=May 31
+|score1=4–2
+|won1=1
+}}
+Game 1 in Philadelphia took place exactly ten years to the day after the Flyers' emotional seventh-game loss to the [[Edmonton Oilers]] in the [[1987 Stanley Cup Final|1987 Finals]]. Detroit never trailed in the game: they led 2–1 after the first period, 3–2 after the second, and [[Steve Yzerman]] scored the fourth goal 56 seconds into the third period.<ref name="diamond-149">{{harvtxt|Diamond|2008|p=149}}</ref> [[Sergei Fedorov]] scored the winner and was named the game's first star.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Kirk Maltby]] (4) – ''sh''
+| style="text-align:center;"| [[Kris Draper]] (4)
+| style="text-align:center;"| 06:38
+| style="text-align:center;"| 1–0 DET
+|-
+| style="text-align:center;"| PHI
+| style="text-align:center;"| [[Rod Brind'Amour]] (11) – ''pp''
+| style="text-align:center;"| [[Eric Lindros]] (13) and [[Janne Niinimaa]] (10)
+| style="text-align:center;"| 07:37
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Joe Kocur]] (1)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 15:56
+| style="text-align:center;"| 2–1 DET
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Sergei Fedorov]] (6) 
+| style="text-align:center;"| [[Larry Murphy (ice hockey)|Larry Murphy]] (7) and [[Darren McCarty]] (3)
+| style="text-align:center;"| 11:41
+| style="text-align:center;"| 3–1 DET
+|-
+| style="text-align:center;"| PHI
+| style="text-align:center;"| [[John LeClair]] (8)
+| style="text-align:center;"| [[Mikael Renberg]] (6) and Eric Lindros (14)
+| style="text-align:center;"| 17:11
+| style="text-align:center;"| 3–2 DET
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Steve Yzerman]] (5)
+| style="text-align:center;"| Larry Murphy (8)
+| style="text-align:center;"| 00:56
+| style="text-align:center;"| 4–2 DET
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| DET
+|| [[Tomas Sandström|Tomas Sandstrom]]
+|| High-sticking
+|| 05:50
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Viacheslav Fetisov]]
+|| Interference
+|| 11:26
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| [[Trent Klatt]]
+|| Interference
+|| 17:09
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Joe Kocur
+|| Interference
+|| 19:42
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| PHI
+|| [[Daniel Lacroix]]
+|| Interference
+|| 05:48
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Sergei Fedorov
+|| Tripping
+|| 07:08
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Viacheslav Fetisov
+|| Interference
+|| 15:07
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Trent Klatt
+|| Charging
+|| 17:45
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| PHI
+|| [[Petr Svoboda]]
+|| Cross-checking
+|| 06:27
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Eric Lindros
+|| Roughing
+|| 17:48
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|DET}} || style="text-align:center;"|8 || style="text-align:center;"|12 || style="text-align:center;"|10 || style="text-align:center;"|30
+|-
+| style="text-align:left;"|{{nowrap|PHI}} || style="text-align:center;"|10 || style="text-align:center;"|9 || style="text-align:center;"|9 || style="text-align:center;"|28
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Philadelphia Flyers
+|stadium1=[[CoreStates Center]]
+|stadium2=Joe Louis Arena
+|recap1=www.nhl.com/gamecenter/det-vs-phi/1997/06/03/1996030412
+|date1=June 3
+|score1=4–2
+|won1=1
+}}
+[[Brendan Shanahan]] scored an unassisted goal 1:37 into the game and [[Steve Yzerman]] scored a power-play goal at 9:22 of the first period to give the Red Wings a 2–0 lead before [[Rod Brind'Amour]] scored a pair of power-play goals late in the first period to tie the score. In the second, [[Kirk Maltby]] scored the game-winning goal at 2:39 and Shanahan scored his second goal of the game at 9:56 of the third and the Red Wings won a second consecutive 4–2 victory and a 2–0 series lead heading back to [[Joe Louis Arena]].<ref name="diamond-149"/>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4"|'''1st'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Brendan Shanahan]] (7)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 01:37
+| style="text-align:center;"| 1–0 DET
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Steve Yzerman]] (6) – ''pp''
+| style="text-align:center;"| [[Larry Murphy (ice hockey)|Larry Murphy]] (9) and [[Viacheslav Fetisov]] (3)
+| style="text-align:center;"| 09:22
+| style="text-align:center;"| 2–0 DET
+|-
+| style="text-align:center;"| PHI
+| style="text-align:center;"| [[Rod Brind'Amour]] (12) – ''pp''
+| style="text-align:center;"| [[Janne Niinimaa]] (11)
+| style="text-align:center;"| 17:42
+| style="text-align:center;"| 2–1 DET
+|-
+| style="text-align:center;"| PHI
+| style="text-align:center;"| Rod Brind'Amour (13) – ''pp''
+| style="text-align:center;"| Janne Niinimaa (12) and [[John LeClair]] (12) 
+| style="text-align:center;"| 18:51
+| style="text-align:center;"| 2–2
+|-
+| style="text-align:center;" rowspan="1"|'''2nd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Kirk Maltby]] (5)
+| style="text-align:center;"| [[Joe Kocur]] (3)
+| style="text-align:center;"| 02:39
+| style="text-align:center;"| 3–2 DET
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| Brendan Shanahan (8)
+| style="text-align:center;"| [[Martin Lapointe]] (8) and [[Sergei Fedorov]] (10)
+| style="text-align:center;"| 09:56
+| style="text-align:center;"| 4–2 DET
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="5"|'''1st'''
+|| PHI
+|| [[Paul Coffey]]
+|| Holding
+|| 04:29
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Paul Coffey
+|| Hooking
+|| 07:24
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Martin Lapointe
+|| Charging
+|| 10:21
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Viacheslav Fetisov]]
+|| High-sticking
+|| 17:09
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Igor Larionov]]
+|| Hooking
+|| 18:37
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| DET
+|| Kirk Maltby
+|| Roughing
+|| 06:54
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Paul Coffey
+|| Roughing
+|| 06:54
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Bench (Served by [[Doug Brown (ice hockey)|Doug Brown]])
+|| Too many men on the ice
+|| 09:03
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| John LeClair
+|| Elbowing
+|| 12:13
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| DET
+|| Martin Lapointe
+|| Roughing
+|| 10:27
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| [[Karl Dykhuis]]
+|| Roughing
+|| 10:27
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|DET}} || style="text-align:center;"|14 || style="text-align:center;"|9 || style="text-align:center;"|5 || style="text-align:center;"|28
+|-
+| style="text-align:left;"|{{nowrap|PHI}} || style="text-align:center;"|14 || style="text-align:center;"|9 || style="text-align:center;"|8 || style="text-align:center;"|31
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=Detroit Red Wings
+|stadium2=CoreStates Center
+|stadium1=[[Joe Louis Arena]]
+|recap1=www.nhl.com/gamecenter/det-vs-phi/1997/06/05/1996030413
+|date1=June 5
+|score1=1–6
+|won1=2
+}}
+[[John LeClair]] scored at 7:03 of the first period to give the Flyers their first lead of the series. Two minutes later, Yzerman scored on the power-play to tie the score. Fedorov scored two minutes later to put Detroit ahead for good in the game. [[Martin Lapointe]] scored later in the first to give the Wings a 3–1 advantage. The Wings tacked on two more in the second and added one in the third for a decisive 6–1 win and a three-games-to-none series advantage.<ref name="diamond-149"/> For his four-point night, Fedorov was named the game's first star.
+
+In his post-game comments, Flyers head coach [[Terry Murray]] was quoted as saying the team was "basically in a choking situation," which many observers interpreted as Murray having called out his own players as chokers. The manner in which they played compounded by the insurmountable series deficit along with the Wings' seeming dominance in stretches of the first two games as well as most of game three lent credence to the claim.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4"|'''1st'''
+| style="text-align:center;"| PHI
+| style="text-align:center;"| [[John LeClair]] (9) – ''pp''
+| style="text-align:center;"| [[Éric Desjardins|Eric Desjardins]] (7) and [[John LeClair]] (8)
+| style="text-align:center;"| 07:03
+| style="text-align:center;"| 1–0 PHI
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Steve Yzerman]] (7) – ''pp''
+| style="text-align:center;"| [[Vyacheslav Kozlov]] (4)
+| style="text-align:center;"| 09:03
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Sergei Fedorov]] (7)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 11:05
+| style="text-align:center;"| 2–1 DET
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Martin Lapointe]] (3)
+| style="text-align:center;"| [[Doug Brown (ice hockey)|Doug Brown]] (3) and Sergei Fedorov (11)
+| style="text-align:center;"| 19:00
+| style="text-align:center;"| 3–1 DET
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| Sergei Fedorov (8) – ''pp''
+| style="text-align:center;"| Vyacheslav Kozlov (5) and [[Brendan Shanahan]] (8)
+| style="text-align:center;"| 03:12
+| style="text-align:center;"| 4–1 DET
+|-
+| style="text-align:center;"| DET
+| style="text-align:center;"| Brendan Shanahan (9)
+| style="text-align:center;"| [[Darren McCarty]] (4) and [[Viacheslav Fetisov]] (4)
+| style="text-align:center;"| 19:17
+| style="text-align:center;"| 5–1 DET
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| Martin Lapointe (4) – ''pp''
+| style="text-align:center;"| Sergei Fedorov (12) and [[Mike Vernon (ice hockey)|Mike Vernon]] (1)
+| style="text-align:center;"| 01:08
+| style="text-align:center;"| 6–1 DET
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="5"|'''1st'''
+|| DET
+|| Darren McCarty
+|| Interference – Obstruction
+|| 06:10
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Eric Desjardins
+|| Holding – Obstruction
+|| 08:44
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Viacheslav Fetisov
+|| Interference – Obstruction
+|| 12:14
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Tomas Sandström|Tomas Sandstrom]]
+|| Holding – Obstruction
+|| 12:54
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Martin Lapointe
+|| Tripping
+|| 16:43
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| PHI
+|| [[Trent Klatt]]
+|| Hooking – Obstruction
+|| 02:24
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| [[Michel Petit]]
+|| Holding
+|| 10:14
+|| 2:00
+|- style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| PHI
+|| [[Eric Lindros]]
+|| Cross-checking
+|| 00:46
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Eric Lindros
+|| Elbowing
+|| 08:12
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Darren McCarty
+|| Interference – Obstruction
+|| 08:39
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Viacheslav Fetisov
+|| Slashing
+|| 13:02
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| Doug Brown
+|| Slashing
+|| 19:41
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|PHI}} || style="text-align:center;"|8 || style="text-align:center;"|7 || style="text-align:center;"|7 || style="text-align:center;"|22
+|-
+| style="text-align:left;"|{{nowrap|DET}} || style="text-align:center;"|10 || style="text-align:center;"|12 || style="text-align:center;"|7 || style="text-align:center;"|29
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=Detroit Red Wings
+|stadium2=CoreStates Center
+|stadium1=[[Joe Louis Arena]]
+|recap1=www.nhl.com/gamecenter/det-vs-phi/1997/06/07/1996030414
+|date1=June 7
+|score1=1–2
+|won1=2
+}}
+The Red Wings controlled the game from the get-go, forging ahead 1–0 after one period and employing the left-wing lock to keep the Flyers' mix of big and speedy forwards at bay. [[Darren McCarty]]'s second-period tally effectively sealed the deal. The burly checker faked out Flyers rookie defenceman [[Janne Niinimaa]] inside the blue line, swooped around him, then did a quick cutback in front of Hextall in his crease to slip the puck into the net. [[Eric Lindros]] would score his lone goal of the series with 15 seconds to play. The 2–1 win brought Detroit its eighth Stanley Cup, and its first in 42 seasons, ending what was the longest Stanley Cup drought in the league at that time.
+
+[[Sergei Fedorov]] led the Wings in playoff scoring with 20 points. Detroit goaltender [[Mike Vernon (ice hockey)|Mike Vernon]], who had been in net for the whole of the Wings' failed 1995 playoff run, and relegated to the bench the year before, earned vindication and his first [[Conn Smythe Trophy]] as playoff MVP by holding Philadelphia to six goals in four games.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1"|'''1st'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Nicklas Lidström|Nicklas Lidstrom]] (2)
+| style="text-align:center;"| [[Kirk Maltby]] (2)
+| style="text-align:center;"| 19:27
+| style="text-align:center;"| 1–0 DET
+|-
+| style="text-align:center;" rowspan="1"|'''2nd'''
+| style="text-align:center;"| DET
+| style="text-align:center;"| [[Darren McCarty]] (3)
+| style="text-align:center;"| [[Tomas Sandström|Tomas Sandstrom]] (4) and [[Steve Yzerman]] (6)
+| style="text-align:center;"| 13:02
+| style="text-align:center;"| 2–0 DET
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;"| PHI
+| style="text-align:center;"| [[Eric Lindros]] (12)
+| style="text-align:center;"| [[Eric Desjardins]] (8)
+| style="text-align:center;"| 19:45
+| style="text-align:center;"| 2–1 DET
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| PHI
+|| [[John LeClair]]
+|| Holding – Obstruction
+|| 03:23
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Igor Larionov]]
+|| Interference – Obstruction
+|| 04:31
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| Eric Lindros
+|| Interference – Obstruction
+|| 09:22
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| [[Pat Falloon]]
+|| Holding the stick
+|| 13:21
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| DET
+|| [[Vladimir Konstantinov]]
+|| Interference – Obstruction
+|| 09:27
+|| 2:00
+|- style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| PHI
+|| [[Kjell Samuelsson]]
+|| High-sticking
+|| 01:32
+|| 2:00
+|- style="text-align:center;"
+|| PHI
+|| [[Shjon Podein]]
+|| High-sticking
+|| 11:54
+|| 2:00
+|- style="text-align:center;"
+|| DET
+|| [[Kris Draper]]
+|| Slashing
+|| 14:39
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|PHI}} || style="text-align:center;"|8 || style="text-align:center;"|12 || style="text-align:center;"|7 || style="text-align:center;"|27
+|-
+| style="text-align:left;"|{{nowrap|DET}} || style="text-align:center;"|9 || style="text-align:center;"|10 || style="text-align:center;"|9 || style="text-align:center;"|28
+|}
+
+==Team rosters==
+Bolded years under Finals appearance indicates year won Stanley Cup.
+
+===Detroit Red Wings===
+[[File:YzermanCaptain.png|thumb|[[Steve Yzerman]] captained the Red Wings to their second Final appearance in a span of three seasons, having previously done so in [[1995 Stanley Cup Final|1995]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Osgood}}
+| G
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Peace River, Alberta]]
+| second {{small|({{scfy|1995}}) (did not play)}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Vernon|Mike Vernon (ice hockey)}}
+| G
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| fourth {{small|({{scfy|1986}}, '''{{scfy|1989}}''', {{scfy|1995}})}}
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Hodson}}
+| G
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first {{small|(did not play)}}
+|-
+| '''2'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Viacheslav|Fetisov}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Rouse}}
+| D
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Surrey, British Columbia]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Pushor}}
+| D
+| R
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Lethbridge|Lethbridge, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Nicklas|Lidstrom|Nicklas Lidström}}
+| D
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Krylbo|Krylbo, Sweden]]
+| second {{small|({{scfy|1995}})}}
+|-
+|  '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{Sortname|Mathieu|Dandenault}}
+| D
+| R
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Sherbrooke, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''16'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Konstantinov}}
+| D
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Murmansk|Murmansk, Soviet Union]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Aaron|Ward|Aaron Ward (ice hockey)}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first 
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Murphy|Larry Murphy (ice hockey)}}
+| D
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| third {{small|('''{{scfy|1991}}''', '''{{scfy|1992}}''')}}
+|-
+| '''8'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Igor|Larionov}}
+| C
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Voskresensk, Moscow Oblast|Voskresensk, Soviet Union]]
+| first
+|-
+| '''13'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vyacheslav|Kozlov}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Voskresensk, Moscow Oblast|Voskresensk, Soviet Union]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brendan|Shanahan}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Holmstrom|Tomas Holmström}}
+| LW
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Piteå|Piteå, Sweden]]
+| first {{small|(did not play)}}
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Brown|Doug Brown (ice hockey)}}
+| RW
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Southborough, Massachusetts]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kirk|Maltby}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Guelph|Guelph, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Yzerman}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Lapointe}}
+| RW
+| R
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Lachine, Quebec|Ville St. Pierre, Quebec]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darren|McCarty}}
+| RW
+| R
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Kocur}}
+| RW
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Kelvington, Saskatchewan]]
+| second {{small|('''{{scfy|1994}}''')}}
+|-
+| '''28'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Sandstrom|Tomas Sandström}}
+| LW
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Jakobstad|Jakobstad, Finland]]
+| second {{small|({{scfy|1993}})}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kris|Draper}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Taylor|Tim Taylor (ice hockey, born 1969)}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Stratford, Ontario]]
+| second {{small|({{scfy|1995}})}} {{small|(did not play)}}
+|-
+| '''91'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Fedorov}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Pskov|Pskov, Soviet Union]]
+| second {{small|({{scfy|1995}})}}
+|}
+
+===Philadelphia Flyers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ron|Hextall}}
+| G
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| second {{small|({{scfy|1987}})}}
+|-
+| '''30'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Garth|Snow}}
+| G
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Wrentham, Massachusetts]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Therien}}
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michel|Petit}}
+| D
+| R
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Saint-Malo, Quebec]]
+| first
+|-
+| '''23'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Svoboda}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Most (city)|Most, Czechoslovakia]]
+| third {{small|('''{{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Karl|Dykhuis}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Sept-Îles, Quebec]]
+| first
+|-
+| '''28'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Kjell|Samuelsson}}
+| D
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Tingsryd|Tingsryd, Sweden]]
+| third {{small|({{scfy|1987}}, '''{{scfy|1992}}''')}}
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Desjardins|Éric Desjardins}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn, Quebec]]
+| third {{small|({{scfy|1989}}, '''{{scfy|1993}}''')}}
+|-
+|  '''44'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{Sortname|Janne|Niinimaa}}
+| D
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Raahe|Raahe, Finland]]
+| first
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Coffey}}
+| D
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Weston, Ontario]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1991}}''', {{scfy|1995}})}}
+|-
+| '''9'''
+| {{flagicon|LIT}}
+! scope="row" style="text-align:left;"|{{sortname|Dainius|Zubrus}}
+| LW
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[Elektrėnai|Elektrėnai, Soviet Union]]
+| first 
+|-
+| '''10'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|LeClair}}
+| LW
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[St. Albans (city), Vermont|St. Albans, Vermont]]
+| second {{small|('''{{scfy|1993}}''')}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Falloon}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Foxwarren, Manitoba]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rod|Brind'Amour}} – '''[[Captain (ice hockey)#Alternate captains|A]]''' 
+| C
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dale|Hawerchuk}}
+| C
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mikael|Renberg}}
+| RW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Piteå|Piteå, Sweden]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Trent|Klatt}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Robbinsdale, Minnesota]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dan|Kordic}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shjon|Podein}}
+| LW
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Rochester, Minnesota]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Druce}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| first 
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Otto}}
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Elk River, Minnesota]]
+| third {{small|({{scfy|1986}}, '''{{scfy|1989}}''')}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Daniel|Lacroix}}
+| LW
+| L
+| {{NHL Year|1996}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''45'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Vaclav|Prospal|Václav Prospal}}
+| C
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[České Budějovice|České Budějovice, Czechoslovakia]]
+| first {{small|(did not play)}}
+|-
+| '''48'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|Forbes|Colin Forbes (ice hockey)}}
+| C
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[New Westminster|New Westminster, British Columbia]]
+| first
+|-
+| '''88'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Lindros}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1997 Stanley Cup was presented to Red Wings captain Steve Yzerman by [[NHL Commissioner]] [[Gary Bettman]] following the Red Wings 2–1 win over the Flyers in game four
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1996–97 Detroit Red Wings'''
+{{Stanley Cup champion
+| centres=*19 [[Steve Yzerman]] (Captain)
+*8 [[Igor Larionov]]
+*33 [[Kris Draper]]
+*37 [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]]*
+*91 [[Sergei Fedorov]] (A)
+| wingers=*13 [[Vyacheslav Kozlov]]
+*14 [[Brendan Shanahan]] (A)
+*15 [[Tomas Holmström|Tomas Holmstrom]]*
+*17 [[Doug Brown (ice hockey)|Doug Brown]]
+*18 [[Kirk Maltby]]
+*20 [[Martin Lapointe]]
+*25 [[Darren McCarty]]
+*26 [[Joe Kocur|Joey Kocur]]
+*28 [[Tomas Sandström|Tomas Sandstrom]]
+| defence=*2 [[Viacheslav Fetisov]]
+*3 [[Bob Rouse]]
+*4 [[Jamie Pushor]]*
+*5 [[Nicklas Lidström|Nicklas Lidstrom]]
+*11 [[Mathieu Dandenault]]*
+*16 [[Vladimir Konstantinov]]
+*27 [[Aaron Ward (ice hockey)|Aaron Ward]]
+*55 [[Larry Murphy (ice hockey)|Larry Murphy]] 
+| goaltenders=
+*29 [[Mike Vernon (ice hockey)|Mike Vernon]]
+*30 [[Chris Osgood]]
+*31 [[Kevin Hodson]] †
+|player-notes=
+* * Did not play or dress in the Final.
+* † Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+| non-players=
+*[[Mike Ilitch]] Sr. (Owner/President/Governor), [[Marian Ilitch]] (Owner/Secretary-Treasurer), Atanas Ilitch (Vice President/Minority Owner)
+*[[Christopher Ilitch]] (Vice President/Minority Owner), Denise Ilitch Lites, Ronald Ilitch (Minority Owners)
+*Michael Ititch Jr., Lisa Ilitch Murray, Carole Ilitch Trepeck (Minority Owners)
+*[[Jim Devellano]] (Sr. Vice President-of Hockey Operations), William [[Scotty Bowman]] (Head Coach/Director of Player Personnel), [[Ken Holland]] (Asst. General Manager/Goaltending Coach), [[Barry Smith (ice hockey, born 1952)|Barry Smith]] (Associate Coach)
+*[[Dave Lewis (ice hockey)|Dave Lewis]] (Associate Coach), [[Mike Krushelnyski]] (Asst. Coach), [[Jim Nill]] (Director of Player Development/Director of Scouting), Dan Belise (Scout), Bruce Haralson (Scout)
+*[[Mark Howe]] (Scout), [[Håkan Andersson (ice hockey)|Hakan Andersson]] (Scouts), John Wharton (Athletic Trainer), Wally Crossman (Dressing Room Asst.), Mark Leach (Scout)
+*Paul Boyer (Equipment Manager), Tim Abbott (Asst. Equipment Manager), Sergei Mnatsakanov (Massage Therapist), [[Joe McDonnell (ice hockey)|Joe McDonnell]] (Scout)}}
+===Engraving notes===
+* #31 [[Kevin Hodson]] (G) – played in 6 regular season games (dressed for 23), but was a healthy scratch for the entire playoffs. As he did not automatically qualify,{{efn|name=qualify}} Detroit successfully requested an exemption to engrave his name.
+* #22 [[Mike Knuble]] (RW) – played in 9 regular season games, but none in the playoffs. He was on the roster during the Finals, but left off the Stanley Cup engraving due to not qualifying by playing in 41 regular season games or 1 Finals game for Detroit. Detroit did not request an exemption to engrave his name. He was included in the team picture.
+* Johnny Remejes (Dressing Room Asst.), Mike Vella (Dressing Room Asst). Each of the three members and many other members were left off the Stanley Cup engraving, but included in the team picture.
+
+==Broadcasting==
+In Canada, the series was televised on [[Hockey Night in Canada|CBC]]. In the United States, [[NHL on Fox|Fox]] broadcast game one while [[ESPN National Hockey Night|ESPN]] televised games two through four. Had the series extended, games five and seven would have been broadcast on Fox, and ESPN would have aired game six.<ref>{{cite web | archive-url=https://web.archive.org/web/19970719043957/http://www.nhl.com/playoffs_97/playsched4.htm | url=http://www.nhl.com:80/playoffs_97/playsched4.htm | archive-date=1997-07-19 | title=1997 Stanley Cup Final schedule | website=NHL.com | url-status=dead | access-date=2018-09-01 }}</ref>
+
+==See also==
+* [[1996–97 NHL season]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book|last=Diamond|first=Dan |title=2008 Playoff Media Guide/Total Stanley Cup |year=2008 |publisher=NHL }}
+* {{cite book |last=Podnieks|first=Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+* {{cite web |last1=Farber |first1=Michael |title=SI Flashback: Stanley Cup 1997 |url=http://sportsillustrated.cnn.com/hockey/nhl/features/si_stanley_cup/1997/ |website=sportsillustrated.cnn.com |access-date=May 26, 2025 |date=June 16, 1997 |archive-url=https://web.archive.org/web/20010520175340/http://sportsillustrated.cnn.com/hockey/nhl/features/si_stanley_cup/1997/ |archive-date=2001-05-20}}
+
+{{s-start}}
+{{succession box | before = [[1996 Stanley Cup Final|Colorado Avalanche<br />1996]] | title = [[List of Stanley Cup champions|Detroit Red Wings<br />Stanley Cup champions]] | years = 1997 | after = [[1998 Stanley Cup Final|Detroit Red Wings<br />1998]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Detroit Red Wings}}
+{{Philadelphia Flyers}}
+{{1996–97 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Fox}}
+{{ESPN National Hockey Night}}
+}}
+
+[[Category:1997 Stanley Cup| ]]
+[[Category:Detroit Red Wings games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1996–97 NHL season|Stan]]
+[[Category:May 1997 sports events in the United States]]
+[[Category:June 1997 sports events in the United States]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1997 in Detroit]]
+[[Category:1997 in Philadelphia]]
+[[Category:1997 in sports in Illinois]]
+[[Category:1997 in sports in Pennsylvania]]

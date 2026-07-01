@@ -1,0 +1,228 @@
+
+{{Short description|1947 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1947
+|team2=[[1946–47 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal 
+|team2_captain=[[Toe Blake]]
+|team2_coach=[[Dick Irvin]]
+|team2_1='''6'''
+|team2_2=0
+|team2_3=2
+|team2_4=1*
+|team2_5='''3'''
+|team2_6=1
+|team2_tot=2
+|team1='''[[1946–47 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto 
+|team1_captain=[[Syl Apps]]
+|team1_coach=[[Hap Day]]
+|team1_1=0
+|team1_2='''4'''
+|team1_3='''4'''
+|team1_4='''2'''*
+|team1_5=1
+|team1_6='''2'''
+|team1_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 8–19, 1947
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4, 6)
+|series_winner=[[Ted Kennedy (ice hockey)|Ted Kennedy]] (14:39, third)
+|hofers='''Maple Leafs:'''<br/>[[Syl Apps]] (1961)<br/>[[Turk Broda]] (1967)<br/>[[Ted Kennedy (ice hockey)|Ted Kennedy]] (1966)<br/>[[Bud Poile]] (1990, builder)<br/>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1994)<br/>'''Canadiens:'''<br/>[[Toe Blake]] (1966)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bill Durnan]] (1964)<br/>[[Elmer Lach]] (1966; did not play)<br/>[[Buddy O'Connor]] (1988)<br/>[[Ken Reardon]] (1966)<br/>[[Maurice Richard]] (1961)<br/>'''Coaches:'''<br/>[[Hap Day]] (1961, player)<br/>[[Dick Irvin]] (1958, player)
+}}
+
+The '''1947 Stanley Cup Final''' was a best-of-seven series between the [[1946–47 Toronto Maple Leafs season|Toronto Maple Leafs]] and the [[1946 Stanley Cup Finals|defending champion]] [[1946–47 Montreal Canadiens season|Montreal Canadiens]]. This was the first Finals meeting in the history of the [[Canadiens–Maple Leafs rivalry]]. The Maple Leafs defeated the Canadiens four games to two. This was the first all-Canadian Finals since {{scfy|1935}}, when the since-folded [[Montreal Maroons]] defeated the Maple Leafs.
+
+==Paths to the Finals==
+Montreal defeated the [[Boston Bruins]] 4–1 to advance to the Finals. Toronto defeated the [[Detroit Red Wings]] 4–1 to advance to the Finals.
+
+The Montreal Canadiens finished first in the league with 78 points. The Toronto Maple Leafs finished second with 72 points. This was the fifth playoff series between these two teams with each team winning two of the previous series. Their most recent series came in the [[1944-45 NHL season#Playoffs|1945 semifinals]] which Toronto won in six games. In the regular season series, there were five wins for Montreal, three wins for Toronto and four ties.
+
+==Game summaries==
+[[Ted Kennedy (ice hockey)|Ted Kennedy]] was the leader with three goals including the Cup winner. Toronto had several new players in its lineup, including [[Howie Meeker]], [[Bill Barilko]] and [[Bill Ezinicki]], as Toronto sported the youngest NHL team to win the Cup to that time.
+
+The series continued a competition that had gone on all season, with Montreal and Toronto finishing 1–2. Montreal coach [[Dick Irvin]] was mad at the beginning of the series, recalling a season-ending injury to Montreal forward [[Elmer Lach]] from a body check by [[Don Metz (ice hockey)|Don Metz]]. Montreal started out strong in the series, defeating the Leafs 6–0 in the opener. Canadiens goaltender [[Bill Durnan]] reportedly asked "How did those guys get in the league?", although he denied saying those words later.<ref name="mcfarlane-96">McFarlane, p. 96</ref>
+
+The second game was a rough game, with [[Maurice Richard]] knocking out [[Vic Lynn]] and Bill Ezinicki with high-sticks to the head. Richard earned himself over 20 minutes in penalties and a game misconduct and a suspension for game three. The Leafs took advantage of the power plays and defeated Montreal 4–0. Richard would earn himself a further $250 fine imposed by president [[Clarence Campbell]].<ref name="mcfarlane-96"/>
+
+Games three and four were played in Toronto, and Toronto won both to take a 3–1 series lead. Returning to the Forum for game five, Montreal won the game to extend the series. In the sixth game, [[Turk Broda]] showed outstanding goaltending, holding off [[Ken Reardon]] on a late breakaway, and the Leafs won 2–1 to win the [[Stanley Cup]].<ref name="mcfarlane-97">McFarlane, p. 97</ref>
+
+After the sixth game ended, the Cup was not presented to the Leafs. Clarence Campbell declined to present the Cup immediately, concerned over the spectre of fan violence.<ref>McFarlane, pp. 97–98</ref>
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 8
+|home1       =1
+|score1      =0–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-mtl/1947/04/08/1946030211#game=1946030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =2:20 - ''pp'' - [[Buddy O'Connor]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =8:17 - ''pp'' - [[Billy Reay]] (5)<br>9:41 - [[Maurice Richard]] (4)
+|1-3-1       =''No scoring''
+|1-3-2       =5:40 - [[George Allen (ice hockey)|George Allen]] (1)<br>11:04 - Billy Reay (6)<br>18:28 - [[Murph Chamberlain]] (1)
+|goalie1-1   =[[Turk Broda]]
+|goalie1-2   =[[Bill Durnan]]
+
+|date2       =April 10
+|home2       =1
+|score2      =4–0
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/tor-vs-mtl/1947/04/10/1946030212#game=1946030212,game_state=final
+|2-1-1       =[[Ted Kennedy (ice hockey)|Ted Kennedy]] (2) - ''pp'' - 1:12<br>[[Vic Lynn]] (2) - ''pp'' - 1:36
+|2-1-2       =''No scoring''
+|2-2-1       =[[Gaye Stewart]] (2) - ''pp'' - 6:37
+|2-2-2       =''No scoring''
+|2-3-1       =[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (2) - ''pp'' - 11:55
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Turk Broda]]
+|goalie2-2   =[[Bill Durnan]]
+
+|date3       =April 12
+|home3       =2
+|score3      =2–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/mtl-vs-tor/1947/04/12/1946030213#game=1946030213,game_state=final
+|3-1-1       =9:45 - [[Gus Mortson]] (1)
+|3-1-2       =''No scoring''
+|3-2-1       =4:48 - ''pp'' - [[Bud Poile]] (1)<br>12:23 - [[Vic Lynn]] (3)
+|3-2-2       =[[Leo Gravelle]] (1) - 12:33<br>[[Buddy O'Connor]] (2) - 18:30
+|3-3-1       =19:13 - [[Ted Kennedy (ice hockey)|Ted Kennedy]] (3)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Turk Broda]]
+|goalie3-2   =[[Bill Durnan]]
+
+|date4       =April 15
+|home4       =2
+|score4      =1–2
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/mtl-vs-tor/1947/04/15/1946030214#game=1946030214,game_state=final
+|4-1-1       =6:13 - [[Harry Watson (ice hockey, born 1923)|Harry Watson]] (3)
+|4-1-2       =[[Glen Harmon]] (1) - ''pp'' - 4:38
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|4-4-1       =16:36 - [[Syl Apps]] (5)
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Turk Broda]]
+|goalie4-2   =[[Bill Durnan]]
+
+|date5       =April 17
+|home5       =1
+|score5      =1–3
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/tor-vs-mtl/1947/04/17/1946030215#game=1946030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =1:23 - [[Maurice Richard]] (5)<br>8:29 - [[Leo Gravelle]] (2)
+|5-2-1       =''No scoring''
+|5-2-2       =19:32 - ''pp'' - Maurice Richard (6)
+|5-3-1       =[[Bud Poile]] (2) - 13:37
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Turk Broda]]
+|goalie5-2   =[[Bill Durnan]]
+
+|date6       =April 19
+|home6       =2
+|score6      =1–2
+|won6        =1
+|recap6      =www.nhl.com/gamecenter/mtl-vs-tor/1947/04/19/1946030216#game=1946030216,game_state=final
+|6-1-1       =''No scoring''
+|6-1-2       =[[Buddy O'Connor]] (3) - 00:25
+|6-2-1       =5:39 - [[Vic Lynn]] (4)
+|6-2-2       =''No scoring''
+|6-3-1       =14:39 - [[Ted Kennedy (ice hockey)|Ted Kennedy]] (4)
+|6-3-2       =''No scoring''
+|goalie6-1   =[[Turk Broda]]
+|goalie6-2   =[[Bill Durnan]]
+
+|series = Toronto won series 4–2
+}}
+
+==Stanley Cup engraving==
+The 1947 Stanley Cup was presented to Maple Leafs captain Syl Apps by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 2–1 win over the Canadiens in game six.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1946–47 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 Walter [[Turk Broda]]
+|defence=*2 [[Bob Goldham]]
+*3 [[Wally Stanowski]]
+*18 [[Garth Boesch]]
+*19 [[Gus Mortson]]
+*20 [[Jimmy Thomson (ice hockey b. 1927)|Jimmy Thomson]]
+*21 [[Bill Barilko]]
+|centres=*8 [[Gus Bodnar]]
+*9 Ted [[Ted Kennedy (ice hockey)|Teeder Kennedy]] (A)
+*10 Sylvanous [[Syl Apps]] Sr. (Captain)
+|wingers=*4 [[Harry Watson (ice hockey, born 1923)|Harry Watson]]
+*5 [[Nick Metz]]
+*7 Norman [[Bud Poile]]
+*11 [[Don Metz (ice hockey)|Don Metz]]
+*12 [[Bill Ezinicki]]
+*14  [[Vic Lynn]]
+*15 [[Howie Meeker]]
+*16 [[Gaye Stewart]] (A)
+*17 [[Joe Klukay]]*
+|player-notes=
+{{asterisk}} Name mistakenly removed from the Stanley Cup when it was redone in the 1957–58 season.
+|non-players=
+* Ed Bickle (President/Owner), [[W. A. H. MacBrien|William MacBrien]] (Vice President/Owner) 
+* [[Jack Bickell]] (Director/Owner), John Murdoch (Vice President)
+* [[Conn Smythe]] (Manager/Owner),  Clarence [[Hap Day]] (Coach) 
+* Tim Daly (Trainer), Clifford Keyland (Asst. Trainer)
+* Robert Galloway (Team Doctor), Horance MacIntyre (Team Doctor)
+* George Walker (Chief Scout)
+|engraving-notes=
+* * #17 [[Joe Klukay]]'s (LW) name was removed by mistake from new version of 1947 Toronto's engraving created in 1957–58. (There is space where his name should have been included left of Don Metz)
+* 1947 Toronto Maple Leafs were first Stanley Cup winning team to have the Captain(C), and Assistant Captain(A) marked on their sweaters on their Stanley Cup team picture.
+* When the Replica Cup was created in 1992–93 a new mistake happened. Robert J. Galloway's name was misspelled as P.J. Galloway with "P" instead of a "R".  His name is spelled correctly the first 2 times 1947 Toronto members were engraved.
+* Stanley Cup was full and 1946-47 Toronto Maple Leafs members names were not engraved on the Stanley Cup until 1948.
+|
+}}
+
+==See also==
+* [[1946–47 NHL season]]
+
+==References and notes==
+{{reflist}}
+* {{cite book |editor=Diamond, Dan |title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+* {{cite book |author=McFarlane, Brian |title=The Leafs |year=1996 |publisher=Stoddart Publishing |isbn=0-7737-5843-7}}
+* {{cite book |author1=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=1-55168-261-3}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1946 Stanley Cup Finals|Montreal Canadiens<br>1946]] |
+ after = [[1948 Stanley Cup Finals|Toronto Maple Leafs<br>1948]] |
+ title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+ years = 1947|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Toronto Maple Leafs}}
+{{Montreal Canadiens}}
+{{1946–47 NHL season by team}}
+
+[[Category:1946–47 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1947 sports events in Canada|Stanley Cup Finals]]
+[[Category:April 1947 sports events in the United States|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1940s in Toronto|Stanley Cup Final, 1947]]
+[[Category:1940s in Montreal|Stanley Cup Final, 1947]]
+[[Category:1947 in sports in Ontario|Stanley Cup Finals]]
+[[Category:1947 in sports in Quebec|Stanley Cup Finals]]
+[[Category:Canadiens–Maple Leafs rivalry|Stanley Cup Finals, 1947]]

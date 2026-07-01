@@ -1,0 +1,1652 @@
+{{short description|2022 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=May 2022}}
+{{Infobox Stanley Cup Final
+| year = 2022
+| image = 2022 Stanley Cup Finals.png
+| team1 = [[2021–22 Tampa Bay Lightning season|Tampa Bay Lightning]]
+| team2 = '''[[2021–22 Colorado Avalanche season|Colorado Avalanche]] '''
+| team1_1 = 3*
+| team2_1 = '''4'''*
+| team1_2 = 0
+| team2_2 = '''7'''
+| team1_3 = '''6'''
+| team2_3 = 2
+| team1_4 = 2*
+| team2_4 = '''3'''*
+| team1_5 = '''3'''
+| team2_5 = 2
+| team1_6 = 1
+| team2_6 = '''2'''
+| team1_tot = 2
+| team2_tot = 4
+| location1 = [[Tampa, Florida|Tampa]]: [[Amalie Arena]] (3, 4, 6)
+| location2 = [[Denver]]: [[Ball Arena]] (1, 2, 5)
+| team1_coach = [[Jon Cooper (ice hockey)|Jon Cooper]]
+| team2_coach = [[Jared Bednar]]
+| team1_short = Tampa Bay
+| team2_short = Colorado
+| team1_captain = [[Steven Stamkos]]
+| team2_captain = [[Gabriel Landeskog]]
+| team1_national_anthem = Sonya Bryson-Kirksey
+| team2_national_anthem = Amanda Hawkins
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = Gord Dwyer (1, 3, 6)<br>Jean Hebert (2, 5)<br>[[Wes McCauley]] (2, 4)<br>[[Chris Rooney]] (3, 5)<br>[[Kelly Sutherland]] (1, 4, 6)
+| dates = June 15–26, 2022
+| mvp = [[Cale Makar]] (Avalanche)
+| series_winner = [[Artturi Lehkonen]] (12:28, second)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]/[[Sportsnet Now]]<ref name=SportsnetRound4 /><br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ABC|ABC]]/[[ESPN+]]<ref name=ESPNRound4 />
+| net_announcers = (CBC/SN) [[Chris Cuthbert]] and [[Craig Simpson]]<ref name=SportsnetRound4>{{cite press release|url=https://www.rogerssportsandmedia.com/whats-happening/news/sportsnet-announces-2022-stanley-cup-final-coverage-details/|title=Sportsnet Announces 2022 Stanley Cup Final Coverage Details|publisher=Rogers Sports & Media|date=June 12, 2022|access-date=June 14, 2022|archive-date=June 14, 2022|archive-url=https://web.archive.org/web/20220614074812/https://www.rogerssportsandmedia.com/whats-happening/news/sportsnet-announces-2022-stanley-cup-final-coverage-details/|url-status=live}}</ref><br>(TVA) Felix Seguin, [[Alexandre R. Picard]] (1, 2) and [[Patrick Lalime]] (3–6)<br> (ABC) [[Sean McDonough]] and [[Ray Ferraro]]<!-- Do NOT put Brian Boucher here --><ref name=ESPNRound4>{{cite web|url=https://espnpressroom.com/us/press-releases/2022/06/the-2022-stanley-cup-final-begins-wednesday-on-abc-espn-and-espn-deportes/|title=The 2022 Stanley Cup Final Begins Wednesday on ABC, ESPN+ and ESPN Deportes|publisher=ESPN Interactive|website=ESPNPressroom.com|date=June 14, 2022|accessdate=June 14, 2022|archive-date=June 15, 2022|archive-url=https://web.archive.org/web/20220615152015/https://espnpressroom.com/us/press-releases/2022/06/the-2022-stanley-cup-final-begins-wednesday-on-abc-espn-and-espn-deportes/|url-status=live}}</ref><br> (NHL International) Marc Moser (1), E. J. Hradek (2–6) and [[Kevin Weekes]]<ref>{{Cite tweet |author=Kevin Weekes|user=KevinWeekes|number=1537241849790070784|title=Alongside @RadioMoser with @StanleyCup Final Game 1 on the @NHL International Broadcast. Please let us know where you great fans are tuned in from. #HockeyTwitter}}</ref><ref>{{Cite tweet |author=E.J. Hradek|user=EJHradek_NHL|number=1538302810634199041|title=Thrilled to be back on the Stanley Cup Final call for Game 2 alongside ⁦@KevinWeekes on the NHL International broadcast. If you're watching around the globe, tweet at us during the game. Gonna be a good one!! ⁦@Avalanche ⁦@TBLightning @nhl ⁦@NHLNetwork}}</ref>
+}}
+The '''2022 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2021–22 NHL season|2021–22 season]] and the culmination of the [[2022 Stanley Cup playoffs]]. The series was between the [[Eastern Conference (NHL)|Eastern Conference]] and two-time defending [[Stanley Cup]] champion [[2021–22 Tampa Bay Lightning season|Tampa Bay Lightning]] and the [[Western Conference (NHL)|Western Conference]] champion [[2021–22 Colorado Avalanche season|Colorado Avalanche]]. The Avalanche defeated the Lightning four games to two in the [[best-of-seven playoff|best-of-seven series]], earning their third Stanley Cup championship in franchise history and first since [[2001 Stanley Cup Final|2001]]. Colorado had home-ice advantage with the better regular-season record.<ref name="schedule">{{cite web|url=https://www.nhl.com/news/2022-stanley-cup-final-schedule/c-325473296|title=Stanley Cup Final schedule|date=September 29, 2021|website=NHL.com|access-date=June 10, 2022|archive-date=June 11, 2022|archive-url=https://web.archive.org/web/20220611010921/https://www.nhl.com/news/2022-stanley-cup-final-schedule/c-325473296|url-status=live}}</ref>
+
+The series began on June 15, and concluded on June 26.<ref name="schedule"/> With the [[Government of Canada]] allowing [[Canada–United States border|cross-border travel]] for fully vaccinated players and team personnel between Canada and the United States,<ref>{{Cite web|last=Schram|first=Carol|title=Not Quite Normal: Schedule, Protocols, Kraken Among The Differences For 2021–22 NHL Season|url=https://www.forbes.com/sites/carolschram/2021/09/30/not-quite-normal-schedule-protocols-kraken-among-the-differences-for-2021-22-nhl-season/?sh=613c3932183e|access-date=June 27, 2022|date=September 30, 2021|work=Forbes|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627123231/https://www.forbes.com/sites/carolschram/2021/09/30/not-quite-normal-schedule-protocols-kraken-among-the-differences-for-2021-22-nhl-season/?sh=613c3932183e|url-status=live}}</ref><ref>{{Cite web|last=Gold-Smith|first=Josh|title=NHL won't allow unvaccinated players into Canada, unlike NBA, MLB|url=https://www.thescore.com/nhl/news/2199448/|access-date=June 27, 2022|date=September 27, 2021|publisher=Score Media Ventures Inc.|archive-date=June 29, 2022|archive-url=https://web.archive.org/web/20220629141442/https://www.thescore.com/nhl/news/2199448/|url-status=live}}</ref> the league was able to return to its usual two conference alignment and reinstate its standard playoff format that was used from [[2014 Stanley Cup playoffs|2014]]–[[2019 Stanley Cup playoffs|2019]], before the [[COVID-19 pandemic in North America|COVID-19 pandemic]].<ref>{{Cite web|last=O'Brien|first=James|title=2021–22 NHL schedule: Kraken debut, return to 82 games, and more|url=https://nhl.nbcsports.com/2021/07/22/2021-22-nhl-schedule-kraken-debut-return-to-82-games-and-more/|access-date=April 15, 2022|date=July 22, 2021|publisher=NBC Universal|work=NBC Sports|archive-date=April 15, 2022|archive-url=https://web.archive.org/web/20220415102616/https://nhl.nbcsports.com/2021/07/22/2021-22-nhl-schedule-kraken-debut-return-to-82-games-and-more/|url-status=live}}</ref> The Final series were still pushed from the usual start date in late May/early June for the third consecutive year,<ref>{{cite web|url=https://www.nj.com/sports/2022/04/when-do-the-2022-nhl-playoffs-start-heres-everything-you-need-to-know-ahead-of-playoff-hockey.html|title=When do the 2022 NHL Playoffs start? Here's everything you need to know ahead of playoff hockey|last=Novozinsky|first=Ryan|publisher=Advance Local Media LLC|date=April 22, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627163140/https://www.nj.com/sports/2022/04/when-do-the-2022-nhl-playoffs-start-heres-everything-you-need-to-know-ahead-of-playoff-hockey.html|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/news/nhl-announces-critical-dates-for-2021-22-season/c-326440404|title=NHL announces critical dates for 2021–22 season|publisher=NHL Enterprises, L. P.|date=September 29, 2021|website=NHL.com|accessdate=June 27, 2022|archive-date=June 2, 2022|archive-url=https://web.archive.org/web/20220602154619/https://www.nhl.com/news/nhl-announces-critical-dates-for-2021-22-season/c-326440404|url-status=live}}</ref> this time due to a scheduled break in the regular season that coincided with the league's planned participation in the [[Ice hockey at the 2022 Winter Olympics – Men's tournament#NHL participation|2022 Winter Olympics]],<ref>{{Cite web|title=NHL announces players will not participate in Beijing Winter Olympics|url=https://sports.yahoo.com/nhl-announces-players-not-participate-150440389.html|date=December 22, 2021|accessdate=June 13, 2022|publisher=Yahoo|website=Sports.Yahoo.com|archive-date=April 23, 2022|archive-url=https://web.archive.org/web/20220423032527/https://sports.yahoo.com/nhl-announces-players-not-participate-150440389.html|url-status=live}}</ref> though the league's players ultimately did not participate in the Olympics.<ref>{{Cite web|last=Wyshynski|first=Greg|date=December 21, 2021|title=NHL skipping Olympics because of COVID surge|url=https://www.espn.com/nhl/story/_/id/32918026/sources-nhl-not-going-olympics-due-covid|url-status=live|accessdate=June 13, 2022|website=ESPN.com|archive-url=https://web.archive.org/web/20211221195437/https://www.espn.com/nhl/story/_/id/32918026/sources-nhl-not-going-olympics-due-covid|publisher=ESPN Interactive|archive-date=December 21, 2021}}</ref> When NHL Commissioner [[Gary Bettman]] tested positive for [[COVID-19]], NHL Deputy Commissioner [[Bill Daly]] took over the presentation of the Conn Smythe Trophy and the Stanley Cup. This was the first time since [[1992 Stanley Cup Final|1992]] that Gary Bettman did not give the presentation.<ref>{{cite web|url=https://www.thescore.com/nhl/news/2378439|title=Daly hands Stanley Cup to Avalanche in Bettman's absence|last=Sanford|first=Dave|publisher=Score Media Ventures Inc|accessdate=July 29, 2022|website=TheScore.com}}</ref>
+
+==Paths to the Final==
+
+===Tampa Bay Lightning===
+{{Main|2021–22 Tampa Bay Lightning season}}
+This was Tampa Bay's third consecutive Final appearance and fifth overall. They won the prior two Stanley Cups ([[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]) and have won three in franchise history.<ref>{{cite web|url=https://www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-5-recap/c-325483294|title=Lightning repeat as Stanley Cup champions, defeat Canadiens in Game 5|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=July 7, 2021|website=NHL.com|accessdate=July 7, 2021|archive-date=July 10, 2021|archive-url=https://web.archive.org/web/20210710105014/https://www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-5-recap/c-325483294|url-status=live}}</ref> They were the first team to clinch three consecutive Final appearances since the [[Edmonton Oilers]] between 1983 and 1985. The Lightning joined the [[Montreal Canadiens]] (1976–1980) and [[New York Islanders]] (1980–1984) for becoming the only teams in league history to post at least eleven consecutive playoff series victories.<ref>{{cite web|url=https://www.abcactionnews.com/sports/quest-for-the-cup/defending-champion-lightnings-bid-for-3-peat-falls-short|title=Defending champion Lightning's bid for 3-peat falls short|last=Goodall|first=Fred|publisher=Scripps Media, Inc.|date=June 27, 2022|website=ABCActionNews.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627131210/https://www.abcactionnews.com/sports/quest-for-the-cup/defending-champion-lightnings-bid-for-3-peat-falls-short|url-status=live}}</ref>
+
+Captain [[Steven Stamkos]] led the team in scoring with 106 points during the regular season. Defenceman [[Victor Hedman]] scored 85 points, eclipsing the previous Tampa Bay record for defencemen, which Hedman set in [[2016–17 Tampa Bay Lightning season|2017]]. During the off-season, the Lightning signed goaltender [[Brian Elliott]], defenceman [[Zach Bogosian]], and forwards [[Pierre-Édouard Bellemare|Pierre-Edouard Bellemare]] and [[Corey Perry]] via free agency.<ref>{{cite web|title=Lightning sign goaltender Brian Elliott to one-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-goaltender-brian-elliott-to-one-year-contract/c-325838662|website=NHL.com|publisher=NHL Enterprises, L. P.|accessdate=June 7, 2022|date=July 28, 2021|archive-date=May 11, 2022|archive-url=https://web.archive.org/web/20220511124206/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-goaltender-brian-elliott-to-one-year-contract/c-325838662|url-status=live}}</ref><ref>{{cite web|title=Lightning sign defenseman Zach Bogosian to three-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-zach-bogosian-to-three-year-contract/c-325839670|website=NHL.com|publisher=NHL Enterprises, L. P.|access-date=June 7, 2022|date=July 28, 2021|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607174829/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-zach-bogosian-to-three-year-contract/c-325839670|url-status=live}}</ref><ref>{{cite web|title=Lightning sign forward Pierre-Edouard Bellemare to two-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-pierre-edouard-bellemare-to-two-year-contract/c-325845896|website=NHL.com|publisher=NHL Enterprises, L. P.|accessdate=June 7, 2022|date=July 28, 2021|archive-date=May 11, 2022|archive-url=https://web.archive.org/web/20220511124209/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-pierre-edouard-bellemare-to-two-year-contract/c-325845896|url-status=live}}</ref><ref>{{cite web|title=Lightning sign forward Corey Perry to two-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-corey-perry-to-two-year-contract/c-325866072|website=NHL.com|publisher=NHL Enterprises, L. P.|accessdate=June 7, 2022|date=July 29, 2021|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607174828/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-corey-perry-to-two-year-contract/c-325866072|url-status=live}}</ref> They also opted to re-sign forwards [[Brayden Point]] and [[Ross Colton]] and defenceman [[Callan Foote|Cal Foote]] with [[Patrick Maroon]] re-signing during the season.<ref>{{cite web|title=Lightning sign forward Brayden Point to eight-year contract extension|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-brayden-point-to-eight-year-contract-extension/c-325839082|website=NHL.com|publisher=NHL Enterprises, L. P.|accessdate=June 7, 2022|date=July 28, 2021|archive-date=June 17, 2022|archive-url=https://web.archive.org/web/20220617033016/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-brayden-point-to-eight-year-contract-extension/c-325839082|url-status=live}}</ref><ref>{{cite web|title=Lightning sign Ross Colton to two-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-ross-colton-to-two-year-contract/c-325932982|website=NHL.com|access-date=June 7, 2022|date=August 9, 2021|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607174830/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-forward-ross-colton-to-two-year-contract/c-325932982|url-status=live}}</ref><ref>{{cite web|title=Lightning sign defenseman Cal Foote to two-year contract|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-cal-foote-to-two-year-contract/c-325871008|website=NHL.com|accessdate=June 7, 2022|date=July 29, 2021|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607174830/https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-cal-foote-to-two-year-contract/c-325871008|url-status=live}}</ref><ref>{{cite web|title=Lightning re-sign forward Pat Maroon to two-year extension|url=https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-pat-maroon-to-two-year-extension/c-330587484|website=NHL.com|accessdate=June 7, 2022|date=February 8, 2022|archive-date=June 14, 2022|archive-url=https://web.archive.org/web/20220614212823/https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-pat-maroon-to-two-year-extension/c-330587484|url-status=live}}</ref> At the trade deadline, the Lightning acquired forwards [[Brandon Hagel]] and [[Nick Paul]].<ref>{{cite web|title=Lightning acquire forward Brandon Hagel from Blackhawks|url=https://www.sportsnet.ca/nhl/article/lightning-acquire-forward-brandon-hagel-from-blackhawks/|website=sportsnet.ca|publisher=Rogers Media|accessdate=June 7, 2022|date=March 18, 2022|archive-date=May 1, 2022|archive-url=https://web.archive.org/web/20220501025613/https://www.sportsnet.ca/nhl/article/lightning-acquire-forward-brandon-hagel-from-blackhawks/|url-status=live}}</ref><ref>{{cite web|title=Senators trade Paul to Lightning for Joseph, fourth-round pick|url=https://www.sportsnet.ca/nhl/article/senators-trade-nick-paul-to-lightning-for-joseph-fourth-round-pick/|website=sportsnet.ca|accessdate=June 7, 2022|date=March 20, 2022|archive-date=June 15, 2022|archive-url=https://web.archive.org/web/20220615000640/https://www.sportsnet.ca/nhl/article/senators-trade-nick-paul-to-lightning-for-joseph-fourth-round-pick/|url-status=live}}</ref> For Corey Perry, this was his third straight Final appearance with three different teams ([[Dallas Stars]] in [[2020 Stanley Cup Final|2020]], [[Montreal Canadiens]] in [[2021 Stanley Cup Final|2021]]), the first player to accomplish this feat since [[Marián Hossa|Marian Hossa]] did it with the [[Pittsburgh Penguins]] in [[2008 Stanley Cup Final|2008]], [[Detroit Red Wings]] in [[2009 Stanley Cup Final|2009]], and [[Chicago Blackhawks]] in [[2010 Stanley Cup Final|2010]].<ref name=CoreyPerry>{{cite web|url=https://www.foxnews.com/sports/lightning-corey-perry-loses-stanley-cup-title|title=Lightning's Corey Perry loses chance at second Stanley Cup title for third straight year|last=Gaydos|first=Ryan|publisher=Fox News Network, LLC|date=June 27, 2022|website=FoxNews.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627045530/https://www.foxnews.com/sports/lightning-corey-perry-loses-stanley-cup-title|url-status=live}}</ref>
+
+The Lightning finished third in the Atlantic Division gaining 110 points with a {{win-loss record|w=51|l=23|otl=8}} record. Tampa Bay defeated the [[Toronto Maple Leafs]] in the first round in seven games,<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-toronto-maple-leafs-game-7-recap/c-333639680|title=Paul, Lightning win Game 7, eliminate Maple Leafs|last=McCarthy|first=Dave|publisher=NHL Enterprises, L. P.|date=May 14, 2022|website=NHL.com|accessdate=May 14, 2022|archive-date=May 15, 2022|archive-url=https://web.archive.org/web/20220515020744/https://www.nhl.com/news/tampa-bay-lightning-toronto-maple-leafs-game-7-recap/c-333639680|url-status=live}}</ref> followed by a four-game sweep of their [[Lightning–Panthers rivalry|intrastate rival]], the [[Presidents' Trophy]]-winning [[Florida Panthers]],<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-tampa-bay-lightning-game-4-recap/c-334129356|title=Lightning shut out Panthers in Game 4, sweep Eastern First Round series|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=May 23, 2022|website=NHL.com|accessdate=May 23, 2022|archive-date=May 24, 2022|archive-url=https://web.archive.org/web/20220524021552/https://www.nhl.com/news/florida-panthers-tampa-bay-lightning-game-4-recap/c-334129356|url-status=live}}</ref> during the second round, and then triumphed over the [[New York Rangers]] in the Eastern Conference final in six games.<ref>{{cite web|url=https://www.nhl.com/news/new-york-rangers-tampa-bay-lightning-game-6-recap/c-334410874|title=Lightning defeat Rangers in Game 6, advance to third straight Cup Final|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=June 11, 2022|website=NHL.com|accessdate=June 11, 2022|archive-date=June 12, 2022|archive-url=https://web.archive.org/web/20220612030557/https://www.nhl.com/news/new-york-rangers-tampa-bay-lightning-game-6-recap/c-334410874|url-status=live}}</ref>
+
+===Colorado Avalanche===
+{{Main|2021–22 Colorado Avalanche season}}
+This was Colorado's third appearance in the Final. They won their two prior appearances with their most recent against the [[2000–01 New Jersey Devils season|New Jersey Devils]] in [[2001 Stanley Cup Final|2001]].<ref>{{cite web|last=Murphy|first=Bryan|title=How many championships have the Avalanche won? History of Colorado's appearances in the Stanley Cup Final|url=https://www.sportingnews.com/nhl/news/avalanche-championship-history-stanley-cup-final/bardlajdiph4iyjt5xoaktlo|publisher=Sporting News Holdings Limited|website=SportingNews.com|date=June 25, 2022|access-date=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627124510/https://www.sportingnews.com/nhl/news/avalanche-championship-history-stanley-cup-final/bardlajdiph4iyjt5xoaktlo|url-status=live}}</ref>
+
+[[Mikko Rantanen]] led the team in points, scoring 92 overall.<ref>{{cite web|title=Mikko Rantanten Stats and News|url=https://www.nhl.com/player/mikko-rantanen-8478420|publisher=NHL Enterprises, L. P.|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627210631/https://www.nhl.com/player/mikko-rantanen-8478420|url-status=live}}</ref> Goaltender [[Darcy Kuemper]] started 57 times for the Avalanche, obtaining 37 wins in the process.<ref>{{cite web|url=https://www.nhl.com/player/darcy-kuemper-8475311|title=Darcy Kuemper Stats and News|publisher=NHL Enterprises, L. P.|website=NHL.com|accessdate=June 27, 2022|archive-date=June 26, 2022|archive-url=https://web.archive.org/web/20220626040525/https://www.nhl.com/player/darcy-kuemper-8475311|url-status=live}}</ref> However, during Game 1 of their Conference Final series, Kuemper left the game with an upper-body injury. Backup goaltender [[Pavel Francouz]] finished the opening game after replacing Kuemper and started the remaining games of the series as a result.<ref>{{cite web|url=https://www.sportingnews.com/us/nhl/news/darcy-kuemper-injury-details-update-status-avalanche/se6h7yfpspigzzef0syk314z|title=Darcy Kuemper injury details: Latest updates on the Avalanche goaltender's status for Game 4|last=Murphy|first=Bryan|publisher=Sporting News Holdings Limited|date=June 6, 2022|website=SportingNews.com|accessdate=June 6, 2022|archive-date=June 5, 2022|archive-url=https://web.archive.org/web/20220605101649/https://www.sportingnews.com/us/nhl/news/darcy-kuemper-injury-details-update-status-avalanche/se6h7yfpspigzzef0syk314z|url-status=live}}</ref> During the off-season, the Avalanche traded for Kuemper and defenceman [[Kurtis MacDermid]].<ref>{{cite web|url=https://www.nhl.com/news/coyotes-trade-darcy-kuemper-to-avalanche/c-325861278|title=Kuemper traded to Avalanche by Coyotes|publisher=NHL Enterprises, L. P.|website=NHL.com|date=July 29, 2021|accessdate=June 6, 2022|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607041848/https://www.nhl.com/news/coyotes-trade-darcy-kuemper-to-avalanche/c-325861278|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/avalanche/news/avalanche-re-signs-macdermid/c-332654828|title=Avalanche Re-Signs MacDermid|website=NHL.com|publisher=NHL Enterprises, L. P.|date=April 5, 2022|access-date=June 6, 2022|archive-date=June 14, 2022|archive-url=https://web.archive.org/web/20220614043105/https://www.nhl.com/avalanche/news/avalanche-re-signs-macdermid/c-332654828|url-status=live}}</ref> They also picked up free agent [[Darren Helm]].<ref>{{cite web|url=https://www.nhl.com/avalanche/news/avalanche-signs-dylan-sikura-and-stefan-matteau/c-325826388|title=Avalanche Signs Sikura, Matteau|publisher=NHL Enterprises, L. P.|date=July 29, 2021|website=NHL.com|access-date=June 6, 2022|archive-date=June 14, 2022|archive-url=https://web.archive.org/web/20220614053556/https://www.nhl.com/avalanche/news/avalanche-signs-dylan-sikura-and-stefan-matteau/c-325826388|url-status=live}}</ref> They re-signed defenceman [[Cale Makar]], captain [[Gabriel Landeskog]], and Francouz.<ref>{{cite web|url=https://www.nhl.com/avalanche/news/avalanche-re-signs-cale-makar-to-six-year-contract/c-325775878|title=Cale Makar Signs Six-Year Contract|publisher=NHL Enterprises, L. P.|date=July 24, 2021|website=NHL.com|accessdate=June 6, 2022|archive-date=April 3, 2022|archive-url=https://web.archive.org/web/20220403212407/https://www.nhl.com/avalanche/news/avalanche-re-signs-cale-makar-to-six-year-contract/c-325775878|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/avalanche/news/avalanche-signs-gabriel-landeskog-to-eight-year-deal/c-325824678|title=Avalanche Signs Gabriel Landeskog to Eight-Year Deal|publisher=NHL Enterprises, L. P.|website=NHL.com|date=July 27, 2021|accessdate=June 6, 2022|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607041847/https://www.nhl.com/avalanche/news/avalanche-signs-gabriel-landeskog-to-eight-year-deal/c-325824678|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/avalanche/news/francouz-signs-extension/c-331746370|title=Pavel Francouz Signs Two-Year Extension|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 12, 2022|accessdate=June 6, 2022|archive-date=June 15, 2022|archive-url=https://web.archive.org/web/20220615180345/https://www.nhl.com/avalanche/news/francouz-signs-extension/c-331746370|url-status=live}}</ref> Nearing the trade deadline, the Avalanche acquired [[Josh Manson]], [[Nico Sturm]], [[Artturi Lehkonen]], and [[Andrew Cogliano]].<ref>{{cite web|url=https://www.nhl.com/ducks/news/ducks-acquire-helleson-2023-second-round-pick-from-colorado-for-manson/c-331835234|title=Ducks Acquire Helleson, 2023 Second-Round Pick from Colorado for Manson|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 14, 2022|accessdate=June 6, 2022|archive-date=April 2, 2022|archive-url=https://web.archive.org/web/20220402211119/https://www.nhl.com/ducks/news/ducks-acquire-helleson-2023-second-round-pick-from-colorado-for-manson/c-331835234|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/avalanche/news/avalanche-acquires-sturm/c-331853474|title=AVALANCHE ACQUIRES STURM|publisher=NHL Enterprises, L. P.|access-date=June 6, 2022|date=March 15, 2022|archive-date=April 14, 2022|archive-url=https://web.archive.org/web/20220414001916/https://www.nhl.com/avalanche/news/avalanche-acquires-sturm/c-331853474|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/news/artturi-lehkonen-traded-to-colorado-avalanche-by-montreal-canadiens/c-331845962?tid=278542340|title=Lehkonen traded to Avalanche by Canadiens|website=NHL.com|publisher=NHL Enterprises, L. P.|access-date=June 6, 2022|date=March 21, 2022|archive-date=June 15, 2022|archive-url=https://web.archive.org/web/20220615180341/https://www.nhl.com/news/artturi-lehkonen-traded-to-colorado-avalanche-by-montreal-canadiens/c-331845962?tid=278542340|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/news/san-jose-sharks-trade-andrew-cogliano-to-colorado-avalanche/c-332093484?tid=278542340|title=Cogliano traded to Avalanche by Sharks|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 21, 2022|access-date=June 6, 2022|archive-date=June 14, 2022|archive-url=https://web.archive.org/web/20220614043105/https://www.nhl.com/news/san-jose-sharks-trade-andrew-cogliano-to-colorado-avalanche/c-332093484?tid=278542340|url-status=live}}</ref>
+
+The Avalanche finished the season with 119 points via a {{win-loss record|w=56|l=19|otl=7}} record, grabbing the Central Division title and first place in the Western Conference.<ref>{{cite web|url=https://www.nhl.com/standings/2021/division|title=NHL Hockey Standings|publisher=NHL Enterprises, L. P.|website=NHL.com|accessdate=June 6, 2022|archive-date=June 1, 2022|archive-url=https://web.archive.org/web/20220601071808/https://www.nhl.com/standings/2021/division|url-status=live}}</ref> Colorado swept the [[Nashville Predators]] in four games during the first round,<ref>{{cite web|url=https://www.nhl.com/news/colorado-avalanche-nashville-predators-game-4-recap/c-333659494|title=Avalanche rally past Predators in Game 4, sweep West First Round series|last=Glennon|first=John|publisher=NHL Enterprises, L. P.|date=May 9, 2022|website=NHL.com|accessdate=May 9, 2022|archive-date=May 10, 2022|archive-url=https://web.archive.org/web/20220510045329/https://www.nhl.com/news/colorado-avalanche-nashville-predators-game-4-recap/c-333659494|url-status=live}}</ref> then defeated the [[St. Louis Blues]] in six games during the second round,<ref>{{cite web|url=https://www.nhl.com/news/st-louis-blues-colorado-avalanche-game-6-recap/c-334128516|title=Helm, Avalanche rally in third, win Game 6 to eliminate Blues|last=Korac|first=Lou|publisher=NHL Enterprises, L. P.|date=May 27, 2022|website=NHL.com|accessdate=May 27, 2022|archive-date=May 28, 2022|archive-url=https://web.archive.org/web/20220528025907/https://www.nhl.com/news/st-louis-blues-colorado-avalanche-game-6-recap/c-334128516|url-status=live}}</ref> before sweeping the [[Edmonton Oilers]] in the Western Conference final.<ref>{{cite web|url=https://www.nhl.com/news/colorado-avalanche-edmonton-oilers-game-4-recap/c-334377712|title=Avalanche defeat Oilers in OT in Game 4, advance to Stanley Cup Final|last=Van Deist|first=Derek|publisher=NHL Enterprises, L. P.|date=June 6, 2022|website=NHL.com|accessdate=June 6, 2022|archive-date=June 7, 2022|archive-url=https://web.archive.org/web/20220607033125/https://www.nhl.com/news/colorado-avalanche-edmonton-oilers-game-4-recap/c-334377712|url-status=live}}</ref>
+
+== Game summaries ==
+:''Note: The numbers in parentheses represent each player's total goals or assists to that point of the entire playoffs.''
+
+===Game one===
+{{NHLPlayoffs
+|date1=June 15
+|team1=Colorado Avalanche
+|team2=Tampa Bay Lightning
+|homeright=yes
+|stadium1=[[Ball Arena]]
+|score1=3–4
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-1-recap/c-334377708
+}}
+[[File:Andre Burakovsky playing with the Avalanche vs Islanders on January 6, 2020 (Quintin Soloviev).jpg|thumb|right|upright=.8|[[André Burakovsky|Andre Burakovsky]] scored the overtime-winning goal in game one.]]
+In game one, the Avalanche controlled the first period scoring three times compared to the Lightning's one goal. Colorado's captain [[Gabriel Landeskog]] began the scoring, pushing the puck past Lightning goalie [[Andrei Vasilevskiy]] when [[Mikko Rantanen]]'s shot barely squeaked under the goaltender's pads.<ref>{{cite web|url=https://www.nhl.com/video/t-334593812/c-11971143|title=Landeskog jams home opening goal|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165257/https://www.nhl.com/video/t-334593812/c-11971143|url-status=live}}</ref> The next goal came when defenceman [[Victor Hedman]]'s clearing attempt got picked by [[Nathan MacKinnon]], whose pass to [[Valeri Nichushkin]] made it 2–0.<ref>{{cite web|url=https://www.nhl.com/video/nichushkin-doubles-early-lead/t-334593812/c-11971208|title=Nichushkin doubles early lead|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165256/https://www.nhl.com/video/nichushkin-doubles-early-lead/t-334593812/c-11971208|url-status=live}}</ref> The Lightning halved Colorado's lead when [[Brayden Point]]'s dump-in was retrieved by [[Nick Paul]] who broke in and dangled out Avalanche goaltender [[Darcy Kuemper]] to make 2–1.<ref>{{cite web|url=https://www.nhl.com/video/paul-grabs-puck-scores-in-alone/t-334593812/c-11971353|title=Paul grabs puck, scores in alone|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165258/https://www.nhl.com/video/paul-grabs-puck-scores-in-alone/t-334593812/c-11971353|url-status=live}}</ref> The Avalanche regained the two-goal lead five minutes later when Tampa was in a 5-on-3 penalty kill. MacKinnon's shot got blocked and on the rebound he passed back to Landeskog who set up Rantanen for a wrist shot that got tipped in by [[Artturi Lehkonen]].<ref>{{cite web|url=https://www.nhl.com/video/t-334593812/c-11971489|title=Lehkonen taps PPG in on backdoor|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165300/https://www.nhl.com/video/t-334593812/c-11971489|url-status=live}}</ref> In the second period, the Lightning got two goals to tie the game. [[Ondřej Palát|Ondrej Palat]] scored the first goal as he and [[Nikita Kucherov]] entered the zone with the latter going inside-out on [[Devon Toews]] to set up Palat for the tip-in.<ref>{{cite web|url=https://www.nhl.com/video/t-334593812/c-11972288|title=Palat cuts deficit to 1 in 2nd|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165258/https://www.nhl.com/video/t-334593812/c-11972288|url-status=live}}</ref> 48 seconds later, the Lightning continuing their offensive zone attack had a pass back to [[Mikhail Sergachev]] from [[Brandon Hagel]] whose shot through traffic went off the post and into the net.<ref>{{cite web|url=https://www.nhl.com/video/t-334593812/c-11972343|title=Sergachev ties it through traffic|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165257/https://www.nhl.com/video/t-334593812/c-11972343|url-status=live}}</ref> The third period did not have any scoring albeit the Avalanche firing 12 shots compared to the Lightning's 5 shots, thus the game went into overtime.<ref>{{cite web|url=https://www.nhl.com/gamecenter/col-vs-tbl/2022/06/15/2021030411|title=Tampa Bay Lightning – Colorado Avalanche – June 15th, 2022|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|access-date=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627035223/https://www.nhl.com/gamecenter/tbl-vs-col/2022/06/15/2021030411#game=2021030411,game_state=final|url-status=live}}</ref> In overtime, as the Lightning attempted to clear the zone, [[J. T. Compher]] picked up the loose puck and shot it, but it was blocked by a Lightning defenceman.<ref name="Burakovsky_OT">{{cite web|url=https://www.nhl.com/video/t-334593812/c-11973279|title=Burakovsky wins Game 1 in OT|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 27, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627165259/https://www.nhl.com/video/t-334593812/c-11973279|url-status=live}}</ref> The puck then came to Nichushkin who passed to [[André Burakovsky|Andre Burakovsky]] and he fired a snap shot past Vasilevskiy to give Colorado a 4–3 victory.<ref name="Burakovsky_OT"/><ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-1-recap/c-334377708|title=Avalanche use OT to defeat Lightning in Game 1 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 15, 2022|website=NHL.com|accessdate=June 16, 2022|archive-date=June 16, 2022|archive-url=https://web.archive.org/web/20220616033230/https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-1-recap/c-334377708|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="4"|'''1st'''
+|| COL
+|| [[Gabriel Landeskog]] (9)
+|| [[Mikko Rantanen]] (13), [[Bowen Byram]] (8)
+|| 07:47
+|| 1–0 COL
+|-style="text-align:center;"
+|| COL
+|| [[Valeri Nichushkin]] (6)
+|| [[Nathan MacKinnon]] (8)
+|| 09:23
+|| 2–0 COL
+|-style="text-align:center;"
+|| TBL
+|| [[Nick Paul]] (4)
+|| [[Victor Hedman]] (13), [[Brayden Point]] (3)
+|| 12:26
+|| 2–1 COL
+|-style="text-align:center;"
+|| COL
+|| [[Artturi Lehkonen]] (7) – ''pp''
+|| Mikko Rantanen (14), Gabriel Landeskog (10)
+|| 17:31
+|| 3–1 COL
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| TBL
+|| [[Ondřej Palát|Ondrej Palat]] (9)
+|| [[Nikita Kucherov]] (17), [[Ryan McDonagh]] (4)
+|| 12:51
+|| 3–2 COL
+|-style="text-align:center;"
+|| TBL
+|| [[Mikhail Sergachev]] (2)
+|| [[Brandon Hagel]] (4), [[Anthony Cirelli]] (5)
+|| 13:39
+|| 3–3
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="1"|'''OT'''
+|| COL
+|| [[André Burakovsky|Andre Burakovsky]] (2)
+|| Valeri Nichushkin (5), [[J. T. Compher]] (3)
+|| 01:23
+|| 4–3 COL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| COL
+|| [[Josh Manson]]
+|| Holding the stick
+|| 05:07
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Mikhail Sergachev
+|| Tripping
+|| 15:53
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Anthony Cirelli
+|| Tripping
+|| 16:20
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| TBL
+|| [[Patrick Maroon]]
+|| Roughing
+|| 03:41
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Jack Johnson (ice hockey)|Jack Johnson]]
+|| Roughing
+|| 03:41
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Bench (served by [[Alex Newhook]])
+|| Too many men on the ice
+|| 06:28
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| COL
+|| [[Logan O'Connor]]
+|| Tripping
+|| 05:48
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Patrick Maroon
+|| Delay of game (puck over glass)
+|| 18:36
+|| 2:00
+|- style="text-align:center;"
+||'''OT'''
+|colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 8 || 9 || 5 || 1 || 23
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} || 15 || 10 || 12 || 1 || 38
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=June 18
+|team1=Colorado Avalanche
+|team2=Tampa Bay Lightning
+|homeright=yes
+|stadium1=[[Ball Arena]]
+|score1=0–7
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-2-recap/c-334377116
+}}
+[[File:Cale Makar playing with the Avalanche in 2020 (Quintin Soloviev).jpg|thumb|right|upright=.8|[[Cale Makar]] scored a power-play goal and short-handed goal in game two.]]
+The Avalanche routed the Lightning in game two. In the first period, after Lightning defenceman [[Ryan McDonagh]] got penalized for roughing [[J. T. Compher]], a power-play ensued for Colorado. During it, [[André Burakovsky|Andre Burakovsky]] led a cross-ice pass to [[Valeri Nichushkin]]'s tip-in goal to give the Avalanche an early 1–0 lead. The Avalanche then grabbed a 2–0 lead when a 2-on-1 rush with [[Andrew Cogliano]] and [[Josh Manson]] led to the latter's wrist shot under [[Andrei Vasilevskiy]]'s blocker. Burakovsky then made it 3–0 when the Avalanche on an offensive zone rush had [[Mikko Rantanen]]'s shot rebound to Burakovsky for the quick tip-in. Burakovsky almost made it 4–0 when he was given a breakaway thanks to Rantanen's lead pass. In the second period, the Avalanche continued their offensive zone coverage allowing Rantanen to centre a pass to Nichushkin to make it 4–0. The Avalanche then made it 5–0 when the Lightning misplayed a pass leading [[Darren Helm]] and [[Logan O'Connor]] on a 2-on-1 break for which the former's wrist shot went over Vasilevskiy's glove. O'Connor was also given a breakaway chance to make it 6–0, but the Lightning goaltender stopped that. In the third period, as Rantanen was in the penalty box for tripping, the Lightning gave the puck away to [[Cale Makar]] who, with [[Andrew Cogliano]] on another 2-on-1, made it 6–0. [[Ondřej Palát|Ondrej Palat]] then got called for cross checking and on the ensuing power-play, [[Nathan MacKinnon]] made a pass to Rantanen, who quickly passed to Makar for his second goal of the evening to make 7–0. With frustrations boiling over for Tampa Bay, four of their players were called for roughing for which Colorado retaliated with their own roughing calls. However, the Avalanche claimed a 7–0 victory with [[Darcy Kuemper]] stopping the 16 shots he faced.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-2-recap/c-334377116|title=Avalanche score seven, shut out Lightning in Game 2 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 18, 2022|website=NHL.com|accessdate=June 19, 2022|archive-date=June 19, 2022|archive-url=https://web.archive.org/web/20220619031630/https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-2-recap/c-334377116|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="3"|'''1st'''
+|| COL
+|| [[Valeri Nichushkin]] (7) – ''pp''
+|| [[André Burakovsky|Andre Burakovsky]] (5), [[Alex Newhook]] (3)
+|| 02:54
+|| 1–0 COL
+|-style="text-align:center;"
+|| COL
+|| [[Josh Manson]] (3)
+|| [[Andrew Cogliano]] (2), Alex Newhook (4)
+|| 07:55
+|| 2–0 COL
+|-style="text-align:center;"
+|| COL
+|| Andre Burakovsky (3)
+|| [[Mikko Rantanen]] (15), [[Devon Toews]] (9)
+|| 13:52
+|| 3–0 COL
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| COL
+|| Valeri Nichushkin (8)
+|| Mikko Rantanen (16)
+|| 04:51
+|| 4–0 COL
+|-style="text-align:center;"
+|| COL
+|| [[Darren Helm]] (2)
+|| [[Logan O'Connor]] (3)
+|| 16:26
+|| 5–0 COL
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| COL
+|| [[Cale Makar]] (6) – ''sh''
+|| Andrew Cogliano (3)
+|| 02:04
+|| 6–0 COL
+|-style="text-align:center;"
+|| COL
+|| Cale Makar (7) – ''pp''
+|| Mikko Rantanen (17), [[Nathan MacKinnon]] (9)
+|| 09:49
+|| 7–0 COL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| TBL
+|| [[Ryan McDonagh]]
+|| Roughing
+|| 01:01
+|| 2:00
+|-style="text-align:center;"
+|| TBL
+|| [[Mikhail Sergachev]]
+|| Delay of game (puck over glass)
+|| 08:34
+|| 2:00
+|-style="text-align:center;"
+|| TBL
+|| [[Corey Perry]] 
+|| Roughing
+|| 16:12
+|| 2:00
+|-style="text-align:center;"
+|| COL
+|| [[Darcy Kuemper]] (Served by Alex Newhook)
+|| Holding the stick
+|| 16:12
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| COL
+|| [[Jack Johnson (ice hockey)|Jack Johnson]]
+|| Hooking
+|| 05:35
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Corey Perry (Served by [[Patrick Maroon]])
+|| Roughing
+|| 17:42
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Corey Perry
+|| Unsportsmanlike conduct
+|| 17:42
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[J. T. Compher]]
+|| Hooking
+|| 17:42
+|| 2:00
+|- style="text-align:center;"
+| rowspan="12"|'''3rd'''
+|| COL
+|| Mikko Rantanen
+|| Tripping
+|| 01:04
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Ondřej Palát|Ondrej Palat]]
+|| Cross-checking
+|| 08:19
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Valeri Nichushkin
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| COL
+|| [[Artturi Lehkonen]]
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| COL
+|| Darren Helm
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| TBL
+|| [[Anthony Cirelli]]
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| TBL
+|| [[Steven Stamkos]]
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| TBL
+|| [[Erik Černák|Erik Cernak]]
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| TBL
+|| [[Alex Killorn]]
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|- style="text-align:center;"
+|| COL
+|| Jack Johnson (Served by Alex Newhook)
+|| Unsportsmanlike conduct
+|| 15:38
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Jack Johnson
+|| Roughing – double minor
+|| 15:38
+|| 4:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} ||5 || 7 ||4 ||16 
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} || 11 || 12 ||7 || 30 
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=June 20
+|team1=Tampa Bay Lightning
+|team2=Colorado Avalanche
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=2–6
+|won1=1
+|recap1=www.nhl.com/gamecenter/col-vs-tbl/2022/06/20/2021030413
+}}
+[[File:Steve Stamkos - Tampa Bay Lightning.jpg|thumb|right|upright=.8|[[Steven Stamkos]] scored a goal and two points in game three.]]
+In game three, the Lightning showed more offence than their previous two games. However, the Avalanche began the scoring in the first period. After a coach's challenge revealed [[Valeri Nichushkin]]'s goal was offside, and then [[Ondřej Palát|Ondrej Palat]] got called for high-sticking, Colorado went on the power-play. During the power-play, [[Cale Makar]] set up [[Mikko Rantanen]] for a quick shot through traffic which pinballed off [[Andrei Vasilevskiy]] and [[Erik Černák|Erik Cernak]] for an easy tap-in for Avalanche captain [[Gabriel Landeskog]]. The Lightning tied the game less than five minutes later when the Avalanche gave the puck away to [[Anthony Cirelli]] who passed to [[Patrick Maroon]] and then back again to Cirelli who tried to deke out [[Darcy Kuemper]] except his mishandling of the puck went five-hole through Kuemper. The Lightning then gained the lead for the first time in this series after [[Devon Toews]] fanned on a pass leading to a breakout of Tampa Bay. Palat and [[Nikita Kucherov]] went down the ice, with [[Steven Stamkos]] trailing. Palat passed back to Stamkos who set up Palat again for a snap shot that went past Kuemper for a 2–1 lead. In the second period, the Lightning outscored the Avalanche, four goals to one. The first goal came off a turn-over from Colorado's [[Josh Manson]] who gave the puck to [[Victor Hedman]] setting up an open [[Nick Paul]] for a 3–1 lead. However, the Avalanche minimized the Lightning's lead to one goal, when on the power-play, Rantanen and Makar set up Landeskog's snap shot goal. Tampa Bay regained their two-goal lead when Kucherov and Stamkos lead the offensive zone rush with Kucherov back-handing a pass to an open Stamkos for a quick wrist shot. Patrick Maroon made it 5–2 deking out the defencemen with his shot rolling up Kuemper's blocker to the top of the net. [[Corey Perry]] made it 6–2 when the Lightning were on the power-play, tipping in a shot by Palat that went over Kuemper. Although the third period had no goals scored, both teams leveled their frustration at each other with both [[Logan O'Connor]] and [[Ross Colton]] fighting and Patrick Maroon and [[Andrew Cogliano]] both squaring off after the whistle resulting in misconducts.<ref>{{cite web|url=https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-3-recap/c-334377710|title=Lightning bounce back, pull away from Avalanche in Game 3 of Final|last=Gulitti|first=Tom|publisher=NHL Enterprises, L. P.|date=June 20, 2022|website=NHL.com|accessdate=June 21, 2022|archive-date=June 21, 2022|archive-url=https://web.archive.org/web/20220621033258/https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-3-recap/c-334377710|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="3"|'''1st'''
+|| COL
+|| [[Gabriel Landeskog]] (10) – ''pp''
+|| [[Mikko Rantanen]] (18), [[Cale Makar]] (18)
+|| 08:19
+|| 1–0 COL
+|-style="text-align:center;"
+|| TBL
+|| [[Anthony Cirelli]] (2)
+|| [[Patrick Maroon]] (2)
+|| 13:03
+|| 1–1
+|-style="text-align:center;"
+|| TBL
+|| [[Ondřej Palát|Ondrej Palat]] (10)
+|| [[Steven Stamkos]] (7)
+|| 14:54
+|| 2–1 TBL
+|-style="text-align:center;"
+| rowspan="5"|'''2nd'''
+|| TBL
+|| [[Nick Paul]] (5)
+|| [[Ross Colton]] (4)
+|| 01:26
+|| 3–1 TBL
+|-style="text-align:center;"
+|| COL
+|| Gabriel Landeskog (11)
+|| Cale Makar (19), Mikko Rantanen (19)
+|| 04:43
+|| 3–2 TBL
+|-style="text-align:center;"
+|| TBL
+|| Steven Stamkos (10)
+|| [[Nikita Kucherov]] (18), [[Zach Bogosian]] (3)
+|| 07:52
+|| 4–2 TBL
+|-style="text-align:center;"
+|| TBL
+|| Patrick Maroon (4)
+|| Nikita Kucherov (19), [[Victor Hedman]] (14)
+|| 11:15
+|| 5–2 TBL
+|-style="text-align:center;"
+|| TBL
+|| [[Corey Perry]] (6) – ''pp''
+|| Ondrej Palat (9), Victor Hedman (15)
+|| 14:58
+|| 6–2 TBL
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"| ''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| COL
+|| [[J. T. Compher]]
+|| Interference
+|| 05:50
+|| 2:00
+|-style="text-align:center;"
+|| TBL
+|| Ondrej Palat
+|| High-sticking
+|| 07:09
+|| 2:00
+|-style="text-align:center;"
+|| COL
+|| [[Alex Newhook]]
+|| Holding the stick
+|| 10:54
+|| 2:00
+|-style="text-align:center;"
+| rowspan="7"|'''2nd'''
+|| TBL
+|| Ross Colton
+|| Hooking
+|| 04:03
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Patrick Maroon
+|| Roughing
+|| 08:50
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Josh Manson]]
+|| Roughing
+|| 08:50
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Nico Sturm]]
+|| Delay of game (puck over glass)
+|| 14:22
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Alex Killorn]]
+|| Slashing
+|| 15:45
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Andrew Cogliano]]
+|| Roughing
+|| 19:43
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Mikhail Sergachev]]
+|| Roughing
+|| 19:43
+|| 2:00
+|- style="text-align:center;"
+| rowspan="8"|'''3rd'''
+|| COL
+|| Andrew Cogliano
+|| Unsportsmanlike conduct
+|| 12:03
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Devon Toews]]
+|| Cross-checking
+|| 13:38
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Bench (served by Corey Perry)
+|| Too many men on the ice
+|| 14:40
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Logan O'Connor]]
+|| Fighting – major
+|| 17:48
+|| 5:00
+|- style="text-align:center;"
+|| COL
+|| Andrew Cogliano (Served by [[Nicolas Aubé-Kubel|Nicolas Aube-Kubel]])
+|| Slashing
+|| 17:48
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Patrick Maroon
+|| Misconduct
+|| 17:48
+|| 10:00
+|- style="text-align:center;"
+|| COL
+|| Andrew Cogliano
+|| Misconduct
+|| 17:48
+|| 10:00
+|- style="text-align:center;"
+|| TBL
+|| Ross Colton
+|| Fighting – major
+|| 17:48
+|| 5:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} ||14 ||13 ||12 ||39
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} ||12 ||15 ||6 ||33
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=June 22
+|team1=Tampa Bay Lightning
+|team2=Colorado Avalanche
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=3–2
+|ot1=1
+|won1=2
+|recap1=www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-4-recap/c-334547836
+}}
+[[File:Nazem Kadri Marlies.jpg|thumb|right|upright=.8|[[Nazem Kadri]], shown with the [[Toronto Marlies]] in 2012, returned to the Avalanche lineup and scored the overtime-winning goal in game four.]]
+In game four, the Lightning and Avalanche traded off periods where one team dominated the shot clock. The first period saw Tampa Bay fire 17 shots compared to Colorado's four shots. The third shot for the Lightning 36 seconds into the game gave Tampa Bay their first goal when [[Erik Černák|Erik Cernak]]'s shot bounced off of goaltender [[Darcy Kuemper]] to [[Anthony Cirelli]] who fired it into the net. Although Kuemper's mask had come off during the play, it was still ruled a goal due to the continuation of the puck. In the second period, the Avalanche poured off 17 shots compared to the Lightning's seven shots. Both teams ended up scoring this period. Colorado got the equalizer on the power-play when [[Nathan MacKinnon]] passed to [[Mikko Rantanen]] who passed to the front of the net and MacKinnon redirected the puck in with his skate. Tampa Bay regained the lead as defenceman [[Victor Hedman]] led the rush into the offensive zone, slipping by the defenders, and backhanding a shot over Kuemper for 2–1 advantage. However, as the teams switched on shots again, this time with Tampa Bay shooting ten times compared to Colorado's six, the Avalanche tied the game. As the Avalanche were working the point, [[Darren Helm]] shot at [[Andrei Vasilevskiy]] and the rebound went to [[Nico Sturm]] whose shot deflected off of [[Andrew Cogliano]] and into the net. With the game tied at two goals apiece, the game went into overtime. In overtime, Kuemper flipped the puck ahead to [[Artturi Lehkonen]] who passed to a speeding [[Nazem Kadri]] who got the shot through Vasilevskiy and into the top part of the net. The goal gave Colorado a 3–2 victory and a chance to win the series in Game 5 in Colorado.<ref>{{cite web|url=https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-4-recap/c-334547836|title=Avalanche top Lightning in OT in Game 4, extend Stanley Cup Final lead|last=Gulitti|first=Tom|publisher=NHL Enterprises, L. P.|date=June 22, 2022|website=NHL.com|accessdate=June 22, 2022|archive-date=June 23, 2022|archive-url=https://web.archive.org/web/20220623034814/https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-4-recap/c-334547836|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="1"|'''1st'''
+|| TBL
+|| [[Anthony Cirelli]] (3)
+|| [[Erik Černák|Erik Cernak]] (1)
+|| 00:36
+|| 1–0 TBL
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| COL
+|| [[Nathan MacKinnon]] (12) – ''pp''
+|| [[Mikko Rantanen]] (20), [[Cale Makar]] (20)
+|| 05:17
+|| 1–1
+|-style="text-align:center;"
+|| TBL
+|| [[Victor Hedman]] (3)
+|| [[Jan Rutta]] (4)
+|| 10:42
+|| 2–1 TBL
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| COL
+|| [[Andrew Cogliano]] (3)
+|| [[Nico Sturm]] (2), [[Darren Helm]] (3)
+|| 02:53
+|| 2–2
+|-style="text-align:center;"
+| rowspan="1"|'''OT'''
+|| COL
+|| [[Nazem Kadri]] (7)
+|| [[Artturi Lehkonen]] (6), [[Darcy Kuemper]] (1)
+|| 12:02
+|| 3–2 COL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| COL
+|| Darren Helm
+|| Interference
+|| 16:57
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| TBL
+|| Victor Hedman
+|| Interference
+|| 03:57
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Bowen Byram]]
+|| Hooking
+|| 06:12
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Steven Stamkos]]
+|| Hooking
+|| 11:48
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| rowspan="1"|'''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} ||4 ||17 ||6 ||10 ||37
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} ||17 ||9 ||10 ||3 ||39
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=June 24
+|team1=Colorado Avalanche
+|team2=Tampa Bay Lightning
+|homeright=yes
+|stadium1=[[Ball Arena]]
+|score1=3–2
+|won1=2
+|recap1=www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-5-recap/c-334579708
+}}
+[[File:Ondrej Palat - Tampa Bay Lightning.jpg|thumb|right|upright=.8|[[Ondřej Palát|Ondrej Palat]] scored the game-winning goal in game five.]]
+With a potential Stanley Cup victory in Colorado for the Avalanche in game five, the Lightning tried to hold on to extend the series. The first period saw both teams relatively even in shots with Colorado holding a one-shot advantage. However, Tampa Bay began the scoring as [[Mikhail Sergachev]] cleared the defensive zone forwarding a pass to [[Corey Perry]] with a cross-ice pass to [[Jan Rutta]] whose slap shot found its way past [[Darcy Kuemper]] for a 1–0 lead. The second period held a different story as the Avalanche held a stronger advantage in shots and managed to tie the game, prior to Tampa Bay's proceeding goal. The Avalanche, upon winning a faceoff, had [[Nathan MacKinnon]] pass to [[Cale Makar]] who shot the puck at [[Andrei Vasilevskiy]] but the rebound bounced to [[Valeri Nichushkin]] for an easy tap-in goal. [[Nikita Kucherov]] put the Lightning up 2–1 on a 4-on-3 power-play as his one-timer through traffic found its way above Kuemper's blocker to the back of the net. Much like in game four, the Avalanche tied the game in the third period. Once Colorado was able to enter the offensive zone, they set up Makar for a wrist shot through traffic that deflected off of Vasilevskiy, rebounding to [[Erik Černák|Erik Cernak's]] skate and pinballing through Vasilevskiy and into the net. However, the Lightning reobtained the lead with less than seven minutes left, as the Lightning worked the offensive zone, eventually leading to an [[Ondřej Palát|Ondrej Palat]] one-timer that got past Kuemper for a 3–2 advantage. The Avalanche continued to press the Lightning. However, Tampa Bay held off any late attempts to win the game 3–2 and force a sixth game.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-5-recap/c-334579708|title=Lightning edge Avalanche in Game 5, extend Stanley Cup Final|last=Gulitti|first=Tom|publisher=NHL Enterprises, L. P.|date=June 24, 2022|website=NHL.com|accessdate=June 24, 2022|archive-date=June 25, 2022|archive-url=https://web.archive.org/web/20220625032928/https://www.nhl.com/news/tampa-bay-lightning-colorado-avalanche-game-5-recap/c-334579708|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="1"|'''1st'''
+|| TBL
+|| [[Jan Rutta]] (1)
+|| [[Corey Perry]] (4), [[Mikhail Sergachev]] (7)
+|| 15:23
+|| 1–0 TBL
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| COL
+|| [[Valeri Nichushkin]] (9)
+|| [[Cale Makar]] (21), [[Nathan MacKinnon]] (10)
+|| 05:07
+|| 1–1
+|-style="text-align:center;"
+|| TBL
+|| [[Nikita Kucherov]] (8) – ''pp''
+|| [[Steven Stamkos]] (8), Corey Perry (5)
+|| 08:10
+|| 2–1 TBL
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| COL
+|| Cale Makar (8)
+|| [[Devon Toews]] (10), Valeri Nichushkin (6)
+|| 02:31
+|| 2–2
+|-style="text-align:center;"
+|| TBL
+|| [[Ondřej Palát|Ondrej Palat]] (11)
+|| [[Victor Hedman]] (16), Mikhail Sergachev (8)
+|| 13:38
+|| 3–2 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| COL
+|| [[J. T. Compher]]
+|| High-sticking
+|| 03:13
+|| 2:00
+|-style="text-align:center;"
+|| COL
+|| [[Nazem Kadri]]
+|| Hooking
+|| 06:58
+|| 2:00
+|-style="text-align:center;"
+|| TBL
+|| Steven Stamkos
+|| Interference
+|| 11:17
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| TBL
+|| [[Alex Killorn]]
+|| Holding
+|| 06:27
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| J. T. Compher
+|| Holding the stick
+|| 06:27
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Cale Makar
+|| Tripping
+|| 06:58
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Ross Colton]]
+|| High-sticking
+|| 16:17
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| COL
+|| Bench (served by [[Alex Newhook]])
+|| Too many men on the ice
+|| 17:17
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} ||11 ||8 ||10 ||29
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} ||12 ||14 ||11 ||37
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1=June 26
+|team1=Tampa Bay Lightning
+|team2=Colorado Avalanche
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=2–1
+|won1=2
+|recap1=www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-6-recap/c-334578586
+}}
+[[File:Artturi Lehkonen - 51707626360 (cropped).jpg|thumb|right|upright=.8|[[Artturi Lehkonen]], shown with Montreal, scored the Stanley Cup-clinching goal in game six.]]
+Back in Tampa for game six, the Lightning struck first during the first period. As the Lightning were working the forecheck, a giveaway by [[Cale Makar]] brought an errant deflection to [[Steven Stamkos]] who put it five-hole through [[Darcy Kuemper]]. The Avalanche managed to tie the game in the second period during their offensive zone coverage which led to a delayed penalty on Tampa Bay. On the delayed penalty, [[Nathan MacKinnon]]'s shot from the short side beat [[Andrei Vasilevskiy]]. Colorado then gained the lead when a 3–on–2 involving [[Josh Manson]], MacKinnon, and [[Artturi Lehkonen]] resulted in a wrist shot by the latter to go up 2–1. With the lead the Avalanche continued to shoot at the Lightning goaltender while also maintaining defence. The Avalanche held on to claim a 2–1 victory to win their third Stanley Cup.<ref>{{cite web|url=https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-6-recap/c-334578586|title=Avalanche edge Lightning in Game 6, win Cup for first time since 2001|last=Gulitti|first=Tom|publisher=NHL Enterprises, L. P.|date=June 26, 2022|website=NHL.com|accessdate=June 26, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627030813/https://www.nhl.com/news/colorado-avalanche-tampa-bay-lightning-game-6-recap/c-334578586|url-status=live}}</ref>
+
+Cale Makar was awarded the [[Conn Smythe Trophy]] as [[most valuable player]] during the playoffs. He became the third defenceman to win the [[James Norris Memorial Trophy|Norris Trophy]], Conn Smythe Trophy and Stanley Cup in the same year; equalling [[Bobby Orr]] and [[Nicklas Lidström|Nicklas Lidstrom]] in accomplishing this feat.<ref>{{cite web|url=https://www.nhl.com/news/avalanche-makar-wins-conn-smythe-trophy/c-334744850?tid=334128040|title=Makar wins Conn Smythe Trophy as playoff MVP for Avalanche|author=Benjamin, Amalie|publisher=NHL Enterprises, L. P.|date=June 26, 2022|website=NHL.com|accessdate=June 26, 2022|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627032313/https://www.nhl.com/news/avalanche-makar-wins-conn-smythe-trophy/c-334744850?tid=334128040|url-status=live}}</ref> [[Corey Perry]] became the first player in league history to be on the losing side of three consecutive Final series, while playing for three different teams.<ref name=CoreyPerry/>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="1"|'''1st'''
+|| TBL
+|| [[Steven Stamkos]] (11)
+|| [[Ondřej Palát|Ondrej Palat]] (10)
+|| 03:48
+|| 1–0 TBL
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| COL
+|| [[Nathan MacKinnon]] (13)
+|| [[Bowen Byram]] (9), [[Gabriel Landeskog]] (11)
+|| 01:54
+|| 1–1
+|-style="text-align:center;"
+|| COL
+|| [[Artturi Lehkonen]] (8)
+|| Nathan MacKinnon (11), [[Josh Manson]] (5)
+|| 12:28
+|| 2–1 COL
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|-style="text-align:center;"
+|colspan="5"|''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| COL
+|| [[Cale Makar]]
+|| Interference
+|| 00:23
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| TBL
+|| [[Ryan McDonagh]]
+|| Boarding
+|| 14:53
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|COL}} ||8 ||13 ||9 ||30
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} ||10 ||9 ||4 ||23
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Tampa Bay Lightning===
+[[File:Steve Stamkos - Tampa Bay Lightning.jpg|right|thumb|250px|[[Steven Stamkos]] captained the Lightning to their third-straight Final appearance, fourth since [[2015 Stanley Cup Final|2015]] and fifth overall in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Barre-Boulet|Alex Barré-Boulet}}
+| C
+| L
+| {{hs|25–022}}25
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Montmagny, Quebec]]
+| second {{small|('''[[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''41'''
+| {{flagicon|FRA}}
+! scope="row" style="text-align:left;"|{{sortname|Pierre-Edouard|Bellemare|Pierre-Édouard Bellemare}}
+| C
+| L
+| {{hs|37–110}}37
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Le Blanc-Mesnil|Le Blanc-Mesnil, France]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}
+|-
+| '''24'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Bogosian}}
+| D
+| R
+| {{hs|31–332}}31
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Massena, New York]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''81'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Cernak|Erik Černák}}
+| D
+| L
+| {{hs|25–014}}25
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[Košice|Košice, Slovakia]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Cirelli}}
+| C
+| L
+| {{hs|24–332}}24
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Woodbridge, Ontario]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''79'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ross|Colton}}
+| C
+| L
+| {{hs|25–246}}25
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Robbinsville Township, New Jersey|Robbinsville, New Jersey]]
+| second {{small|('''[[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Elliott}}
+| G
+| L
+| {{hs|37–063}}37
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Newmarket, Ontario]]
+| first
+|-
+| '''52'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Callan|Foote}}
+| D
+| R
+| {{hs|23–184}}23
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Englewood, Colorado]]
+| second {{small|('''[[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''38'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Hagel}}
+| LW
+| L
+| {{hs|23–203}}23
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''77'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Victor|Hedman}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|31–275}}31
+| [[2009 NHL Entry Draft|2009]]
+| style="text-align:left;"|[[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Killorn}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|32–273}}32
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''86'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Nikita|Kucherov}}
+| RW
+| L
+| {{hs|28–360}}28
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Maykop|Maykop, Russia]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Maroon}}
+| LW
+| L
+| {{hs|34–049}}34
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[St. Louis|St. Louis, Missouri]]
+| fourth {{small|('''[[2019 Stanley Cup Final|2019]]'''}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|McDonagh}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|32–364}}32
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| fourth {{small|([[2014 Stanley Cup Final|2014]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Riley|Nash}}
+| C
+| R
+| {{hs|33–034}}33
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Consort, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Ondrej|Palat|Ondřej Palát}}
+| LW
+| L
+| {{hs|31–075}}31
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Frýdek-Místek|Frýdek-Místek, Czechoslovakia]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Paul}}
+| LW
+| L
+| {{hs|27–085}}27
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Perry}}
+| RW
+| R
+| {{hs|37–027}}37
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[New Liskeard, Ontario]]
+| fourth {{small|('''[[2007 Stanley Cup Final|2007]]''', [[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]])}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|Point}}
+| C
+| R
+| {{hs|26–091}}26
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''93'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Richard}}
+| C
+| L
+| {{hs|25–177}}25
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Trois-Rivières|Trois-Rivières, Quebec]]
+| first
+|-
+| '''44'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jan|Rutta}}
+| D
+| R
+| {{hs|31–313}}31
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Písek|Písek, Czechoslovakia]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''98'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Mikhail|Sergachev}}
+| D
+| L
+| {{hs|23–352}}23
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Nizhnekamsk|Nizhnekamsk, Russia]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Stamkos}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{hs|32–127}}32
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|-
+| '''88'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Andrei|Vasilevskiy}}
+| G
+| L
+| {{hs|27–321}}27
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Tyumen|Tyumen, Russia]]
+| fourth {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]]''')}}
+|}
+
+===Colorado Avalanche===
+[[File:Gabriel Landeskog - Colorado Avalanche.jpg|right|thumb|250px|[[Gabriel Landeskog]] captained the Avalanche to their third Final appearance in franchise history and first since [[2001 Stanley Cup Final|2001]].]]
+
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''60'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Justus|Annunen}}
+| G
+| L
+| {{hs|22-086}}22
+| [[2018 NHL Entry Draft|2018]]
+| style="text-align:left;"|[[Kempele|Kempele, Finland]]
+| first 
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nicolas|Aube-Kubel|Nicolas Aubé-Kubel}}
+| RW
+| R
+| {{hs|26–027}}26
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Slave Lake, Alberta]]
+| first
+|-
+| '''95'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Andre|Burakovsky|André Burakovsky}}
+| LW
+| L
+| {{hs|27–118}}27
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Klagenfurt|Klagenfurt, Austria]]
+| second {{small|('''[[2018 Stanley Cup Final|2018]]''')}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bowen|Byram}}
+| D
+| L
+| {{hs|21–001}}21
+| [[2019 NHL Entry Draft|2019]]
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andrew|Cogliano}}
+| C/LW
+| L
+| {{hs|34–358}}34
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|([[2020 Stanley Cup Final|2020]])}}
+|-
+| '''37'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|J. T.|Compher}}
+| C
+| R
+| {{hs|27–059}}27
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Northbrook, Illinois]]
+| first
+|-
+| '''39'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Pavel|Francouz}}
+| G
+| R
+| {{hs|32–004}}32
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| first
+|-
+| '''49'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Girard}}
+| D
+| L
+| {{hs|24–025}}24
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Roberval, Quebec]]
+| first
+|-
+| '''43'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darren|Helm}}
+| C
+| L
+| {{hs|35–136}}35
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Rural Municipality of St. Andrews|St. Andrews, Manitoba]]
+| third {{small|('''[[2008 Stanley Cup Final|2008]]''', [[2009 Stanley Cup Final|2009]])}}
+|-
+| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Johnson}}
+| D
+| R
+| {{hs|34–076}}34
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"|[[Bloomington, Minnesota]]
+| first
+|-
+| '''3'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jack|Johnson|dab=ice hockey}}
+| D
+| L
+| {{hs|35–144}}35
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Indianapolis|Indianapolis, Indiana]]
+| first
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nazem|Kadri}}
+| C
+| L
+| {{hs|31–246}}31
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darcy|Kuemper}}
+| G
+| L
+| {{hs|32–032}}32
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''92'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Gabriel|Landeskog}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| L
+| {{hs|29–199}}29
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''62'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Artturi|Lehkonen}}
+| LW
+| L
+| {{hs|26–339}}26
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Piikkiö|Piikkiö, Finland]]
+| second {{small|([[2021 Stanley Cup Final|2021]])}}
+|-
+| '''56'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kurtis|MacDermid}}
+| D
+| L
+| {{hs|28–072}}28
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nathan|MacKinnon}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|26–278}}26
+| [[2013 NHL Entry Draft|2013]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cale|Makar}}
+| D
+| R
+| {{hs|23–173}}23
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''42'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Josh|Manson}}
+| D
+| R
+| {{hs|30–215}}30
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Hinsdale, Illinois]]
+| first
+|-
+| '''59'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Meyers}}
+| C
+| L
+| {{hs|23–215}}23
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Delano, Minnesota]]
+| first
+|-
+| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"| {{sortname|Hunter|Miska}}
+| G
+| L
+| {{hs|26–335}}26
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Stacy, Minnesota]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Murray}}
+| D
+| L
+| {{hs|28–225}}28
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Regina, Saskatchewan]]
+| first {{small|(did not play)}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Newhook}}
+| C
+| L
+| {{hs|21–129}}21
+| [[2019 NHL Entry Draft|2019]]
+| style="text-align:left;"|[[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]]
+| first
+|-
+| '''13'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Valeri|Nichushkin}}
+| RW
+| L
+| {{hs|27–093}}27
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Chelyabinsk|Chelyabinsk, Russia]]
+| first 
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Logan|O'Connor}}
+| RW
+| R
+| {{hs|25–067}}25
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Missouri City, Texas]]
+| first 
+|-
+| '''96'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Mikko|Rantanen}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| L
+| {{hs|25–193}}25
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Nousiainen|Nousiainen, Finland]]
+| first
+|-
+| '''78'''
+| {{flagicon|GER}}
+! scope="row" style="text-align:left;"|{{sortname|Nico|Sturm}}
+| C
+| L
+| {{hs|27–034}}27
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Augsburg|Augsburg, Germany]]
+| first
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Devon|Toews}}
+| D
+| L
+| {{hs|28–106}}28
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Abbotsford, British Columbia]]
+| first
+|}
+
+==Stanley Cup engraving==
+
+The Stanley Cup was presented to Avalanche captain Gabriel Landeskog by NHL deputy commissioner [[Bill Daly]] following the Avalanche's 2–1 win in Game 6.<ref>{{cite web|url=https://www.tsn.ca/daly-hands-stanley-cup-to-avalanche-in-bettman-s-absence-1.1818076|title=Daly hands Stanley Cup to Avalanche in Bettman's absence|publisher=Bell Media|date=June 27, 2022|website=TSN.ca|accessdate=October 29, 2022}}</ref>
+
+This is a list of 52 names that were engraved on the Stanley Cup in 2022:<ref>{{cite web|url=https://records.nhl.com/playoff-summary/stanley-cup-winner?season=20212022|title=2021-22 Colorado Avalanche|publisher=NHL Enterprises, L.P.|website=records.NHL.com|accessdate=October 29, 2022}}</ref>
+
+'''2021–22 Colorado Avalanche'''
+{{Stanley Cup champion
+|defence=
+*3 [[Jack Johnson (ice hockey)|Jack Johnson]]
+*4 [[Bowen Byram]]
+*6 [[Erik Johnson]]
+*7 [[Devon Toews]]
+*8 [[Cale Makar]]
+*28 [[Ryan Murray]] ‡
+*42 [[Josh Manson]]
+*49 [[Sam Girard]]
+*56 [[Kurtis MacDermid]] †
+|wingers=
+*13 [[Valeri Nichushkin]]
+*16 [[Nicolas Aubé-Kubel|Nicolas Aube-Kubel]]
+*25 [[Logan O'Connor]]
+*62 [[Artturi Lehkonen]]
+*92 [[Gabriel Landeskog]] (Captain)
+*95 [[André Burakovsky|Andre Burakovsky]]
+*96 [[Mikko Rantanen]] (A)
+|centres=
+*11 [[Andrew Cogliano]]*
+*18 [[Alex Newhook]]*
+*29 [[Nathan MacKinnon]] (A)
+*37 [[J. T. Compher]]*
+*43 [[Darren Helm]]*
+*78 [[Nico Sturm]]
+*91 [[Nazem Kadri]]
+|goaltenders=
+*35 [[Darcy Kuemper]]
+*39 [[Pavel Francouz]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play in Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of the Stanley Cup winning team's regular season games.}}
+|non-players=
+* [[E. Stanley Kroenke]] (Chairman/Owner), [[Josh Kroenke]] (President/Vice Chairman/Governor/Minority Owner), [[Joe Sakic]] (Exe Vice President/Alt. Governor/General Manager), 
+* [[Craig Billington]] (Asst. General Manager/AHL General Manager), [[Chris MacFarland]] (Asst. General Manager), [[Jared Bednar]] (Head Coach)
+* [[Ray Bennett]] (Asst. Coach), [[Nolan Pratt]] (Asst. Coach), Jussi Parkkila (Goaltending Coach), Brett Heimlich (Video Coach) 
+* Shawn Allard (Skills Coach), Brendan McNicholas (Vice President, Media & Players Relations), Matt Sokolowski (Athletic Trainer)
+* Scott Woodward (Director of Rehabilitation), Donovan Delarosbil (Asst. Athletic Trainer), J.C. Ihrig (Equipment Manager), Donny White (Asst. Equipment Manager)
+* Brad Lewkow (Asst. Equipment Manager), Casey Bond (Strength & Conditioning Coach), Yevgeniy Haletskiy (Massage Therapist)
+* Wade Klippenstein (Director of Amateur Scouting), Brian Willsie (Director of Player Development), Brad Smith (Director, Reserve List Scouting), Garth Joy (Sr. Pro Scout)
+* Terry Martin (Pro Scout), [[Miroslav Zálešák|Miroslav Zalesak]] (Pro Scout, Europe), Dan Laperriere (Pro Scout)}}
+===Engraving Notes===
+* #28 [[Ryan Murray]] (D) played in 37 regular season games, but did not dress in the playoffs. He had missed 39 games in the regular season due to injuries. As he did not automatically qualify,{{efn|name=qualify}} Murray was given an exemption for spending the entire season on the Avalanche roster.
+* [[Charlotte Grahame]] (Vice President of Hockey Administration) and [[Curtis Leschyshyn]] (Pro Scout) had their names left off the Cup so two other pro scouts would have their names engraved for the first time; Grahame was previously included when Colorado won the Cup in [[2001 Stanley Cup Final|2001]], while Leschyshyn won the Cup with the Avalanche as a player in [[1996 Stanley Cup Final|1996]]. Ten more amateur scouts, two development coaches, and more team executives and club staff were left off the Cup due the 52-name limit; all received championship rings.
+
+===Left off the Stanley Cup===
+* Eleven players that were on the roster were left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} None of them played in the playoffs. They received championship rings, but were left off the Stanley Cup engraving. Colorado did not request an exemption to engrave any of their names.<ref>[https://www.nhl.com/scores/htmlreports/20212022/RO030416.HTM Playing Roster]</ref>
+
+;Included in team picture
+* #12 [[Jayson Megna]] (C) – 20 regular season games
+* #26 [[Jacob MacDonald]] (D) – 8 regular season games
+* #60 [[Justus Annunen]] (G) – 2 regular season games, dressed for 3 playoff games
+
+;Not in team picture
+* #11-#57 [[Mikhail Maltsev]]{{efn|name=maltsevnumber|[[Mikhail Maltsev]] wore #11 when he played in regular season games for Colorado. After being sent to the minors mid-season, [[Andrew Cogliano]] took #11 after being traded to Colorado. Maltsev was later recalled for the playoffs. As Maltsev did not play in the playoffs and is not in the team picture, it is unclear if he was assigned a new number.}} (LW) – 18 regular season games
+* #9 [[Dylan Sikura]] (C) – 5 regular season games
+* #61 [[Martin Kaut]] (RW) – 6 regular season games
+* #67 [[Keaton Middleton]] (D) – 0 regular season games, 49 games with [[Colorado Eagles|Colorado]] of the [[American Hockey League]] (AHL)
+* #93 [[Jean-Luc Foudy]] (C) – 0 regular season games, 65 games with Colorado of the AHL
+* #10 [[Roland McKeown]] (D) – 0 regular season games, 61 games with Colorado of the AHL
+* #32 [[Hunter Miska]] (G) – 0 regular season games, 17 games with Colorado of the AHL
+* #50 [[Trent Miner]] (G) – 0 regular season games, 5 games with Colorado of the AHL
+
+==Media rights==
+In Canada, this was the eighth consecutive Stanley Cup Final broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]], and [[TVA Sports]] in [[French language|French]]. The series was also streamed on Sportsnet Now and Rogers NHL Live.<ref name="SportsnetRound4" /><ref>{{cite web |last=Rosen |first=Dan |date=November 26, 2013 |title=NHL, Rogers announce landmark 12-year deal |url=https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152 |url-status=live |archive-url=https://web.archive.org/web/20190620135912/https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152 |archive-date=June 20, 2019 |access-date=June 8, 2021 |website=NHL.com |publisher=NHL Enterprises, L. P.}}</ref> Some stations in Sportsnet's sibling broadcast network [[Citytv]] also simulcast ABC's coverage of the deciding Game 6 for [[simultaneous substitution]] purposes, similarly to how Canadian networks handled the [[2019 NBA Finals#Media coverage|2019 NBA Finals]].<ref>{{cite tweet|number=1541227953614381057|user=fagstein|title=Citytv is rebroadcasting the U.S. feed of the Stanley Cup Final. Gotta secure that simsub $$!|date=June 26, 2022|first=Steve|last=Faguy}}</ref><ref>{{cite tweet|number=1541230783582670848|user=AHBSeaborn|title=Canadians can watch the ESPN/ABC feed on CityTV for game 6 of the SCF tonight[.] Why? So Rogers can secure all the 'sim-sub' audience and ad dollars|date=June 26, 2022|first=Adam|last=Seaborn}}</ref><!-- please feel free to replace with better source if/when available -->
+
+In the United States, the series was televised on [[NHL on ABC|ABC]] and streamed on [[ESPN+]].<ref name="ESPNRound4" /> This was the first year of a seven-year deal in which ABC broadcasts the Final in even years, alternating with [[NHL on TNT|TNT]].<ref>{{Cite web |last=Bucholtz |first=Andrew |date=May 2, 2022 |title=First NHL playoffs under ESPN/Turner deal has all games set for big networks despite NBA |url=https://awfulannouncing.com/nhl/first-nhl-playoffs-espn-turner-big-networks-overflow.html |access-date=May 3, 2022 |website=Awful Announcing |archive-date=May 2, 2022 |archive-url=https://web.archive.org/web/20220502222022/https://awfulannouncing.com/nhl/first-nhl-playoffs-espn-turner-big-networks-overflow.html |url-status=live }}</ref><ref name=":1">{{Cite web |last=Shapiro |first=Sean |title=NHL Playoffs: Where and how to watch on TV and streaming platforms in the U.S. |url=https://www.nytimes.com/athletic/3281530/2022/05/02/nhl-playoffs-viewing-guide-where-and-how-to-watch-playoff-hockey-on-tv-and-streaming-platforms-in-the-u-s/ |access-date=May 3, 2022 |website=TheAthletic.com |publisher=The Athletic Media Company |language=en |date=May 2, 2022 |archive-date=May 3, 2022 |archive-url=https://web.archive.org/web/20220503002814/https://theathletic.com/3281530/2022/05/02/nhl-playoffs-viewing-guide-where-and-how-to-watch-playoff-hockey-on-tv-and-streaming-platforms-in-the-u-s/ |url-status=live }}</ref> This was thus ABC's first Final since [[2004 Stanley Cup Final|2004]]. With the entire series on ABC, 2022 was the first time that the Final series were carried in their entirety on broadcast television since [[1980 Stanley Cup Final|1980]] (under ABC/ESPN's previous contract, the series was split between the two networks. And under the previous broadcast deal with [[NHL on NBC|NBC]], coverage of the series was also split with two games exclusive to [[NBCSN]]).<ref>{{cite news |author=Rachel Shuster |date=March 29, 1989 |title='American Sportsman' makes strong comeback |page=3C |newspaper=USA Today |publisher=Gannett Company}}</ref><ref>{{cite news |date=May 22, 1980 |title=The Nati League's golden opportunity lo showcase Ms Stanley Cup final game on network television might be canceled because one team is too good. |newspaper=The Gettysburg Times |url=https://www.newspapers.com/newspage/45975174/ |access-date=May 26, 2022 |archive-date=May 28, 2022 |archive-url=https://web.archive.org/web/20220528035905/https://www.newspapers.com/newspage/45975174/ |url-status=live }}</ref> ABC's coverage drew the Final's highest average viewership since 2019, with 4.6 million viewers.<ref>{{Cite web |date=2022-06-28 |title=2022 NHL Stanley Cup Final averages 4.6 million viewers on ABC, best since 2019 |url=https://awfulannouncing.com/nhl/2022-nhl-stanley-cup-final-averages-4-6-million-viewers-on-abc-best-since-2019.html |access-date=2022-06-29 |website=Awful Announcing|author=Lucia, Joe}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nhl.com/stanley-cup-playoffs/2022/avalanche-vs-lightning-series-o 2022 Stanley Cup Final at NHL.com]
+
+{{s-start}}
+{{succession box | before = [[2021 Stanley Cup Final|Tampa Bay Lightning<br />2021]] | title = [[List of Stanley Cup champions|Colorado Avalanche<br />Stanley Cup champions]] | years = 2022 | after = [[2023 Stanley Cup Final|Vegas Golden Knights<br />2023]]}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Navboxes|list1=
+{{Colorado Avalanche}}
+{{Tampa Bay Lightning}}
+{{2021–22 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Sportsnet}}
+{{NHL on ABC}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2022 Stanley Cup| ]]
+[[Category:2021–22 NHL season|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:June 2022 sports events in the United States|Stanley Cup Final]]
+[[Category:Colorado Avalanche games]]
+[[Category:2022 in sports in Colorado|Stanley Cup Final]]
+[[Category:2022 in Denver]]
+[[Category:Tampa Bay Lightning games]]
+[[Category:2022 in sports in Florida|Stanley Cup Final]]
+[[Category:2020s in Tampa, Florida]]
+[[Category:Ice hockey competitions in Tampa, Florida]]
+[[Category:Ice hockey competitions in Denver]]

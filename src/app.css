@@ -1,0 +1,497 @@
+/* ============================================================================
+   app.css - all of the app's global styles.
+
+   The colour THEMES (as [data-theme] CSS-variable blocks), the top-bar controls (pills, toggles,
+   swatches, the search box) and their phone accordion layout, the two tooltips (the rich
+   node card - floating on desktop, a docked bottom sheet on touch - and the small button tooltip),
+   and the canvas stage. The graph inside the canvas is painted in JS (render.ts); everything styled
+   here is the chrome around it.
+   ============================================================================ */
+
+/* ---------- typeface: Inter (variable, Latin subset) embedded as base64 at build → self-contained & offline ----------
+   Inter by Rasmus Andersson - SIL Open Font License 1.1. Vendored as src/fonts/inter-latin.woff2 (wght axis, 48 KB). */
+@font-face{
+  font-family:'Inter';
+  font-style:normal;
+  font-weight:100 900;          /* one variable file covers every weight */
+  font-display:swap;
+  src:url('./fonts/inter-latin.woff2') format('woff2');
+}
+
+/* visually-hidden text: present in the DOM for screen readers and crawlers, invisible on screen.
+   Used by the build-time SEO/accessibility block injected beside #app (see vite.config.ts). */
+.sr-only{ position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden;
+  clip:rect(0,0,0,0); clip-path:inset(50%); white-space:nowrap; border:0 }
+
+/* ---------- themes (swap via [data-theme] on <html>) ---------- */
+/* :root holds a plain dark fallback (Catppuccin-derived, no longer a selectable theme) for the
+   instant before [data-theme] applies; the app's DEFAULT_THEME (theme.ts) is Solarized Light. */
+/* --muted values are each palette's secondary tone, nudged just enough toward the ink to clear
+   WCAG AA 4.5:1 against --bg (the originals ranged 2.5-4:1 in most of the six themes).
+   --focus is the keyboard focus-ring colour: the accent, except on the light themes where the
+   pale accents measured 1.7-2.3:1 (nearly invisible rings) - those override it below. */
+:root{ /* unnamed dark fallback */
+  --bg:#1e1e2e; --panel:rgba(24,24,37,0.64); --panel-border:rgba(205,214,244,0.18);
+  --ink:#cdd6f4; --muted:#9399b2; --accent:#f9e2af; --focus:var(--accent);
+}
+[data-theme="nord"]{ /* calm arctic, cool & muted */
+  --bg:#2e3440; --panel:rgba(59,66,82,0.64); --panel-border:rgba(216,222,233,0.18);
+  --ink:#d8dee9; --muted:#939cac; --accent:#88c0d0;
+}
+[data-theme="gruvbox"]{ /* warm, retro, low blue-light; canonical gruvbox ORANGE, not its yellow -
+  the picker had four amber accents and this one separates the family */
+  --bg:#282828; --panel:rgba(29,32,33,0.62); --panel-border:rgba(235,219,178,0.16);
+  --ink:#ebdbb2; --muted:#a89984; --accent:#fe8019;
+}
+[data-theme="solarized"]{ /* engineered low-contrast */
+  --bg:#002b36; --panel:rgba(7,54,66,0.64); --panel-border:rgba(147,161,161,0.2);
+  --ink:#93a1a1; --muted:#7e9097; --accent:#b58900;
+}
+[data-theme="amoled"]{ /* true black; amber accent - the old blue collided with the cut-mode blue */
+  --bg:#000000; --panel:rgba(0,0,0,0.6); --panel-border:rgba(255,255,255,0.16);
+  --ink:#f1f4f9; --muted:#8b93a3; --accent:#ffb454;
+}
+
+/* control-surface tokens - white tints suit the dark themes above; the light themes below
+   override them with dark tints so pills / inputs stay visible on a light background. */
+:root{ --chip:rgba(255,255,255,.05); --chip-hi:rgba(255,255,255,.10); --chip-brd:rgba(255,255,255,.24); --field:rgba(0,0,0,.18) }
+
+[data-theme="latte"]{ /* Catppuccin Latte - soft, warm light */
+  --bg:#eff1f5; --panel:rgba(220,224,232,0.72); --panel-border:rgba(76,79,105,0.22);
+  --ink:#4c4f69; --muted:#6a6d82; --accent:#df8e1d; --focus:#0b63c5;
+  --chip:rgba(0,0,0,.05); --chip-hi:rgba(0,0,0,.09); --chip-brd:rgba(0,0,0,.28); --field:rgba(0,0,0,.05);
+}
+[data-theme="solarized-light"]{ /* Solarized Light - warm cream, low-contrast */
+  --bg:#fdf6e3; --panel:rgba(238,232,213,0.72); --panel-border:rgba(88,110,117,0.26);
+  --ink:#586e75; --muted:#687272; --accent:#8ecae6; --focus:#0b63c5;
+  --chip:rgba(0,0,0,.05); --chip-hi:rgba(0,0,0,.08); --chip-brd:rgba(101,123,131,.4); --field:rgba(0,0,0,.045);
+}
+*{ box-sizing:border-box }
+/* overscroll-behavior: without it Android Chrome still arms pull-to-refresh on downward swipes
+   over the control bar (the canvas is covered by touch-action:none) and a refresh wipes the view */
+html,body{ margin:0; height:100%; background:var(--bg); color:var(--ink); overflow:hidden; overscroll-behavior:none;
+  font-family:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; text-rendering:optimizeLegibility;
+  -webkit-text-size-adjust:100%; font-feature-settings:'cv05' 1; } /* cv05 = l-with-tail, sharper l/I/1 at small sizes */
+#app{ position:fixed; inset:0; display:flex; flex-direction:column }
+.app{ flex:1 1 auto; display:flex; flex-direction:column; min-height:0 }
+canvas{ display:block; cursor:grab;
+  /* hand touch gestures to d3-zoom (pan / pinch) instead of the browser, and kill text-select + tap flash */
+  touch-action:none; -webkit-user-select:none; user-select:none; -webkit-tap-highlight-color:transparent }
+canvas.grabbing{ cursor:grabbing }
+
+/* ---------- persistent top bar ---------- */
+.topbar{ flex:0 0 auto; display:flex; flex-wrap:wrap; align-items:center; gap:6px 9px;
+  padding:6px 12px; background:var(--panel); border-bottom:1px solid var(--panel-border);
+  z-index:10; backdrop-filter:blur(18px) saturate(150%); -webkit-backdrop-filter:blur(18px) saturate(150%);
+  box-shadow:0 6px 24px rgba(0,0,0,.26), inset 0 1px 0 rgba(255,255,255,.06) }
+.topbar .divider{ width:1px; align-self:stretch; min-height:24px; background:var(--panel-border) }
+.topbar .grp{ display:flex; flex-wrap:wrap; align-items:center; gap:5px }
+
+.tb-search{ width:168px; height:35px; padding:0 10px; border-radius:8px; border:1px solid var(--panel-border);
+  background:var(--field); color:var(--ink); font-size:12.5px; outline:none }
+.tb-search:focus{ border-color:var(--accent) }
+/* search results dropdown */
+.tb-searchwrap{ position:relative; display:flex }
+/* opaque surface: a solid --bg underlay with the translucent --panel tint layered on top - the
+   72%-alpha panel alone let the control chips bleed through the results and hurt readability */
+.tb-results{ position:absolute; top:calc(100% + 5px); left:0; z-index:30; width:248px; max-height:320px; overflow-y:auto;
+  background-color:var(--bg); background-image:linear-gradient(var(--panel), var(--panel));
+  border:1px solid var(--panel-border); border-radius:10px; padding:4px;
+  box-shadow:0 14px 36px rgba(0,0,0,.42) }
+.tb-result{ display:flex; align-items:stretch; width:100%; border-radius:6px }
+.tb-result:hover, .tb-result.active{ background:var(--chip-hi) } /* .active = arrow-key highlight */
+.tb-result .r-main{ flex:1 1 auto; min-width:0; display:flex; flex-direction:column; align-items:flex-start;
+  gap:1px; padding:5px 9px; border:0; border-radius:6px; background:transparent; color:var(--ink);
+  cursor:pointer; text-align:left }
+.tb-result .r-label{ font-size:12.5px; font-weight:600; max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
+.tb-result .r-sub{ font-size:10.5px; color:var(--muted) }
+/* the "Six Degrees" connector: arms the search box to link this item to the next pick */
+.r-deg{ flex:0 0 auto; align-self:center; margin-right:4px; padding:4px 8px; border-radius:6px;
+  border:1px solid var(--panel-border); background:transparent; color:var(--muted);
+  font-size:11px; font-weight:700; line-height:1; cursor:pointer; font-variant-numeric:tabular-nums }
+.r-deg:hover{ background:var(--chip-hi); color:var(--ink); border-color:var(--chip-brd) }
+/* connect-mode banner pinned above the results */
+.tb-connect{ padding:6px 9px 7px; margin-bottom:3px; border-bottom:1px solid var(--panel-border);
+  font-size:11px; color:var(--muted) }
+.tb-connect b{ color:var(--ink) }
+/* Stories - the curated views offered while the search box is focused but empty */
+.st-head{ padding:4px 9px 2px; font-size:10px; font-weight:700; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--muted) }
+.tb-story{ display:flex; flex-direction:column; align-items:flex-start; gap:1px; width:100%;
+  padding:5px 9px; border:0; border-radius:6px; background:transparent; color:var(--ink);
+  cursor:pointer; text-align:left }
+.tb-story:hover{ background:var(--chip-hi) }
+.tb-story .s-title{ font-size:12.5px; font-weight:600 }
+.tb-noresults{ padding:12px 10px; font-size:12px; color:var(--muted); text-align:center }
+.tb-story .s-blurb{ font-size:10.5px; color:var(--muted) }
+/* matches the current view hides: greyed, with an italic why/when note underneath - picking one
+   still selects it and the graph shows the standard everything-faded "not in this view" state */
+.tb-result.dim .r-label, .tb-result.dim .r-sub{ opacity:.5 }
+.tb-result .r-note{ font-size:10px; color:var(--muted); font-style:italic }
+
+.pill{ font-size:11px; padding:4px 9px; border-radius:6px; border:1px solid var(--panel-border);
+  background:var(--chip); color:var(--ink); cursor:pointer; white-space:nowrap }
+.pill:hover{ background:var(--chip-hi) }
+.pill.on{ background:var(--accent); color:#1a1405; border-color:var(--accent) } /* no weight change → same width, no reflow on select */
+.pill.pos{ display:inline-flex; align-items:center; font-variant-numeric:tabular-nums }
+/* filled with the position's node colour when shown - same on/off model as the 2+ pill (accent fill) */
+.pill.pos.on{ background:var(--c); border-color:var(--c) }
+
+/* Multi-Cup pill: the Stanley Cup silhouette (inherits the pill's text colour) + "2+" */
+.pill.multi{ display:inline-flex; align-items:center; gap:5px; font-variant-numeric:tabular-nums }
+.pill.multi .cupicon{ width:6px; height:13px; display:block; flex:0 0 auto }
+
+/* 2×2 block: Multi-Cup + F/D/G, reads [2+ G] / [F D]. 16px rows + 3px gap = 35px (matches From/To). */
+.topbar .posgrid{ display:grid; grid-template-columns:auto auto; gap:3px }
+.topbar .posgrid .pill{ justify-content:center; height:16px; padding:0 9px }
+
+/* era pills: squared, two rows - name over year-range */
+.pill.era{ display:inline-flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:1px; line-height:1.15; padding:4px 10px; border-radius:6px; min-width:58px }
+.pill.era .en{ font-size:11px }
+.pill.era .ey{ font-size:10px; opacity:.82; font-variant-numeric:tabular-nums }
+
+/* two compact stacked year boxes whose combined height matches one era pill (~16px each + 3px gap) */
+.topbar .years{ font-size:11px; color:var(--muted); flex-direction:column; align-items:flex-start; gap:3px }
+.topbar .years input{ width:40px; height:16px; padding:0 5px; border-radius:6px; border:1px solid var(--panel-border);
+  background:var(--field); color:var(--ink); font-size:11px; font-variant-numeric:tabular-nums; text-align:center; outline:none }
+.topbar .years input:focus{ border-color:var(--accent) }
+/* no spinner arrows - these take a typed year only */
+.topbar .years input::-webkit-outer-spin-button,
+.topbar .years input::-webkit-inner-spin-button{ -webkit-appearance:none; margin:0 }
+.topbar .years input[type=number]{ -moz-appearance:textfield; appearance:textfield }
+
+.seg{ display:flex; border:1px solid var(--panel-border); border-radius:6px; overflow:hidden;
+  background:var(--chip) }
+.seg button{ padding:5px 11px; background:transparent; color:var(--ink); border:0;
+  border-left:1px solid var(--panel-border); font-size:11px; cursor:pointer }
+.seg button:first-child{ border-left:0 }
+.seg button.on{ background:var(--accent); color:#1a1405 } /* no weight change → segment width stays constant */
+.seg button:not(.on):hover{ background:var(--chip-hi) }
+
+/* Position/Dynasty over Network/Timeline - stacked, same width; 16px rows + 3px gap = 35px (matches From/To) */
+.segstack{ display:flex; flex-direction:column; gap:3px }
+.segstack .seg{ height:16px }
+.segstack .seg button{ flex:1; padding:0 11px; display:flex; align-items:center; justify-content:center }
+
+.reset,.ghost{ padding:6px 13px; border-radius:8px; border:1px solid var(--panel-border);
+  background:var(--chip); color:var(--ink); font-size:12px; font-weight:600; cursor:pointer }
+/* the hide (chevron-up) button; the GitHub link (.ghlink) carries margin-left:auto and right-pins this pair */
+.ghost.icon{ padding:5px 9px; line-height:1; display:flex; align-items:center; justify-content:center }
+.ghost.icon svg{ width:16px; height:16px; display:block }
+.reset:hover,.ghost:hover{ background:var(--chip-hi) }
+
+/* the action grid beside search - [fit][link][undo] over [reset][cut][redo] (2×16px + 3px = 35px) */
+.iconstack{ display:grid; grid-template-columns:auto auto auto; gap:3px }
+.iconbtn{ width:30px; height:16px; padding:0; display:flex; align-items:center; justify-content:center;
+  border-radius:6px; border:1px solid var(--panel-border); background:var(--chip); color:var(--ink); cursor:pointer }
+.iconbtn:hover:not(:disabled){ background:var(--chip-hi); border-color:var(--chip-brd) }
+.iconbtn svg{ width:12px; height:12px; display:block }
+/* cut (scissors): a fixed strong blue while active - a MODE indicator, deliberately distinct
+   from the accent that ordinary filter pills use, and readable on all six themes. The :hover
+   variant keeps the blue from being masked by the generic hover tint right after clicking. */
+.iconbtn.on, .iconbtn.on:hover:not(:disabled){ background:#2f80e0; color:#fff; border-color:#2f80e0 }
+.iconbtn:disabled{ opacity:.4; cursor:default }
+/* the "way out" hint: when cut-mode swallows a background misclick, the scissors pulses twice */
+@keyframes cutpulse{
+  0%{ box-shadow:0 0 0 0 rgba(47,128,224,.65); transform:scale(1) }
+  45%{ box-shadow:0 0 0 9px rgba(47,128,224,0); transform:scale(1.14) }
+  100%{ box-shadow:0 0 0 0 rgba(47,128,224,0); transform:scale(1) }
+}
+.iconbtn.pulse, .showchrome.pulse{ animation:cutpulse .55s ease-out 2 }
+@media (prefers-reduced-motion: reduce){ .iconbtn.pulse, .showchrome.pulse{ animation:none } }
+
+/* the From/To block IS the active era "pill" whenever the selection is one custom range that
+   matches no preset (typing a year collapses to exactly that) - filled like a selected pill so
+   it's obvious what's driving the view */
+.topbar .years.on input{ background:var(--accent); border-color:var(--accent); color:#1a1405 }
+
+/* theme picker - a 2×3 grid of swatch buttons, each showing that theme's background colour (its
+   actual canvas tone; AMOLED reads black) with a lowered diagonal accent corner so the dark tones
+   stay distinguishable. 2 rows (16px + 3px gap = 35px) match the era-pill / From-To block height. */
+.themegrid{ display:grid; grid-template-columns:repeat(3, 1fr); gap:3px }
+.swatch{ position:relative; overflow:hidden; width:24px; height:16px; padding:0; border-radius:6px;
+  border:1px solid var(--panel-border); background:var(--sw-bg); cursor:pointer;
+  box-shadow:inset 0 1px 2px rgba(0,0,0,.25) }
+/* secondary (accent) = a diagonal triangle in the bottom-right, lowered to ~30% of the area
+   (legs at 77.5% → the split line sits below the 50/50 corner-to-corner diagonal) */
+.swatch::after{ content:''; position:absolute; inset:0; background:var(--sw-acc);
+  clip-path:polygon(100% 22.5%, 100% 100%, 22.5% 100%) }
+.swatch:hover{ border-color:var(--chip-brd) }
+/* selected: a thin bright ink ring around the (dark) swatch */
+.swatch.on{ z-index:1; border-color:transparent; box-shadow:0 0 0 1px var(--ink) }
+
+/* ---------- minimalist polish: smooth colour transitions + a subtle hover border + accessible focus rings ---------- */
+.pill, .seg button, .reset, .ghost, .iconbtn, .swatch, .showchrome, .tb-search, .topbar .years input{
+  transition: background-color .14s ease, border-color .14s ease, color .12s ease, opacity .14s ease;
+}
+.pill:not(.on):hover, .reset:hover, .ghost:hover{ border-color:var(--chip-brd) }
+/* accessible keyboard-only focus rings (--focus, not --accent: the light themes' pale accents
+   measured 1.7-2.3:1 against their backgrounds - an effectively invisible ring) */
+.pill:focus-visible, .seg button:focus-visible, .reset:focus-visible, .ghost:focus-visible, .iconbtn:focus-visible,
+.swatch:focus-visible, .showchrome:focus-visible, .tb-search:focus-visible, .topbar .years input:focus-visible{
+  outline:2px solid var(--focus); outline-offset:2px;
+}
+
+/* mobile-only elements are hidden on desktop; on desktop the two wrappers collapse via
+   display:contents so the bar stays the exact flex row it has always been. The phone grid layout
+   itself is the @media block at the very END of this file, placed after the base rules so its
+   overrides win on source order without any specificity fights. */
+.ylab{ display:none }              /* visible From/To labels (phone menu only) */
+.ybox{ display:contents }          /* the labelled year-field boxes exist only on phones */
+.iconbtn .cap{ display:none }      /* icon captions (phone menu only) */
+.msec-h{ display:none }            /* submenu header rows (phone accordion only) */
+.tb-actions, .themewrap, .msec, .msec-b{ display:contents }
+
+/* ---------- stage (canvas fills the area below the bar) ---------- */
+.stage{ flex:1 1 auto; position:relative; min-height:0 }
+.stage canvas{ position:absolute; inset:0; width:100%; height:100% }
+.emptyera{ position:absolute; inset:0; display:flex; flex-direction:column; align-items:center;
+  justify-content:center; gap:7px; pointer-events:none; text-align:center }
+/* transient top-centre notice (e.g. the outcome of a six-degrees connect) */
+.flashbar{ position:absolute; top:12px; left:50%; transform:translateX(-50%); z-index:14;
+  max-width:min(92%, 560px); padding:7px 14px; border-radius:999px; pointer-events:none;
+  background:var(--panel); border:1px solid var(--panel-border); color:var(--ink); font-size:12.5px;
+  text-align:center; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  backdrop-filter:blur(14px) saturate(150%); -webkit-backdrop-filter:blur(14px) saturate(150%);
+  box-shadow:0 8px 24px rgba(0,0,0,.25); animation:panelin .16s ease }
+@media (prefers-reduced-motion: reduce){ .flashbar{ animation:none } }
+.emptyera .big{ font-size:19px; font-weight:700; color:var(--ink); opacity:.85 }
+.emptyera .small{ font-size:13px; color:var(--muted) }
+
+/* floating button to restore the top bar when it's collapsed for a full-screen graph */
+/* restore button: identical box to the hide button (.ghost.icon), pinned to the same top-right
+   spot, with a light blur so it stays legible over the canvas */
+.showchrome{ position:absolute; top:10px; right:12px; z-index:15;
+  padding:5px 9px; border-radius:8px; border:1px solid var(--panel-border); background:var(--chip);
+  color:var(--ink); font-weight:600; line-height:1; cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+  backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px) }
+.showchrome svg{ width:16px; height:16px; display:block }
+.showchrome:hover{ background:var(--chip-hi) }
+
+/* Playback transport ("A Brief History of Stanley") - docks top-right of the stage, and the
+   user can grab it anywhere that isn't a button (the dotted grip signals this) and drag it
+   wherever it blocks the least. The top bar (and the floating restore button) leave while the
+   show runs, so this is the only chrome. */
+.playbar{ position:absolute; top:calc(10px + env(safe-area-inset-top)); right:calc(12px + env(safe-area-inset-right));
+  z-index:15; display:flex; align-items:center; gap:4px; flex-wrap:wrap; justify-content:center;
+  max-width:calc(100% - 24px); /* with the top bar gone the stage reaches under the notch (viewport-fit=cover), so the transport gets the same safe-area offsets as .showchrome; the cap + wrap keep every control reachable on 320px-class screens */
+  padding:5px 7px; border-radius:10px; background:var(--panel); border:1px solid var(--panel-border);
+  backdrop-filter:blur(14px) saturate(150%); -webkit-backdrop-filter:blur(14px) saturate(150%);
+  box-shadow:0 8px 24px rgba(0,0,0,.22); cursor:grab; touch-action:none; user-select:none; -webkit-user-select:none }
+.playbar.dragging{ cursor:grabbing }
+.pb-grip{ width:10px; height:16px; flex:none; color:var(--muted) }
+.pb-year{ min-width:46px; text-align:center; font-size:14px; font-weight:700;
+  font-variant-numeric:tabular-nums; color:var(--ink) }
+.pb-btn{ width:34px; height:30px; display:flex; align-items:center; justify-content:center; padding:0;
+  border-radius:7px; border:1px solid var(--panel-border); background:var(--chip); color:var(--ink); cursor:pointer }
+.pb-btn:hover{ background:var(--chip-hi) }
+.pb-btn svg{ width:15px; height:15px; display:block }
+.pb-speed{ font-size:12px; font-weight:700; min-width:38px }
+/* the jump button carries its destination year, so it sizes to its text (compound selector so
+   the coarse-pointer width below can't clamp it) */
+.pb-btn.pb-jump{ width:auto; padding:0 8px; gap:4px; font-size:11.5px; font-weight:700 }
+.pb-btn.pb-jump svg{ width:11px; height:11px }
+@media (pointer: coarse){
+  .pb-btn{ width:42px; height:38px }
+  .playbar{ gap:5px }
+}
+
+/* GitHub source link - sits in the top bar, just left of the minimize button; carries the
+   margin-left:auto that right-pins the pair. Official GitHub mark; colour follows the theme ink. */
+.topbar .ghlink{ margin-left:auto; display:flex; align-items:center; padding:4px 7px; border-radius:8px;
+  text-decoration:none; color:var(--muted); transition:color .15s ease, background .15s ease }
+.topbar .ghlink:hover{ color:var(--ink); background:var(--chip-hi) }
+.topbar .ghlink svg{ width:18px; height:18px; display:block }
+
+.tip{ position:fixed; z-index:20; pointer-events:none; max-width:300px; background:var(--panel);
+  border:1px solid var(--panel-border); border-radius:12px; padding:10px 12px; font-size:12.5px;
+  backdrop-filter:blur(20px) saturate(160%); -webkit-backdrop-filter:blur(20px) saturate(160%);
+  box-shadow:0 16px 44px rgba(0,0,0,.5), inset 0 1px 0 rgba(255,255,255,.1); line-height:1.45 }
+/* touch devices: the node card docks as a bottom SHEET inside the stage instead of floating at
+   the tap point (it landed under the finger and hopped with every tap). Opaque bg+panel stack,
+   scrollable for long Cup lists, interactive for the close button; the canvas above stays live. */
+.tip.docked{ position:absolute; left:8px; right:8px; top:auto; bottom:calc(8px + env(safe-area-inset-bottom));
+  max-width:none; max-height:38vh; overflow-y:auto; overscroll-behavior:contain; pointer-events:auto;
+  background-color:var(--bg); background-image:linear-gradient(var(--panel), var(--panel));
+  padding-right:46px }
+.tip-close{ position:absolute; top:6px; right:6px; width:38px; height:38px; padding:0;
+  display:flex; align-items:center; justify-content:center; border-radius:8px;
+  border:1px solid var(--panel-border); background:var(--chip); color:var(--muted);
+  font-size:15px; line-height:1; cursor:pointer }
+.tip-close:hover{ background:var(--chip-hi); color:var(--ink) }
+/* the sheet's cut-mode edit action: taps only inspect, this button does the mutating.
+   "Add" wears the cut blue; "Remove" stays a neutral chip. */
+.tip-act{ display:flex; align-items:center; justify-content:center; width:100%; height:38px;
+  margin-top:9px; border-radius:8px; border:1px solid var(--panel-border);
+  background:var(--chip); color:var(--ink); font-size:12.5px; font-weight:600; cursor:pointer }
+.tip-act.add{ background:#2f80e0; border-color:#2f80e0; color:#fff }
+.tip .t-name{ font-weight:700; font-size:13.5px; margin-bottom:3px }
+.tip .t-sub{ color:var(--muted); font-size:11.5px; margin-bottom:6px }
+.tip .t-cup{ display:flex; align-items:center; gap:7px; margin:2px 0 }
+.tip .sw{ width:9px; height:9px; border-radius:2px; flex:0 0 auto }
+.tip .cs-icon{ width:10px; height:14px; flex:0 0 auto; color:#c0c4cc } /* Conn Smythe Trophy silhouette (silver, fixed across themes) */
+/* captain marker - a jersey-style block "C" glyph (drawn, so it's font-independent); white on the dark
+   themes, dark grey on the light themes below (white would vanish on a light tooltip) */
+.tip .cap-c{ width:13px; height:13px; flex:0 0 auto; color:#fff }
+/* light themes: silver like the Conn Smythe icon beside it, one shade darker so it still reads
+   on the cream card (the trophy's #c0c4cc would wash out) */
+[data-theme="latte"] .tip .cap-c,
+[data-theme="solarized-light"] .tip .cap-c{ color:#a8adb8 }
+
+/* control tooltip (use:tip) - a snappier, 100ms replacement for the browser's native `title` */
+.uitip{ position:fixed; z-index:30; pointer-events:none; max-width:240px; font-size:12px; line-height:1.35;
+  color:var(--ink); background:var(--panel); border:1px solid var(--panel-border); border-radius:8px;
+  padding:5px 9px; backdrop-filter:blur(16px) saturate(160%); -webkit-backdrop-filter:blur(16px) saturate(160%);
+  box-shadow:0 8px 24px rgba(0,0,0,.4); opacity:0; transform:translateY(-3px);
+  transition:opacity .09s ease, transform .09s ease }
+.uitip.on{ opacity:1; transform:none }
+
+/* appear transitions: the search dropdown, submenu bodies, and the bottom sheet slide in
+   briefly instead of popping (on desktop .msec-b is display:contents, so the rule is inert there) */
+@keyframes panelin{ from{ opacity:0; transform:translateY(-4px) } }
+@keyframes sheetin{ from{ opacity:0; transform:translateY(14px) } }
+.tb-results{ animation:panelin .14s ease }
+.msec.mopen .msec-b{ animation:panelin .16s ease }
+.tip.docked{ animation:sheetin .18s ease }
+@media (prefers-reduced-motion: reduce){ .tb-results, .msec.mopen .msec-b, .tip.docked{ animation:none } }
+
+/* ---------- touch ergonomics for ANY width: tablets and landscape phones ----------
+   The dense grid below keys on width<=640px, but an iPad or a landscape iPhone is 667-1180px wide
+   and would otherwise get the desktop bar's hover-sized 16px controls (guideline minimum ~44px)
+   and a 12.5px search input that triggers iOS's focus auto-zoom. Coarse-pointer devices keep the
+   desktop flex-row LAYOUT here, just with finger-sized controls; the <=640px grid (source-order
+   later) still wins on phones in portrait. */
+@media (pointer: coarse) {
+  .tb-search{ width:220px; height:46px; font-size:16px } /* wider box for finger typing; 16px stops iOS Safari zooming in on focus */
+  .r-deg{ padding:10px 12px; font-size:13px; margin-right:6px }
+  .topbar .years input{ height:30px; font-size:16px; width:64px } /* 40px clipped 4-digit years at 16px */
+  .topbar .posgrid .pill{ height:30px; font-size:12px }
+  .segstack .seg{ height:30px }
+  .seg button{ font-size:12px }
+  .iconbtn{ width:52px }
+  .swatch{ width:34px; height:30px }
+  .pill.era{ min-height:63px; padding:6px 12px }
+  .pill.era .en{ font-size:12px } .pill.era .ey{ font-size:11px }
+  .ghost.icon{ padding:12px 13px; font-size:16px }
+  .topbar .ghlink svg{ width:22px; height:22px }
+}
+
+/* touch-ish tier shared by BOTH branches above and below: coarse-pointer devices of any width
+   (tablets, landscape phones) and narrow windows. Captioned 44px icon buttons - tooltips don't
+   exist on touch and the scissors is the app's most novel control - and the solid, thumb-sized
+   restore button over the full-screen graph. */
+@media (pointer: coarse), (max-width: 640px) {
+  .iconbtn{ height:44px; flex-direction:column; gap:1px }
+  .iconbtn svg{ width:15px; height:15px }
+  .iconbtn .cap{ display:block; font-size:9px; font-weight:600; line-height:1; letter-spacing:.03em }
+  .ghost.icon{ padding:8px 10px }
+  .ghost.icon svg, .showchrome svg{ width:22px; height:22px }
+  .showchrome{ top:calc(10px + env(safe-area-inset-top)); right:calc(12px + env(safe-area-inset-right));
+    width:44px; height:44px; padding:0; background:var(--accent); color:#1a1405;
+    border-color:var(--accent); box-shadow:0 4px 14px rgba(0,0,0,.28) }
+}
+
+/* ---------- mobile / touch: a compact accordion menu ----------
+   The old always-on 5-row grid ate 31% of a Pixel 7 and 46% of a small phone. The bar now keeps
+   every submenu collapsed to a summary header (search row + three headers + the action row),
+   the era pills keep their full names, the toggles their full words, the years visible labels,
+   the icons captions, and the theme strip sits inline. The ▴ hide button (bottom-right) hands
+   the whole screen to the graph. Placed last so these overrides beat the base rules above on
+   source order. */
+@media (max-width: 640px) {
+  /*   search  search  search  search       the search row
+       hthe    hfil    hfil    hera         ONE row of submenu headers: Theme, Filters (double: longest summary), Eras
+       mbody   mbody   mbody   mbody        the open submenu's body - all three share this row
+       icons   icons   icons   hide         fit·link·reset·cut·undo·redo + hide, bottom-RIGHT (thumb reach) */
+  .topbar{
+    display:grid; gap:6px; align-items:stretch;
+    grid-template-columns:repeat(4, minmax(0, 1fr));
+    grid-template-areas:
+      "search search search search"
+      "hthe   hfil   hfil   hera"
+      "mbody  mbody  mbody  mbody"
+      "icons  icons  icons  hide";
+    padding:calc(6px + env(safe-area-inset-top)) calc(10px + env(safe-area-inset-right)) 8px calc(10px + env(safe-area-inset-left));
+  }
+  .topbar .divider{ display:none }
+
+  /* search row */
+  .tb-searchwrap{ grid-area:search }
+  .tb-search{ width:100%; height:44px; font-size:16px } /* 16px stops iOS Safari zooming in on focus */
+  .tb-results{ width:100% }
+  .tb-actions{ display:contents } /* the theme submenu and hide place themselves; GitHub stays desktop-only */
+  .topbar .ghlink{ display:none }
+  .ghost.icon{ grid-area:hide; width:auto; height:44px; padding:0 }
+  .ghost.icon svg{ width:22px; height:22px }
+
+  /* accordion submenus: the three headers share ONE row (compact two-line buttons: title over a
+     live summary); the wrappers stay display:contents so headers and bodies land in their own
+     grid areas - every body maps to the same full-width mbody row, and at most one is open */
+  .msec-eras .msec-h{ grid-area:hera }
+  .msec-filt .msec-h{ grid-area:hfil }
+  .themewrap .msec-h{ grid-area:hthe }
+  .msec-b{ grid-area:mbody }
+  .msec-h{ display:grid; grid-template-columns:auto auto; justify-content:center; align-content:center;
+    column-gap:5px; row-gap:2px; width:100%; height:48px; padding:0 6px;
+    border-radius:6px; border:1px solid var(--panel-border); background:var(--chip); color:var(--ink);
+    cursor:pointer; min-width:0 }
+  .msec-h .mh-t{ grid-row:1; grid-column:1; font-weight:700; font-size:12px }
+  .msec-h .mh-c{ grid-row:1; grid-column:2; align-self:center; width:15px; height:15px;
+    color:var(--muted); transition:transform .15s ease }
+  .msec-h .mh-s{ grid-row:2; grid-column:1 / 3; min-width:0; max-width:100%; text-align:center;
+    color:var(--muted); font-size:9.5px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
+  .msec.mopen .msec-h{ background:var(--chip-hi); border-color:var(--chip-brd) }
+  .msec.mopen .msec-h .mh-c{ transform:rotate(180deg) }
+  .msec-b{ display:none }
+  .msec.mopen .msec-b{ display:flex; flex-direction:column; gap:6px; padding:2px 0 }
+
+  /* eras: 2-col, most-recent-first, full name over range */
+  .topbar .grp:not(.years):not(.posgrid){ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:5px }
+  .pill.era{ min-width:0; min-height:44px; padding:2px 4px }
+  .pill.era .en{ font-size:12px }
+  .pill.era .ey{ font-size:10.5px }
+  .pill.era{ order:var(--mob-order) } /* most-recent-first; the value rides on each pill (TopBar) */
+
+  /* From / To: ONE row of two bordered fields, each with its label INSIDE the box
+     ([FROM 2006][TO 2026]) - two bare numbers read as mystery buttons */
+  .topbar .years{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:5px }
+  .ybox{ display:flex; align-items:center; justify-content:center; gap:8px; height:44px; min-width:0;
+    border-radius:6px; border:1px solid var(--panel-border); background:var(--field); cursor:text }
+  .ybox:focus-within{ border-color:var(--accent) }
+  .ylab{ display:block; font-size:11px; font-weight:600; color:var(--muted); text-transform:uppercase; letter-spacing:.04em }
+  .topbar .years input{ width:3.4em; height:100%; font-size:16px; border:0; background:transparent; text-align:left; padding:0 }
+  /* a custom range lights the whole boxes as the active "pill" (the inputs go transparent above,
+     so the base accent-on-input rule paints invisibly inside the accent box - text colour holds) */
+  .topbar .years.on .ybox{ background:var(--accent); border-color:var(--accent) }
+  .topbar .years.on .ylab{ color:#1a1405 }
+
+  /* filters: [2+  G] / [F  D] */
+  .topbar .posgrid{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); grid-template-rows:1fr 1fr; gap:5px }
+  .topbar .posgrid .pill{ height:auto; min-height:44px; padding:0 6px }
+
+  /* the two toggles, full words. min-width:0 keeps the halves EQUAL (flex min-width:auto let the
+     selected side hog the row and clip the other to "Dyna"/"Time"); this rule repeats the desktop
+     selector (.segstack .seg button) exactly, so being later in the file is enough for the
+     tighter padding to win. */
+  .segstack{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:5px }
+  .segstack .seg{ height:44px }
+  .segstack .seg button{ min-width:0; font-size:10px; padding:0 1px; letter-spacing:-.01em }
+
+  /* the action row (44px captioned buttons come from the shared touch-ish tier above); hide sits
+     to its right, bottom corner. The DOM order serves the desktop 3-column grid, so `order`
+     regroups the phone row as fit·link·reset·cut·undo·redo - by NAME, not position. */
+  .iconstack{ grid-area:icons; display:grid; grid-template-columns:repeat(6, minmax(0,1fr)); gap:5px }
+  .iconstack .i-fit{ order:1 } .iconstack .i-link{ order:2 } .iconstack .i-reset{ order:3 }
+  .iconstack .i-cut{ order:4 } .iconstack .i-undo{ order:5 } .iconstack .i-redo{ order:6 }
+  .iconbtn{ width:auto }
+
+  /* theme submenu body: all six swatches in one row */
+  .themegrid{ display:grid; grid-template-columns:repeat(6, minmax(0,1fr)); gap:5px }
+  .swatch{ width:auto; height:30px }
+
+  .pill{ font-size:12px }
+
+}

@@ -1,0 +1,1607 @@
+{{Short description|1974 ice hockey championship series}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox Stanley Cup Final
+|year = 1974
+|image = BCC 1974 Stanley Cup.jpg
+|caption = Celebration in the Flyers' locker room on May 19, 1974
+|team1 = '''[[1973–74 Philadelphia Flyers season|Philadelphia Flyers]]'''
+|team1_short = Philadelphia
+|team1_captain = [[Bobby Clarke]]
+|team1_national_anthem = [[Kate Smith]]
+|team1_coach = [[Fred Shero]]
+|team2 = [[1973–74 Boston Bruins season|Boston Bruins]]
+|team2_short = Boston
+|team2_coach = [[Bep Guidolin]]
+|team2_captain = [[John Bucyk]]
+|team2_national_anthem = Unknown
+|referees = Dave Newell (1, 5)<br/>[[Art Skov]] (2, 6)<br/>Lloyd Gilmour (3)<br/>[[Ron Wicks]] (4)
+|series_winner = [[Rick MacLeish]] (14:48, first)
+|dates = May 7–19, 1974
+|location1 = [[Philadelphia]]: [[Spectrum (arena)|Spectrum]] (3, 4, 6)
+|location2 = [[Boston]]: [[Boston Garden]] (1, 2, 5)
+|mvp = [[Bernie Parent]] (Flyers)
+|team1_1 = 2
+|team1_2 = '''3'''*
+|team1_3 = '''4'''
+|team1_4 = '''4'''
+|team1_5 = 1
+|team1_6 = '''1'''
+|team1_tot = 4
+|team2_1 = '''3'''
+|team2_2 = 2*
+|team2_3 = 1
+|team2_4 = 2
+|team2_5 = '''5'''
+|team2_6 = 0
+|team2_tot = 2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on NBC|NBC]] (3, 6)<br />(Philadelphia area): [[WTXF|WTAF]] (1–2, 5)<br />(Boston area): [[WSBK-TV|WSBK]] (1–2, 4–5)
+|net_announcers=(CBC) [[Danny Gallivan]] and [[Brian McFarlane]] (1–2, 5); and [[Bill Hewitt (sportscaster)|Bill Hewitt]] and [[Dick Irvin, Jr.]] (3–4, 6)<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(NBC) [[Tim Ryan (sportscaster)|Tim Ryan]] and [[Ted Lindsay]]<br/>(WTAF) [[Don Earle]] and [[Gene Hart]]<br/>(WSBK) [[Fred Cusick]] and [[Johnny Peirson]] 
+|hofers = '''Flyers:'''<br/>[[Bill Barber]] (1990)<br/>[[Bobby Clarke]] (1987)<br/>[[Bernie Parent]] (1984)<br/>'''Bruins:'''<br/>[[Johnny Bucyk]] (1981)<br/>[[Phil Esposito]] (1984)<br/>[[Bobby Orr]] (1979)<br/>'''Coaches:'''<br/>[[Fred Shero]] (2013)<br/>'''Officials:'''<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[John D'Amico (ice hockey)|John D'Amico]] (1993)<br/>[[Matt Pavelich]] (1987)
+}}
+The '''1974 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1973–74 NHL season|1973–74 season]], and the culmination of the [[1974 Stanley Cup playoffs]]. It was contested between the [[1973–74 Boston Bruins season|Boston Bruins]] and the [[1973–74 Philadelphia Flyers season|Philadelphia Flyers]]. The Flyers made their first Finals appearance and the Bruins returned to the Finals for the third time in five years, having won the Stanley Cup in [[1970 Stanley Cup Final|1970]] and [[1972 Stanley Cup Final|1972]]. The Flyers won the best-of-seven series, four games to two, becoming the first team from the [[1967 NHL Expansion|1967 Expansion]] to win the Stanley Cup, or for that matter to win a single game in the Stanley Cup Finals, as well as the first non-[[Original Six]] Cup champion since the [[Montreal Maroons]] in [[1935 Stanley Cup Final|1935]], and the first non Original Six team to appear in the finals since they stopped being guaranteed a spot after Chicago switched divisions in 1970.
+
+==Paths to the Finals==
+Boston defeated the [[Toronto Maple Leafs]] 4–0 and the [[Chicago Black Hawks]] 4–2 to advance to the final.
+
+Philadelphia defeated the [[Atlanta Flames]] 4–0 and the [[New York Rangers]] 4–3 to make it to the final.
+
+==Game summaries==
+In the previous 19 games against the Bruins in Boston, the Flyers had lost 17 and tied two. Boston had the best regular season record in the league finishing one point ahead of the Flyers. The Bruins also had home ice advantage in the Stanley Cup Final, and were made heavy favorites to win the series. A key confidence-building win late in the regular season saw the Flyers defeating the Bruins 5–3 at the Spectrum in Philadelphia.
+
+===Game one===
+
+{{NHLPlayoffs
+|date1 = May 7
+|team1 = Philadelphia Flyers
+|team2 = Boston Bruins
+|stadium1 = [[Boston Garden]]
+|score1 = 2–3
+|won1 = 2
+|recap1 = www.nhl.com/gamecenter/phi-vs-bos/1974/05/07/1973030311#game=1973030311,game_state=final
+}}
+In game one, the Flyers nearly scored late in the third period to break a 2–2 tie. [[Bobby Orr]], having saved the Flyers' shot by blocking the open Boston net with his leg, then took the puck up the ice and scored on a slapshot past goaltender [[Bernie Parent]] with a little over a minute remaining in regulation time to propel the Bruins to a 3–2 win. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | BOS
+|align=center | [[Wayne Cashman]] (4) – ''pp''
+|align=center | [[Bobby Orr]] (11) and [[Carol Vadnais]] (10)
+|align=center | 12:05
+|align=center | 1–0 BOS
+|-
+|align=center | BOS
+|align=center | [[Gregg Sheppard]] (10)
+|align=center | [[Dave Forbes]] (2) and [[Dallas Smith (ice hockey)|Dallas Smith]] (6)
+|align=center | 13:01
+|align=center | 2–0 BOS
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | PHI
+|align=center | [[Orest Kindrachuk]] (4)
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]] (3) and [[Don Saleski]] (5)
+|align=center | 07:47
+|align=center | 2–1 BOS
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Bobby Clarke]] (3)
+|align=center | Jimmy Watson (4) and [[Simon Nolet]] (1)
+|align=center | 05:32
+|align=center | 2–2
+|-
+|align=center | BOS
+|align=center | Bobby Orr (2)
+|align=center | [[Ken Hodge]] (7) and [[Wayne Cashman]] (8)
+|align=center | 19:38
+|align=center | 3–2 BOS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | BOS
+|align=center | [[Al Sims]]
+|align=center | Elbowing
+|align=center | 01:07
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Holding
+|align=center | 03:24
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bill Barber]]
+|align=center | Interference
+|align=center | 10:52
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Dallas Smith
+|align=center | Tripping
+|align=center | 15:09
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Ken Hodge
+|align=center | Roughing
+|align=center | 17:51
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Roughing
+|align=center | 17:51
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ed Van Impe]]
+|align=center | Hooking
+|align=center | 18:28
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''2nd'''
+|align=center | PHI
+|align=center | [[Tom Bladon]]
+|align=center | Holding
+|align=center | 04:45
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | High-sticking
+|align=center | 06:46
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Fighting – major
+|align=center | 06:46
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Ed Van Impe
+|align=center | High-sticking
+|align=center | 06:46
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ed Van Impe
+|align=center | Fighting – major
+|align=center | 06:46
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | Game misconduct 
+|align=center | 06:46
+|align=center | 10:00
+|-
+|align=center | BOS
+|align=center | Gregg Sheppard
+|align=center | Slashing
+|align=center | 10:20
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bobby Clarke
+|align=center | Slashing
+|align=center | 10:20
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Hooking
+|align=center | 16:31
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | BOS
+|align=center | Carol Vadnais 
+|align=center | Hooking
+|align=center | 11:07
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bobby Clarke 
+|align=center | Slashing
+|align=center | 11:07
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Misconduct 
+|align=center | 19:38
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 9 || align=center | 12 || align=center | 7 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 11 || align=center | 12 || align=center | 8 || align=center | 31
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|date1 = May 9
+|team1 = Philadelphia Flyers
+|team2 = Boston Bruins
+|stadium1 = [[Boston Garden]]
+|won1 = 1
+|score1 = 3–2
+|ot1 = 1
+|recap1 = www.nhl.com/gamecenter/phi-vs-bos/1974/05/09/1973030312#game=1973030312,game_state=final
+}}
+Game two saw the Bruins on the verge of a 2–0 series lead when Flyers defenseman [[Andre Dupont]] scored with Parent pulled with less than a minute remaining for an extra attacker to tie the score at 2–2, and [[Bobby Clarke]] scored the 3–2 game winner in overtime. It was the first time the Flyers had beaten the Bruins in Boston Garden since the first ever meeting between the two franchises.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | BOS
+|align=center | [[Wayne Cashman]] (5) 
+|align=center | [[Phil Esposito]] (11) and [[Carol Vadnais]] (11)
+|align=center | 14:24
+|align=center | 1–0 BOS
+|-
+|align=center | BOS
+|align=center | Phil Esposito (8)
+|align=center | [[Ken Hodge]] (8) and Wayne Cashman (8)
+|align=center | 17:22
+|align=center | 2–0 BOS
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | PHI
+|align=center | [[Bobby Clarke]] (4)
+|align=center | [[Bill Flett]] (4) and [[Dave Schultz (ice hockey)|Dave Schultz]] (3)
+|align=center | 01:08
+|align=center | 2–1 BOS
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]] (3)
+|align=center | [[Rick MacLeish]] (7) and Bobby Clarke (9)
+|align=center | 19:08
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | PHI
+|align=center | Bobby Clarke (5)
+|align=center | Bill Flett (5) and Dave Schultz (4)
+|align=center | 12:01
+|align=center | 3–2 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | BOS
+|align=center | [[André Savard|Andre Savard]]
+|align=center | Tripping
+|align=center | 04:06
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Elbowing
+|align=center | 07:43
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Terry O'Reilly]]
+|align=center | Fighting – major
+|align=center | 12:21
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Tom Bladon]]
+|align=center | Interference
+|align=center | 12:21
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Elbowing
+|align=center | 12:21
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Fighting – major
+|align=center | 12:21
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="9"| '''2nd'''
+|align=center | PHI
+|align=center | [[Bernie Parent]]
+|align=center | Interference
+|align=center | 10:49
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Andre Savard
+|align=center | Elbowing
+|align=center | 14:42
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Andre Savard
+|align=center | Roughing
+|align=center | 14:42
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Orest Kindrachuk]]
+|align=center | Elbowing
+|align=center | 14:42
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Orest Kindrachuk
+|align=center | Roughing
+|align=center | 14:42
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Dallas Smith (ice hockey)|Dallas Smith]]
+|align=center | Holding
+|align=center | 18:13
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Game misconduct 
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | BOS
+|align=center | Gilles Gilbert
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Orest Kindrachuk
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | BOS
+|align=center | Andre Savard
+|align=center | Roughing
+|align=center | 06:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Don Saleski]]
+|align=center | Roughing
+|align=center | 06:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|align=center | Holding
+|align=center | 10:30
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Phil Esposito
+|align=center | Tripping
+|align=center | 10:46
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | Holding
+|align=center | 14:01
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 12 || align=center | 5 || align=center | 7 || align=center | 6 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 10 || align=center | 14 || align=center | 8 || align=center | 7 || align=center | 39
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|date1 = May 12
+|team1 = Boston Bruins
+|team2 = Philadelphia Flyers
+|stadium1 = [[Spectrum (arena)|The Spectrum]]
+|won1 = 2
+|score1 = 1–4
+|recap1 = www.nhl.com/gamecenter/bos-vs-phi/1974/05/12/1973030313#game=1973030313,game_state=final
+}}
+In game three, the Flyers, led by Bernie Parent's play in goal, defeated Boston by a score of 4–1.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | BOS
+|align=center | [[Johnny Bucyk]] (8)
+|align=center | [[Gregg Sheppard]] (6) and [[Bobby Orr]] (12)
+|align=center | 01:03
+|align=center | 1–0 BOS
+|-
+|align=center | PHI
+|align=center | [[Tom Bladon]] (4) – ''pp''
+|align=center | [[Bobby Clarke]] (10) and [[Rick MacLeish]] (8)
+|align=center | 10:27
+|align=center | 1–1 
+|-
+|align=center | PHI
+|align=center | [[Terry Crisp]] (2)
+|align=center | ''Unassisted''
+|align=center | 15:43
+|align=center | 2–1 PHI
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Orest Kindrachuk]] (5)
+|align=center | [[Don Saleski]] (6) and [[Bill Barber]] (6)
+|align=center | 07:53
+|align=center | 3–1 PHI
+|-
+|align=center | PHI
+|align=center | [[Ross Lonsberry]] (4)
+|align=center | Rick MacLeish (9)
+|align=center | 14:19
+|align=center | 4–1 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="8"| '''1st'''
+|align=center | BOS
+|align=center | [[Carol Vadnais]]
+|align=center | Elbowing
+|align=center | 03:52
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Elbowing
+|align=center | 05:25
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Watson (ice hockey)|Joe Watson]]
+|align=center | Tripping
+|align=center | 07:33
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Wayne Cashman]]
+|align=center | Interference
+|align=center | 09:17
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Interference
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Bobby Schmautz]]
+|align=center | Interference
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ed Van Impe]]
+|align=center | Tripping
+|align=center | 13:19
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Don Saleski]]
+|align=center | Holding
+|align=center | 16:34
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | BOS
+|align=center | Bobby Orr
+|align=center | High-sticking
+|align=center | 02:24
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bobby Clarke
+|align=center | High-sticking
+|align=center | 02:24
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Interference
+|align=center | 02:57
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Hooking
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Rick MacLeish
+|align=center | Hooking
+|align=center | 08:50
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Ken Hodge]]
+|align=center | Holding
+|align=center | 09:35
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|align=center | Holding
+|align=center | 18:49
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 11 || align=center | 6 || align=center | 8 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 7 || align=center | 12 || align=center | 8 || align=center | 27
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|date1 = May 14
+|team1 = Boston Bruins
+|team2 = Philadelphia Flyers
+|stadium1 = [[Spectrum (arena)|The Spectrum]]
+|won1 = 2
+|score1 = 2–4
+|recap1 = https://www.nhl.com/gamecenter/bos-vs-phi/1974/05/14/1973030314
+}}
+Bernie Parent would play well again in game four, stopping 28 shots to help Philadelphia win the game 4–2, and take a 3–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | PHI
+|align=center | [[Rick MacLeish]] (12) – ''pp''
+|align=center | [[Tom Bladon]] (6) 
+|align=center | 04:40
+|align=center | 1–0 PHI
+|- 
+|align=center | PHI
+|align=center | [[Dave Schultz (ice hockey)|Dave Schultz]] (2)
+|align=center | [[Don Saleski]] (7) and [[Ed Van Impe]] (1)
+|align=center | 05:30
+|align=center | 2–0 PHI
+|- 
+|align=center | BOS
+|align=center | [[Phil Esposito]] (9) – ''pp''
+|align=center | [[Johnny Bucyk]] (8) and [[Ken Hodge]] (9)
+|align=center | 07:12
+|align=center | 2–1 PHI
+|- 
+|align=center | BOS
+|align=center | [[André Savard|Andre Savard]] (3)
+|align=center | [[Bobby Orr]] (13) and [[Carol Vadnais]] (12)
+|align=center | 11:24
+|align=center | 2–2
+|- 
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Bill Barber]] (3)
+|align=center | [[Ross Lonsberry]] (9) and [[Jimmy Watson (ice hockey)|Jimmy Watson]] (2)
+|align=center | 14:25
+|align=center | 3–2 PHI
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]] (4)
+|align=center | [[Bobby Clarke]] (11) and [[Terry Crisp]] (2)
+|align=center | 16:40
+|align=center | 4–2 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="21"| '''1st'''
+|align=center | BOS
+|align=center | Andre Savard
+|align=center | Fighting – major
+|align=center | 02:43
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Orest Kindrachuk]]
+|align=center | Fighting – major
+|align=center | 02:43
+|align=center | 5:00
+|-
+|align=center | BOS
+|align=center | [[Rich Leduc]]
+|align=center | Holding
+|align=center | 03:21
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Watson (ice hockey)|Joe Watson]]
+|align=center | Holding
+|align=center | 06:09
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Wayne Cashman]]
+|align=center | High-sticking
+|align=center | 06:17
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Fighting – major
+|align=center | 06:17
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | High-sticking
+|align=center | 06:17
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | Fighting – major
+|align=center | 06:17
+|align=center | 5:00
+|-
+|align=center | BOS
+|align=center | [[Terry O'Reilly]]
+|align=center | Fighting – major
+|align=center | 07:56
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Fighting – major
+|align=center | 07:56
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Phil Esposito
+|align=center | Slashing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Dallas Smith (ice hockey)|Dallas Smith]]
+|align=center | High-sticking
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Elbowing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Don Saleski
+|align=center | Roughing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Carol Vadnais
+|align=center | Cross-checking
+|align=center | 13:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bill Flett]]
+|align=center | Slashing
+|align=center | 13:03
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Rich Leduc
+|align=center | Holding
+|align=center | 13:16
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bobby Clarke
+|align=center | Slashing
+|align=center | 13:16
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Terry O'Reilly
+|align=center | Charging
+|align=center | 16:10
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Andre Savard
+|align=center | Roughing
+|align=center | 19:15
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz 
+|align=center | Roughing
+|align=center | 19:15
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | PHI
+|align=center | Rick MacLeish
+|align=center | Holding
+|align=center | 06:19
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Bobby Schmautz]]
+|align=center | Roughing
+|align=center | 11:48
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Joe Watson
+|align=center | Roughing
+|align=center | 11:48
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Phil Esposito
+|align=center | Roughing
+|align=center | 19:26
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Roughing
+|align=center | 19:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | BOS
+|align=center | [[Don Marcotte]]
+|align=center | Roughing
+|align=center | 06:16
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Joe Watson
+|align=center | Roughing
+|align=center | 06:16
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 11 || align=center | 8 || align=center | 11 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 9 || align=center | 9 || align=center | 13 || align=center | 31
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|date1 = May 16
+|team1 = Philadelphia Flyers
+|team2 = Boston Bruins
+|stadium1 = [[Boston Garden]]
+|won1 = 2
+|score1 = 1–5
+|recap1 = www.nhl.com/gamecenter/phi-vs-bos/1974/05/16/1973030315
+}}
+Game five in Boston was a sloppy affair marred by many fights and penalties as Boston easily won to extend the series to a game six in Philadelphia. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | BOS
+|align=center | [[Gregg Sheppard]] (11) – ''sh''
+|align=center | [[Bobby Orr]] (14) 
+|align=center | 08:14
+|align=center | 1–0 BOS
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | PHI
+|align=center | [[Bill Clement]] (1)
+|align=center | [[Bill Flett]] (6) and [[Ed Van Impe]] (2)
+|align=center | 06:04
+|align=center | 1–1
+|-
+|align=center | BOS
+|align=center | Bobby Orr (3)
+|align=center | Gregg Sheppard (7) and [[Johnny Bucyk]] (9)
+|align=center | 12:06
+|align=center | 2–1 BOS
+|-
+|align=center | BOS
+|align=center | Bobby Orr (4)
+|align=center | Gregg Sheppard (7) and [[Dallas Smith (ice hockey)|Dallas Smith]] (9)
+|align=center | 16:55
+|align=center | 3–1 BOS
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | BOS
+|align=center | Ken Hodge (6) – ''pp''
+|align=center | Gregg Sheppard (8) and Johnny Bucyk (10)
+|align=center | 00:39
+|align=center | 4–1 BOS
+|-
+|align=center | BOS
+|align=center | [[Don Marcotte]] (4)
+|align=center | [[André Savard|Andre Savard]] (2) and [[Terry O'Reilly]] (5)
+|align=center | 18:59
+|align=center | 5–1 BOS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="16"| '''1st'''
+|align=center | BOS
+|align=center | [[Carol Vadnais]]
+|align=center | Fighting – major
+|align=center | 00:24
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Dave Schultz (ice hockey)|Dave Schultz]]
+|align=center | Fighting – major
+|align=center | 00:24
+|align=center | 5:00
+|-
+|align=center | BOS
+|align=center | [[Bobby Schmautz]]
+|align=center | Cross-checking
+|align=center | 00:45
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Tom Bladon]]
+|align=center | Holding
+|align=center | 01:11
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Wayne Cashman]]
+|align=center | High-sticking
+|align=center | 01:37
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ed Van Impe
+|align=center | Roughing
+|align=center | 01:37
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Elbowing
+|align=center | 02:28
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Watson (ice hockey)|Joe Watson]]
+|align=center | Tripping
+|align=center | 04:00
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Bobby Orr
+|align=center | High-sticking
+|align=center | 06:01
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Terry O'Reilly
+|align=center | Kneeing
+|align=center | 07:58
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Terry O'Reilly
+|align=center | Fighting – major
+|align=center | 07:58
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Fighting – major
+|align=center | 07:58
+|align=center | 5:00
+|-
+|align=center | BOS
+|align=center | Andre Savard 
+|align=center | Fighting – major
+|align=center | 11:15
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|align=center | Fighting – major
+|align=center | 11:15
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Holding
+|align=center | 15:47
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ross Lonsberry]]
+|align=center | Hooking
+|align=center | 18:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="10"| '''2nd'''
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Roughing
+|align=center | 03:52
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bill Flett
+|align=center | Roughing
+|align=center | 03:52
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Phil Esposito]]
+|align=center | Roughing
+|align=center | 05:00
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Roughing
+|align=center | 05:00
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Phil Esposito
+|align=center | High-sticking
+|align=center | 13:40
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | High-sticking
+|align=center | 13:40
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Joe Watson
+|align=center | Holding
+|align=center | 14:25
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Fighting – major
+|align=center | 17:48
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Fighting – major
+|align=center | 17:48
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Butt-ending
+|align=center | 19:16
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="17"| '''3rd'''
+|align=center | BOS
+|align=center | Wayne Cashman
+|align=center | Spearing
+|align=center | 04:30
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Carol Vadnais
+|align=center | High-sticking
+|align=center | 04:37
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bobby Clarke]]
+|align=center | High-sticking
+|align=center | 04:37
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Darryl Edestrand]]
+|align=center | High-sticking
+|align=center | 06:47
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Terry Crisp]]
+|align=center | High-sticking
+|align=center | 06:47
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Dallas Smith
+|align=center | Slashing
+|align=center | 07:02
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Terry O'Reilly
+|align=center | Hooking
+|align=center | 10:37
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Bobby Schmautz
+|align=center | Roughing
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Bobby Schmautz
+|align=center | Game misconduct
+|align=center | 13:58
+|align=center | 10:00
+|-
+|align=center | BOS
+|align=center | Carol Vadnais
+|align=center | Roughing
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Roughing
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Schultz
+|align=center | Misconduct
+|align=center | 13:58
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Bobby Clarke
+|align=center | Cross-checking
+|align=center | 14:47
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Rich Leduc]]
+|align=center | Fighting – major
+|align=center | 18:47
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Carol Vadnais
+|align=center | Fighting – major
+|align=center | 18:47
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Bladon
+|align=center | Fighting – major
+|align=center | 18:47
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bruce Cowick]]
+|align=center | Fighting – major
+|align=center | 18:47
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 8 || align=center | 9 || align=center | 10 || align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 17 || align=center | 9 || align=center | 12 || align=center | 38
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|date1 = May 19
+|team1 = Boston Bruins
+|team2 = Philadelphia Flyers
+|stadium1 = [[Spectrum (arena)|The Spectrum]]
+|won1 = 2
+|score1 = 0–1
+|recap1 = www.nhl.com/gamecenter/bos-vs-phi/1974/05/19/1973030316#game=1973030316,game_state=final
+}}
+On May 19, before a national audience watching the game on [[NBC]] and a raucous Philadelphia crowd, Parent posted an epic 30-save shutout against the Bruins as the Flyers won the game 1–0 on a lone goal by former Bruin draft pick [[Rick MacLeish]], the series four games to two, and the Stanley Cup. Parent made a spectacular kick save to stop a tremendous slapshot from [[Ken Hodge]] with less than three minutes left to play. The blast was the Bruins' final shot of the series. Parent was named the winner of the [[Conn Smythe Trophy]] as playoff MVP. The Flyers were the first of the 1967 expansion teams in the NHL to win the championship.
+
+Coincidentally, the Flyers were the first team to clinch the Stanley Cup at home since the Bruins did so [[1970 Stanley Cup Final|four years earlier]] on Orr's famous overtime goal vs. the [[St. Louis Blues]] in Game 4.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | PHI
+|align=center | [[Rick MacLeish]] (13) – ''pp''
+|align=center | [[André Dupont|Andre Dupont]] (3)
+|align=center | 14:24
+|align=center | 1–0 PHI
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Interference
+|align=center | 00:32
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Dave Forbes]]
+|align=center | Roughing
+|align=center | 10:18
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bill Clement]]
+|align=center | Roughing
+|align=center | 10:18
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bruce Cowick]]
+|align=center | Elbowing
+|align=center | 10:18
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Terry O'Reilly]]
+|align=center | Hooking
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Bobby Orr]]
+|align=center | Roughing
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bobby Clarke]]
+|align=center | Roughing
+|align=center | 14:22
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Tripping
+|align=center | 00:40
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Ken Hodge]]
+|align=center | Hooking
+|align=center | 01:15
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Al Sims]]
+|align=center | Cross-checking
+|align=center | 05:44
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Watson (ice hockey)|Joe Watson]]
+|align=center | Holding
+|align=center | 09:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Joe Watson
+|align=center | Hooking
+|align=center | 15:02
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Carol Vadnais]]
+|align=center | Tripping
+|align=center | 17:46
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | BOS
+|align=center | Terry O'Reilly
+|align=center | Hooking
+|align=center | 08:12
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Dave Schultz (ice hockey)|Dave Schultz]]
+|align=center | Holding
+|align=center | 11:15
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Johnny Bucyk]]
+|align=center | Tripping
+|align=center | 14:54
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Bobby Orr
+|align=center | Holding
+|align=center | 17:38
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 16 || align=center | 9 || align=center | 5 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 8 || align=center | 14 || align=center | 4 || align=center | 26
+|}
+
+==Aftermath==
+The Flyers Stanley Cup win triggered the largest celebration in Philadelphia sports history.<ref>{{cite news|title=Flyers Capture Stanley Cup by Beating Bruins, 1–0|date=20 May 1974|first=Parton|last=Keese|newspaper=The New York Times|page=41}}</ref><ref name=1974Flyers>{{YouTube|id=q-feMY5gi1M|title=1974 stanley cup}}</ref> Some observers of the celebration noted that they had seen that type of event in Philadelphia only once before, upon the announcement of the [[surrender of Japan]] on 14 August 1945. The day after the Flyers won the Cup, more than two million lined [[Broad Street (Philadelphia)|Broad Street]] for a [[ticker-tape parade]],<ref>{{cite news|title=Philadelphia Flies High As Its Flyers|date=21 May 1974|first=Parton|last=Keese|newspaper=The New York Times|page=35}}</ref> making it the largest championship parade in the history of Philadelphia sports.<ref name=1974Flyers/><ref>{{cite news|quote=In the annals of Philadelphia sports parades, the biggest crowd turned out for the 1974 celebration of the Flyers' Stanley Cup. More than two million fans flocked to Broad Street.|title=Parade for the Champs; Noon High: Million-plus expected at celebration|date=31 October 2008 |first1=Jennifer |last1=Lin |first2=Allison |last2=Steele |author3=Dwight Ott |newspaper=Philadelphia Inquirer |page=A1 |url=http://articles.philly.com/2008-10-31/news/24992344_1_parade-route-center-city-liquor-stores|archive-url=https://web.archive.org/web/20150409080133/http://articles.philly.com/2008-10-31/news/24992344_1_parade-route-center-city-liquor-stores|url-status=dead|archive-date=9 April 2015}}</ref> One of the fans who attended the parade was future [[New York Rangers]] goaltender [[Mike Richter]].<ref name=Richter>{{cite news|title=Rangers' Parade of Glory|date=18 June 1994|first=Laura|last=Price|newspaper=Newsday|page=A41|quote=The All-Star goaltender (Richter) remembers watching a victory parade in Philadelphia as a youngster when the Flyers won the Cup in 1974.}}</ref> Richter grew up near Philadelphia in [[Flourtown, Pennsylvania]] idolizing Flyers goalie [[Bernie Parent]].<ref name="vanRiemsdyk-Profile">{{cite web|url=http://flyers.nhl.com/club/news.htm?bcid=343393|title=Prospect Profile: James van Riemsdyk|date=15 November 2007|first=Al|last=Alven|work=philadelphiaflyers.com|publisher=Flyers.NHL.com|access-date=1 March 2011|archive-date=14 July 2011|archive-url=https://web.archive.org/web/20110714180649/http://flyers.nhl.com/club/news.htm?bcid=343393|url-status=dead}}</ref>
+
+The following year, the Flyers successfully returned to the Finals and captured their second consecutive Stanley Cup; this time, over the [[Buffalo Sabres]] in Buffalo, also winning in six games.
+
+As for the Bruins, they lost in the first round to the [[Chicago Black Hawks]] 2–1.
+
+The Stanley Cup was not won on home ice again until the Canadiens did so in [[1979 Stanley Cup Final|1979]].
+
+==Team rosters==
+
+===Philadelphia Flyers===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Bernie | last = Parent | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 4 | birthday = 3 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Montreal|Montreal, Quebec]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Ed | last = Van Impe | dab = | num = 2 | pos = D | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 5 | birthday = 27 | acq = [[1967 NHL Expansion Draft|1967]] | birthplace = [[Saskatoon|Saskatoon, Saskatchewan]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Tom | last = Bladon | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1952 | birthmonth = 12 | birthday = 29 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Edmonton|Edmonton, Alberta]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Barry | last = Ashbee | dab = | num = 4 | pos = D | nat = Canada | s/g = R | birthyear = 1939 | birthmonth = 7 | birthday = 28 | acq = [[1970–71 NHL season|1970]] | birthplace = [[Weston, Toronto|Weston]], [[Ontario]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Andre | last = Dupont | dab = André Dupont | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 7 | birthday = 27 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Trois-Rivières|Trois-Rivières, Quebec]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bill | last = Barber | dab = | num = 7 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 11 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Callander, Ontario]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Dave | last = Schultz | dab = Dave Schultz (ice hockey) | num = 8 | pos = LW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 14 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Waldheim, Saskatchewan]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bob | last = Kelly | dab = Bob Kelly (ice hockey b. 1950) | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 25 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Oakville, Ontario]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bill | last = Clement | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 20 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Buckingham, Quebec]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Don | last = Saleski | dab = | num = 11 | pos = RW | nat = Canada | s/g = R | birthyear = 1949 | birthmonth = 11 | birthday = 10 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Moose Jaw|Moose Jaw, Saskatchewan]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Gary | last = Dornhoefer | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1943 | birthmonth = 2 | birthday = 2 | acq = [[1967 NHL Expansion Draft|1967]] | birthplace = [[Kitchener, Ontario]] | cap = A | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Joe | last = Watson | dab = Joe Watson (ice hockey) | num = 14 | pos = D | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 7 | birthday = 6 | acq = [[1967 NHL Expansion Draft|1967]] | birthplace = [[Smithers, British Columbia]] | cap = A | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Terry | last = Crisp | dab = | num = 15 | pos = C | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 5 | birthday = 28 | acq = [[1972–73 NHL season|1973]] | birthplace = [[Parry Sound, Ontario]] | cap = A | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bobby | last = Clarke | dab = | num = 16 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 8 | birthday = 13 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Flin Flon|Flin Flon, Manitoba]] | cap = C | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Simon | last = Nolet | dab = | num = 17 | pos = RW | nat = Canada | s/g = R | birthyear = 1941 | birthmonth = 9 | birthday = 23 | acq = [[1967–68 NHL season|1967]] | birthplace = [[Saint-Odilon-de-Cranbourne, Quebec|St. Odilon, Quebec]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Ross | last = Lonsberry | dab = | num = 18 | pos = LW | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 2 | birthday = 7 | acq = [[1971–72 NHL season|1972]] | birthplace = [[Watson, Saskatchewan]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Rick | last = MacLeish | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 1 | birthday = 3 | acq = [[1970–71 NHL season|1971]] | birthplace = [[Cannington, Ontario]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Jim | last = Watson | dab = Jimmy Watson (ice hockey) | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 8 | birthday = 19 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Smithers, British Columbia]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bill | last = Flett | dab = | num = 21 | pos = RW | nat = Canada | s/g = R | birthyear = 1943 | birthmonth = 7 | birthday = 21 | acq = [[1971–72 NHL season|1972]] | birthplace = [[Vermilion, Alberta]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Orest | last = Kindrachuk | dab = | num = 26 | pos = C | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 9 | birthday = 14 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Nanton, Alberta]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bruce | last = Cowick | dab = | num = 27 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 8 | birthday = 18 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Victoria, British Columbia]] | cap = | year = 1974 | month = 5 | day = 19}}
+{{Ice hockey team player
+| first = Bobby | last = Taylor | dab = Bobby Taylor (ice hockey) | num = 30 | pos = G | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 1 | birthday = 24 | acq = [[1968–69 NHL season|1968]] | birthplace = [[Calgary|Calgary, Alberta]] | cap = | year = 1974 | month = 5 | day = 19}}
+|}
+
+===Boston Bruins===
+{{Ice hockey team roster}}
+<!-- list of players -->
+{{Ice hockey team player
+| first = Gilles | last = Gilbert | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 3 | birthday = 31 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Saint-Esprit, Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Bobby | last = Orr | dab = | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 20 | acq = [[1966–67 NHL season|1966]] | birthplace = [[Parry Sound, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Darryl | last = Edestrand | dab = | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 11 | birthday = 06 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Strathroy-Caradoc, Ontario|Strathroy, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Phil | last = Esposito | dab = | num = 7 | pos = C | nat = Canada | s/g = L | birthyear = 1942 | birthmonth = 02 | birthday = 20 | acq = [[1967–68 NHL season|1967]] | birthplace = [[Sault Ste. Marie, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Ken | last = Hodge | dab = | num = 8 | pos = RW | nat = Great Britain | s/g = R | birthyear = 1944 | birthmonth = 06 | birthday = 25 | acq = [[1967–68 NHL season|1967]] | birthplace = [[Birmingham|Birmingham, United Kingdom]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Johnny | last = Bucyk | dab = | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1935 | birthmonth = 05 | birthday = 12 | acq = [[1957–58 NHL season|1957]] | birthplace = [[Edmonton|Edmonton, Alberta]] | inj = | cap = C | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Carol | last = Vadnais | dab = | num = 10 | pos = D | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 09 | birthday = 25 | acq = [[1971–72 NHL season|1972]] | birthplace = [[Montreal]], [[Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Andre | last = Savard | dab = André Savard | num = 11 | pos = C | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 09 | birthday = 02 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Témiscamingue Regional County Municipality, Quebec|Temiscamingue, Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Wayne | last = Cashman | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 06 | birthday = 24 | acq = [[1964–65 NHL season|1964]] | birthplace = [[Kingston, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Dave | last = Forbes | dab = | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 11 | birthday = 16 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Montreal|Montreal, Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Bobby | last = Schmautz | dab = | num = 17 | pos = RW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 03 | birthday = 28 | acq = [[1973–74 NHL season|1974]] | birthplace = [[Saskatoon|Saskatoon, Saskatchewan]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Rich | last = Leduc | dab = | num = 18 | pos = C | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 08 | birthday = 24 | acq = [[1971–72 NHL season|1971]] | birthplace = [[L'Île-Perrot, Quebec|Ile Perot, Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Gregg | last = Sheppard | dab = | num = 19 | pos = LW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 04 | birthday = 23 | acq = [[1972–73 NHL season|1972]] | birthplace = [[North Battleford|North Battleford, Saskatchewan]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Dallas | last = Smith | dab = Dallas Smith (ice hockey) | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1941 | birthmonth = 10 | birthday = 10 | acq = [[1959–60 NHL season|1959]] | birthplace = [[Hamiota, Manitoba]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Don | last = Marcotte | dab = | num = 21 | pos = LW | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 04 | birthday = 15 | acq = [[1965–66 NHL season|1965]] | birthplace = [[Victoriaville|Arthabaska, Quebec]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Doug | last = Gibson | dab = Doug Gibson (ice hockey) | num = 22 | pos = C | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 09 | birthday = 28 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Peterborough, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Al | last = Sims | dab = | num = 23 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 04 | birthday = 18 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto|Toronto, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Terry | last = O'Reilly | dab = | num = 24 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 06 | birthday = 07 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Niagara Falls, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Al | last = Simmons | dab = Al Simmons (ice hockey) | num = 29 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 04 | birthday = 17 | acq = [[1973–74 NHL season|1974]] | birthplace = [[Winnipeg|Winnipeg, Manitoba]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+{{Ice hockey team player
+| first = Ross | last = Brooks | dab = | num = 30 | pos = G | nat = Canada | s/g = L | birthyear = 1937 | birthmonth = 10 | birthday = 17 | acq = [[1971–72 NHL season|1971]] | birthplace = [[Toronto|Toronto, Ontario]] | inj = | cap = | year = 1974 | month = 5 | day = 19 }}
+
+<!-- end list of players -->
+|}
+
+==Stanley Cup engraving==
+The 1974 Stanley Cup was presented to Flyers captain Bobby Clarke by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Flyers 1–0 win over the Bruins in game six.
+
+The following Flyers players and staff had their names engraved on the Stanley Cup
+
+'''1973–74 Philadelphia Flyers'''
+{{Stanley Cup champion
+|team=Philadelphia Flyers |year=1974
+|goaltenders=* 1 [[Bernie Parent]]
+* 30 [[Bobby Taylor (ice hockey)|Bobby Taylor]]
+|defence=* 2 [[Ed Van Impe]]
+* 3 [[Tom Bladon]]
+* 4 [[Barry Ashbee]]
+* 6 [[André Dupont|Andre Dupont]]
+* 14 [[Joe Watson (ice hockey)|Joe Watson]] (A)
+* 20 [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|wingers=* 7 [[Bill Barber]]
+* 8 [[Dave Schultz (ice hockey)|Dave Schultz]]
+* 9 [[Bob Kelly (ice hockey b. 1950)|Bob Kelly]]
+* 11 [[Don Saleski]]
+* 12 [[Gary Dornhoefer]] (A)
+* 17 [[Simon Nolet]]
+* 18 [[Ross Lonsberry]]
+* 21 [[Bill Flett]]
+* 27 [[Bruce Cowick]]
+|centres=* 10 [[Bill Clement]]
+* 15 [[Terry Crisp]] (A)
+* 16 [[Bobby Clarke]] (Captain)
+* 19 [[Rick MacLeish]]
+* 26 [[Orest Kindrachuk]]
+|non-players=*[[Ed Snider]] (Chairman/Owner), [[Joe Scott (businessman)|Joe Scott]] (President)
+*[[Fitz Eugene Dixon Jr.|F. Eugene Dixon Jr.]] (Vice Chairman), Fred Shero]] (Head Coach)
+*[[Keith Allen (ice hockey)|Keith Allen]] (Vice President/General Manager)
+* Lou Scheinfield (Vice President), [[Mike Nykoluk]] (Asst. Coach)
+* Frank Lewis (Trainer), Jim McKenzie (Asst. Trainer)
+|engraving-notes=
+* #27 [[Bruce Cowick]] (LW) did not play any regular-season games for the Flyers in 1973–74 but was an injury replacement for eight games in the Stanley Cup playoffs, thus becoming eligible to receive a Stanley Cup ring and have his name engraved on the Stanley Cup.
+* #25 Al MacAdam played five regular-season games and one playoff game. Although he did receive a Stanley Cup ring, his name was not engraved on the Stanley Cup.<ref>{{cite web |url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SearchPlayer.jsp?player=13450 |title=Legends of Hockey – NHL Player Search – Player – Al MacAdam |access-date=6 December 2013}}</ref>
+*Joe Kadlec, John Brogan (Directors of Public Relations) were included on Philadelphia's Stanley Cup winning pictures in 1974, 1975, but their names do not appear on the Stanley Cup.}}
+
+==See also==
+* [[1973–74 NHL season]]
+* [[1973–74 Boston Bruins season]]
+* [[1973–74 Philadelphia Flyers season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box
+|before = [[1973 Stanley Cup Final|Montreal Canadiens<br>1973]]
+|after = [[1975 Stanley Cup Final|Philadelphia Flyers<br>1975]]
+|title = [[List of Stanley Cup champions|Philadelphia Flyers<br>Stanley Cup champions]]
+|years = 1974
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Philadelphia Flyers}}
+{{Boston Bruins}}
+{{1973–74 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+}}
+
+[[Category:1973–74 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:May 1974 sports events in the United States|Stanley Cup Final]]
+[[Category:1974 in Philadelphia]]
+[[Category:1974 in sports in Pennsylvania|Stanley Cup Final]]
+[[Category:1974 in Boston|Stanley Cup Final]]
+[[Category:1974 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:Events at the Boston Garden]]

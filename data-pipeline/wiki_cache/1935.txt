@@ -1,0 +1,167 @@
+{{Short description|1935 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1935
+|team1='''[[1934–35 Montreal Maroons season|Montreal Maroons]]'''
+|team1_short=Montreal 
+|team1_1='''3'''*
+|team1_2='''3'''
+|team1_3='''4'''
+|team1_tot=3
+|team2=[[1934–35 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto
+|team2_1=2*
+|team2_2=1
+|team2_3=1
+|team2_tot=0
+|format=best-of-five
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Toronto]]: [[Maple Leaf Gardens]] (1, 2)
+|location2=[[Montreal]]: [[Montreal Forum]] (3)
+|dates=April 4–9, 1935
+|team2_coach=[[Dick Irvin]]
+|team1_coach=[[Tommy Gorman]]
+|team1_captain=[[Hooley Smith]]
+|team2_captain=[[Hap Day]]
+|series_winner=[[Baldy Northcott]] (16:18, second)
+|hofers='''Maroons:'''<br/>[[Toe Blake]] (1966)<br/>[[Lionel Conacher]] (1994)<br/>[[Alec Connell]] (1958)<br/>[[Hooley Smith]] (1972)<br/>'''Maple Leafs:'''<br/>[[King Clancy]] (1958)<br/>[[Charlie Conacher]] (1961)<br/>[[Hap Day]] (1961)<br/>[[George Hainsworth]] (1961)<br/>[[Red Horner]] (1965)<br/>[[Busher Jackson]] (1971)<br/>[[Joe Primeau]] (1963)<br/>'''Coaches:'''<br/>[[Tommy Gorman]] (1963)<br/>[[Dick Irvin]] (1958, player)
+}}
+
+The '''1935 Stanley Cup Final''' was contested by the [[1934–35 Montreal Maroons season|Montreal Maroons]] and the [[1934–35 Toronto Maple Leafs season|Toronto Maple Leafs]]. The Maroons won the series 3–0 to win their second and final [[Stanley Cup]]. The Maroons are the last defunct team to ever win the Cup, as the team disbanded three years later, and were also the last non-[[Original Six]] team to win the championship until the [[Philadelphia Flyers]] in [[1974 Stanley Cup Finals|1974]].
+
+==Paths to the Finals==
+{{main|1935 Stanley Cup playoffs}}
+Toronto defeated the [[Boston Bruins]] in a best-of-five 3–1 to advance to the Finals.
+
+The Maroons had to play a total-goals series; 1–0 against [[Chicago Blackhawks|Chicago Black Hawks]], and win a second two-game total-goals series 5–4 against the [[New York Rangers]] to advance to the Finals.
+
+==Game summaries==
+Maroons manager-coach [[Tommy Gorman]] became the only coach to win successive Stanley Cup titles with two different teams after winning with the [[Chicago Blackhawks|Chicago Black Hawks]] in the [[1934 Stanley Cup Finals]].<ref>{{cite news|title=Tommy Gorman Dies At 74|date=May 15, 1961|newspaper=[[Ottawa Citizen]]|location=Ottawa, Ontario|page=15|url=https://www.newspapers.com/clip/94583257/gorman-1961/}}</ref>
+
+Maroons goaltender [[Alex Connell]] allowed just four goals in the three games.
+
+{{NHLPlayoffs
+|team2=Toronto Maple Leafs
+|team1=Montreal Maroons
+|stadium1=[[Maple Leaf Gardens]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 4
+|home1       =1
+|score1      =3–2
+|ot1         =1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mmr-vs-tor/1935/04/04/1934030211#game=1934030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Earl Robinson (ice hockey)|Earl Robinson]] (1) - 3:57<br>[[Cy Wentworth]] (2) - 19:12
+|1-2-2       =14:28 - [[Frank Finnigan]] (1)<br>18:12 - [[King Clancy]] (1)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =[[Dave Trottier]] (2) - 5:28
+|1-4-2       =''No scoring''
+|goalie1-1   =[[Alex Connell]]
+|goalie1-2   =[[George Hainsworth]]
+
+|date2       =April 6
+|home2       =1
+|score2      =3–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/mmr-vs-tor/1935/04/06/1934030212#game=1934030212,game_state=final
+|2-1-1       =[[Earl Robinson (ice hockey)|Earl Robinson]] (2) - ''pp'' - 15:44
+|2-1-2       =''No scoring''
+|2-2-1       =[[Russ Blinco]] (2) - 16:47
+|2-2-2       =7:31 - ''sh'' - [[Busher Jackson]] (3)
+|2-3-1       =[[Baldy Northcott]] (3) - 3:27
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Alex Connell]]
+|goalie2-2   =[[George Hainsworth]]
+
+|date3       =April 9
+|home3       =2
+|score3      =1–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/tor-vs-mmr/1935/04/09/1934030213#game=1934030213,game_state=final
+|3-1-1       =19:35 - ''sh'' - [[Jimmy Ward (ice hockey)|Jimmy Ward]] (1)
+|3-1-2       =''No scoring''
+|3-2-1       =16:18 - [[Baldy Northcott]] (4)<br>16:30 - [[Cy Wentworth]] (3)
+|3-2-2       =[[Bill Thoms]] (2) - 12:59
+|3-3-1       =1:02 - [[Gus Marker]] (1)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Alex Connell]]
+|goalie3-2   =[[George Hainsworth]]
+
+|series = Montreal won series 3–0
+}}
+
+==Stanley Cup engraving==
+The 1935 Stanley Cup was presented to Maroons captain Hooley Smith by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Maroons' 4–1 win over the Maple Leafs in game three.
+
+The following Maroons players and staff had their names engraved on the Stanley Cup
+
+'''1934–35 Montreal Maroons'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Alex Connell]]  
+|defence=*2 Marvin [[Cy Wentworth]]
+*3 [[Lionel Conacher]]
+*6 [[Stewart Evans (ice hockey)|Stewart Evans]]
+*12 [[Allan Shields]]
+*19 [[Bill Miller (ice hockey)|Bill Miller]]
+*16 [[Bill MacKenzie]] (loaned to NY Rangers)
+|centres=*11 [[Bob Gracie]]
+*14 [[Russ Blinco]]
+*17 Norman [[Dutch Gainor]] 
+|wingers=*4 [[Jimmy Ward (ice hockey)|Jimmy Ward]]
+*5 Lawrence [[Baldy Northcott]] 
+*7 Reginald [[Hooley Smith]] (Captain) 
+*8 [[Dave Trottier]]  
+*8 Hector [[Toe Blake]]
+*9 August [[Gus Marker]]
+*10 [[Herb Cain]]
+*15 [[Earl Robinson (ice hockey)|Earl Robinson]]
+*16 [[Sammy McManus]]
+|non-players=
+*[[Donat Raymond]] (President/Owner), 
+*Thorad Arnold (Executive), Kenneth Daves (Executive), [[Bob McDougall (ice hockey)|Bob McDougall]] (Executive)
+*[[Tommy Gorman]] (Vice President/Manager-Coach)
+*Bill O'Brien (Trainer)
+|engraving-notes=
+*Bill MacKenzie was loaned to the New York Rangers on 1935-01-29.  In the Stanley Cup Semi-Finals, the Maroons defeated the Rangers, while MacKenzie played in a losing cause for the Rangers. He was included on the Stanley Cup and team picture. However, under NHL rules, MacKenzie was disqualified from winning the Stanley Cup because he was a member of the Rangers when the Maroons won it. MacKenzie only played five games for the Maroons in the 1934-35 season. He officially won the Stanley Cup with Chicago in 1938.
+*In 1934 Tommy Gorman (Manager-Coach) led the Chicago Black Hawks to the Stanley Cup.  In the off-season, Gorman was fired after a dispute with President/Owner Fredric McLaughlin.  Montreal Maroons hired Gorman as (Manager-Coach), and he led the Maroons to the Stanley Cup.  He became the only Manager and/or Coach to win back-to-back Stanley Cups with two different teams. 
+* Player Lionel Conacher won back-to-back cups with Chicago Black Hawks {{scfy|1934}} and Montreal Maroons in {{scfy|1935}}.
+* Montreal Maroons did not include any playoff scores in 1935.
+}}
+
+==See also==
+* [[1934–35 NHL season]]
+
+==References & notes==
+{{reflist}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1934 Stanley Cup Finals|Chicago Black Hawks<br>1934]] |
+ after = [[1936 Stanley Cup Finals|Detroit Red Wings<br>1936]] |
+ title = [[List of Stanley Cup champions|Montreal Maroons<br>Stanley Cup champions]] |
+ years = 1935|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Maroons}}
+{{Toronto Maple Leafs}}
+{{1934–35 NHL season by team}}
+
+[[Category:1934–35 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:Montreal Maroons]]
+[[Category:April 1935 sports events in Canada]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1930s in Toronto]]
+[[Category:1930s in Montreal]]
+[[Category:1935 in Quebec]]
+[[Category:1935 in Ontario]]

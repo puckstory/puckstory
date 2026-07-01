@@ -1,0 +1,246 @@
+{{Short description|1950 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Finals
+|year=1950 
+|team1='''[[1949–50 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_captain=[[Sid Abel]]
+|team1_coach=[[Tommy Ivan]]
+|team1_1='''4'''
+|team1_2=1
+|team1_3='''4'''
+|team1_4=3*
+|team1_5=1*
+|team1_6='''5'''
+|team1_7='''4'''**
+|team1_tot=4
+|team2=[[1949–50 New York Rangers season|New York Rangers]]
+|team2_short=New York
+|team2_captain=[[Frank Eddolls]]
+|team2_coach=[[Lynn Patrick]]
+|team2_1=1
+|team2_2='''3'''
+|team2_3=0
+|team2_4='''4'''*
+|team2_5='''2'''*
+|team2_6=4
+|team2_7=3**
+|team2_tot=3
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 11–23, 1950
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 4–7)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (2, 3)
+|series_winner=[[Pete Babando]] (8:31, second OT)
+|hofers='''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Gordie Howe]] (1972; did not play)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Harry Lumley (ice hockey)|Harry Lumley]] (1980)<br/>[[Marcel Pronovost]] (1978)<br/>[[Jack Stewart (ice hockey)|Jack Stewart]] (1964)<br/>'''Rangers:'''<br/>[[Edgar Laprade]] (1993)<br/>[[Buddy O'Connor]] (1998)<br/>[[Chuck Rayner]] (1973)<br/>[[Fred Shero]] (2013, builder)<br/>[[Allan Stanley]] (1981)<br/>'''Coaches:'''<br/>[[Tommy Ivan]] (1974)<br/>[[Lynn Patrick]] (1980, player)
+}}
+The '''1950 Stanley Cup Final''' was contested by the [[1949–50 New York Rangers season|New York Rangers]] and the [[1949–50 Detroit Red Wings season|Detroit Red Wings]]. It was the Rangers' first appearance in the Finals since their [[Stanley Cup]] victory in [[1940 Stanley Cup Finals|1940]]. This was a rematch of the [[1937 Stanley Cup Finals]], which the Red Wings won in five games. The Red Wings once again defeated the Rangers, this time in seven games, to mark their franchise's fourth Cup win, and first since [[1943 Stanley Cup Finals|1943]].
+
+This was the last Stanley Cup Finals to feature a team that did not host any games and also the last to feature neutral site games until {{scfy|2020}}. The neutral site games were held in Toronto on account of scheduling conflicts at [[Madison Square Garden]].
+
+==Paths to the Finals==
+New York defeated the [[Montreal Canadiens]] 4–1 to reach the Finals. Detroit defeated the [[1947 Stanley Cup Finals|three-time]] [[1948 Stanley Cup Finals|defending]] [[1949 Stanley Cup Finals|champion]] [[Toronto Maple Leafs]] (who had swept the Red Wings in the Finals two years running) 4–3 to reach the Finals.
+
+==Game summaries==
+Two games were played in Toronto as the [[Ringling Bros. and Barnum & Bailey Circus|circus]] had taken over [[Madison Square Garden (1925)|Madison Square Garden]] in New York. New York's [[Don Raleigh]] scored two overtime winners and [[Pete Babando]] scored the Cup-winning goal in double overtime of Game 7, the first time ever in which the Stanley Cup was won in extra frames in Game 7. Detroit won the Cup without [[Gordie Howe]], injured in the first game of the playoffs.<ref>{{Cite web |last=Fink |first=Mike |date=2023-12-29 |title=NHL's History of Game 7 Overtime Series-Clinching Goals |url=https://thehockeywriters.com/nhl-history-game-7-overtime-series-clinching-goals/ |access-date=2024-01-31 |website=The Hockey Writers |language=en-us}}</ref><ref name=":0">{{Cite web |title=Legends of Hockey - Historic Trophies - O'Brien Trophy |url=https://www.hhof.com/legendsofhockey/html/GHsilver_splashobrien.shtml |access-date=2024-01-31 |website=www.hhof.com}}</ref>
+
+As Stanley Cup runner-up, the Rangers were awarded the [[O'Brien Trophy (ice hockey)|O'Brien Cup]], and they became the last team to win this trophy, which was retired after the season.<ref name=":0" /> Originally, the O'Brien Cup was the championship trophy of the [[National Hockey Association]], the NHL's precursor, and later awarded to the NHL champion before the league took over control of the Stanley Cup in 1927.
+
+===Series===
+
+{{NHLPlayoffs
+|team1=New York Rangers
+|team2=Detroit Red Wings
+|stadium2=[[Maple Leaf Gardens]]
+|stadium1=[[Olympia Stadium]]
+
+|date1       =April 11
+|score1      =1–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/nyr-vs-det/1950/04/11/1949030211#game=1949030211,game_state=final
+|1-1-1       =[[Buddy O'Connor]] (2) – 05:58
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =04:43 – ''pp'' – [[Joe Carveth]] (2)<br>09:32 – [[George Gee (ice hockey)|George Gee]] (2)<br>10:06 – [[Jim McFadden]] (1)<br>13:56 – ''pp'' – [[Gerry Couture]] (2)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[Chuck Rayner]]
+|goalie1-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date2       =April 13
+|score2      =1–3
+|home2       =2
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/det-vs-nyr/1950/04/13/1949030212#game=1949030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =10:39 – [[Pat Egan]] (3)
+|2-2-2       =[[Gerry Couture]] (3) – 03:05
+|2-3-1       =03:04 – [[Edgar Laprade]] (1)<br>11:20 – Edgar Laprade (2)
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Chuck Rayner]]
+|goalie2-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date3       =April 15
+|score3      =4–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/det-vs-nyr/1950/04/15/1949030213#game=1949030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Gerry Couture]] (4) – ''pp'' – 14:14<br>[[George Gee (ice hockey)|George Gee]] (3) – ''pp'' – 19:08
+|3-2-1       =''No scoring''
+|3-2-2       =[[Sid Abel]] (2) – 19:16
+|3-3-1       =''No scoring''
+|3-3-2       =[[Marty Pavelich]] (3) – 16:55
+|goalie3-1   =[[Chuck Rayner]]
+|goalie3-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date4       =April 18
+|score4      =4–3
+|home4       =1
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/nyr-vs-det/1950/04/18/1949030214#game=1949030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =06:31 – [[Ted Lindsay]] (1)<br>16:48 – [[Sid Abel]] (3)
+|4-2-1       =[[Buddy O'Connor]] (3) – 19:59
+|4-2-2       =''No scoring''
+|4-3-1       =[[Edgar Laprade]] (3) – 08:09<br>[[Gus Kyle]] (1) – 16:26
+|4-3-2       =03:32 – [[Marty Pavelich]] (4)
+|4-4-1       =[[Don Raleigh]] (3) – 08:34
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Chuck Rayner]]
+|goalie4-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date5       =April 20
+|score5      =2–1
+|ot5         =1
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/nyr-vs-det/1950/04/20/1949030215#game=1949030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =[[Dunc Fisher]] (2) – 07:44
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =18:10 – [[Ted Lindsay]] (2)
+|5-4-1       =[[Don Raleigh]] (4) – 01:38
+|5-4-2       =''No scoring''
+|goalie5-1   =[[Chuck Rayner]]
+|goalie5-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date6       =April 22
+|score6      =4–5
+|home6       =1
+|won6        =2
+|recap6      =www.nhl.com/gamecenter/nyr-vs-det/1950/04/22/1949030216#game=1949030216,game_state=final
+|6-1-1       =[[Allan Stanley]] (1) – 03:45<br>[[Dunc Fisher]] (3) – 07:35
+|6-1-2       =19:18 – [[Ted Lindsay]] (3)
+|6-2-1       =[[Pentti Lund]] (6) – ''pp'' – 03:18
+|6-2-2       =05:38 – [[Sid Abel]] (4)<br>16:07 – [[Gerry Couture]] (5)
+|6-3-1       =[[Tony Leswick]] (1) – 01:54
+|6-3-2       =04:13 – Ted Lindsay (4)<br>10:34 – Sid Abel (5)
+|goalie6-1   =[[Chuck Rayner]]
+|goalie6-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date7       =April 23
+|score7      =3–4
+|ot7         =2
+|won7        =2
+|recap7      =www.nhl.com/gamecenter/nyr-vs-det/1950/04/23/1949030217#game=1949030217,game_state=final
+|7-1-1       =[[Allan Stanley]] (2) – ''pp'' – 11:14<br>[[Tony Leswick]] (2) – ''pp'' – 12:18
+|7-1-2       =''No scoring''
+|7-2-1       =[[Buddy O'Connor]] (4) – 11:42
+|7-2-2       =05:09 – ''pp'' – [[Pete Babando]] (1)<br>05:30 – ''pp'' – [[Sid Abel]] (6)<br>15:57 – [[Jim McFadden]] (2)
+|7-3-1       =''No scoring''
+|7-3-2       =''No scoring''
+|7-4-1       =''No scoring''
+|7-4-2       =08:31 – [[Pete Babando]] (2)
+|goalie7-1   =[[Chuck Rayner]]
+|goalie7-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|series = Detroit won series 4–3
+}}
+
+==Stanley Cup engraving==
+The 1950 Stanley Cup was presented to Red Wings captain Sid Abel by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Red Wings 4–3 double overtime win over the Rangers in game seven.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1949–50 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Harry Lumley (ice hockey)|Harry Lumley]]
+* Harry MacQueston* (Spare-did not play)
+|defence=*2 [[Jack Stewart (ice hockey)|Jack Stewart]] (A)
+*3 [[Clare Martin (ice hockey)|Clare Martin]]
+*4  Leonard [[Red Kelly]]
+*5  [[Leo Reise, Jr.]] (A)
+*21 Lido [[Lee Fogolin, Sr.]]
+*22 [[Marcel Pronovost]]
+*22-3 [[Al Dewsbury]]
+|centres=*8 [[George Gee (ice hockey)|George Gee]]
+*11 [[Max McNab]]
+*12 [[Sid Abel]] (Captain)
+*16 [[Jim McFadden]]
+*20 [[Larry Wilson (ice hockey)|Larry Wilson]]
+|wingers=*7 [[Ted Lindsay]] (A)
+*9 [[Gordie Howe]]
+*10 [[Jimmy Peters, Sr.]]
+*14 [[Pete Babando]]
+*15 [[Marty Pavelich]]
+*17 [[Joe Carveth]]
+*18 [[Gerry Couture|Gerry "Doc" Couture]]
+*19 [[Steve Black (ice hockey)|Steve Black]]
+*22 [[Gordon Haidy]]^
+*23 [[Johnny Wilson (ice hockey)|John Wilson]]
+*27 [[Doug McKay]]^
+ 
+|non-players=
+*[[James E. Norris]] Sr. (President/Owner), [[James D. Norris]] Jr. (Vice President/Owner)
+*[[Arthur Wirtz]] Sr. (Secretary-Treasurer/Owner). [[Jack Adams]] (Manager) 
+*[[Tommy Ivan]] (Coach), Fred Hubert Jr (Publicity Director) 
+*[[Carson Cooper]] (Chief Scout),  Carl Mattson (Trainer) 
+*[[Walter Humeniuk]] (Asst. Trainer)
+*Wally Crossman (Stick Boy/Asst. Trainer) (on 1 of 3 team pictures)
+|player-notes=
+{{asterisk}} Name was later removed when the Stanley Cup was redone in the 1957–58 season.
+|engraving-notes=
+* * #1 [[Terry Sawchuk]] (G) – played in seven NHL games in 1950, because [[Harry Lumley (ice hockey)|Harry Lumley]] was injured. Sawchuk was not available for the playoffs because he was helping the [[American Hockey League|AHL]] [[Indianapolis Capitals]] win the [[Calder Cup]]. Instead, Harry MacQueston was called up as the spare goalie for the playoffs. MacQueston's name was engraved on the Stanley Cup, but he never played in the NHL. MacQueston was removed from the Stanley Cup when it was re-done during the 1957–58 season.
+* Al Dewsbury, Gord Haidy, and Doug Mackay also won the Calder Cup with the Indianapolis Capitals and the Stanley Cup with Detroit in 1950. Fred Glover, Enio Sclisizzi, and Benny Woit also won the Calder Cup in 1950 and then won the Stanley Cup in 1952.
+* Detroit did not engrave the names of #20 [[Gordon Haidy]] (RW) and #27 [[Doug McKay]] (LW) on the Stanley Cup, even though they each played one playoff game and qualified to be on the cup. McKay played his only NHL game in the Finals, while Haidy played his only NHL game in the semifinals.
+|
+}}
+
+==See also==
+* [[1949–50 NHL season]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+*{{cite web | url=https://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1949 Stanley Cup Finals|Toronto Maple Leafs<br>1949]] |
+ after = [[1951 Stanley Cup Finals|Toronto Maple Leafs<br>1951]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1950|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Detroit Red Wings}}
+{{New York Rangers}}
+{{1949–50 NHL season by team}}
+
+[[Category:1949–50 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:New York Rangers games]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:April 1950 sports events in Canada|Stanley Cup Finals]]
+[[Category:1950 in sports in Michigan|Stanley Cup Finals]]
+[[Category:1950 in Detroit|Stanley Cup Finals]]
+[[Category:1950 in Canadian sports|Stanley Cup Finals]]
+[[Category:1950 in Ontario|Stanley Cup Finals]]
+[[Category:1950s in Toronto]]

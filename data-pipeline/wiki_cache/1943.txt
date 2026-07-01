@@ -1,0 +1,173 @@
+{{Short description|1943 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1943
+|team1='''[[1942–43 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_captain=[[Sid Abel]]
+|team1_coach=[[Jack Adams]]
+|team1_1='''6'''
+|team1_2='''4'''
+|team1_3='''4'''
+|team1_4='''2'''
+|team1_tot=4
+|team2=[[1942–43 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston
+|team2_coach=[[Art Ross]]
+|team2_captain=[[Dit Clapper]]
+|team2_1=2
+|team2_2=3
+|team2_3=0
+|team2_4=0
+|team2_tot=0
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 2)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4)
+|dates=April 1–8, 1943
+|series_winner=[[Joe Carveth]] (12:09, first)
+|hofers='''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Ebbie Goodfellow]] (1963; did not play)<br/>[[Syd Howe]] (1965)<br/>[[Jack Stewart (ice hockey)|Jack Stewart]] (1964)<br/>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1994)<br/>'''Bruins:'''<br/>[[Frank Brimsek]] (1966)<br/>[[Dit Clapper]] (1947)<br/>[[Bill Cowley]] (1968)<br/>[[Busher Jackson]] (1971)<br/>'''Coaches:'''<br/>[[Jack Adams]] (1959, player)<br/>[[Art Ross]] (1949, player)
+}}
+The '''1943 Stanley Cup Final''' was a best-of-seven series between the [[1942–43 Boston Bruins season|Boston Bruins]] and the [[1942–43 Detroit Red Wings season|Detroit Red Wings]]. The Red Wings, appearing in their third straight Finals, swept the Bruins to win their third [[Stanley Cup]].<ref name="Stanley Cup to Detroit as sweep is complete">{{cite web|url=https://news.google.com/newspapers?id=mRc_AAAAIBAJ&sjid=Ok8MAAAAIBAJ&pg=3753%2C2580901|title=Stanley Cup to Detroit as sweep is complete|website=Google|author1=Bill King|date=April 9, 1943|access-date=August 25, 2018}}</ref>
+
+==Paths to the Finals==
+Boston defeated the [[Montreal Canadiens]] in five games to advance to the Finals. The Red Wings defeated the [[Toronto Maple Leafs]] in six games to advance and avenge their defeat in the [[1942 Stanley Cup Finals|previous year's Finals]] after the Maple Leafs erased a 3-0 series deficit to win the Cup.
+
+==Game summaries==
+Goalie [[Johnny Mowers]] shutout the Bruins in the final two games.
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|stadium2=[[Boston Garden]]
+
+|date1       =April 1
+|home1       =1
+|score1      =2–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-det/1943/04/01/1942030211#game=1942030211,game_state=final
+|1-1-1       =[[Art Jackson]] (4) - 18:13
+|1-1-2       =1:15 - [[Jack Stewart (ice hockey)|Jack Stewart]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =1:12 - [[Mud Bruneteau]] (3)<br>15:43 - ''sh'' - [[Sid Abel]] (5)<br>19:06 - [[Joe Carveth]] (4)
+|1-3-1       =[[Ab DeMarco]] (3) - 17:53
+|1-3-2       =1:21 - Mud Bruneteau (4)<br>16:24 - Mud Bruneteau (5)
+|goalie1-1   =[[Frank Brimsek]]
+|goalie1-2   =[[Johnny Mowers]]
+
+|date2       =April 4
+|home2       =1
+|score2      =3–4
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/bos-vs-det/1943/04/04/1942030212#game=1942030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =[[Jack Crawford (ice hockey)|Jack Crawford]] (1) - 10:16<br>[[Art Jackson]] (5) - 11:04
+|2-2-2       =17:06 - [[Les Douglas]] (2)
+|2-3-1       =Art Jackson (6) - 16:38
+|2-3-2       =5:55 - [[Joe Carveth]] (5)<br>6:21 - [[Carl Liscombe]] (5)<br>13:16 - [[Syd Howe]] (1)
+|goalie2-1   =[[Frank Brimsek]]
+|goalie2-2   =[[Johnny Mowers]]
+
+|date3       =April 7
+|home3       =2
+|score3      =4–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/det-vs-bos/1943/04/07/1942030213#game=1942030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Don Grosso]] (2) - 3:26<br>Don Grosso (3) - ''pp'' - 10:16
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =''No scoring''
+|3-3-2       =[[Les Douglas]] (3) - 8:03<br>Don Grosso (4) - 16:41
+|goalie3-1   =[[Frank Brimsek]]
+|goalie3-2   =[[Johnny Mowers]]
+
+|date4       =April 8
+|home4       =2
+|score4      =2–0
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/det-vs-bos/1943/04/08/1942030214#game=1942030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Joe Carveth]] (6) - 12:09
+|4-2-1       =''No scoring''
+|4-2-2       =[[Carl Liscombe]] (6) - 2:45
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Frank Brimsek]]
+|goalie4-2   =[[Johnny Mowers]]
+
+|series = Detroit won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1943 Stanley Cup was presented to Red Wings captain Sid Abel by [[NHL Commissioner|NHL President]] [[Red Dutton]] following the Red Wings 2–0 win over the Bruins in game four.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1942–43 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Johnny Mowers]]
+|defence=*2 [[Jack Stewart (ice hockey)|Jack Stewart]]
+*4 [[Jimmy Orlando]]
+*11 [[Eddie Wares]]
+*15 John [[Cully Simon]]
+*16-19–5 [[Harold Jackson (ice hockey)|Harold "Hal" Jackson]]
+*5 [[Ebbie Goodfellow]] (playing-Co-Coach)
+|centres=*3 [[Alex Motter]]
+*8 [[Syd Howe]] 
+*12 [[Sid Abel]] (Captain)
+*16-13 [[Connie Brown]]
+*18 [[Les Douglas]] 
+*18 [[Johnny Holota]]
+|wingers=*7 [[Carl Liscombe]]
+*9 Mordere [[Mud Bruneteau]]
+*10 [[Don Grosso]]
+*14 [[Joe Carveth]]
+*16 [[Adam Brown (ice hockey)|Adam Brown]]
+*17 [[Harry Watson (ice hockey, born 1923)|Harry Watson]]
+*16 [[Joe Fisher (ice hockey)|Joe Fisher]]*
+|non-players=
+* [[James E. Norris]] Sr. (President/Owner), [[James D. Norris]] Jr. (Vice President/Owner)
+* [[Arthur Wirtz]] Sr. (Secretary-Treasurer/Owner), [[Jack Adams]] (Manager-Coach)
+* Frank "Honey" Walker (Trainer) 
+|player-notes=
+{{asterisk}} Did not play in Finals.
+|engraving-notes=
+*Jack Adams (Manager-Coach) was suspended during the playoffs, so injured defenceman Ebbie Goodfellow served as Coach during Adams' suspension.  When the cup was engraved, Adams was listed as Manager and Goodfellow as Coach, even though Adams was officially the Manager-Coach. 
+*Johnny Holota was originally left off the Stanley Cup.  When cup was redone during 1957–58 season Holota's name was added to the Cup.  John Holota played only 12 games, did not play in the playoffs, and did not qualify to be engraved on the Stanley Cup
+* Carl Mattson (Asst. Trainer) was left off the Stanley Cup, but was included on mid-season team picture.
+* * Joe Fisher name was included on the cup for playing 1 regular season game and 1 playoff game (Semi-Finals). NHL no longer recognizes Fisher as playing in the playoffs in 1943, but did dress for 1 game}}
+
+==See also==
+* [[1942–43 NHL season]]
+
+==References and notes==
+{{reflist}}
+* {{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+* {{cite web | url=https://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1942 Stanley Cup Finals|Toronto Maple Leafs<br>1942]] |
+ after = [[1944 Stanley Cup Finals|Montreal Canadiens<br>1944]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1943|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Detroit Red Wings}}
+{{Boston Bruins}}
+{{1942–43 NHL season by team}}
+
+[[Category:1942–43 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Detroit Red Wings games]]
+[[Category:April 1943 sports events in the United States|Stanley Cup]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1943 in sports in Michigan|Stanley Cup]]
+[[Category:1943 in sports in Massachusetts|Stanley Cup]]
+[[Category:1943 in Detroit|Stanley Cup]]
+[[Category:1940s in Boston]]
+[[Category:Events at the Boston Garden]]

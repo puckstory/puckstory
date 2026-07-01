@@ -1,0 +1,140 @@
+{{Short description|1915 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+| image = Stanley Cup 1921.jpg 
+| image_size = 200px
+| caption = The [[Stanley Cup]] in 1921. It would have looked the same in 1915. 
+| team1 = '''[[Vancouver Millionaires]]''' (PCHA)
+| team1_short = Vancouver
+| team2 = [[1914–15 Ottawa Senators season|Ottawa Senators]] (NHA)
+| team2_short = Ottawa
+| year = 1915
+| format = best-of-five
+| team2_1 = 2
+| team1_1 = '''6'''
+| team2_2 = 3
+| team1_2 = '''8'''
+| team2_3 = 3
+| team1_3 = '''12'''
+| team2_tot = 0
+| team1_tot = 3
+| dates = March 22–26, 1915
+| location1 = [[Vancouver]]: [[Denman Arena]]
+| team1_winner = 1
+| series_winner = [[Barney Stanley]] (5:30, second)
+| hofers = '''Millionaires:'''<br/>[[Si Griffis]] (1950)<br/>[[Hughie Lehman]] (1958)<br/>[[Mickey MacKay]] (1952)<br/>[[Frank Nighbor]] (1947)<br/>[[Frank Patrick (ice hockey)|Frank Patrick]] (1950, builder)<br/>[[Barney Stanley]] (1963)<br/>[[Cyclone Taylor]] (1947)<br/>'''Senators:'''<br/>[[Clint Benedict]] (1965)<br/>[[Punch Broadbent]] (1962)<br/>[[Jack Darragh]] (1962)<br/>[[Eddie Gerard]] (1945)<br/>[[Art Ross]] (1949)<br/>'''Coaches:'''<br/>Frank Patrick (1950)
+| team1_coach = [[Frank Patrick (hockey)|Frank Patrick]]
+| team2_coach = [[Frank Shaughnessy]] (mgr.)
+| table-note = PCHA rules: 1,3 NHA: 2 
+}}
+
+The '''1915 Stanley Cup Final''' was played from March 22–26, 1915. The [[Pacific Coast Hockey Association]] (PCHA) champion [[Vancouver Millionaires]] swept the [[National Hockey Association]] (NHA) champion [[1914–15 Ottawa Senators season|Ottawa Senators]] three games to none in a best-of-five game series. The finals were played in Vancouver, with games one, three and five played under PCHA rules. The Millionaires became the first team from the PCHA to win the Cup. This was the second Stanley Cup championship series between the champions of the NHA and the PCHA and the first held in a PCHA rink.
+
+==Paths to the series==
+{{Main|1914–15 NHA season|1914–15 PCHA season}}
+
+[[File:Ottawa Senators, 1914-1915.jpg|thumb|left|The [[Ottawa Senators (original)|Ottawa Senators]] during the [[1914–15 NHA season]].]]
+
+In 1914, the PCHA and NHA agreed to a yearly Stanley Cup championship series between the two teams that won each league for the right to hold the Stanley Cup, effectively ending the [[List of Stanley Cup challenge games|challenge era]] for the Cup.<ref>{{harvnb|Wong|2005|p=69}}</ref>
+
+Vancouver finished the [[1914–15 PCHA season|1914–15 PCHA regular season]] in first place, and thus winning that league's title, with a record of 13–4.<ref>{{harvnb|Coleman|1964|p=277}}</ref> Meanwhile, Ottawa and the [[Montreal Wanderers]] both finished the [[1914–15 NHA season|1914–15 NHA regular season]] tied for first place with identical 14–6 records, and thus had to play a two-game total goals series to determine the NHA champion. Ottawa won this series 4–1 to advance to the Stanley Cup series.<ref name="Jenish 85">{{harvnb|Jenish|1992|p=84}}</ref> Ottawa left for Vancouver, which hosted the series that year, on March 15.<ref>{{harvnb|Kitchen|2008|p=183}}</ref> Vancouver captain [[Si Griffis]] missed the series due to a broken leg from an exhibition series against NHA all-stars held while waiting for the Finals to start.<ref>{{harvnb|Zweig|2012|p=279}}</ref>
+
+==Game summaries==
+[[File:Vancouver Millionaires 1915.jpg|thumb|right|The [[Vancouver Millionaires]] during the [[1914–15 PCHA season]].]]
+All games of the championship finals were played at Vancouver's [[Denman Arena]], the home of the PCHA champion Millionaires.<ref name="Jenish 85"/> Vancouver ended up sweeping the series with victories of 6–2, 8–3, and 12–3, scoring 26 total goals while limiting the Senators to just eight overall. Former Senator [[Cyclone Taylor]] led the Millionaires with six goals. Future [[Hockey Hall of Fame]]r [[Barney Stanley]] scored five goals, including three in the second period of game three. The Cup was not brought west to Vancouver by the Senators, so was not immediately presented to the winners.<ref>{{harvnb|Bowlsby|2012|p=80}}</ref>
+
+{|class="wikitable"
+!colspan=2|Game-by-Game
+!Winning team
+!Score
+!Losing team
+!Rules Used
+!Location
+|-
+|1||March 22||Vancouver Millionaires||6–2||Ottawa Senators||PCHA||rowspan="3"|[[Denman Arena]], Vancouver
+|-
+|2||March 24||Vancouver Millionaires||8–3||Ottawa Senators||NHA
+|-
+|3||March 26||Vancouver Millionaires||12–3||Ottawa Senators||PCHA
+|-
+!colspan="7" style="text-align:left;"|Millionaires win best-of-five series 3–0
+
+|}
+* Vancouver Millionaires PCHA champions - Starting Lineup - Hugh Leahman goalie, Lloydy Cook point, Frank Patrick (manager-coach/owner) cover point, Fred "Cyclone" Taylor rover-centre, Duncan "Mickey" MacKay centre-left wing, Frank Nighbor right wing, Russell "Barney" Stanley left wing - subs Kenny Mallen defence, Jim Seanborn defence, Silas "Si" Griffis (captain) defence - Spare - Jean "Johnny" Matz - Centre
+* Ottawa Senators NHA champions - Starting Lineup - Clint Benedict goalie, Horace Merrill point, Art Ross cover point, Eddie Gerard (Captain) - left wing-rover, Angus Duford centre, Harry "Punch" Broadbent right wing, Leth Graham left wing - subs Jack Darragh right wing-centre, Hamilton "Hamby" Shore left wing - Spares - Bill Bell centre, Fred Lake defence, Ed Lowrey centre, Art Sullivan centre, Sammy Herbert - goalie, Frank Saughneesy (Manager), Alf Smith (Coach).
+
+==Stanley Cup engraving==
+The 1915 Stanley Cup was presented by the trophy's trustee [[William Foran]].
+
+The following Millionaires players and staff were eligible to have their names engraved on the Stanley Cup
+
+'''1914–15 Vancouver Millionaires'''
+
+{{Stanley Cup champion
+|goaltenders=*[[Hughie Lehman]]
+|defence=*[[Lloyd Cook]]
+*Silas [[Si Griffis]] (C)
+*[[Ken Mallen]]
+*[[Frank Patrick (ice hockey)|Frank Patrick]] (owner/president/manager/coach/defence)
+*[[Jim Seaborn]]
+|centres=*[[Mickey MacKay]]
+*Fred [[Cyclone Taylor]]‡
+
+|wingers=*[[Frank Nighbor]]
+*Russell [[Barney Stanley]]
+|non-players=
+* None (see Frank Patrick)
+‡ Played [[rover (ice hockey)|rover]], a position between both defencemen and behind the centre.
+|engraving-notes=
+
+The Senators had the words "Ottawa/NHA Champions/1914–15" engraved on the base of the trophy's original bowl even though they did not win the Cup final. This was the practice of the challenge era. The trophy was officially passed on to the winner of the league championship of the previous Cup champion's league. The previous Cup winner was the 1913–14 NHA champion [[Toronto Blueshirts]]. However, the trustees had excused themselves from organizing challenges after the previous championship series.<ref>{{cite news |work=Toronto World |title=Three Pro Leagues as to Stanley Cup |date=March 25, 1914 |page=8}}</ref> 
+
+After the series, "Vancouver B.C./1914–15/Defeated Ottawa/3 Straight Games" was added to the Cup. Eight players' names and the manager's name were also engraved inside the bowl along the fluted sides.
+
+Ken Mallen played 14 of 16 regular-season games and two of three games in the series. Mallen's name was left off by mistake. [[Johnny Matz]], who played one game in the regular season before being released, was not on the Cup either.
+
+}}
+
+==See also==
+*[[1914–15 NHA season]]
+*[[1914–15 PCHA season]]
+
+==References==
+{{reflist|20em}}
+
+===Bibliography===
+{{Refbegin|40em}}
+* {{Citation|last=Bowlsby|first=Craig H.|title=Empire of Ice: The Rise and Fall of the Pacific Coast Hockey Association, 1911–1926|publisher=Knights of Winter|location=Vancouver|year=2012|isbn=978-0-9691705-6-3}}
+* {{Citation|last=Coleman|first=Charles L.|year=1964|title=The Trail of the Stanley Cup, Volume 1: 1893–1926 inc.|publisher=Kendall/Hunt Publishing|location=Dubuque, Iowa|oclc=957132}}
+*{{cite book | editor-last = Diamond |editor-first = Dan| title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | page=46}}
+* {{Citation|last=Jenish|first=D'Arcy|year=1992|title=The Stanley Cup: A Hundred Years of Hockey at its Best|publisher=McClelland & Stewart Inc.|location=Toronto, Ontario|isbn=0-7710-4406-2}}
+* {{Citation|last=Kitchen|first=Paul|title=Win, Tie, or Wrangle: The Inside Story of the Old Ottawa Senators 1883–1935|year=2008|publisher=Penumbra Press|location=Manotick, Ontario|isbn=978-1-897323-46-5}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame |author2-link=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 47}}
+* {{Citation|last=Wong|first=John Chi-Kit|title=Lords of the Rinks: The Emergence of the National Hockey League 1875–1936|publisher=University of Toronto Press|location=Toronto|year=2005|isbn=0-8020-8520-2}}
+* {{Citation|last=Zweig|first=Eric|title=Stanley Cup: 120 Years of Hockey Supremacy|year=2012|publisher=Firefly Books|location=Richmond Hill, Ontario|isbn=978-1-77085-104-7}}
+{{Refend}}
+
+{{s-start}}
+{{succession box |
+  before = [[1913–14 NHA season#Toronto Hockey Club 1914 Stanley Cup Champions|Toronto Hockey Club<br />1914]] |
+  after = [[1916 Stanley Cup Final#Montreal Canadiens 1916 Stanley Cup champions|Montreal Canadiens<br />1916]] |
+  title = [[List of Stanley Cup champions|Vancouver Millionaires<br />Stanley Cup champions]] |
+  years = 1915|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{1914–15 NHA season by team}}
+{{PCHA}}
+
+
+[[Category:1910s in Vancouver]]
+[[Category:1915 in sports in British Columbia|Stanley Cup]]
+[[Category:1914–15 in Canadian ice hockey|Stanley Cup]]
+[[Category:1914–15 PCHA season]]
+[[Category:Ice hockey competitions in Vancouver]]
+[[Category:Ottawa Senators (original) games]]
+[[Category:Stanley Cup Finals]]
+[[Category:Vancouver Millionaires games|1915]]
+[[Category:March 1915 sports events in Canada]]

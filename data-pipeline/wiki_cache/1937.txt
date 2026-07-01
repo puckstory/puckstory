@@ -1,0 +1,192 @@
+{{Short description|1937 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1937
+|team1='''[[1936–37 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_coach=[[Jack Adams]]
+|team1_captain=[[Doug Young (ice hockey)|Doug Young]]
+|team1_1=1
+|team1_2='''4'''
+|team1_3=0
+|team1_4='''1'''
+|team1_5='''3'''
+|team1_tot=3
+|team2=[[1936–37 New York Rangers season|New York Rangers]]
+|team2_short=New York
+|team2_captain=[[Bill Cook]]
+|team2_coach=[[Lester Patrick]]
+|team2_1='''5'''
+|team2_2=2
+|team2_3='''1'''
+|team2_4=0
+|team2_5=0
+|team2_tot=2
+|format=best-of-five
+|location1=[[New York City]]: [[Madison Square Garden (1925)|Madison Square Garden]] (1)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (2–5)
+|dates=April 6–15, 1937
+|series_winner=[[Marty Barry]] (19:22, first)
+|hofers='''Red Wings:'''<br/>[[Marty Barry]] (1965)<br/>[[Ebbie Goodfellow]] (1963)<br/>[[Syd Howe]] (1965)<br/>[[Herbie Lewis (ice hockey)|Herbie Lewis]] (1989)<br/>'''Rangers:'''<br/>[[Frank Boucher]] (1958)<br/>[[Neil Colville]] (1967)<br/>[[Art Coulter]] (1974)<br/>[[Ching Johnson]] (1937)<br/>[[Lynn Patrick]] (1980)<br/>[[Babe Pratt]] (1966)<br/>'''Coaches:'''<br/>[[Jack Adams]] (1959, player)<br/>[[Lester Patrick]] (1947, player)
+}}
+
+The '''1937 Stanley Cup Final''' was contested by the defending champion [[1936–37 Detroit Red Wings season|Detroit Red Wings]] and the [[1936–37 New York Rangers season|New York Rangers]] in their fifth Finals series appearance. Detroit would win the series 3–2 to win their second and second-straight [[Stanley Cup]].
+
+==Paths to the Finals==
+Detroit defeated [[Montreal Canadiens]] in a best-of-five 3–2 to advance to the Finals. The Rangers had to play two best-of three series; winning 2–0 against [[Toronto Maple Leafs]], and 2–0 against the [[Montreal Maroons]] to advance to the Finals.
+
+==Game summaries==
+The Wings became the first U.S.-based team to win the Stanley Cup two years in a row, and the third NHL team (after the 1920-21 [[Ottawa Senators (original)|Ottawa Senators]] and 1930-31 Montreal Canadiens) to repeat since the league's founding in 1917.
+
+{{NHLPlayoffs
+|team2=New York Rangers
+|team1=Detroit Red Wings
+|stadium1=[[Madison Square Garden III]]
+|stadium2=[[Olympia Stadium]]
+
+|date1       =April 6
+|home1       =1
+|score1      =1–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-nyr/1937/04/06/1936030211#game=1936030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =5:23 - [[Butch Keeling]] (2)<br>9:40 - [[Lynn Patrick]] (2)<br>18:43 - [[Joe Cooper (ice hockey)|Joe Cooper]] (1)
+|1-2-1       =''No scoring''
+|1-2-2       =18:55 - [[Frank Boucher]] (2)
+|1-3-1       =[[Syd Howe]] (2) - 17:12
+|1-3-2       =18:22 - Lynn Patrick (3)
+|goalie1-1   =[[Normie Smith]]<br>[[Earl Robertson]]
+|goalie1-2   =[[Dave Kerr]]
+
+|date2       =April 8
+|home2       =2
+|score2      =2–4
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/nyr-vs-det/1937/04/08/1936030212#game=1936030212,game_state=final
+|2-1-1       =9:22 - ''pp'' - [[John Sorrell (ice hockey)|John Sorrell]] (1)<br>12:07 - [[Mud Bruneteau]] (2)<br>13:31 - [[John Gallagher (ice hockey)|John Gallagher]] (1)
+|2-1-2       =''No scoring''
+|2-2-1       =11:02 - [[Herbie Lewis (ice hockey)|Herbie Lewis]] (4)
+|2-2-2       =[[Babe Pratt]] (3) - 15:06<br>[[Butch Keeling]] (3) - 18:18
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Earl Robertson]]
+|goalie2-2   =[[Dave Kerr]]
+
+|date3       =April 11
+|home3       =2
+|score3      =1–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/nyr-vs-det/1937/04/11/1936030213#game=1936030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =[[Neil Colville]] (3) - 00:23
+|3-3-1       =''No scoring''
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Earl Robertson]]
+|goalie3-2   =[[Dave Kerr]]
+
+|date4       =April 13
+|home4       =2
+|score4      =0–1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/nyr-vs-det/1937/04/13/1936030214#game=1936030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =12:43 - [[Marty Barry]] (2)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Earl Robertson]]
+|goalie4-2   =[[Dave Kerr]]
+
+|date5       =April 15
+|home5       =2
+|score5      =0–3
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/nyr-vs-det/1937/04/15/1936030215#game=1936030215,game_state=final
+|5-1-1       =19:22 - ''pp'' - [[Marty Barry]] (3)
+|5-1-2       =''No scoring''
+|5-2-1       =9:36 - [[John Sorrell (ice hockey)|John Sorrell]] (2)
+|5-2-2       =''No scoring''
+|5-3-1       =2:22 - Marty Barry (4)
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Earl Robertson]]
+|goalie5-2   =[[Dave Kerr]]
+
+|series = Detroit won series 3–2
+}}
+
+==Stanley Cup engraving==
+The 1937 Stanley Cup was presented to Red Wings captain Doug Young by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Red Wings 3–0 win over the Rangers in game five.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+
+'''1936–37 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Normie Smith]]
+*1 [[Earl Robertson]](Sub)
+*30 [[Jimmy Franks (ice hockey)|Jimmy Franks]] (Sub)
+|defence=*2-14 [[Doug Young (ice hockey)|Doug Young]] (Captain)
+*17-2 [[John Gallagher (ice hockey)|John Gallegher]]
+*3 Wilfred [[Bucko McDonald]]
+*5 [[Ebbie Goodfellow]] 
+*16 [[Ralph "Scotty" Bowman]]
+*18-16-2 [[Orville "Rolly" Roulston]]
+*17-2 [[Jimmy Orlando]]
+|centres=*7 [[Marty Barry]]
+*9 [[Wally Kilrea]]
+*11 [[Gord Pettinger]]
+|wingers=*4 [[Herbie Lewis (ice hockey)|Herbie Lewis]]
+*6 [[Larry Aurie]]
+*8 [[Syd Howe]]
+*10 [[John Sorrell (ice hockey)|John Sorrell]]
+*12 [[Hec Kilrea]]
+*14 Modere [[Mud Bruneteau]]
+*17-14 [[Howard Mackie (ice hockey)|Howard Mackie]]*
+*15 [[Pete Kelly (ice hockey)|Pete Kelly]]*
+*18 [[John Sherf]]
+|non-players=
+*[[James E. Norris]] Sr. (President/Owner), [[James D. Norris]] Jr. (Vice President/Owner) 
+*[[Arthur Wirtz]] Sr. (Secretary-Treasurer/Owner), Frank "Honey" Walker (Trainer), 
+*[[Jack Adams]] (Manager-Coach)
+|engraving-notes=
+* Initially, the engraving for 1936 and 1937 included each member's position and playoff scores.  Hec Kilrea's position was listed as 'General Utility' instead of 'Left Wing'. No other time has a player's position ever been included on the Stanley Cup. When the Cup was redone during the 1957–58 season, all player positions and playoff scores for both years were left off the cup. 
+* * Two players, Pete Kelly and Howard Mackie, were included on the original ring in 1937. Their names are not on the newer ring, now retired to the [[Hockey Hall of Fame]]. 
+* Carl Mattson (Ass't Trainer) was not included on the Cup in 1936 or 1937. There is more than enough room for all three members to have been engraved on the ring.
+* Ebbie Goodfellow served as Captain, because Doug Young missed most of the season with an injury.
+* Jimmy Orlando played 9 regular-season games for Detroit. He also played 37 regular-season games and 5 playoff games in the minors for Pittsburgh.  Detroit still included his name on the Stanley Cup even though he did not qualify.
+}}
+
+==See also==
+* [[1936–37 NHL season]]
+
+==References & notes==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1936 Stanley Cup Finals|Detroit Red Wings<br>1936]] |
+ after = [[1938 Stanley Cup Finals|Chicago Black Hawks<br>1938]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1937|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Detroit Red Wings}}
+{{New York Rangers}}
+{{1936–37 NHL season by team}}
+
+[[Category:1936–37 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:New York Rangers games]]
+[[Category:1937 in Detroit|Stanley Cup Finals]]
+[[Category:1937 in sports in New York City|Stanley Cup Finals]]
+[[Category:1937 in sports in Michigan|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:April 1937 sports events in the United States|Stanley Cup Finals]]
+[[Category:1930s in Manhattan]]

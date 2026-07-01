@@ -1,0 +1,1667 @@
+{{short description|2023 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=June 2023}}
+{{Infobox Stanley Cup Final
+| year = 2023
+| image = 2023 Stanley Cup Final.png
+| team1 = [[2022–23 Florida Panthers season|Florida Panthers]]
+| team2 ='''[[2022–23 Vegas Golden Knights season|Vegas Golden Knights]]''' 
+| team1_1 = 2
+| team2_1 = '''5'''
+| team1_2 = 2
+| team2_2 = '''7'''
+| team1_3 = '''3'''*
+| team2_3 = 2*
+| team1_4 = 2
+| team2_4 = '''3'''
+| team1_5 = 3
+| team2_5 = '''9'''
+| team1_tot = 1
+| team2_tot = 4
+| location1 = [[Sunrise, Florida|Sunrise]]: [[FLA Live Arena]] (3, 4)
+| location2 = [[Paradise, Nevada|Paradise]]: [[T-Mobile Arena]] (1, 2, 5) 
+| team1_coach = [[Paul Maurice]]
+| team2_coach = [[Bruce Cassidy]] 
+| team1_short = Florida
+| team2_short = Vegas 
+| team1_captain = [[Aleksander Barkov]]
+| team2_captain = [[Mark Stone]] 
+| team1_national_anthem = [[Phillip Phillips]] (3)<br>[[Cassadee Pope]] (4)
+| team2_national_anthem = Carnell Johnson
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = [[Steve Kozari]] (2, 4)<br>[[Wes McCauley]] (1, 4)<br>[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (1, 3)<br>[[Chris Rooney]] (2, 5)<br>[[Kelly Sutherland]] (3, 5)
+| dates = June 3–13, 2023
+| mvp = [[Jonathan Marchessault]] (Golden Knights)
+| series_winner = [[Reilly Smith]] (12:13, second)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on TNT|TNT/TruTV]], [[TBS (American TV channel)|TBS]] (1–4) 
+| net_announcers = (CBC/SN) [[Chris Cuthbert]] and [[Craig Simpson]]<br> (TNT/TruTV/TBS) [[Kenny Albert]], [[Eddie Olczyk]], and [[Keith Jones (ice hockey)|Keith Jones]]<br/>(NHL International) E. J. Hradek and [[Kevin Weekes]]<ref>{{Cite tweet |author=Kevin Weekes|user=KevinWeekes|number=1665146391835074560|title=15th @StanleyCup Final, happy to be alongside my guy @EJHradek_NHL on the @NHL International Broadcast to 165 countries around the world. Please let us know where you're tuning in from !@FlaPanthers @GoldenKnights @NHL #HockeyTwitter}}</ref>
+}}
+The '''2023 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2022–23 NHL season|2022–23 season]] and the culmination of the [[2023 Stanley Cup playoffs]]. The [[Western Conference (NHL)|Western Conference]] champion [[2022–23 Vegas Golden Knights season|Vegas Golden Knights]] defeated the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2022–23 Florida Panthers season|Florida Panthers]] four games to one in the [[best-of-seven playoff|best-of-seven series]] to earn their first championship in their sixth season.<ref>{{cite web|url=https://www.cnn.com/2023/06/13/sport/nhl-vegas-golden-knights-florida-panthers-stanley-cup-spt-intl/index.html|title=Vegas Golden Knights win first Stanley Cup in young franchise's history after defeating Florida Panthers|last=Almasy|first=Steve|publisher=Cable News Network|date=June 14, 2023|website=CNN.com|accessdate=June 14, 2023}}</ref> Vegas had home ice advantage in the series with the better regular season record.<ref name="Start_date"/>
+
+The series began on June 3, and concluded on June 13.<ref name="Start_date"/> This was the first Final series since [[2018 Stanley Cup Final|2018]] in which neither team had previously won the Stanley Cup.<ref>{{cite web|url=https://www.nytimes.com/athletic/4563833/2023/05/30/2023-stanley-cup-final-odds-schedule/|title=Stanley Cup Final 2023 odds, schedule: Panthers' Sergei Bobrovsky favored to win Conn Smythe|last1=DeWitt|first1=Andrew|last2=McKenzie|first2=Julian|publisher=The Athletic Media Company|date=May 30, 2023|website=TheAthletic.com|access-date=June 14, 2023|archive-date=May 31, 2023|archive-url=https://web.archive.org/web/20230531230905/https://theathletic.com/4563833/2023/05/30/2023-stanley-cup-final-odds-schedule/#:~:text=The%202023%20Stanley%20Cup%20Final,in%20the%20Stanley%20Cup%20Final.|url-status=live}}</ref> For the first time since before the [[COVID-19 pandemic]], the Final ran through the first weeks of June.<ref name="Start_date">{{cite press release|url=https://media.nhl.com/public/news/17133|title=2023 Stanley Cup Final Will Open Either Wednesday, May 31, or Saturday, June 3|publisher=NHL Enterprises, L. P.|date=May 25, 2023|website=media.NHL.com|accessdate=May 26, 2023}}</ref>
+
+==Paths to the Final==
+
+===Florida Panthers===
+{{Main|2022–23 Florida Panthers season}}
+This was the second Final appearance for the Panthers. Their only previous appearance was in [[1996 Stanley Cup Final|1996]], which they lost in a four-game sweep to the [[Colorado Avalanche]].<ref>{{cite web|url=https://www.nhl.com/gamecenter/col-vs-fla/1996/06/10/1995030414#game=1995030414,game_state=final|title=Colorado Avalanche – Florida Panthers – June 10th, 1996|publisher=NHL Enterprises, L. P.|date=June 10, 1996|website=NHL.com|accessdate=May 25, 2023|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525162943/https://www.nhl.com/gamecenter/col-vs-fla/1996/06/10/1995030414#game=1995030414,game_state=final|url-status=live}}</ref>
+
+During the offseason, former [[Winnipeg Jets]] head coach [[Paul Maurice]] was hired as the Panthers head coach.<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-name-paul-maurice-head-coach/c-334699176|title=Florida Panthers Name Paul Maurice Head Coach|publisher=NHL Enterprises, L. P.|website=NHL.com|date=June 22, 2022|accessdate=June 23, 2022|archive-date=June 22, 2022|archive-url=https://web.archive.org/web/20220622225136/https://www.nhl.com/panthers/news/florida-panthers-name-paul-maurice-head-coach/c-334699176|url-status=live}}</ref> The Panthers made a large offseason acquisition, trading [[Jonathan Huberdeau]], who led the team in points the previous year, along with [[MacKenzie Weegar]] to the [[Calgary Flames]] for [[Matthew Tkachuk]].<ref>{{cite web|url=https://www.nhl.com/flames/news/flames-acquire-huberdeau-weegar/c-335071552|title=FLAMES ACQUIRE HUBERDEAU, WEEGAR|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 22, 2022|accessdate=May 17, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415165926/https://www.nhl.com/flames/news/flames-acquire-huberdeau-weegar/c-335071552|url-status=live}}</ref> Tkachuk led the team in points this year with 109. Through free agency, the team acquired forwards [[Nick Cousins]],<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-nick-cousins-on-a-two-year-contract/c-334965484|title=Florida Panthers Agree to Terms with Forward Nick Cousins|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 13, 2022|accessdate=May 17, 2023|archive-date=November 17, 2022|archive-url=https://web.archive.org/web/20221117123244/https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-nick-cousins-on-a-two-year-contract/c-334965484|url-status=live}}</ref> [[Colin White (ice hockey, born 1997)|Colin White]],<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-colin-white-on-a-one-year-contract/c-334963064|title=Florida Panthers Agree to Terms with Forward Colin White|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 13, 2022|accessdate=May 17, 2023|archive-date=July 21, 2022|archive-url=https://web.archive.org/web/20220721080024/https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-colin-white-on-a-one-year-contract/c-334963064|url-status=live}}</ref> and [[Eric Staal]],<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-eric-staal-on-a-one-year-contract/c-336645686|title=Florida Panthers Agree to Terms with Eric Staal on a One-Year Contract|website=NHL.com|publisher=NHL Enterprises, L. P.|date=October 21, 2022|accessdate=May 17, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415165208/https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-eric-staal-on-a-one-year-contract/c-336645686|url-status=live}}</ref> defenceman [[Marc Staal]] (Eric's brother),<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-defenseman-marc-staal/c-334973912|title=Florida Panthers Agree to Terms with Defenseman Marc Staal|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 13, 2022|accessdate=May 17, 2023|archive-date=April 4, 2023|archive-url=https://web.archive.org/web/20230404041222/https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-defenseman-marc-staal/c-334973912|url-status=live}}</ref> and goaltender [[Alex Lyon (ice hockey)|Alex Lyon]].<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-goaltender-alex-lyon-on-a-one-year-contract/c-334964474|title=Florida Panthers Agree to Terms with Goaltender Alex Lyon|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 13, 2022|accessdate=May 17, 2023|archive-date=April 4, 2023|archive-url=https://web.archive.org/web/20230404045459/https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-goaltender-alex-lyon-on-a-one-year-contract/c-334964474|url-status=live}}</ref> The team also opted to re-sign forward [[Eetu Luostarinen]] and goaltender [[Spencer Knight]].<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-re-sign-forward-eetu-luostarinen-to-a-two-year-contract/c-334845986|title=Eetu Luostarinen to a Two-Year Contract|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 8, 2022|accessdate=May 17, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415165618/https://www.nhl.com/panthers/news/florida-panthers-re-sign-forward-eetu-luostarinen-to-a-two-year-contract/c-334845986|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/panthers/news/spencer-knight-agrees-to-terms-on-contract-extension-with-florida-panthers/c-335820808|title=Spencer Knight Agrees to Terms on Contract Extension with Panthers|website=NHL.com|publisher=NHL Enterprises, L. P.|date=September 27, 2022|accessdate=May 17, 2023|archive-date=October 8, 2022|archive-url=https://web.archive.org/web/20221008190241/https://www.nhl.com/panthers/news/spencer-knight-agrees-to-terms-on-contract-extension-with-florida-panthers/c-335820808|url-status=live}}</ref> Midway through the regular season, the team claimed defenceman [[Casey Fitzgerald (ice hockey)|Casey Fitzgerald]] off of waivers.<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-claim-defenseman-casey-fitzgerald-off-waivers/c-339811336|title=Florida Panthers Claim Defenseman Casey Fitzgerald Off Waivers|publisher=NHL Enterprises, L. P.|date=January 11, 2023|website=NHL.com|accessdate=May 29, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415164230/https://www.nhl.com/panthers/news/florida-panthers-claim-defenseman-casey-fitzgerald-off-waivers/c-339811336|url-status=live}}</ref>
+
+The Panthers finished with a {{win-loss record|w=42|l=32|otl=8}} record and obtained the eighth seed in the Eastern Conference with 92 points, the lowest point total of any playoff team. In the first round, the Panthers overcame a 3–1 series deficit against the [[Presidents' Trophy]]-winning [[2022–23 Boston Bruins season|Boston Bruins]], who had set the NHL season records for points and wins, and defeated them in a game seven overtime.<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-boston-bruins-game-7-recap/c-343600192|title=Panthers stun Bruins in Game 7 in OT, win Eastern 1st-Round series|last=Pohoryles|first=Joe|publisher=NHL Enterprises, L. P.|date=April 30, 2023|website=NHL.com|accessdate=April 30, 2023|archive-date=May 1, 2023|archive-url=https://web.archive.org/web/20230501021743/https://www.nhl.com/news/florida-panthers-boston-bruins-game-7-recap/c-343600192|url-status=live}}</ref> They then eliminated the [[2022–23 Toronto Maple Leafs season|Toronto Maple Leafs]] in five games during the second round and swept the [[2022–23 Carolina Hurricanes season|Carolina Hurricanes]] in the Eastern Conference final.<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-toronto-maple-leafs-game-5-recap/c-344102992|title=Panthers win Game 5 in OT, eliminate Maple Leafs in East 2nd Round|last=McCarthy|first=Dave|publisher=NHL Enterprises, L. P.|date=May 12, 2023|website=NHL.com|accessdate=May 12, 2023|archive-date=May 13, 2023|archive-url=https://web.archive.org/web/20230513025539/https://www.nhl.com/news/florida-panthers-toronto-maple-leafs-game-5-recap/c-344102992|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/news/carolina-hurricanes-florida-panthers-game-4-recap/c-344415988|title=Panthers sweep Hurricanes with Game 4 win, advance to Stanley Cup Final|last=Poupart|first=Alain|publisher=NHL Enterprises, L. P.|date=May 24, 2023|website=NHL.com|accessdate=May 24, 2023|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525031041/https://www.nhl.com/news/carolina-hurricanes-florida-panthers-game-4-recap/c-344415988|url-status=live}}</ref> The Panthers became the fourth eighth seed to reach the Final, following the [[2005–06 Edmonton Oilers season|Edmonton Oilers]] in {{scfy|2006}}, the [[2011–12 Los Angeles Kings season|Los Angeles Kings]] in {{scfy|2012}}, and the [[2016–17 Nashville Predators season|Nashville Predators]] in {{scfy|2017}}.<ref>{{cite web|url=https://floridahockeynow.com/no-8-to-the-stanley-cup-florida-panthers-know-it-king-be-done/|title=No. 8 to the Stanley Cup? Florida Panthers Know it 'King' Be Done|last=Richards|first=George|publisher=National Hockey Now|date=May 27, 2023|website=FloridaHockeyNow.com|accessdate=June 7, 2023|archive-date=June 3, 2023|archive-url=https://web.archive.org/web/20230603110408/https://floridahockeynow.com/no-8-to-the-stanley-cup-florida-panthers-know-it-king-be-done/|url-status=live}}</ref>
+
+===Vegas Golden Knights===
+{{Main|2022–23 Vegas Golden Knights season}}
+This was Vegas' second Final appearance. Their only previous appearance was in [[2018 Stanley Cup Final|2018]], which they lost to the [[Washington Capitals]] in five games.<ref>{{cite web|url=https://www.reuters.com/article/us-icehockey-nhl-vgk-wsh/capitals-beat-golden-knights-to-clinch-maiden-stanley-cup-title-idUSKCN1J40AE|title=Capitals beat Golden Knights to win their first Stanley Cup|first=Frank|last=Pingue|publisher=Reuters|date=June 7, 2018|website=reuters.com|accessdate=May 25, 2023|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525173641/https://www.reuters.com/article/us-icehockey-nhl-vgk-wsh/capitals-beat-golden-knights-to-clinch-maiden-stanley-cup-title-idUSKCN1J40AE|url-status=live}}</ref> The Golden Knights experienced immediate success after beginning play in [[2017–18 Vegas Golden Knights season|2017]], reaching the Stanley Cup Final in their inaugural season and qualifying for the playoffs in their first four. However, they missed the playoffs for the first time in franchise history the [[2021–22 Vegas Golden Knights season|previous season]], which led to the firing of head coach [[Peter DeBoer]].<ref name="nhl.com">{{cite web|url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-changes-to-coaching-staff/c-334120726|title=Vegas Golden Knights Announce Changes To Coaching Staff|website=NHL.com|date=May 16, 2022|access-date=May 16, 2022|archive-date=August 12, 2022|archive-url=https://web.archive.org/web/20220812183614/https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-changes-to-coaching-staff/c-334120726|url-status=live}}</ref>
+
+During the offseason, the Golden Knights hired former [[Boston Bruins]] coach [[Bruce Cassidy]] as their head coach.<ref name="nhl.com"/> They also acquired goaltender [[Adin Hill]] in a trade,<ref>{{cite web|url=https://www.nhl.com/goldenknights/news/vgk-acquire-goaltender-adin-hill-from-the-san-jose-sharks/c-335415556|title=VGK Acquire Goaltender Adin Hill From the San Jose Sharks|publisher=NHL Enterprises, L. P.|website=NHL.com|date=August 29, 2022|accessdate=May 25, 2023|archive-date=August 30, 2022|archive-url=https://web.archive.org/web/20220830000344/https://www.nhl.com/goldenknights/news/vgk-acquire-goaltender-adin-hill-from-the-san-jose-sharks/c-335415556|url-status=live}}</ref> re-signed [[Brett Howden]],<ref name="July 13 Transactions">{{cite web|url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-roster-transactions/c-334975582|title=Vegas Golden Knights Announce Roster Transactions|website=NHL.com|publisher=NHL Enterprises, L. P.|date=July 13, 2022|accessdate=May 16, 2023|archive-date=April 4, 2023|archive-url=https://web.archive.org/web/20230404093104/https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-roster-transactions/c-334975582|url-status=live}}</ref> [[Reilly Smith]],<ref name="July 13 Transactions"/> [[Keegan Kolesar]],<ref>{{cite web|url=https://www.nhl.com/goldenknights/news/vgk-agree-to-terms-with-forward-keegan-kolesar/c-335197148|title=VGK Agree To Terms With Forward Keegan Kolesar|publisher=NHL Enterprises, L. P.|website=NHL.com|date=August 5, 2022|accessdate=May 16, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415164036/https://www.nhl.com/goldenknights/news/vgk-agree-to-terms-with-forward-keegan-kolesar/c-335197148|url-status=live}}</ref> and [[Nicolas Roy]],<ref>{{cite web|url=https://www.nhl.com/goldenknights/news/vgk-sign-forward-nicolas-roy-to-five-year-contract-extension/c-335216510|title=VGK Sign Forward Nicolas Roy to Five-Year Contract Extension|publisher=NHL Enterprises, L. P.|website=NHL.com|date=August 8, 2022|access-date=May 16, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415171320/https://www.nhl.com/goldenknights/news/vgk-sign-forward-nicolas-roy-to-five-year-contract-extension/c-335216510|url-status=live}}</ref> and also signed [[Phil Kessel]], a two-time Stanley Cup champion during his time with the Pittsburgh Penguins, during free agency.<ref>{{cite web|url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forward-phil-kessel-to-one-year-contract/c-335379250|title=Vegas Golden Knights Sign Forward Phil Kessel to One-Year Contract|publisher=NHL Enterprises, L. P.|website=NHL.com|date=August 24, 2022|accessdate=May 16, 2023|archive-date=November 16, 2022|archive-url=https://web.archive.org/web/20221116151155/https://www.nhl.com/goldenknights/news/vegas-golden-knights-sign-forward-phil-kessel-to-one-year-contract/c-335379250|url-status=live}}</ref> At the trade deadline, the Golden Knights acquired forwards [[Ivan Barbashev]] (reuniting him with Alex Pietrangelo from the [[2019 Stanley Cup Final|2019]] Stanley Cup champion [[St. Louis Blues]]) and [[Teddy Blueger]],<ref>{{cite web|url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-acquire-barbashev-from-blues/c-341535388|title=Vegas Golden Knights Acquire Barbashev from Blues|publisher=NHL Enterprises, L. P.|website=NHL.com|date=February 26, 2023|accessdate=May 16, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415163619/https://www.nhl.com/goldenknights/news/vegas-golden-knights-acquire-barbashev-from-blues/c-341535388|url-status=live}}</ref><ref>{{cite web|url=https://www.nhl.com/news/teddy-blueger-traded-to-vegas-golden-knights-by-pittsburgh-penguins/c-341691026|title=Blueger traded to Golden Knights by Penguins|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 1, 2023|accessdate=May 16, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415163619/https://www.nhl.com/news/teddy-blueger-traded-to-vegas-golden-knights-by-pittsburgh-penguins/c-341691026|url-status=live}}</ref> as well as goaltender [[Jonathan Quick]] who was flipped by the [[Columbus Blue Jackets]] from the [[Los Angeles Kings]] (reuniting him with defenceman Alec Martinez, both two-time Stanley Cup champions with the Kings).<ref>{{cite web|url=https://www.nhl.com/news/jonathan-quick-traded-to-vegas-golden-knights-day-after-being-acquired-by-columbus-blue-jackets/c-341731498?tid=278542340|title=Quick traded to Golden Knights day after being acquired by Blue Jackets|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 2, 2023|accessdate=May 16, 2023|archive-date=April 15, 2023|archive-url=https://web.archive.org/web/20230415171041/https://www.nhl.com/news/jonathan-quick-traded-to-vegas-golden-knights-day-after-being-acquired-by-columbus-blue-jackets/c-341731498?tid=278542340|url-status=live}}</ref>
+
+The Golden Knights finished first in the [[Pacific Division (NHL)|Pacific Division]] and the [[Western Conference (NHL)|Western Conference]] with 111 points via a {{win-loss record|w=51|l=22|otl=9}} record. Vegas defeated the [[Winnipeg Jets]] in five games during the first round,<ref>{{cite web|url=https://www.nhl.com/news/winnipeg-jets-vegas-golden-knights-game-5-recap/c-343602618|title=Golden Knights defeat Jets in Game 5, win Western 1st-Round series|last=Delos Santos|first=Paul|publisher=NHL Enterprises, L. P.|date=April 27, 2023|website=NHL.com|accessdate=April 27, 2023|archive-date=April 28, 2023|archive-url=https://web.archive.org/web/20230428051730/https://www.nhl.com/news/winnipeg-jets-vegas-golden-knights-game-5-recap/c-343602618|url-status=live}}</ref> triumphed over the [[Edmonton Oilers]] during the second round in six games,<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-edmonton-oilers-game-6-recap/c-344104422|title=Marchessault hat trick helps Golden Knights eliminate Oilers in Game 6|last=Moddejonge|first=Gerry|publisher=NHL Enterprises, L. P.|date=May 14, 2023|website=NHL.com|accessdate=May 14, 2023|archive-date=May 15, 2023|archive-url=https://web.archive.org/web/20230515050402/https://www.nhl.com/news/vegas-golden-knights-edmonton-oilers-game-6-recap/c-344104422|url-status=live}}</ref> and knocked off the [[Dallas Stars]] in the Western Conference final in six games.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-dallas-stars-game-6-recap/c-344416506|title=Golden Knights shut out Stars in Game 6, advance to Stanley Cup Final|last=Baird|first=Taylor|publisher=NHL Enterprises, L. P.|date=May 29, 2023|website=NHL.com|accessdate=May 29, 2023|archive-date=May 30, 2023|archive-url=https://web.archive.org/web/20230530030537/https://www.nhl.com/news/vegas-golden-knights-dallas-stars-game-6-recap/c-344416506|url-status=live}}</ref>
+
+==Game summaries==
+:''Note: The numbers in parentheses represent each player's total goals or assists to that point of the entire playoffs.''
+
+===Game one===
+{{NHLPlayoffs
+|date1       =June 3
+|team1       =Florida Panthers
+|team2       =Vegas Golden Knights
+|stadium1    =[[T-Mobile Arena]]
+|score1      =2–5
+|won1        =2
+|recap1      =www.nhl.com/news/florida-panthers-vegas-golden-knights-game-1-recap/c-344651606
+}}
+[[File:Shea Theodore 2018-02-06 1.jpg|thumb|right|upright=.8|[[Shea Theodore]] scored a goal and two points in game one.]]
+In game one, Florida began the scoring with a shorthanded goal by [[Eric Staal]], scored on a wrap-around attempt. Vegas tied the game on a separate power play with [[Chandler Stephenson]] setting up [[Jonathan Marchessault]]'s wrist shot beating [[Sergei Bobrovsky]].<ref name="Game1Video">{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 5, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-1-recap/c-344651606 |access-date=June 14, 2023 |time=01:07 |publisher=NHL Enterprises, L. P.}}</ref> In the second period, [[Shea Theodore]]'s long range shot found its way past Bobrovsky, giving Vegas a 2–1 lead. With ten seconds remaining and a faceoff in the Golden Knights zone, the Panther's [[Anthony Duclair]] picked up a loose puck and fired a wrist shot past Hill to make it 2–2. In the third period, the Golden Knights led a rush into the Panther's zone with a shot by [[Ivan Barbashev]] deflecting back to [[Zach Whitecloud]] who scored for Vegas to make it 3–2. Later in the period, [[Matthew Tkachuk]]'s clearing attempt was knocked down by Vegas captain [[Mark Stone]], who shot it past Bobrovsky for a 4–2 lead. Florida challenged the play as Stone's stick could have been above his shoulders, which would have been a stoppage of play. Florida was unsuccessful in their challenge and assessed a minor penalty.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 5, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-1-recap/c-344651606 |access-date=June 14, 2023 |time=04:18 |publisher=NHL Enterprises, L. P.}}</ref> With frustrations boiling over for Florida, both [[Matthew Tkachuk]] and [[Sam Bennett (ice hockey)|Sam Bennett]] were called for misconducts for attempting to fight some of the Golden Knights.<ref>{{cite web|url=https://nypost.com/2023/06/04/panthers-matthew-tkachuk-ejected-from-game-1-after-sucker-punch/|title=Panthers' Matthew Tkachuk ejected after sucker-punching Golden Knights' Nicolas Hague|last=Tasch|first=Justin|publisher=NY Post|date=June 4, 2023|website=NYPost.com|accessdate=June 14, 2023|archive-date=June 11, 2023|archive-url=https://web.archive.org/web/20230611031502/https://nypost.com/2023/06/04/panthers-matthew-tkachuk-ejected-from-game-1-after-sucker-punch/|url-status=live}}</ref> [[Reilly Smith]] then sealed Vegas' victory with an empty net goal to make it 5–2. The victory broke Florida's road-winning streak at eight games.<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-1-recap/c-344651606|title=Golden Knights defeat Panthers in Game 1 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 3, 2023|website=NHL.com|accessdate=June 3, 2023|archive-date=June 4, 2023|archive-url=https://web.archive.org/web/20230604033438/https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-1-recap/c-344651606|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|+Game one<ref name="Game1">{{cite web|title=2023 Stanley Cup Final Game 1 – Florida Panthers vs. Vegas Golden Knights – June 3, 2023|website=NHL.com|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/03/2022030411/recap|access-date=June 15, 2023|publisher=NHL Enterprises, L. P.|archive-date=June 4, 2023|archive-url=https://web.archive.org/web/20230604103755/https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/03/2022030411/recap/stats#game=2022030411,game_state=final,lock_state=final,game_tab=stats|url-status=live}}</ref>
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="2"|'''1st'''
+|| FLA
+|| [[Eric Staal]] (2) – {{Abbr|''sh''|Short-handed}}
+|| [[Anton Lundell]] (7)
+|| 09:40
+|| 1–0 FLA
+|-style="text-align:center;"
+|| VGK
+|| [[Jonathan Marchessault]] (10) – {{Abbr|''pp''|Power play}}
+|| [[Chandler Stephenson]] (7), [[Shea Theodore]] (8)
+|| 17:18
+|| 1–1
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| VGK
+|| [[Shea Theodore]] (1)
+|| [[Brayden McNabb]] (3), [[Brett Howden]] (4)
+|| 10:54
+|| 2–1 VGK
+|-style="text-align:center;"
+|| FLA
+|| [[Anthony Duclair]] (4)
+|| ''Unassisted''
+|| 19:49
+|| 2–2
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| VGK
+|| [[Zach Whitecloud]] (1)
+|| [[Ivan Barbashev]] (10), [[Jack Eichel]] (13)
+|| 06:59
+|| 3–2 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Mark Stone]] (1)
+|| ''Unassisted''
+|| 13:41
+|| 4–2 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Reilly Smith]] (3) – ''pp'' – {{Abbr|''en''|Empty net}}
+|| Jack Eichel (14)
+|| 18:15
+|| 5–2 VGK
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|{{Abbr|PIM|Penalty minutes}}
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| FLA
+|| [[Nick Cousins]]
+|| Roughing
+|| 08:30
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[William Carrier (ice hockey)|William Carrier]]
+|| Roughing
+|| 11:42
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Josh Mahura]]
+|| Interference
+|| 16:27
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| FLA
+|| Josh Mahura
+|| Tripping
+|| 03:28
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| Shea Theodore
+|| Hooking
+|| 14:40
+|| 2:00
+|-style="text-align:center;"
+| rowspan="10"|'''3rd'''
+|| VGK
+|| [[Nicolas Roy]]
+|| Hooking
+|| 07:12
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Eric Staal
+|| Cross-checking
+|| 10:04
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Bench (served by [[Zac Dalpe]])
+|| Delay of game (unsuccessful coach's challenge)
+|| 13:41
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Roughing – double minor
+|| 15:36
+|| 4:00
+|-style="text-align:center;"
+|| VGK
+|| Chandler Stephenson
+|| Misconduct
+|| 15:36
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| [[Sam Bennett (ice hockey)|Sam Bennett]]
+|| Misconduct
+|| 15:36
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Misconduct
+|| 15:36
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| Chandler Stephenson
+|| Roughing
+|| 15:36
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Sam Bennett
+|| Roughing
+|| 15:36
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Radko Gudas]]
+|| Misconduct
+|| 18:15
+|| 10:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game1" />
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||9 ||14 ||12 ||35
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||7 ||14 ||13 ||34
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1       =June 5
+|team1       =Florida Panthers
+|team2       =Vegas Golden Knights
+|stadium1    =T-Mobile Arena
+|score1      =2–7
+|won1        =2
+|recap1      =https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316 
+}}
+[[File:Jonathan Marchessault 2018-02-06 1.jpg|thumb|right|upright=.8|[[Jonathan Marchessault]] scored two goals, including one on the power play, and three points in game two.]]
+In the first period of game two, the Golden Knights scored first on the power play as [[Jonathan Marchessault]] shot through a screen to beat the Florida goaltender over the shoulder. Later in the period, with Vegas in possession in the Florida zone, [[Alec Martinez]] shot past [[Josh Mahura]]'s block attempt and the puck went to the top of the net for a 2–0 lead.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 7, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316  |access-date=June 14, 2023 |time=01:10 |publisher=NHL Enterprises, L. P.}}</ref> During the second period, [[Nicolas Roy]] gave Vegas a 3–0 lead, shooting the puck under [[Sergei Bobrovsky]]'s blocker.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 7, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316 |access-date=June 14, 2023 |time=01:32 |publisher=NHL Enterprises, L. P.}}</ref> [[Brett Howden]] then forced Florida to swap Bobrovsky for backup [[Alex Lyon (ice hockey)|Alex Lyon]], scoring forehand-backhand on Vegas' thirteenth shot.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 7, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316 |access-date=June 14, 2023 |time=02:10 |publisher=NHL Enterprises, L. P.}}</ref> Following a hit on [[Jack Eichel]], [[Matthew Tkachuk]] and [[Ivan Barbashev]] both exchanged misconduct penalties for fighting after the whistle.<ref>{{cite web |url=https://www.espn.com/nhl/story/_/id/37803595/stanley-cup-final-2023-game-2-panthers-knights-lessons |title=Stanley Cup Final 2023: What we learned in Game 2 |website=ESPN.com |date=June 5, 2023 |access-date=June 14, 2023 |publisher=ESPN Interactive Inc. |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612094531/https://www.espn.com/nhl/story/_/id/37803595/stanley-cup-final-2023-game-2-panthers-knights-lessons |url-status=live }}</ref> In the third period, the Panthers ended [[Adin Hill]]'s shutout bid as [[Anton Lundell]] scored just 14 seconds in. Vegas regained their four-goal lead as an all-alone Marchessault received a pass from [[Mark Stone]] and wristed a shot past Lyon.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 7, FLA 2 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316 |access-date=June 14, 2023 |time=03:10 |publisher=NHL Enterprises, L. P.}}</ref> [[Michael Amadio]] then provided the sixth goal for Vegas, beating Lyon for a 6–1 lead.<ref>{{Cite web |title=Amadio buries a nice pass |url=https://www.nhl.com/video/amadio-buries-a-nice-pass/t-344675718/c-17520727 |access-date=2023-06-15 |website=NHL.com |language=en-US|publisher=NHL Enterprises, L. P.}}</ref> Tkachuk then brought the lead back down to four as his first goal of the series beat Hill. Later in the period, with Florida releasing their frustration, Vegas gained a power play.<ref>{{cite news|url=https://www.miamiherald.com/sports/nhl/florida-panthers/article276116711.html|title=Panthers go bust in Vegas, fall into 2–0 hole in Stanley Cup Final with blowout loss|last=Wilson|first=David|newspaper=The Miami Herald|date=June 6, 2023|accessdate=June 14, 2023}}</ref> During the power play, Howden's second goal of the game ended any hopes of a Florida comeback, scoring to give Vegas a 7–2 lead, also the final score of the game.<ref>{{cite web|url=https://www.nhl.com/news/sergei-bobrovsky-of-florida-panthers-pulled-in-game-2-of-stanley-cup-final/c-344746370|title=Bobrovsky of Panthers pulled in Game 2 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 5, 2023|website=NHL.com|accessdate=June 5, 2023|archive-date=June 6, 2023|archive-url=https://web.archive.org/web/20230606024632/https://www.nhl.com/news/sergei-bobrovsky-of-florida-panthers-pulled-in-game-2-of-stanley-cup-final/c-344746370|url-status=live}}</ref><ref>{{cite web|last=Rosen|first=Dan|url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316|title=Golden Knights score 7, top Panthers in Game 2 to extend Cup Final lead|website=NHL.com|date=June 14, 2023|accessdate=June 14, 2023|publisher=NHL Enterprises, L. P.|archive-date=June 6, 2023|archive-url=https://web.archive.org/web/20230606034709/https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-2-recap/c-344651316|url-status=live}}</ref>
+{| style="width:100%;" class="wikitable"
+|+Game two<ref name="Game2">{{cite web|title=2023 Stanley Cup Final Game 2 – Florida Panthers vs. Vegas Golden Knights – June 5, 2023|website=NHL.com|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/05/2022030412/recap|access-date=June 15, 2023|publisher=NHL Enterprises, L. P.|archive-date=June 6, 2023|archive-url=https://web.archive.org/web/20230606151031/https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/05/2022030412/recap/stats#game=2022030412,game_state=final,lock_state=final,game_tab=stats|url-status=live}}</ref>
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="2"|'''1st'''
+|| VGK
+|| [[Jonathan Marchessault]] (11) – ''pp''
+|| [[Chandler Stephenson]] (8), [[Jack Eichel]] (15)
+|| 07:05
+|| 1–0 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Alec Martinez]] (1)
+|| [[Ivan Barbashev]] (11)
+|| 17:59
+|| 2–0 VGK
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| VGK
+|| [[Nicolas Roy]] (2)
+|| [[William Carrier (ice hockey)|William Carrier]] (3), [[Zach Whitecloud]] (5)
+|| 02:59
+|| 3–0 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Brett Howden]] (4)
+|| [[Mark Stone]] (10), Chandler Stephenson (9)
+|| 07:10
+|| 4–0 VGK
+|-style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| FLA
+|| [[Anton Lundell]] (2)
+|| [[Anthony Duclair]] (7)
+|| 00:14
+|| 4–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| Jonathan Marchessault (12)
+|| Jack Eichel (16)
+|| 02:10
+|| 5–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Michael Amadio]] (4)
+|| [[William Karlsson]] (5)
+|| 10:33
+|| 6–1 VGK
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]] (10)
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (8), [[Josh Mahura]] (3)
+|| 12:44
+|| 6–2 VGK
+|-style="text-align:center;"
+|| VGK
+|| Brett Howden (5) – ''pp''
+|| Michael Amadio (5), William Carrier (4)
+|| 17:52
+|| 7–2 VGK
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| FLA
+|| [[Ryan Lomberg]]
+|| Cross-checking
+|| 06:39
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Brandon Montour]]
+|| Roughing
+|| 13:53
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| Nicolas Roy
+|| Hooking
+|| 15:38
+|| 2:00
+|-style="text-align:center;"
+| rowspan="10"|'''2nd'''
+|| VGK
+|| Ivan Barbashev
+|| Roughing
+|| 07:59
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Colin White (ice hockey, born 1997)|Colin White]]
+|| Slashing
+|| 07:59
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[Alex Pietrangelo]]
+|| Interference
+|| 10:01
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| William Carrier
+|| Roughing
+|| 12:35
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Roughing
+|| 17:56
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| Ivan Barbashev
+|| Roughing
+|| 17:56
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| Ivan Barbashev
+|| Misconduct
+|| 17:56
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Misconduct
+|| 17:56
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| Alex Pietrangelo
+|| Roughing
+|| 17:56
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Gustav Forsling]]
+|| Roughing
+|| 17:56
+|| 2:00
+|-style="text-align:center;"
+| rowspan="13"|'''3rd'''
+|| FLA
+|| [[Carter Verhaeghe]]
+|| Cross-checking
+|| 03:01
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Misconduct
+|| 14:01
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| [[Casey Fitzgerald (ice hockey)|Casey Fitzgerald]]
+|| Misconduct
+|| 16:14
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| [[Keegan Kolesar]]
+|| Misconduct
+|| 16:14
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| Anthony Duclair (Served by Carter Verhaeghe)
+|| Cross-checking
+|| 16:28
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Anthony Duclair
+|| Abuse of officials – misconduct  
+|| 16:28
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| [[Eric Staal]]
+|| Misconduct
+|| 16:28
+|| 10:00
+|-style="text-align:center;"
+|| FLA
+|| [[Nick Cousins]]
+|| Misconduct
+|| 18:41
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| Zach Whitecloud
+|| Misconduct
+|| 18:41
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| [[Reilly Smith]] (Served by Jonathan Marchessault)
+|| Cross-checking
+|| 19:52
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Sam Reinhart]]
+|| Misconduct
+|| 19:52
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| Reilly Smith
+|| Misconduct
+|| 19:52
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| Brett Howden
+|| Misconduct
+|| 19:52
+|| 10:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game2" />
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||10 ||13 ||8 ||31
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||11 ||7 ||10 ||28
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1       =June 8
+|team1       =Florida Panthers
+|team2       =Vegas Golden Knights
+|homeright   =yes
+|stadium1    =[[FLA Live Arena]]
+|score1      =2–3
+|ot1         =1
+|won1        =1
+|recap1      =www.nhl.com/news/vegas-golden-knights-florida-panthers-game-3-recap/c-344650842?game_pk=2022030413
+}}
+{{multiple image
+ | align = right
+ | total_width = 320
+ | image1 = MatthewTkachuk.jpg
+ | alt1 = Matthew Tkachuk
+ | image2 = Carterverhaeghe2023.png
+ | alt2 = Carter Verhaeghe
+ | footer = [[Matthew Tkachuk]] (left), shown with Calgary, scored the game-tying goal, while [[Carter Verhaeghe]] (right) scored the overtime winner in game three.
+}}
+Back in Florida for game three, [[Brandon Montour]] began the scoring for the Panthers in the first period as his shot from the left circle beat [[Adin Hill]]. Vegas was able to tie the game during a 4-on-3 power play when [[Jonathan Marchessault]]'s shot got tipped in by [[Mark Stone]]. In the second period, Vegas gained another power play, during which [[Jack Eichel]] passed across to Marchessault who shot past [[Sergei Bobrovsky]] into the top-left corner for a 2–1 Golden Knights lead. In the third period, with the Florida goaltender pulled for an extra attacker, [[Matthew Tkachuk]] scored on a rebound from [[Carter Verhaeghe]] to tie the game 2–2. With the game in overtime, Verhaeghe fired a wrist shot past Hill giving Florida a 3–2 victory and their first win in the Stanley Cup Final in franchise history.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-florida-panthers-game-3-recap/c-344650842?game_pk=2022030413|title=Panthers use OT to top Golden Knights in Game 3, get 1st win of Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprise, L. P.|date=June 8, 2023|website=NHL.com|accessdate=June 8, 2023|archive-date=June 9, 2023|archive-url=https://web.archive.org/web/20230609034554/https://www.nhl.com/news/vegas-golden-knights-florida-panthers-game-3-recap/c-344650842?game_pk=2022030413|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|+Game three<ref name="Game3">{{cite web|title=2023 Stanley Cup Final Game 3 – Vegas Golden Knights vs. Florida Panthers – June 8, 2023|website=NHL.com|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/08/2022030413/recap|access-date=June 15, 2023|publisher=NHL Enterprises, L. P.|archive-date=June 9, 2023|archive-url=https://web.archive.org/web/20230609105908/https://www.nhl.com/gamecenter/vgk-vs-fla/2023/06/08/2022030413/recap/stats#game=2022030413,game_state=final,lock_state=final,game_tab=stats|url-status=live}}</ref>
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan ="2"|'''1st'''
+|| FLA
+|| [[Brandon Montour]] (7)
+|| [[Matthew Tkachuk]] (13), [[Eric Staal]] (3)
+|| 04:08
+|| 1–0 FLA
+|-style="text-align:center;"
+|| VGK
+|| [[Mark Stone]] (8) – ''pp''
+|| [[Jonathan Marchessault]] (10), [[Shea Theodore]] (9)
+|| 16:03
+|| 1–1
+|-style="text-align:center;"
+| '''2nd'''
+|| VGK
+|| Jonathan Marchessault (13) – ''pp''
+|| [[Jack Eichel]] (17), Mark Stone (11)
+|| 14:59
+|| 2–1 VGK
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| FLA
+|| Matthew Tkachuk (11)
+|| [[Carter Verhaeghe]] (10), [[Aaron Ekblad]] (6)
+|| 17:47
+|| 2–2
+|-style="text-align:center;"
+| rowspan="1"|'''{{Abbr|OT|Overtime}}'''
+|| FLA
+|| Carter Verhaeghe (7)
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (9), [[Gustav Forsling]] (5)
+|| 04:27
+|| 3–2 FLA
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="5"|'''1st'''
+|| VGK
+|| [[William Carrier (ice hockey)|William Carrier]]
+|| High-sticking
+|| 06:01
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Marc Staal]]
+|| Tripping
+|| 12:14
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Radko Gudas]]
+|| Cross-checking
+|| 15:17
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| William Carrier
+|| Boarding
+|| 15:17
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Anthony Duclair]]
+|| Tripping
+|| 15:40
+|| 2:00
+|-style="text-align:center;"
+| rowspan="6"|'''2nd'''
+|| VGK
+|| William Carrier
+|| Tripping
+|| 00:24
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Aaron Ekblad
+|| Holding
+|| 04:56
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[Brayden McNabb]]
+|| Hooking
+|| 08:00
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Aleksander Barkov]]
+|| Interference
+|| 14:13
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[Alec Martinez]]
+|| Interference
+|| 16:26
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Anton Lundell]]
+|| Slashing
+|| 19:22
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"|'''3rd'''
+|| VGK
+|| Jack Eichel
+|| Hooking
+|| 03:01
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[Ivan Barbashev]]
+|| Roughing
+|| 10:37
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Radko Gudas
+|| Roughing
+|| 10:37
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Gustav Forsling
+|| Tripping
+|| 19:48
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game3" />
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||6 ||13 ||6 ||2 ||27
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||5 ||8 ||9 ||1 ||23
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1       =June 10
+|team1       =Florida Panthers
+|team2       =Vegas Golden Knights
+|homeright   =yes
+|stadium1    =FLA Live Arena
+|score1      =3–2
+|won1        =2
+|recap1      =www.nhl.com/news/vegas-golden-knights-florida-panthers-game-4-recap/c-344650622
+}}
+[[File:Carson Soucy and Chandler Stephenson.jpg|thumb|right|upright=.8|[[Chandler Stephenson]] (left) scored two goals in game four.]]
+In game four, Vegas began the scoring 1:39 into the first period as [[Zach Whitecloud]] made a cross-ice pass to [[Chandler Stephenson]], who maneuvered through all Florida defenders and shot the puck past [[Sergei Bobrovsky]].<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 3, FLA 2 |language=en |url=https://www.nhl.com/news/vegas-golden-knights-florida-panthers-game-4-recap/c-344650622 |access-date=June 14, 2023 |time=00:21 |publisher=NHL Enterprises, L. P.}}</ref> Stephenson continued his scoring into the second period as a pass by [[Mark Stone]] found its way to the forward whose one-timer beat Bobrovsky for a 2–0 Vegas lead. Following soon after, [[William Karlsson]] picked up [[Nicolas Hague]]'s rebound shot and gave the Golden Knights a 3–0 lead. With less than four minutes remaining in the period, Florida defenceman [[Brandon Montour]] shot the puck at the net and it deflected off [[Brayden McNabb]] and [[Shea Theodore]] past [[Adin Hill]] to cut Vegas' lead to two goals. Florida then cut their deficit to one goal as the Panthers rushed into the Vegas zone, Montour backhanded a pass to captain [[Aleksander Barkov]] whose fired past Hill from the right circle. Vegas maintained their 3–2 lead, including fending off a power play with 17.4 seconds left, as Hill stopped 29 of 31 shots to give the Golden Knights a 3–1 series lead.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-florida-panthers-game-4-recap/c-344650622|title=Golden Knights defeat Panthers in Game 4 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 10, 2023|website=NHL.com|accessdate=June 10, 2023|archive-date=June 11, 2023|archive-url=https://web.archive.org/web/20230611051228/https://www.nhl.com/news/vegas-golden-knights-florida-panthers-game-4-recap/c-344650622|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|+Game four<ref name="Game4">{{cite web|title=2023 Stanley Cup Final Game 4 – Vegas Golden Knights vs. Florida Panthers – June 10, 2023|website=NHL.com|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/10/2022030414/recap|access-date=June 15, 2023|publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| VGK
+|| [[Chandler Stephenson]] (9)
+|| [[Zach Whitecloud]] (6), [[Mark Stone]] (12)
+|| 01:39
+|| 1–0 VGK
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| VGK
+|| Chandler Stephenson (10)
+|| Mark Stone (13), [[Nicolas Hague]] (3)
+|| 07:28
+|| 2–0 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[William Karlsson]] (11)
+|| Nicolas Hague (4), [[Jonathan Marchessault]] (11)
+|| 11:04
+|| 3–0 VGK
+|-style="text-align:center;"
+|| FLA
+|| [[Brandon Montour]] (8)
+|| [[Aleksander Barkov]] (11), [[Anton Lundell]] (8)
+|| 16:09
+|| 3–1 VGK
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| FLA
+|| Aleksander Barkov (5)
+|| Brandon Montour (4), Anton Lundell (8)
+|| 03:50
+|| 3–2 VGK
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| FLA
+|| [[Marc Staal]]
+|| Tripping
+|| 02:52
+|| 2:00
+|-style="text-align:center;"
+| rowspan="7"|'''3rd'''
+|| VGK
+|| [[Alex Pietrangelo]]
+|| Delay of game (puck over glass)
+|| 19:42
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Slashing
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Unsportsmanlike conduct
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Misconduct
+|| 20:00
+|| 10:00
+|-style="text-align:center;"
+|| VGK
+|| [[Adin Hill]]
+|| Unsportsmanlike conduct
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Brandon Montour
+|| Charging
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Brandon Montour
+|| Misconduct
+|| 20:00
+|| 10:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game4" />
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||12 ||11 ||8 ||31
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||12 ||7 ||12 ||31
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1       =June 13
+|team1       =Florida Panthers
+|team2       =Vegas Golden Knights
+|stadium1    =T-Mobile Arena
+|score1      =3–9
+|won1        =2
+|recap1      =https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394
+}}
+{{multiple image
+ | align = right
+ | total_width = 320
+ | image1 = MarkStone2023.jpg
+ | alt1 = Mark Stone
+ | image2 = Reilly Smith 2018-02-04 1.jpg
+ | alt2 = Reilly Smith
+ | footer = [[Mark Stone]] (left) scored a hat trick, while [[Reilly Smith]] (right) scored the Stanley Cup-clinching goal in game five.
+}}
+In game five, the Golden Knights began the scoring on a shorthanded rush as [[Mark Stone]] outwaited [[Sergei Bobrovsky]] to beat him on the glove side.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=00:21 |publisher=NHL Enterprises, L. P.}}</ref> The Golden Knights doubled their lead as [[Jack Eichel]]'s shot bumped over Bobrovsky's shoulder and got covered, but was quickly poked away. With the free puck, [[Nicolas Hague]] scored for Vegas.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=00:41 |publisher=NHL Enterprises, L. P.}}</ref> The Panthers made it 2–1 early in the second period as [[Nick Cousins]] forced a turnover in the Vegas defensive zone and passed it to defenceman [[Aaron Ekblad]] whose long range shot made its way into the net.<ref>{{cite AV media |people=National Hockey League|date= |title=Recap: VGK 9, FLA 3|language=en|url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=01:10|publisher=NHL Enterprises, L. P.}}</ref> The Golden Knights recovered their two-goal lead as a stretch pass by [[Alex Pietrangelo]] made its way to Eichel who then dropped a pass to [[Alec Martinez]] and he shot it past Bobrovsky.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=01:25 |publisher=NHL Enterprises, L. P.}}</ref> [[Reilly Smith]] soon gave the Golden Knights a 4–1 lead as he fired in a between-the-legs pass from [[William Karlsson]]. Stone's second goal made it 5–1 as a [[Chandler Stephenson]]-led rush led to a cross-ice pass from [[Brett Howden]], which Stone then shot between Bobrovsky's pads for his second goal of the game.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=02:07 |publisher=NHL Enterprises, L. P.}}</ref> [[Michael Amadio]] extended the Golden Knights lead to 6–1 with two seconds remaining; after pushing the puck towards the Panthers goaltender and being pushed himself into the net by a Panther defenceman, the puck found its way under Bobrovsky and in.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=02:25 |publisher=NHL Enterprises, L. P.}}</ref> In the third period, Vegas made the game a rout, with [[Ivan Barbashev]] scoring Vegas' seventh goal of the game. Florida brought their deficit down to five when a quick shot by [[Sam Reinhart]] hit the top corner past [[Adin Hill]].<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=03:37 |publisher=NHL Enterprises, L. P.}}</ref> [[Sam Bennett (ice hockey)|Sam Bennett]] then dropped Florida's deficit to four goals as his long range shot was deflected into the net.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=03:53 |publisher=NHL Enterprises, L. P.}}</ref> With approximately six minutes remaining in the game, Florida head coach [[Paul Maurice]] opted to go for an empty net.<ref>{{cite AV media |people=National Hockey League |date= |title=Recap: VGK 9, FLA 3 |language=en |url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394 |access-date=June 14, 2023 |time=04:11 |publisher=NHL Enterprises, L. P.}}</ref> However, Stone scored on the empty net to complete his hat trick, making it 8–3. His hat trick, the 40th to occur in the Stanley Cup Final,<ref>{{Cite web |last=Sumner |first=Rory |date=June 13, 2023 |title=Golden Knights tame Panthers to capture 1st Stanley Cup in just 6th year of existence |url=https://www.cbc.ca/sports/hockey/nhl/vegas-golden-knights-florida-panthers-stanley-cup-final-game-5-june-13-1.6874736 |access-date=June 17, 2023 |website=[[Canadian Broadcasting Corporation|CBC]].ca}}</ref> was the first since [[1996 Stanley Cup Final|1996]], which was also against the Panthers,<ref>{{Cite web|date=June 14, 2023|title=Golden Knights blast Panthers 9–3 in Game 5 to capture first Stanley Cup title|url=https://www.espn.com/nhl/recap/_/gameId/401550960|accessdate=June 15, 2023|publisher=ESPN Interactive Inc.|website=ESPN.com}}</ref> and the first to occur in a Cup-winning game since [[1922 Stanley Cup Final|1922]].<ref>{{Cite web |last=Gordon|first=Sam|date=June 13, 2023 |title=Mark Stone was there when the Knights needed him most|url=https://www.reviewjournal.com/sports/goldenknights/mark-stone-was-there-when-the-knights-needed-him-most-2793907/|publisher=Las Vegas Review-Journal, Inc.|accessdate=June 14, 2023|website=ReviewJournal.com}}</ref> [[Nicolas Roy]] potted Vegas' ninth goal of the evening with 1:02 remaining to seal the Golden Knights victory and their first Stanley Cup.<ref name="Game 5 Recap">{{cite web|url=https://www.nhl.com/news/florida-panthers-vegas-golden-knights-game-5-recap/c-344649394|title=Golden Knights win Stanley Cup with Game 5 victory against Panthers|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 13, 2023|website=NHL.com|accessdate=June 13, 2023}}</ref> Vegas' nine goals set a new record for goals scored in a Cup-clinching game, surpassing the 8–0 score by which the [[Pittsburgh Penguins]] clinched the title in [[1991 Stanley Cup Final|1991]],<ref>{{Cite web |last=Horwat |first=Nick |date=June 14, 2023 |title=Golden Knights Break Record Set by Penguins |url=https://thehockeynews.com/nhl/pittsburgh-penguins/news/vegas-golden-knights-break-record-pittsburgh-penguins |access-date=June 17, 2023 |website=[[The Hockey News]]}}</ref> and tied the record for most goals by a team in a Final's game, previously set by the [[Detroit Red Wings]] in [[1936 Stanley Cup Final|1936]] and later matched by the [[Toronto Maple Leafs]] in [[1942 Stanley Cup Final|1942]].<ref>{{cite web |last=Kreiser |first=John |url=https://www.nhl.com/news/stanley-cup-final-single-game-records/c-307561022 |title=Stanley Cup Final single-game record-holders include Richard, Roy |website=NHL.com |date=May 27, 2019 |access-date=June 19, 2023}}</ref><ref>{{cite web |last=Anderson |first=Mark |url=https://apnews.com/article/stanley-cup-final-nhl-playoffs-golden-knights-panthers-36d21dafb0d90f1f3784763f691b03f8 |title=Golden Knights blast Panthers 9–3 in Game 5 to capture first Stanley Cup title |publisher=Associated Press |date=June 14, 2023 |access-date=June 19, 2023}}</ref>
+
+[[Jonathan Marchessault]] was awarded the [[Conn Smythe Trophy]] as most valuable player of the playoffs,<ref name="Game 5 Recap"/> becoming the first [[undrafted]] player to win the award since [[Wayne Gretzky]] in [[1988 Stanley Cup Final|1988]].<ref>{{cite web|url=https://www.nytimes.com/athletic/4608670/2023/06/14/jonathan-marchessault-conn-smythe-golden-knights/|title=From undrafted to Conn Smythe: Jonathan Marchessault's 'bumpy ride' to hockey's pinnacle is complete|last1=Russo |first1=Michael |website=[[The Athletic]]|date=June 14, 2023|access-date=June 14, 2023}}</ref> Vegas became the second fastest team to win the Stanley Cup as an expansion franchise, following the [[Edmonton Oilers]] in [[1984 Stanley Cup Final|1984]].<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/37842696/las-vegas-golden-knights-expansion-success-title-championship|title=Golden Knights join short list of expansion success stories with quick title|last=Post|first= J.J.|publisher=ESPN Interactive Inc.|date=June 8, 2023|website=ESPN.com|accessdate=June 14, 2023}}</ref> Marchessault, [[William Carrier (ice hockey)|William Carrier]], [[William Karlsson]], [[Brayden McNabb]], [[Reilly Smith]], and [[Shea Theodore]] were the only players from the Golden Knights' [[2017 NHL Expansion Draft|expansion draft]], [[2017–18 Vegas Golden Knights season|inaugural season]], and [[2018 Stanley Cup Final|2018 Stanley Cup Final campaign]] to remain with the team up until the Stanley Cup victory; this group of players earned the collective monikers "Golden Misfits" and "Original Misfits".<ref>{{cite web|last=Granger|first=Jesse|title=No city knows how to party like Las Vegas — and the Golden Knights are just getting going|url=https://www.nytimes.com/athletic/4608816/2023/06/14/golden-knights-stanley-cup-stone/|publisher=The Athletic Media Company|website=TheAthletic.com|date=June 14, 2023|access-date=July 7, 2023|language=en}}</ref><ref>{{cite web|last=Clarke|first=Mary|title=The Golden Knights made the coolest throwback to their original roster to begin Game 5|url=https://ftw.usatoday.com/2023/06/golden-knights-stanley-cup-final-golden-misfits-game-5 |website=FTW.USAtoday.com|publisher=For The Win|accessdate=15 June 2023|date=14 June 2023}}</ref>  The win gave the state of [[Nevada]] and the [[Las Vegas Valley|Las Vegas metropolitan area]] its first ever major ([[Four major professional sports|North American "Big Four"]]) men's professional sports championship,{{efn|The [[Las Vegas Aces]] of the [[Women's National Basketball Association|WNBA]] won their first championship [[2022 WNBA Finals|the previous year]].}} and the first ever championship for a North American Big Four men's professional sports team founded in the 21st century.{{efn|Including the [[Seattle Kraken]] (NHL), [[Houston Texans]] ([[National Football League|NFL]]), and [[New Orleans Pelicans]] ([[National Basketball Association|NBA]]).}}<ref>{{cite news|url=https://www.nevadaappeal.com/news/2023/jun/06/santoro-a-knights-win-would-be-states-biggest/|title=Santoro: A Knights' win would be state's biggest|last=Santoro|first=Joe|newspaper=Nevada Appeal|date=June 6, 2023|accessdate=June 14, 2023|archive-date=June 6, 2023|archive-url=https://web.archive.org/web/20230606215232/https://www.nevadaappeal.com/news/2023/jun/06/santoro-a-knights-win-would-be-states-biggest/|url-status=live}}</ref>
+
+[[Chandler Stephenson]], who previously defeated Vegas for the Cup in 2018 as a member of the [[2017–18 Washington Capitals|Washington Capitals]], became the third player of the [[1967 NHL expansion|expansion era]] to win a Cup with a team he previously defeated for it, joining [[Scott Niedermayer]] (with [[2002–03 New Jersey Devils season|New Jersey]] in [[2003 Stanley Cup Final|2003]] and [[2006–07 Anaheim Ducks season|Anaheim]] in [[2007 Stanley Cup Final|2007]]) and [[Billy Carroll]] (with the [[1982–83 New York Islanders season|New York Islanders]] in [[1983 Stanley Cup Final|1983]] and [[1984–85 Edmonton Oilers season|Edmonton]] in [[1985 Stanley Cup Final|1985]]).<ref>{{cite web |url=https://www.nhl.com/player/chandler-stephenson-8476905 |title=Chandler Stephenson Bio |website=NHL.com |access-date=July 7, 2023 |quote=[Stephenson] lifted the Cup on the same ice he did with the Capitals five years earlier, becoming the 10th player in NHL history to help defeat a team in the Final and later win the Stanley Cup with them. He is the third to achieve the feat in the NHL expansion era (since 1967–68), following Scott Niedermayer (Anaheim Ducks) and Billy Carroll (Edmonton Oilers). |archive-date=March 1, 2026 |archive-url=https://megalodon.jp/2026-0301-1701-24/https://www.nhl.com:443/kraken/player/chandler-stephenson-8476905 |url-status=live}}</ref>
+
+Meanwhile, the Panthers were one of two South Florida teams to lose major championships within two days, as the [[Miami Heat]] also lost the [[2023 NBA Finals]] to the [[Denver Nuggets]] one day prior.<ref>{{cite magazine |last=Armant |first=Jayden |url=https://www.si.com/nba/heat/miami-news/the-florida-panthers-join-the-miami-heat-in-finals-eliminations |title=The Florida Panthers Join The Miami Heat In Finals Eliminations |publisher=ABG-SI LLC |magazine=Sports Illustrated |date=June 14, 2023 |access-date=February 8, 2024}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|+Game five<ref name="Game5">{{cite web|title=2023 Stanley Cup Final Game 5 – Florida Panthers vs. Vegas Golden Knights – June 13, 2023|website=NHL.com|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/13/2022030415/recap|access-date=June 15, 2023|publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| VGK
+|| [[Mark Stone]] (9) – ''sh''
+|| ''Unassisted''
+|| 11:52
+|| 1–0 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Nicolas Hague]] (2)
+|| [[Jack Eichel]] (18), [[Jonathan Marchessault]] (12)
+|| 13:41
+|| 2–0 VGK
+|-style="text-align:center;"
+| rowspan="5"|'''2nd'''
+|| FLA
+|| [[Aaron Ekblad]] (2)
+|| [[Nick Cousins]] (5)
+|| 02:15
+|| 2–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Alec Martinez]] (2)
+|| Jack Eichel (19), [[Alex Pietrangelo]] (9)
+|| 10:28
+|| 3–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Reilly Smith]] (4)
+|| [[William Karlsson]] (6), [[Shea Theodore]] (10)
+|| 12:13
+|| 4–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| Mark Stone (10)
+|| [[Brett Howden]] (5), [[Chandler Stephenson]] (10)
+|| 17:15
+|| 5–1 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Michael Amadio]] (5)
+|| Reilly Smith (10)
+|| 19:58
+|| 6–1 VGK
+|-style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| VGK
+|| [[Ivan Barbashev]] (7)
+|| Jack Eichel (20), [[Shea Theodore]] (11)
+|| 08:22
+|| 7–1 VGK
+|-style="text-align:center;"
+|| FLA
+|| [[Sam Reinhart]] (8)
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (10), [[Brandon Montour]] (5)
+|| 08:47
+|| 7–2 VGK
+|-style="text-align:center;"
+|| FLA
+|| Sam Bennett (5)
+|| [[Gustav Forsling]] (6), Sam Reinhart (5)
+|| 11:39
+|| 7–3 VGK
+|-style="text-align:center;"
+|| VGK
+|| Mark Stone (11) – ''en''
+|| ''Unassisted''
+|| 14:06
+|| 8–3 VGK
+|-style="text-align:center;"
+|| VGK
+|| [[Nicolas Roy]] (3)
+|| Shea Theodore (12), [[Brayden McNabb]] (4)
+|| 18:58
+|| 9–3 VGK
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| FLA
+|| Aaron Ekblad
+|| Interference
+|| 07:53
+|| 2:00
+|-style="text-align:center;"
+|| VGK
+|| [[Keegan Kolesar]]
+|| Interference
+|| 10:38
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+| colspan="5"|''None''
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game5" />
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||8 ||6 ||21 ||35
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||11 ||14 ||7 ||32
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+<!--Precedence dictates that a player's appearance is only listed for a year in which they actually played during that season; hence, despite both being scratches in the Final, Jonathan Marchessault is listed for the 2015 Lightning (2 regular-season games, 2 playoff games), but Keegan Kolesar is not listed for the 2018 Golden Knights (0 NHL GP during the season).-->
+
+===Florida Panthers===
+[[File:Headshot of Aleksander Barkov.jpg|right|thumb|250px|[[Aleksander Barkov]] captained the Panthers to their second Final appearance in franchise history.]]
+<ref>{{cite web|title=Florida Panthers Roster|url=https://www.nhl.com/panthers/roster/2022|publisher=NHL Enterprises, L. P.|accessdate=June 14, 2023|archive-date=March 21, 2023|archive-url=https://web.archive.org/web/20230321184734/https://www.nhl.com/panthers/roster/2022|url-status=live}}</ref>
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''16'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Aleksander|Barkov}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|27–214}}27
+| [[2013 NHL Entry Draft|2013]]
+| style="text-align:left;"|[[Tampere|Tampere, Finland]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Bennett|dab=ice hockey}}
+| C/W
+| L
+| {{hs|26–322}}26
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[East Gwillimbury|East Gwillimbury, Ontario]]
+| first
+|-
+| '''72'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Bobrovsky}}
+| G
+| L
+| {{hs|34–212}}34
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Novokuznetsk|Novokuznetsk, Soviet Union]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Cousins}}
+| C
+| L
+| {{hs|29–320}}29
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Belleville, Ontario]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Zac|Dalpe}}
+| C
+| R
+| {{hs|33–221}}33
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Paris, Ontario]]
+| first
+|-
+| '''14'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Grigori|Denisenko}}
+| RW
+| R
+| {{hs|22–344}}22
+| [[2018 NHL Entry Draft|2018]]
+| style="text-align:left;"|[[Novosibirsk|Novosibirsk, Russia]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Duclair}}
+| LW
+| L
+| {{hs|27–271}}27
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Pointe-Claire|Pointe-Claire, Quebec]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Aaron|Ekblad}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{hs|27–106}}27
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first
+|-
+| '''4'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Casey|Fitzgerald|dab=ice hockey}}
+| D
+| R
+| {{hs|26–088}}26
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Boca Raton, Florida]]
+| first
+|-
+| '''42'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Gustav|Forsling}}
+| D
+| L
+| {{hs|26–349}}26
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Linköping|Linköping, Sweden]]
+| first
+|-
+| '''7'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Radko|Gudas}}
+| D
+| R
+| {{hs|32–356}}32
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Kladno|Kladno, Czechoslovakia]]
+| first
+|-
+| '''94'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Lomberg}}
+| W
+| L
+| {{hs|28–192}}28
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Richmond Hill, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Anton|Lundell}}
+| C
+| L
+| {{hs|21–208}}21
+| [[2020 NHL Entry Draft|2020]]
+| style="text-align:left;"|[[Espoo|Espoo, Finland]]
+| first
+|-
+| '''27'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Eetu|Luostarinen}}
+| C
+| L
+| {{hs|24–278}}24
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Siilinjärvi|Siilinjärvi, Finland]]
+| first
+|-
+| '''34'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Lyon|dab=ice hockey}}
+| G
+| L
+| {{hs|30–195}}30
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Baudette, Minnesota]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Josh|Mahura}}
+| D
+| L
+| {{hs|25–020}}25
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[St. Albert, Alberta]]
+| first
+|-
+| '''62'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Montour}}
+| D
+| R
+| {{hs|29–034}}29
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Ohsweken, Ontario]]
+| first
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Reinhart}}
+| C
+| R
+| {{hs|27–112}}27
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[North Vancouver (city)|North Vancouver, British Columbia]]
+| first
+|-
+| '''54'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Givani|Smith}}
+| RW
+| L
+| {{hs|25–089}}25
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Staal}}
+| C
+| L
+| {{hs|38–172}}38
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| third {{small|('''[[2006 Stanley Cup Final|2006]]''', [[2021 Stanley Cup Final|2021]])}}<ref>{{cite web |url=https://www.nhl.com/gamecenter/car-vs-edm/2006/06/19/2005030417/recap |title=Edmonton Oilers – Carolina Hurricanes – June 19, 2006 |website=NHL.com |access-date=June 15, 2023}}</ref><ref>{{cite web |url=https://www.nhl.com/gamecenter/mtl-vs-tbl/2021/07/07/2020030415#game=2020030415,game_state=final,game_tab=stats |title=Montreal Canadiens – Tampa Bay Lightning – July 7, 2021 |website=NHL.com |access-date=June 15, 2023 |archive-date=April 18, 2023 |archive-url=https://web.archive.org/web/20230418214853/https://www.nhl.com/gamecenter/mtl-vs-tbl/2021/07/07/2020030415#game=2020030415,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc|Staal}}
+| D
+| L
+| {{hs|36–148}}36
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| second {{small|([[2014 Stanley Cup Final|2014]])}}<ref name="SCF2014">{{cite web |url=https://www.nhl.com/gamecenter/lak-vs-nyr/2014/06/13/2013030415 |title=New York Rangers – Los Angeles Kings – June 13, 2014 |website=NHL.com |access-date=June 15, 2023 |archive-date=December 25, 2022 |archive-url=https://web.archive.org/web/20221225154650/https://www.nhl.com/gamecenter/nyr-vs-lak/2014/06/13/2013030415#game=2013030415,game_state=final |url-status=live }}</ref>
+|-
+| '''19'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matthew|Tkachuk}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|25–132}}25
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Scottsdale, Arizona]]
+| first
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carter|Verhaeghe}}
+| C
+| L
+| {{hs|27–201}}27
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Waterdown, Ontario]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}<ref>{{cite web |url=https://www.nhl.com/gamecenter/dal-vs-tbl/2020/09/26/2019030415#game=2019030415,game_state=final,game_tab=stats |title=Dallas Stars – Tampa Bay Lightning – September 26, 2020 |website=NHL.com |access-date=June 15, 2023 |archive-date=September 23, 2022 |archive-url=https://web.archive.org/web/20220923192331/https://www.nhl.com/gamecenter/dal-vs-tbl/2020/09/26/2019030415#game=2019030415,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|White|dab=ice hockey, born 1997}}
+| C
+| R
+| {{hs|26–115}}26
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Hanover, Massachusetts]]
+| first
+|}
+
+===Vegas Golden Knights===
+[[File:Team Captain Mark Stone at The White House on November 13, 2023 (cropped).jpg|right|thumb|200px|[[Mark Stone]] captained the Golden Knights to their second Final appearance in franchise history.]]
+<ref>{{cite web|title=Vegas Golden Knights Roster|url=https://www.nhl.com/goldenknights/roster/2022|publisher=NHL Enterprises, L. P.|accessdate=June 14, 2023|archive-date=March 21, 2023|archive-url=https://web.archive.org/web/20230321184745/https://www.nhl.com/goldenknights/roster/2022|url-status=live}}</ref>
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Amadio}}
+| RW/C
+| R
+| {{hs|27–017}}27
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| first
+|- 
+| '''49'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Ivan|Barbashev}}
+| C
+| L
+| {{hs|27–214}}27
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Moscow|Moscow, Russia]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}<ref name="SCF2019">{{cite web |url=https://www.nhl.com/gamecenter/bos-vs-stl/2019/06/12/2018030417 |title=St. Louis Blues – Boston Bruins – June 12, 2019 |website=NHL.com |access-date=June 15, 2023 |archive-date=November 13, 2020 |archive-url=https://web.archive.org/web/20201113004040/https://www.nhl.com/gamecenter/stl-vs-bos/2019/06/12/2018030417#game=2018030417,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''53'''
+| {{flagicon|LAT}}
+! scope="row" style="text-align:left;"|{{sortname|Teddy|Blueger}}
+| C
+| L
+| {{hs|28–319}}28
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Riga|Riga, Latvia]]
+| first
+|-
+| '''39'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Laurent|Brossoit}}
+| G
+| L
+| {{hs|30–066}}30
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Port Alberni|Port Alberni, British Columbia]]
+| first {{small|(did not dress)}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|William|Carrier|dab=ice hockey}}
+| LW
+| L
+| {{hs|28–208}}28
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[LaSalle, Quebec]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}<ref name="SCF2018">{{cite web |url=https://www.nhl.com/gamecenter/vgk-vs-wsh/2018/06/07/2017030415 |title=Washington Capitals – Vegas Golden Knights – June 7, 2018 |website=NHL.com |access-date=June 15, 2023 |archive-date=May 4, 2022 |archive-url=https://web.archive.org/web/20220504140026/https://www.nhl.com/gamecenter/wsh-vs-vgk/2018/06/07/2017030415#game=2017030415,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''43'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Cotter}}
+| C/LW
+| L
+| 23
+| [[2018 NHL entry draft|2018]]
+| style="text-align:left;"|[[Canton, Michigan]]
+| first {{small|(did not play)}}
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jack|Eichel}}
+| C
+| R
+| {{hs|26–211}}26
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[North Chelmsford, Massachusetts]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nicolas|Hague}}
+| D
+| L
+| {{hs|24–187}}24
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adin|Hill}}
+| G
+| L
+| {{hs|27–019}}27
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Comox, British Columbia]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Howden}}
+| C
+| L
+| {{hs|25–060}}25
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Oakbank, Manitoba]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Hutton|dab=ice hockey}}
+| D
+| L
+| {{hs|30–040}}30
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Brockville|Brockville, Ontario]]
+| first
+|-
+| '''71'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|William|Karlsson}}
+| C
+| L
+| {{hs|30–188}}30
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Märsta|Märsta, Sweden]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}<ref name="SCF2018" />
+|-
+| '''8'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Phil|Kessel}}
+| RW
+| R
+| {{hs|35–228}}35
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Madison, Wisconsin]]
+| third {{small|('''[[2016 Stanley Cup Final|2016]]''', '''[[2017 Stanley Cup Final|2017]]''')}}<ref>{{cite web |url=https://www.nhl.com/gamecenter/pit-vs-sjs/2016/06/12/2015030416#game=2015030416,game_state=final,game_tab=stats |title=Pittsburgh Penguins – San Jose Sharks – June 12, 2016 |website=NHL.com |access-date=June 15, 2023 |archive-date=July 7, 2017 |archive-url=https://web.archive.org/web/20170707005159/https://www.nhl.com/gamecenter/pit-vs-sjs/2016/06/12/2015030416#game=2015030416,game_state=final,game_tab=stats |url-status=live }}</ref><ref>{{cite web |url=https://www.nhl.com/gamecenter/nsh-vs-pit/2017/06/11/2016030416 |title=Pittsburgh Penguins – Nashville Predators – June 11, 2016 |website=NHL.com |access-date=June 15, 2023 |archive-date=July 20, 2022 |archive-url=https://web.archive.org/web/20220720020231/https://www.nhl.com/gamecenter/pit-vs-nsh/2017/06/11/2016030416#game=2016030416,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keegan|Kolesar}}
+| RW
+| R
+| {{hs|26–052}}26
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|-
+| '''81'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Marchessault}}
+| RW
+| R
+| {{hs|32–200}}32
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Cap-Rouge, Quebec City|Cap-Rouge, Quebec]]
+| third {{small|([[2015 Stanley Cup Final|2015]], [[2018 Stanley Cup Final|2018]])}}<ref>{{cite web |url=https://www.nhl.com/gamecenter/chi-vs-tbl/2015/06/15/2014030416 |title=Chicago Blackhawks – Tampa Bay Lightning – June 15, 2015 |website=NHL.com |access-date=June 15, 2023 |archive-date=April 8, 2023 |archive-url=https://web.archive.org/web/20230408094533/https://www.nhl.com/gamecenter/tbl-vs-chi/2015/06/15/2014030416#game=2014030416,game_state=final |url-status=live }}</ref><ref name="SCF2018" />
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Alec|Martinez}}
+| D
+| L
+| {{hs|35–348}}35
+| [[2019–20 NHL season|2020]] 
+| style="text-align:left;"|[[Rochester Hills, Michigan]]
+| third {{small|('''[[2012 Stanley Cup Final|2012]]''', '''[[2014 Stanley Cup Final|2014]]''')}}<ref name="SCF2012">{{cite web |url=https://www.nhl.com/gamecenter/lak-vs-njd/2012/06/11/2011030416 |title=New Jersey Devils – Los Angeles Kings – June 11, 2012 |website=NHL.com |access-date=June 15, 2023 |archive-date=May 21, 2013 |archive-url=https://web.archive.org/web/20130521230442/http://www.nhl.com/ice/recap.htm?id=2011030416#game=2011030416,game_state=final |url-status=live }}</ref><ref name="SCF2014" />
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|McNabb}}
+| D
+| L
+| {{hs|32–129}}32
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Davidson, Saskatchewan]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}<ref name="SCF2018" />
+|-
+| '''94'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|Pachal}}
+| D
+| R
+| {{hs|23–284}}23
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Estevan, Saskatchewan]]
+| first
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Pietrangelo}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{hs|33–172}}33
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[King City, Ontario]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}<ref name="SCF2019" />
+|-
+| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Quick}}
+| G
+| L
+| {{hs|37–348}}37
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Milford, Connecticut]]
+| third {{small|('''[[2012 Stanley Cup Final|2012]]''', '''[[2014 Stanley Cup Final|2014]]''')}}<ref name="SCF2012" /><ref name="SCF2014" />
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nicolas|Roy}}
+| C/RW
+| R
+| {{hs|26–114}}26
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Amos, Quebec]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Reilly|Smith}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| L
+| {{hs|32–059}}32
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}<ref name="SCF2018" />
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chandler|Stephenson}}
+| C
+| L
+| {{hs|29–037}}29
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| second {{small|('''[[2018 Stanley Cup Final|2018]]''')}}<ref name="SCF2018" />
+|-
+| '''61'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Stone}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| {{hs|31–017}}31
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shea|Theodore}}
+| D
+| L
+| {{hs|27–331}}27
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Langley, British Columbia (district municipality)|Langley, British Columbia]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}<ref name="SCF2018" />
+|-
+| '''36'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Logan|Thompson}}
+| G
+| R
+| 26
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first {{small|(did not dress)}}
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Whitecloud}}
+| D
+| R
+| {{hs|26–221}}26
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Golden Knights captain Mark Stone by [[NHL commissioner]] [[Gary Bettman]] following the Golden Knights' 9–3 win in game five.
+
+The following Golden Knights players and staff had their names engraved on the Stanley Cup:<ref>{{cite web |title=Names engraved on Stanley Cup |url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-names-engraved-on-stanley-cup/c-345264294 |website=[[Vegas Golden Knights]] |date=2023-07-07 |publisher=[[National Hockey League]] |access-date=July 7, 2023 |archive-date=July 7, 2023 |archive-url=https://web.archive.org/web/20230707193153/https://www.nhl.com/goldenknights/news/vegas-golden-knights-names-engraved-on-stanley-cup/c-345264294 |url-status=live }}</ref><ref>{{cite web |last=Granger |first=Jesse |url=https://www.nytimes.com/athletic/4678058/2023/07/10/vegas-golden-knights-stanley-cup-names-championship/ |title=Here's how all 52 Golden Knights names on the Stanley Cup contributed to the championship |publisher=The Athletic |date=July 10, 2023 |access-date=June 27, 2024}}</ref>
+
+'''2022–23 Vegas Golden Knights'''
+{{Stanley Cup champion
+|defence=
+*2 [[Zach Whitecloud]]
+*3 [[Brayden McNabb]]
+*7 [[Alex Pietrangelo]]
+*14 [[Nicolas Hague]]
+*17 [[Ben Hutton (ice hockey)|Ben Hutton]] ‡
+*23 [[Alec Martinez]]
+*27 [[Shea Theodore]]
+*94 [[Brayden Pachal]] ‡
+|wingers=
+*8 [[Phil Kessel]] †
+*19 [[Reilly Smith]]
+*22 [[Michael Amadio]]*
+*28 [[William Carrier (ice hockey)|William Carrier]]
+*55 [[Keegan Kolesar]]
+*61 [[Mark Stone]] (Captain)
+*81 [[Jonathan Marchessault]]
+|centres=
+*9 [[Jack Eichel]]
+*10 [[Nicolas Roy]]*
+*20 [[Chandler Stephenson]]
+*21 [[Brett Howden]]*
+*43 [[Paul Cotter]]* †
+*49 [[Ivan Barbashev]]*
+*53 [[Teddy Blueger]] ‡
+*71 [[William Karlsson]]
+|goaltenders=
+*32 [[Jonathan Quick]]
+*33 [[Adin Hill]]
+*36 [[Logan Thompson]] †
+*39 [[Laurent Brossoit]] ‡
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup-winning team.}}
+|non-players=
+* [[William P. Foley II|Bill Foley]] (Owner/Chairman), Robert Foley (Chief Business Officer), [[George McPhee]] (President of Hockey Operations), [[Kelly McCrimmon]] (general manager)
+* [[Bruce Cassidy]] (Head Coach), [[John Stevens (ice hockey)|John Stevens]] (Asst. Coach), [[Ryan Craig]] (Asst. Coach), [[Sean Burke]] (Director of Goaltending/NHL Goaltending Coach)
+*  [[Misha Donskov]] (Asst. Coach), Dave Rogowski (Video Coach), Kyle Moore (Associate Head Athletic Trainer), Mike Muir (Assistant Athletic Trainer)
+*  Raul Dorantes (Manual Therapist), Doug Davidson (Strength and Conditioning Coach), Aaron Heishman (Head of Sport Science and Reconditioning)
+* Chris Davidson-Adams (Head Equipment Manager), J.W. Aiken (Assistant Equipment Manager), Rick Braunstein (Director of Team Services)
+* Katy Headman Boettinger (Director of Hockey Administration), [[Vaughn Karpan]] (Director of Player Personnel), [[Bob Lowes]] (Assistant Director of Player Personnel)
+* Scott Luce (Director of Amateur Scouting), Andrew Lugerner (Director of Hockey Legal Affairs), Wil Nichol (Director of Player Development), [[CapGeek#Similar sites|Tom Poraszka]] (Director of Hockey Operations)}}
+===Engraving notes===
+<!--Ordered by total GP in 2022-23, regular-season and playoffs. Criteria for automatic qualification are, per the NHL: playing in/dressing for at least one SCF game, OR playing in/dressing for at least half of the championship team's regular season games.-->
+* Vegas successfully requested an exemption to engrave the names of four players who did not automatically qualify.{{efn|name=qualify}}
+** #53 [[Teddy Blueger]] (C) played in 63 regular-season games (45 with the [[Pittsburgh Penguins]] and 18 with the Golden Knights), plus six playoff games (two in the second round, four in the Western Conference Final).
+** #17 [[Ben Hutton (ice hockey)|Ben Hutton]] (D) played in 31 regular-season games and two playoff games (one each in the first and second rounds).
+** #39 [[Laurent Brossoit]] (G) played in 11 regular-season games and eight playoff games (five in the first round, three in the second round) before missing the remainder of the playoffs due to injury.
+** #94 [[Brayden Pachal]] (D) played in ten regular-season games and one playoff game in the first round.
+* With [[Adin Hill]], [[Jonathan Quick]], and [[Logan Thompson]] all automatically qualified for engraving, and [[Laurent Brossoit]] added via exemption, Vegas became the first team in NHL history to have four goaltenders engraved on the Cup; the previous high of three goaltenders was most recently reached by the [[2015–16 Pittsburgh Penguins season|2016 Pittsburgh Penguins]] (with [[Matt Murray (ice hockey, born 1994)|Matt Murray]], [[Marc-André Fleury]], and [[Jeff Zatkoff]]).<ref>{{cite web |title=Golden Knights names engraved on Stanley Cup |url=https://www.nhl.com/news/vegas-golden-knights-names-engraved-on-stanley-cup/c-345264998 |website=NHL.com |publisher=National Hockey League |access-date=6 August 2023}}</ref><ref>{{cite news|last=Webster|first=Danny|url=https://lasvegassun.com/news/2023/jul/07/vgk-golden-knights-get-their-names-engraved-on/|title=Golden Knights get their names engraved on Stanley Cup|newspaper=Las Vegas Sun|date=July 7, 2023|accessdate=July 7, 2023}}</ref>
+
+===Player notes===
+* Fourteen players who were on the roster during the Final were left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} None appeared in the playoffs (they were healthy scratches, except for injured players [[Robin Lehner]] and [[Nolan Patrick]]). They received championship rings.<ref>{{cite web|title=Florida Panthers – Vegas Golden Knights – June 13th, 2023|url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/13/2022030415#game=2022030415,game_state=final,game_tab=stats|publisher=NHL Enterprises, L. P.|date=June 13, 2023|website=NHL.com|accessdate=June 15, 2023}}</ref><ref>{{cite web |title=Winnipeg Jets – Vegas Golden Knights – April 20, 2023 |url=https://www.nhl.com/gamecenter/vgk-vs-wpg/2023/04/20/2022030172 |publisher=NHL Enterprises, L. P. |date=April 20, 2023|website=NHL.com|access-date=July 17, 2023}}</ref><ref>[https://www.nhl.com/scores/htmlreports/20222023/RO030415.HTM Playing Roster]</ref>
+<!--Listed in order by NHL GP during the 2022–23 NHL season, then AHL GP only if no NHL GP.-->
+** #16 [[Pavel Dorofeyev]] (LW) – 18 regular season games
+** #65 [[Dysin Mayo]] (D) – 0 regular season games with Vegas, 15 regular season games with [[Arizona Coyotes|Arizona]]
+** #46 [[Jonas Rondbjerg]] (RW) – 13 regular season games
+** #6 [[Kaedan Korczak]] (D) – 10 regular season games
+** #51 [[Byron Froese]] (C) – 9 regular season games
+** #30 [[Jiří Patera (ice hockey)|Jiri Patera]] (G) – 2 regular season games
+** #56 [[Sheldon Rempal]] (RW) – 1 regular season game
+** #40 [[Lukas Cormier]] (D) – 0 regular season games, 62 with [[Henderson Silver Knights|Henderson]] of the [[American Hockey League]] (AHL)
+** #24 [[Brendan Brisson]] (C) – 0 regular season games, 58 with Henderson of the AHL
+** #11 [[Ivan Morozov (ice hockey)|Ivan Morozov]] (C) – 0 regular season games, 58 with Henderson of the AHL
+** #5 [[Daniil Chayka]] (D) – 0 regular season games, 57 with Henderson of the AHL
+** #31 [[Isaiah Saville]] (G) – 0 regular season games, 10 with Henderson of the AHL
+** #90 [[Robin Lehner]] (G) – missed the entirety of the 2022–23 season due to injury (spent entire season with Vegas)
+** #41 [[Nolan Patrick]] (C) – missed the entirety of the 2022–23 season due to injury (spent entire season with Vegas)
+
+==Media rights==
+For the first time since [[2019 Stanley Cup Final|2019]], before the [[COVID-19 pandemic in North America|COVID-19 pandemic]] began, both the Cup Final and the [[NBA Finals]] roughly coincided during the first weeks of June.<ref name="Start_date"/><ref>{{Cite web|author=Hayes, Dade|date=June 3, 2023|title=As NBA And NHL Playoffs Reach Final Round, Disney And Warner Bros Discovery See Ratings And Ad Sales Surge In Respite From WGA Strike|url=https://deadline.com/2023/06/nba-finals-nhl-stanley-cup-final-disney-warner-bros-discovery-abc-tnt-ratings-1235399088/|publisher=Deadline Hollywood|access-date=June 3, 2023|website=[[Deadline Hollywood]]|language=en-us|archive-date=June 3, 2023|archive-url=https://web.archive.org/web/20230603163754/https://deadline.com/2023/06/nba-finals-nhl-stanley-cup-final-disney-warner-bros-discovery-abc-tnt-ratings-1235399088/|url-status=live}}</ref> As with prior years since at least [[2016 Stanley Cup Final|2016]] when both leagues hold their respective championship series at roughly the same time, games of the Cup Final are scheduled on different days than those of the [[2023 NBA Finals]], typically on the day prior to or after the other league's games.<ref>{{Cite web|date=October 19, 2021|title=Extra off days in NBA, NHL finals|url=https://www.sportingnews.com/us/nhl/news/nba-finals-stanley-cup-schedules-extra-off-days/13sui1ahk2oi815enbl6cdi7p3|publisher=Sporting News Holding Limited|accessdate=April 27, 2023|website=sportingnews.com|language=en-us|archive-date=April 27, 2023|archive-url=https://web.archive.org/web/20230427201955/https://www.sportingnews.com/us/nhl/news/nba-finals-stanley-cup-schedules-extra-off-days/13sui1ahk2oi815enbl6cdi7p3|url-status=live}}</ref>
+
+In Canada, this was the ninth consecutive Stanley Cup Final broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in English, and [[TVA Sports]] in French. The series was also streamed on Sportsnet Now.<ref>{{cite web|last=Rosen|first=Dan|date=November 26, 2013|title=NHL, Rogers announce landmark 12-year deal|url=https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152|url-status=live|archive-url=https://web.archive.org/web/20190620135912/https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152|archive-date=June 20, 2019 |access-date=June 8, 2021|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref>
+
+In the United States, the series was televised by [[NHL on TNT|TNT]] under the second year of a seven-year deal in which the network gets the Final in odd years and [[NHL on ABC|ABC]] gets the Final in even years. This marked the first time that the Stanley Cup Final did not air in part on U.S. broadcast television since [[1994 Stanley Cup Final|1994]]. As is common for other major events broadcast by [[NHL on TNT|Warner Bros. Discovery Sports]] (such as the [[NCAA March Madness (TV program)|NCAA men's basketball national championship]]), all games were aired in [[simulcast]] across multiple [[Turner Broadcasting System|Turner Broadcasting channels]], including [[TBS (American TV channel)|TBS]] (except for games held on Tuesdays and Wednesdays due to ''[[MLB on TBS|MLB on TBS Tuesday Night]]'' and ''[[AEW Dynamite]]'' respectively) and [[TruTV]].<ref>{{Cite web|last=Lewis|first=Jon|date=May 26, 2023|title=Cup Final to be simulcast across Turner cable networks|url=https://www.sportsmediawatch.com/2023/05/stanley-cup-final-simulcast-tnt-tbs-trutv/|accessdate=June 7, 2023|website=SportsMediaWatch.com|publisher=Jon Lewis|language=en-US|archive-date=June 8, 2023|archive-url=https://web.archive.org/web/20230608153820/https://www.sportsmediawatch.com/2023/05/stanley-cup-final-simulcast-tnt-tbs-trutv/|url-status=live}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nhl.com/stanley-cup-playoffs/2023/golden-knights-vs-panthers-series-o 2023 Stanley Cup Final at NHL.com]
+
+{{s-start}}
+{{succession box | before = [[2022 Stanley Cup Final|Colorado Avalanche<br />2022]] | title = [[List of Stanley Cup champions|Vegas Golden Knights<br />Stanley Cup champions]] | years = 2023 | after = [[2024 Stanley Cup Final|Florida Panthers<br>2024]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Vegas Golden Knights}}
+{{Florida Panthers}}
+{{2022–23 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Sportsnet}}
+{{NHL on TNT}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2022–23 NHL season|Stanley Cup Final]]
+[[Category:2023 Stanley Cup| ]]
+[[Category:2023 in sports in Florida|Stanley Cup Final]]
+[[Category:2023 in sports in Nevada|Stanley Cup Final]]
+[[Category:2020s in Broward County, Florida]]
+[[Category:2023 in the Las Vegas Valley]]
+[[Category:Sports competitions in Paradise, Nevada]]
+[[Category:Florida Panthers games]]
+[[Category:Ice hockey competitions in Florida]]
+[[Category:Ice hockey competitions in Nevada]]
+[[Category:June 2023 sports events in the United States|Stanley Cup Final]]
+[[Category:Sports competitions in Sunrise, Florida]]
+[[Category:Stanley Cup Finals]]
+[[Category:Vegas Golden Knights games|Stanley Cup Final]]

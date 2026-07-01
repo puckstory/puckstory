@@ -1,0 +1,177 @@
+{{Short description|1944 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1944
+|team1='''[[1943–44 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Toe Blake]]
+|team1_coach=[[Dick Irvin]]
+|team1_1='''5'''
+|team1_2='''3'''
+|team1_3='''3'''
+|team1_4='''5'''*
+|team1_tot=4
+|team2=[[1943–44 Chicago Black Hawks season|Chicago Black Hawks]]
+|team2_short=Chicago 
+|team2_coach=[[Paul Thompson (ice hockey b. 1906)|Paul Thompson]]
+|team2_captain=[[Doug Bentley]]
+|team2_1=1
+|team2_2=1
+|team2_3=2
+|team2_4=4*
+|team2_tot=0
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 4)
+|location2=[[Chicago]]: [[Chicago Stadium]] (2, 3)
+|dates=April 4–13, 1944
+|series_winner=[[Toe Blake]] (9:12, OT)
+|hofers='''Canadiens:'''<br/>[[Toe Blake]] (1966)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bill Durnan]] (1964)<br/>[[Elmer Lach]] (1966)<br/>[[Buddy O'Connor]] (1988)<br/>[[Maurice Richard]] (1961)<br/>'''Black Hawks:'''<br/>[[Doug Bentley]] (1964)<br/>[[Bill Mosienko]] (1965)<br/>[[Earl Seibert]] (1963)<br/>[[Clint Smith (hockey player)|Clint Smith]] (1991)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)
+}}
+The '''1944 Stanley Cup Final''' was a best-of-seven series between the [[1943–44 Chicago Black Hawks season|Chicago Black Hawks]] and the [[1943–44 Montreal Canadiens season|Montreal Canadiens]]. The Canadiens swept the Black Hawks to win their first [[Stanley Cup]] since they defeated Chicago in {{scfy|1931}}.<ref>{{Cite web|title=Stanley Cup Champions 1940-1949|url=https://www.nhl.com/news/nhl-stanley-cup-champions-1940-1949/c-288132576|access-date=2021-08-07|website=NHL.com|language=en-US}}</ref>
+
+==Paths to the Finals==
+Chicago defeated the [[1943 Stanley Cup Finals|defending champion]] [[Detroit Red Wings]] in a best-of-seven 4–1 to advance to the Finals. Montreal defeated the [[Toronto Maple Leafs]] in a best-of-seven 4–1 to advance to the Finals.
+
+==Game summaries==
+[[Maurice Richard|Maurice "Rocket" Richard]] made his Stanley Cup debut with a five-goal performance in the series, including a [[hat trick]] in game two. The Punch Line of Richard, [[Elmer Lach]] and [[Toe Blake]] scored ten of the Canadiens' 16 goals. Blake scored the Cup winner in overtime. In the same overtime, [[Bill Durnan]] stopped the first penalty shot awarded in the Finals, awarded to [[Virgil Johnson (ice hockey)|Virgil Johnson]].{{citation needed |date=March 2021}}
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Chicago Stadium]]
+
+|date1       =April 4
+|home1       =1
+|score1      =1–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-mtl/1944/04/04/1943030211#game=1943030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =8:37 - [[Phil Watson]] (2)
+|1-2-1       =[[Clint Smith (hockey player)|Clint Smith]] (4) - ''pp'' - 10:11
+|1-2-2       =6:35 - ''pp'' - [[Toe Blake]] (5)<br>10:58 - [[Ray Getliffe]] (4)
+|1-3-1       =''No scoring''
+|1-3-2       =4:47 - [[Murph Chamberlain]] (5)<br>18:07 - Ray Getliffe (5)
+|goalie1-1   =[[Mike Karakas]]
+|goalie1-2   =[[Bill Durnan]]
+
+|date2       =April 6
+|home2       =2
+|score2      =3–1
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/mtl-vs-chi/1944/04/06/1943030212#game=1943030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =[[Maurice Richard]] (8) - 13:00
+|2-3-1       =19:59 - [[Johnny Harms|John Harms]] (1)
+|2-3-2       =Maurice Richard (9) - 12:16<br>Maurice Richard (10) - 15:33
+|goalie2-1   =[[Mike Karakas]]
+|goalie2-2   =[[Bill Durnan]]
+
+|date3       =April 9
+|home3       =2
+|score3      =3–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-chi/1944/04/09/1943030213#game=1943030213,game_state=final
+|3-1-1       =5:14 - [[George Allen (ice hockey)|George Allen]] (3)
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =[[Toe Blake]] (6) - 2:02
+|3-3-1       =4:16 - [[Johnny Harms|John Harms]] (2)
+|3-3-2       =[[Mike McMahon, Sr.|Mike McMahon]] (1) - 5:47<br>[[Phil Watson]] (3) - 6:42
+|goalie3-1   =[[Mike Karakas]]
+|goalie3-2   =[[Bill Durnan]]
+
+|date4       =April 13
+|home4       =1
+|score4      =4–5
+|ot4         =1
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/chi-vs-mtl/1944/04/13/1943030214#game=1943030214,game_state=final
+|4-1-1       =[[George Allen (ice hockey)|George Allen]] (4) - 5:12
+|4-1-2       =8:48 - [[Elmer Lach]] (1)
+|4-2-1       =[[Johnny Harms|John Harms]] (3) - ''pp'' - 7:30<br>George Allen (5) - ''pp'' - 9:12<br>[[Doug Bentley]] (8) - 10:09
+|4-2-2       =''No scoring''
+|4-3-1       =''No scoring''
+|4-3-2       =10:02 - Elmer Lach (2)<br>16:05 - [[Maurice Richard]] (11)<br>17:20 - Maurice Richard (12)
+|4-4-1       =''No scoring''
+|4-4-2       =9:12 - [[Toe Blake]] (7)
+|goalie4-1   =[[Mike Karakas]]
+|goalie4-2   =[[Bill Durnan]]
+
+|series = Montreal won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1944 Stanley Cup was presented to Canadiens captain Toe Blake by [[NHL Commissioner|NHL President]] [[Red Dutton]] following the Canadiens 5–4 overtime win over the Black Hawks in game four.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1943–44 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=1 [[Bill Durnan]]
+|defence=*2 [[Mike McMahon, Sr.]] 
+*3 [[Émile Bouchard|Emile "Butch" Bouchard]]
+*4 [[Leo Lamoureux]]
+*8 [[Glen Harmon]]
+|centres=*10 Herbert [[Buddy O'Connor]]
+*11 [[Ray Getliffe]]
+*16 [[Elmer Lach]]
+*17  [[Fern Majeau]] 
+|wingers=*6 Hector [[Toe Blake]] (Captain)
+*8 [[Gerry Heffernan]]
+*9 [[Maurice Richard|Maurice "Rocket" Richard]]
+*12 Erwin [[Murph Chamberlain]]
+*14 [[Phil Watson]] 
+*21 [[Bob Fillion]]
+|non-players=
+* [[Donat Raymond]] (President/Owner), Dalton Coleman (Vice President/Owner) 
+* [[Len Peto]] (Director), [[Tommy Gorman]] (Manager)
+* [[Dick Irvin]] Sr, (Coach)
+* Ernie Cook (Trainer)&, Hector Dubois (Asst. Trainer)&.
+*William Northey (Vice President/Owner) was missing from team picture, and Stanley Cup.
+
+|engraving-notes=
+*Trainer Ernie Cook and Hector Dubois were included on the team picture in 1944, 1946.  However, their names were not engraved on the Cup.  When the Stanley Cup was redesigned during the 1957–58 season, Cook was added to the cup in 1944, but not to the 1946 team. Dubois was not added to 1944, 1946 teams. Dubois would later have his name on the Stanley Cup 6 times 1953–56–57–58–59–60.
+*In 1944, Tommy Gorman became the only Manager to win 4 Stanley Cups with 4 different teams. 1920–21–23 Ottawa Senators, 1934 Chicago Black Hawks, 1935 Montreal Maroons and 1944 Montreal Canadiens.  He would retire as a champion after winning one more cup with the Canadiens in 1946.
+
+; Spelling mistakes
+*Bill Durnan's name was misspelled as BILL DURMAN.  The first "N" was engraved as an "M".  The mistake was corrected in 1992–93 when the Replica Cup was created.
+*Gerald "Gerry" Heffernan won only 1 Stanley Cup in his career in 1944. However, his name is spelled differently on each of the 3 rings 1944 Canadiens Rings
+*On the original ring in 1944 as GERALD HEFFERNAN 
+*On the redesigned ring created during the 1957–58 season as JERRY HEFFERNAN
+*On the Replica ring created in 1992–93 as GERRY HEFFERNAN
+}}
+
+==See also==
+* [[1943–44 NHL season]]
+* [[1943–44 Chicago Black Hawks season]]
+* [[1943–44 Montreal Canadiens season]]
+
+==References and notes==
+{{reflist}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1943 Stanley Cup Finals|Detroit Red Wings<br>1943]] | title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] | years = 1944 | after = [[1945 Stanley Cup Finals|Toronto Maple Leafs<br>1945]]}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Canadiens}}
+{{Chicago Blackhawks}}
+{{1943–44 NHL season by team}}
+
+[[Category:1943–44 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Montreal Canadiens games]]
+[[Category:1944 in sports in Illinois|Stanley Cup Finals]]
+[[Category:April 1944 sports events in North America|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:1944 in Quebec|Stanley Cup Finals]]
+[[Category:1940s in Chicago]]
+[[Category:1940s in Montreal]]
+[[Category:Events at Chicago Stadium]]

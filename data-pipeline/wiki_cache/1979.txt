@@ -1,0 +1,330 @@
+{{Short description|1979 ice hockey championship series}}
+{{Use mdy dates|date=June 2013}}
+{{Infobox Stanley Cup Final
+|year=1979
+|image=
+|team1='''[[1978–79 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal
+|team1_captain=[[Yvan Cournoyer]]<ref>Due to injury, Cournoyer didn't play in any playoff games. [[Serge Savard]] served as acting captain.</ref>
+|team1_coach=[[Scotty Bowman]]
+|team2=[[1978–79 New York Rangers season|New York Rangers]]
+|team2_short=New York 
+|team2_coach=[[Fred Shero]]
+|team2_captain=[[Dave Maloney]]
+|series_winner=[[Jacques Lemaire]] (1:02, second)
+|hofers='''Canadiens:'''<br/>[[Yvan Cournoyer]] (1982; did not play)<br/>[[Ken Dryden]] (1983)<br/>[[Bob Gainey]] (1992)<br/>[[Guy Lafleur]] (1988)<br/>[[Rod Langway]] (2002)<br/>[[Guy Lapointe]] (1993; did not play)<br/>[[Jacques Lemaire]] (1984)<br/>[[Larry Robinson]] (1995)<br/>[[Serge Savard]] (1986)<br/>[[Steve Shutt]] (1993)<br/>'''Rangers:'''<br/>[[Phil Esposito]] (1984)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>[[Fred Shero]] (2013)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|referees=Bob Myers, Dave Newell, [[Andy Van Hellemond]]
+|dates=May 13–21, 1979
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[New York City]]: [[Madison Square Garden]] (3, 4)
+|mvp=[[Bob Gainey]] (Canadiens)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL Network (1975 TV program)|NHL Network]]<br />(New York City area): [[WWOR-TV|WOR]] 
+|net_announcers=(CBC) [[Dan Kelly (sportscaster)|Dan Kelly]], [[Danny Gallivan]] (2), [[Gary Dornhoefer]] (1, 5), [[Gerry Pinder]] (2), [[Bobby Orr]] (3–4), and [[Dick Irvin Jr.]]<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(NHLN) ''Simulcast of CBC feed''<br/>(WOR) [[Jim Gordon (sportscaster)|Jim Gordon]] and [[Bill Chadwick]] 
+|team1_1=1
+|team1_2='''6'''
+|team1_3='''4'''
+|team1_4='''4'''*
+|team1_5='''4'''
+|team1_tot=4
+|team2_1='''4'''
+|team2_2=2
+|team2_3=1
+|team2_4=3*
+|team2_5=1
+|team2_tot=1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+}}
+The '''1979 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1978–79 NHL season|1978–79 season]], and the culmination of the [[1979 Stanley Cup playoffs]]. The [[1978–79 New York Rangers season|New York Rangers]] challenged the defending champion [[1978–79 Montreal Canadiens season|Montreal Canadiens]], who made their fourth straight appearance. It was New York's first foray into the Final since {{scfy|1972}}. The Canadiens would win the best-of-seven series, four games to one, to win their fourth consecutive [[Stanley Cup]] championship.<ref>{{cite web|url= https://news.google.com/newspapers?nid=feST4K8J0scC&dat=19790522&printsec=frontpage&hl=en|title= Canadiens do it again|date=May 22, 1979|work=St Petersburg Times (Page 21)|access-date=June 12, 2013 }}</ref>
+
+This was the first of six consecutive Finals involving a team from the [[New York metropolitan area]]. The next five Finals would be contested by the Rangers' crosstown rivals the [[New York Islanders]], who would win the first four of those series to forge a dynasty matching that of the Canadiens. By defeating the Rangers, the Canadiens completed the rare accomplishment of winning four consecutive titles in a North American league competition consisting of at least sixteen teams, and remain the only team based outside the New York metropolitan area to do so. Prior to the Canadiens' dynasty, the feat had been achieved only twice before, both times by the [[New York Yankees]] in [[Major League Baseball]]. The aforementioned Islanders are the only team to accomplish it since. This was also the last Stanley Cup Final until [[2013 Stanley Cup Final|2013]] where both teams were from the [[Original Six]]. An Original Six club would not reach the Final again until Montreal won their next championship in [[1986 Stanley Cup Final|1986]].
+
+==Paths to the Final==
+{{further|1978–79 NHL season|1978–79 Montreal Canadiens season|1978–79 New York Rangers season}}
+Montreal defeated the [[Toronto Maple Leafs]] 4–0 and the [[Boston Bruins]] 4–3 (highlighted by the "too many men on the ice" game seven overtime win) to advance to the Final.
+
+New York defeated the [[Los Angeles Kings]] 2–0, the [[Philadelphia Flyers]] 4–1 and the [[New York Islanders]] 4–2 to make it to the Final.
+
+==Game summaries==
+The Canadiens won the Cup in five games, winning it on home ice for the first time since {{scfy|1968}}.<ref>{{cite book|title=The Montreal Canadiens:100 Years of Glory|first=D'Arcy|last=Jenish|page=234|publisher=Doubleday|year=2009|isbn=978-0-385-66325-0}}</ref> After the game [[Jacques Lemaire]], [[Yvan Cournoyer]], and [[Ken Dryden]] retired, while head coach [[Scotty Bowman]] left the Canadiens to join the [[Buffalo Sabres]], which would mark the end of the Canadiens' dynasty. Montreal Canadiens scored 46 total points during the Stanley Cup Final, while the New York Rangers scored 26 points in the Final.<ref>{{Cite web|title=1979 NHL Stanley Cup Final: MTL vs. NYR|url=https://www.hockey-reference.com/playoffs/1979-montreal-canadiens-vs-new-york-rangers-stanley-cup-final.html|access-date=2021-08-16|website=Hockey-Reference.com|language=en}}</ref>
+
+This Final marked the second time in four years that Bowman and [[Fred Shero]] coached against each other. In {{scfy|1976}}, they coached against each other, though Shero was with the [[Philadelphia Flyers]].
+
+{{NHLPlayoffs
+|team1=New York Rangers
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Madison Square Garden]]
+
+|date1       =May 13
+|score1      =4–1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/nyr-vs-mtl/1979/05/13/1978030411#game=1978030411,game_state=final
+|1-1-1       =[[Steve Vickers (ice hockey)|Steve Vickers]] (5) - ''pp'' - 6:28<br>[[Ron Greschner]] (7) - 14:27
+|1-1-2       =''No scoring''
+|1-2-1       =[[Phil Esposito]] (7) - ''pp'' - 9:30<br>[[Dave Maloney]] (3) - ''sh'' - 12:32
+|1-2-2       =7:07 - [[Guy Lafleur]] (9)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[John Davidson (ice hockey)|John Davidson]] 31 saves / 32 shots
+|goalie1-2   =[[Ken Dryden]] 9 saves / 13 shots<br>[[Michel Larocque]] 9 saves / 9 shots
+
+|date2       =May 15
+|score2      =2–6
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/nyr-vs-mtl/1979/05/15/1978030412#game=1978030412,game_state=final
+|2-1-1       =[[Anders Hedberg]] (4) - 1:02<br>[[Ron Duguay]] (4) - 6:21
+|2-1-2       =8:34 - [[Yvon Lambert]] (4)<br>12:24 - [[Guy Lafleur]] (10)<br>16:27 - [[Bob Gainey]] (4)
+|2-2-1       =''No scoring''
+|2-2-2       =6:51 - [[Steve Shutt]] (3)<br>17:35 - ''pp'' - [[Jacques Lemaire]] (8)
+|2-3-1       =''No scoring''
+|2-3-2       =4:38 - [[Mark Napier (ice hockey)|Mark Napier]] (3)
+|goalie2-1   =[[John Davidson (ice hockey)|John Davidson]] 27 saves / 33 shots
+|goalie2-2   =[[Ken Dryden]] 23 saves / 25 shots
+
+|date3       =May 17
+|score3      =4–1
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-nyr/1979/05/17/1978030413#game=1978030413,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Steve Shutt]] (4) - ''pp'' - 7:27<br>[[Doug Risebrough]] (1) - 15:44
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =6:06 - [[Ron Duguay]] (5)
+|3-3-2       =[[Mario Tremblay]] (3) - 14:48<br>[[Jacques Lemaire]] (9) - 17:10
+|goalie3-1   =[[John Davidson (ice hockey)|John Davidson]] 19 saves / 23 shots
+|goalie3-2   =[[Ken Dryden]] 19 saves / 20 shots
+
+|date4       =May 19
+|score4      =4–3
+|ot4         =1
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-nyr/1979/05/19/1978030414#game=1978030414,game_state=final
+|4-1-1       =1:19 - [[Pat Hickey (ice hockey)|Pat Hickey]] (1)<br>17:03 - [[Don Murdoch]] (7)
+|4-1-2       =[[Rejean Houle]] (1) - 2:39
+|4-2-1       =''No scoring''
+|4-2-2       =[[Yvon Lambert]] (5) - 18:05
+|4-3-1       =4:26 - [[Phil Esposito]] (8)
+|4-3-2       =[[Bob Gainey]] (5) - 6:27
+|4-4-1       =''No scoring''
+|4-4-2       =[[Serge Savard]] (2) - 7:25
+|goalie4-1   =[[John Davidson (ice hockey)|John Davidson]] 38 saves / 42 shots
+|goalie4-2   =[[Ken Dryden]] 18 saves / 21 shots
+
+|date5       =May 21
+|score5      =1–4
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/nyr-vs-mtl/1979/05/21/1978030415#game=1978030415,game_state=final
+|5-1-1       =[[Carol Vadnais]] (2) - 16:52
+|5-1-2       =10:36 - [[Rick Chartraw]] (2)
+|5-2-1       =''No scoring''
+|5-2-2       =1:02 - ''pp'' - [[Jacques Lemaire]] (10)<br>11:01 - [[Bob Gainey]] (6)<br>18:49 - Jacques Lemaire (11)
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|goalie5-1   =[[John Davidson (ice hockey)|John Davidson]] 27 saves / 31 shots
+|goalie5-2   =[[Ken Dryden]] 14 saves / 15 shots
+
+|series      =Montreal won series 4–1
+}}
+
+==Team rosters==
+===Montreal Canadiens===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Michel | last = Larocque | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 6 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Hull, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Brian | last = Engblom | dab = | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Winnipeg, Manitoba]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Guy | last = Lapointe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 18 | acq = [[1968-69 NHL season|1969]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Mondou | dab = | num = 6 | pos = C | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 11 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Sorel, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Doug| last = Risebrough | dab = | num = 8 | pos = C | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 1 | birthday = 29 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Guelph, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Guy | last = Lafleur | dab = | num = 10 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 9 | birthday = 20 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Thurso, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Yvon | last = Lambert | dab = | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 5 | birthday = 20 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Drummondville, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Yvan | last = Cournoyer | dab = | num = 12 | pos = RW | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 11 | birthday = 22 | acq = [[1963-64 NHL season|1963]] | birthplace = [[Drummondville, Quebec]] | cap = C | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mario | last = Tremblay | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1956 | birthmonth = 11 | birthday = 22 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Alma, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rejean | last = Houle | dab = | num = 15 | pos = RW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 25 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Rouyn, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rod | last = Langway | dab = | num = 17 | pos = D | nat = United States | s/g = L | birthyear = 1957 | birthmonth = 5 | birthday = 3 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[Republic of Formosa|Formosa, Taiwan]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Serge | last = Savard | dab = | num = 18 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 22 | acq = [[1966-67 NHL season|1966]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Larry | last = Robinson | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 6 | birthday = 2 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Winchester, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Cam | last = Connor | dab = | num = 20 | pos = RW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 8 | birthday = 10 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Winnipeg, Manitoba]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Doug | last = Jarvis | dab = | num = 21 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 3 | birthday = 24 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brantford, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Steve | last = Shutt | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 1 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[North York, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Gainey | dab = | num = 23 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Peterborough, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gilles | last = Lupien | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 4 | birthday = 20 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Lachute, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jacques | last = Lemaire | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 27 | acq = [[1967-68 NHL season|1967]] | birthplace = [[LaSalle, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rick | last = Chartraw | dab = | num = 27 | pos = D | nat = United States | s/g = R | birthyear = 1954 | birthmonth = 7 | birthday = 13 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Caracas, Venezuela]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Larouche | dab = | num = 28 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 11| birthday = 16 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Taschereau, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ken | last = Dryden | dab = | num = 29 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 8 | birthday = 8 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pat| last = Hughes | dab = Pat Hughes (ice hockey) | num = 30 | pos = RW | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 3 | birthday = 25 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Calgary, Alberta]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mark | last = Napier | dab = Mark Napier (ice hockey) | num = 31 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[North York, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Richard | last = Sevigny | dab = | num = 33 | pos = G | nat = Canada | s/g = L | birthyear = 1957 | birthmonth = 4 | birthday = 11 | acq = [[1978-79 NHL season|1979]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+|}
+
+===New York Rangers===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Wayne | last = Thomas | dab = Wayne Thomas (ice hockey) | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 10 | birthday = 9 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Dave | last = Farrish | dab = | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 8 | birthday = 1 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Wingham, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ron | last = Greschner | dab =  | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 12 | birthday = 22 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Goodsoil, Saskatchewan]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Carol | last = Vadnais | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 25 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bobby | last = Sheehan | dab = Bobby Sheehan (ice hockey) | num = 6 | pos = C | nat = United States | s/g = L | birthyear = 1949 | birthmonth = 1 | birthday = 11 | acq = [[1978-79 NHL season|1979]] | birthplace = [[Weymouth, Massachusetts]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Steve | last = Vickers | dab = Steve Vickers (ice hockey) | num = 8 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 4 | birthday = 21 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ron | last = Duguay | dab = | num = 10 | pos = C | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 7 | birthday = 6 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[Sudbury, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ulf | last = Nilsson | dab = Ulf Nilsson (ice hockey) | num = 11 | pos = C | nat = Sweden | s/g = R | birthyear = 1950 | birthmonth = 5 | birthday = 11 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Nynäshamn Municipality|Nynäshamn, Sweden]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Don | last = Maloney | dab = | num = 12 | pos = LW | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 9 | birthday = 5 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Lindsay, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Don | last = Murdoch | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1956 | birthmonth = 10 | birthday = 25 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Cranbrook, British Columbia]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Anders | last = Hedberg | dab = | num = 15 | pos = RW | nat = Sweden | s/g = L | birthyear = 1951 | birthmonth = 2 | birthday = 25 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Örnsköldsvik, Sweden]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pat | last = Hickey | dab = Pat Hickey (ice hockey) | num = 16 | pos = LW | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 5 | birthday = 15 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Brantford, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ed | last = Johnstone | dab = | num = 17 | pos = RW | nat = Canada | s/g = R | birthyear = 1954 | birthmonth = 3 | birthday = 2 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Brandon, Manitoba]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Walt | last = Tkaczuk | dab = | num = 18 | pos = C | nat = West Germany | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 25 | acq = [[1967-68 NHL season|1967]] | birthplace = [[Emsdetten|Emsdetten, West Germany]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Nick | last = Fotiu | dab = | num = 19 | pos = LW | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 5 | birthday = 25 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Staten Island, New York]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Lucien | last = DeBlois | dab = | num = 23 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 6 | birthday = 21 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[Joliette, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Plante | dab = | num = 24 | pos = RW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 5 | birthday = 14 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Valleyfield, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mario | last = Marois | dab = | num = 25 | pos = D | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 12 | birthday = 15 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[L'Ancienne-Lorette, Quebec]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Dave | last = Maloney | dab = | num = 26 | pos = D | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 7 | birthday = 31 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Kitchener, Ontario]] | cap = C | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mike | last = McEwen | dab = Mike McEwen (ice hockey) | num = 27 | pos = D | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 8 | birthday = 10 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Hornepayne, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = John | last = Davidson | dab = John Davidson (ice hockey) | num = 30 | pos = G | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 2 | birthday = 27 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Phil | last = Esposito | dab = | num = 77 | pos = C | nat = Canada | s/g = L | birthyear = 1942 | birthmonth = 2 | birthday = 20 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Sault Ste. Marie, Ontario]] | cap = | year = 1979 | month = 5 | day = 13}}
+|}
+
+==Stanley Cup engraving==
+The 1979 Stanley Cup was presented to Canadiens acting captain Serge Savard by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Canadiens 4–1 win over the Rangers in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1978–79 Montreal Canadiens'''
+
+{{Stanley Cup champion|team=Montreal Canadiens |year=1979
+|centres=*6 [[Pierre Mondou]]
+*8 [[Doug Risebrough]]
+*21 [[Doug Jarvis]]
+*25 [[Jacques Lemaire]]
+*28 [[Pierre Larouche]]
+|defence=*3 [[Brian Engblom]]
+*5 [[Guy Lapointe]]
+*17 [[Rod Langway]]
+*18 [[Serge Savard]]
+*19 [[Larry Robinson]]
+*24 [[Gilles Lupien]]
+*27 [[Rick Chartraw]]
+|goaltenders=*1 [[Michel Larocque|Michel Bunny Larocque]]
+*29 [[Ken Dryden]]
+*33 [[Richard Sevigny]] †
+|wingers=*10 [[Guy Lafleur]]
+*11 [[Yvon Lambert]]
+*12 [[Yvan Cournoyer]]* (Captain)
+*14 [[Mario Tremblay]]
+*15 [[Rejean Houle]]
+*20 [[Cam Connor]]
+*22 [[Steve Shutt]]
+*23 [[Bob Gainey]] 
+*30 [[Pat Hughes (ice hockey)|Pat Hughes]]
+*31 [[Mark Napier (ice hockey)|Mark Napier]]
+|player-notes=
+* * Did not play or dress in the Final. Name engraved on Stanley Cup despite not officially qualifying.{{ref|A|[A]}}
+* † Did not play in the Final. Spare dressed in the Final due to an injury to the regular backup goaltender.{{ref|B|[B]}}
+|non-players=
+*[[Jacques Courtois (ice hockey)|Jacques Courtois]] (President), [[Sam Pollock]] (Director)
+*[[Irving Grundman]] (Vice President/General Manager), [[Jean Beliveau]] (Vice President - Director of Cooperate Affairs)
+*William [[Scotty Bowman]] (Head Coach), [[Claude Ruel]] (Director of Player Development)
+*[[Al MacNeil]] (Director of Player Personnel), [[Morgan McCammon]] (Director)
+*[[Ron Caron]] (Asst. General Manager/Director of Communication), [[Eddy Palchak]] (Trainer)
+*Pierre Meilleur (Asst. Trainer)
+|engraving-notes=
+* <sup>{{note|A|[A]}}</sup> #12 [[Yvan Cournoyer]] played only 18 regular season games. He missed the rest of the season due to a back injury.  His name was still put on the cup, even though he did not qualify. Serge Savard served as interim captain while Cournoyer was injured. 
+* <sup>{{note|B|[B]}}</sup> #33 [[Richard Sevigny]] (G) – had his name engraved on the Stanley Cup, before he played his first NHL game. He was dressed in the Final when Michel Larocque was injured in pre-game warm-up for game two. Sevigny joined Montreal full-time, the next season after Ken Dryden retired.
+* #26 Dan Newman played 16 regular season games, but did not qualify to be on the cup.  He was dressed for one game in the quarterfinals, but did not play
+* [[Floyd Curry]] changed roles from Assistant Manager to Director of Scouting.  Name was left off the Stanley Cup.
+* American [[Rod Langway]] was born in Taiwan.  This makes Langway first and only player to win the Stanley Cup born in Taiwan (Republic of China).
+}}
+
+=== Members of Montreal Canadiens 1976 to 1979 dynasty ===
+*''Players'': Rick Chartraw, Yvan Cournoyer, Ken Dryden, Bob Gainey, Doug Jarvis, Guy Lafleur, Yvon Lambert, Guy Lapointe, Michel Larocque, Jacques Lemaire, Doug Risebrough, Larry Robinson, Serge Savard, Steve Shutt, Mario Tremblay 
+*''Non players'': Jacques Courtois, Sam Pollock, Jean Beliveau, Scotty Bowman, Claude Ruel, Eddie Palchak, Pierre Meilleur, Ron Caron, Floyd Curry
+
+==Broadcasting==
+The Stanley Cup Final were produced by [[Hockey Night in Canada|CBC]], who carried the game in Canada and were shown in the United States on the [[The NHL Network (1975–79)|NHL's syndicated package]]. [[Dan Kelly (sportscaster)|Dan Kelly]] called the play-by-play for Games 1, 3, 4, and 5 entirely and split game 2 with [[Danny Gallivan]]. [[Gary Dornhoefer]] served as color commentator for Games 1 and 5, [[Gerry Pinder]] served as color commentator for Game 2 only, [[Bobby Orr]] served as color commentator from Madison Square Garden. Meanwhile, [[Dick Irvin Jr.]] served as color commentator for the entire Final series and hosted the games in Montreal, [[Dave Hodge]] and [[Howie Meeker]] hosted the games in New York City. [[NHL on ABC|ABC]] was contracted to televise game seven.<ref>{{cite news|date=May 13, 1979|title=NHL, ABC-TV Agree|page=89|newspaper=Reading Eagle|agency=Associated Press}}</ref><ref>{{cite news|date=1979-05-13|title=May 26 Selected For a 7th Game|work=[[The New York Times]]|url=https://www.nytimes.com/1979/05/13/archives/may-26-selected-for-a-7th-game.html|access-date=February 9, 2016}}</ref> Since the series ended in five games, the contract was void.<ref>{{cite news|title=Montreal win kills ABC TV deal but Ziegler feels pact is on way|last=Ramsay|first=Donald|newspaper=The Globe and Mail|date=May 22, 1979|page=35}}</ref>
+
+==See also==
+* [[1978–79 NHL season]]
+
+==References==
+{{reflist}}
+;Bibliography
+* {{cite book|title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1978 Stanley Cup Final|Montreal Canadiens<br>1978]] |
+  after = [[1980 Stanley Cup Final|New York Islanders<br>1980]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1979|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{New York Rangers}}
+{{1978–79 NHL season by team}}
+{{Hockey Night in Canada}}
+{{The NHL Network (1975–79)}}
+}}
+
+[[Category:1978–79 NHL season|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:New York Rangers games]]
+[[Category:1979 Stanley Cup| ]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1979 in Montreal]]
+[[Category:1979 in sports in Quebec|Stanley Cup Final]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:1979 in sports in New York City|Stanley Cup Final]]
+[[Category:May 1979 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1979 sports events in the United States|Stanley Cup Final]]
+[[Category:1970s in Manhattan]]

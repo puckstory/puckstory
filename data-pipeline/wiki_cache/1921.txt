@@ -1,0 +1,250 @@
+{{Short description|1921 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1921
+|format=best-of-five
+|team1='''[[1920–21 Ottawa Senators season|Ottawa Senators]]''' (NHL)
+|team1_1=1
+|team1_2='''4'''
+|team1_3='''3'''
+|team1_4=2
+|team1_5='''2'''
+|team1_tot=3
+|team2=[[Vancouver Millionaires]] (PCHA)
+|team2_1='''3'''
+|team2_2=3
+|team2_3=2
+|team2_4='''3'''
+|team2_5=1
+|team2_tot=2
+|coaches=Ottawa: [[Pete Green (ice hockey)|Pete Green]]<br>Vancouver: [[Frank Patrick (hockey)|Frank Patrick]]
+|captains=Ottawa: [[Eddie Gerard]]<br>Vancouver: Unknown
+|dates= March 21 – April 4, 1921
+|location1=[[Vancouver]]: [[Denman Arena]]
+|series_winner=[[Jack Darragh]] (9:40, second)
+|hofers='''Senators:'''<br/>[[Clint Benedict]] (1965)<br/>[[Georges Boucher]] (1960)<br/>[[Punch Broadbent]] (1962)<br/>[[Sprague Cleghorn]] (1958)<br/>[[Jack Darragh]] (1962)<br/>[[Cy Denneny]] (1959)<br/>[[Eddie Gerard]] (1945)<br/>[[Frank Nighbor]] (1947)<br/>'''Millionaires:'''<br/>[[Jack Adams]] (1959)<br/>[[Hughie Lehman]] (1958)<br/>[[Mickey MacKay]] (1952)<br/>[[Cyclone Taylor]] (1947)<br/>'''Coaches:'''<br/>[[Frank Patrick (ice hockey)|Frank Patrick]] (1950)
+|referees=[[Mickey Ion]]
+}}
+The '''1921 Stanley Cup Final''' was contested by the [[National Hockey League]] (NHL) champion [[1920–21 Ottawa Senators season|Ottawa Senators]] and the [[Pacific Coast Hockey Association]] (PCHA) champion [[Vancouver Millionaires]]. The Senators defeated Vancouver three games to two in the best-of-five-game series to become the first team to win back-to-back Cup championships since the 1912–13 [[Quebec Bulldogs]].<ref>{{Cite web|title=Schedule {{!}} Mar 21, 1921 ET|url=https://www.nhl.com/schedule|access-date=2021-08-05|website=NHL.com}}</ref>
+
+==Paths to the Finals==
+{{Main|1920–21 NHL season|1920–21 PCHA season}}
+Ottawa won the first half of the [[1920–21 NHL season|1920–21 NHL regular season]] while the [[Toronto St. Patricks]] won the second half, setting up a two-game total goals series between the two clubs to determine the NHL title. The Senators recorded 5–0 and 2–0 shutout victories to advance to the Cup final. The first NHL players strike almost took place before the second game when Toronto's players balked at playing extra games. However, team manager [[Charlie Querrie]] agreed to give the players a bonus for the playoffs.
+
+Meanwhile, Vancouver finished the [[1920–21 PCHA season|1920–21 PCHA regular season]] in first place with a 13–11 record, and defeated the second place [[Seattle Metropolitans]] in a championship series to win the PCHA title.
+
+===Bracket===
+{{4TeamBracket
+| sets = 2/5
+| aggregate = y
+| team-width = 160
+| RD1=League Championships
+| RD1-seed1='''N1'''
+| RD1-team1='''Ottawa Senators'''
+| RD1-score1-1='''5'''
+| RD1-score1-2='''2'''
+| RD1-seed2=N2
+| RD1-team2=Toronto St. Patricks
+| RD1-score2-1=0
+| RD1-score2-2=0
+| RD1-score1-agg='''7'''
+| RD1-score2-agg=0
+| RD1-seed3='''P1'''
+| RD1-team3='''Vancouver Millionaires'''
+| RD1-score3-1='''7'''
+| RD1-score3-2='''6'''
+| RD1-seed4=P2
+| RD1-team4=Seattle Metropolitans
+| RD1-score4-1=0
+| RD1-score4-2=2
+| RD1-score3-agg='''13'''
+| RD1-score4-agg=2
+
+| RD2='''Stanley Cup Final'''
+| RD2-seed1='''NC'''
+| RD2-team1='''Ottawa Senators'''
+| RD2-score1-1=1
+| RD2-score1-2='''4'''
+| RD2-score1-3='''3'''
+| RD2-score1-4=2
+| RD2-score1-5='''2'''
+| RD2-seed2=PC
+| RD2-team2=Vancouver Millionaires
+| RD2-score2-1='''3'''
+| RD2-score2-2=3
+| RD2-score2-3=2
+| RD2-score2-4='''3'''
+| RD2-score2-5=1
+| RD2-score1-agg='''3'''
+| RD2-score2-agg=2
+}}
+<small>Note: * denotes overtime period(s)</small>
+
+==Game summaries==
+The series took place at [[Vancouver]]'s [[Denman Arena]], where the attendance per game during the series averaged over 10,000 people. The attendance for the first game was 11,000, setting a new world record for the largest crowd to see a hockey game, only to be topped in the fifth game. The Millionaires won games one and four with victories of 3–1 and 3–2, respectively. The Senators were victorious in games two and three with 4–3 and 3–2 wins. Then in the fifth game, [[Jack Darragh]] scored both of Ottawa's goals in the 2–1 victory to clinch the Cup.
+
+In game one, played under western rules of seven-men hockey, the Millionaires took a 2–0 lead after the first period on goals by [[Alf Skinner]] and [[Art Duncan]]. [[Smokey Harris]] scored in the second to stretch the lead to 3–0 before Darragh put Ottawa on the board with five minutes to play in the second. The third period was scoreless, giving the first win and the series lead to the Millionaires.<ref name="gm1">{{cite news |newspaper=Ottawa Citizen |date=March 22, 1921 |title=Vancouver Takes Lead in World's Series Defeating Champion Ottawa 3–1 |page=14}}</ref> Skinner was badly cut in the game and was sent to the hospital.<ref name="gm1"/>
+
+In game two, played under eastern rules of six-man hockey, the Millionaires took the lead 3–2 after one period on goals by Harris, Duncan and [[Jack Adams]]. Ottawa tied it the second on a goal by Darragh. [[Punch Broadbent]] scored the winning goal with four minutes to play in the third period.<ref>{{cite news |newspaper=Montreal Gazette |date=March 25, 1921 |title=Ottawa Beat Vancouver in Second Cup Game |page=15}}</ref>
+
+Game three was again played under western rules. Skinner remained out. [[Lloyd Cook]] opened the scoring for Vancouver in the second minute but Darragh countered for Ottawa five minutes later. Ottawa took the lead in the second with goals by [[Cy Denneny]] and [[Sprague Cleghorn]] before Jack Adams countered for Vancouver seven minutes later. Ottawa held off the Millionaires with a strong defensive third period to win the game and take the series lead.<ref name="gm3">{{cite news |newspaper=Montreal Gazette |date=March 29, 1921 |title=Ottawa Assumed Lead in Stanley Cup Competition |page=12}}</ref>
+
+Game four was played under eastern rules. The first period was scoreless. Skinner put Vancouver ahead early in the second but Boucher tied it up for Ottawa and the teams entered the third period tied 1–1. In the third, Skinner scored again and Cook scored to put Vancouver up by two goals. Broadbent scored for Ottawa a minute later. Vancouver held off the Senators to win the game and tie the series.<ref name="gm4">{{cite news |newspaper=Montreal Gazette |date=April 1, 1921 |title=Vancouver Won From Ottawa in Fourth Cup Game |page=18}}</ref>
+
+In the fifth and deciding game, it was estimated that 12,000 attended and 3,000 were turned away. Skinner scored to put Vancouver up 1–0 after the first period. Darragh scored twice for Ottawa in the second period to put the Senators ahead with one period to play. With two minutes to play, Cook was body-checked by [[Eddie Gerard]] and retaliated. Cleghorn then decked Cook with a punch to the jaw and a free-for-all broke out, only ended by the police going onto the ice. The three were penalized and Ottawa finished the game with five players, while Vancouver finished with six. Ottawa held on to win the game 2–1 and the series and retained the championship. After the game, the teams exchanged sweaters and much of the Ottawas' equipment was taken away by souvenir hunters.<ref name="gm5">{{cite news |newspaper=Ottawa Citizen |date=April 5, 1921 |title=Ottawas Retain The World's Hockey Championship Title |page=10}}</ref>
+
+Darragh led the Senators in scoring with five goals during the series, while goaltender [[Clint Benedict]] only allowed just 12 goals in the five games, earning a 2.40 goals-against average. Since all games were played in Vancouver, the three wins by the Senators meant they were the first team to win three road games in a Final series. Darragh had had to get special permission from his job with Ottawa Dairy Company, at the request of Ottawa mayor [[Frank H. Plant]], to play in the final.{{sfn|Zweig|2012|p=263}} Alf Skinner led the scoring for Vancouver with four goals. It was the final Stanley Cup series for [[Cyclone Taylor]]. {{sfn|Zweig|2012|p=263}}
+
+Vancouver coach [[Frank Patrick (ice hockey)|Frank Patrick]] remarked after the series: "You have the greatest team I have ever saw. Ottawa ought to be proud of those boys. Their defensive system is marvellous. They are better than the 'Little Men of Iron', the 'Silver Seven' or any other sextet I have ever watched. It was no disgrace to lose to that aggregation."<ref name="gm5"/>
+
+{{NHLPlayoffs
+|team1=Vancouver Millionaires
+|team2=Ottawa Senators
+|stadium2=[[Denman Arena]]
+|stadium1=[[The Arena]]
+
+|date1       =March 21
+|home1       =2
+|score1      =1–3
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/sen-vs-vmi/1921/03/21/1920030211#game=1920030211,game_state=final
+|1-1-1       =15:40 - [[Alf Skinner]] (1)<br/>18:15 - [[Art Duncan]] (1)
+|1-1-2       =''No scoring''
+|1-2-1       =1:20 - [[Smokey Harris]] (1)
+|1-2-2       =[[Jack Darragh]] (1) - 15:55
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[Hugh Lehman]]
+|goalie1-2   =[[Clint Benedict]]
+
+|date2       =March 24
+|home2       =2
+|score2      =4–3
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/sen-vs-vmi/1921/03/24/1920030212#game=1920030212,game_state=final
+|2-1-1       =1:29 - [[Smokey Harris]] (2)<br/>3:01 - [[Jack Adams]] (1)<br/>10:29 - [[Art Duncan]] (1)
+|2-1-2       =[[Buck Boucher]] (4) - 8:05<br/>[[Cy Denneny]] (3) - 18:26
+|2-2-1       =''No scoring''
+|2-2-2       =[[Jack Darragh]] (2) - 10:49
+|2-3-1       =''No scoring''
+|2-3-2       =[[Punch Broadbent]] (1) - ''pp'' - 16:40
+|goalie2-1   =[[Hugh Lehman]]
+|goalie2-2   =[[Clint Benedict]]
+
+|date3       =March 28
+|home3       =2
+|score3      =3–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/sen-vs-vmi/1921/03/28/1920030213#game=1920030213,game_state=final
+|3-1-1       =1:59 - [[Lloyd Cook]] (1)
+|3-1-2       =[[Jack Darragh]] (3) - 8:57
+|3-2-1       =18:02 - [[Jack Adams]] (2)
+|3-2-2       =[[Cy Denneny]] (4) - ''sh'' - 8:22<br/>[[Sprague Cleghorn]] (1) - 10:52
+|3-3-1       =''No scoring''
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Hugh Lehman]]
+|goalie3-2   =[[Clint Benedict]]
+
+|date4       =March 31
+|home4       =2
+|score4      =2–3
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/sen-vs-vmi/1921/03/31/1920030214#game=1920030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =2:22 - [[Alf Skinner]] (2)
+|4-2-2       =[[Buck Boucher]] (5) - 13:43
+|4-3-1       =1:35 - Alf Skinner (3)<br/>15:52 - ''pp'' - [[Lloyd Cook]] (2)
+|4-3-2       =[[Punch Broadbent]] (2) - 16:52
+|goalie4-1   =[[Hugh Lehman]]
+|goalie4-2   =[[Clint Benedict]]
+
+|date5       =April 4
+|home5       =2
+|score5      =2–1
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/sen-vs-vmi/1921/04/04/1920030215#game=1920030215,game_state=final
+|5-1-1       =16:26 - [[Alf Skinner]] (4)
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =[[Jack Darragh]] (4) - 7:27<br/>Jack Darragh (5) - 9:40
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Hugh Lehman]]
+|goalie5-2   =[[Clint Benedict]]
+
+|series = Ottawa won series 3–2
+}}
+
+==Stanley Cup engraving==
+The 1921 Stanley Cup was presented by the trophy's trustee [[William Foran]]. The Senators never did engrave their name on the Cup for their championship season.
+
+It was not until the trophy was redesigned in 1948 that the words "1921 Ottawa Senators" was put onto its then-new collar.
+
+The following Senators players and staff were members of the Stanley Cup winning team.
+
+'''1920–21 Ottawa Senators'''
+{{Stanley Cup champion|
+|goaltenders=*1 [[Clint Benedict]]
+|defence=*2 [[Sprague Cleghorn]]
+*4 George [[Buck Boucher]]‡
+*10 [[Morley Bruce]]
+*11 [[Horace Merrill]] (Did not play on team picture)
+|wingers=*3 [[Jack MacKell]]^
+*6 [[Leth Graham]]
+*7 [[Jack Darragh]]
+*5 [[Eddie Gerard]] (Captain)^
+*8 [[Cy Denneny]]
+*9 Harry [[Punch Broadbent]]
+|centres=*9 [[Frank Nighbor]]
+|non-players=*Edwin [[Ted Dey]] (President/Owner)
+*[[Tommy Gorman]] (Manager/Secretary)
+*[[Pete Green (ice hockey)|Pete Green]] (Coach)
+*Frank Dolan (Trainer)
+*[[Frank Ahearn]], (Hon. President/Owner)&
+* Every member of the 1921 Stanley Cup-winning team was included on the team picture except Thomas Frank Ahrean, Hon. President and Leth Graham.
+*‡ Played Rover a position in the Stanley Cup Final. ^ also played Defence
+* & Missing from the team picture
+* 
+Just like the previous season, the Senators never engraved their name on the Cup for their 1921 championship. It was not until the trophy was redesigned in 1948 that the words "1921 Ottawa Senators" was put onto its then-new collar.
+}}
+
+==See also==
+* [[1920–21 NHL season]]
+* [[1920–21 PCHA season]]
+
+==References==
+*{{cite book | editor=Dan Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=53–54}}
+*{{cite web | url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1920–21 | title=1920–21 Stanley Cup Winner: Ottawa Senators |author=Hockey Hall of Fame | publisher=[[Hockey Hall of Fame]] | access-date=2006-07-04}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame |author2-link=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 53}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+
+;Notes
+{{Reflist}}
+
+{{s-start}}
+{{succession box |
+ before = [[1920 Stanley Cup Final|Ottawa Senators<br>1920]] |
+ after = [[1922 Stanley Cup Final|Toronto St. Pats<br>1922]] |
+ title = [[List of Stanley Cup champions|Ottawa Senators<br>Stanley Cup champions]] |
+ years = 1921|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Ottawa Senators (original)}}
+{{1920–21 NHL season by team}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1920–21 PCHA season|Stan]]
+[[Category:1920–21 NHL season|Stan]]
+[[Category:1920–21 in Canadian ice hockey|Stanley]]
+[[Category:Vancouver Millionaires games|1921]]
+[[Category:Ottawa Senators (original) games]]
+[[Category:March 1921 sports events in  Canada]]
+[[Category:April 1921 sports events in Canada]]
+[[Category:Ice hockey competitions in Vancouver]]
+[[Category:1920s in Vancouver]]
+[[Category:1921 in British Columbia]]

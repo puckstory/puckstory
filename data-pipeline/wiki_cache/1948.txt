@@ -1,0 +1,179 @@
+{{Short description|1948 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1948
+|team2=[[1947–48 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit 
+|team2_captain=[[Sid Abel]]
+|team2_coach=[[Tommy Ivan]]
+|team2_1=3
+|team2_2=2
+|team2_3=0
+|team2_4=2
+|team2_tot=0
+|team1='''[[1947–48 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto 
+|team1_captain=[[Syl Apps]]
+|team1_coach=[[Hap Day]]
+|team1_1='''5'''
+|team1_2='''4'''
+|team1_3='''2'''
+|team1_4='''7'''
+|team1_tot=4
+|dates=April 7–14, 1948
+|location1=[[Toronto]]: [[Maple Leaf Gardens]] (1, 2)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4)
+|series_winner=[[Harry Watson (ice hockey b. 1923)|Harry Watson]] (11:13, first)
+|hofers='''Maple Leafs:'''<br/>[[Syl Apps]] (1961)<br/>[[Max Bentley]] (1966)<br/>[[Turk Broda]] (1967)<br/>[[Ted Kennedy (ice hockey)|Ted Kennedy]] (1966)<br/>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1994)<br/>'''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Harry Lumley (ice hockey)|Harry Lumley]] (1980)<br/>[[Bill Quackenbush]] (1976)<br/>[[Jack Stewart (ice hockey)|Jack Stewart]] (1964)<br/>'''Coaches:'''<br/>[[Hap Day]] (1961, player)<br/>[[Tommy Ivan]] (1974)
+}}
+
+The '''1948 Stanley Cup Final''' was a best-of-seven series between the [[1947–48 Detroit Red Wings season|Detroit Red Wings]] and the defending champion [[1947–48 Toronto Maple Leafs season|Toronto Maple Leafs]]. The Maple Leafs swept the Red Wings to win their second consecutive [[Stanley Cup]] and seventh overall.
+
+==Paths to the Finals==
+Detroit defeated the [[New York Rangers]] 4–2 to advance to the Finals. Toronto defeated the [[Boston Bruins]] 4–1 to advance to the Finals.
+
+==Game summaries==
+This was the Stanley Cup debut series for Detroit's [[Gordie Howe]], and the last for Toronto's [[Syl Apps]] who retired after the series.
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|stadium2=[[Olympia Stadium]]
+
+|date1       =April 7
+|home1       =1
+|score1      =3–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-tor/1948/04/07/1947030211#game=1947030211,game_state=final
+|1-1-1       =[[Jim McFadden]] (5) - 7:20
+|1-1-2       =8:21 - [[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1)<br>9:04 - [[Joe Klukay]] (1)<br>18:24 - [[Syl Apps]] (3)
+|1-2-1       =''No scoring''
+|1-2-2       =14:31 - [[Gus Mortson]] (1)<br>19:21 - [[Howie Meeker]] (2)
+|1-3-1       =[[Jim Conacher]] (2) - 4:28<br>[[Ted Lindsay]] (3) - 5:25
+|1-3-2       =''No scoring''
+|goalie1-1   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+|goalie1-2   =[[Turk Broda]]
+
+|date2       =April 10
+|home2       =1
+|score2      =2–4
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/det-vs-tor/1948/04/10/1947030212#game=1947030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =13:31 - [[Max Bentley]] (3)
+|2-2-1       =[[Pete Horeck]] (2) - 18:18
+|2-2-2       =3:38 - ''pp'' - [[Bill Ezinicki]] (3)<br>17:16 - ''pp'' - Max Bentley (4)<br>18:50 - [[Harry Watson (ice hockey, born 1923)|Harry Watson]] (2)
+|2-3-1       =[[Fern Gauthier]] (1) - ''pp'' - 17:18
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+|goalie2-2   =[[Turk Broda]]
+
+|date3       =April 11
+|home3       =2
+|score3      =2–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/tor-vs-det/1948/04/11/1947030213#game=1947030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (3) - 19:42
+|3-3-1       =''No scoring''
+|3-3-2       =[[Vic Lynn]] (2) - 15:16
+|goalie3-1   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+|goalie3-2   =[[Turk Broda]]
+
+|date4       =April 14
+|home4       =2
+|score4      =7–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/tor-vs-det/1948/04/14/1947030214#game=1947030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Ted Kennedy (ice hockey)|Ted Kennedy]] (7) - ''pp'' - 2:51<br>[[Garth Boesch]] (2) - ''sh'' - 5:03<br>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (4) - 11:13
+|4-2-1       =2:41 - [[Leo Reise]] (2)
+|4-2-2       =[[Syl Apps]] (4) - 4:26<br>Ted Kennedy (8) - 9:42<br>Harry Watson (5) - ''sh'' - 11:38
+|4-3-1       =18:48 - [[Pete Horeck]] (3)
+|4-3-2       =[[Les Costello]] (2) - ''pp'' - 14:37
+|goalie4-1   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+|goalie4-2   =[[Turk Broda]]
+
+|series = Toronto won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1948 Stanley Cup was presented to Maple Leafs captain Syl Apps by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 7–2 win over the Red Wings in game four.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1947–48 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 Walter [[Turk Broda]]
+|defence=*3 [[Wally Stanowski]]
+*18 [[Garth Boesch]]
+*19 [[Gus Mortson]]
+*20 [[Jimmy Thomson (ice hockey b. 1927)|Jimmy Thomson]]
+*21 [[Bill Barilko]]
+*23 [[Phil Samis]]
+|centres=*7 [[Max Bentley]]
+*9 Ted [[Ted Kennedy (ice hockey)|Teeder Kennedy]] (A)
+*10 Sylvanous [[Syl Apps]] Sr. (Captain)
+|wingers=*4 [[Harry Watson (ice hockey b. 1923)|Harry Watson]]
+*5 [[Nick Metz]] (A)
+*11 [[Don Metz (ice hockey)|Don Metz]]
+*12 [[Bill Ezinicki]]
+*14  [[Vic Lynn]]
+*15 [[Howie Meeker]]
+*16 [[Sid Smith (ice hockey)|Sid Smith]]
+*17 [[Joe Klukay]]
+*22 [[Les Costello]]
+|non-players=
+*[[Conn Smythe]] (President/Manager/Owner), George McCullach (Vice President)
+*John Murdoch (Vice President), [[Jack Bickell]] (Director/Owner) 
+*Ed Bickle (Director/Owner), [[W. A. H. MacBrien|William MacBrien]] (Chairman/Owner)  
+*Robert Galloway (Team Doctor), Horance MacIntyre (Team Doctor)
+*Ed Fitkin (Publicity Director), Tim Daly (Trainer)
+*Archie Campbell (Asst. Trainer), George Walker (Chief Scout) 
+*Clarence [[Hap Day]] (Coach), Kerry Day (Mascot)
+|engraving-notes=
+When the Stanley Cup was redone in 1957–58, Robert J. Galloway's name was engraved as P.J. GALLOWAY. The "P" should be a "R".  This mistake was repeated on the Replica Cup created in 1992–93.
+*The Stanley Cup was getting too big it was reduced in size to a height 34 1/4 inches and 35 1/2 pounds. All the large rings were fit together so that 2 rings became 1 ring. The Stanley Cup was wider in size but smaller in height. The Stanley Cup had black spaces to include the winning team up to 1956. 
+*1947 Toronto Maple Leafs winning members were finally added to the Stanley Cup in 1948. 
+}}
+
+==See also==
+* [[1947–48 NHL season]]
+
+==References and notes==
+{{reflist}}
+
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1947 Stanley Cup Finals|Toronto Maple Leafs<br>1947]] |
+ after = [[1949 Stanley Cup Finals|Toronto Maple Leafs<br>1949]] |
+ title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+ years = 1948|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Toronto Maple Leafs}}
+{{Detroit Red Wings}}
+{{1947–48 NHL season by team}}
+
+[[Category:1947–48 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:1948 Stanley Cup| ]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1948 in Quebec|Stanley Cup Finals]]
+[[Category:1948 in Ontario|Stanley Cup Finals]]
+[[Category:1948 in sports in Michigan|Stanley Cup]]
+[[Category:April 1948 sports events in Canada|Stanley Cup Finals]]
+[[Category:April 1948 sports events in the United States|Stanley Cup Finals]]
+[[Category:1940s in Toronto|Stanley Cup Finals, 1948]]
+[[Category:1948 in Detroit|Stanley Cup Finals]]

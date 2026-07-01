@@ -1,0 +1,1284 @@
+{{short description|1992 ice hockey championship series}}
+{{Use mdy dates|date=February 2012}}
+{{Infobox ice hockey series
+|year=1992
+|image=Stanley Cup 1992 Logo.gif
+|team1='''[[1991–92 Pittsburgh Penguins season|Pittsburgh Penguins]]'''
+|team1_short=Pittsburgh
+|team1_1='''5'''
+|team1_2='''3'''
+|team1_3='''1'''
+|team1_4='''6'''
+|team1_tot=4
+|team1_national_anthem=[[Christina Aguilera]]<ref>{{cite news|url=http://www.mtv.com/news/2580429/christina-aguilera-super-bowl-national-anthem/|archive-url=https://web.archive.org/web/20170304043840/http://www.mtv.com/news/2580429/christina-aguilera-super-bowl-national-anthem/|url-status=dead|archive-date=March 4, 2017|title=WHEN CHRISTINA AGUILERA PERFORMS THE NATIONAL ANTHEM, PITTSBURGH TEAMS WIN CHAMPIONSHIPS|date=Jan 24, 2011|first=Kyle|last=Anderson|newspaper=MTV News|access-date=March 3, 2017}}</ref>
+|team2=[[1991–92 Chicago Blackhawks season|Chicago Blackhawks]]
+|team2_short=Chicago
+|team2_1=4
+|team2_2=1
+|team2_3=0
+|team2_4=5
+|team2_tot=0
+|team2_national_anthem=[[Wayne Messmer]]
+|team1_coach=[[Scotty Bowman]]
+|team1_captain=[[Mario Lemieux]]
+|team2_coach=[[Mike Keenan]]
+|team2_captain=[[Dirk Graham]]
+|referees=[[Terry Gregson]], [[Don Koharski]], [[Andy Van Hellemond]]
+|dates= May 26 – June 1, 1992
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on SportsChannel America|SportsChannel America]]<br />(Pittsburgh area): [[AT&T SportsNet Pittsburgh|KBL]] (1–2), [[KDKA-TV|KDKA]] (3–4)<br />(Chicago area): [[SportsChannel Chicago]] (1–2), [[Hawkvision]] (3–4)
+|net_announcers= (CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Harry Neale]], and [[Dick Irvin Jr.]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(SportsChannel America) [[Jiggs McDonald]] and [[Bill Clement]]<br/>(KBL/KDKA) [[Mike Lange]] and [[Paul Steigerwald]]<br/>(SportsChannel Chicago/Hawkvision) [[Pat Foley]] and [[Dale Tallon]]
+|location1=[[Pittsburgh]]: [[Civic Arena (Pittsburgh)|Civic Arena]] (1, 2)
+|location2=[[Chicago]]: [[Chicago Stadium]] (3, 4)
+|mvp=[[Mario Lemieux]] (Penguins)
+|series_winner=[[Ron Francis]] (7:59, third)
+|hofers='''Penguins:'''<br/>[[Tom Barrasso]] (2023)<br/>[[Ron Francis]] (2007)<br/>[[Mario Lemieux]] (1997)<br/>[[Joe Mullen]] (2000; did not play)<br/>[[Larry Murphy (ice hockey)|Larry Murphy]] (2004)<br/>[[Bryan Trottier]] (1997)<br/>'''Blackhawks:'''<br/>[[Ed Belfour]] (2011)<br/>[[Chris Chelios]] (2013)<br/>[[Michel Goulet]] (1998)<br/>[[Dominik Hašek|Dominik Hasek]] (2014)<br/>[[Jeremy Roenick]] (2024)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+}}
+
+The '''1992 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1991–92 NHL season|1991–92 season]], and the culmination of the [[1992 Stanley Cup playoffs]]. It was contested by the [[Prince of Wales Conference]] and [[1991 Stanley Cup Final|defending]] [[Stanley Cup]] champion [[1991–92 Pittsburgh Penguins season|Pittsburgh Penguins]] and the [[Clarence Campbell Conference]] champion [[1991–92 Chicago Blackhawks season|Chicago Blackhawks]]. The Blackhawks were appearing in their first Final since {{scfy|1973}}. After the Blackhawks jumped to an early 4–1 lead in the first game of the series, [[Mario Lemieux]] and the Penguins came back to win the game, sweep the series in four games, and win their second consecutive and second overall Stanley Cup. The fourth and final game of this series was the first time a Stanley Cup playoff game was played in the month of June and at the time it was the latest finishing date for an NHL season. This was also the last Final to be played at [[Chicago Stadium]] as it closed in 1994.
+
+==Paths to the Final==
+{{further|1992 Stanley Cup playoffs}}
+Pittsburgh defeated the [[Washington Capitals]] 4–3, the [[Presidents' Trophy]] winning [[New York Rangers]] 4–2, and the [[Boston Bruins]] 4–0.
+
+Chicago had to defeat their three biggest rivals, [[Blues–Blackhawks rivalry|first]] the [[St. Louis Blues]] 4–2, then their [[Blackhawks–Red Wings rivalry|long-time Original Six rival]] [[Detroit Red Wings]] 4–0, and then, the [[Edmonton Oilers]] 4–0.
+
+With their co-tenants at [[Chicago Stadium]], the [[Chicago Bulls|Bulls]], coached by [[Phil Jackson]] and led by [[Michael Jordan]], playing in (and winning) the [[1992 NBA Finals|NBA Finals]], it was an opportunity for both the Blackhawks and the Bulls to help the city of Chicago become the first city to have both NHL and NBA championships in the same year.<ref>{{cite news|title=Chicago's the Winning City With Blackhawks and Bulls|last=Wilbon|first=Michael|newspaper=The Washington Post|date=May 27, 1992|page=B03|quote=Certainly you've wondered by now how many times teams from the same city have won NBA and NHL championships in the same season. None...This will be the first. Chicago: City of Champions.|author-link=Michael Wilbon}}</ref> (New York also had this opportunity in 1994, when the [[1993–94 New York Knicks season|Knicks]] and [[1993–94 New York Rangers season|Rangers]] made the finals in their respective sport; however, the result was the same, albeit a reversal of Chicago's ending, as [[1994 Stanley Cup Final|the Rangers won their first Stanley Cup since 1940]], and [[1994 NBA Finals|the Knicks lost]], with both of those series going the full seven games.)
+
+Chicago set an NHL playoff record in winning 11 games in a row to reach the Cup Final.<ref>{{Cite web |last=Archives |first=L. A. Times |date=1992-05-23 |title=Blackhawks Sweep Into Finals, 5-1 : Stanley Cup playoffs: Chicago's 11th victory in a row is a record in postseason. |url=https://www.latimes.com/archives/la-xpm-1992-05-23-sp-87-story.html |access-date=2024-09-12 |website=Los Angeles Times |language=en-US}}</ref><ref>{{Cite web |last=Springer |first=Steve |date=1992-05-26 |title=Penguins, Blackhawks Took Bumpy Roads to NHL Finals : Stanley Cup: Both teams have peaked in playoffs after failing to win division championships. |url=https://www.latimes.com/archives/la-xpm-1992-05-26-sp-215-story.html |access-date=2024-09-12 |website=Los Angeles Times |language=en-US}}</ref> [[Ed Belfour]] had set a new record for consecutive wins by a goaltender with eleven while Barrasso had won seven in a row.<ref>{{cite web|url=https://records.nhl.com/records/playoff-goaltender-records/wins/longest-winning-streaks-playoff|website=NHL Records|access-date=April 4, 2026|title=Goaltender Records - Playoffs {{!}} NHL Records}}</ref>
+
+Pittsburgh had won seven in a row entering the finals and swept Chicago in four games to tie Chicago's record.<ref>{{Cite web |last=Springer |first=Steve |date=1992-06-02 |title=Going Was Tough, Penguins Tougher : Hockey: They beat Blackhawks, 6-5, to cap a sweep to second consecutive title--and end a season that soured before it began. |url=https://www.latimes.com/archives/la-xpm-1992-06-02-sp-386-story.html |access-date=2024-09-12 |website=Los Angeles Times |language=en-US}}</ref> Pittsburgh then extended the playoff winning streak record to 14 with wins in the first three games against the [[New Jersey Devils]] in the [[1992–93 NHL season|following season]]'s first playoff round.<ref>{{Cite web |title=Penguins set playoff record: 13 wins in row |url=https://www.tampabay.com/archive/1993/04/21/penguins-set-playoff-record-13-wins-in-row/ |access-date=2024-09-12 |website=Tampa Bay Times |language=en}}</ref><ref>{{Cite web |last=Archives |first=L. A. Times |date=1993-04-27 |title=NHL PLAYOFF ROUNDUP : Penguins Clinch Series by Beating Devils, 5-3 |url=https://www.latimes.com/archives/la-xpm-1993-04-27-sp-27756-story.html |access-date=2024-09-12 |website=Los Angeles Times |language=en-US}}</ref>
+
+Both teams finished the regular season with 87 points. The Penguins earned home-ice advantage by virtue of having 39 wins to the Blackhawks' 36.
+
+==Game summaries==
+The Penguins were led by captain [[Mario Lemieux]], coach [[Scotty Bowman]], and goaltender [[Tom Barrasso]]. The Blackhawks were led by captain [[Dirk Graham]], head coach [[Mike Keenan]] and goaltender [[Ed Belfour]]. They also made history in having the first Russian-born player to have a chance to get their name on the Stanley Cup in [[Igor Kravchuk]].<ref>{{YouTube|id=y5uhiCeQdZo|title=First Russians win Cup - Because It's The Cup}}</ref>
+
+Mario Lemieux won the [[Conn Smythe Trophy]] as playoff MVP for the second consecutive year, becoming only the second player in NHL history to do so: [[Bernie Parent]] had won it when the [[Philadelphia Flyers]] won the Cup in the consecutive years of {{scfy|1974}} and {{scfy|1975}}.
+
+===Game one===
+{{NHLPlayoffs
+|team1=Chicago Blackhawks
+|team2=Pittsburgh Penguins
+|stadium1=[[Civic Arena (Pittsburgh)|Civic Arena]]
+|stadium2=[[Chicago Stadium]]
+|date1       =May 26
+|score1      =4–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-pit/1992/05/26/1991030411#game=1991030411,game_state=final
+}}
+In the opening game of the 1992 Stanley Cup Final, the Penguins overcame deficits of 3–0 in the first period and 4–1 halfway through the second period to win by a score of 5–4. This was the first victory from a three-goal deficit in the Final since [[1944 Stanley Cup Final|1944]]
+
+Six minutes into the game, the Blackhawks' forecheck drew a penalty against Pittsburgh. Right off the subsequent face-off, [[Chris Chelios]] scored the first goal of the Stanley Cup Final on a wrist shot. After surviving a Pittsburgh powerplay, the Blackhawks' aggressive offensive-zone strategy would lead to two more Blackhawks goals within a 26-second window. First, [[Michel Goulet]] converted a takeaway on the boards in the Penguins' zone to make it 2–0, then [[Dirk Graham]] scored on a rebound with the shot by Chelios. Pittsburgh got on the board after [[Igor Kravchuk]] got penalized for holding and [[Phil Bourque]] scored on a wraparound after Blackhawks goalkeeper [[Ed Belfour]] lost his stick. Chicago subsequently extended their lead to 4–1 via a two-on-one breakaway from [[Steve Larmer]] to [[Brent Sutter]], who beat [[Tom Barrasso]] under his left leg. Just as their powerplay from Chicago's too-many-men penalty expired, [[Rick Tocchet]] deflected a shot from [[Paul Stanton (ice hockey)|Paul Stanton]] into the Chicago net. Then, on the Penguins' next rush, Kevin Stevens drew several Blackhawks on him, which gave [[Mario Lemieux]] room to bank the puck off the [[Ed Belfour]]'s leg, decreasing the deficit to 4–3. After fifteen minutes in the third, the Penguins would equalize the score. Aided by a pick on a Pittsburgh defender by [[Shawn McEachern]], [[Jaromír Jágr|Jaromir Jagr]] deked around three Blackhawks, charging into the crease starting from the boards, and beat Belfour on a backhand shot to tie the game at 4–4 with 4:55 remaining in the third period. After both Mike Hudson for the Blackhawks and Lemieux for the Penguins drew penalties while charging the offensive zone against two opposing defenders, almost exactly two minutes apart, the game seemed poised to go into overtime with Pittsburgh playing with a one-man advantage. However, on an offensive-zone face-off to start the Pittsburgh powerplay, Mario Lemieux charged the Blackhawks' net from the weak side and put a rebound off a shot by [[Larry Murphy (ice hockey)|Larry Murphy]] past Belfour to deliver the game-winning goal; in total, Pittsburgh had the lead for all of thirteen seconds and won the game.<ref>{{cite web|url=https://www.nhl.com/gamecenter/chi-vs-pit/1992/05/26/1991030411|title=Chicago Blackhawks - Pittsburgh Penguins - May 26, 1992|website=NHL.com|publisher=NHL Enterprises, L. P.|date=May 26, 1992|access-date=June 26, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4" |'''1st'''
+| style="text-align:center;"|CHI
+| style="text-align:center;"|[[Chris Chelios]] (6) – ''pp''
+| style="text-align:center;"|[[Brent Sutter]] (5)
+| style="text-align:center;"|06:34
+| style="text-align:center;"|1–0 CHI
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|[[Michel Goulet]] (3)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|13:17
+| style="text-align:center;"|2–0 CHI
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|[[Dirk Graham]] (4)
+| style="text-align:center;"|Chris Chelios (12)
+| style="text-align:center;"|13:43
+| style="text-align:center;"|3-0 CHI
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Phil Bourque]] (3) - ''pp''
+| style="text-align:center;"|[[Rick Tocchet]] (8) and [[Ron Francis]] (18)
+| style="text-align:center;"|17:26
+| style="text-align:center;"|3–1 CHI
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|CHI
+| style="text-align:center;"|Brent Sutter (3)
+| style="text-align:center;"|[[Steve Larmer]] (7) and Chris Chelios (13)
+| style="text-align:center;"|11:36
+| style="text-align:center;"|4–1 CHI
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Rick Tocchet (5)
+| style="text-align:center;"|[[Paul Stanton (ice hockey)|Paul Stanton]] (7) and [[Shawn McEachern]] (6)
+| style="text-align:center;"|15:24
+| style="text-align:center;"|4–2 CHI
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mario Lemieux]] (12)
+| style="text-align:center;"|[[Kevin Stevens]] (13)
+| style="text-align:center;"|16:23
+| style="text-align:center;"|4–3 CHI
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Jaromir Jagr]] (10)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|15:05
+| style="text-align:center;"|4–4
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Mario Lemieux (13) – ''pp''
+| style="text-align:center;"|[[Larry Murphy (ice hockey)|Larry Murphy]] (9) and Ron Francis (19)
+| style="text-align:center;"|19:47
+| style="text-align:center;"|5–4 PIT 
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | [[Mike Hudson]]
+|align=center | Interference
+|align=center | 02:07
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Holding
+|align=center | 06:27
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Mike Peluso (ice hockey, born 1965)|Mike Peluso]]
+|align=center | Hooking
+|align=center | 09:34
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Igor Kravchuk]]
+|align=center | Holding
+|align=center | 15:44
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Bryan Trottier]]
+|align=center | Interference
+|align=center | 18:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Rob Brown (ice hockey)|Rob Brown]]
+|align=center | Elbowing
+|align=center | 02:17
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bench (served by [[Jocelyn Lemieux]])
+|align=center | Too many men on the ice
+|align=center | 13:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PIT
+|align=center | Paul Stanton
+|align=center | Hooking
+|align=center | 01:24
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Larry Murphy
+|align=center | Hooking
+|align=center | 17:39
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Steve Smith (ice hockey, born April 30, 1963)|Steve Smith]]
+|align=center | Hooking
+|align=center | 19:42
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 11 || align=center | 11 || align=center | 12|| align=center | 34
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 15|| align=center | 10|| align=center | 14 || align=center | 39
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Chicago Blackhawks
+|team2=Pittsburgh Penguins
+|stadium1=[[Civic Arena (Pittsburgh)|Civic Arena]]
+|stadium2=[[Chicago Stadium]]
+|date1       =May 28
+|score1      =1–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-pit/1992/05/28/1991030412#game=1991030412,game_state=final
+}}
+In game two, nearly ten minutes into the game, [[Bob Errey]] scored the first goal for Pittsburgh shorthanded. In the second period, after denying Lemieux his scoring chance, [[Bryan Marchment]] trailed the subsequent play into the Pittsburgh zone and then won a physical battle against [[Larry Murphy (ice hockey)|Larry Murphy]]. On a seemingly broken play he put the puck past [[Tom Barrasso]] into the Pittsburgh goal to tie the game at 1–1. However, Marchment was called for an elbow check and Mario Lemieux scored on a one timer set up by Rick Tocchet, 43 seconds into the ensuing powerplay. Two-and-a-half minutes later, Brian Marchment, who had been the catalyst for Chicago's lone goal, was beaten on the boards by Rick Tocchet. Tocchet again fed Lemieux in the slot, and another one timer extended the Pittsburgh lead to 3–1. The Penguins then limited the Blackhawks shots to four in the third period to take Game 2 3–1.<ref>{{cite web|url=https://www.nhl.com/gamecenter/chi-vs-pit/1992/05/28/1991030412#game=1991030412,game_state=final|title=Chicago Blackhawks - Pittsburgh Penguins - May 28, 1992|website=NHL.com|publisher=NHL Enterprises, L. P.|date=May 28, 1992|access-date=June 26, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" |'''1st'''
+| style="text-align:center;" |PIT
+| style="text-align:center;" |[[Bob Errey]] (3) – ''sh''
+| style="text-align:center;" |[[Jim Paek]] (2)
+| style="text-align:center;" |09:52
+| style="text-align:center;" |1–0 PIT
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|CHI
+| style="text-align:center;" |[[Bryan Marchment]] (1)
+| style="text-align:center;" |[[Brian Noonan]] (7) and [[Greg Gilbert]] (2)
+| style="text-align:center;" |10:24
+| style="text-align:center;" |1–1 
+|-
+| style="text-align:center;" |PIT
+| style="text-align:center;" |[[Mario Lemieux]] (14) – ''pp''
+| style="text-align:center;" |[[Rick Tocchet]] (9)
+| style="text-align:center;" |12:55
+| style="text-align:center;" |2–1 PIT
+|-
+| style="text-align:center;" |PIT
+| style="text-align:center;" |Mario Lemieux (15)
+| style="text-align:center;" |Rick Tocchet (10) and [[Kjell Samuelsson]] (3)
+| style="text-align:center;" |15:23
+| style="text-align:center;" |3–1 PIT
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | [[Mike Peluso (ice hockey, born 1965)|Mike Peluso]]
+|align=center | Roughing
+|align=center | 02:07
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Delay of game
+|align=center | 07:38
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Paul Stanton
+|align=center | Tripping
+|align=center | 07:38
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Steve Smith (ice hockey, born April 30, 1963)|Steve Smith]]
+|align=center | Interference
+|align=center | 11:05
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Brian Noonan
+|align=center | Cross-checking
+|align=center | 18:36
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | Bryan Marchment 
+|align=center | Elbowing
+|align=center | 12:12
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bench (served by [[Dirk Graham]])
+|align=center | Too many men on the ice
+|align=center | 19:43
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Holding
+|align=center | 02:07
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 11 || align=center | 4 || align=center | 4|| align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 8|| align=center | 11|| align=center | 6 || align=center | 25
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Pittsburgh Penguins
+|team2=Chicago Blackhawks
+|stadium1=[[Chicago Stadium]]
+|date1       =May 30
+|score1      =1–0
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/pit-vs-chi/1992/05/30/1991030413#game=1991030413,game_state=final
+}}
+In game three, the Blackhawks put up more offensive pressure on the Penguins. Pittsburgh instead shut out the Blackhawks, with Tom Barrasso stopping all 27 shots in the three periods. The lone goal came from [[Kevin Stevens]] putting his team into a 3–0 series lead. With 31 seconds remaining in the game, Penguins defenseman [[Larry Murphy (ice hockey)|Larry Murphy]] struck Blackhawks defenseman [[Chris Chelios]] in the face. In response, Chelios threw down his gloves and stick and began punching Murphy multiple times in the head. As a result, Chelios was given a major penalty and was ejected from the game. <ref>{{cite web|url=https://www.nhl.com/gamecenter/chi-vs-pit/1992/05/30/1991030413|title=Pittsburgh Penguins - Chicago Blackhawks - May 30, 1992|publisher=NHL Enterprises, L. P.|date=May 30, 1992|website=NHL.com|access-date=June 26, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;"|'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Kevin Stevens]] (12)
+| style="text-align:center;"|[[Jim Paek]] (3) and [[Rick Tocchet]] (11)
+| style="text-align:center;"|15:26
+| style="text-align:center;"|1–0 PIT 
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | PIT
+|align=center | [[Kjell Samuelsson]]
+|align=center | High-sticking
+|align=center | 05:43
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Tripping
+|align=center | 11:50
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Michel Goulet]]
+|align=center | Holding
+|align=center | 16:47
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Jaromír Jágr|Jaromir Jagr]]
+|align=center | Holding
+|align=center | 19:14
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | CHI
+|align=center | [[Steve Larmer]]
+|align=center | Cross-checking
+|align=center | 04:38
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Holding
+|align=center | 07:04
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Chris Chelios]]
+|align=center | Slashing
+|align=center | 10:56
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PIT
+|align=center | Jim Paek
+|align=center | Interference
+|align=center | 10:05
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Chris Chelios
+|align=center | Fighting – major
+|align=center | 19:29
+|align=center | 5:00
+|-
+|align=center | CHI
+|align=center | Chris Chelios
+|align=center | Game misconduct
+|align=center | 19:29
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 6 || align=center | 8 || align=center | 6|| align=center | 20
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 13|| align=center | 6|| align=center | 8 || align=center | 27
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Pittsburgh Penguins
+|team2=Chicago Blackhawks
+|stadium1=[[Chicago Stadium]]
+|date1       =June 1
+|score1      =6–5
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/pit-vs-chi/1992/06/01/1991030414#game=1991030414,game_state=final
+}}
+After the series saw a total of just one goal over the course of 86 minutes of hockey spanning from the second period of game two to the early moments of game four, the two teams erupted for an eleven-goal outburst in game four, which was the first NHL game played in the month of June. There were four goals scored in the first seven minutes of the game, and five in the first eleven, with the first period ending with a score of 3–3. The lasting image of the opening stanza was perhaps the sea of hats on the ice after Blackhawks captain [[Dirk Graham]] recorded a [[Hat-trick#Hockey|hat trick]] by accounting for all three of Chicago's goals. Pittsburgh's goals were scored by [[Jaromír Jágr|Jaromir Jagr]] after [[Ed Belfour]] turned over the puck behind his goal; by [[Kevin Stevens]] on a one-handed backhand [[wrist shot]] that was deemed "stoppable" by TV analyst [[Bill Clement]] (and sparked the change in goal);<ref>{{YouTube|id=https://www.youtube.com/watch?v=-vgBbF5M2zA|title=NHL 1992 Stanley Cup Final - Pittsburgh Penguins at Chicago Blackhawks - Game 4 Full Game}}</ref> and by [[Mario Lemieux]] on a rebound off a shot from [[Larry Murphy (ice hockey)|Larry Murphy]], which had been set up by Lemieux. Graham scored his hat trick to answer each of these I goals on a rebound off his own backhand shot and two one-timers after he was left alone at the Pittsburgh crease in both instances. There were two goals scored in the second period – one on each side – to make the score 4–4. Pittsburgh's tally came just 58 seconds into the period, when [[Rick Tocchet]] was left alone after the Blackhawks neglected to defend the area near the crease. With less than five minutes to go in the second period, the Blackhawks immediately scored a goal to tie the game for the fourth time, when [[Jeremy Roenick]] deflected a shot by [[Brian Noonan]] off Murphy's leg. The proverbial floodgates would, however, open almost exactly five minutes into the final period, when the Penguins scored twice in just over three minutes. At first, a shoulder check by Mario Lemieux against [[Chris Chelios]] behind the Chicago goal set up a wrist shot by Larry Murphy through traffic, which went past Hasek for a 5–4 Pittsburgh lead. Then [[Ron Francis]] converted a slapshot in a two-on-one situation to give Pittsburgh its first two-goal lead of the game. Chicago would come closer once more, when Jeremy Roenick scored at the 11:18 mark to make it 6–5 Pittsburgh after Larry Murphy tripped behind his own goal, just over three minutes after the second Pittsburgh goal of the period. Just a minute later, Chris Chelios hit the goal post, and the Roenick-Chelios pair would also sustain pressure in the final minute of the game with Chicago playing with an empty net. Overall however, Pittsburgh still controlled most stretches of these final eight minutes, as they didn't have trouble getting out of their zone. Pittsburgh finished the game 6–5 earning their second Stanley Cup. Mario Lemieux was given the [[Conn Smythe Trophy]] as the MVP of the playoffs.<ref>{{cite web|url=https://www.nhl.com/gamecenter/chi-vs-pit/1992/05/30/1991030413|title=Pittsburgh Penguins - Chicago Blackhawks - June 1, 1992|publisher=NHL Enterprises, L. P.|website=NHL.com|date=June 1, 1992|access-date=June 26, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="6" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Jaromír Jágr|Jaromir Jagr]] (11)
+| style="text-align:center;"|[[Troy Loney]] (5)
+| style="text-align:center;"|01:37
+| style="text-align:center;"|1–0 PIT
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|[[Dirk Graham]] (5)
+| style="text-align:center;"|[[Stéphane Matteau|Stephane Matteau]] (6) and [[Chris Chelios]] (14)
+| style="text-align:center;"|06:21
+| style="text-align:center;"|1–1 
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Kevin Stevens]] (13)
+| style="text-align:center;"|[[Mario Lemieux]] (17) and [[Rick Tocchet]] (12)
+| style="text-align:center;"|06:33
+| style="text-align:center;"|2–1 PIT
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|Dirk Graham (6)
+| style="text-align:center;"|Chris Chelios (15)
+| style="text-align:center;"|06:51
+| style="text-align:center;"|2–2  
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Mario Lemieux (16) – ''pp''
+| style="text-align:center;"|[[Larry Murphy (ice hockey)|Larry Murphy]] (10) and Kevin Stevens (14)
+| style="text-align:center;"|10:13
+| style="text-align:center;"|3–2 PIT 
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|Dirk Graham (7)
+| style="text-align:center;"|[[Jocelyn Lemieux]] (1) and [[Brian Noonan]] (8)
+| style="text-align:center;"|16:18
+| style="text-align:center;"|3–3 
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Rick Tocchet (6)
+| style="text-align:center;"|Mario Lemieux (18) and Kevin Stevens (15)
+| style="text-align:center;"|00:58
+| style="text-align:center;"|4–3 PIT
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|[[Jeremy Roenick]] (11)
+| style="text-align:center;"|Brian Noonan (9) and [[Greg Gilbert]] (3)
+| style="text-align:center;"|15:40
+| style="text-align:center;"|4–4 
+|-
+| style="text-align:center;" rowspan="3" |'''3rd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Larry Murphy (6)
+| style="text-align:center;"|Rick Tocchet (13)
+| style="text-align:center;"|04:51
+| style="text-align:center;"|5–4 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Ron Francis]] (8)
+| style="text-align:center;"|[[Shawn McEachern]] (7) and [[Jim Paek]] (4)
+| style="text-align:center;"|07:59
+| style="text-align:center;"|6–4 PIT
+|-
+| style="text-align:center;"|CHI
+| style="text-align:center;"|Jeremy Roenick (12)
+| style="text-align:center;"|[[Stu Grimson]] (1) and [[Rod Buskas]] (1)
+| style="text-align:center;"|11:18
+| style="text-align:center;"|6–5 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | Greg Gilbert
+|align=center | Misconduct
+|align=center | 07:28
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | [[Ulf Samuelsson]]
+|align=center | Interference
+|align=center | 07:28
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Misconduct
+|align=center | 07:28
+|align=center | 10:00
+|-
+|align=center | CHI
+|align=center | Chris Chelios
+|align=center | Elbowing
+|align=center | 08:17
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Roughing
+|align=center | 12:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | PIT
+|align=center | Paul Stanton
+|align=center | Hooking
+|align=center | 02:21
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Rick Tocchet
+|align=center | Holding
+|align=center | 05:41
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 12 || align=center | 9 || align=center | 8|| align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 8|| align=center | 14|| align=center | 7 || align=center | 29
+|}
+
+==Broadcasting==
+In Canada, the series was televised in English on the [[Hockey Night in Canada|CBC]] and in French on [[La Soirée du hockey|SRC]].
+
+In the United States, this was the last Stanley Cup Final to air nationally on [[NHL on SportsChannel America|SportsChannel America]]. [[ESPN National Hockey Night|ESPN]] would pick up the national U.S. contract for the next season.<ref>{{Cite web |last=Clark |first=Cammy |date=September 3, 1992 |title=NHL okays ESPN deal |url=https://www.tampabay.com/archive/1992/09/03/nhl-okays-espn-deal/ |access-date=2024-09-12 |website=Tampa Bay Times |language=en}}</ref>
+
+SportsChannel America's national coverage was blacked out in the Chicago and Pittsburgh areas due to the local rights to Blackhawks and Penguins games in those respective TV markets. [[Fox Sports Net Chicago|SportsChannel Chicago]]/[[Hawkvision]] aired the games in Chicago. In Pittsburgh, [[SportsNet Pittsburgh|KBL]] televised games one and two while [[KDKA-TV|KDKA]] aired games three and four.
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Cup Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Chicago Blackhawks===
+[[File:DickGrahamCHI.png|thumb|[[Dirk Graham]] captained the Blackhawks to their first Stanley Cup Final appearance since [[1973 Stanley Cup Final|1973]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Belfour}}
+| G
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Carman, Manitoba]]
+| first
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Brown|dab=ice hockey}}
+| D
+| R
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Corner Brook|Corner Brook, Newfoundland and Labrador]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Brown|dab=ice hockey}}
+| RW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kingston, Ontario]]
+| first 
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rod|Buskas}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Wetaskiwin|Wetaskiwin, Alberta]]
+| first 
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Chelios}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Chicago|Chicago, Illinois]]
+| third {{small|'''({{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Gilbert}}
+| LW
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| fourth {{small|('''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}})}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michel|Goulet}}
+| LW
+| L 
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Péribonka, Quebec]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dirk|Graham}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Regina, Saskatchewan]]
+| first
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stu|Grimson}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first
+|-
+| '''31'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Dominik|Hasek|Dominik Hašek}}
+| G
+| L
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Pardubice|Pardubice, Czechoslovakia]]
+| first
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tony|Horacek}}
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first {{small|(did not play)}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tony|Hrkac}}
+| C
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Hudson}}
+| C
+| L
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Guelph|Guelph, Ontario]]
+| first
+|-
+| '''3'''
+| {{flagicon|RUS|1991}}
+! scope="row" style="text-align:left;"|{{sortname|Igor|Kravchuk}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Ufa|Ufa, Soviet Union]]
+| first
+|-
+| '''6'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Frantisek|Kucera|František Kučera}}
+| D
+| L
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Prague|Prague, Czechoslovakia]]
+| first 
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Larmer}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| L
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Lauer}}
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Humboldt, Saskatchewan]]
+| first {{small|(did not play)}}
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jocelyn|Lemieux}}
+| RW
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Mont-Laurier|Mont-Laurier, Quebec]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryan|Marchment}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| first
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Matteau|Stéphane Matteau}}
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn-Noranda, Quebec]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dean|McAmmond}}
+| C
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Grande Cache|Grande Cache, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''19'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Noonan}}
+| RW
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| first
+|-
+| '''44'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Peluso|dab=ice hockey, born 1965}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Pengilly, Minnesota]]
+| first
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jeremy|Roenick}}
+| C
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cam|Russell}}
+| D
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Smith|dab=ice hockey, born in Scotland}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Glasgow|Glasgow, Scotland]]
+| fourth {{small|('''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brent|Sutter}}
+| C
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Viking, Alberta]]
+| fifth {{small|('''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}})}}
+|}
+
+===Pittsburgh Penguins===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''35'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Barrasso}}
+| G
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Phil|Bourque}}
+| LW
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Chelmsford, Massachusetts]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jock|Callander}}
+| RW/C
+| R
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Regina, Saskatchewan]]
+| first 
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Caufield}}
+| RW
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Philadelphia|Philadelphia, Pennsylvania]]
+| second {{small|('''{{scfy|1991}}''') (did not play)}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Chychrun}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[LaSalle, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''43'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Daniels|dab=ice hockey}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Oshawa|Oshawa, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Errey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L 
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ron|Francis}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''38'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jiri|Hrdina|Jiří Hrdina}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Prague|Prague, Czechoslovakia]]
+| third {{small|('''{{scfy|1989}}''', '''{{scfy|1991}}''')}}
+|-
+| '''68'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jaromir|Jagr|Jaromír Jágr}}
+| RW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Kladno|Kladno, Czechoslovakia]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Jennings}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Hudson Bay, Saskatchewan]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Leach}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first {{small|(did not play)}}
+|-
+| '''66'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mario|Lemieux}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Troy|Loney}}
+| LW
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Bow Island|Bow Island, Alberta]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shawn|McEachern}}
+| LW
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Waltham, Massachusetts]]
+| first
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Michayluk}}
+| RW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Wakaw|Wakaw, Saskatchewan]]
+| first 
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Mullen}}
+| RW
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[New York City|New York, New York]]
+| fourth {{small|({{scfy|1986}}, '''{{scfy|1989}}''', '''{{scfy|1991}}''')}}
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Murphy|dab=ice hockey}}
+| D
+| R
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''45'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Needham}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Paek}}
+| D
+| L
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Seoul|Seoul, South Korea]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Priestlay}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first {{small|(did not play)}}
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Gordie|Roberts}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| third {{small|({{scfy|1981}}, '''{{scfy|1991}})'''}}
+|-
+| '''23'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Kjell|Samuelsson}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Tingsryd|Tingsryd, Sweden]]
+| second {{small|({{scfy|1987}})}}
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Ulf|Samuelsson}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Fagersta|Fagersta, Sweden]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Stanton|dab=ice hockey}}
+| D
+| R
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Stevens}}
+| LW
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Brockton, Massachusetts]]
+| second {{small|'''({{scfy|1991}}''')}}
+|-
+| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Taglianetti}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Framingham, Massachusetts]]
+| second {{small|('''{{scfy|1991}}''') (did not play)}}
+|-
+| '''92'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rick|Tocchet}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| third {{small|({{scfy|1985}}, {{scfy|1987}})}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryan|Trottier}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Val Marie|Val Marie, Saskatchewan]]
+| seventh {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}}, '''{{scfy|1991}}''')}}
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Wregget}}
+| G
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wendell|Young}}
+| G
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| second {{small|('''{{scfy|1991}}''') (did not dress)}}
+|}
+
+==Stanley Cup engraving==
+The 1992 Stanley Cup was presented to Penguins captain Mario Lemieux by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Penguins 6–5 win over the Blackhawks in game four. It was the last of 15 Stanley Cup presentations presided over by Ziegler; this duty passed to Commissioner [[Gary Bettman]] [[1993 Stanley Cup Final|the next season]].
+
+The following Penguins players and staff had their names engraved on the Stanley Cup
+
+'''1991–92 Pittsburgh Penguins'''
+{{Stanley Cup champion|team=Pittsburgh Penguins |year=1992
+|centres=*10 [[Ron Francis]]
+*18 [[Ken Priestlay]] †
+*19 [[Bryan Trottier]] (A)
+*38 [[Jiří Hrdina|Jiri Hrdina]]
+*66 [[Mario Lemieux]] (Captain) 
+|wingers=*7 [[Joe Mullen]]
+*12 [[Bob Errey]] (A)
+*14 [[Jock Callander]]*
+*15 [[Shawn McEachern]]
+*16 [[Jay Caufield]] †
+*20 [[Jamie Leach]] †
+*24 [[Troy Loney]]
+*25 [[Kevin Stevens]]
+*29 [[Phil Bourque]]
+*34 [[Dave Michayluk]]
+*43 [[Jeff Daniels (ice hockey)|Jeff Daniels]] ‡
+*45 [[Mike Needham]] ‡
+*68 [[Jaromír Jágr|Jaromir Jagr]]
+*92 [[Rick Tocchet]]
+|defence=*2 [[Jim Paek]]
+*3 [[Grant Jennings]]
+*5 [[Ulf Samuelsson]]
+*6 [[Jeff Chychrun]] †
+*22 [[Paul Stanton (ice hockey)|Paul Stanton]]
+*23 [[Kjell Samuelsson]]
+*28 [[Gordie Roberts]]
+*32 [[Peter Taglianetti]] †
+*55 [[Larry Murphy (ice hockey)|Larry Murphy]]
+|goaltenders=*1 [[Wendell Young]] †
+*31 [[Ken Wregget]]
+*35 [[Tom Barrasso]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Did not officially qualify,{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}} but name was still engraved on the Stanley Cup.
+|non-players=
+*[[Morris Belzberg]] (Owner), [[Howard Baldwin]] Sr. (Owner/President), Thomas Ruta (Owner) 
+*Donn Patton (Vice President-Chief Financial Officer), J. Paul Martha (Vice President-General Council), [[Craig Patrick]] (Vice President/General Manager) 
+*[[Bob Johnson (ice hockey, born 1931)|Bob Johnson]] (Coach), William [[Scotty Bowman]] (Head Coach/Director of Player Development-Recruitment), [[Barry Smith (ice hockey, born 1952)|Barry Smith]] (Asst. Coach), [[Rick Kehoe]] (Asst. Coach) 
+*[[Pierre McGuire]] (Asst. Coach), [[Gilles Meloche]] (Goaltending Coach/Scout), [[Rick Paterson]] (Asst. Coach) 
+*Steve Latin (Equipment Manager), Charles "Skip" Thayer (Trainer), John Welday (Strength-Conditioning Coach), [[Greg Malone (ice hockey)|Greg Malone]] (Head Scout)
+*Les Binkley (Scout), [[Charlie Hodge (ice hockey)|Charlie Hodge]] (Scout), John Gill (Scout), [[Ralph Cox]] (Scout)}}
+
+===Engraving notes===
+* #18 [[Ken Priestlay]] (C) played in 49 regular season games and was sent to the minors at the trade deadline,{{efn|name=qualify}} but rejoined the team late in the playoffs. His name was included on the Stanley Cup engraving despite rejoining the roster during the playoffs.
+* #45 [[Mike Needham]] (RW) did not play in any regular season games (played in the minors), but played in 5 playoff games (one playoff game in the conference finals, but not in the Final). #43 [[Jeff Daniels (ice hockey)|Jeff Daniels]] (LW) played in 2 regular season games for Pittsburgh, spent the rest of the regular season in the minors, but was recalled during the playoffs. Their names were included on the Stanley Cup engraving despite not officially qualifying.{{efn|name=qualify}}
+* Pittsburgh included a record 31 players on the Stanley Cup in 1992.
+* Bob Johnson, head coach of the Penguins in the {{NHL Year|1990}} season and for their 1991 championship, died on November 26, 1991, of cancer. The NHL allowed the 1991–92 Penguins to have his name engraved on the Cup.
+* Pittsburgh included all 52 names with full first and last name. For the first time since engraving became an annual event in 1923-24 none of non-playing members were included on with a position. The only position listed was Mario Lemieux Capt.
+* Team Doctor Charles Burke won cups with Pittsburgh in 1991 and 1992, but his name was left off the Stanley Cup.
+*1992 Pittsburgh Penguins filled the last spot on the shoulder of the Stanley Cup. No winning team name since has been added to the Stanley Cup shoulder. 
+*Since the last larger ring was filled in 1991. The NHL decided to remove the top ring with winning teams from 1927–28 to 1939–40 and retire it to the Hockey Hall of Fame. A new blank ring was added at the bottom to include the 1992 Pittsburgh Penguins team members. NHL decided to keep the Stanley Cup the same size and shape 34 1/2 inches tall and 35 1/2 pounds. This way the cup does not get too big, and it remains the same size/shape that hockey fans are used to. It also encourages more fans to go to Toronto and see all the names on the retired rings at the Hockey Hall of Fame.
+
+==See also==
+* [[1991–92 NHL season]]
+* [[List of Stanley Cup champions]]
+* [[1991–92 Chicago Blackhawks season]]
+* [[1991–92 Pittsburgh Penguins season]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+* {{cite book|last=Diamond |first=Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|location=Bolton, Ont.|publisher=Fenn Pub|pages=12, 50|isbn=978-1-55168-261-7}}
+* {{cite book|title=National Hockey League Official Guide & Record Book 1991–92|author=NHL|year=1991}}
+
+{{s-start}}
+{{succession box |
+ before = [[1991 Stanley Cup Final|Pittsburgh Penguins<br>1991]] |
+ after = [[1993 Stanley Cup Final|Montreal Canadiens<br>1993]] |
+ title = [[List of Stanley Cup champions|Pittsburgh Penguins<br>Stanley Cup champions]] |
+ years = 1992|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Pittsburgh Penguins}}
+{{Chicago Blackhawks}}
+{{1991–92 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on SportsChannel America}}
+}}
+
+[[Category:1992 Stanley Cup]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Pittsburgh Penguins games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1991–92 NHL season|Stanley Cup]]
+[[Category:May 1992 sports events in the United States|Stanley Cup Final]]
+[[Category:June 1992 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:1992 in Chicago|Stanley Cup Final]]
+[[Category:1992 in sports in Illinois|Stanley Cup Final]]
+[[Category:1992 in Pittsburgh|Stanley Cup Final]]
+[[Category:1992 in sports in Pennsylvania|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Pittsburgh]]
+[[Category:Events at Chicago Stadium]]

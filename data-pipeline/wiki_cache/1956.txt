@@ -1,0 +1,956 @@
+{{Short description|1956 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1956
+|team1='''[[1955–56 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Émile Bouchard|Emile Bouchard]]
+|team1_coach=[[Toe Blake]]
+|team2=[[1955–56 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit 
+|team2_captain=[[Ted Lindsay]]
+|team2_coach=[[Jimmy Skinner]]
+|team1_1='''6'''
+|team1_2='''5'''
+|team1_3=1
+|team1_4='''3'''
+|team1_5='''3'''
+|team1_tot=4
+|team2_1=4
+|team2_2=1
+|team2_3='''3'''
+|team2_4=0
+|team2_5=1
+|team2_tot=1
+|dates=March 31 – April 10, 1956
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4)
+|series_winner=[[Maurice Richard]] (15:08, second)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Jacques Plante]] (1978)<br/>[[Henri Richard]] (1979)<br/>[[Maurice Richard]] (1961)<br/>'''Red Wings:'''<br/>[[Johnny Bucyk]] (1981)<br/>[[Murray Costello]] (2005, builder)<br/>[[Alex Delvecchio]] (1977)<br/>[[Glenn Hall]] (1975)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Marcel Pronovost]] (1978)<br/>[[Norm Ullman]] (1982)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>'''Officials:'''<br/>[[George Hayes (ice hockey)|George Hayes]] (1988)<br/>[[Red Storey]] (1967)<br/>[[Frank Udvari]] (1973)
+}}
+The '''1956 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1955–56 NHL season|1955–56 season]], and the culmination of the [[1956 Stanley Cup playoffs]]. It was contested between the [[1955–56 Montreal Canadiens season|Montreal Canadiens]] and the two-time defending champion [[1955–56 Detroit Red Wings season|Detroit Red Wings]] in the fourth Detroit-Montreal series in the 1950s, the two teams having met in the previous two years as well as in {{scfy|1952}}; Detroit won all three. The Canadiens were appearing in their sixth consecutive Finals, the Red Wings their third. The Canadiens avenged their previous three losses to Detroit, as they defeated the Red Wings in five games to win their second Stanley Cup in four years.
+
+==Paths to the Finals==
+Montreal defeated the [[New York Rangers]] 4–1 to reach the final. Detroit defeated the [[Toronto Maple Leafs]] 4–1 to reach the final.
+
+==Game summaries==
+The Canadiens won the series in 5 games to win their eighth Stanley Cup.<ref>{{cite web|url=https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19560402&printsec=frontpage&hl=en |title=The Montreal Gazette – Google News Archive Search |access-date=2013-12-26}}</ref> [[Jacques Plante]] held the Red Wings to just 9 goals in the five games. This was the first Final for [[Henri Richard]] and former Habs player [[Toe Blake]]'s first Final as coach, who was the last to win the Stanley Cup as both a player and coach for the same team until [[Rod Brind'Amour]] did so in [[2026 Stanley Cup Final|2026]].
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Olympia Stadium]]
+|date1       =March 31
+|home1       =1
+|score1      =4–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-mtl/1956/03/31/1955030211#game=1955030211,game_state=final
+}}
+The Canadiens, down 4–2 after two periods, scored four unanswered goals, in a 5:29 span, in the third period to win game one 6–4 at the Forum.<ref>{{cite web|url=https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19560402&printsec=frontpage&hl=en |title=The Montreal Gazette – Google News Archive Search |access-date=2013-12-26}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DET
+|align=center | [[Alex Delvecchio]] (5) – ''pp''
+|align=center | [[Earl Reibel]] (2) and [[Gordie Howe]] (5)
+|align=center | 08:17
+|align=center | 1–0 DET
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (6) – ''pp''
+|align=center | [[Bert Olmstead]] (3)
+|align=center | 03:00
+|align=center | 1–1
+|-
+|align=center | DET
+|align=center | [[Bill Dineen]] (1)
+|align=center | [[Norm Ullman]] (3) and [[Johnny Bucyk]] (1)
+|align=center | 03:45
+|align=center | 2–1 DET
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]] (3)
+|align=center | [[Maurice Richard]] (8) and [[Dickie Moore (ice hockey)|Dickie Moore]] (4)
+|align=center | 06:40
+|align=center | 2–2
+|-
+|align=center | DET
+|align=center | [[Ted Lindsay]] (5)
+|align=center | Gordie Howe (6)
+|align=center | 08:11
+|align=center | 3–2 DET
+|-
+|align=center | DET
+|align=center | Alex Delvecchio (6) – ''pp'' 
+|align=center | Gordie Howe (7) and Lorne Ferguson (2)
+|align=center | 11:20
+|align=center | 4–2 DET
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | MTL
+|align=center | [[Jack LeClair]] (1)
+|align=center | [[Floyd Curry]] (3) and [[Doug Harvey (ice hockey)|Doug Harvey]] (4)
+|align=center | 05:20
+|align=center | 4–3 DET
+|-
+|align=center | MTL
+|align=center | [[Bernie Geoffrion]] (3)
+|align=center | [[Jean-Guy Talbot]] (2)
+|align=center | 06:20
+|align=center | 4–4
+|-
+|align=center | MTL
+|align=center | Jean Beliveau (7)
+|align=center | Bernie Geoffrion (7) and Bert Olmstead (4)
+|align=center | 07:31
+|align=center | 5–4 MTL
+|-
+|align=center | MTL
+|align=center | [[Claude Provost]] (3)
+|align=center | Jack LeClair (1) and Floyd Curry (4)
+|align=center | 10:49
+|align=center | 6–4 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="10"| '''1st'''
+|align=center | DET
+|align=center | Ted Lindsay
+|align=center | High-sticking
+|align=center | 02:13
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | High-sticking
+|align=center | 02:13
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bill Dineen]]
+|align=center | Roughing
+|align=center | 03:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bob Turner (ice hockey)|Bob Turner]]
+|align=center | High-sticking
+|align=center | 03:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard
+|align=center | High-sticking
+|align=center | 04:44
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Hooking
+|align=center | 05:45
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard
+|align=center | Hooking
+|align=center | 08:02
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Bill Dineen
+|align=center | Interference
+|align=center | 13:18
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard
+|align=center | Hooking
+|align=center | 14:32
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | Charging
+|align=center | 15:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | DET
+|align=center | [[Metro Prystai]]
+|align=center | Kneeing
+|align=center | 01:10
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Tom Johnson (ice hockey)|Tom Johnson]]
+|align=center | Cross-checking
+|align=center | 11:13
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Bucky Hollingworth]]
+|align=center | Roughing
+|align=center | 16:29
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Tom Johnson
+|align=center | Roughing
+|align=center | 16:29
+|align=center | 2:00
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 10 || align=center | 12 || align=center | 5 || align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 8 || align=center | 18 || align=center |18 || align=center | 44
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =April 3
+|home1       =1
+|score1      =1–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-mtl/1956/04/03/1955030212#game=1955030212,game_state=final
+}}
+After a tight first period in game two, Montreal took control in the second, with goals from [[Henri Richard]] and [[Bernie Geoffrion]], making the score 3–0. [[Jean Béliveau|Jean Beliveau]] scored at 02:48 of the second period to make it 4-1, and [[Maurice Richard]] added a third-period goal with 39 seconds remaining, taking game two by a score of 5–1, giving Montreal a 2–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Donnie Marshall]] (1) – ''sh''
+|align=center | [[Bert Olmstead]] (5)
+|align=center | 07:23
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Henri Richard]] (4)
+|align=center | [[Dickie Moore (ice hockey)|Dickie Moore]] (5)
+|align=center | 11:37
+|align=center | 2–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Bernie Geoffrion]] (4)
+|align=center | Bert Olmstead (6) and [[Jean Béliveau|Jean Beliveau]] (5)
+|align=center | 14:38
+|align=center | 3–0 MTL
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DET
+|align=center | [[Norm Ullman]] (1)
+|align=center | [[Gordie Howe]] (8) and [[Ted Lindsay]] (1)
+|align=center | 00:31
+|align=center | 3–1 MTL
+|-
+|align=center | MTL
+|align=center | Jean Beliveau (8)
+|align=center | [[Maurice Richard]] (9) and Bert Olmstead (7)
+|align=center | 02:48
+|align=center | 4–1 MTL
+|-
+|align=center | MTL
+|align=center | Maurice Richard (4)
+|align=center | Henri Richard (9) and Dickie Moore (6)
+|align=center | 19:21
+|align=center | 5–1 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | DET
+|align=center | [[Lorne Ferguson]]
+|align=center | High-sticking
+|align=center | 03:34
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Tom Johnson (ice hockey)|Tom Johnson]]
+|align=center | Roughing
+|align=center | 03:34
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Floyd Curry]]
+|align=center | Hooking
+|align=center | 07:02
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Marty Pavelich]]
+|align=center | Cross-checking
+|align=center | 09:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Tom Johnson
+|align=center | Cross-checking
+|align=center | 17:02
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | DET
+|align=center | Lorne Ferguson
+|align=center | Holding
+|align=center | 02:20
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dickie Moore
+|align=center | Hooking
+|align=center | 07:24
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Marty Pavelich
+|align=center | Hooking
+|align=center | 08:30
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | Slashing
+|align=center | 15:52
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bob Turner (ice hockey)|Bob Turner]]
+|align=center | High-sticking
+|align=center | 15:52
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DET
+|align=center | Marty Pavelich
+|align=center | High-sticking
+|align=center | 05:29
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Dickie Moore
+|align=center | Charging 
+|align=center | 09:29
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard
+|align=center | Spearing
+|align=center | 19:52
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 7 || align=center | 5 || align=center | 8 || align=center | 20
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 11 || align=center | 13 || align=center | 11 || align=center | 35
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|date3       =April 5
+|home3       =1
+|score3      =1–3
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-det/1956/04/05/1955030213#game=1955030213,game_state=final
+}}
+In game three, with Detroit having home ice advantage, defeated Montreal by a score of 3-1, with goals from [[Red Kelly]], [[Ted Lindsay]], and [[Gordie Howe]], cutting the Canadiens series lead in half. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DET
+|align=center | [[Red Kelly]] (2) – ''pp''
+|align=center | [[Gordie Howe]] (9)
+|align=center | 14:27
+|align=center | 1–0 DET
+|-
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (9)
+|align=center | [[Claude Provost]] (2)
+|align=center | 19:20
+|align=center | 1–1
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | DET
+|align=center | [[Ted Lindsay]] (6)
+|align=center | [[Marty Pavelich]] (1) and [[Al Arbour]] (1)
+|align=center | 11:36
+|align=center | 2–1 DET
+|-
+|align=center | DET
+|align=center | Gordie Howe (3)
+|align=center | Ted Lindsay (2) and [[Alex Delvecchio]] (3)
+|align=center | 18:12
+|align=center | 3–1 DET
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="8"| '''1st'''
+|align=center | DET
+|align=center | [[Lorne Ferguson]]
+|align=center | Interference
+|align=center | 01:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jack LeClair]]
+|align=center | Holding
+|align=center | 04:31
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Johnny Bucyk]]
+|align=center | Tripping
+|align=center | 10:31
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Ted Lindsay
+|align=center | High-sticking
+|align=center | 11:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | High-sticking
+|align=center | 11:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jean-Guy Talbot]]
+|align=center | Holding
+|align=center | 13:41
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Earl Reibel]]
+|align=center | Roughing
+|align=center | 19:06
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bert Olmstead]]
+|align=center | Roughing
+|align=center | 19:06
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | DET
+|align=center | Marty Pavelich
+|align=center | Elbowing
+|align=center | 04:43
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Maurice Richard]]
+|align=center | Interference
+|align=center | 06:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DET
+|align=center | [[Bob Goldham]]
+|align=center | Tripping
+|align=center | 04:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Bert Olmstead
+|align=center | Roughing
+|align=center | 05:59
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jack LeClair
+|align=center | Tripping
+|align=center | 13:22
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 6 || align=center | 8 || align=center | 7 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 5 || align=center | 8 || align=center | 12 || align=center | 25
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|date1       =April 8
+|home1       =1
+|score1      =3–0
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mtl-vs-det/1956/04/08/1955030214#game=1955030214,game_state=final
+}}
+[[Jacques Plante]] recorded a shutout in game four, stopping all 24 shots he faced, while [[Jean Béliveau|Jean Beliveau]] scored twice, giving the Canadiens a 3–0 victory and a 3–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (10)
+|align=center | [[Doug Harvey (ice hockey)|Doug Harvey]] (4) and [[Bert Olmstead]] (8)
+|align=center | 15:52
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | MTL
+|align=center | Jean Beliveau (11)
+|align=center | [[Bernie Geoffrion]] (8) and Bert Olmstead (9)
+|align=center | 11:39
+|align=center | 2–0 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | [[Floyd Curry]] (1)
+|align=center | [[Claude Provost]] (3) and [[Ken Mosdell]] (1)
+|align=center | 11:34
+|align=center | 3–0 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | DET
+|align=center | [[Metro Prystai]]
+|align=center | Tripping
+|align=center | 00:50
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Bernie Geoffrion
+|align=center | Charging
+|align=center | 01:47
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Floyd Curry
+|align=center | Hooking
+|align=center | 08:57
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Norm Ullman]]
+|align=center | Roughing
+|align=center | 14:03
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Norm Ullman
+|align=center | Fighting – major
+|align=center | 14:03
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]]
+|align=center | Roughing
+|align=center | 14:03
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Henri Richard
+|align=center | Fighting – major
+|align=center | 14:03
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | DET
+|align=center | [[Johnny Bucyk]]
+|align=center | Roughing
+|align=center | 04:04
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Henri Richard
+|align=center | Tripping
+|align=center | 04:12
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Lorne Ferguson]]
+|align=center | High-sticking
+|align=center | 04:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau 
+|align=center | High-sticking
+|align=center | 04:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Doug Harvey 
+|align=center | Kneeing
+|align=center | 06:24
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Dickie Moore (ice hockey)|Dickie Moore]]
+|align=center | Hooking
+|align=center | 15:47
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 8 || align=center | 11 || align=center | 11 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 6 || align=center | 9 || align=center | 9 || align=center | 24
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Olympia Stadium]]
+|date1       =April 10
+|home1       =1
+|score1      =1–3
+|won1        =2 
+|recap1      =https://www.nhl.com/gamecenter/det-vs-mtl/1956/04/10/1955030215#game=1955030215,game_state=final
+}}
+In game five, Montreal defeated Detroit by a score of 3–1 in front of their home crowd to win their fifth consecutive Stanley Cup. [[Jean Béliveau|Jean Beliveau]] starred with a goal and two assists, supported by goals from [[Maurice Richard]] and [[Bernie Geoffrion]], while [[Jacques Plante]] made 25 saves.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Jean Béliveau|Jean Beliveau]] (12) – ''pp''
+|align=center | [[Floyd Curry]] (5) and [[Doug Harvey (ice hockey)|Doug Harvey]] (5)
+|align=center | 14:16
+|align=center | 1–0 MTL
+|- 
+|align=center | MTL
+|align=center | [[Maurice Richard]] (5) – ''pp''
+|align=center | [[Bernie Geoffrion]] (9) and Jean Beliveau (6)
+|align=center | 15:08
+|align=center | 2–0 MTL
+|- 
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Bernie Geoffrion (5)
+|align=center | Jean Beliveau (7) and [[Bert Olmstead]] (10)
+|align=center | 00:13
+|align=center | 3–0 MTL
+|- 
+|align=center | DET
+|align=center | [[Alex Delvecchio]] (7)
+|align=center | [[Ted Lindsay]] (3)
+|align=center | 00:35
+|align=center | 3–1 MTL
+|- 
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | DET
+|align=center | [[Larry Hillman]]
+|align=center | Elbowing
+|align=center | 02:48
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Provost]]
+|align=center | Slashing
+|align=center | 06:42
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]]
+|align=center | Hooking
+|align=center | 09:35
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Gordie Howe]]
+|align=center | Charging
+|align=center | 10:47
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Doug Harvey
+|align=center | Slashing
+|align=center | 10:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | Doug Harvey
+|align=center | Holding
+|align=center | 00:42
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Ted Lindsay
+|align=center | High-sticking
+|align=center | 06:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | High-sticking
+|align=center | 06:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Dollard St. Laurent]]
+|align=center | High-sticking
+|align=center | 09:56
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Marcel Pronovost]]
+|align=center | Tripping
+|align=center | 13:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | DET
+|align=center | [[Red Kelly]]
+|align=center | Tripping
+|align=center | 07:07
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard 
+|align=center | Hooking
+|align=center | 12:11
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 7 || align=center | 10 || align=center | 9 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 11 || align=center | 8 || align=center | 11 || align=center | 30
+|}
+
+==Stanley Cup engraving==
+The 1956 Stanley Cup was presented to Canadiens captain Emile Bouchard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 3–1 win over the Red Wings in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1955–56 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Jacques Plante]]
+*1 [[Charlie Hodge (ice hockey)|Charlie Hodge]] (spare, did not play) 
+|defence=*2 [[Doug Harvey (ice hockey)|Doug Harvey]] (A)
+*3 [[Emile Bouchard|Emile "Butch" Bouchard]] (Captain)
+*10 [[Tom Johnson (ice hockey)|Tom Johnson]]
+*17 [[Jean-Guy Talbot]]
+*19 [[Dollard St. Laurent]]
+*24 [[Bob Turner (ice hockey)|Bob Turner]]
+|centres=*4 [[Jean Beliveau]]
+*8 [[Jack LeClair]]
+*16 [[Henri Richard]]
+*18 [[Ken Mosdell]] (A)
+|wingers=*
+*5 [[Bernie Geoffrion]]
+*6 [[Floyd Curry]]
+*9 [[Maurice Richard]] (A)
+*12 [[Dickie Moore (ice hockey)|Dickie Moore]]
+*14 [[Claude Provost]]
+*15 [[Bert Olmstead]]
+*22  [[Donnie Marshall|Don Marshall]]
+|non-players=
+*[[Donat Raymond]] (President/Owner), [[Frank J. Selke|Frank Selke]] (Manager)
+*Dalton Coleman (Vice President/Owner), [[William Northey (ice hockey)|William Northey]] (Vice Presidents/Owner)
+*[[Ken Reardon]] (Asst. Manager), [[Toe Blake]] (Coach) 
+*Hector Dubois (Trainer)
+*Gaston Bettez (Asst. Trainer)
+|engraving-notes=
+* Emile "Butch" Bouchard was engraved on the Stanley Cup in 1944, 1946 and 1953 as EMILE BOUCHARD. He was then engraved on the Stanley Cup as BUTCH BOUCHARD in 1956.
+* Three engraving mistakes were made on the Stanley Cup. Only Gaston Bettez had his name correctly spelled on the replica Stanley Cup created in the 1992–93 season: Bob Turner is listed as Trainer when the Stanley Cup was redone in 1957–58, but he played defence. Hector Dubois and Gaston Bettez were the trainers, but no position was listed. Claude Provost's name was misspelled C. PREVOST with an "E" instead of an "O". Gaston Bettez was spelled wrong as G BETTEX when the Cup was redone in 1957–58 with an "X" instead of a "Z". His name was spelled correctly on the original ring as G. BETTEZ.
+* Hector "Toe" Blake was the ninth rookie coach to win the Stanley Cup.
+* Camile DesRoches and [[Frank Selke Jr.]] (Publicity Directors) were left off the Stanley Cup engraving, but included in the team picture.
+* The 1956 Montreal Canadiens filled the last spot on the Stanley Cup. (See [[1958 Stanley Cup Final]] change)}}
+
+==See also==
+* [[1955–56 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+  before = [[1955 Stanley Cup Final|Detroit Red Wings<br>1955]] |
+  after = [[1957 Stanley Cup Final|Montreal Canadiens<br>1957]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1956|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes
+|list1=
+{{Montreal Canadiens}}
+{{Detroit Red Wings}}
+{{1955–56 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1955–56 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:March 1956 sports events in North America]]
+[[Category:April 1956 sports events in North America]]
+[[Category:1950s in Montreal]]
+[[Category:1956 in Quebec]]
+[[Category:1956 in sports in Michigan|Stanley Cup]]
+[[Category:1956 in Detroit]]

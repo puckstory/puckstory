@@ -1,0 +1,171 @@
+{{Short description|1926 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1926
+|dates=March 30 – April 6, 1926
+|team2=[[Victoria Cougars]] (WHL)
+|team1='''[[1925–26 Montreal Maroons season|Montreal Maroons]]''' (NHL)
+|format=best-of-five
+|team1_1='''3'''
+|team2_1=0
+|team1_2='''3'''
+|team2_2=0
+|team1_3=2
+|team2_3='''3'''
+|team1_4='''2'''
+|team2_4=0
+|team1_tot=3
+|team2_tot=1
+|location1=[[Montreal]]: [[Montreal Forum]]
+|series_winner=[[Nels Stewart]] (2:50, second)
+|hofers='''Maroons:'''<br/>[[Clint Benedict]] (1965)<br/>[[Punch Broadbent]] (1962)<br/>[[Reg Noble]] (1962)<br/>[[Babe Siebert]] (1964)<br/>[[Nels Stewart]] (1962)<br/>'''Cougars:'''<br/>[[Frank Foyston]] (1958)<br/>[[Frank Fredrickson]] (1958)<br/>[[Hap Holmes]] (1972)<br/>[[Jack Walker (ice hockey)|Jack Walker]] (1960)<br/>'''Coaches:'''<br/>[[Léo Dandurand|Leo Dandurand]] (1963)<br/>[[Eddie Gerard]] (1945, player)
+|coaches=Montreal: [[Eddie Gerard]]<br/>Victoria: [[Lester Patrick]]
+|captains=Montreal: [[Dunc Munro]]<br/>Victoria: [[Clem Loughlin]]
+}}
+The '''1926 Stanley Cup Final''' saw the [[National Hockey League]] (NHL) champion [[1925–26 Montreal Maroons season|Montreal Maroons]], in their first Finals appearance, defeat the [[Western Canada Hockey League|Western Hockey League]] (WHL) and defending [[Stanley Cup]] champion [[Victoria Cougars]] three games to one in the best-of-five game series.<ref>{{Cite web|title=Schedule {{!}} Mar 30, 1926 ET|url=https://www.nhl.com/schedule|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref> This was the last time a non-NHL team would contest for the Cup – the WHL folded following the 1926 Finals leaving the Cup to be contested solely by NHL clubs thereafter.
+
+==Paths to the Finals==
+{{Main|1925–26 NHL season|1925–26 WHL season}}
+
+The Cougars finished the [[1925–26 WHL season|1925–26 WHL regular season]] in third place, but eventually upset the [[Edmonton Eskimos (ice hockey)|Edmonton Eskimos]] in the WHL championship by a combined score of 5–3 to reach the Stanley Cup Finals. Meanwhile, the Maroons finished the [[1925–26 NHL season|NHL regular season]] in second place; in the [[O'Brien Trophy (ice hockey)#NHL playoff champion|O'Brien Cup playoffs]], the Maroons beat the third seed [[Pittsburgh Pirates (NHL)|Pittsburgh Pirates]] and then went on to beat first place [[Ottawa Senators (original)|Ottawa Senators]] two goals to one in a two-game ''total goals'' series, thus capturing the O'Brien Cup and the newly introduced, redundant, [[Prince of Wales Trophy]].
+
+==Game summaries==
+All of the games in the 1926 Cup Finals were played at the [[Montreal Forum]]. Aided by three future [[Hockey Hall of Fame]]rs, the Maroons ended up dominating the series. Goaltender [[Clint Benedict]], who previously helped Ottawa in three Cup championships, recorded three shutouts. Rookie [[Nels Stewart]] scored 6 of Montreal's 10 overall goals in the 4 games. [[Punch Broadbent]] also recorded a goal for the Maroons. The Cougars' lone win came in game three, 3–2.
+
+Nels Stewart scored both goals in the fourth game to win the series. Stewart had given his stick to a fan after the playoff series against Ottawa. He asked for and retrieved the stick back from the fan prior to the fourth game. He then gave back the stick to the fan after game four.<ref>{{cite news |work=Montreal Gazette |title=Maroons Captured Stanley Cup From Victoria Cougars |page=18 |date=April 7, 1926}}</ref>
+
+{{NHLPlayoffs
+|team2=Montreal Maroons
+|team1=Victoria Cougars
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Victoria Arena]]
+
+|date1       =March 30
+|score1      =0–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/vic-vs-mmr/1926/03/30/1925030311#game=1925030311,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =02:00 – [[Nels Stewart]] (1)<br>05:05 – [[Punch Broadbent]] (3)
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =16:10 – Nels Stewart (2)
+|goalie1-1   =[[Hap Holmes]]
+|goalie1-2   =[[Clint Benedict]]
+
+|date2       =April 1
+|score2      =0–3
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/vic-vs-mmr/1926/04/01/1925030312#game=1925030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =10:10 – ''pp'' – [[Nels Stewart]] (3)
+|2-2-1       =''No scoring''
+|2-2-2       =09:40 – [[Merlyn Phillips]] (4)
+|2-3-1       =''No scoring''
+|2-3-2       =15:55 – ''pp'' – [[Dunc Munro]] (1)
+|goalie2-1   =[[Hap Holmes]]
+|goalie2-2   =[[Clint Benedict]]
+
+|date3       =April 3
+|home3       =1
+|score3      =3–2
+|won3        =1
+|recap3      =https://www.nhl.com/gamecenter/vic-vs-mmr/1926/04/03/1925030313#game=1925030313,game_state=final
+|3-1-1       =[[Haldor Halderson]] (1) – 16:15
+|3-1-2       =03:02 – [[Babe Siebert]] (2)
+|3-2-1       =[[Clem Loughlin]] (1) – 10:05
+|3-2-2       =''No scoring''
+|3-3-1       =[[Frank Fredrickson]] (1) – 07:50
+|3-3-2       =16:15 – [[Nels Stewart]] (4)
+|goalie3-1   =[[Hap Holmes]]
+|goalie3-2   =[[Clint Benedict]]
+
+|date4       =April 6
+|home4       =1
+|score4      =0–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/vic-vs-mmr/1926/04/06/1925030314#game=1925030314,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =02:50 – [[Nels Stewart]] (5)<br>19:10 – Nels Stewart (6)
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Hap Holmes]]
+|goalie4-2   =[[Clint Benedict]]
+
+|series = Montreal won series 3–1
+}}
+
+==Stanley Cup engraving==
+The 1926 Stanley Cup was presented to Maroons captain Dunc Munro by the trophy's trustee [[William Foran]], following the Maroons 2–0 win over the Cougars in game four.
+
+The following Maroons players and staff had their names engraved on the Stanley Cup
+
+'''1925–26 Montreal Maroons'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Clint Benedict]]    
+|defence=*2 Duncan [[Dunc Munro]] (Captain)
+*9 Albert [[Toots Holway]]
+*3 Reginald [[Reg Noble]]
+*8 Chapman [[Hobie Kitchen]]†
+*6 Albert [[Babe Siebert]]
+|centres=*7 Chuck [[Dinny Dinsmore]] 
+*12 Merlyn [[Merlyn Phillips|Bill Phillips]]
+*5 Old Poison [[Nels Stewart]]
+|wingers=*4 Harry [[Punch Broadbent]]
+*14 [[Bernie Brophy]]†
+*10 Doc [[Frank Carson (ice hockey)|Frank Carson]]
+*12 Shorty [[George Horne (ice hockey)|George Horne]] †
+*11 [[Sammy Rothschild]]
+|non-players=
+*[[James Strachan (ice hockey)|James Strachan]] (President/Owner)  
+*Gordon Cushings (Vice President), Thomas Arnold (Vice President)
+*Bill O'Brien (Trainer), [[Eddie Gerard]] (Manager-Coach)
+*[[Donat Raymond]] (Director), Arthur Cayford (Secretary-Treasurer)
+|engraving-notes=
+* [[Eddie Gerard]] name was misspelt with F. Gerard (MGR) instead E. Gerard (MGR) on the 2nd version created in 1969.  This mistake was repeated in the 1992-93 Replica Stanley Cup.
+* [[Dunc Munro]] became the third player to win the Stanley Cup and Olympic Gold medal.  Munro won the Olympic Gold medal with the [[Toronto Granites]] in 1924.
+* After the series win, a new ring was added directly underneath the original bowl of the Cup with the words "Won/By Montreal 'Maroons' 1925–26". In addition, players' and non-players' names were added to the trophy.
+* †-Left off the Stanley Cup for not playing in the playoffs
+}}
+
+==See also==
+*[[1925–26 NHL season]]
+*[[1925–26 WHL season]]
+
+==References==
+
+{{refbegin}}
+*{{cite web|url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1925-26 |title=1925–26 Stanley Cup Winner: Montreal Maroons |publisher=[[Hockey Hall of Fame]] |access-date=2006-06-29 |url-status=dead |archive-url=https://web.archive.org/web/20070930080453/http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1925-26 |archive-date=2007-09-30 }}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 58| author-link2=Hockey Hall of Fame }}
+*{{cite book | editor=Dan Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=67–68}}
+*{{cite web |url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+{{refend}}
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+  before = [[1925 Stanley Cup Finals|Victoria Cougars<br>1925]] |
+  after = [[1927 Stanley Cup Finals|Ottawa Senators<br>1927]] |
+  title = [[List of Stanley Cup champions|Montreal Maroons<br>Stanley Cup champions]] |
+  years = 1926|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{1925–26 NHL season by team}}
+
+[[Category:1925–26 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Maroons|Stan]]
+[[Category:Western Canada Hockey League postseason]]
+[[Category:1925–26 in Canadian ice hockey|Stanley]]
+[[Category:March 1926 sports events in Canada|Stanley]]
+[[Category:April 1926 sports events in Canada|Stanley]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1920s in Montreal]]
+[[Category:1926 in Quebec]]

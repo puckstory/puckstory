@@ -1,0 +1,1155 @@
+{{Short description|1973 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1973
+|team1='''[[1972–73 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_coach=[[Scotty Bowman]]
+|team1_captain=[[Henri Richard]]
+|team2=[[1972–73 Chicago Black Hawks season|Chicago Black Hawks]]
+|team2_short=Chicago 
+|team2_coach=[[Bill Reay]]
+|team2_captain=Vacant
+|team1_1='''8'''
+|team1_2='''4'''
+|team1_3=4
+|team1_4='''4'''
+|team1_5=7
+|team1_6='''6'''
+|team1_tot=4
+|team2_1=3
+|team2_2=1
+|team2_3='''7'''
+|team2_4=0
+|team2_5='''8'''
+|team2_6=4
+|team2_tot=2
+|dates=April 29 – May 10, 1973
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Chicago]]: [[Chicago Stadium]] (3, 4, 6)
+|team1_winner=1
+|mvp=[[Yvan Cournoyer]] (Canadiens)
+|series_winner=[[Yvan Cournoyer]] (8:13, third)
+|hofers='''Canadiens:'''<br/>
+[[Yvan Cournoyer]] (1982)<br/>[[Ken Dryden]] (1983)<br/>[[Guy Lafleur]] (1988)<br/>[[Jacques Laperrière|Jacques Laperriere]] (1987)<br/>[[Guy Lapointe]] (1993)<br/>[[Jacques Lemaire]] (1984)<br/>[[Frank Mahovlich]] (1981)<br/>[[Henri Richard]] (1979)<br/>[[Larry Robinson]] (1995)<br/>[[Serge Savard]] (1986)<br/>[[Steve Shutt]] (1993; did not play)<br/>'''Black Hawks:'''<br/>[[Tony Esposito]] (1988)<br/>[[Stan Mikita]] (1983)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>'''Officials:'''<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[John D'Amico (ice hockey)|John D'Amico]] (1993)<br/>[[Matt Pavelich]] (1987)
+|networks = [[Hockey Night in Canada|CBC]] (Canada)<br>[[NHL on NBC|NBC]] (United States, games 1, 4–6) 
+|net_announcers= (CBC) [[Danny Gallivan]] and [[Dick Irvin Jr.]]<br>(NBC) [[Tim Ryan (sportscaster)|Tim Ryan]], [[Ted Lindsay]], and [[Brian McFarlane]]
+}}
+
+The '''1973 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1972–73 NHL season|1972–73 season]], and the culmination of the [[1973 Stanley Cup playoffs]]. It was contested between the [[1972–73 Chicago Black Hawks season|Chicago Black Hawks]] and the [[1972–73 Montreal Canadiens season|Montreal Canadiens]], a rematch of the [[1971 Stanley Cup Final|1971 Final]]. The Canadiens won the best-of-seven series, four games to two to win their 18th Stanley Cup championship.
+
+==Paths to the Finals==
+Chicago defeated the [[St. Louis Blues]] 4–1 and the [[New York Rangers]] 4–1 to advance to the final.
+
+Montreal defeated the [[Buffalo Sabres]] 4–2 and the [[Philadelphia Flyers]] 4–1 to set up an "Original Six" final.
+
+==Game summaries==
+[[Yvan Cournoyer]] and [[Jacques Lemaire]] both had 12 points in the finals for the Canadiens. The Conn Smythe Trophy went to Cournoyer, who had six goals. It was [[Henri Richard]]'s eleventh and last win of the [[Stanley Cup]] and [[Scotty Bowman]]'s first.
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =April 29
+|home1       =1
+|score1      =3–8
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-mtl/1973/04/29/1972030311#game=1972030311,game_state=final
+}}
+[[Jacques Lemaire]] recorded 4 points in game one for Montreal in an 8–3 victory over Chicago to take a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | [[Pit Martin]] (6)
+|align=center | [[Pat Stapleton (ice hockey)|Pat Stapleton]] (8) and [[Dennis Hull]] (12)
+|align=center | 00:35
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Ralph Backstrom]] (5) 
+|align=center | Pat Stapleton (9)
+|align=center | 01:02
+|align=center | 2–0 CHI
+|-
+|align=center | MTL
+|align=center | [[Jacques Laperrière|Jacques Laperriere]] (1)
+|align=center | ''Unassisted''
+|align=center | 02:28
+|align=center | 2–1 CHI
+|-
+|align=center | MTL
+|align=center | [[Marc Tardif]] (4)
+|align=center | [[Guy Lafleur]] (4) and [[Réjean Houle|Rejean Houle]] (5)
+|align=center | 08:07
+|align=center | 2–2
+|-
+|align=center | CHI
+|align=center | Pit Martin (7)
+|align=center | Pat Stapleton (10) and [[Bill White (ice hockey)|Bill White]] (3)
+|align=center | 12:07
+|align=center | 3–2 CHI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Chuck Lefley]] (1)
+|align=center | [[Yvan Cournoyer]] (5) and [[Jacques Lemaire]] (5)
+|align=center | 03:01
+|align=center | 3–3 
+|-
+|align=center | MTL
+|align=center | Jacques Lemaire (5) – ''pp''
+|align=center | [[Henri Richard]] (4) and Marc Tardif (4)
+|align=center | 16:23
+|align=center | 4–3 MTL
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | MTL
+|align=center | Jacques Lemaire (6) – ''pp''
+|align=center | [[Frank Mahovlich]] (9) and [[Pete Mahovlich]] (5)
+|align=center | 08:38
+|align=center | 5–3 MTL
+|-
+|align=center | MTL
+|align=center | Pete Mahovlich (2) – ''sh''
+|align=center | ''Unassisted''
+|align=center | 12:36
+|align=center | 6–3 MTL
+|-
+|align=center | MTL
+|align=center | Frank Mahovlich (5)
+|align=center | Guy Lafleur (5) and Rejean Houle (6)
+|align=center | 13:34
+|align=center | 7–3 MTL
+|-
+|align=center | MTL
+|align=center | Chuck Lefley (2)
+|align=center | Jacques Lemaire (6) and Yvan Cournoyer (6)
+|align=center | 14:35
+|align=center | 8–3 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CHI
+|align=center | [[John Marks (ice hockey)|John Marks]]
+|align=center | Tripping
+|align=center | 06:05
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Chuck Lefley
+|align=center | Tripping
+|align=center | 11:51
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Phil Russell (ice hockey)|Phil Russell]]
+|align=center | Slashing
+|align=center | 03:31
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Cliff Koroll]]
+|align=center | Slashing
+|align=center | 14:36
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | CHI
+|align=center | Phil Russell
+|align=center | High-sticking
+|align=center | 02:11
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Marc Tardif
+|align=center | Slashing
+|align=center | 05:09
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Phil Russell
+|align=center | Interference
+|align=center | 07:29
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Guy Lapointe]]
+|align=center | Interference
+|align=center | 10:45
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 9 || align=center | 14 || align=center | 7 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 9 || align=center | 13 || align=center | 16 || align=center | 38
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =May 1
+|home1       =1
+|score1      =1–4
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-mtl/1973/05/01/1972030312
+}}
+In game two, [[Yvan Cournoyer]] scored twice, the [[Ken Dryden]] and the Montreal defense stood tall, and the Canadiens won the game 4–1.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Pierre Bouchard]] (1)
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]] (1) and [[Pete Mahovlich]] (6)
+|align=center | 05:36
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Cliff Koroll]] (4)
+|align=center | [[Dick Redmond]] (3) and [[Lou Angotti]] (4)
+|align=center | 07:28
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (10)
+|align=center | [[Frank Mahovlich]] (10)
+|align=center | 12:08
+|align=center | 2–1 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Yvan Cournoyer (11) – ''pp''
+|align=center | [[Guy Lapointe]] (5) and [[Jacques Lemaire]] (7)
+|align=center | 05:01
+|align=center | 3–1 MTL
+|-
+|align=center | MTL
+|align=center | Frank Mahovlich (6) – ''en''
+|align=center | ''Unassisted''
+|align=center | 19:26
+|align=center | 4–1 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CHI
+|align=center | [[Phil Russell (ice hockey)|Phil Russell]]
+|align=center | Tripping
+|align=center | 11:55
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Phil Russell
+|align=center | High-sticking
+|align=center | 15:57
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | MTL
+|align=center | Guy Lapointe
+|align=center | Tripping
+|align=center | 17:01
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | CHI
+|align=center | [[Dennis Hull]]
+|align=center | Tripping
+|align=center | 04:47
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Phil Russell
+|align=center | Holding
+|align=center | 07:05
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Serge Savard]]
+|align=center | Elbowing
+|align=center | 13:10
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Larry Robinson]]
+|align=center | Interference
+|align=center | 13:55
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Pit Martin]]
+|align=center | Hooking
+|align=center | 14:21
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 5 || align=center | 8 || align=center | 6 || align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 9 || align=center | 11 || align=center | 10 || align=center | 30
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =May 3
+|score1      =4–7
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-chi/1973/05/03/1972030313/summary
+}}
+The Black Hawks took a commanding 5–0 lead in game three before Montreal scored 4 unanswered goals to cut the deficit, but Chicago sealed their victory with two empty net goals from [[Dennis Hull]] and [[Jim Pappin]].
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | CHI
+|align=center | [[Dennis Hull]] (7) – ''pp''
+|align=center | [[Jim Pappin]] (6) and [[Pat Stapleton (ice hockey)|Pat Stapleton]] (11)
+|align=center | 01:59
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | [[J.P. Bordeleau]] (1) – ''pp''
+|align=center | [[Stan Mikita]] (9) and [[Cliff Koroll]] (5)
+|align=center | 11:44
+|align=center | 2–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Bill White (ice hockey)|Bill White]] (1) – ''sh''
+|align=center | Pat Stapleton (12) and [[Ralph Backstrom]] (4)
+|align=center | 13:20
+|align=center | 3–0 CHI
+|-
+|align=center | CHI
+|align=center | Stan Mikita (5) – ''sh''
+|align=center | Cliff Koroll (6) and Bill White (4) 
+|align=center | 14:20
+|align=center | 4–0 CHI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[John Marks (ice hockey)|John Marks]] (1) – ''pp''
+|align=center | [[Len Frig]] (1) and Stan Mikita (10) 
+|align=center | 02:08
+|align=center | 5–0 CHI
+|-
+|align=center | MTL
+|align=center | [[Frank Mahovlich]] (7) 
+|align=center | [[Pete Mahovlich]] (7) and [[Larry Robinson]] (3)
+|align=center | 10:25
+|align=center | 5–1 CHI
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (12)
+|align=center | [[Jacques Lemaire]] (8) and [[Chuck Lefley]] (3)
+|align=center | 01:20
+|align=center | 5–2 CHI
+|-
+|align=center | MTL
+|align=center | [[Guy Lapointe]] (6)
+|align=center | Frank Mahovlich (11) and [[Claude Larose (ice hockey, born 1942)|Claude Larose]] (2)
+|align=center | 07:15
+|align=center | 5–3 CHI
+|-
+|align=center | MTL
+|align=center | Jacques Lemaire (7) 
+|align=center | Yvan Cournoyer (7) and [[Marc Tardif]] (5)
+|align=center | 08:01
+|align=center | 5–4 CHI
+|-
+|align=center | CHI
+|align=center | Dennis Hull (8) – ''en''
+|align=center | ''Unassisted''
+|align=center | 19:29
+|align=center | 6–4 CHI
+|-
+|align=center | CHI
+|align=center | Jim Pappin (6) – ''en''
+|align=center | Dennis Hull (13)
+|align=center | 19:49
+|align=center | 7–4 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | MTL
+|align=center | Claude Larose
+|align=center | High-sticking
+|align=center | 00:45
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | J.P. Bordeleau 
+|align=center | Tripping
+|align=center | 09:37
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Pete Mahovlich
+|align=center | Holding
+|align=center | 10:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Pete Mahovlich
+|align=center | Misconduct
+|align=center | 10:31 
+|align=center | 10:00
+|-
+|align=center | CHI
+|align=center | Dennis Hull
+|align=center | Slashing
+|align=center | 12:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[Serge Savard]]
+|align=center | Hooking
+|align=center | 01:08
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Jerry Korab]]
+|align=center | Elbowing
+|align=center | 02:50
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Serge Savard
+|align=center | Hooking
+|align=center | 06:12
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Pat Stapleton
+|align=center | Holding
+|align=center | 07:38
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Guy Lapointe
+|align=center | Tripping
+|align=center | 13:42
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 8 || align=center | 14 || align=center | 11 || align=center | 33
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 16 || align=center | 13 || align=center | 8 || align=center | 37
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =May 6
+|score1      =4–0
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-chi/1973/05/06/1972030314
+}}
+In game four, Ken Dryden made 19 saves to record his first career playoff shutout, and the Canadiens won the game 4–0.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Marc Tardif]] (5)
+|align=center | [[Yvan Cournoyer]] (8) and [[Jacques Lemaire]] (9)
+|align=center | 01:08
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (13)
+|align=center | Marc Tardif (6)
+|align=center | 14:13
+|align=center | 2–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Chuck Lefley]] (3)
+|align=center | [[Pete Mahovlich]] (8) and [[Claude Larose (ice hockey, born 1942)|Claude Larose]] (3)
+|align=center | 15:43
+|align=center | 3–0 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | Claude Larose (1)
+|align=center | Jacques Lemaire (10)
+|align=center | 03:45
+|align=center | 4–0 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | MTL
+|align=center | [[Bob Murdoch (ice hockey, born 1946)|Bob Murdoch]]
+|align=center | Charging
+|align=center | 02:05
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Pat Stapleton (ice hockey)|Pat Stapleton]]
+|align=center | Holding
+|align=center | 13:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MTL
+|align=center | Marc Tardif 
+|align=center | Interference
+|align=center | 02:27
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Guy Lapointe]]
+|align=center | Tripping
+|align=center | 11:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | [[Pierre Bouchard]]
+|align=center | Interference
+|align=center | 15:26
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 10 || align=center | 14 || align=center | 6 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 5 || align=center | 7 || align=center | 7 || align=center | 19
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Montreal Canadiens 
+|stadium1=[[Montreal Forum]]
+|date1       =May 8
+|score1      =8–7
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-mtl/1973/05/08/1972030315/summary
+}}
+In game five, [[Claude Larose (ice hockey, born 1942)|Claude Larose]] recorded three points for Montreal. For Chicago, [[Jim Pappin]] scored twice, [[Stan Mikita]] recorded 4 points, and the Black Hawks took down the Canadiens by a score of 8–7. With both teams combining for a total 15 goals, this was the highest scoring game in Stanley Cup Final history.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | MTL
+|align=center | [[Frank Mahovlich]] (8)
+|align=center | ''Unassisted''
+|align=center | 02:47
+|align=center | 1–0 MTL
+|-
+|align=center | CHI
+|align=center | [[Dennis Hull]] (9)
+|align=center | [[Doug Jarrett]] (3) and [[Phil Russell (ice hockey)|Phil Russell]] (3)
+|align=center | 09:34
+|align=center | 1–1
+|-
+|align=center | CHI
+|align=center | [[Stan Mikita]] (6)
+|align=center | [[Pat Stapleton (ice hockey)|Pat Stapleton]] (13)
+|align=center | 11:24
+|align=center | 2–1 CHI
+|-
+|align=center | MTL
+|align=center | [[Pete Mahovlich]] (3) – ''pp''
+|align=center | Frank Mahovlich (12) and [[Larry Robinson]] (4)
+|align=center | 14:52
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | MTL
+|align=center | [[Claude Larose (ice hockey, born 1942)|Claude Larose]] (2)
+|align=center | ''Unassisted''
+|align=center | 00:37
+|align=center | 3–2 MTL
+|-
+|align=center | CHI
+|align=center | [[Dave Kryskow]] (1)
+|align=center | [[Ralph Backstrom]] (5) and [[Chico Maki]] (7)
+|align=center | 03:10
+|align=center | 3–3
+|-
+|align=center | MTL
+|align=center | Claude Larose (3)
+|align=center | [[Murray Wilson]] (3)
+|align=center | 04:23
+|align=center | 4–3 MTL
+|-
+|align=center | CHI
+|align=center | Stan Mikita (7)
+|align=center | Pat Stapleton (14) and [[John Marks (ice hockey)|John Marks]] (2)
+|align=center | 06:21
+|align=center | 4–4
+|-
+|align=center | MTL
+|align=center | [[Yvan Cournoyer]] (14)
+|align=center | [[Jacques Lemaire]] (11) and [[Guy Lapointe]] (6)
+|align=center | 07:09
+|align=center | 5–4 MTL
+|-
+|align=center | CHI
+|align=center | [[Jim Pappin]] (7)
+|align=center | ''Unassisted''
+|align=center | 11:24
+|align=center | 5–5
+|-
+|align=center | CHI
+|align=center | [[Len Frig]] (1) – ''pp''
+|align=center | Stan Mikita (11)
+|align=center | 16:21
+|align=center | 6–5 CHI
+|-
+|align=center | CHI
+|align=center | Jim Pappin (8)
+|align=center | Stan Mikita (12) and Dennis Hull (14)
+|align=center | 19:03
+|align=center | 7–5 CHI
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | MTL
+|align=center | [[Serge Savard]] (3)
+|align=center | Murray Wilson (4) and Claude Larose (4)
+|align=center | 01:15
+|align=center | 7–6 MTL
+|-
+|align=center | CHI
+|align=center | Lou Angotti (3)
+|align=center | [[Bill White (ice hockey)|Bill White]] (5)
+|align=center | 09:34
+|align=center | 8–6 CHI
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]] (5) 
+|align=center | Frank Mahovlich (13)
+|align=center | 11:43
+|align=center | 8–7 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CHI
+|align=center | [[J.P. Bordeleau]]
+|align=center | Tripping
+|align=center | 12:52
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jim Pappin
+|align=center | Misconduct
+|align=center | 15:57
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | MTL
+|align=center | [[Pierre Bouchard]]
+|align=center | Interference
+|align=center | 15:14
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 11 || align=center | 11 || align=center | 7 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 6 || align=center | 17 || align=center | 8 || align=center | 31
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =May 10
+|score1      =6–4
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-chi/1973/05/10/1972030316
+}}
+[[Pit Martin]] recorded a hat trick in game six for Chicago. However, it would be the Canadiens that emerge victorious, winning their second Stanley Cup in two years. [[Yvan Cournoyer]], who scored the game winning goal in the third period, would be awarded the [[Conn Smythe Trophy]] as playoffs MVP.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | [[Pit Martin]] (8)
+|align=center | [[Stan Mikita]] (13) and [[Pat Stapleton (ice hockey)|Pat Stapleton]] (15)
+|align=center | 10:35
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | Pit Martin (9) – ''pp''
+|align=center | [[Jim Pappin]] (7)
+|align=center | 11:31
+|align=center | 2–0 CHI
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]] (6)
+|align=center | [[Frank Mahovlich]] (14)
+|align=center | 19:48
+|align=center | 2–1 CHI
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[Pete Mahovlich]] (4)
+|align=center | [[Jacques Laperrière|Jacques Laperriere]] (3) and [[Chuck Lefley]] (4)
+|align=center | 05:05
+|align=center | 2–2
+|-
+|align=center | MTL
+|align=center | [[Réjean Houle|Rejean Houle]] (3)
+|align=center | Pete Mahovlich (9) and Chuck Lefley (5)
+|align=center | 06:37
+|align=center | 3–2 MTL
+|-
+|align=center | CHI
+|align=center | [[Dave Kryskow]] (2)
+|align=center | [[Chico Maki]] (8) and [[Ralph Backstrom]] (6)
+|align=center | 08:32
+|align=center | 3–3
+|-
+|align=center | MTL
+|align=center | [[Frank Mahovlich]] (9) – ''pp''
+|align=center | [[Guy Lapointe]] (7) and [[Yvan Cournoyer]] (9)
+|align=center | 10:54
+|align=center | 4–3 MTL
+|-
+|align=center | CHI
+|align=center | Pit Martin (10) – ''pp''
+|align=center | [[Dennis Hull]] (15) 
+|align=center | 17:05
+|align=center | 4–4 
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Yvan Cournoyer (15)
+|align=center | Jacques Lemaire (12)
+|align=center | 08:13
+|align=center | 5–4 MTL
+|-
+|align=center | MTL
+|align=center | [[Marc Tardif]] (6) – ''pp'' 
+|align=center | Yvan Cournoyer (10) and Jacques Lemaire (13)
+|align=center | 12:42
+|align=center | 6–4 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CHI
+|align=center | [[Jerry Korab]]
+|align=center | Roughing
+|align=center | 03:40
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+|align=center | Roughing
+|align=center | 03:40
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Pit Martin
+|align=center | Holding
+|align=center | 08:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jim Roberts
+|align=center | Hooking
+|align=center | 10:35
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Murray Wilson]]
+|align=center | Elbowing
+|align=center | 12:29
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | CHI
+|align=center | [[Bill White (ice hockey)|Bill White]]
+|align=center | Interference
+|align=center | 02:25
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Phil Russell (ice hockey)|Phil Russell]]
+|align=center | Holding
+|align=center | 10:20
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jerry Korab
+|align=center | Hooking
+|align=center | 12:26
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jim Roberts
+|align=center | Tripping
+|align=center | 16:58
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CHI
+|align=center | Phil Russell
+|align=center | Hooking
+|align=center | 11:29
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 7 || align=center | 15 || align=center | 11 || align=center | 33
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 9 || align=center | 14 || align=center | 4 || align=center | 27
+|}
+
+==Team rosters==
+===Montreal Canadiens===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Michel | last = Plasse | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 6 | birthday = 1 | acq = [[1968 NHL Amateur Draft|1968]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Jacques | last = Laperriere | dab = | num = 2 | pos = D | nat = Canada | s/g = L | birthyear = 1941 | birthmonth = 11 | birthday = 22 | acq = [[1962-63 NHL season|1962]] | birthplace = [[Béarn, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Guy | last = Lapointe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 18 | acq = [[1968-69 NHL season|1969]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Jimmy | last = Roberts | dab = Jim Roberts (ice hockey, born 1940) | num = 6 | pos = RW | nat = Canada | s/g = R | birthyear = 1940 | birthmonth = 4 | birthday = 9 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Guy | last = Lafleur | dab = | num = 10 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 9 | birthday = 20 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Thurso, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Marc | last = Tardif | dab = | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 6 | birthday = 12 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Granby, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Yvan | last = Cournoyer | dab = | num = 12 | pos = RW | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 11 | birthday = 22 | acq = [[1963-64 NHL season|1963]] | birthplace = [[Montreal, Quebec]] | cap = A | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Rejean | last = Houle | dab = | num = 14 | pos = RW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 25 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Rouyn, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Claude | last = Larose | dab = Claude Larose (ice hockey, born 1942) | num = 15 | pos = RW | nat = Canada | s/g = R | birthyear = 1942 | birthmonth = 3 | birthday = 2 | acq = [[1962-63 NHL season|1962]] | birthplace = [[Hearst, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Henri | last = Richard | dab = | num = 16 | pos = C | nat = Canada | s/g = R | birthyear = 1936 | birthmonth = 2 | birthday = 29 | acq = [[1955-56 NHL season|1955]] | birthplace = [[Montreal, Quebec]] | cap = C | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Murray | last = Wilson | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 11 | birthday = 7 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Toronto, Canada]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Serge | last = Savard | dab = | num = 18 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 22 | acq = [[1966-67 NHL season|1966]] | birthplace = [[Landrienne, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Larry | last = Robinson | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 6 | birthday = 2 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Winchester, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Peter | last = Mahovlich | dab = | num = 20 | pos = C | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 10 | birthday = 10 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Timmins, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Steve | last = Shutt | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 1 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[North York, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Bob | last = Murdoch | dab = Bob Murdoch (ice hockey, born 1946) | num = 23 | pos = D | nat = Canada | s/g = R | birthyear = 1946 | birthmonth = 11 | birthday = 20 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Kirkland Lake, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Chuck | last = Lefley | dab = | num = 24 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 1 | birthday = 20 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Winnipeg, Manitoba]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Jacques | last = Lemaire | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 27 | acq = [[1967-68 NHL season|1967]] | birthplace = [[LaSalle, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Pierre | last = Bouchard | dab = | num = 26 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 2 | birthday = 20 | acq = [[1965 NHL Amateur Draft|1965]] | birthplace = [[Longueuil, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Frank | last = Mahovlich | dab = | num = 27 | pos = LW | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 10 | birthday = 10 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Timmins, Ontario]] | cap = A | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Ken | last = Dryden | dab = | num = 29 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 8 | birthday = 8 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+|}
+
+===Chicago Black Hawks===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Gary | last = Smith | dab = Gary Smith (ice hockey) | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1944 | birthmonth = 2 | birthday = 4 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Bill | last = White | dab = Bill White (ice hockey) | num = 2 | pos = D | nat = Canada | s/g = R | birthyear = 1939 | birthmonth = 8 | birthday = 26 | acq = [[1969-70 NHL season|1970]] | birthplace = [[Toronto, Ontario]] | cap = A | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Keith | last = Magnuson | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1947 | birthmonth = 4 | birthday = 27 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Wadena, Saskatchewan]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Doug | last = Jarrett | dab = | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1944 | birthmonth = 4 | birthday = 22 | acq = [[1964-65 NHL season|1964]] | birthplace = [[London, Ontario]] | cap = A | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Phil | last = Russell | dab = Phil Russell (ice hockey) | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 21 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Lou | last = Angotti | dab = | num = 6 | pos = C | nat = Canada | s/g = L | birthyear = 1938 | birthmonth = 1 | birthday = 16 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Pit | last = Martin | dab = | num = 7 | pos = C | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 12 | birthday = 9 | acq = [[1967-68 NHL season|1967]] | birthplace = [[Noranda, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Jim | last = Pappin | dab = | num = 8 | pos = RW | nat = Canada | s/g = R | birthyear = 1939 | birthmonth = 9 | birthday = 10 | acq = [[1968-69 NHL season|1968]] | birthplace = [[Sudbury, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Dennis | last = Hull | dab = | num = 10 | pos = LW | nat = Canada | s/g = L | birthyear = 1944 | birthmonth = 11 | birthday = 14 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Point Anne, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = John | last = Marks | dab = John Marks (ice hockey) | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 22 | acq = [[1968 NHL Amateur Draft|1968]] | birthplace = [[Hamiota, Manitoba]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Pat | last = Stapleton | dab = Pat Stapleton (ice hockey) | num = 12 | pos = D | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 7 | birthday = 4 | acq = [[1965-66 NHL season|1965]] | birthplace = [[Sarnia, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Ralph | last = Backstrom | dab = | num = 14 | pos = C | nat = Canada | s/g = L | birthyear = 1937 | birthmonth = 9 | birthday = 18 | acq = [[1972-73 NHL season|1973]] | birthplace = [[Kirkland Lake, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Dick | last = Redmond | dab = | num = 15 | pos = LW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 8 | birthday = 14 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Kirkland Lake, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Chico | last = Maki | dab = | num = 16 | pos = RW | nat = Canada | s/g = R | birthyear = 1939 | birthmonth = 8 | birthday = 17 | acq = [[1960-61 NHL season|1961]] | birthplace = [[Sault Ste. Marie, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Dave | last = Kryskow | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 12 | birthday = 25 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Len | last = Frig | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 10 | birthday = 30 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Blairmore, Alberta]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Cliff | last = Koroll | dab = | num = 20 | pos = RW | nat = Canada | s/g = R | birthyear = 1946 | birthmonth = 10 | birthday = 1 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Canora, Saskatchewan]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Stan | last = Mikita | dab = | num = 21 | pos = C | nat = Canada | s/g = R | birthyear = 1940 | birthmonth = 5 | birthday = 20 | acq = [[1958-59 NHL season|1958]] | birthplace = [[Sokolče]], [[Slovak Republic (1939–1945)|Slovak Republic]] | cap = A | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Jerry | last = Korab | dab = | num = 22 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 9 | birthday = 15 | acq = [[1970-71 NHL season|1970]] | birthplace = [[Sault Ste. Marie, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = J.P. | last = Bordeleau | dab = | num = 23 | pos = RW | nat = Canada | s/g = R | birthyear = 1949 | birthmonth = 6 | birthday = 13 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Noranda, Quebec]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{Ice hockey team player
+| first = Tony | last = Esposito | dab = | num = 35 | pos = G | nat = Canada | s/g = R | birthyear = 1943 | birthmonth = 4 | birthday = 23 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Sault Ste. Marie, Ontario]] | cap = | year = 1973 | month = 4 | day = 29}}
+{{end|Ice hockey team roster}}
+
+==Stanley Cup engraving==
+The 1973 Stanley Cup was presented to Canadiens captain Henri Richard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 6–4 win over the Black Hawks in game six.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1972–73 Montreal Canadiens'''
+{{Stanley Cup champion
+|centres=*14 [[Rejean Houle]]
+*16 [[Henri Richard]] (Captain)
+*20 [[Peter Mahovlich]]
+*25 [[Jacques Lemaire]]
+|defence=*2 [[Jacques Laperriere]]
+*5 [[Guy Lapointe]]
+*18 [[Serge Savard]]
+*19 [[Larry Robinson]]
+*23 [[Bob Murdoch (ice hockey, born 1946)|Bob Murdoch]]
+*26 [[Pierre Bouchard]]
+|goaltenders=*1 [[Michel Plasse]]
+*29 [[Ken Dryden]]
+|wingers=*6 [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]] 
+*10 [[Guy Lafleur]]
+*11 [[Marc Tardif]]
+*12 [[Yvan Cournoyer]] (A)
+*15 [[Claude Larose (ice hockey, born 1942)|Claude Larose]]
+*17 [[Murray Wilson]]
+*22 [[Steve Shutt]]
+*24 [[Chuck Lefley]]
+*27 [[Frank Mahovlich]] (A)
+|non-players=
+* [[Jacques Courtois (ice hockey)|Jacques Courtois]] (President), [[Jean Beliveau]] (Vice President – Director of Cooperate Relations)
+* [[Peter Bronfman]] (Chairman/owner), [[Sam Pollock]] (Vice President/General Manager)
+* [[Edward Bronfman]] (Executive Director/owner), [[Scotty Bowman]] (Head Coach)
+* Bob Williams (Trainer), [[Eddy Palchak]] (Asst. Trainer)
+|engraving-notes=
+* Murray Wilson's name was misspelled in 1973, 1976, 1977 as MURRY WILSON missing an "A".  Murray Wilson was spelled correctly on the Stanley Cup in 1978. Wilson's name was also spelled correctly all 4 times on the Replica Cup.
+* Assistant General Managers [[Ron Caron]] and [[Floyd Curry]] were not included on the Stanley Cup, but qualified to be on it.
+*On the Replica Stanley Cup created in 1992–93 Bob Murdoch's name was spelled BOB MURDOCK with a "K" instead of a "H".  His name was correct on the original engraving in 1973.
+* #30 Wayne Thomas (G) and #3 Dale Hodgson (D) were included in the team picture, but did not play enough games to get their name on the Stanley Cup.}}
+
+==See also==
+* [[1972–73 NHL season]]
+* [[1972–73 Chicago Black Hawks season]]
+* [[1972–73 Montreal Canadiens season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1972 Stanley Cup Final|Boston Bruins<br>1972]] |
+  after = [[1974 Stanley Cup Final|Philadelphia Flyers<br>1974]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1973|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Montreal Canadiens}}
+{{Chicago Blackhawks}}
+{{1972–73 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+}}
+
+[[Category:1972–73 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Montreal Canadiens games]]
+[[Category:April 1973 sports events in North America|Stanley Cup Final]]
+[[Category:May 1973 sports events in North America|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:1973 in Montreal]]
+[[Category:1973 in sports in Quebec]]
+[[Category:1973 in sports in Illinois|Stanley Cup Final]]
+[[Category:1973 in Chicago]]
+[[Category:Events at Chicago Stadium]]

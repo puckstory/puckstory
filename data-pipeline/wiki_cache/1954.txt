@@ -1,0 +1,240 @@
+{{Short description|1954 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1954
+|team1='''[[1953–54 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_captain=[[Ted Lindsay]]
+|team1_coach=[[Tommy Ivan]]
+|team1_1='''3'''
+|team1_2=1
+|team1_3='''5'''
+|team1_4='''2'''
+|team1_5=0*
+|team1_6=1
+|team1_7='''2'''*
+|team1_tot=4
+|team2=[[1953–54 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal 
+|team2_captain=[[Émile Bouchard|Emile Bouchard]]
+|team2_coach=[[Dick Irvin]]
+|team2_1=1
+|team2_2='''3'''
+|team2_3=2
+|team2_4=0
+|team2_5='''1'''*
+|team2_6='''4'''
+|team2_7=1*
+|team2_tot=3
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 4–16, 1954
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 2, 5, 7)
+|location2=[[Montreal]]: [[Montreal Forum]] (3, 4, 6)
+|series_winner=[[Tony Leswick]] (4:29, OT)
+|hofers='''Red Wings:'''<br/>[[Keith Allen (ice hockey)|Keith Allen]] (1992, builder)<br/>[[Al Arbour]] (1996, builder;<br>did not play)<br/>[[Alex Delvecchio]] (1977)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Marcel Pronovost]] (1978)<br/>[[Terry Sawchuk]] (1971)<br/>'''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Elmer Lach]] (1966)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Jacques Plante]] (1978)<br/>[[Maurice Richard]] (1961)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Tommy Ivan]] (1974)
+}}
+The '''1954 Stanley Cup Final''' was contested by the [[1953–54 Detroit Red Wings season|Detroit Red Wings]] and the [[1953 Stanley Cup Final|defending champion]] [[1953–54 Montreal Canadiens season|Montreal Canadiens]], in their fourth straight Finals. It was the second Detroit–Montreal Finals series of the 1950s. Despite blowing a 3–1 series lead, the Red Wings defeated the Canadiens in seven games to win their second Stanley Cup in four years and sixth overall.
+
+As of today, this remains the last Stanley Cup Final where Game 7 was decided in overtime.
+
+==Paths to the Finals==
+Montreal defeated the [[Boston Bruins]] 4–0 to reach the Finals. Detroit defeated the [[Toronto Maple Leafs]] 4–1 to reach the Finals.
+
+==Game summaries==
+[[Tony Leswick]] scored the series-winning goal at 4:29 of overtime in Game 7. In fact, Leswick's goal was one of the strangest Stanley Cup-winning goals in history, as Leswick's shot was deflected off the glove of Montreal's [[Doug Harvey (ice hockey)|Doug Harvey]] and into the net.<ref>{{cite web|title=Top 10 Game 7 Stanley Cup Final matches | website=[[YouTube]] |url=http://www.youtube.com/watch?v=ytEEiV6XTs0 |archive-url=https://web.archive.org/web/20130503150609/http://www.youtube.com/watch?v=ytEEiV6XTs0&gl=US&hl=en |archive-date=2013-05-03 |url-status=live |access-date=2009-06-12 }}</ref> The Canadiens immediately skated off the ice without shaking hands with the Red Wings.<ref>Weekes, Don & Banks, Kerry, ''The Unofficial Guide to Even More of Hockey's Most Unusual Records'', Greystone Books, 2004</ref> This was the second time in NHL history that Game 7 of the Stanley Cup Final was decided in overtime; the previous time it happened, in {{scfy|1950}}, Detroit beat the [[New York Rangers]] in the Finals. As of 2025, this is the last Stanley Cup Final to have an overtime Game 7.
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 4
+|home1       =1
+|score1      =1–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-det/1954/04/04/1953030211#game=1953030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =13:44 - ''pp'' - [[Ted Lindsay]] (3)
+|1-2-1       =[[Bernie Geoffrion]] (5) - ''pp'' - 12:16
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =1:52 - ''pp'' - [[Dutch Reibel]] (1)<br>7:13 - ''sh'' - [[Red Kelly]] (3)
+|goalie1-1   =[[Jacques Plante]] 25 saves / 28 shots
+|goalie1-2   =[[Terry Sawchuck]] 18 saves / 19 shots
+
+|date2       =April 6
+|home2       =1
+|score2      =3–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/mtl-vs-det/1954/04/06/1953030212#game=1953030212,game_state=final
+|2-1-1       =[[Dickie Moore (ice hockey)|Dickie Moore]] (5) - ''pp'' - 15:03<br>[[Maurice Richard]] (1) - ''pp'' - 15:28<br>Maurice Richard (2) - ''pp'' - 15:59
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =6:37 - ''pp'' - [[Alex Delvecchio]] (1)
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Jacques Plante]] 25 saves / 26 shots
+|goalie2-2   =[[Terry Sawchuck]] 25 saves / 28 shots
+
+|date3       =April 8
+|home3       =2
+|score3      =5–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/det-vs-mtl/1954/04/08/1953030213#game=1953030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Alex Delvecchio]] (2) - 00:42<br>[[Ted Lindsay]] (4) - 17:06
+|3-2-1       =''No scoring''
+|3-2-2       =[[Johnny Wilson (ice hockey)|Johnny Wilson]] (2) - 4:57
+|3-3-1       =7:19 - ''sh'' - [[Tom Johnson (ice hockey)|Tom Johnson]] (1)<br>15:02 - [[Dollard St. Laurent]] (1)
+|3-3-2       =[[Metro Prystai]] (1) - ''pp'' - 7:59<br>[[Gordie Howe]] (4) - 11:32
+|goalie3-1   =[[Jacques Plante]] 32 saves / 37 shots
+|goalie3-2   =[[Terry Sawchuck]] 23 saves / 25 shots
+
+|date4       =April 10
+|home4       =2
+|score4      =2–0
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/det-vs-mtl/1954/04/10/1953030214#game=1953030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =[[Johnny Wilson (ice hockey)|Johnny Wilson]] (3) - 2:09
+|4-3-1       =''No scoring''
+|4-3-2       =[[Red Kelly]] (4) - ''en'' - 19:53
+|goalie4-1   =[[Jacques Plante]] 27 saves / 28 shots
+|goalie4-2   =[[Terry Sawchuck]] 28 saves / 28 shots
+
+|date5       =April 11
+|home5       =1
+|score5      =1–0
+|ot5         =1
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/mtl-vs-det/1954/04/11/1953030215#game=1953030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|5-4-1       =[[Ken Mosdell]] (1) - 5:45
+|5-4-2       =''No scoring''
+|goalie5-1   =[[Gerry McNeil]] 22 saves / 22 shots
+|goalie5-2   =[[Terry Sawchuck]] 21 saves / 22 shots
+
+|date6       =April 13
+|home6       =2
+|score6      =1–4
+|won6        =1
+|recap6      =www.nhl.com/gamecenter/det-vs-mtl/1954/04/13/1953030216#game=1953030216,game_state=final
+|6-1-1       =''No scoring''
+|6-1-2       =''No scoring''
+|6-2-1       =12:07 - [[Bernie Geoffrion]] (6)<br>13:07 - [[Floyd Curry]] (2)<br>14:25 - Floyd Curry (3)
+|6-2-2       =''No scoring''
+|6-3-1       =10:06 - [[Maurice Richard]] (3)
+|6-3-2       =[[Metro Prystai]] (2) - 5:11
+|goalie6-1   =[[Gerry McNeil]] 33 saves / 34 shots
+|goalie6-2   =[[Terry Sawchuck]] 26 saves / 30 shots
+
+|date7       =April 16
+|home7       =1
+|score7      =1–2
+|ot7         =1
+|won7        =2
+|recap7      =www.nhl.com/gamecenter/mtl-vs-det/1954/04/16/1953030217#game=1953030217,game_state=final
+|7-1-1       =[[Floyd Curry]] (4) - 9:17
+|7-1-2       =''No scoring''
+|7-2-1       =''No scoring''
+|7-2-2       =1:17 - ''pp'' - [[Red Kelly]] (5)
+|7-3-1       =''No scoring''
+|7-3-2       =''No scoring''
+|7-4-1       =''No scoring''
+|7-4-2       =4:29 - [[Tony Leswick]] (3)
+|goalie7-1   =[[Gerry McNeil]] 31 saves / 33 shots
+|goalie7-2   =[[Terry Sawchuck]] 22 saves / 23 shots
+
+|series = Detroit won series 4–3
+}}
+
+==Broadcasting==
+[[Hockey Night in Canada|CBC's coverage]] of games 3–5 were joined in progress at 9:30&nbsp;p.m. (approximately one hour after start time). Meanwhile, CBC joined game six in at 10 p.m. (again, one hour after start time). Game seven was carried nationwide from the opening face-off at 9 p.m. Since game seven was played on [[Good Friday]] night, there were no commercials ([[Imperial Oil]] was the sponsor).
+
+==Stanley Cup engraving==
+The 1954 Stanley Cup was presented to Red Wings captain Ted Lindsay by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Red Wings 2–1 overtime win over the Canadiens in game seven.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup
+'''1953–54 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Terry Sawchuk]]
+1 [[Dave Gatherum|David Gatherum]]*
+*1 [[Ross Wilson (ice hockey)|Ross Wilson]] (Playing-Asst. Trainer)*
+|defence=*2 [[Bob Goldham]] (A)
+*3 [[Marcel Pronovost]]
+*4 Leonard [[Red Kelly]] (A)
+*5 [[Benny Woit]]
+*18 [[Al Arbour]]
+*19 [[Keith Allen (ice hockey)|Keith Allen]]
+|centres=*10 [[Metro Prystai]]
+*12 [[Glen Skov]]
+*14 [[Earl Reibel]]
+*10 [[Alex Delvecchio]]
+*19 [[Vic Stasiuk]]^
+|wingers=*7 [[Ted Lindsay]] (Captain)
+*8 [[Tony Leswick]]
+*9 [[Gordie Howe]]
+*11 [[Marty Pavelich]]
+*16 [[Johnny Wilson (ice hockey)|John Wilson]]
+*17 [[Bill Dineen]]
+*20 [[Jimmy Peters, Sr.|Jimmy Peters]]
+*26-25 [[Gilles Dubé|Gilles Dube]]
+*21 [[Earl Johnson (ice hockey)|Earl Johnson]]^
+|non-players=
+*[[Marguerite Norris]] (President/Owner), [[Bruce Norris (ice hockey)|Bruce Norris]] (Vice President/Owner)  
+*[[Jack Adams]] (Manager), [[Jimmy Skinner]] (Coach)
+*John Mitchell (Chief Scout), Carl Mattson (Trainer)
+*Fred Huber Jr. (Publicity Director), Wally Crossman (Asst. Trainer/Stick Boy)
+|engraving-notes=
+* #21 Earl Johnson's^ name was engraved on the Stanley Cup, even though he only played 1 regular-season game. Johnson spent the rest of his hockey career in the minors.
+* Oct 10 1953, Terry Sawchuk was injured during a game. Ass't Trainer Ross Wilson played goal for the last 16 minutes. Dave Gatherum was called up from the minors. He played goal on Oct 11, 16, 17 for injured Terry Sawchuk. He recorded 1 win, 1 tie and 1 loss. Gatherum went on to set an NHL record for the longest shutout sequence by a goaltender to start a career, 100:21 min, Oct 11-16, 1953. The record stood until 2011. Gatherum was recalled for the playoffs as a spare goalie. Gatherum never played in the NHL again after losing his first NHL game. Detroit still honour him by including Dave Gatherum's name on the Stanley Cup in 1954.
+* #19 [[Vic Stasiuk]]^ played 43 games, but was sent to the minors.  His name was left off the cup because he played in the minors during the playoffs.
+* #21 [[Jim Hay]] played 12 games for Detroit, but did not play in the playoffs. He was included on team picture. Gilles Dube was listed as Ed Dube by mistake on the team picture.
+* [[Marguerite Norris]] was the first woman to be engraved on the Stanley Cup in 1954.
+* Tommy Ivan was misspelled as THOMAS NIVAN COACH instead of Thomas N. Ivan when the cup was redone in 1957–58.  His name was spelled THOMAS IVAN COACH on the Replica Cup created in 1992–93.
+}}
+
+==See also==
+* [[1953–54 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1953 Stanley Cup Final|Montreal Canadiens<br>1953]] |
+ after = [[1955 Stanley Cup Final|Detroit Red Wings<br>1955]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1954|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Detroit Red Wings}}
+{{Montreal Canadiens}}
+{{1953–54 NHL season by team}}
+{{Hockey Night in Canada}}
+
+[[Category:1953–54 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:April 1954 sports events in North America]]
+[[Category:1950s in Montreal]]
+[[Category:1954 in Quebec]]
+[[Category:1954 in Detroit]]
+[[Category:1954 in sports in Michigan|Stanley Cup]]

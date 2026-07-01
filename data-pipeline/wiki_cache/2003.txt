@@ -1,0 +1,1503 @@
+{{Short description|2003 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 2003
+| image = 2003StanleyCupPlayoffs.png
+| team2 = [[2002–03 Mighty Ducks of Anaheim season|Mighty Ducks of Anaheim]]
+| team2_1 = 0
+| team2_2 = 0
+| team2_3 = '''3'''*
+| team2_4 = '''1'''*
+| team2_5 = 3
+| team2_6 = '''5'''
+| team2_7 = 0
+| team2_tot = 3
+| team2_coach = [[Mike Babcock]]
+| team2_captain = [[Paul Kariya]]
+| team1 = '''[[2002–03 New Jersey Devils season|New Jersey Devils]]'''
+| team1_1 = '''3'''
+| team1_2 = '''3'''
+| team1_3 = 2*
+| team1_4 = 0*
+| team1_5 = '''6'''
+| team1_6 = 2
+| team1_7 = '''3'''
+| team1_tot = 4
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| team1_short = New Jersey
+| team2_short = Anaheim
+| team1_coach = [[Pat Burns]]
+| team1_captain = [[Scott Stevens]]
+| referees = [[Dan Marouelli]] (1, 3, 4, 6, 7)<br>[[Brad Watson (referee)|Brad Watson]] (1, 4, 6)<br>[[Bill McCreary (referee)|Bill McCreary]] (2, 3, 5, 7)<br>[[Paul Devorski]] (2, 5)
+| team1_national_anthem = [[Arlette Roxburgh]]
+| team2_national_anthem = [[United States Marine Corps|United States Marines]] from [[Marine Corps Base Camp Pendleton|Camp Pendleton]]
+| dates = May 27 – June 9, 2003
+| mvp = [[Jean-Sébastien Giguère|Jean-Sebastien Giguere]] (Mighty Ducks)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ESPN|ESPN]] (1–2), [[NHL on ABC|ABC]] (3–7)
+| net_announcers = (CBC) [[Bob Cole (announcer)|Bob Cole]] and [[Harry Neale]]<br/>(RDS) [[Pierre Houde]] and [[Yvon Pedneault]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]]<br/>(ABC) Gary Thorne, Bill Clement, and [[John Davidson (ice hockey)|John Davidson]]<br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+| location1 = [[East Rutherford, New Jersey|East Rutherford]]: [[Meadowlands Arena|Continental Airlines Arena]] (1, 2, 5, 7)
+| location2 = [[Anaheim, California|Anaheim]]: [[Honda Center|Arrowhead Pond of Anaheim]] (3, 4, 6)
+| series_winner = [[Mike Rupp]] (2:22, second)
+| hofers = '''Devils:'''<br/>[[Martin Brodeur]] (2018)<br/>[[Scott Niedermayer]] (2013)<br/>[[Joe Nieuwendyk]] (2011; did not play)<br/>[[Scott Stevens]] (2007)<br/>'''Mighty Ducks:'''<br/>[[Paul Kariya]] (2017)<br/>[[Adam Oates]] (2012)<br/>'''Coaches:'''<br/>[[Pat Burns]] (2014)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+}}
+The '''2003 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2002–03 NHL season|2002–03 season]], and the culmination of the [[2003 Stanley Cup playoffs]]. The second-seeded [[Eastern Conference (NHL)|Eastern Conference]] champion [[2002–03 New Jersey Devils season|New Jersey Devils]] defeated the seventh-seeded [[Western Conference (NHL)|Western Conference]] champion [[2002–03 Mighty Ducks of Anaheim season|Mighty Ducks of Anaheim]] in seven games and were awarded the [[Stanley Cup]] for the third and most recent time in franchise history. For the first time since [[1965 Stanley Cup Final|1965]], all seven games were won by the home team. To date, this is the last Stanley Cup Final in which that has occurred.
+
+The Devils' win was the last in an era of dominance that they, along with the [[Colorado Avalanche]] and the [[Detroit Red Wings]], established in the era from [[1995 Stanley Cup Final|1995]] to 2003. The three teams won a combined eight of nine Stanley Cups during that time. The Devils won in 1995, followed by the Avalanche in [[1996 Stanley Cup Final|1996]], then the Red Wings in [[1997 Stanley Cup Final|1997]] and [[1998 Stanley Cup Final|1998]]. The [[Dallas Stars]] win in [[1999 Stanley Cup Final|1999]] would be superseded by the Devils in [[2000 Stanley Cup Final|2000]], Colorado in 2001 and Detroit in [[2002 Stanley Cup Final|2002]].
+
+==Paths to the Final==
+{{see also|2003 Stanley Cup playoffs|2002–03 Mighty Ducks of Anaheim season|2002–03 New Jersey Devils season}}
+
+===New Jersey Devils===
+The New Jersey Devils were in the Stanley Cup Final for their fourth time in franchise history, as well as their third appearance in four years. En route to the Final, New Jersey defeated the [[Boston Bruins]] and [[Tampa Bay Lightning]] in five games, and the [[Ottawa Senators]] in the Eastern Conference finals in a seven-game series. Strong goaltending from future [[Hockey Hall of Fame]] goaltender [[Martin Brodeur]], and strong defense from future Hockey Hall of Fame captain [[Scott Stevens]] and future Hockey Hall of Fame defenseman [[Scott Niedermayer]] led the Devils to the Final. Niedermayer and forward [[Jamie Langenbrunner]] led all NHL players in points during the entire playoffs. Forwards [[John Madden (ice hockey)|John Madden]] and [[Jeff Friesen]], the latter of whom had been traded to New Jersey from Anaheim during the off-season, also finished among the top scorers in the league during the playoffs.
+
+===Mighty Ducks of Anaheim===
+The Mighty Ducks of Anaheim entered their first Stanley Cup Final in franchise history after upsetting two heavily favored teams: sweeping the defending Stanley Cup champion [[Detroit Red Wings]] and defeating the [[Dallas Stars]] in six games. Anaheim also swept the [[Minnesota Wild]] in the Western Conference finals, largely due to the stellar goaltending of [[Jean-Sébastien Giguère|Jean-Sebastien Giguere]], who only allowed one goal during the entire series. Supporting Giguere were future Hockey Hall of Fame members [[Paul Kariya]] and [[Adam Oates]] as well as forwards [[Petr Sýkora|Petr Sykora]] and [[Rob Niedermayer]], brother of then-Devils star defenseman Scott Niedermayer.
+
+This series was considered memorable as two brothers on different teams competed against one another for the [[Stanley Cup]]. Carol Niedermayer, the mother of Rob and Scott, said she hoped Rob would win because Scott had already won Stanley Cups in 1995 and 2000. Scott said of his mother's statement: "That made sense to me."<ref>{{cite news |last=McEvoy |first=Colin |title=The Ultimate Sibling Rivalry: 8 Sets of Brothers Who Faced Off in Sports Championships |work=[[Biography (TV program)|Biography]] |date=February 9, 2023 |url=https://www.biography.com/athletes/a42805051/brothers-who-have-faced-off-in-championships |accessdate=February 12, 2023}}</ref>
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+The 2003 Stanley Cup Final pitted the second-seeded [[Eastern Conference (NHL)|Eastern Conference]] champion New Jersey Devils against the seventh-seeded [[Western Conference (NHL)|Western Conference]] champion Mighty Ducks of Anaheim. The Devils, who finished the season with 108 points, defeated the Mighty Ducks in seven games to win the [[Stanley Cup]]. The series opened at [[Continental Airlines Arena]] in [[East Rutherford, New Jersey]].
+
+===Game one===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date1       =May 27
+|score1      =0–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/ana-vs-njd/2003/05/27/2002030411#game=2002030411,game_state=final
+}}
+In game one [[Martin Brodeur]] held the Ducks off the scoreboard while the Devils players continually dominated the Ducks. [[Sergei Brylin]] scored the winning goal in the second period and the Devils went on to shut out the Mighty Ducks 3–0.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NJ
+|align=center | [[Jeff Friesen]] (6)
+|align=center | [[Sergei Brylin]] (2) and [[Brian Gionta]] (4)
+|align=center | 01:45
+|align=center | 1–0 NJ
+|- 
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NJ
+|align=center | [[Grant Marshall]] (5)
+|align=center | [[Patrik Eliáš|Patrik Elias]] (6) and [[Scott Gomez]] (7)
+|align=center | 05:34
+|align=center | 2–0 NJ
+|-
+|align=center | NJ
+|align=center | Jeff Friesen (7) – ''en'' 
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]] (6) and [[Martin Brodeur]] (1)
+|align=center | 05:34
+|align=center | 3–0 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NJ
+|align=center | [[Jim McKenzie (ice hockey)|Jim McKenzie]]
+|align=center | Charging
+|align=center | 09:17
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Cross-checking
+|align=center | 14:01
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Keith Carney]]
+|align=center | Roughing
+|align=center | 18:10
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 4 || align=center | 6 || align=center | 8 || align=center | 16
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 6 || align=center | 15 || align=center | 9 || align=center | 30
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date1       =May 29
+|score1      =0–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/ana-vs-njd/2003/05/29/2002030412#game=2002030412,game_state=final
+}}
+In a virtual repeat of game one, [[Patrik Eliáš|Patrik Elias]] scored the winning goal in the second period and the Devils shut out Anaheim 3–0 again.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]] (3) – ''pp''
+|align=center | [[Oleg Tverdovsky]] (2) and [[Scott Gomez]] (4)
+|align=center | 04:42
+|align=center | 1–0 NJ
+|- 
+|align=center | NJ
+|align=center | Scott Gomez (2)
+|align=center | Oleg Tverdovsky (3) and Patrik Elias (6)
+|align=center | 12:11
+|align=center | 2–0 NJ
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | [[Jeff Friesen]] (8) 
+|align=center | [[Brian Gionta]] (5) and [[Scott Niedermayer]] (12)
+|align=center | 04:22
+|align=center | 3–0 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | ANA
+|align=center | [[Samuel Påhlsson|Samuel Pahlsson]]
+|align=center | Interference – Obstruction
+|align=center | 06:10
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Mike Leclerc]]
+|align=center | Hooking
+|align=center | 18:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | Patrik Elias
+|align=center | Holding the stick
+|align=center | 02:23
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Petr Sýkora|Petr Sykora]]
+|align=center | Holding
+|align=center | 03:19
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | ANA
+|align=center | [[Keith Carney]]
+|align=center | High-sticking
+|align=center | 00:27
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Jim McKenzie (ice hockey)|Jim McKenzie]]
+|align=center | Interference
+|align=center | 08:29
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Stevens]]
+|align=center | Holding
+|align=center | 19:19
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 7 || align=center | 2 || align=center | 7 || align=center | 16
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 7 || align=center | 6 || align=center | 12 || align=center | 25
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium2=[[Arrowhead Pond of Anaheim]]
+|date3       =May 31
+|score3      =2–3
+|ot3         =1
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/njd-vs-ana/2003/05/31/2002030413#game=2002030413,game_state=final
+}}
+Down 2–0 after two games, the series shifted to the [[Arrowhead Pond of Anaheim]] in [[Southern California]]. Game three was remembered for the clumsy mistake from Martin Brodeur when he accidentally dropped his stick when the puck came to him; the puck deflected off his fallen stick and into the net to give the Ducks a lucky break and a 2–1 lead. The Devils would later tie the game, only to lose in overtime. Over the mistake with his stick, Brodeur later claimed, "It was just one of those once in a lifetime things."
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | ANA
+|align=center | [[Marc Chouinard]] (1)
+|align=center | [[Sandis Ozoliņš|Sandis Ozolins]] (5)
+|align=center | 03:39
+|align=center | 1–0 ANA
+|- 
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]] (4)
+|align=center | [[Jamie Langenbrunner]] (7) and [[Brian Rafalski]] (7)
+|align=center | 14:02
+|align=center | 1–1
+|- 
+|align=center | ANA
+|align=center | Sandis Ozolins (2)
+|align=center | [[Jean-Sébastien Giguère|Jean-Sebastien Giguere]] (1) 
+|align=center | 14:47
+|align=center | 2–1 ANA
+|- 
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | [[Scott Gomez]] (3) 
+|align=center | [[Grant Marshall]] (2) and Patrik Elias (7)
+|align=center | 09:11
+|align=center | 2–2
+|- 
+| style="text-align:center;" | '''OT'''
+|align=center | ANA
+|align=center | [[Ruslan Salei]] (2)
+|align=center | [[Adam Oates]] (7)
+|align=center | 06:59
+|align=center | 3–2 ANA
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | ANA
+|align=center | [[Steve Thomas (ice hockey)|Steve Thomas]]
+|align=center | Cross-checking
+|align=center | 00:15
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Mike Leclerc]]
+|align=center | Boarding
+|align=center | 07:49
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | Ruslan Salei
+|align=center | Hooking – Obstruction
+|align=center | 08:04
+|align=center | 4:00
+|-
+|align=center | NJ
+|align=center | [[Sergei Brylin]]
+|align=center | Holding the stick
+|align=center | 08:04
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Brian Rafalski
+|align=center | Hooking
+|align=center | 08:04
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | ANA
+|align=center | [[Petr Sýkora|Petr Sykora]]
+|align=center | Hooking
+|align=center | 19:31
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | ANA
+|align=center | Ruslan Salei
+|align=center | Hooking
+|align=center | 07:49
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Brian Gionta
+|align=center | Slashing
+|align=center | 10:35
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 8 || align=center | 12 || align=center | 8 || align=center | 3 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 9 || align=center | 9 || align=center | 10 || align=center | 5 || align=center | 33
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium2=[[Arrowhead Pond of Anaheim]]
+|date3       =June 2
+|score3      =0–1
+|ot3         =1
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/njd-vs-ana/2003/06/02/2002030414#game=2002030414,game_state=final
+}}
+Game four had no scoring throughout regulation and was a battle between goaltenders Brodeur and Giguere. But Anaheim again came out on top in overtime, winning 1–0 and tying the series 2–2.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''OT'''
+| style="text-align:center;"| ANA
+| style="text-align:center;"| [[Steve Thomas (ice hockey)|Steve Thomas]] (3)
+| style="text-align:center;"| [[Samuel Påhlsson|Samuel Pahlsson]] (13) and [[Sandis Ozoliņš|Sandis Ozolins]] (6)
+| style="text-align:center;"| 00:39
+| style="text-align:center;"| 1–0 ANA
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | ANA
+|align=center | [[Kurt Sauer]]
+|align=center | Interference 
+|align=center | 05:54
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Scott Niedermayer]]
+|align=center | Holding
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Dan Bylsma]]
+|align=center | Goaltender interference 
+|align=center | 05:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | ANA
+|align=center | [[Rob Niedermayer]]
+|align=center | Hooking
+|align=center | 08:50
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+| colspan="5"|''None''
+|-
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 10 || align=center | 8 || align=center | 7 || align=center | 1 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 7 || align=center | 8 || align=center | 9 || align=center | 2 || align=center | 26
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date5       =June 5
+|score5      =3–6
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/ana-vs-njd/2003/06/05/2002030415
+}}
+Game five, returning to the Meadowlands, saw a continual battle for the first half of the game. With the game tied 3–3 in the second period, the Devils took the lead with a deflection goal by [[Jay Pandolfo]] that was initially waved off by referees due to an apparent kicking motion with the skates. Video replays, however, showed that there was no distinct kicking motion from the skates, and thus the referees' call was reversed, resulting in a goal. This would prove to deflate the Ducks for the rest of the game, as [[Jamie Langenbrunner]] scored two more goals for the Devils to give New Jersey a 6–3 win and a three games to two series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | ANA
+|align=center | [[Petr Sýkora|Petr Sykora]] (3)
+|align=center | [[Adam Oates]] (8)
+|align=center | 00:42
+|align=center | 1–0 ANA
+|-
+|align=center | NJ
+|align=center | [[Pascal Rhéaume|Pascal Rheaume]] (1)
+|align=center | [[Turner Stevenson]] (1) and [[Sergei Brylin]] (3)
+|align=center | 03:35
+|align=center | 1–1
+|-
+|align=center | NJ
+|align=center | [[Patrik Eliáš|Patrik Elias]] (5) – ''pp''
+|align=center | [[Brian Rafalski]] (8) and [[Scott Gomez]] (9)
+|align=center | 07:45
+|align=center | 2–1 NJ
+|-
+|align=center | ANA
+|align=center | [[Steve Rucchin]] (5)
+|align=center | Petr Sykora (7) and [[Paul Kariya]] (4)
+|align=center | 12:50
+|align=center | 2–2 
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NJ
+|align=center | [[Brian Gionta]] (1)
+|align=center | [[Jay Pandolfo]] (6) and [[Scott Niedermayer]] (13)
+|align=center | 03:12
+|align=center | 3–2 NJ
+|-
+|align=center | ANA
+|align=center | [[Samuel Påhlsson|Samuel Pahlsson]] (2)
+|align=center | [[Rob Niedermayer]] (6) and [[Keith Carney]] (3)
+|align=center | 06:35
+|align=center | 3–3 
+|-
+|align=center | NJ
+|align=center | Jay Pandolfo (5)
+|align=center | Brian Gionta (6) and [[Scott Stevens]] (5)
+|align=center | 09:02
+|align=center | 4–3 NJ
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NJ
+|align=center | [[Jamie Langenbrunner]] (10)
+|align=center | [[Mike Rupp]] (1) and Scott Niedermayer (14)
+|align=center | 05:39
+|align=center | 5–3 NJ
+|-
+|align=center | NJ
+|align=center | Jamie Langenbrunner (11)
+|align=center | Brian Gionta (7)
+|align=center | 12:52
+|align=center | 6–3 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | ANA
+|align=center | Adam Oates 
+|align=center | Roughing
+|align=center | 04:34
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Scott Niedermayer 
+|align=center | Roughing
+|align=center | 04:34
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | Keith Carney
+|align=center | Tripping
+|align=center | 07:03
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Turner Stevenson]]
+|align=center | Roughing
+|align=center | 14:34
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Mike Leclerc]]
+|align=center | Roughing
+|align=center | 17:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | ANA
+|align=center | Adam Oates
+|align=center | High-sticking
+|align=center | 00:18
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Stanislav Chistov]]
+|align=center | High-sticking
+|align=center | 06:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | ANA
+|align=center | [[Ruslan Salei]]
+|align=center | Roughing
+|align=center | 11:52
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Grant Marshall]]
+|align=center | Roughing
+|align=center | 11:52
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 12 || align=center | 7 || align=center | 4 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 11 || align=center | 13 || align=center | 13 || align=center | 37
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium2=[[Arrowhead Pond of Anaheim]]
+|date3       =June 7
+|score3      =2–5
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/njd-vs-ana/2003/06/07/2002030416
+}}
+With New Jersey looking to clinch the series and win the Stanley Cup in Anaheim, game six saw the Mighty Ducks return the favor of game five to the Devils with complete dominance throughout the game. Quite possibly the most remembered moment of the entire series came when the Ducks were winning 3–1 in the second period. Ducks captain [[Paul Kariya]] failed to see Devils captain [[Scott Stevens]] approaching after he passed the puck, and he was subsequently checked by the defensemen in a hit similar to the check that knocked out [[Eric Lindros]] during the 2000 playoffs and caused Lindros to miss the next season. Kariya was lying motionless for a few minutes, where he was then escorted to the locker room. Kariya, however, unexpectedly returned to the bench minutes later. About 11 minutes after the hit, Kariya fired a slapshot that got past [[Martin Brodeur]]. After [[Petr Sýkora|Petr Sykora]] scored a power play goal three minutes and fifty-seven seconds into the third, New Jersey head coach [[Pat Burns]] was prompted to replace Brodeur with [[Corey Schwab]]. The Ducks won the game 5–2 and sent the series to a seventh and final game.
+
+Years later, Paul Kariya said that he has no memory of the rest of the series following the hit he suffered at the hands of Scott Stevens in Game 6. This is despite the fact that he returned to play in Game 6 (where he scored his famous goal) and Game 7.<ref>{{Cite web |title=VXV/C2/OF |url=http://www.thepittpulse.org/vxvc2of |access-date=2026-06-21 |website=The Pitt Pulse |language=en-US}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | ANA
+|align=center | [[Steve Rucchin]] (6)
+|align=center | [[Paul Kariya]] (5) and [[Petr Sýkora|Petr Sykora]] (8)
+|align=center | 04:26
+|align=center | 1–0 ANA
+|-
+|align=center | ANA
+|align=center | Steve Rucchin (7) 
+|align=center | [[Mike Leclerc]] (9) and [[Rob Niedermayer]] (7)
+|align=center | 13:42
+|align=center | 2–0 ANA
+|-
+|align=center | ANA
+|align=center | [[Steve Thomas (ice hockey)|Steve Thomas]] (5) – ''pp''
+|align=center | Paul Kariya (6) and [[Keith Carney]] (9)
+|align=center | 15:59
+|align=center | 3–0 ANA
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | [[Jay Pandolfo]] (6)
+|align=center | [[John Madden (ice hockey)|John Madden]] (10) and [[Brian Gionta]] (8)
+|align=center | 02:18
+|align=center | 3–1 ANA
+|-
+|align=center | ANA
+|align=center | Paul Kariya (6)
+|align=center | Petr Sykora (9) and [[Adam Oates]] (9)
+|align=center | 17:15
+|align=center | 4–1 ANA
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | ANA
+|align=center | Petr Sykora (4) – ''pp''
+|align=center | [[Stanislav Chistov]] (10) and [[Niclas Hävelid|Niclas Havelid]] (4)
+|align=center | 03:57
+|align=center | 5–1 ANA
+|-
+|align=center | NJ
+|align=center | [[Grant Marshall]] (6) – ''pp''
+|align=center | [[Brian Rafalski]] (9) and [[Patrik Eliáš|Patrik Elias]] (8)
+|align=center | 10:46
+|align=center | 5–2 ANA
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NJ
+|align=center | Patrik Elias
+|align=center | Interference – Obstruction 
+|align=center | 08:55
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Ruslan Salei]]
+|align=center | Roughing 
+|align=center | 14:24
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Jamie Langenbrunner]]
+|align=center | Roughing – double minor
+|align=center | 14:24
+|align=center | 4:00
+|-
+|align=center | NJ
+|align=center | Paul Kariya
+|align=center | Tripping
+|align=center | 18:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | Jamie Langenbrunner
+|align=center | Hooking
+|align=center | 06:26
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Turner Stevenson]]
+|align=center | Slashing
+|align=center | 18:27
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''3rd'''
+|align=center | NJ
+|align=center | Turner Stevenson
+|align=center | Roughing – double minor
+|align=center | 01:15
+|align=center | 4:00
+|-
+|align=center | ANA
+|align=center | [[Jason Krog]]
+|align=center | High-sticking 
+|align=center | 06:26
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | [[Samuel Påhlsson|Samuel Pahlsson]]
+|align=center | Tripping 
+|align=center | 09:32
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Pascal Rhéaume|Pascal Rheaume]]
+|align=center | Clipping
+|align=center | 14:45
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | Grant Marshall 
+|align=center | Tripping – Obstruction
+|align=center | 18:51
+|align=center | 2:00
+|-
+|align=center | ANA
+|align=center | Steve Thomas 
+|align=center | Roughing
+|align=center | 19:59
+|align=center | 2:00
+|-
+|align=center | NJ
+|align=center | [[Colin White (ice hockey, born 1977)|Colin White]]
+|align=center | Roughing
+|align=center | 19:59
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 9 || align=center | 10 || align=center | 9 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 9 || align=center | 10 || align=center | 5 || align=center | 24
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|team1=Mighty Ducks of Anaheim
+|team2=New Jersey Devils
+|stadium1=[[Continental Airlines Arena]]
+|date7       =June 9
+|score7      =0–3
+|won7        =2
+|recap7      =www.nhl.com/gamecenter/ana-vs-njd/2003/06/09/2002030417#game=2002030417,game_state=final
+}}
+Game seven in New Jersey saw the Devils once more completely dominate the Ducks. The game-winning goal was scored on a deflection by [[Michael Rupp]]. Rupp became the first player in Stanley Cup history to have his first playoff goal be the Stanley Cup winner. Additionally, [[Jeff Friesen]] dominated his former Mighty Duck teammates, scoring the game's final two goals to seal the victory, and give New Jersey its third Cup in nine years.  
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NJ
+|align=center | [[Mike Rupp]] (1)
+|align=center | [[Scott Niedermayer]] (15) and [[Colin White (ice hockey, born 1977)|Colin White]] (5)
+|align=center | 02:22
+|align=center | 1–0 ANA
+|-
+|align=center | NJ
+|align=center | [[Jeff Friesen]] (9)
+|align=center | Mike Rupp (2) and [[Scott Niedermayer]] (16) 
+|align=center | 12:18
+|align=center | 2–0 NJ
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NJ
+|align=center | Jeff Friesen (10)
+|align=center | Mike Rupp (3) and [[Scott Stevens]] (16) 
+|align=center | 16:16
+|align=center | 3–0 NJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | NJ
+|align=center | [[Turner Stevenson]]
+|align=center | Boarding
+|align=center | 17:31
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | ANA
+|align=center | [[Rob Niedermayer]]
+|align=center | Interference – Obstruction
+|align=center | 03:58
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | ANA
+|align=center | [[Mike Leclerc]]
+|align=center | Cross-checking
+|align=center | 16:45
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Anaheim}} || align=center | 5 || align=center | 9 || align=center | 10 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|New Jersey}} || align=center | 7 || align=center | 12 || align=center | 6 || align=center | 25
+|}
+The 3–0 win gave the Devils their third Stanley Cup victory, and ended Anaheim's [[Cinderella (sports)|Cinderella run]]. 
+
+The Mighty Ducks, however, didn't leave empty-handed; for his stellar play throughout the playoffs and Final, goaltender Jean-Sebastien Giguere was awarded the [[Conn Smythe Trophy]] as the most valuable player (MVP) of the playoffs. He became only the fifth player, and fourth goaltender, in NHL history to have won the trophy as a member of the losing team, joining Detroit's [[Roger Crozier]] ({{scfy|1966}}), the [[St. Louis Blues]]' [[Glenn Hall]] ({{scfy|1968}}), and the [[Philadelphia Flyers]]' [[Reggie Leach]] ({{scfy|1976}}, a right winger) and [[Ron Hextall]] ({{scfy|1987}}). He was the last player to win the Conn Smythe trophy on a losing team until the [[Edmonton Oilers]]' [[Connor McDavid]] did so in [[2024 Stanley Cup Final|2024]]. To date, Giguere is the last goaltender to win the Conn Smythe trophy on a losing team. 
+
+This was only the third time in NHL history, after {{scfy|1955}} and {{scfy|1965}}, that the home team won every Final game. It has not happened since.<ref>{{cite news|title=Devils down Ducks for third Cup|last=Allen|first=Kevin|newspaper=USA Today|date=June 10, 2003|page=1C|quote=This series marked the first time since...1965 that the home team has won all seven games of a Stanley Cup Final.}}</ref>
+
+To date, this is the Devils' last Stanley Cup championship. They appeared in the Final again in [[2012 Stanley Cup Final|2012]], when Elias and Brodeur were the only members of the 2003 team remaining. They lost in six games to the [[Los Angeles Kings]]. 
+
+The Ducks would return to the Final in [[2007 Stanley Cup Final|2007]], where they defeated the [[Ottawa Senators]] in five games, giving the franchise their first (and to date only) Stanley Cup championship.
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Mighty Ducks of Anaheim===
+[[File:Paul Kariya 2008.jpg|thumb|[[Paul Kariya]] (pictured in 2008) captained the Mighty Ducks to their first Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''21'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Dan|Bylsma}}
+| RW
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Grand Haven, Michigan]]
+| first
+|-
+| '''3'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Carney}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|2001}}
+| style="text-align:left;"|[[Providence, Rhode Island]]
+| first
+|-
+| '''23'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Stanislav|Chistov}}
+| LW
+| R
+| [[2001 NHL Entry Draft|2001]]
+| style="text-align:left;"|[[Chelyabinsk|Chelyabinsk, Soviet Union]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc|Chouinard}}
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Charlesbourg, Quebec]]
+| first
+|-
+| '''29'''
+| {{flagicon|SUI}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Gerber}}
+| G
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Burgdorf, Switzerland]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jean-Sebastien|Giguere|Jean-Sébastien Giguère}}
+| G
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| first
+|-
+| '''28'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Niclas|Havelid}}
+| D
+| L
+| [[1999 NHL Entry Draft|1999]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Kariya}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[North Vancouver (city)|North Vancouver, British Columbia]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Krog}}
+| C
+| R
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Fernie, British Columbia]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Leclerc}}
+| LW
+| L
+| [[1995 NHL Entry Draft|1995]]
+| style="text-align:left;"|[[Winnipeg, Manitoba]]
+| first
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Niedermayer}}
+| LW
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Cassiar, British Columbia]]
+| second {{small|({{scfy|1996}})}}
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Oates}}
+| C
+| R
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Weston, Ontario]]
+| second {{small|({{scfy|1998}})}}
+|-
+| '''2'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Fredrik|Olausson}}
+| D
+| R
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Nybro|Nybro, Sweden]]
+| second {{small|('''{{scfy|2002}}''')}}
+|-
+| '''8'''
+| {{flagicon|LAT}}
+! scope="row" style="text-align:left;"|{{sortname|Sandis|Ozolinsh|Sandis Ozoliņš}}
+| D
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Riga|Riga, Soviet Union]]
+| second {{small|('''{{scfy|1996}}''')}}
+|-
+| '''26'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Samuel|Pahlsson|Samuel Påhlsson}}
+| C
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Ånge|Ånge, Sweden]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Rucchin}} – ('''[[Captain (ice hockey)#Alternate captains|A]]''')
+| C
+| L
+| [[1994 NHL Supplemental Draft|1994]]
+| style="text-align:left;|[[Thunder Bay, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|BLR}}
+! scope="row" style="text-align:left;"|{{sortname|Ruslan|Salei}}
+| D
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[Minsk|Minsk, Soviet Union]]
+| first
+|-
+| '''34'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kurt|Sauer}}
+| D
+| R
+| [[2000 NHL Entry Draft|2000]]
+| style="text-align:left;"|[[St. Cloud, Minnesota]]
+| first
+|-
+| '''22'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Smirnov|dab=ice hockey}}
+| LW
+| L
+| [[2000 NHL Entry Draft|2000]]
+| style="text-align:left;"|[[Tver|Kalinin, Soviet Union]]
+| first
+|-
+| '''39'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Sykora|Petr Sýkora}}
+| RW
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Thomas|dab=ice hockey}}
+| RW
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Stockport|Stockport, England]]
+| first
+|-
+| '''5'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vitaly|Vishnevskiy}}
+| D
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Kharkiv|Kharkiv, Soviet Union]]
+| first
+|}
+
+===New Jersey Devils===
+[[File:Stanley Cup Bush Devils Stevens crop.jpg|thumb|[[Scott Stevens]] captained the Devils to their fourth Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''6'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tommy|Albelin}}
+| D
+| L
+| {{NHL Year|2001}}
+| style="text-align:left;"|[[Stockholm, Sweden]]
+| second {{small|('''{{scfy|1995}}''')}}
+|-
+| '''9'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Jiri|Bicek|Jiří Bicek}}
+| RW
+| L
+| [[1997 NHL Entry Draft|1997]]
+| style="text-align:left;"|[[Košice|Košice, Czechoslovakia]]
+| first
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Brodeur}}
+| G
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Montreal, Quebec]]
+| fourth {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''18'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Brylin}}
+| LW/C
+| L
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| fourth {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Daneyko}}
+| D
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| fourth {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''26'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Patrik|Elias|Patrik Eliáš}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Třebíč|Třebíč, Czechoslovakia]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Friesen}}
+| LW
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Meadow Lake, Saskatchewan]]
+| first
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Gionta}}
+| RW
+| R
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Rochester, New York]]
+| first
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Gomez}}
+| C
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"|[[Anchorage, Alaska]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Langenbrunner}}
+| RW
+| R
+| {{NHL Year|2001}}
+| style="text-align:left;"|[[Cloquet, Minnesota]]
+| third {{small|('''{{scfy|1999}}''', {{scfy|2000}})}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Madden|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1997}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Marshall}}
+| RW
+| R
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Port Credit, Ontario]]
+| third {{small|('''{{scfy|1999}}''', {{scfy|2000}})}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|McKenzie|dab=ice hockey}}
+| LW
+| L
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Gull Lake, Saskatchewan]]
+| second {{small|({{scfy|2001}})}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Niedermayer}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| fourth {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Nieuwendyk}}
+| C
+| L
+| {{NHL Year|2001}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| fourth {{small|(did not play; '''{{scfy|1989}}''', '''{{scfy|1999}}''', {{scfy|2000}})}}
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Pandolfo}}
+| LW
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Winchester, Massachusetts]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Rafalski}}
+| D
+| R
+| {{NHL Year|1999}}
+| style="text-align:left;"|[[Dearborn, Michigan]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pascal|Rheaume}}
+| C
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Quebec City, Quebec]]
+| first
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Rupp}}
+| RW
+| R
+| [[2000 NHL Entry Draft|2000]]
+| style="text-align:left;"|[[Cleveland, Ohio]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Schwab}}
+| G
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[North Battleford, Saskatchewan]]
+| first
+|-
+| '''2'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Richard|Smehlik}}
+| D
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Ostrava|Ostrava, Czechoslovakia]]
+| second {{small|(did not play; {{scfy|1999}})}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Stevens}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| fourth {{small|('''{{scfy|1995}}''', '''{{scfy|2000}}''', {{scfy|2001}})}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Turner|Stevenson}}
+| RW
+| R
+| {{NHL Year|2000}}
+| style="text-align:left;"|[[Prince George, British Columbia]]
+| second {{small|({{scfy|2001}})}}
+|-
+| '''10'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Oleg|Tverdovsky}}
+| D
+| L
+| {{NHL Year|2002}}
+| style="text-align:left;"|[[Donetsk|Donetsk, Soviet Union]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|White|dab=ice hockey, born 1977}}
+| D
+| L
+| [[1996 NHL Entry Draft|1996]]
+| style="text-align:left;"|[[New Glasgow, Nova Scotia]]
+| third {{small|('''{{scfy|2000}}''', {{scfy|2001}})}}
+|}
+
+==Stanley Cup engraving==
+The 2003 Stanley Cup was presented to Devils captain Scott Stevens by [[NHL Commissioner]] [[Gary Bettman]] following the Devils 3–0 win over the Mighty Ducks in game seven.
+
+'''2002–03 New Jersey Devils'''
+{{Stanley Cup champion
+|defence=*2 [[Richard Šmehlík|Richard Smehlik]] ‡
+*3 [[Ken Daneyko]]
+*4 [[Scott Stevens]] (Captain)
+*5 [[Colin White (ice hockey, born 1977)|Colin White]]
+*6 [[Tommy Albelin]]
+*10 [[Oleg Tverdovsky]]
+*27 [[Scott Niedermayer]] (A)
+*28 [[Brian Rafalski]]
+|goaltenders=*30 [[Martin Brodeur]]
+*35 [[Corey Schwab]]
+|centres=*11 [[John Madden (ice hockey)|John Madden]]
+*21 [[Pascal Rhéaume|Pascal Rheaume]]
+*23 [[Scott Gomez]]
+*25 [[Joe Nieuwendyk]] †
+|wingers=*9 [[Jiří Bicek|Jiri Bicek]]
+*12 [[Jeff Friesen]]
+*14 [[Brian Gionta]]
+*15 [[Jamie Langenbrunner]]
+*16 [[Michael Rupp]]
+*18 [[Sergei Brylin]]*
+*19 [[Jim McKenzie (ice hockey)|Jim McKenzie]]
+*20 [[Jay Pandolfo]]
+*24 [[Turner Stevenson]]
+*26 [[Patrik Eliáš|Patrik Elias]] (A)
+*29 [[Grant Marshall]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.{{efn|name=Nieuwendykinjury|#25 [[Joe Nieuwendyk]] (C) missed the entire Final due to injury.}}
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*[[Ray Chambers]] (owner/governor), Lewis Katz (owner), Peter Simon (chairman), [[Lou Lamoriello]] (chief executive officer/president/general manager)
+*[[Pat Burns]] (head coach), [[Bobby Carpenter (ice hockey)|Bobby Carpenter]] Jr. (assistant coach), [[John MacLean (ice hockey)|John MacLean]] (assistant coach), [[Jacques Caron]] (goaltending coach), [[Larry Robinson]] (special assignment coach)
+*David Conte (director, scouting), Claude Carrier (assistant director, scouting), [[Chris Lamoriello]] (scout/AHL GM), Milt Fisher (scout), Dan Labraaten (scout)
+*[[Marcel Pronovost]] (scout), Bob Hoffmeyer (scout), Jan Ludvig (scout), Dr. Barry Fisher (head team physician)
+*Chris Modrzynski (vice-president), Terry Farmer (vice-president, ticket operations), [[Vladimir Bure]] (fitness consultant), Taran Singleton (director – hockey operations/video coordinator)
+*Bill Murray (medical trainer), Michael Vasalani (strength & conditioning coordinator), Rich Matthews (equipment manager)
+*Juergen Merz (massage therapists), Alex Abasto (asst. equipment), Joe Murray (equipment asst.)}}
+===Engraving notes===
+* #2 [[Richard Šmehlík|Richard Smehlik]] (D) played in 10 regular-season games and 5 playoff games, but none in the Final. As he did not automatically qualify,{{efn|name=qualify}} New Jersey successfully requested an exemption to have his name engraved on the Stanley Cup.
+* [[Marcel Pronovost]] won his eighth Stanley Cup – five as a player with Detroit in 1950, 1952, 1954–55 and Toronto in 1967, as well as three championships as a scout for New Jersey in 1995, 2000 and 2003. He set the record for the years between his first and last Stanley Cup wins with 53 years.
+* [[Jeff Friesen]] was the first player engraved on the Stanley Cup with a full middle name, as "JEFF DARYL FRIESEN." Some players in the past had their middle initial included along with their first name on the Stanley Cup. The 2003 New Jersey team included nine other players who were listed with an initial and 2 full names.
+* When Louise St. Jacques engraved the replica Stanley Cup, she realized she had left too much space between winning teams. So to make sure there was enough room on the Stanley Cup for the 2004 winning team, two names were changed: Jacques J. Caron was changed to J.J.Caron, and Larry Robinson was changed to L.Robinson (see [[2004 Stanley Cup Final]])
+* New Jersey won three Stanley Cups – [[1995 Stanley Cup Final|1995]], [[2000 Stanley Cup Final|2000]], and 2003. These players and staff were members of all three Stanley Cup championships. Martin Brodeur, Sergei Brylin, Ken Daneyko, Scott Niedermayer, Scott Stevens, Bobby Carpenter Jr. (one as a player, two as an assistant coach), Lou Lamoriello, Larry Robinson, Jacques Caron, Claude Carrier, David Conte, Milt Fisher, Dan Labraaten, Marcel Provonost, Mike Vasalani, Peter McMullen (left Cup in 2003).
+
+==Broadcasting==
+In the United States, the [[Disney]]-owned networks [[ESPN National Hockey Night|ESPN]] and [[NHL on ABC|ABC]] aired the Final. [[Gary Thorne]], and [[Bill Clement]] called the entire series, with [[John Davidson (ice hockey)|John Davidson]] joining them for the ABC games. ESPN aired the first two games while ABC broadcast the rest of the series.
+
+This was also the only year that ABC broadcast both the Stanley Cup and the [[2003 NBA Finals|NBA Finals]] that involved teams playing in the same arena during each series. During ABC's broadcast of game 7, Thorne thanked [[Brad Nessler]], ABC's lead NBA voice, for promoting the game after he stated during game 3 of the NBA Finals that ABC was in a unique situation getting ready for both game 7 and their game the night before.<ref>{{cite video|title=NBA on ABC: Game 3 of the 2003 NBA Finals|medium=television|date=June 8, 2003}}</ref><ref>{{cite news|title=ABC scores big with seventh game after much promotion|date=June 11, 2003|first=William|last=Houston|newspaper=The Globe and Mail|page=S2}}</ref><ref>{{cite video|title=NHL on ABC: Game 7 of the 2003 Stanley Cup Final|medium=television|date=June 9, 2003|publisher=ABC Sports}}</ref>
+
+In Canada, [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]] were in the broadcast booth for [[Canadian Broadcasting Corporation|CBC]]. One of the CBC's owned and operated Station's in New Brunswick ([[CBAT-DT|CBAT-TV]]) decided to preempt game seven of the Final in order to broadcast the [[2003 New Brunswick general election|New Brunswick general election]] returns.<ref>{{Cite web|url=https://sec.theglobeandmail.com/news/national/tory-star-hit-hard-by-voters/article25285964/?service=amp|archive-url = https://web.archive.org/web/20170206185358/https://sec.theglobeandmail.com/news/national/tory-star-hit-hard-by-voters/article25285964/?service=amp|archive-date = 2017-02-06|title = Tory star hit hard by voters - the Globe and Mail}}</ref> This would also be the first Final televised by [[LNH à RDS|RDS]], replacing [[La Soirée du hockey|SRC]] as the Canadian French-language broadcaster.
+
+For the radio coverage, Devils team broadcaster John Hennessy called the series on [[WABC (AM)|WABC–AM]] 770 in New York City. In Anaheim, [[Steve Carroll]] called the series.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+*{{cite book |title=Total Stanley Cup |year=2008 |publisher=Dan Diamond & Associates, Inc. |last=Diamond |first=Dan |url=http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |access-date=2009-03-23 |archive-url=https://web.archive.org/web/20090326001907/http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |archive-date=2009-03-26 |url-status=dead }}
+*{{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|publisher=Triumph Books|pages=12, 50|isbn=1-55168-261-3}}
+
+{{s-start}}
+{{succession box | before = [[2002 Stanley Cup Final|Detroit Red Wings<br>2002]] | title = [[List of Stanley Cup champions|New Jersey Devils<br>Stanley Cup champions]] | years = 2003 | after = [[2004 Stanley Cup Final|Tampa Bay Lightning<br>2004]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list=
+{{New Jersey Devils}}
+{{Anaheim Ducks}}
+{{2002–03 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on ABC}}
+{{ESPN National Hockey Night}}
+{{NHL on RDS}}
+}}
+
+[[Category:2003 Stanley Cup| ]]
+[[Category:2002–03 NHL season|Stanley Cup]]
+[[Category:Anaheim Ducks games]]
+[[Category:New Jersey Devils games|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:2003 in sports in New Jersey|Stanley Cup Final]]
+[[Category:2003 in sports in California|Stanley Cup Final]]
+[[Category:2000s in Anaheim, California]]
+[[Category:2000s in sports in Orange County, California]]
+[[Category:Sports competitions in East Rutherford, New Jersey]]
+[[Category:21st century in East Rutherford, New Jersey]]
+[[Category:May 2003 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2003 sports events in the United States|Stanley Cup Final]]
+[[Category:Sports competitions in Anaheim, California]]
+[[Category:Ice hockey competitions in New Jersey]]

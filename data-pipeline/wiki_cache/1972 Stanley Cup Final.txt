@@ -1,0 +1,355 @@
+{{Short description|1972 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1972
+|image=1972 NHL Stanley Cup Playoffs.png
+|image_size = 250
+|team1='''[[1971–72 Boston Bruins season|Boston Bruins]]'''
+|team1_short=Boston
+|team1_coach=[[Tom Johnson (ice hockey)|Tom Johnson]]
+|team1_captain=Vacant
+|team2=[[1971–72 New York Rangers season|New York Rangers]]
+|team2_short=New York
+|team2_coach=[[Emile Francis]]
+|team2_captain=[[Vic Hadfield]]
+|team1_1='''6'''
+|team1_2='''2'''
+|team1_3=2
+|team1_4='''3'''
+|team1_5=2
+|team1_6='''3'''
+|team1_tot=4
+|team2_1=5
+|team2_2=1
+|team2_3='''5'''
+|team2_4=2
+|team2_5='''3'''
+|team2_6=0
+|team2_tot=2
+|dates=April 30 – May 11, 1972
+|location1=[[Boston]]: [[Boston Garden]] (1, 2, 5)
+|location2=[[New York City]]: [[Madison Square Garden]] (3, 4, 6)
+|team2_winner=1
+|mvp=[[Bobby Orr]] (Bruins)
+|series_winner=[[Bobby Orr]] (11:18, first)
+|hofers='''Bruins:'''<br/>[[Johnny Bucyk]] (1981)<br/>[[Gerry Cheevers]] (1985)<br/>[[Phil Esposito]] (1984)<br/>[[Bobby Orr]] (1979)<br/>'''Rangers:'''<br/>[[Eddie Giacomin]] (1987)<br/>[[Rod Gilbert]] (1982)<br/>[[Brad Park]] (1988)<br/>[[Jean Ratelle]] (1985)<br/>[[Glen Sather]] (1997, builder)<br/>'''Coaches:'''<br/>[[Emile Francis]] (1982)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970, player)
+|networks = [[NHL on CTV|CTV]] (Canada)<br>[[NHL on CBS|CBS]] (United States) (games 1, 4, and 6) 
+|net_announcers= (CTV): [[Danny Gallivan]] and [[Dick Irvin Jr.]] (in Boston), [[Bill Hewitt (sportscaster)|Bill Hewitt]] and [[Bob Goldham]] (in New York)<br>(CBS): [[Dan Kelly (sportscaster)|Dan Kelly]], [[Jim Gordon (sportscaster)|Jim Gordon]], and [[Harry Howell (ice hockey)|Harry Howell]]
+}}
+The '''1972 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1971–72 NHL season|1971–72 season]], and the culmination of the [[1972 Stanley Cup playoffs]]. It was contested between the [[1971–72 Boston Bruins season|Boston Bruins]] and the [[1971–72 New York Rangers season|New York Rangers]]. It was the Rangers' first appearance in the finals since [[1950 Stanley Cup Final|1950]]. The Bruins were making their first appearance since their victory in the [[1970 Stanley Cup Final|1970 Finals]]. It was the second Boston-New York Final series, the other being the [[1929 Stanley Cup Final|1929 Finals]].
+
+The Bruins defeated the Rangers in six games to win their second Stanley Cup in three years. This was only the second Stanley Cup Final contested by New York in which the Rangers hosted all of their home games. The first such Final, held in [[1929 Stanley Cup Final|1929]], had lasted only two games. All other previous Finals contested by the Rangers had partly or entirely coincided with an annual circus formerly held at Madison Square Garden, compelling the Rangers to play Finals games at neutral sites and/or at the venues of their opponents.
+
+This was the last time the Bruins won the Stanley Cup until [[2011 Stanley Cup Final|2011]].
+
+==Paths to the Finals==
+This was the fourth meeting between teams from [[Boston]] and [[New York City]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship. This previously occurred in two World Series ([[1912 World Series|1912]], [[1916 World Series|1916]]), and the [[1929 Stanley Cup Final]].<ref>{{Cite web|url=https://content.time.com/time/specials/packages/0,28757,2105715,00.html|title=Top 10 NYC-vs.-Boston Showdowns|last=Sifferlin|first=Alexandra|website=[[Time (magazine)|TIME]]|date=January 31, 2012|accessdate=December 16, 2024}}</ref>
+
+Boston defeated their [[Bruins–Maple Leafs rivalry|rival]] in the [[Toronto Maple Leafs]] in five games and swept the [[St. Louis Blues]] to advance to the Final.
+
+New York defeated the defending champion [[Montreal Canadiens]] in six games and the [[Chicago Blackhawks|Chicago Black Hawks]] in a sweep to set up an "[[Original Six]]" Final.
+
+==Game summaries==
+[[Bobby Orr]], who tallied 4 goals and 4 assists in the series, won the [[Conn Smythe Trophy]] for the second time. It was also Orr's second Cup-clinching goal, having accomplished both feats in the 1970 finals. Phil Esposito had 41 shots in the series but was held without a goal.
+
+{{NHLPlayoffs
+|team1=New York Rangers
+|team2=Boston Bruins
+|stadium1=[[Boston Garden]]
+|stadium2=[[Madison Square Garden]]
+
+|date1       =April 30
+|home1       =1
+|score1      =5–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/nyr-vs-bos/1972/04/30/1971030311#game=1971030311,game_state=final
+|1-1-1       =[[Dale Rolfe]] (3) - 3:52
+|1-1-2       =5:07 - [[Fred Stanfield]] (7)<br>15:48 - [[Ken Hodge]] (5)<br>17:29 - ''sh'' - [[Derek Sanderson]] (1)<br>18:14 - ''sh'' - Ken Hodge (6)
+|1-2-1       =[[Rod Gilbert]] (4) - ''pp'' - 11:54
+|1-2-2       =10:46 - Ken Hodge (7)
+|1-3-1       =[[Vic Hadfield]] (7) - ''pp'' - 1:56<br>[[Walt Tkaczuk]] (4) - 7:48<br>[[Bruce MacGregor]] (2) - 9:17
+|1-3-2       =17:44 - [[Garnet Bailey]] (2)
+|goalie1-1   =[[Ed Giacomin]]
+|goalie1-2   =[[Gerry Cheevers]]
+
+|date2       =May 2
+|home2       =1
+|score2      =1–2
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/nyr-vs-bos/1972/05/02/1971030312#game=1971030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =16:15 - ''pp'' - [[Johnny Bucyk]] (9)
+|2-2-1       =[[Rod Gilbert]] (5) - 7:23
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =11:53 - ''pp'' - [[Ken Hodge]] (8)
+|goalie2-1   =[[Gilles Villemure]]
+|goalie2-2   =[[Eddie Johnston]]
+
+|date3       =May 4
+|home3       =2
+|score3      =2–5
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/bos-vs-nyr/1972/05/04/1971030313#game=1971030313,game_state=final
+|3-1-1       =1:22 - ''pp'' - [[Brad Park]] (3)<br>11:19 - ''pp'' - [[Rod Gilbert]] (6)<br>13:00 - ''pp'' - Brad Park (4)
+|3-1-2       =[[Mike Walton]] (6) - 14:04
+|3-2-1       =3:46 - Rod Gilbert (7)<br>19:23 - [[Pete Stemkowski]] (4)
+|3-2-2       =[[Bobby Orr]] (2) - 1:10
+|3-3-1       =''No scoring''
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Ed Giacomin]]
+|goalie3-2   =[[Gerry Cheevers]]
+
+|date4       =May 7
+|home4       =2
+|score4      =3–2
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/bos-vs-nyr/1972/05/07/1971030314#game=1971030314,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Bobby Orr]] (3) - 5:26<br>Bobby Orr (4) - ''pp'' - 8:17
+|4-2-1       =18:38 - [[Ted Irvine]] (4)
+|4-2-2       =[[Don Marcotte]] (3) - ''sh'' - 16:33
+|4-3-1       =18:35 - ''pp'' - [[Rod Seiling]] (1)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Ed Giacomin]]
+|goalie4-2   =[[Eddie Johnston]]
+
+|date5       =May 9
+|home5       =1
+|score5      =3–2
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/nyr-vs-bos/1972/05/09/1971030315#game=1971030315,game_state=final
+|5-1-1       =[[Dale Rolfe]] (4) - 13:45
+|5-1-2       =3:55 - [[Wayne Cashman]] (2)<br>16:07 - ''pp'' - [[Ken Hodge]] (9)
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =[[Bobby Rousseau]] (5) - 2:56<br>Bobby Rousseau (6) - 12:45
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Gilles Villemure]]
+|goalie5-2   =[[Eddie Johnston]]
+
+|date6       =May 11
+|home6       =2
+|score6      =3–0
+|won6        =2
+|recap6      =www.nhl.com/gamecenter/bos-vs-nyr/1972/05/11/1971030316#game=1971030316,game_state=final
+|6-1-1       =''No scoring''
+|6-1-2       =[[Bobby Orr]] (5) - ''pp'' - 11:18
+|6-2-1       =''No scoring''
+|6-2-2       =''No scoring''
+|6-3-1       =''No scoring''
+|6-3-2       =[[Wayne Cashman]] (3) - ''pp'' - 5:10<br>Wayne Cashman (4) - 18:11
+|goalie6-1   =[[Gilles Villemure]]
+|goalie6-2   =[[Gerry Cheevers]]
+
+|series      =Boston won series 4–2
+}}
+
+===Game one===
+{{IceHockeybox
+| date        = April 30
+| time        =
+| team1       = New York Rangers
+| team2       = Boston Bruins
+| score       = 5–6
+| periods     = (1–4, 1–1, 3–1)
+| reference   = http://www.flyershistory.com/cgi-bin/poboxscore.cgi?O19720031
+| goalie1     = [[Eddie Giacomin]]
+| goalie2     = [[Gerry Cheevers]]
+| progression = 1–0<br />1–1<br />1–2<br />1–3<br />1–4<br />1–5<br />2–5<br />3–5<br />4–5<br />5–5<br />5–6
+| goals1      = [[Dale Rolfe]] 3 ([[Rod Gilbert]], [[Brad Park]]) – 3:52<br /><br /><br /><br /><br /><br />Rod Gilbert 4 ([[Vic Hadfield]], [[Jean Ratelle]]) (PP) – 11:54<br />Vic Hadfield 7 ([[Walt Tkaczuk]], Rod Gilbert) (PP) – 1:46<br />[[Ted Irvine]] 4 – 7:48<br />[[Bruce MacGregor]] 2 (Ted Irvine, [[Pete Stemkowski]]) – 9:17
+| goals2      = <br />5:07 – [[Fred Stanfield]] 7 ([[John McKenzie (ice hockey)|John McKenzie]]) <br />15:48 – [[Ken Hodge]] 5 ([[Phil Esposito]], [[Mike Walton]])<br />17:29 – [[Derek Sanderson]] 1 ([[Ed Westfall]]) (SH)<br />18:14 – Ken Hodge 6 (Phil Esposito) (SH)<br />10:46 – Ken Hodge 7 (Phil Esposito, [[Bobby Orr]])<br /><br /><br /><br /><br />17:44 – [[Garnet Bailey]] 2 (Mike Walton, Ed Westfall)
+| official    = Bill Friday
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Boston Garden]]
+| attendance  = 14,995
+| penalties1  =
+| penalties2  =
+| shots1      = 29
+| shots2      = 28
+}}
+Game one in Boston saw both teams play poorly. The Bruins at one point led 5–1 as [[Ken Hodge]] completed a [[hat trick]], and Hodge and [[Derek Sanderson]] scored short-handed goals on the same Ranger [[Power play (sport)|power play]] at the end of the first period. However, the Rangers tied the game with goals from Gilbert, Hatfield, Tkaczuk, and Bruce MacGregor. With 2:16 remaining in the third period, [[Garnet "Ace" Bailey]] beat Rangers star defenseman [[Brad Park]] to have the Bruins prevail 6–5.<ref name=Mulvoy>{{cite journal |url=http://cnnsi.printthis.clickability.com/pt/cpt?action=cpt&title=The+Stanley+Cup+was+brimming+with+hate+as+the+Bruins%2C+-+05.08.72+-+SI+Vault&expire=&urlID=411869752&fb=Y&url=http%3A%2F%2Fsportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1086068%2Findex.htm&partnerID=289881 |journal=[[SI Vault]] |title=Violence Is The Goal |access-date=April 20, 2010 |date=May 8, 1972 |first=Mark |last=Mulvoy |author-link=Mark Mulvoy |archive-url=https://web.archive.org/web/20120312042750/http://cnnsi.printthis.clickability.com/pt/cpt?action=cpt&title=The+Stanley+Cup+was+brimming+with+hate+as+the+Bruins,+-+05.08.72+-+SI+Vault&expire=&urlID=411869752&fb=Y&url=http:%2F%2Fsportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1086068%2Findex.htm&partnerID=289881 |archive-date=12 March 2012}}</ref>
+
+[[Gary Doak]] of the Rangers was ejected from the game after a heated argument with referee [[Bill Friday (ice hockey)|Bill Friday]] over a penalty he received at 18:50 of the first period.
+
+===Game two===
+{{IceHockeybox
+| date        = May 2
+| time        =
+| team1       = New York Rangers
+| team2       = Boston Bruins
+| score       = 1–2
+| periods     = (0–1, 1–0, 0–1)
+| reference   = http://www.flyershistory.com/cgi-bin/poboxscore.cgi?O19720032
+| goalie1     = [[Gilles Villemure]]
+| goalie2     = [[Ed Johnston (ice hockey)|Ed Johnston]]
+| progression = 0–1<br />1–1<br />1 –2
+| goals1      = <br /> [[Rod Gilbert]] 5 ([[Jim Neilson]], [[Vic Hadfield]]) – 7:23
+| goals2      = 16:15 – [[Johnny Bucyk]] 9 ([[Bobby Orr]], [[Fred Stanfield]]) (PP)<br /><br />11:53 – [[Ken Hodge]] 8 ([[Mike Walton]], [[Phil Esposito]]) (PP)
+| official    =
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Boston Garden]]
+| attendance  = 14,995
+| penalties1  =
+| penalties2  =
+| shots1      = 28
+| shots2      = 25
+}}
+Game two had [[Gilles Villemure]] replace [[Ed Giacomin]] in goal for the Rangers. He played well, but the Bruins did too and won 2–1. [[Eddie Johnston]] also replaced Cheevers in goal for the Bruins.
+
+===Game three===
+{{IceHockeybox
+| date        = May 4
+| time        =
+| team1       = Boston Bruins
+| team2       = New York Rangers
+| score       = 2–5
+| official    =
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Madison Square Garden]]
+| penalties1  =
+| penalties2  =
+}}
+In New York, Giacomin and Cheevers were back in goal for game three as the Rangers won 5–2. [[Brad Park]] opened the scoring with a power play goal and scored another in the first period. [[Rod Gilbert]] also had two goals in the game.
+
+===Game four===
+{{IceHockeybox
+| date        = May 7
+| time        =
+| team1       = Boston Bruins
+| team2       = New York Rangers
+| score       = 3–2
+| official    =
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Madison Square Garden]]
+| penalties1  =
+| penalties2  =
+}}
+Giacomin, facing Johnston in this game, was having trouble with a knee he injured during the Chicago series and lost game four 3–2.
+
+===Game five===
+{{IceHockeybox
+| date        = May 9
+| time        =
+| team1       = New York Rangers
+| team2       = Boston Bruins
+| score       = 3–2
+| official    =
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Boston Garden]]
+| penalties1  =
+| penalties2  =
+}}
+Game five in Boston had Villemure again replace Giacomin, while Johnston remained in goal for the Bruins. Boston led 2–1 after two periods. However, [[Bobby Rousseau]] scored twice in the third period, his second at 12:45 turned out to be the winner in a 3–2 win for the Rangers.<ref name=Mulvoy/><ref name=1972Final>{{cite journal |url=http://cnnsi.printthis.clickability.com/pt/cpt?action=cpt&title=The+Stanley+Cup+was+brimming+with+hate+as+the+Bruins%2C+-+05.08.72+-+SI+Vault&expire=&urlID=411869752&fb=Y&url=http%3A%2F%2Fsportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1086068%2Findex.htm&partnerID=289881 |journal=[[SI Vault]] |title=An Iceman Too Hot To Handle |access-date=April 20, 2010 |date=May 22, 1972 |first=Mark |last=Mulvoy |author-link=Mark Mulvoy |archive-url=https://web.archive.org/web/20120312042750/http://cnnsi.printthis.clickability.com/pt/cpt?action=cpt&title=The+Stanley+Cup+was+brimming+with+hate+as+the+Bruins,+-+05.08.72+-+SI+Vault&expire=&urlID=411869752&fb=Y&url=http:%2F%2Fsportsillustrated.cnn.com%2Fvault%2Farticle%2Fmagazine%2FMAG1086068%2Findex.htm&partnerID=289881 |archive-date=March 12, 2012 |url-status=bot: unknown }}</ref>
+
+===Game six===
+{{IceHockeybox
+| date        = May 11
+| time        =
+| team1       = Boston Bruins
+| team2       = New York Rangers
+| score       = 3–0
+| official    =
+| official2   =
+| linesman    =
+| linesman2   =
+| stadium     = [[Madison Square Garden]]
+| penalties1  =
+| penalties2  =
+}}
+Game six in New York saw Boston play flawlessly and [[Gerry Cheevers]] picked up a shutout, 3–0. [[Bobby Orr]]'s first-period marker ended up standing as the Stanley Cup-winning goal, and he also assisted on the Bruins' second goal. Orr spent 10 minutes in the penalty box after arguing with referee [[Art Skov]] but upon his return on the ice played a crucial role in killing off a penalty to the Bruins. [[Wayne Cashman]] scored two goals, one of which trickled in behind [[Gilles Villemure]].<ref name=1972Final/>
+
+As of 2025, the 1972 Bruins are the most recent team to have won the Cup without a formal captain.<ref>{{cite web |url=https://thehockeynews.com/news/fischler-report-so-you-want-your-son-to-be-an-nhl-star |title=Fischler Report: So You Want Your Son to be an NHL Star |last=Fischler |first=Stan |date=August 15, 2022 |website=thehockeynews.com |publisher=The Hockey News |access-date= |quote="The last team to win a Stanley Cup without having a captain was the 1972 Boston Bruins. But they had Bobby Orr; so who needed a captain?"}}</ref> John Bucyk, as the team's senior alternate captain, accepted the Cup and circled the rink in the ceremonial skate.
+
+==Broadcasting==
+''[[Hockey Night in Canada]]'' moved all playoff coverage from CBC to [[CTV Television Network|CTV]] (in actuality, [[McCann (company)#McCann Canada|MacLaren Advertising]], the actual rights holders of ''HNIC'' at the time, worked out arrangements with [[NHL on CTV|CTV]] to move the full NHL playoffs there) to avoid conflict with the lengthy [[National Association of Broadcast Employees and Technicians|NABET]] strike against the CBC.
+
+In the United States, [[NHL on CBS|CBS]] took a rather calculated risk in not televising the game five match on May 9 (CBS aired regular programming, including the original ''[[Hawaii Five-O (1968 TV series)|Hawaii Five-O]]'' in that time period on that Tuesday night). This was despite the fact that game five was a potential clincher with the Bruins up three games to one on the Rangers. CBS ultimately lucked out (since the Rangers won game five 3-2), and televised the clincher (game six) on Thursday night, May 11.
+
+==Stanley Cup engraving==
+
+The following Bruins players and staff had their names engraved on the Stanley Cup:
+
+'''1971–72 Boston Bruins'''
+{{Stanley Cup champion
+|centres=*7 [[Phil Esposito]] (A)
+*11 [[Mike Walton]]
+*17 [[Fred Stanfield]]
+*16 [[Derek Sanderson]]
+|defence=*4 [[Bobby Orr]]
+*6 [[Ted Green]] (A)
+*10 [[Carol Vadnais]]
+*20 [[Dallas Smith (ice hockey)|Dallas Smith]]
+*26 [[Don Awrey]]
+|goaltenders=*1 [[Eddie Johnston]]
+*30 [[Gerry Cheevers]]
+|wingers=*8 [[Ken Hodge]]
+*9 [[John Bucyk]] (A)
+*12 [[Wayne Cashman]]
+*14 [[Garnet "Ace" Bailey|Ace Bailey]]
+*18 [[Ed Westfall]] (A)
+*19 [[John McKenzie (ice hockey)|John McKenzie]]
+*21 [[Don Marcotte]]
+|non-players=
+* [[Weston Adams (ice hockey, born 1904)|Weston Adams]] Sr. (Chairman/Owner), [[Weston Adams, Jr.]] (President/Owner)
+* [[Shelby M.C. Davis|Shelby Davis]] (Vice President)
+* Charles Mulcahy Jr. (Vice President – General Council)
+* [[Edward J. Powers|Ed Powers]] (Vice President – Treasurer),
+* [[Milt Schmidt]] (General Manager), [[Tom Johnson (ice hockey)|Tom Johnson]] (Head Coach)
+* Dan Canney (Trainer), John Forristall (Asst. Trainer)
+|engraving-notes=
+* The Boston Bruins' name was misspelled as BQSTQN BRUINS with two "Q"s instead of "O"s. This error was corrected on the replica Cup created in 1992–93.
+* Every person whose name was engraved won the Stanley Cup as a member of the Bruins in 1972 had already appeared on the Stanley Cup.  This had previously occurred only once, in 1960, and has not occurred again since.
+* [[Garry Peters (ice hockey)|Garry Peters]] dressed for 2 games 1 & 2 of Stanley Cup Semi-Finals, playing game 1. [[Chris Hayes (ice hockey)|Chris Hayes]] then played in game 3 of the Semi-Finals (his only NHL game). By the rules of the time, this qualified both to have their names engraved on the Stanley Cup, but neither was included. Peters also won the cup with Montreal in 1965.
+* As with the 1970 team, the Boston Bruins did not have a [[Captain (ice hockey)|team captain]]. John Bucyk, Phil Esposito, Ted Green and Ed Westfall all served as alternate captains (all but Green held the title in 1970 as well).
+}}
+
+==See also==
+* [[1971–72 Boston Bruins season]]
+* [[1971–72 NHL season]]
+* [[1971–72 New York Rangers season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1971 Stanley Cup Final|Montreal Canadiens<br>1971]] | title = [[List of Stanley Cup champions|Boston Bruins<br>Stanley Cup champions]] | years = 1972 | after = [[1973 Stanley Cup Final|Montreal Canadiens<br>1973]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Boston Bruins}}
+{{New York Rangers}}
+{{1971–72 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+{{NHL on CTV}}
+}}
+
+[[Category:1971–72 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:New York Rangers games]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:1972 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:1972 in sports in New York City|Stanley Cup Final]]
+[[Category:April 1972 sports events in the United States|Stanley Cup Final]]
+[[Category:May 1972 sports events in the United States|Stanley Cup Final]]
+[[Category:1972 in Boston|Stanley Cup Final]]
+[[Category:1970s in Manhattan]]
+[[Category:Events at the Boston Garden]]

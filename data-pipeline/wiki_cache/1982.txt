@@ -1,0 +1,1168 @@
+{{Short description|1982 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1982
+|image=
+|team1='''[[1981–82 New York Islanders season|New York Islanders]]'''
+|team1_short=New York
+|team1_captain=[[Denis Potvin]]
+|team1_coach=[[Al Arbour]]
+|team2=[[1981–82 Vancouver Canucks season|Vancouver Canucks]]
+|team2_short=Vancouver
+|team2_coach=[[Roger Neilson]]
+|team2_captain=[[Kevin McCarthy (ice hockey)|Kevin McCarthy]]{{efn|Due to injury, McCarthy did not play in any playoff games. [[Stan Smyl]] served as acting captain.}}
+|referees=[[Wally Harris (referee)|Wally Harris]], [[Andy Van Hellemond]], [[Ron Wicks]]
+|series_winner=[[Mike Bossy]] (5:00, second)
+|hofers='''Islanders:'''<br/>[[Mike Bossy]] (1991)<br/>[[Clark Gillies]] (2002)<br/>[[Denis Potvin]] (1991)<br/>[[Billy Smith (ice hockey)|Billy Smith]] (1993)<br/>[[Bryan Trottier]] (1997)<br/>'''Canucks''':<br/>[[Colin Campbell (ice hockey, born 1953)|Colin Campbell]] (2024, builder)<br/>'''Coaches:'''<br/>[[Al Arbour]] (1996)<br/>[[Roger Neilson]] (2002)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|dates=May 8–16, 1982
+|location1=[[Uniondale, New York|Uniondale]]: [[Nassau Veterans Memorial Coliseum]] (1, 2)
+|location2=[[Vancouver]]: [[Pacific Coliseum]] (3, 4)
+|mvp=[[Mike Bossy]] (Islanders)
+|team1_1='''6'''*
+|team1_2='''6'''
+|team1_3='''3'''
+|team1_4='''3'''
+|team1_tot=4
+|team2_1=5*
+|team2_2=4
+|team2_3=0
+|team2_4=1
+|team2_tot=0
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on USA|USA Network]]<br />(New York City area): [[SportsChannel New York]] (1–2), [[WWOR-TV|WOR]] (3–4)
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Mickey Redmond]], and [[Dick Irvin Jr.]] (1–2); and [[Jim Robson]], [[Howie Meeker]], and [[Gary Dornhoefer]] (3–4)<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(USA Network) [[Dan Kelly (sportscaster)|Dan Kelly]] and [[Gary Green (ice hockey)|Gary Green]]<br/>(SCNY/WOR) [[Jiggs McDonald]] and [[Ed Westfall]]
+}}
+The '''1982 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1981–82 NHL season|1981–82 season]], and the culmination of the [[1982 Stanley Cup playoffs]]. It was played between the [[Campbell Conference]] champion [[1981–82 Vancouver Canucks season|Vancouver Canucks]] in their first Final appearance and the [[Wales Conference]] and defending Cup champion [[1981–82 New York Islanders season|New York Islanders]], in their third Final appearance. The Islanders swept the Canucks to win their third consecutive and overall [[Stanley Cup]] championship. The Islanders became the first (and still only) U.S.-based team to [[three-peat]] as Stanley Cup champions, and the third franchise overall to three-peat as Stanley Cup champions, joining the [[Toronto Maple Leafs]] and [[Montreal Canadiens]].<ref>{{Cite web |title=1981-82 Stanley Cup Winner {{!}} NHL Records |url=https://records.nhl.com/playoff-summary/stanley-cup-winner?season=19811982 |access-date=2026-01-17 |website=records.nhl.com}}</ref><ref>{{Cite web |title=ESPN Classic - Islanders get Bossy, win third straight Cup |url=https://www.espn.com/classic/s/moment010516islanders.html |access-date=2026-01-17 |website=www.espn.com}}</ref> The 1981–82 Canucks are one of two Stanley Cup finalist teams without any Hall of Fame players on their roster, the other being the [[1995–96 Florida Panthers season|1996 Florida Panthers]]. Additionally, this marks the first time since [[1955 Stanley Cup Final|1955]] and in 17 Cup Final attempts that a U.S.-based team defeated a Canada-based team in the championship round (U.S. teams have gone 0–16 against Canadian teams).
+
+This 1982 Final took place under a geographically revised NHL divisional alignment and playoff structure, which ''de facto'' revived the "East vs. West" format for the Final that had been abandoned when the [[Western Canada Hockey League|Western Hockey League]] folded in {{scfy|1926}}. It was also the first time a team from [[Western Canada]] contested the Final since the WHL stopped challenging for the Stanley Cup (the [[Victoria Cougars]], who had also been the last team from [[British Columbia]] to win the Cup in {{scfy|1925}}, played the 1926 Final too). This would also be the first of nine consecutive Final contested by a team from Western Canada, but it was the only one of them to feature the Vancouver Canucks; the other eight were contested by a team from [[Alberta]] ([[Edmonton Oilers]] appeared in six, [[Calgary Flames]] in two).
+
+Starting this season home-ice advantage would alternate between conferences as opposed to going to the team with the better record. The latter change would also be of no effect for these Final since for even years the Wales champion received that advantage and in 1982 their representative, the Islanders, had the better record.
+
+==Paths to the Final==
+{{see also|1981–82 NHL season|1981–82 New York Islanders season|1981–82 Vancouver Canucks season}}
+
+===Vancouver Canucks===
+Vancouver, despite having a losing record in the regular season, reached their first Stanley Cup Final in franchise history. In the first round they swept the [[Calgary Flames]]. In the next round they defeated the [[Los Angeles Kings]] in five games; after the Kings had upset the [[Edmonton Oilers]] and 92-goal scorer [[Wayne Gretzky]] in five games which was dubbed the [[Miracle on Manchester]]. In the conference finals, the Canucks defeated the [[Chicago Blackhawks]] in five games.
+
+===New York Islanders===
+The Islanders' route to the Final was slightly harder than Vancouver's. In the first round, the Islanders edged out the [[Pittsburgh Penguins]] 3–2. In the second round, they defeated their cross-town rivals in the [[New York Rangers]] in six games. In the conference finals, the Islanders swept the [[Quebec Nordiques]] to make it to the Final for the third year in a row.
+
+With New York having 118 points and Vancouver having 77, the 41-point difference between the two teams in a final round is the largest in Stanley Cup Final history.<ref>{{cite news|title=CANUCKS STRANGERS, BUT FEEL THEY BELONG|date=May 8, 1982|first=Francis|last=Rosa|newspaper=Boston Globe|page=1}}</ref><ref>{{cite news|title=Islanders Win Opener on Late Overtime Goal; STANLEY CUP: Islanders Win|date=May 9, 1982|first=Gordon|last=Edes|newspaper=Los Angeles Times|page=C1}}</ref>
+
+==Game summaries==
+ 
+The series then shifted to Vancouver, where the Canucks were boosted by a boisterous, [[Towel Power|towel-waving]] Vancouver crowd and had a great first period, but failed to score on [[Billy Smith (ice hockey)|Billy Smith]], who was brilliant. The Islanders went on to win 3–0, and then completed the sweep with a 3–1 victory on May 16 to win their third straight Cup and first on the road.{{Citation needed|date=June 2026}}
+
+[[Mike Bossy]] scored seven goals in the four games, tying [[Jean Béliveau]]'s record from {{scfy|1956}}, and won the [[Conn Smythe Trophy]].{{Citation needed|date=June 2026}}
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Vancouver Canucks
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 8
+|score1      =5–6
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/van-vs-nyi/1982/05/08/1981030411#game=1981030411,game_state=final
+}}
+The Canucks had their best chance to win a game in the first one, as a [[Jim Nill]] short-handed marker gave them a 5–4 lead with only seven minutes to play in regulation time. However, the Islanders tied it when [[Mike Bossy]] banged home a loose puck after goaltender [[Richard Brodeur]] had collided with his own defenceman, [[Harold Snepsts]], while trying to smother it. In the dying seconds of the first overtime period, Snepsts attempted to clear the puck up the middle, but it was intercepted by Bossy, who completed his hat trick with two seconds left on the clock to win the game for the Islanders.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | VAN
+|align=center | [[Thomas Gradin]] (7)
+|align=center | [[Lars Molin (ice hockey)|Lars Molin]] (6)
+|align=center | 01:29
+|align=center | 1–0 VAN
+|-
+|align=center | NYI
+|align=center | [[Clark Gillies]] (7) – ''pp''
+|align=center | [[Denis Potvin]] (10) and [[Bryan Trottier]] (18)
+|align=center | 11:35
+|align=center | 1–1 
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (11)
+|align=center | Clark Gillies (6) and [[Billy Carroll]] (2)
+|align=center | 15:52
+|align=center | 2–1 NYI
+|-
+|align=center | VAN
+|align=center | Thomas Gradin (8) – ''pp''
+|align=center | [[Curt Fraser]] (5) and Lars Molin (7)
+|align=center | 17:40
+|align=center | 2–2 
+|-
+|align=center | NYI
+|align=center | Denis Potvin (4) – ''pp''
+|align=center | [[Butch Goring]] (4)
+|align=center | 19:51
+|align=center | 3–2 NYI
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NYI
+|align=center | Denis Potvin (5) – ''pp''
+|align=center | Bryan Trottier (19) and [[Stefan Persson (ice hockey)|Stefan Persson]] (10)
+|align=center | 03:15
+|align=center | 4–2 NYI
+|-
+|align=center | VAN
+|align=center | [[Stan Smyl]] (8) – ''pp''
+|align=center | Thomas Gradin (9) and Curt Fraser (6)
+|align=center | 05:06
+|align=center | 4–3 NYI
+|-
+|align=center | VAN
+|align=center | [[Ivan Boldirev]] (7)
+|align=center | [[Tiger Williams]] (5)
+|align=center | 09:27
+|align=center | 4–4
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | VAN
+|align=center | [[Jim Nill]] (4)
+|align=center | [[Gerry Minor]] (2) and Tiger Williams (6)
+|align=center | 13:06
+|align=center | 5–4 VAN
+|-
+|align=center | NYI
+|align=center | Mike Bossy (12)
+|align=center | [[John Tonelli]] (9) and Bryan Trottier (20)
+|align=center | 15:14
+|align=center | 5–5
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | NYI
+|align=center | Mike Bossy (13)
+|align=center | ''Unassited''
+|align=center | 19:58
+|align=center | 6–5 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | VAN
+|align=center | [[Harold Snepsts]]
+|align=center | Holding
+|align=center | 10:51
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Slashing
+|align=center | 13:36
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Roughing
+|align=center | 16:37
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Roughing
+|align=center | 16:37
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | High-sticking
+|align=center | 17:25
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Neil Belland]]
+|align=center | Interference
+|align=center | 18:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="15"| '''2nd'''
+|align=center | VAN
+|align=center | [[Anders Eldebrink]]
+|align=center | Holding
+|align=center | 02:52
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Tripping
+|align=center | 04:07
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Bourne]]
+|align=center | Fighting – major
+|align=center | 10:19
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Bob Bourne
+|align=center | Misconduct
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Fighting – double major
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Misconduct
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]]
+|align=center | Fighting – double major
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | Colin Campbell
+|align=center | Misconduct
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | [[Darcy Rota]]
+|align=center | Fighting – major
+|align=center | 10:19
+|align=center | 5:00
+|-
+|align=center | VAN
+|align=center | Darcy Rota
+|align=center | Misconduct
+|align=center | 10:19
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | [[Bob Nystrom]]
+|align=center | Fighting – major
+|align=center | 17:20
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Misconduct
+|align=center | 17:20
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | Curt Fraser
+|align=center | Misconduct
+|align=center | 17:20
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | Stan Smyl
+|align=center | Fighting – major
+|align=center | 17:20
+|align=center | 5:00
+|-
+|align=center | VAN
+|align=center | Stan Smyl
+|align=center | Misconduct
+|align=center | 17:20
+|align=center | 10:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''OT'''
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Roughing
+|align=center | 16:11
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Doug Halward]]
+|align=center | Roughing
+|align=center | 16:11
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 12 || align=center | 9 || align=center | 8 || align=center | 6 || align=center | 35
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 12 || align=center | 6 || align=center | 12 || align=center | 6 || align=center | 36
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Vancouver Canucks
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 8
+|score1      =4–6
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/van-vs-nyi/1982/05/11/1981030412
+}}
+In game two, the Canucks led 4–3 after two periods, but the Islanders came back to win again.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | NYI
+|align=center | [[Billy Carroll]] (2) – ''sh''
+|align=center | [[Bob Bourne]] (7)
+|align=center | 15:55
+|align=center | 1–0 NYI
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | VAN
+|align=center | [[Thomas Gradin]] (9) – ''pp''
+|align=center | [[Lars Molin (ice hockey)|Lars Molin]] (8) and [[Curt Fraser]] (7)
+|align=center | 08:28
+|align=center | 1–1
+|-
+|align=center | VAN
+|align=center | [[Ivan Boldirev]] (8) – ''pp''
+|align=center | Lars Molin (9) and [[Doug Halward]] (4)
+|align=center | 13:12
+|align=center | 2–1 VAN
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (14) – ''pp''
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]] (11) and [[Denis Potvin]] (11)
+|align=center | 17:06
+|align=center | 2–2
+|-
+|align=center | VAN
+|align=center | [[Lars Lindgren]] (2)
+|align=center | Thomas Gradin (10)
+|align=center | 19:42
+|align=center | 3–2 VAN
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | NYI
+|align=center | [[Bob Bourne]] (9) – ''pp''
+|align=center | Stefan Persson (12) and Mike Bossy (10)
+|align=center | 00:32
+|align=center | 3–3
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]] (5)
+|align=center | [[Brent Sutter]] (5) and Denis Potvin (12)
+|align=center | 01:19
+|align=center | 4–3 NYI
+|-
+|align=center | VAN
+|align=center | [[Gerry Minor]] (1)
+|align=center | [[Tiger Williams]] (7)
+|align=center | 02:27
+|align=center | 4–4
+|-
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (6) – ''pp''
+|align=center | Tomas Jonsson (2) and Denis Potvin (13)
+|align=center | 07:18
+|align=center | 5–4 NYI
+|-
+|align=center | NYI
+|align=center | [[Bob Nystrom]] (4)
+|align=center | [[John Tonelli]] (10) and [[Wayne Merrick]] (6)
+|align=center | 07:18
+|align=center | 6–4 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="10"| '''1st'''
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Roughing
+|align=center | 04:09
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Roughing
+|align=center | 04:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Cross-checking
+|align=center | 05:16
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Tripping
+|align=center | 08:46
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Ron Delorme]]
+|align=center | Cross-checking
+|align=center | 11:27
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Lars Lindgren
+|align=center | Hooking
+|align=center | 12:45
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Tripping
+|align=center | 14:38
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Ivan Boldirev
+|align=center | Cross-checking
+|align=center | 16:35
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Interference
+|align=center | 18:48
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Curt Fraser
+|align=center | Hooking
+|align=center | 19:05
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="13"| '''2nd'''
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Slashing
+|align=center | 06:02
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Ron Delorme
+|align=center | Slashing
+|align=center | 06:02
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Hooking
+|align=center | 07:20
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | High-sticking
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | Interference
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]]
+|align=center | Slashing
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Curt Fraser
+|align=center | Charging
+|align=center | 16:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Tomas Jonsson
+|align=center | Hooking
+|align=center | 18:13
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Roughing
+|align=center | 18:49
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Misconduct
+|align=center | 18:49
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | Gord Lane
+|align=center | Roughing
+|align=center | 18:49
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Curt Fraser
+|align=center | Misconduct
+|align=center | 18:49
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | [[Stan Smyl]]
+|align=center | Roughing
+|align=center | 19:05
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''3rd'''
+|align=center | NYI
+|align=center | Bob Nystrom 
+|align=center | Cross-checking
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Billy Smith (ice hockey)|Billy Smith]]
+|align=center | Slashing
+|align=center | 04:37
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Roughing
+|align=center | 04:37
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Slashing
+|align=center | 04:37
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Misconduct
+|align=center | 08:15
+|align=center | 10:00
+|-
+|align=center | VAN
+|align=center | [[Harold Snepsts]]
+|align=center | Misconduct
+|align=center | 08:15
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | [[Clark Gillies]]
+|align=center | Roughing 
+|align=center | 11:17
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Billy Smith
+|align=center | Slashing
+|align=center | 11:35
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Interference
+|align=center | 11:35
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 6 || align=center | 14 || align=center | 10 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 15 || align=center | 9 || align=center | 12 || align=center | 36
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Vancouver Canucks
+|stadium1=[[Pacific Coliseum]]
+|date1       =May 13
+|score1      =3–0
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/nyi-vs-van/1982/05/13/1981030413
+}}
+The series then shifted to Vancouver, where the Canucks were boosted by a boisterous, towel-waving Vancouver crowd and had a great first period, but failed to score on Billy Smith, who was brilliant, making 23 saves for his first shutout of the postseason. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | [[Clark Gillies]] (8)
+|align=center | [[Brent Sutter]] (6) 
+|align=center | 02:56
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (15)
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]] (13) and [[Bryan Trottier]] (21)
+|align=center | 12:30
+|align=center | 2–0 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYI
+|align=center | [[Bob Nystrom]] (5) – ''en''
+|align=center | [[Butch Goring]] (5) and [[Denis Potvin]] (14)
+|align=center | 18:40
+|align=center | 3–0 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | High-sticking
+|align=center | 01:06
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Tiger Williams]]
+|align=center | High-sticking
+|align=center | 01:06
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Butch Goring
+|align=center | Unsportsmanlike conduct
+|align=center | 08:41
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Thomas Gradin]]
+|align=center | Holding
+|align=center | 09:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Hooking
+|align=center | 13:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Billy Carroll]]
+|align=center | Holding
+|align=center | 14:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]]
+|align=center | Holding
+|align=center | 17:37
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYI
+|align=center | [[Bryan Trottier]]
+|align=center | Slashing
+|align=center | 06:48
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tiger Williams
+|align=center | Slashing
+|align=center | 06:48
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Doug Halward]]
+|align=center | Holding
+|align=center | 10:29
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Ken Morrow]]
+|align=center | Interference
+|align=center | 12:41
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | NYI
+|align=center | [[Bob Bourne]]
+|align=center | Roughing
+|align=center | 00:12
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Jim Nill]]
+|align=center | High-sticking
+|align=center | 00:12
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Jim Nill
+|align=center | Roughing
+|align=center | 00:12
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Roughing
+|align=center | 04:06
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Harold Snepsts]]
+|align=center | Roughing
+|align=center | 04:06
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 9 || align=center | 18 || align=center | 5 || align=center | 32
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 8 || align=center | 8 || align=center | 7 || align=center | 23
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Vancouver Canucks
+|stadium1=[[Pacific Coliseum]]
+|date1       =May 16
+|score1      =3–1
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/nyi-vs-van/1982/05/16/1981030414
+}}
+The Islanders went on to win 3–0, and then completed the sweep with a 3–1 victory on May 16 to win their third straight Cup and first on the road. [[Mike Bossy]] scored seven goals in the four games, tying [[Jean Béliveau|Jean Beliveau]]'s record from {{scfy|1956}}, and won the [[Conn Smythe Trophy]].
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NYI
+|align=center | [[Butch Goring]] (6)
+|align=center | [[Denis Potvin]] (15)
+|align=center | 11:38
+|align=center | 1–0 NYI
+|-
+|align=center | VAN
+|align=center | [[Stan Smyl]] (9)
+|align=center | [[Gerry Minor]] (3) and [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]] (2)
+|align=center | 18:09
+|align=center | 1–1 
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | [[Mike Bossy]] (16) – ''pp''
+|align=center | Denis Potvin (16) and [[Bryan Trottier]] (22)
+|align=center | 05:00
+|align=center | 2–1 NYI
+|-
+|align=center | NYI
+|align=center | Mike Bossy (17) – ''pp''
+|align=center | Bryan Trottier (23) and [[Stefan Persson (ice hockey)|Stefan Persson]] (14)
+|align=center | 08:00
+|align=center | 3–1 NYI
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="9"| '''1st'''
+|align=center | VAN
+|align=center | Colin Campbell
+|align=center | Hooking
+|align=center | 02:29
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Clark Gillies]]
+|align=center | Hooking
+|align=center | 05:53
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Holding
+|align=center | 08:25
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Curt Fraser]]
+|align=center | Hooking
+|align=center | 09:31
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Slashing
+|align=center | 13:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Jim Nill]]
+|align=center | Slashing
+|align=center | 13:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Darcy Rota]]
+|align=center | Roughing
+|align=center | 15:40
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Nystrom]]
+|align=center | Boarding
+|align=center | 16:53
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Harold Snepsts]]
+|align=center | Elbowing
+|align=center | 16:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Holding
+|align=center | 02:29
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Darcy Rota
+|align=center | Cross-checking
+|align=center | 03:02
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Stan Smyl
+|align=center | High-sticking
+|align=center | 06:08
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Neil Belland]]
+|align=center | Tripping
+|align=center | 14:53
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 9 || align=center | 12 || align=center | 7 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 10 || align=center | 5 || align=center | 9 || align=center | 24
+|}
+
+==Broadcasting==
+The series aired on [[Hockey Night in Canada|CBC]] in Canada and on the [[NHL on USA|USA Network]] in the United States. However, USA's national coverage was blacked out in the New York area due to the local rights to Islanders games in that TV market, with [[MSG Plus|SportsChannel New York]] airing games one and two, and [[WWOR-TV|WOR]] televising games three and four.
+
+===Technical Difficulties===
+During the first period of the fourth game, WOR's broadcast experienced technical difficulties due to videotaping and editing issues causing an estimated 4 minutes and 30 seconds delay on their broadcast. The station placed a still of its [[station identification]] card with a text-insert reading "Please Stand By" on the center of the screen. After a minute of silence, music by [[Alan Hawkshaw]] began playing with a station announcer announcing "Please stand by, we're experiencing technical difficulties. As soon as they have been corrected, we shall return to our scheduled programs". This occurred before a commercial break.
+
+==Team rosters==
+
+===New York Islanders===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Roland | last = Melanson | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1960 | birthmonth = 6 | birthday = 28 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Moncton, New Brunswick]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Mike | last = McEwen | dab = Mike McEwen (ice hockey) | num = 2 | pos = D | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 8 | birthday = 10 | acq = [[1980-81 NHL season|1981]] | birthplace = [[Hornepayne, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Denis | last = Potvin | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 10 | birthday = 29 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Vanier, Ontario]] | cap = C | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Ken | last = Morrow | dab = | num = 6 | pos = D | nat = USA | s/g = R | birthyear = 1956 | birthmonth = 10 | birthday = 17 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Davison, Michigan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Stefan | last = Persson | dab = Stefan Persson (ice hockey) | num = 7 | pos = D | nat = Sweden | s/g = L | birthyear = 1954 | birthmonth = 12 | birthday = 22 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Bjurholm|Bjurholm, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Clark | last = Gillies | dab = | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 4 | birthday = 7 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Moose Jaw, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Wayne | last = Merrick | dab = | num = 11 | pos = C | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 23 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Sarnia, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Duane | last = Sutter | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1960 | birthmonth = 3 | birthday = 16 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Viking, Alberta]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Bob | last = Bourne | dab = | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 6 | birthday = 21 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Kindersley, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Greg | last = Gilbert | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1962 | birthmonth = 1 | birthday = 22 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Mississauga, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Bryan | last = Trottier | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 7 | birthday = 17 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Val Marie, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Brent | last = Sutter | dab = | num = 21 | pos = C | nat = Canada | s/g = R | birthyear = 1962 | birthmonth = 6 | birthday = 10 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Viking, Alberta]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Mike | last = Bossy | dab = | num = 22 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 1 | birthday = 22 | acq = [[1977 NHL Entry Draft|1977]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Bob | last = Nystrom | dab = | num = 23 | pos = RW | nat = Sweden | s/g = R | birthyear = 1952 | birthmonth = 10 | birthday = 10 | acq = [[1972 NHL Entry Draft|1972]] | birthplace = [[Stockholm, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Gord | last = Lane | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 3 | birthday = 31 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Brandon, Manitoba]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Billy | last = Carroll | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1959 | birthmonth = 1 | birthday = 19 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Dave | last = Langevin | dab = | num = 26 | pos = D | nat = USA | s/g = L | birthyear = 1954 | birthmonth = 5 | birthday = 15 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = John | last = Tonelli | dab = | num = 27 | pos = LW | nat = Canada | s/g = L | birthyear = 1957 | birthmonth = 3 | birthday = 23 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Anders | last = Kallur | dab = | num = 28 | pos = RW | nat = Sweden | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 6 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Ludvika|Ludvika, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Hector | last = Marini | dab = | num = 29 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 1 | birthday = 27 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Timmins, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Billy | last = Smith | dab = Billy Smith (ice hockey) | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 12 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Perth, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Butch | last = Goring | dab = | num = 91 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 22 | acq = [[1979-80 NHL season|1980]] | birthplace = [[St. Boniface, Manitoba]] | cap = | year = 1982 | month = 5 | day = 8}}
+|}
+
+===Vancouver Canucks===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Doug | last = Halward | dab = | num = 2 | pos = D | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 11 | birthday = 1 | acq = [[1980-81 NHL season|1981]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Garth | last = Butcher | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1963 | birthmonth = 1 | birthday = 8 | acq = [[1981 NHL Entry Draft|1981]] | birthplace = [[Regina, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Colin | last = Campbell | dab = Colin Campbell (ice hockey, born 1953) | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 1 | birthday = 28 | acq = [[1980-81 NHL season|1980]] | birthplace = [[London, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Andy | last = Schliebener | dab = | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1962 | birthmonth = 8 | birthday = 16 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Gary | last = Lupul | dab = | num = 7 | pos = C | nat = Canada | s/g = L | birthyear = 1959 | birthmonth = 4 | birthday = 20 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Powell River, British Columbia]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Jim | last = Nill | dab = | num = 8 | pos = RW | nat = Canada | s/g = R | birthyear = 1958 | birthmonth = 4 | birthday = 11 | acq = [[1981-82 NHL season|1982]] | birthplace = [[Hanna, Alberta]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Ivan | last = Boldirev | dab = | num = 9 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 8 | birthday = 15 | acq = [[1979-80 NHL season|1980]] | birthplace = [[Zrenjanin|Zrenjanin, Yugoslavia]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Anders | last = Eldebrink | dab = | num = 10 | pos = D | nat = Sweden | s/g = R | birthyear = 1960 | birthmonth = 12 | birthday = 11 | acq = [[1981-82 NHL season|1981]] | birthplace = [[Morjärv|Morjärv, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Stan | last = Smyl | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1958 | birthmonth = 1 | birthday = 28 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Glendon, Alberta]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Lars | last = Lindgren | dab = | num = 13 | pos = D | nat = Sweden | s/g = L | birthyear = 1952 | birthmonth = 10 | birthday = 13 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Piteå|Piteå, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Blair | last = MacDonald | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 11 | birthday = 17 | acq = [[1980-81 NHL season|1981]] | birthplace = [[Cornwall, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Neil | last = Belland | dab = | num = 15 | pos = D | nat = Canada | s/g = L | birthyear = 1961 | birthmonth = 4 | birthday = 3 | acq = [[1981-82 NHL season|1981]] | birthplace = [[Parry Sound, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Per-Olov | last = Brasar | dab = | num = 16 | pos = LW | nat = Sweden | s/g = L | birthyear = 1950 | birthmonth = 9 | birthday = 30 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Falun|Falun, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Tony | last = Currie | dab = Tony Currie (ice hockey) | num = 17 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 11 | birthday = 12 | acq = [[1981-82 NHL season|1982]] | birthplace = [[Sydney Mines, Nova Scotia]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Darcy | last = Rota | dab = | num = 18 | pos = LW | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 2 | birthday = 16 | acq = [[1979-80 NHL season|1980]] | birthplace = [[Vancouver, British Columbia]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Ron | last = Delorme | dab = | num = 19 | pos = RW | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 9 | birthday = 3 | acq = [[1981-82 NHL season|1981]] | birthplace = [[North Battleford, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Gerry | last = Minor | dab = | num = 20 | pos = C | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 10 | birthday = 27 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Regina, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Ivan | last = Hlinka | dab = | num = 21 | pos = C | nat = Czechoslovakia | s/g = L | birthyear = 1950 | birthmonth = 1 | birthday = 26 | acq = [[1981-82 NHL season|1981]] | birthplace = [[Most (city)|Most, Czechoslovakia]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Tiger | last = Williams | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 2 | birthday = 3 | acq = [[1979-80 NHL season|1980]] | birthplace = [[Weyburn, Saskatchewan]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Thomas | last = Gradin | dab = | num = 23 | pos = C | nat = Sweden | s/g = L | birthyear = 1956 | birthmonth = 2 | birthday = 18 | acq = [[1979-80 NHL season|1980]] | birthplace = [[Sollefteå|Sollefteå, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Curt | last = Fraser | dab = | num = 24 | pos = LW | nat = United States | s/g = L | birthyear = 1958 | birthmonth = 1 | birthday = 12 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Cincinnati, Ohio]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Kevin | last = McCarthy | dab = Kevin McCarthy (ice hockey) | num = 25 | pos = D | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 7 | birthday = 14 | acq = [[1978-79 NHL season|1979]] | birthplace = [[Winnipeg, Manitoba]] | cap = C | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Lars | last = Molin | dab = Lars Molin (ice hockey) | num = 26 | pos = LW | nat = Sweden | s/g = L | birthyear = 1956 | birthmonth = 5 | birthday = 7 | acq = [[1981-82 NHL season|1981]] | birthplace = [[Örnsköldsvik|Örnsköldsvik, Sweden]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Harold | last = Snepsts | dab = | num = 27 | pos = D | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 10 | birthday = 24 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Marc | last = Crawford | dab = | num = 28 | pos = LW | nat = Canada | s/g = L | birthyear = 1961 | birthmonth = 2 | birthday = 13 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Belleville, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first= Rick | last = Heinz | dab = | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 5 | birthday = 30 | acq = [[1981-82 NHL season|1982]] | birthplace = [[Essex, Ontario]] | cap = | year = 1982 | month = 5 | day = 8}}
+{{Ice hockey team player
+| first = Richard | last = Brodeur | dab = | num = 35 | pos = G | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 9 | birthday = 15 | acq = [[1980-81 NHL season|1980]] | birthplace = [[Longueuil, Quebec]] | cap = | year = 1982 | month = 5 | day = 8}}
+|}
+
+'''Note:''' ''[[Stan Smyl]] served as the Canucks acting team captain during the [[1982 Stanley Cup playoffs]]. [[Kevin McCarthy (ice hockey)|Kevin McCarthy]] was injured late in the season and did not play in the playoffs and is listed as the official team captain.''
+
+==Stanley Cup engraving==
+The 1982 Stanley Cup was presented to Islanders captain Denis Potvin by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Islanders 3–1 win over the Canucks in game four.
+
+The following Islanders players and staff had their names engraved on the Stanley Cup.
+
+'''1981–82 New York Islanders'''
+{{Stanley Cup champion
+|centres=*14 [[Bob Bourne]]
+*19 [[Bryan Trottier]]
+*21 [[Brent Sutter]]
+*25 [[Billy Carroll]]*
+*91 [[Butch Goring]]
+|defence=*5 [[Denis Potvin]] (Captain)
+*2 [[Mike McEwen (ice hockey)|Mike McEwen]]
+*3 [[Tomas Jonsson]]
+*6 [[Ken Morrow]]
+*7 [[Stefan Persson (ice hockey)|Stefan Persson]]
+*24 [[Gord Lane]]
+*26 [[Dave Langevin]]
+|goaltenders=*1 [[Roland Melanson]]
+*31 [[Billy Smith (ice hockey)|Billy Smith]]
+|wingers=*9 [[Clark Gillies]]
+*11 [[Wayne Merrick]]
+*12 [[Duane Sutter]]
+*17 [[Greg Gilbert]] †
+*22 [[Mike Bossy]]
+*23 [[Bob Nystrom]]
+*27 [[John Tonelli]]
+*28 [[Anders Kallur]]
+*29 [[Hector Marini]] †
+|player-notes=
+* * Played both centre and wing.
+* † Did not play in the Final. Name engraved on Stanley Cup despite not officially qualifying.{{ref|A|[A]}}
+|non-players=
+*[[John Pickett (businessman)|John Pickett]] (Chairman/Owner)
+*[[Bill Torrey]] (President/General Manager)
+*[[Jim Devellano]] (Asst. General Manager/Director of Scouting)
+*[[Al Arbour]] (Head Coach), Lorne Henning (Asst. Coach)
+*[[Gerry Ehman]] (Head Scout)
+*Ron Waske (Trainer), Jim Pickard (Asst. Trainer)
+|engraving-notes=
+* <sup>{{note|A|[A]}}</sup> Two players who did not play in the Final did not officially qualify, but still had their names engraved on the Stanley Cup.
+** #17 Greg Gilbert (LW) – played 1 regular season and 4 playoff games
+** #29 Hector Marini (RW) – played 30 regular season games and 0 playoff games
+* Harry Boyd, Mario Saraceno (Scouts) were included on the Stanley Cup in 1980, 1981. They were still part of the 1982, 1983 New York Islanders, but names were not put on the cup those years.
+}}
+
+==Aftermath==
+The Islanders successfully returned to the Final the [[1983 Stanley Cup Final|following year]]. This time, they played the [[Edmonton Oilers]] and swept them to capture their fourth consecutive Stanley Cup championship.
+
+The Canucks, however, lost in the first round to the [[Calgary Flames]], 3–1. The Canucks would not return to the Stanley Cup Final until [[1994 Stanley Cup Final|1994]], when they were defeated by the Islanders’ crosstown rivals, the [[New York Rangers]], in seven games. The Canucks would also return to the Cup Final in [[2011 Stanley Cup Final|2011]], but they lost to the [[Boston Bruins]], also in seven games after blowing a two games to none series lead. Both of these Cup Final losses would result in [[1994 Vancouver Stanley Cup riot|riots]], with the most famous one being the [[2011 Vancouver Stanley Cup riot|latter]]. 
+
+==See also==
+* [[List of Stanley Cup champions]]
+* [[1981–82 NHL season]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book|title=Total Stanley Cup|year=2000|publisher=Dan Diamond & Associates, Inc. |last=Diamond |first=Dan}}
+*{{cite book |title=Total Stanley Cup |year=2008 |publisher=Dan Diamond & Associates, Inc. |last=Diamond |first=Dan |url=http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |access-date=2009-03-23 |archive-url=https://web.archive.org/web/20090326001907/http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |archive-date=2009-03-26 |url-status=dead }}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box | before = [[1981 Stanley Cup Final|New York Islanders<br>1981]] | title = [[List of Stanley Cup champions|New York Islanders<br>Stanley Cup champions]] | years = 1982 | after = [[1983 Stanley Cup Final|New York Islanders<br>1983]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New York Islanders}}
+{{Vancouver Canucks}}
+{{1981–82 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on USA}}
+}}
+
+[[Category:1982 Stanley Cup| ]]
+[[Category:1981–82 NHL season|Stanley]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Islanders games]]
+[[Category:Vancouver Canucks games]]
+[[Category:May 1982 sports events in North America]]
+[[Category:Ice hockey competitions in Vancouver]]
+[[Category:Ice hockey competitions in New York (state)]]
+[[Category:1982 in sports in New York (state)]]
+[[Category:1982 in British Columbia]]
+[[Category:1980s in Vancouver]]

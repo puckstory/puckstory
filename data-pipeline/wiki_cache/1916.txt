@@ -1,0 +1,172 @@
+{{Short description|1916 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{no footnotes|date=March 2021}}
+{{Infobox Stanley Cup Final
+|year=1916
+|dates=March 20–30, 1916
+|team1='''[[1915–16 Montreal Canadiens season|Montreal Canadiens]]''' (NHA)
+|team1_short=Montreal
+|team1_coach=[[Newsy Lalonde]]
+|series_winner=[[George Prodger|Goldie Prodger]] (17:20, third)
+|team2=[[Portland Rosebuds (hockey)|Portland Rosebuds]] (PCHA)
+|team2_short=Portland
+|team2_coach=Edward Savage (mgr.)
+|format=best-of-five
+|team1_1=0
+|team1_2='''2'''
+|team1_3='''6'''
+|team1_4=5
+|team1_5='''2'''
+|team1_tot=3
+|team2_1='''2'''
+|team2_2=1
+|team2_3=3
+|team2_4='''6'''
+|team2_5=1
+|team2_tot=2
+|location1=[[Montreal]]: [[Montreal Arena]]
+|referees = [[Harvey Pulford]], J. Brennan
+|hofers='''Canadiens:'''<br/>[[Newsy Lalonde]] (1950)<br/>[[Jack Laviolette]] (1963)<br/>[[Didier Pitre]] (1963)<br/>[[Georges Vézina|Georges Vezina]] (1945)<br/>'''Rosebuds:'''<br/>[[Tommy Dunderdale]] (1974)<br/>[[Moose Johnson]] (1952)<br/>'''Coaches:'''<br/>Newsy Lalonde (1950, player)
+}}
+The '''1916 Stanley Cup Final''' was played between the [[National Hockey Association]] (NHA) champion [[1915–16 Montreal Canadiens season|Montreal Canadiens]] and the [[Pacific Coast Hockey Association]] (PCHA) champion [[Portland Rosebuds (hockey)|Portland Rosebuds]]. This was the first time that a best-of-five Cup championship went the distance. Also, the Rosebuds were the first team based in the [[United States]] to play for the Cup.  Stanley Cup trustees ruled before the Stanley Cup Final that the Stanley Cup as the World professional hockey championship can not be limited to just Canadian teams. The Canadiens defeated the Rosebuds three games to two in the best-of-five-game series. This was the Canadiens' first Stanley Cup championship.
+
+==Paths to the Final==
+{{Main|1915–16 NHA season|1915–16 PCHA season}}
+
+Montreal won the NHA title after finishing the [[1915–16 NHA season|1915–16 regular season]] in first place with a 16–7–1 record. Meanwhile, Portland clinched the [[1915–16 PCHA season|1915–16 PCHA title]] with a 13–5 record.
+
+==Game summaries==
+The games of the series were played at Montreal's [[Montreal Arena]] as it was the turn of the NHA champions to host the series. Games one, three and five were played under NHA rules; Games two and four were played under PCHA rules. [[Ernest Johnson (ice hockey)|Ernie Johnson]]'s share of series revenues was by court order to be paid to the [[Montreal Wanderers]], whom he had left while under contract to go to the PCHA. For the entire series, future [[Hockey Hall of Fame]] goaltender [[Georges Vézina|Georges Vezina]] aided Montreal by posting a 2.60 goals-against average. [[Didier Pitre]] led the Canadiens in scoring with 4 goals.
+
+Montreal Canadiens NHA champions Roster - Georges Veznia goalie, Howard McNamara (Captain) point, Bert Corbeau cover point, Didier Pitre center-rover, Edouard "Newsy" Lalonde (Playing-Coach) center, George "Goldie" Prodgers right wing-left wing, Jack Laviolettte left wing, Amous Arbour left wing, Louis Berlinguette left wing, Georges "Skinner" Poulin center, Eskene “Skene” Ronan center right wing, spare Jack Fournier right wing-left wing - U.P. Boudier (President), George "Kennedy", Kendall (Manager-owner).
+
+Portland Rosebuds PCAH champions Roster - Tommy Murray goalie, Del Irvine point, Ernie "Moose" Johnson cover point, Fred "Smokey" Harris rover-left wing, Tommy Dunderdale center, Eddie Oatman right wing, [[Charles Tobin]] left wing-right wing, Charlie Uksilla left wing, Alf Barbour center, C.D. Doherty (President), Edward Savage (Manager-Coach).
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Portland Rosebuds
+ |stadium1 = [[Montreal Arena]]
+ |date1 = March 20
+ |score1 = 0–2
+ |won1 = 2
+}}
+Portland arrived by train the day before the game but showed no weariness, recording a shutout despite game one being played under Eastern Rules (6 a side). It was noted that Portland's speedy backchecking limited Montreal to only 6 chances.
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Portland Rosebuds 
+ |stadium1 = [[Montreal Arena]]
+ |date1 = March 22
+ |score1 = 2–1
+ |won1 = 1
+}}
+Despite missing [[Newsy Lalonde]] (bad cold) and [[Jack Laviolette]] (broken jaw), Montreal behind some heavy checking defeated Portland 2–1 to tie the series under Western PCHA rules (7 a side).
+
+===Game three===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Portland Rosebuds 
+ |stadium1 = [[Montreal Arena]]
+ |date1 = March 25
+ |score1 = 6–3
+ |won1 = 1
+}}
+Lalonde and Laviolette played in game three. Lalonde got into a fight with [[Ernest Johnson (ice hockey)|Ernie Johnson]], requiring the police to break up the fight. Lalonde and Laviolette were ejected for the game and [[Eddie Oatman]] received a major penalty. Pitre was the scoring star, scoring three goals to lead the Canadiens to a 6–3 victory. Eastern rules were used.
+
+===Game four===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Portland Rosebuds
+ |stadium1 = [[Montreal Arena]]
+ |date1 = March 28
+ |score1 = 5–6
+ |won1 = 2
+}}
+The Rosebuds then evened the series with a 6–5 victory in game four. The Rosebuds took a 3–0 lead, only to see the Canadiens tie it and take a 4–3 lead. In the third period Portland's [[Smokey Harris|Fred Harris]] scored twice and [[Charlie Uksilla]] scored once to take a 6–4 lead until the last minute when Lalonde scored to make it closer. Western rules were used.
+
+===Game five===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Portland Rosebuds
+ |stadium1 = [[Montreal Arena]]
+ |date1 = March 30
+ |score1 = 2–1
+ |won1 = 1
+}}
+In game five, Portland's [[Tommy Dunderdale]] gave his team a 1–0 lead before [[Skene Ronan]] tied the game. The seldom-used [[George Prodgers]] then scored the game and series-winning goal to clinch the Cup for the Canadiens. Eastern rules were used.
+
+==Stanley Cup engraving==
+The 1916 Stanley Cup was presented by the trophy's trustee [[William Foran]] to the Montreal Canadiens.
+
+The following Canadiens players and staff were members of the Stanley Cup winning team.
+
+'''1915–16 Montreal Canadiens'''
+
+{{Stanley Cup champion
+|centres=*4 Edouard [[Newsy Lalonde]]‡ (coach)
+*5 [[Didier Pitre]]‡
+*6 George [[Skinner Poulin]]
+*12 [[Skene Ronan]]^
+|wingers=*11 [[Amos Arbour]]
+*9 [[Louis Berlinguette]]
+*10 [[Jack Fournier (ice hockey)|Jack Fournier]]
+*7 [[Jack Laviolette]]
+|defence=*2 [[Bert Corbeau]]
+*3 [[Howard McNamara]] (captain)
+*8 [[George Prodgers|George "Goldie" Prodgers]]
+|goaltenders=*1 [[Georges Vézina|Georges Vezina]]
+|player-notes=‡ also played rover in the Stanley Cup Final
+|-Also played wing
+|non-players=
+*U. P. Boucher* (President)
+*[[George Kennedy (sports promoter)|George Kennedy (Owner/Manager/Treasurer)]]
+*[[Napoléon Dorval|Napoléon Dorval]] (Secretary)
+*S. Newsworthy* (Trainer), Aldrie Guiment (Ass't Trainer).
+|engraving-notes=
+
+Although the Rosebuds did not win the series, the Rosebuds had the words "Portland Ore./PCHA Champions/1915–16" engraved on the Cup after obtaining the trophy from the [[1915 Stanley Cup Final|previous year's champions]], the [[Vancouver Millionaires]]. This was consistent with the practice at the time that the trophy was passed on to the winner of the league championship of the previous Cup champion's league. Portland is thus the only city not to win the Cup outright to be listed as champions on the Stanley Cup.
+
+After the series, "Canadian/NHA & World's Champions/Defeated Portland/1915–16" was added to the Cup (Note that the [[Anglicization | anglicized]], singular form of "Canadiens" was engraved).
+* *-one non-player's first name is missing. U.P. Boulder's President's last is often mispelt U.P Boucher.
+}}
+
+==References==
+*{{cite book |title=The Trail of the Stanley Cup, vol.1 1893–1926 inc. |last=Coleman |first=Charles L. |year=1966 |publisher=National Hockey League |pages=299–304}}
+*{{cite web | url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1915-16 | title=1915–16 Stanley Cup Winner: Montreal Canadiens | publisher=[[Hockey Hall of Fame]] | access-date=2011-12-21}}
+*{{cite web | url=http://www.hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm | title=hockeyleaguehistory.com – Pacific Coast Hockey Association | access-date=2011-12-21}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame |author2-link=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 48}}
+*{{cite book | editor=Dan Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=46–47}}
+
+==See also==
+* [[1915–16 Montreal Canadiens season]]
+* [[1915–16 NHA season]]
+* [[1915–16 PCHA season]]
+* [[List of Stanley Cup champions]]
+
+{{s-start}}
+{{succession box |
+  before = [[1915 Stanley Cup Final|Vancouver Millionaires<br>1915]] |
+  after = [[1917 Stanley Cup Final|Seattle Metropolitans<br>1917]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1916|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{1915–16 NHA season by team}}
+{{Montreal Canadiens}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1915–16 in Canadian ice hockey|Stan]]
+[[Category:1915–16 in American ice hockey|Stan]]
+[[Category:1915–16 PCHA season|Stan]]
+[[Category:1915–16 NHA season|Stan]]
+[[Category:Montreal Canadiens games]]
+[[Category:Portland Rosebuds (ice hockey)|Stan]]
+[[Category:March 1916 sports events in Canada]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1910s in Montreal]]
+[[Category:1916 in Quebec]]

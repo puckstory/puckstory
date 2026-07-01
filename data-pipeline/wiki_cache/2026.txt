@@ -1,0 +1,1552 @@
+{{Short description|2026 ice hockey championship series}}
+{{Use mdy dates|date=March 2026}}
+{{Infobox Stanley Cup Final
+| year = 2026
+| image = 2026 Stanley Cup Finals logo.png
+| team1 = [[2025–26 Vegas Golden Knights season|Vegas Golden Knights]]
+| team2 = '''[[2025–26 Carolina Hurricanes season|Carolina Hurricanes]]'''
+| team1_1 = '''5'''
+| team2_1 = 4
+| team1_2 = 3*
+| team2_2 = '''4'''*
+| team1_3 = '''5'''**
+| team2_3 = 4**
+| team1_4 = 3
+| team2_4 = '''5'''
+| team1_5 = 2
+| team2_5 = '''4'''
+| team1_6 = 0
+| team2_6 = '''3'''
+| team1_tot =2
+| team2_tot =4
+| location1 = [[Paradise, Nevada|Paradise]]: [[T-Mobile Arena]]
+| location2 = [[Raleigh, North Carolina|Raleigh]]: [[Lenovo Center]]
+| team1_coach = [[John Tortorella]]
+| team2_coach = [[Rod Brind'Amour]]
+| team1_short = Vegas
+| team2_short = Carolina
+| team1_captain = [[Mark Stone]]
+| team2_captain = [[Jordan Staal]]
+| team1_national_anthem = Carnell Johnson
+| team2_national_anthem = Adam Lee Decker and Mason Greer
+| table-note = {{asterisk}} – Denotes overtime period(s)
+| referees = 
+| dates = June 2–14, 2026
+| mvp = [[Jordan Staal]] (Hurricanes)
+| series_winner = [[Taylor Hall]] (3:47, first)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]/[[Sportsnet+]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ABC|ABC]]/[[ESPN app]]
+| net_announcers = (CBC/SN) [[Chris Cuthbert]] and [[Craig Simpson]]<br> (ABC) [[Sean McDonough]] and [[Ray Ferraro]]<br> (TVA) [[Félix Séguin]] and [[Patrick Lalime]]
+}}
+The '''2026 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] for the [[National Hockey League]]'s (NHL) [[2025–26 NHL season|2025–26 season]] and the culmination of the [[2026 Stanley Cup playoffs]] between the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2025–26 Carolina Hurricanes season|Carolina Hurricanes]] and the [[Western Conference (NHL)|Western Conference]] champion [[2025–26 Vegas Golden Knights season|Vegas Golden Knights]]. The series began on June 2 and ended on June 14, with the Hurricanes defeating the Golden Knights four games to two, winning their second [[Stanley Cup]] championship and first since [[2006 Stanley Cup Final|2006]].
+
+Carolina had [[home ice advantage]] in the series due to having a better regular season record. This was the first Final since {{scfy|2019}} to not feature a team from the state of [[Florida]], as the two-time defending champion [[Florida Panthers]] failed to qualify for the playoffs, and the [[Tampa Bay Lightning]] were eliminated by the [[Montreal Canadiens]] in the first round.<ref>{{cite web |last1=Long |first1=Corey |title=Lightning lose East 1st Round to Canadiens, Dobes' goaltending among factors |website=NHL.com |url=https://www.nhl.com/news/why-tampa-bay-lightning-are-eliminated-from-2025-2026-postseason |date=May 4, 2026 |access-date=June 21, 2026}}</ref>
+
+==Paths to the Final==
+
+===Carolina Hurricanes===
+{{Main|2025–26 Carolina Hurricanes season}}
+This was the third Stanley Cup Final for Carolina. Their first appearance in [[2002 Stanley Cup Final|2002]] was a loss to the [[Detroit Red Wings]] in five games. They won the Stanley Cup during their second appearance in {{scfy|2006}}, where they defeated the [[Edmonton Oilers]] in seven games.<ref>{{cite web|url=https://www.npr.org/2006/06/20/5497528/carolina-hurricanes-capture-stanley-cup|title=Carolina Hurricanes Capture Stanley Cup|last=Hochberg|first=Adam|date=June 20, 2006|website=NPR.org|access-date=May 29, 2026}}</ref>
+
+During the offseason, Carolina traded [[Scott Morrow (ice hockey, born 2002)|Scott Morrow]] and two picks to the [[New York Rangers]] for defenceman [[K'Andre Miller]].<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/45635465/rangers-trade-kandre-miller-rival-hurricanes|title=New York Rangers trade K'Andre Miller to Carolina Hurricanes|last=Kaplan|first=Emily|date=July 1, 2025|website=ESPN.com|access-date=May 29, 2026}}</ref> They also picked up forward [[Nikolaj Ehlers]] in free agency.<ref>{{cite news|url=https://www.nytimes.com/athletic/7303916/2026/05/24/hurricanes-canadiens-nikolaj-ehlers-nhl-playoffs/|title=Nikolaj Ehlers is rewriting his career playoff narrative with the Hurricanes|last=Mirtle|first=James|date=May 24, 2026|newspaper=May 29, 2026|access-date=May 29, 2026}}</ref> Finally, they re-signed [[Logan Stankoven]] and [[Jackson Blake]] each to eight-year contracts.<ref>{{cite web|url=https://www.wral.com/sports/archive/22071443/|title=Hurricanes sign Logan Stankoven to eight-year contract extension|last=Fernandez|first=Louis|date=July 1, 2025|website=WRAL.com|access-date=May 29, 2026}}</ref><ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/45818950/hurricanes-lock-jackson-blake-8-year-45-million-deal|title=Hurricanes lock in Jackson Blake with 8-year, $45 million deal|via=Associated Press|date=July 24, 2025|website=ESPN.com|access-date=May 29, 2026}}</ref> Prior to the start of the season, they picked up goaltender [[Brandon Bussi]] on waivers from the [[Florida Panthers]], signing him to a three-year contract later in the season.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/47950322/hurricanes-sign-brandon-bussi-3-year-57m-extension|title=Hurricanes sign Brandon Bussi to 3-year, $5.7M extension|via=Associated Press|date=February 16, 2026|website=ESPN.com|access-date=May 29, 2026}}</ref> [[Sebastian Aho]] led the team in scoring with 80 points.<ref>{{cite web|url=https://www.nhl.com/news/carolina-top-line-of-aho-jarvis-svechnikov-renewed-force-in-nhl-east-final|title=Hurricanes top line a renewed force against Canadiens in Eastern Final|last=Benjamin|first=Amalie|date=May 29, 2026|website=NHL.com|access-date=May 29, 2026}}</ref>
+
+The Hurricanes finished first in the [[Metropolitan Division (NHL)|Metropolitan Division]] and [[Eastern Conference (NHL)|Eastern Conference]] with 113 points via a {{win-loss record|w=53|l=22|otl=7}} record. In the playoffs, the Hurricanes completed back-to-back four-game sweeps against the [[Ottawa Senators]] and [[Philadelphia Flyers]] in the first and second rounds.<ref>{{cite news|url=https://www.ninertimes.com/sports/hurricanes-open-the-playoffs-with-back-to-back-sweeps/article_be2cd95f-c6de-4908-9198-3622f00214f0.html|title=Hurricanes open the playoffs with back-to-back sweeps|last=Sullivan|first=PJ|date=May 14, 2026|newspaper=Niner Times|access-date=May 29, 2026}}</ref> In their second consecutive Eastern Conference final, they defeated the [[Montreal Canadiens]] in five games. The Hurricanes entered the Final with one loss in the postseason, the fewest since the [[1975–76 Montreal Canadiens season|1975–76 Montreal Canadiens]].<ref>{{cite news|url=https://nsjonline.com/article/2026/05/hurricanes-finish-off-canadiens-advance-to-stanley-cup-final-with-6-1-win/|title=Hurricanes finish off Canadiens, advance to Stanley Cup final with 6–1 win|date=May 30, 2026|newspaper=North State Journal|access-date=May 29, 2026}}</ref>
+
+===Vegas Golden Knights===
+{{Main|2025–26 Vegas Golden Knights season}}
+This was the third Stanley Cup Final appearance for the Golden Knights. Their first appearance came during their inaugural season in [[2018 Stanley Cup Final|2018]], in which they lost to the [[Washington Capitals]] in five games.<ref>{{cite web |title=Capitals finish off Golden Knights in Game 5 to win Stanley Cup |url=https://www.sportsnet.ca/hockey/nhl/capitals-finish-off-golden-knights-game-5-win-stanley-cup/ |website=Sportsnet |publisher=Canadian Press |date=June 7, 2018 |access-date=June 21, 2026}}</ref> Their only Stanley Cup victory came in {{scfy|2023}}, where they defeated the [[Florida Panthers]] in five games.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/37846283/vegas-golden-knights-stanley-cup-champion-disruption-misfits-2023|title=How Golden Knights disrupted the NHL, won the Stanley Cup|last=Wyshynski|first=Greg|date=May 25, 2026|website=ESPN.com|access-date=May 25, 2026}}</ref>
+
+During the offseason, the Golden Knights traded for defenceman [[Jérémy Lauzon]] and forward [[Colton Sissons]] from the [[Nashville Predators]].<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/45612849/golden-knights-deal-nicolas-hague-predators|title=Golden Knights deal Hague to Predators for Lauzon, Sissons|last=Wyshnyski|first=Greg|date=June 30, 2025|website=NHL.com|access-date=May 25, 2026}}</ref> They also acquired forward [[Mitch Marner]] from the [[Toronto Maple Leafs]], who was signed to an eight-year contract prior to his trade.<ref>{{cite web|url=https://apnews.com/article/mitch-marner-golden-knights-contract-e8f9aa4725812b29818c007dada6052b|title=All-Star winger Mitch Marner looks forward to fitting into family culture of Vegas Golden Knights|last=Ramirez|first=W. G.|date=July 1, 2025|website=APNews.com|access-date=May 25, 2026}}</ref> After three seasons away from the Golden Knights, including two with Carolina, defenseman [[Dylan Coghlan]] returned for a second stint on a one-year contract.<ref>{{cite web |url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-roster-transactions-x3533 |title=Vegas Golden Knights Announce Roster Transactions |website=NHL.com |date=July 1, 2025 |access-date=July 1, 2025}}</ref> They additionally re-signed forwards [[Brandon Saad]] and [[Reilly Smith]] to one-year contracts.<ref>{{cite web|url=https://www.nhl.com/news/reilly-smith-brandon-saad-sign-1-year-contract-with-vegas-golden-knights|title=Smith, Saad each signs 1-year, $2 million contract to remain with Golden Knights|date=July 1, 2025|website=NHL.com|access-date=May 25, 2026}}</ref> Forward [[Jack Eichel]] was then signed to an eight-year extension closer to the start of the season.<ref>{{cite web|url=https://www.cbssports.com/nhl/news/jack-eichel-contract-extension-golden-knights-star-to-remain-in-vegas-on-eight-year-deal-topping-100-million/|title=Jack Eichel contract extension: Golden Knights star to remain in Vegas on eight-year deal topping $100 million|last=Nivison|first=Austin|date=October 8, 2025|website=CBSSports.com|access-date=May 25, 2026}}</ref> At the start of the season, they signed free agent goaltender [[Carter Hart]], who had been acquitted of his charges in the [[Hockey Canada sexual assault scandal]].<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/46712707/carter-hart-golden-knights-sign-2-year-4-million-contract|title=Golden Knights sign goalie Hart to 2-year, $4 million contract|via=Associated Press|date=October 24, 2025|website=ESPN.com|access-date=May 25, 2026}}</ref> During the season, the team traded for defenceman [[Rasmus Andersson]] from the [[Calgary Flames]].<ref>{{cite web|url=https://www.tsn.ca/nhl/article/flames-sending-andersson-to-golden-knights/|title=Flames send Andersson to Golden Knights for package including Whitecloud, two draft picks|via=The Associated Press|date=January 18, 2026|website=TSN.ca|access-date=May 25, 2026}}</ref> At the trade deadline, they acquired forwards [[Cole Smith (ice hockey)|Cole Smith]] and [[Nic Dowd]] from the Predators and [[Washington Capitals]], respectively.<ref>{{cite web|url=https://www.ktnv.com/sports/golden-knights/vegas-golden-knights-acquire-cole-smith-from-nashville|title=Vegas Golden Knights acquire Cole Smith from Nashville|last=Rocha|first=Taylor|date=March 4, 2026|website=KTNV.com|access-date=May 25, 2026}}</ref><ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/48111986/golden-knights-trade-long-capitals-c-nic-dowd|title=Golden Knights trade for longtime Capitals C Nic Dowd|last=Clark|first=Ryan S.|date=March 5, 2026|website=ESPN.com|access-date=May 25, 2026}}</ref> On March 29, they fired head coach [[Bruce Cassidy]] with eight games remaining in the season, replacing him with [[John Tortorella]].<ref>{{cite web|url=https://sports.yahoo.com/articles/vegas-golden-knights-fire-coach-223346699.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAI6YgTbt4TPtWse2AxLMsidGIv7OWHA99SHDQVi9G9VVMIU4Y4Y-6ob3_ikzUokfxC7rOawELwKP1hMXIGntCQWk7yMXFV_BuxBHHTAt2v5FHwR0Xf8leZlJUupOOpOoB1So2_RNzcfnAuV5NubV6NWWRUTpQI8Q946aYs5W7xGD|title=Vegas Golden Knights fire coach Bruce Cassidy, hire John Tortorella|last=Powell|first=James|via=USA Today|date=March 29, 2026|website=Sports.Yahoo.com|access-date=May 25, 2026}}</ref> Jack Eichel led the team in scoring with 90 points.<ref>{{cite web|url=https://www.cbssports.com/fantasy/hockey/news/golden-knights-jack-eichel-reaches-90-point-mark/|title=Golden Knights' Jack Eichel: Reaches 90-point mark|date=April 16, 2026|website=CBSSports.com|access-date=May 25, 2026}}</ref>
+
+The Golden Knights finished first in the [[Pacific Division (NHL)|Pacific Division]] with 95 points via a {{win-loss record|w=39|l=26|otl=17}} record. In the playoffs, they defeated the [[Utah Mammoth]] in six games in the first round.<ref>{{cite web |url=https://www.espn.com/nhl/story/_/id/48653076/golden-knights-eliminate-mammoth-game-6-win-face-ducks-next |title=Golden Knights eliminate Mammoth with Game 6 win |website=ESPN.com |agency=[[Associated Press]] |date=May 2, 2026 |access-date=May 28, 2026}}</ref> They then defeated the [[Anaheim Ducks]] in six games in the second round to reach their fifth Western Conference final in nine seasons.<ref>{{cite news|url=https://www.nytimes.com/athletic/7281294/2026/05/15/golden-knights-western-conference-final-ducks/|title=Golden Knights roll Ducks to reach Western Conference final again: The 'swagger' is back|last=Granger|first=Jesse|date=May 15, 2026|newspaper=The New York Times|access-date=May 25, 2026}}</ref> In the Western Conference final, they defeated the [[Presidents' Trophy]]-winning [[Colorado Avalanche]] in a four game-sweep.<ref>{{cite web |last=Sarles |first=Jesse |url=https://www.cbsnews.com/colorado/news/colorado-avalanche-swept-vegas-golden-knights/ |title=Colorado Avalanche get swept by Vegas Golden Knights in Western Conference final |publisher=[[CBS News]] |date=May 27, 2026 |access-date=May 27, 2026}}</ref>
+
+==Game summaries==
+:''Note: The numbers in parentheses represent each player's total goals or assists to that point of the entire playoffs.''
+	
+===Game one===
+{{NHLPlayoffs
+|date1=June 2
+|team1=Carolina Hurricanes
+|team2=Vegas Golden Knights
+|homeright=yes
+|stadium1=[[Lenovo Center]]
+|score1=5–4
+|won1=2
+|recap1=www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-1-recap-june-2-2026
+}}
+[[File:Brayden McNabb 2018-02-06 1.jpg|right|thumb|200px|[[Brayden McNabb]] recorded three assists in game 1.]]
+In game one, forward [[Nikolaj Ehlers]] began the scoring for Carolina in the first period, with the first shot for the Hurricanes giving them a 1–0 lead. Ehlers then gave Carolina a 2–0 lead, scoring five-hole on goaltender [[Carter Hart]] on a breakaway.<ref name="video">{{cite web|url=https://www.espn.com/nhl/video/_/gameId/401874171|title=Golden Knights vs. Hurricanes (Jun 2, 2026) Video Highlights|date=June 2, 2026|website=ESPN.com|access-date=June 2, 2026}}</ref> [[Shea Theodore]] cut Carolina's lead in half as he fired a wrist shot past the defencemen and goaltender [[Frederik Andersen]].<ref name="video"/> In the second period, [[Ivan Barbashev]] scored to tie the game 2–2. After a offensive-zone faceoff, [[Mitch Marner]] made a pass to [[William Karlsson]] who scored, giving Vegas a 3–2 lead. Carolina captain [[Jordan Staal]] later tied the game 3–3, firing a wrist shot past Hart.<ref name="video"/> In the third period, the Golden Knights regained the lead with Howden's tip-in goal.<ref name="video"/> [[Shayne Gostisbehere]] tied the game 4–4 for the Hurricanes as a controversial icing call gave them an offensive zone faceoff, and as the Golden Knights attempted to tip the puck away, Gostibehere picked up the loose puck and scored.<ref name="video"/> With 3:24 left in the game [[Tomáš Hertl]] scored to give Vegas a 5–4 lead, which they hung onto for the victory.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-1-recap-june-2-2026|title=Hertl breaks tie late, Golden Knights edge Hurricanes in Game 1 of Cup Final|last=Dusterberg|first=Kurt|date=June 2, 2026|website=NHL.com|access-date=June 2, 2026}}</ref>
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game one<ref name="Game1">{{cite web |title=Vegas Golden Knights – Carolina Hurricanes – Jun 2, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/vgk-vs-car/2026/06/02/2025030411 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="3"|'''1st'''
+|| CAR
+|| [[Nikolaj Ehlers]] (5)
+|| [[Jaccob Slavin]] (3), [[Jalen Chatfield]] (5)
+|| 00:25
+|| 1–0 CAR
+|-
+|| CAR
+|| Nikolaj Ehlers (6)
+|| Jalen Chatfield (6)
+|| 12:08
+|| 2–0 CAR
+|-
+|| VGK
+|| [[Shea Theodore]] (5)
+|| [[Brayden McNabb]] (4), [[Cole Smith (ice hockey)|Cole Smith]] (3)
+|| 13:28
+|| 2–1 CAR
+|-
+| rowspan="3"|'''2nd'''
+|| VGK
+|| [[Ivan Barbashev]] (6)
+|| [[Jack Eichel]] (17), Brayden McNabb (5)
+|| 00:30
+|| 2–2
+|-
+|| VGK
+|| [[William Karlsson]] (2)
+|| [[Mitch Marner]] (15), [[Brett Howden]] (3)
+|| 04:35
+|| 3–2 VGK
+|-
+|| CAR
+|| [[Jordan Staal]] (3)
+|| [[K'Andre Miller]] (9)
+|| 12:42
+|| 3–3
+|-
+| rowspan="3"|'''3rd'''
+|| VGK
+|| Brett Howden (11)
+|| Shea Theodore (8), Brayden McNabb (6)
+|| 01:21
+|| 4–3 VGK
+|-
+|| CAR
+|| [[Shayne Gostisbehere]] (3)
+|| ''Unassisted''
+|| 11:19
+|| 4–4
+|-
+|| VGK
+|| [[Tomáš Hertl]] (4)
+|| [[Colton Sissons]] (5), Shea Theodore (9)
+|| 16:36
+|| 5–4 VGK
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="1"|'''1st'''
+|| VGK
+|| Brett Howden
+|| Cross-checking
+|| 13:37
+|| 2:00
+|-
+| rowspan="2"|'''2nd'''
+|| CAR
+|| [[Mark Jankowski]]
+|| Hooking
+|| 07:46
+|| 2:00
+|-
+|| CAR
+|| Jalen Chatfield
+|| Tripping
+|| 18:35
+|| 2:00
+|-
+| rowspan="2"|'''3rd'''
+|| VGK
+|| [[Rasmus Andersson]]
+|| Closing hand on puck
+|| 06:09
+|| 2:00
+|-
+|| CAR
+|| Mark Jankowski
+|| Delay of game (puck over glass)
+|| 09:03
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="5"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||4 ||11 ||8 ||23
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||12 ||5 ||12 ||29
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=June 4
+|team1=Carolina Hurricanes
+|team2=Vegas Golden Knights
+|homeright=yes
+|stadium1=[[Lenovo Center]]
+|score1=3–4
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-2-recap-june-4-2026
+}}
+[[File:Seth Jarvis on the bench.jpg|right|thumb|200px|[[Seth Jarvis]] scored the overtime game-winning goal for Carolina in game 2.]]
+In the first period of game two, [[Mitch Marner]] lobbed the puck out of the Vegas defensive zone and [[Brett Howden]] picked up the puck and scored to give the Golden Knights a 1–0 lead.<ref>{{cite web|url=https://nhl.com/video/vgk-car-howden-scores-goal-against-frederik-andersen-6397591799112|title=Howden strikes first in Game 2|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> After an unsuccessful power play for the Golden Knights in the second period, Howden scored again receiving assists from [[Ivan Barbashev]] and [[Noah Hanifin]].<ref>{{cite web|url=https://nhl.com/video/vgk-car-howden-scores-goal-against-frederik-andersen-6397594050112|title=Howden scores again|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> In the third period, the Hurricanes cut Vegas's lead to one as [[Logan Stankoven]] scored an unassisted goal, shooting the puck and deflecting past goaltender [[Carter Hart]].<ref>{{cite web|url=https://nhl.com/video/vgk-car-stankoven-scores-goal-against-carter-hart-6397601093112|title=VGK@CAR: Stankoven scores goal against Carter Hart|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> They tied the game just over two minutes later as [[William Carrier]] passed the puck to [[Mark Jankowski]] whose wrist shot got past Hart.<ref>{{cite web|url=https://nhl.com/video/vgk-car-jankowski-scores-goal-against-carter-hart-6397600403112|title=VGK@CAR: Jankowski scores goal against Carter Hart|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> With five minutes remaining in the game, the referee blew the whistle to stop play though the puck went into the Carolina net. Vegas challenged the play that no goaltender interference occurred to cause the whistle stoppage. The challenge was unsuccessful. On the ensuing power play, Carolina defenceman [[Shayne Gostisbehere]] shot the puck through traffic and [[Jordan Staal]] deflected the puck into the net, erasing the two-goal deficit to lead 3–2.<ref>{{cite web|url=https://nhl.com/video/vgk-car-staal-scores-ppg-against-carter-hart-6397601525112|title=VGK@CAR: Staal scores PPG against Carter Hart|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> With an empty net and an extra attacker for Vegas, [[Mark Stone]] scored to tie the game 3–3, sending it to overtime.<ref>{{cite web|url=https://nhl.com/video/vgk-car-stone-scores-goal-against-frederik-andersen-6397603327112|title=Stone evens it on the backhand|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref> In overtime, [[Tomáš Hertl]] took a tripping penalty and on the Carolina power play, [[Seth Jarvis]] scored to give the Hurricanes a 4–3 victory.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-2-recap-june-4-2026|title=Jarvis scores in OT, Hurricanes top Golden Knights in Game 2 to even Cup Final|last=Dusterberg|first=Kurt|date=June 4, 2026|website=NHL.com|access-date=June 4, 2026}}</ref>
+
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game two<ref name="Game2">{{cite web |title=Vegas Golden Knights – Carolina Hurricanes – June 4, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/vgk-vs-car/2026/06/04/2025030412 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+|| VGK
+|| [[Brett Howden]] (12)
+|| [[Mitch Marner]] (16)
+|| 13:33
+|| 1–0 VGK
+|-
+| rowspan="1"|'''2nd'''
+|| VGK
+|| Brett Howden (13)
+|| [[Ivan Barbashev]] (8), [[Noah Hanifin]] (7)
+|| 07:23
+|| 2–0 VGK
+|-
+| rowspan="4"|'''3rd'''
+|| CAR
+|| [[Logan Stankoven]] (10)
+|| ''Unassisted''
+|| 10:20
+|| 2–1 VGK
+|-
+|| CAR
+|| [[Mark Jankowski]] (1)
+|| [[William Carrier]] (4), [[Eric Robinson (ice hockey)|Eric Robinson]] (4)
+|| 12:46
+|| 2–2
+|-
+|| CAR
+|| [[Jordan Staal]] (4) – ''pp''
+|| [[Shayne Gostisbehere]] (5), [[Andrei Svechnikov]] (5)
+|| 15:25
+|| 3–2 CAR
+|-
+|| VGK
+|| [[Mark Stone]] (6)
+|| Mitch Marner (17), [[Tomáš Hertl]] (7)
+|| 18:39
+|| 3–3
+|-
+| rowspan="1"|'''OT'''
+|| CAR
+|| [[Seth Jarvis]] (4) – ''pp''
+|| Shayne Gostisbehere (6), [[Sebastian Aho]] (4)
+|| 03:56
+|| 4–3 CAR
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="3"|'''1st'''
+|| VGK
+|| [[Dylan Coghlan]]
+|| Tripping
+|| 14:44
+|| 2:00
+|-
+|| VGK
+|| [[Colton Sissons]]
+|| Roughing
+|| 14:44
+|| 2:00
+|-
+|| CAR
+|| Jordan Staal
+|| Holding
+|| 17:42
+|| 2:00
+|-
+| rowspan="2"|'''2nd'''
+|| CAR
+|| [[K'Andre Miller]]
+|| Interference
+|| 05:16
+|| 2:00
+|-
+|| CAR
+|| [[Jordan Martinook]]
+|| Tripping
+|| 13:55
+|| 2:00
+|-
+| rowspan="2"|'''3rd'''
+|| VGK
+|| Bench (served by Ivan Barbashev)
+|| Delay of game (unsuccessful challenge)
+|| 15:00
+|| 2:00
+|-
+|| CAR
+|| [[Jackson Blake]]
+|| Interference
+|| 16:31
+|| 2:00
+|-
+| rowspan="1"|'''OT'''
+|| VGK
+|| Tomáš Hertl
+|| Tripping
+|| 03:17
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||2 ||9 ||14 ||1 || 26
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||8 ||7 ||8 ||3 || 26
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=June 6
+|team1=Vegas Golden Knights
+|team2=Carolina Hurricanes
+|homeright=yes
+|stadium1=[[T-Mobile Arena]]
+|score1=4–5
+|ot1=2
+|won1=1
+|recap1=www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-3-recap-june-6-2026
+}}
+{{multiple image
+ | align = right
+ | total_width = 320
+ | image1 = Mitch Marner 2020-01-09.jpg
+ | alt1 = Mitch Marner
+ | image2 = Shea Theodore 2018-02-06 1.jpg
+ | alt2 = Shea Theodore
+ | footer = [[Mitch Marner]] (left), shown with Toronto, scored a hat trick, while [[Shea Theodore]] (right) scored the double-overtime game-winning goal for Vegas in game three.
+}}
+The first period of game three remained scoreless with the shots favoring Carolina 7–2. In the second period, two goals by Vegas were challenged, first for an offside call and the second on goaltender interference. Both resulted in the goals being called back. The Hurricanes took a "too many on the ice" penalty, and on the power play for Vegas, [[Tomáš Hertl]] scored. [[Mitch Marner]] then scored as his shot was deflected off of a Carolina player's stick.<ref>{{cite web|url=https://nhl.com/video/car-vgk-marner-scores-goal-against-frederik-andersen-6397782434112|title=Marner banks puck home|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> Marner scored his second goal less than four minutes later, shooting the puck on his backhand past goaltender [[Frederik Andersen]].<ref>{{cite web|url=https://nhl.com/video/car-vgk-marner-scores-goal-against-frederik-andersen-6397783608112|title=Marner's second of the period|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> Marner completed the [[Hat-trick#Hockey|hat trick]] as his third goal came from a slap shot.<ref>{{cite web|url=https://www.nhl.com/gamecenter/car-vs-vgk/2026/06/06/2025030413|title=Marner finishes the hat trick|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> His hat trick goal was the fastest in Stanley Cup Final history, scoring all three goals within 6:10.<ref>{{cite news|url=https://www.reviewjournal.com/sports/goldenknights/mitch-marner-continues-his-playoff-dominance-with-record-setting-hat-trick-3834460/?utm_campaign=widget&utm_medium=topnews&utm_source=sports_goldenknights&utm_term=Mitch%20Marner%20continues%20his%20playoff%20dominance%20with%20record-setting%20hat%20trick|title=Mitch Marner continues his playoff dominance with record-setting hat trick|last=Hill|first=Adam|date=June 6, 2026|newspaper=Las Vegas Review-Journal|access-date=June 6, 2026}}</ref> The Hurricanes pulled Andersen after the end of the second period, opting to put in backup goaltender [[Brandon Bussi]]. Marner had a chance to make it 5–0 on a penalty shot, but was stopped by Bussi. The Hurricanes broke the shutout as they scored three goals within 39 seconds to cut the deficit to one goal. [[Jordan Martinook]] scored first firing a wrist shot past [[Carter Hart]].<ref>{{cite web|url=https://nhl.com/video/car-vgk-martinook-scores-goal-against-carter-hart-6397785354112|title=Martinook puts Hurricanes on the board|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> [[Taylor Hall]] scored second as [[Sebastian Aho]] sent a backhand pass to Hall scoring to put it to 4–2.<ref>{{cite web|url=https://nhl.com/video/car-vgk-hall-scores-goal-against-carter-hart-6397784491112|title=Aho sets Hall up down low|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> Captain [[Jordan Staal]] then scored off a face-off, making the score 4–3 for Vegas.<ref>{{cite web|url=https://nhl.com/video/car-vgk-staal-scores-goal-against-carter-hart-6397785860112|title=Staal finishes off the draw|date=June 6, 2026|website=NHL.com|access-date=June 6, 2026}}</ref> With 1:42 left in the game, on the power play, [[Andrei Svechnikov]] scored to tie the game 4–4. The game went into the double-overtime period, wherein [[Shea Theodore]] scored to give Vegas a 5–4 victory and spoil Carolina's comeback.<ref>{{cite web|url=https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-3-recap-june-6-2026|title=Golden Knights recover for 2OT victory against Hurricanes in Game 3 of Cup Final|last=Rosen|first=Dan|date=June 7, 2026|website=NHL.com|accessdate=June 7, 2026}}</ref>
+
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game three<ref name="Game3">{{cite web |title=Carolina Hurricanes – Vegas Golden Knights – Jun 6, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/car-vs-vgk/2026/06/06/2025030413 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+| colspan="5"|''None''
+|-
+| rowspan="4"|'''2nd'''
+|| VGK
+|| [[Tomáš Hertl]] (5) – ''pp''
+|| [[Jack Eichel]] (18), [[Mitch Marner]] (18)
+|| 10:26
+|| 1–0 VGK
+|-
+|| VGK
+|| [[Mitch Marner]] (8)
+|| [[William Karlsson]] (5), [[Shea Theodore]] (10)
+|| 10:42
+|| 2–0 VGK
+|-
+|| VGK
+|| Mitch Marner (9)
+|| [[Brayden McNabb]] (7)
+|| 14:32
+|| 3–0 VGK
+|-
+|| VGK
+|| Mitch Marner (10)
+|| Tomáš Hertl (8)
+|| 16:52
+|| 4–0 VGK
+|-
+| rowspan="4"|'''3rd'''
+|| CAR
+|| [[Jordan Martinook]] (2)
+|| [[Seth Jarvis]] (6), [[Logan Stankoven]] (4)
+|| 07:03
+|| 4–1 VGK
+|-
+|| CAR
+|| [[Taylor Hall]] (6)
+|| [[Sebastian Aho]] (5), [[Jackson Blake]] (11)
+|| 07:29
+|| 4–2 VGK
+|-
+|| CAR
+|| [[Jordan Staal]] (5)
+|| [[Jaccob Slavin]] (4), [[Eric Robinson (ice hockey)|Eric Robinson]] (5)
+|| 07:42
+|| 4–3 VGK
+|-
+|| CAR
+|| [[Andrei Svechnikov]] (4) – ''pp''
+|| Jordan Staal (4), Sebastian Aho (6)
+|| 18:18
+|| 4–4
+|-
+| rowspan="1"|'''OT'''
+|colspan="5"| ''None''
+|-
+| rowspan="1"|'''2OT'''
+|| VGK
+|| Shea Theodore (6)
+|| Brayden McNabb (8), [[Brett Howden]] (4)
+|| 05:38
+|| 5–4 VGK
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="1"|'''1st'''
+|colspan="5"| ''None''
+|-
+| rowspan="1"|'''2nd'''
+|| CAR
+|| Bench (served by Andrei Svechnikov)
+|| Too many men on ice
+|| 10:16
+|| 2:00
+|-
+| rowspan="3"|'''3rd'''
+|| VGK
+|| [[Cole Smith (ice hockey)|Cole Smith]]
+|| Holding the stick
+|| 03:15
+|| 2:00
+|-
+|| CAR
+|| Seth Jarvis
+|| Delay of game (puck over glass)
+|| 12:07
+|| 2:00
+|-
+|| VGK
+|| Shea Theodore
+|| Delay of game (puck over glass)
+|| 17:05
+|| 2:00
+|-
+| rowspan="1"|'''OT'''
+|colspan="5"| ''None''
+|-
+| rowspan="1"|'''2OT'''
+|colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="7"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|2OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||7 ||5 ||13 ||6 ||2 || 33
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||2 ||14 ||9 ||7 ||3 ||35
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=June 9
+|team1=Vegas Golden Knights
+|team2=Carolina Hurricanes
+|homeright=yes
+|stadium1=[[T-Mobile Arena]]
+|score1=5–3
+|won1=2
+|recap1=www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-4-recap-june-9-2026
+}}
+[[File:Jordan Staal 2013 (cropped).jpg|right|thumb|200px|Hurricanes captain [[Jordan Staal]] scored two goals, including the game-winner, in game 4.]]
+Carolina started the scoring in game four, with [[Logan Stankoven]] scoring 1:02 into the first period. [[Jackson Blake]] made it 2–0 for Carolina just as the Golden Knights' penalty expired, accepting a pass from [[Taylor Hall]] and firing the puck into the net.<ref>{{cite web|url=https://nhl.com/video/car-vgk-blake-scores-goal-against-carter-hart-6398024183112|title=Blake doubles Hurricanes' lead|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> Vegas captain [[Mark Stone]] put Vegas on the board, faking a slap shot and tucking the puck behind goaltender [[Brandon Bussi]].<ref>{{cite web|url=https://nhl.com/video/car-vgk-stone-scores-goal-against-brandon-bussi-6398024290112|title=Stone starts off Golden Knights|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> Later in the first period, Vegas was given a penalty for too many men on the ice; Carolina captain [[Jordan Staal]] then scored to make it 3–1.<ref>{{cite web|url=https://nhl.com/video/car-vgk-staal-scores-ppg-against-carter-hart-6398022859112|title=Staal buries power-play goal|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> [[Brayden McNabb]] attempted a buzzer-beater, putting the puck into the net just as the first period ended, but on video replay the goal was waived off as it had not completely crossed the line prior to the time expiration.<ref>{{cite web|url=https://www.espn.com/watch/player/_/id/49014737|title=Golden Knights' goal at the buzzer waived off|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> In the second period, [[William Karlsson]] scored Vegas's second goal of the game, taking a pass from [[Rasmus Andersson]] firing a wrist shot past Bussi.<ref>{{cite web|url=https://nhl.com/video/car-vgk-karlsson-scores-goal-against-brandon-bussi-6398026272112|title=Karlsson snaps one home|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> The Golden Knights tied up the score 3–3 during a two-on-one rush led by [[Colton Sissons]] and [[Brett Howden]], the latter of which scored.<ref>{{cite web|url=https://nhl.com/video/car-vgk-howden-scores-goal-against-brandon-bussi-6398028367112|title=Howden ties it up|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> In the third period, Vegas gave up the puck in their defensive zone, and while falling down, Staal scored to give the Hurricanes the lead once more, making it 4–3.<ref>{{cite web|url=https://nhl.com/video/car-vgk-staal-scores-goal-against-carter-hart-6398034086112|title=Staal lights lamp again|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref> [[Nikolaj Ehlers]] made it 5–3 with an [[empty net goal]], tying up the series 2–2.<ref>{{cite web|url=https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-4-recap-june-9-2026|title=Staal scores 2, Hurricanes top Golden Knights in Game 4, even Stanley Cup Final|last=Rosen|first=Dan|date=June 9, 2026|website=NHL.com|accessdate=June 9, 2026}}</ref>
+
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game four<ref name="Game4">{{cite web |title=Carolina Hurricanes – Vegas Golden Knights – June 9, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/car-vs-vgk/2026/06/09/2025030414 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="4"|'''1st'''
+|| CAR
+|| [[Logan Stankoven]] (11)
+|| [[Jalen Chatfield]] (7), [[Jackson Blake]] (12)
+|| 01:06
+|| 1–0 CAR
+|-
+|| CAR
+|| Jackson Blake (6)
+|| [[Taylor Hall]] (12), [[Nikolaj Ehlers]] (6)
+|| 03:28
+|| 2–0 CAR
+|-
+|| VGK
+|| [[Mark Stone]] (7)
+|| [[Shea Theodore]] (11), [[Brayden McNabb]] (9)
+|| 07:22
+|| 2–1 CAR
+|-
+|| CAR
+|| [[Jordan Staal]] (6) – ''pp''
+|| [[Shayne Gostisbehere]] (7), [[Sebastian Aho]] (7)
+|| 12:48
+|| 3–1 CAR
+|-
+| rowspan="2"|'''2nd'''
+|| VGK
+|| [[William Karlsson]] (3)
+|| [[Rasmus Andersson]] (6), [[Mitch Marner]] (19)
+|| 04:22
+|| 3–2 CAR
+|-
+|| VGK
+|| [[Brett Howden]] (14)
+|| [[Colton Sissons]] (6), [[William Karlsson]] (6)
+|| 17:08
+|| 3–3
+|-
+| rowspan="2"|'''3rd'''
+|| CAR
+|| Jordan Staal (7)
+|| Nikolaj Ehlers (7)
+|| 06:32
+|| 4–3 CAR
+|-
+|| CAR
+|| Nikolaj Ehlers (7) – ''en''
+|| ''Unassisted''
+|| 19:05
+|| 5–3 CAR
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="3"|'''1st'''
+|| VGK
+|| Shea Theodore
+|| Tripping
+|| 01:24
+|| 2:00
+|-
+|| VGK
+|| Bench (served by [[Ivan Barbashev]])
+|| Too many men on the ice
+|| 12:27
+|| 2:00
+|-
+|| CAR
+|| Taylor Hall
+|| Slashing
+|| 17:32
+|| 2:00
+|-
+| rowspan="4"|'''2nd'''
+|| VGK
+|| [[Nic Dowd]]
+|| Cross-checking
+|| 11:30
+|| 2:00
+|-
+|| CAR
+|| [[Jordan Martinook]]
+|| Interference
+|| 14:20
+|| 2:00
+|-
+|| VGK
+|| Brayden McNabb
+|| Cross-checking
+|| 18:30
+|| 2:00
+|-
+|| CAR
+|| Jackson Blake
+|| Interference
+|| 18:30
+|| 2:00
+|-
+| rowspan="1"|'''3rd'''
+|| CAR
+|| [[K'Andre Miller]]
+|| Tripping
+|| 01:42
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="5"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||14 ||9 ||5 ||28
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||6 ||6 ||9 ||21
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=June 11
+|team1=Carolina Hurricanes
+|team2=Vegas Golden Knights
+|homeright=yes
+|stadium1=[[Lenovo Center]]
+|score1=2–4
+|won1=1
+|tv1=[[NHL on ABC|ABC]], [[Hockey Night in Canada|CBC]], [[NHL on Sportsnet|SN]]
+|recap1=www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-5-recap-june-11-2026
+}}
+[[File:Andrei Svechnikov 2018.jpg|right|thumb|200px|[[Andrei Svechnikov]] scored two goals in game 5.]]
+In game five, Vegas started the scoring on the power play. As Carolina forward [[Nikolaj Ehlers]] was in the penalty box for shooting the puck over the glass, [[Pavel Dorofeyev]] scored for the Golden Knights to make it 1–0. Carolina tied it 1–1 later in the first period as Ehlers passed the puck to captain [[Jordan Staal]] who shot the puck past goaltender [[Carter Hart]].<ref>{{cite web|url=https://nhl.com/video/vgk-car-staal-scores-goal-against-carter-hart-6398198770112|title=Staal's tip-in goal|date=June 11, 2026|website=NHL.com|accessdate=June 11, 2026}}</ref> Carolina gained the lead in the second period. As the Hurricanes were on the power play, [[Andrei Svechnikov]] scored to make it 2–1. [[Sebastian Aho]] then made it 3–1 with [[Sean Walker (ice hockey)|Sean Walker]] and [[Jordan Martinook]] both assisting. In the third period, the Hurricanes made it 4–1 on the power play as [[Shayne Gostisbehere]] passed to an open Ehlers who spun around and backhanded the puck to Svechnikov who scored.<ref>{{cite web|url=https://nhl.com/video/vgk-car-svechnikov-scores-ppg-against-carter-hart-6398205026112|title=Svechnikov's second PPG|date=June 11, 2026|website=NHL.com|accessdate=June 11, 2026}}</ref> The Golden Knights cut the deficit to two goals as Dorofeyev scored his second of the game off of a rebound created by [[Shea Theodore]]. However, the Hurricanes stopped the remaining chances by Vegas to go up 3–2 in the series.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-carolina-hurricanes-stanley-cup-final-game-5-recap-june-11-2026|title=Hurricanes hold off Golden Knights in Game 5, move within 1 win of Stanley Cup|last=Rosen|first=Dan|date=June 11, 2026|website=NHL.com|accessdate=June 11, 2026}}</ref>
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game five<ref name="Game5">{{cite web |title=Carolina Hurricanes – Vegas Golden Knights – June 11, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/vgk-vs-car/2026/06/11/2025030415 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="2"|'''1st'''
+|| VGK
+|| [[Pavel Dorofeyev]] (11) – ''pp''
+|| [[Jack Eichel]] (19), [[Tomáš Hertl]] (9)
+|| 06:52
+|| 1–0 VGK
+|-
+|| CAR
+|| [[Jordan Staal]] (8)
+|| [[Nikolaj Ehlers]] (8), [[Seth Jarvis]] (7)
+|| 11:46
+|| 1–1
+|-
+| rowspan="2"|'''2nd'''
+|| CAR
+|| [[Andrei Svechnikov]] (5) – ''pp''
+|| [[Shayne Gostisbehere]] (8), Nikolaj Ehlers (9)
+|| 11:58
+|| 2–1 CAR
+|-
+|| CAR
+|| [[Sebastian Aho]] (5)
+|| [[Sean Walker (ice hockey)|Sean Walker]] (3), [[Jordan Martinook]] (3)
+|| 17:51
+|| 3–1 CAR
+|-
+| rowspan="2"|'''3rd'''
+|| CAR
+|| Andrei Svechnikov (6) – ''pp''
+|| Nikolaj Ehlers (10), Shayne Gostisbehere (9)
+|| 11:08
+|| 4–1 CAR
+|-
+|| VGK
+|| Pavel Dorofeyev (12)
+|| [[Shea Theodore]] (12), Jack Eichel (20)
+|| 13:49
+|| 4–2 CAR
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="2"|'''1st'''
+|| CAR
+|| Nikolaj Ehlers
+|| Delay of game (puck over glass)
+|| 06:24
+|| 2:00
+|-
+|| CAR
+|| [[K'Andre Miller]]
+|| Delay of game (puck over glass)
+|| 19:54
+|| 2:00
+|-
+| rowspan="2"|'''2nd'''
+|| VGK
+|| [[Jérémy Lauzon]]
+|| Roughing
+|| 08:56
+|| 2:00
+|-
+|| VGK
+|| [[Brayden McNabb]]
+|| Cross-checking
+|| 10:57
+|| 2:00
+|-
+| rowspan="3"|'''3rd'''
+|| VGK
+|| Jack Eichel
+|| Tripping
+|| 03:23
+|| 2:00
+|-
+|| VGK
+|| [[Mark Stone]]
+|| High-sticking
+|| 08:38
+|| 4:00
+|-
+|| CAR
+|| Nikolaj Ehlers
+|| Delay of game (puck over glass)
+|| 17:47
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="5"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||7 ||5 ||13 ||25
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||5 ||10 ||9 ||24
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1=June 14
+|team1=Vegas Golden Knights
+|team2=Carolina Hurricanes
+|homeright=yes
+|stadium1=[[T-Mobile Arena]]
+|score1=3–0
+|won1=2
+|recap1=www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026
+}}
+{{multiple image
+ | align = right
+ | total_width = 320
+ | image1 = 2023 AHL All-Star Classic Game - Brandon Bussi (52674024664).jpg
+ | alt1 = Brandon Bussi
+ | image2 = Taylor Hall St Louis 2012.jpg
+ | alt2 = Taylor Hall
+ | footer = [[Brandon Bussi]] (left), shown with the [[Providence Bruins]], recorded a shutout, while [[Taylor Hall]] (right), shown with Edmonton, scored the Stanley Cup-clinching goal for Carolina in game six.
+}}
+In game six, Carolina defenceman [[Jaccob Slavin]] dished a long pass to [[Taylor Hall]] who scored to give the Hurricanes a 1–0 lead.<ref>{{cite web|url=https://nhl.com/video/car-vgk-hall-scores-goal-against-carter-hart-6398421474112|title=Hall strikes first in Game 6|date=June 14, 2026|website=NHL.com|accessdate=June 14, 2026}}</ref> Goaltender [[Brandon Bussi]] kept the Hurricanes at a 1–0 lead through the first period, stopping 11 shots from the Golden Knights. In the second period, the Hurricanes made it 2–0 with [[Jackson Blake]] scoring. The Golden Knights were held to three shots for the remainder of the period. In the third period, the Golden Knights pulled their goaltender, but [[Nikolaj Ehlers]] sealed Carolina's Stanley Cup victory with an empty net goal to make it 3–0.<ref name="G6">{{cite web|url=https://www.nhl.com/news/carolina-hurricanes-vegas-golden-knights-stanley-cup-final-game-6-recap-june-14-2026|title=Hurricanes win Stanley Cup with Game 6 shutout against Golden Knights|last=Rosen|first=Dan|date=June 14, 2026|website=NHL.com|accessdate=June 14, 2026}}</ref>
+
+Hurricanes captain [[Jordan Staal]] was awarded the [[Conn Smythe Trophy]] as most valuable player of the playoffs.<ref name="G6"/> [[Rod Brind'Amour]] also became the first person to win the Stanley Cup as both a former player and coach for the same team since [[Toe Blake]] in {{scfy|1956}}.<ref>{{cite news|url=https://www.nytimes.com/athletic/7361618/2026/06/15/rod-brindamour-stanley-cup-hurricanes-coach/|title=Rod Brind'Amour leads the Hurricanes to a Stanley Cup — this time from behind the bench|last=LeBrun|first=Pierre|date=June 15, 2026|newspaper=The New York Times|accessdate=June 15, 2026}}</ref>
+
+{| style="width:100%;text-align: center;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|+Game six<ref name="Game6">{{cite web |title=Vegas Golden Knights – Carolina Hurricanes – June 13, 2026 |website=NHL.com |url=https://www.nhl.com/gamecenter/car-vs-vgk/2026/06/14/2025030416 |access-date=June 15, 2026 |publisher=NHL Enterprises, L. P.}}</ref>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+|| CAR
+|| [[Taylor Hall]] (7)
+|| [[Jaccob Slavin]] (5), [[Jackson Blake]] (13)
+|| 03:47
+|| 1–0 CAR
+|-
+| rowspan="1"|'''2nd'''
+|| CAR
+|| Jackson Blake (7)
+|| [[Logan Stankoven]] (5)
+|| 13:31
+|| 2–0 CAR
+|-
+| rowspan="1"|'''3rd'''
+|| CAR
+|| [[Nikolaj Ehlers]] (8) – ''en''
+|| ''Unassisted''
+|| 18:52
+|| 3–0 CAR
+|-
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="4"|'''1st'''
+|| CAR
+|| Jackson Blake
+|| Tripping
+|| 10:26
+|| 2:00
+|-
+|| VGK
+|| [[Tomáš Hertl]]
+|| Delay of game (faceoff violation)
+|| 10:57
+|| 2:00
+|-
+|| VGK
+|| [[Jack Eichel]]
+|| Hooking
+|| 16:12
+|| 2:00
+|-
+|| CAR
+|| Logan Stankoven
+|| Cross-checking
+|| 18:38
+|| 2:00
+|-
+| rowspan="1"|'''2nd'''
+|| VGK
+|| [[Rasmus Andersson]]
+|| Interference
+|| 17:04
+|| 2:00
+|-
+| rowspan="1"|'''3rd'''
+|| CAR
+|| [[Eric Robinson (ice hockey)|Eric Robinson]]
+|| High-sticking
+|| 08:49
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="5"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|CAR}} ||8 ||8 ||7 ||23
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|VGK}} ||11 ||3 ||8 ||22
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Vegas Golden Knights===
+[[File:Team Captain Mark Stone at The White House on November 13, 2023 (cropped).jpg|right|thumb|200px|[[Mark Stone]] captained the Golden Knights to their third Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player<ref>{{cite web|url=https://www.nhl.com/scores/htmlreports/20252026/RO030416.HTM|title=Club Playing Roster, Carolina Hurricanes vs. Vegas Golden Knights|website=NHL.com|location=Las Vegas, Nevada|publisher=NHL|accessdate=June 15, 2026}}</ref>
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''4'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Rasmus|Andersson}}
+| D
+| R
+| {{hs|29–017}}29
+| [[2025–26 NHL season|2026]]
+| style="text-align:left;"|[[Malmö|Malmo, Sweden]]
+| first
+|-
+| '''49'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Ivan|Barbashev}}
+| C
+| L
+| {{hs|30–214}}30
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Moscow|Moscow, Russia]]
+| third {{small|('''[[2019 Stanley Cup Final|2019]]''', '''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''42'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Braeden|Bowman}}
+| RW
+| R
+| {{hs|22–319}}22
+| [[2024–25 NHL season|2025]]
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''52'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dylan|Coghlan}}
+| D
+| R
+| {{hs|28–066}}28
+| [[2025–26 NHL season|2025]]
+| style="text-align:left;"|[[Duncan, British Columbia]]
+| first
+|-
+| '''16'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Pavel|Dorofeyev}}
+| RW
+| L
+| {{hs|25–208}}25
+| [[2019 NHL entry draft|2019]]
+| style="text-align:left;"|[[Nizhny Tagil|Nizhny Tagil, Russia]]
+| first
+|-
+| '''26'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Nic|Dowd}}
+| C
+| R
+| 36
+| [[2025–26 NHL season|2026]]
+| style="text-align:left;"|[[Huntsville, Alabama]]
+| first
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jack|Eichel}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|29–211}}29
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[North Chelmsford, Massachusetts]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''15'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Noah|Hanifin}}
+| D
+| L
+| {{hs|29–187}}29
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| first
+|-
+| '''79'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carter|Hart}}
+| G
+| L
+| {{hs|27–043}}27
+| [[2025–26 NHL season|2025]]
+| style="text-align:left;"|[[Sherwood Park|Sherwood Park, Alberta]]
+| first
+|-
+| '''48'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Hertl|Tomáš Hertl}}
+| C
+| L
+| {{hs|32–043}}32
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Prague|Prague, Czech Republic]]
+| second {{small|([[2016 Stanley Cup Final|2016]])}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adin|Hill}}
+| G
+| L
+| {{hs|30–019}}30
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Comox, British Columbia]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Howden}}
+| C
+| L
+| {{hs|28–060}}28
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Oakbank, Manitoba]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Hutton}}
+| D
+| L
+| {{hs|33–040}}33
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Brockville|Brockville, Ontario]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''71'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|William|Karlsson}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|33–188}}33
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Märsta|Märsta, Sweden]]
+| third {{small|([[2018 Stanley Cup Final|2018]], '''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keegan|Kolesar}}
+| RW
+| R
+| {{hs|29–052}}29
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kaedan|Korczak}}
+| D
+| R
+| {{hs|25–200}}25
+| [[2019 NHL entry draft|2019]]
+| style="text-align:left;"|[[Yorkton|Yorkton, Saskatchewan]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeremy|Lauzon|Jérémy Lauzon}}
+| D
+| L
+| {{hs|29–348}}29
+| [[2025–26 NHL season|2025]]
+| style="text-align:left;"|[[Val-d'Or|Val-d'Or, Quebec]]
+| first
+|-
+| '''93'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mitch|Marner}}
+| RW
+| R
+| {{hs|29–192}}29
+| [[2025–26 NHL season|2025]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|McNabb}}
+| D
+| L
+| {{hs|35–129}}35
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Davidson, Saskatchewan]]
+| third {{small|([[2018 Stanley Cup Final|2018]], '''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Saad}}
+| LW
+| L
+| {{hs|33–284}}33
+| [[2024–25 NHL season|2025]]
+| style="text-align:left;"|[[Pittsburgh|Pittsburgh, Pennsylvania]]
+| third {{small|('''[[2013 Stanley Cup Final|2013]]''', '''[[2015 Stanley Cup Final|2015]]''')}}
+|-
+| '''40'''
+| {{flagicon|SUI}}
+! scope="row" style="text-align:left;"|{{sortname|Akira|Schmid}}
+| G
+| L
+| {{hs|26–172}}26
+| [[2024–25 NHL season|2024]]
+| style="text-align:left;"|[[Bern|Bern, Switzerland]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colton|Sissons}}
+| C
+| R
+| {{hs|32–348}}32
+| [[2025–26 NHL season|2025]]
+| style="text-align:left;"|[[North Vancouver (city)|North Vancouver, British Columbia]]
+| second {{small|([[2017 Stanley Cup Final|2017]])}}
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Cole|Smith|dab=ice hockey}}
+| RW
+| L
+| {{hs|30–114}}30
+| [[2025–26 NHL season|2026]]
+| style="text-align:left;"|[[Brainerd, Minnesota]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Reilly|Smith}}
+| RW
+| L
+| {{hs|35–059}}35
+| [[2024–25 NHL season|2025]]
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| third {{small|([[2018 Stanley Cup Final|2018]], '''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''61'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Stone}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| {{hs|34–017}}34
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|('''[[2023 Stanley Cup Final|2023]]''')}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shea|Theodore}}
+| D
+| L
+| {{hs|30–331}}30
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Langley, British Columbia (district municipality)|Langley, British Columbia]]
+| third {{small|([[2018 Stanley Cup Final|2018]], '''[[2023 Stanley Cup Final|2023]]''')}}
+|}
+
+===Carolina Hurricanes===
+[[File:Jordan Staal 2013.jpg|right|thumb|200px|[[Jordan Staal]] captained the Hurricanes to their third Final appearance in franchise history, their first since [[2006 Stanley Cup Final|2006]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+!#
+![[Nationality|Nat]]
+!Player<ref>{{cite web|url=https://www.nhl.com/scores/htmlreports/20252026/RO030416.HTM|title=Club Playing Roster, Carolina Hurricanes vs. Vegas Golden Knights|website=NHL.com|location=Las Vegas, Nevada|publisher=NHL|accessdate=June 15, 2026}}</ref>
+!Position
+!Hand
+!Age
+!Acquired
+! scope="col" class="unsortable" |Place of birth
+! scope="col" class="unsortable" |Final appearance
+|-
+|'''20'''
+|{{flagicon|FIN}}
+! scope="row" style="text-align:left;" |[[Sebastian Aho]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+|C
+|L
+|28
+|[[2015 NHL entry draft|2015]]
+| style="text-align:left;" |[[Rauma, Finland]]
+|first
+|-
+|'''31'''
+|{{flagicon|DEN}}
+! scope="row" style="text-align:left;" |{{sortname|Frederik|Andersen}}
+|G
+|L
+|36
+|[[2021–22 NHL season|2021]]
+| style="text-align:left;" |[[Herning|Herning, Denmark]]
+|first
+|-
+|'''53'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Jackson|Blake}}
+|RW
+|R
+|22
+|[[2021 NHL entry draft|2021]]
+| style="text-align:left;" |[[Fargo, North Dakota]]
+|first
+|-
+|'''32'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Brandon|Bussi}}
+|G
+|R
+|27
+|[[2025–26 NHL season|2025]]
+| style="text-align:left;" |[[Sound Beach, New York]]
+|first
+|-
+|'''28'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|William|Carrier}}
+|LW
+|L
+|31
+|[[2024–25 NHL season|2024]]
+| style="text-align:left;" |[[LaSalle, Quebec]]
+|third <small>([[2018 Stanley Cup Final|2018]], [[2023 Stanley Cup Final|'''2023''']])</small>
+|-
+|'''5'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |[[Jalen Chatfield]]
+|D
+|R
+|30
+|[[2021–22 NHL season|2021]]
+| style="text-align:left;" |[[Ypsilanti, Michigan]]
+|first
+|-
+|'''44'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Nicolas|Deslauriers}}
+|LW
+|L
+|35
+|[[2025–26 NHL season|2026]]
+| style="text-align:left;" |[[LaSalle, Quebec]]
+|first
+|-
+|'''27'''
+|{{Flag icon|DEN}}
+! scope="row" style="text-align:left;" |{{sortname|Nikolaj|Ehlers}}
+|LW
+|L
+|30
+|[[2025–26 NHL season|2025]]
+| style="text-align:left;" |[[Aalborg|Aalborg, Denmark]]
+|first
+|-
+|'''4'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Shayne|Gostisbehere}}
+|D
+|L
+|33
+|[[2024–25 NHL season|2024]]
+| style="text-align:left;" |[[Pembroke Pines, Florida]]
+|first
+|-
+|'''71'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Taylor|Hall}}
+|LW
+|L
+|30
+|[[2024–25 NHL season|2025]]
+| style="text-align:left;" |[[Calgary|Calgary, Alberta]]
+|first
+|-
+|'''77'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Mark|Jankowski|dab=}}
+|C
+|L
+|{{hs|31–204}}31
+|[[2024–25 NHL season|2025]]
+| style="text-align:left;" |[[Hamilton, Ontario]]
+|first
+|-
+|'''24'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Seth|Jarvis}}
+|C
+|R
+|{{hs|24–208}}24
+|[[2020 NHL entry draft|2020]]
+| style="text-align:left;" |[[Winnipeg|Winnipeg, Manitoba]]
+|first
+|-
+|'''52'''
+|{{flagicon|RUS}}
+! scope="row" style="text-align:left;" |{{sortname|Pyotr|Kochetkov}}
+|G
+|L
+|{{hs|26–278}}26
+|[[2019 NHL entry draft|2019]]
+| style="text-align:left;" |[[Penza|Penza, Russia]]
+|first
+|-
+|'''82'''
+|{{flagicon|FIN}}
+! scope="row" style="text-align:left;" |{{sortname|Jesperi|Kotkaniemi}}
+|C
+|L
+|{{hs|25–025}}25
+|[[2021–22 NHL season|2021]]
+| style="text-align:left;" |[[Pori|Pori, Finland]]
+|second {{small|([[2021 Stanley Cup Final|2021]])}}
+|-
+|'''48'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Jordan|Martinook}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+|LW
+|L
+|33
+|[[2017–18 NHL season|2018]]
+| style="text-align:left;" |[[Brandon, Manitoba]]
+|first
+|-
+|'''19'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|K'Andre|Miller}}
+|D
+|R
+|{{hs|26–112}}26
+|[[2025–26 NHL season|2025]]
+| style="text-align:left;" |[[Saint Paul, Minnesota|St. Paul, Minnesota]]
+|first
+|-
+|'''21'''
+|{{flagicon|RUS}}
+! scope="row" style="text-align:left;" |{{sortname|Alexander|Nikishin}}
+|D
+|L
+|{{hs|24–212}}24
+|[[2020 NHL entry draft|2020]]
+| style="text-align:left;" |[[Oryol|Oryol, Russia]]
+|first
+|-
+|'''6'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Mike|Reilly|dab=ice hockey}}
+|D
+|R
+|{{hs|32–184}}32
+|[[2025–26 NHL season|2025]]
+| style="text-align:left;" |[[Chicago|Chicago, Illinois]]
+|first
+|-
+|'''50'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Eric|Robinson|dab=ice hockey}}
+|LW
+|L
+|{{hs|30–311}}30
+|[[2024–25 NHL season|2024]]
+| style="text-align:left;" |[[Bellmawr, New Jersey]]
+|first
+|-
+|'''74'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;" |{{sortname|Jaccob|Slavin}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+|D
+|L
+|{{hs|32–028}}32
+|[[2012 NHL entry draft|2012]]
+| style="text-align:left;" |[[Erie, Colorado]]
+|first
+|-
+|'''11'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Jordan|Staal}} – '''[[Captain (ice hockey)|C]]'''
+|C
+|L
+|{{hs|37–132}}37
+|[[2012–13 NHL season|2012]]
+| style="text-align:left;" |[[Thunder Bay|Thunder Bay, Ontario]]
+|third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|-
+|'''22'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Logan|Stankoven}}
+|C
+|R
+|23
+|[[2024–25 NHL season|2025]]
+| style="text-align:left;" |[[Kamloops|Kamloops, British Columbia]]
+|first
+|-
+|'''37'''
+|{{flagicon|RUS}}
+! scope="row" style="text-align:left;" |{{sortname|Andrei|Svechnikov}}
+|RW
+|L
+|{{hs|26–201}}26
+|[[2018 NHL entry draft|2018]]
+| style="text-align:left;" |[[Barnaul|Barnaul, Russia]]
+|first
+|-
+|'''26'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;" |{{sortname|Sean|Walker|dab=ice hockey}}
+|D
+|R
+|31
+|[[2024–25 NHL season|2024]]
+| style="text-align: left;" |[[Keswick, Ontario]]
+|first
+|}
+<!--
+==Stanley Cup engraving==
+{{unreferenced section|date=June 2026}}
+The Stanley Cup was presented to Hurricanes captain Jordan Staal by [[NHL commissioner]] [[Gary Bettman]] following the Hurricanes' 3–0 win in game six
+
+'''2025–26 Carolina Hurricanes'''
+{{Stanley Cup champion
+|defence=* 4 [[Shayne Gostisbehere]]
+* 5 [[Jalen Chatfield]]
+* 6 [[Mike Reilly (ice hockey)|Mike Reilly]] †
+* 19 [[K'Andre Miller]]
+* 21 [[Alexander Nikishin]]
+* 26 [[Sean Walker (ice hockey)|Sean Walker]]
+* 74 [[Jaccob Slavin]] (A)
+|wingers= * 24 [[Seth Jarvis]]
+* 27 [[Nikolaj Ehlers]]
+* 28 [[William Carrier]]
+* 37 [[Andrei Svechnikov]]
+* 44 [[Nicolas Deslauriers]] †
+* 48 [[Jordan Martinook]] (A)
+* 50 [[Eric Robinson (ice hockey)|Eric Robinson]]
+* 53 [[Jackson Blake]]
+* 71 [[Taylor Hall]]
+|centres=* 11 [[Jordan Staal]] (Captain)
+* 20 [[Sebastian Aho]] (A)
+* 22 [[Logan Stankoven]]
+* 77 [[Mark Jankowski]]*
+* 82 [[Jesperi Kotkaniemi]] †
+|goaltenders=* 31 [[Frederik Andersen]]
+* 32 [[Brandon Bussi]]
+* 52 [[Pyotr Kochetkov]]
+|player-notes= {{plainlist|
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}Did not automatically qualify,{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}} but name still engraved on the Stanley Cup.}}
+|non-players=
+* [[Thomas Dundon]] (Majority Owner/Governor), [[Brian Fork]] (Chief Executive Officer), [[Eric Tulsky]] (General Manager), [[Tom Embrey]] (VP/General Manager of Lenovo Center), [[Shaun Nicholson]] (Chief Financial Officer)
+* [[Rod Brind'Amour]] (Head Coach), [[Jeff Daniels (ice hockey)|Jeff Daniels]] (Assistant Coach), [[Tim Gleason]] (Assistant Coach), [[Paul Schonfelder]] (Goaltending Coach), [[Chris Huffine]] (Video Coach)
+* [[Peter Harrold]] (Director of Player Development), [[Daniel Bochner]] (Development Coach), [[Jesper Fast]] (Development Coach), [[Kevin McCarthy (ice hockey)|Kevin McCarthy]] (Development Coach), [[Jason Muzzatti]] (Goaltending Development Coach)
+* [[Chris Abbott (ice hockey)|Chris Abbott]] (Vice President, Pro Player Personnel), [[Mark Craig (ice hockey)|Mark Craig]] (Director of Pro Scouting), [[Jorge Alves (ice hockey)|Jorge Alves]] (Head Equipment Manager), [[Doug Bennett (ice hockey)|Doug Bennett]] (Head Athletic Trainer)
+
+===Engraving notes===
+Ordered by total GP in 2025–26, regular season and playoffs. Criteria for automatic qualification are, per the NHL: playing in (for a goaltender, dressing for) at least one Stanley Cup Final game OR at least 42 regular season games for the Stanley Cup winning team.
+* #6 [[Mike Reilly (ice hockey)|Mike Reilly]] (D) played in 42 regular season games and two playoff games (all in the second round).
+* #82 [[Jesperi Kotkaniemi]] (C) played in 42 regular season games and no playoff games.
+* #64 [[Joel Nyström]] (D) played in 38 regular season games and no playoff games, also appearing in 37 regular season games for AHL affiliate [[Chicago Wolves]].
+* #52 [[Pyotr Kochetkov]] (G) played in 9 regular season games and no playoff games, but dressed for three Cup Final games. Kochetkov also appeared in three regular season games for AHL affiliate Chicago Wolves.
+* #44 [[Nicolas Deslauriers]] (W) played in one regular season game and one playoff game (in the first round), previously playing in 24 regular season games for [[Philadelphia Flyers|Philadelphia]]. He did not automatically qualify.
+--><!--Listed in order by NHL games played during the 2025–26 NHL season, then AHL if no NHL games. If no AHL games, then the next highest-level league applicable.--><!--
+
+
+}}
+-->
+
+==Media rights==
+In Canada, this was the final year of a 12-year agreement in which the Stanley Cup Final was televised in [[English language|English]] by [[NHL on Sportsnet|Sportsnet]], with sub-licensing agreements with [[CBC Television]] to simulcast the broadcasts, and with [[TVA Sports]] airing the series in [[French language|French]]. The series was also streamed on [[Sportsnet+]].<ref>{{cite web|last=Rosen|first=Dan|title=NHL, Rogers announce landmark 12-year deal|url=https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152|access-date=August 24, 2019|website=NHL.com|date=November 26, 2013|archive-date=June 20, 2019|archive-url=https://web.archive.org/web/20190620135912/https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152|url-status=dead}}</ref><ref>{{cite press release|title=Sportsnet Announces 2026 Stanley Cup Final Coverage Details|url=https://www.rogerssportsandmedia.com/the-latest/sportsnet-announces-2026-stanley-cup-final-coverage-details/|website=Rogers Sports and Media|date=June 1, 2026}}</ref> Sportsnet will begin a new 12-year deal next season, but {{As of|2026|June|lc=yes|alt=as of the playing of the Final}} it remained uncertain whether the sub-licensing relationships with CBC and TVA will also continue.<ref>{{cite web |last=Friedman |first=Elliotte |title=Expect fewer blackouts with new Rogers NHL rights deal |url=https://www.sportsnet.ca/nhl/article/expect-fewer-blackouts-with-new-rogers-nhl-rights-deal/ |access-date=May 9, 2026 |website=Sportsnet.ca |date=April 2, 2025}}</ref><ref>{{cite web |last=Hussein |first=Ilyas |title=Rogers, NHL make $11-billion, 12-year deal for national broadcast rights official |url=https://www.thestar.com/sports/nhl/rogers-nhl-make-11-billion-12-year-deal-for-national-broadcast-rights-official/article_e3db9f4c-1ca8-4dda-a8fa-9af729c99b92.html |access-date=May 9, 2026 |website=Toronto Star |date=April 2, 2025}}</ref> Shortly after the Final concluded, the CBC announced that it would no longer sublicense NHL games from Rogers, making game six the last NHL game to air on CBC television.<ref>{{Cite web |date=June 16, 2026|title=CBC will no longer show NHL games as sublicense with rights-holder Rogers Sportsnet ends|url=https://www.cbc.ca/sports/cbc-nhl-hockey-night-in-canada-ends-9.7236977|access-date=June 16, 2026|website=CBC Sports}}</ref>
+
+In the United States, the series was televised on [[NHL on ABC|ABC]] and streamed on the [[ESPN app]]. This was the fifth year of a seven-year deal in which ABC airs the Final in even years and [[NHL on TNT|TNT]] televises the series in odd years.<ref>{{cite web |last=Bucholtz |first=Andrew |title=First NHL playoffs under ESPN/Turner deal has all games set for big networks despite NBA |url=https://awfulannouncing.com/nhl/first-nhl-playoffs-espn-turner-big-networks-overflow.html |access-date=May 3, 2022 |website=Awful Announcing |date=May 2, 2022}}</ref><ref>{{cite press release|title=The quest for the Stanley Cup reaches its peak: ESPN exclusively presents the 2026 Stanley Cup Final Presented by GEICO|url=https://espnpressroom.com/us/press-releases/2026/05/the-quest-for-the-stanley-cup-reaches-its-peak-espn-exclusively-presents-the-2026-stanley-cup-final-presented-by-geico/|website=ESPN Press Room|date=May 31, 2026}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nhl.com/playoffs/2026/series-o-coverage Coverage from the NHL]
+
+{{s-start}}
+{{succession box | before = [[2025 Stanley Cup Final|Florida Panthers<br />2025]] | title = [[List of Stanley Cup champions|Carolina Hurricanes<br />Stanley Cup champions]] | years = 2026 | after = TBD}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Carolina Hurricanes}}
+{{Vegas Golden Knights}}
+{{2025–26 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on ABC}}
+{{NHL on Sportsnet}}
+}}
+
+[[Category:2025–26 NHL season|Stanley Cup Final]]
+[[Category:2026 Stanley Cup| ]]
+[[Category:Stanley Cup Finals]]<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+[[Category:2026 in sports in Nevada|Stanley Cup Final]]
+[[Category:Carolina Hurricanes games|Stanley Cup Final]]
+[[Category:2020s in Raleigh, North Carolina]]
+[[Category:Sports competitions in Raleigh, North Carolina]]
+[[Category:Vegas Golden Knights games|Stanley Cup Final]]
+[[Category:2026 in the Las Vegas Valley]]
+[[Category:Ice hockey competitions in Nevada]]
+[[Category:Sports competitions in Paradise, Nevada]]
+[[Category:June 2026 sports events in the United States|Stanley Cup Final]]

@@ -1,0 +1,1486 @@
+{{short description|2018 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=March 2019}}
+{{Infobox Stanley Cup Final
+| year = 2018
+| image = 2018 Stanley Cup Finals logo.png
+| team1 = '''[[2017–18 Washington Capitals season|Washington Capitals]]'''
+| team2 = [[2017–18 Vegas Golden Knights season|Vegas Golden Knights]]
+| team1_1 = 4
+| team2_1 = '''6'''
+| team1_2 = '''3'''
+| team2_2 = 2
+| team1_3 = '''3'''
+| team2_3 = 1
+| team1_4 = '''6'''
+| team2_4 = 2
+| team1_5 = '''4'''
+| team2_5 = 3
+| team1_tot = 4
+| team2_tot = 1
+| location1 = [[Washington, D.C.|Washington]]: [[Capital One Arena]] (3, 4)
+| location2 = [[Paradise, Nevada|Paradise]]: [[T-Mobile Arena]] (1, 2, 5)
+| team1_coach = [[Barry Trotz]]
+| team2_coach = [[Gerard Gallant]]
+| team1_short = Washington
+| team2_short = Vegas
+| coaches =
+| team1_captain = [[Alexander Ovechkin]]
+| team2_captain = Vacant
+| team2_national_anthem = Carnell Johnson
+| team1_national_anthem = [[Caleb Green]] and Bob McDonald (3) Caleb Green, Bob McDonald and U.S. Army chorus (4)
+| national_anthems =
+| referees = [[Marc Joannette]] (1, 3, 5)<br>[[Wes McCauley]] (1, 3, 5)<br>[[Chris Rooney]] (2, 4)<br>[[Kelly Sutherland]] (2, 4)
+| dates = May 28 – June 7, 2018
+| mvp = [[Alexander Ovechkin]] (Capitals)
+| series_winner = [[Lars Eller]] (12:23, third)
+| networks ='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–5), [[NHL on NBC|NBCSN]] (2–3)
+| net_announcers =(CBC/SN) [[Jim Hughson]] and [[Craig Simpson]]<br/>(TVA) Felix Seguin and [[Patrick Lalime]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Steve Mears]] and [[Kevin Weekes]]<br/>([[NBC Sports Radio]] & [[NHL Radio]]) [[Kenny Albert]], [[Joe Micheletti]] (1–4), [[Ray Ferraro]], [[Jim Fox (ice hockey)|Jim Fox]] (5), and [[Steve Goldstein (broadcaster)|Steve Goldstein]]
+}}
+The '''2018 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2017–18 NHL season|2017–18 season]] and the culmination of the [[2018 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion [[2017–18 Washington Capitals season|Washington Capitals]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2017–18 Vegas Golden Knights season|Vegas Golden Knights]] four games to one to win their first championship, in their 44th season. The Vegas Golden Knights made the Finals in their first season, while this was the second Finals appearance for the Capitals. This was the first Finals series since [[2007 Stanley Cup Final|2007]] where neither team had previously won the Stanley Cup and the third consecutive year in which a Western Conference team made their Finals debut. This was the first Finals since [[2014 Stanley Cup Final|2014]] to require fewer than six games, and the first since [[2011 Stanley Cup Final|2011]] in which the eventual winner lost the first game. Washington captain [[Alexander Ovechkin]] was awarded the [[Conn Smythe Trophy]] as the most valuable player of the playoffs.
+
+The series began on May 28 and ended on June 7.<ref name="schedule">{{cite news|title=Stanley Cup Final schedule|url=https://www.nhl.com/news/stanley-cup-final-schedule-2018/c-289529902?tid=287339198|publisher=[[NHL Enterprises, LP]]|website=NHL.com|date=May 21, 2018|access-date=May 24, 2018|archive-date=May 22, 2018|archive-url=https://web.archive.org/web/20180522111905/https://www.nhl.com/news/stanley-cup-final-schedule-2018/c-289529902?tid=287339198|url-status=live}}</ref> Having won the [[Pacific Division (NHL)|Pacific Division]] with 109 points during the regular season the Vegas Golden Knights had [[Home advantage|home ice advantage]] in the series while the Capitals won the [[Metropolitan Division]] with 105 points.
+
+==Path to the Finals==
+
+===Washington Capitals===
+{{main|2017–18 Washington Capitals season}}
+This was Washington's second Finals appearance; the Capitals were swept in four games by the [[1997–98 Detroit Red Wings season|Detroit Red Wings]] in [[1998 Stanley Cup Final|1998]].<ref>{{cite news |last=Allen |first=Scott |url=https://www.washingtonpost.com/news/dc-sports-bog/wp/2018/05/26/remembering-the-caps-run-to-the-1998-stanley-cup-finals-nobody-wanted-to-play-against-us/ |title=Remembering the Caps' run to the 1998 Stanley Cup finals: 'Nobody wanted to play against us' |newspaper=The Washington Post |access-date=June 8, 2018 |archive-date=June 7, 2018 |archive-url=https://web.archive.org/web/20180607211439/https://www.washingtonpost.com/news/dc-sports-bog/wp/2018/05/26/remembering-the-caps-run-to-the-1998-stanley-cup-finals-nobody-wanted-to-play-against-us/ |url-status=live }}</ref>
+
+The Capitals did not make many major offseason transactions with the exception of signing forward [[Devante Smith-Pelly]].<ref>{{cite news|title=Capitals Sign Devante Smith-Pelly|url=https://www.nhl.com/capitals/news/capitals-sign-devante-smith-pelly/c-290280880|publisher=NHL Enterprises LP|website=NHL.com/Capitals|date=July 3, 2017|access-date=July 4, 2017|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612142418/https://www.nhl.com/capitals/news/capitals-sign-devante-smith-pelly/c-290280880|url-status=live}}</ref> Major re-signings during the off-season included forwards [[T. J. Oshie]],<ref>{{cite news|title=Capitals Re-sign T.J. Oshie|url=https://www.nhl.com/capitals/news/capitals-re-sign-tj-oshie/c-290085912|publisher=NHL Enterprises LP|website=NHL.com/Capitals|access-date=June 26, 2017|archive-date=March 31, 2018|archive-url=https://web.archive.org/web/20180331040107/https://www.nhl.com/capitals/news/capitals-re-sign-tj-oshie/c-290085912|url-status=live}}</ref> [[Evgeny Kuznetsov]],<ref>{{cite news|title=Capitals Re-sign Evgeny Kuznetsov|url=https://www.nhl.com/capitals/news/capitals-re-sign-evgeny-kuznetsov/c-290277542|publisher=NHL Enterprises LP|website=NHL.com/Capitals|access-date=July 5, 2017|archive-date=November 16, 2017|archive-url=https://web.archive.org/web/20171116190455/https://www.nhl.com/capitals/news/capitals-re-sign-evgeny-kuznetsov/c-290277542|url-status=live}}</ref> and [[André Burakovsky|Andre Burakovsky]];<ref>{{cite news|title=Capitals Re-sign Andre Burakovsky|url=https://www.nhl.com/capitals/news/capitals-re-sign-andre-burakovsky/c-290291996|publisher=NHL Enterprises LP|website=NHL.com/Capitals|access-date=July 5, 2017|archive-date=March 31, 2018|archive-url=https://web.archive.org/web/20180331104204/https://www.nhl.com/capitals/news/capitals-re-sign-andre-burakovsky/c-290291996|url-status=live}}</ref> and goalie [[Philipp Grubauer]].<ref>{{cite news|title=Capitals Re-sign Philipp Grubauer|url=https://www.nhl.com/capitals/news/capitals-re-sign-philipp-grubauer/c-290308740|publisher=NHL Enterprises LP|website=NHL.com/Capitals|access-date=July 6, 2017|archive-date=May 24, 2018|archive-url=https://web.archive.org/web/20180524151956/https://www.nhl.com/capitals/news/capitals-re-sign-philipp-grubauer/c-290308740|url-status=live}}</ref> Washington then re-signed [[Lars Eller]] during the season.<ref>{{cite news|last1=Vogel|first1=Mike|title=Caps and Eller Agree on Five-Year Extension|url=https://www.nhl.com/capitals/news/caps-and-eller-agree-on-five-year-extension/c-295816532|publisher=NHL Enterprises LP|website=NHL.com/Capitals|date=February 10, 2018|access-date=February 12, 2018|archive-date=February 13, 2018|archive-url=https://web.archive.org/web/20180213021731/https://www.nhl.com/capitals/news/caps-and-eller-agree-on-five-year-extension/c-295816532|url-status=live}}</ref> The team was conservative during the trade deadline. Wanting to make a Stanley Cup run with the core players that they already had,<ref>{{cite news|last=Khurshudyan|first=Isabelle|title=NHL trade deadline ahead and two deals done, will Capitals make another move?|url=https://www.washingtonpost.com/news/capitals-insider/wp/2018/02/21/nhl-trade-deadline-ahead-and-two-deals-done-will-capitals-make-another-move/?noredirect=on|newspaper=[[The Washington Post]]|date=February 21, 2018|access-date=February 22, 2018|archive-date=November 27, 2018|archive-url=https://web.archive.org/web/20181127064808/https://www.washingtonpost.com/news/capitals-insider/wp/2018/02/21/nhl-trade-deadline-ahead-and-two-deals-done-will-capitals-make-another-move/?noredirect=on|url-status=live}}</ref> they only acquired defencemen [[Michal Kempný|Michal Kempny]] from the [[Chicago Blackhawks]]<ref>{{cite web|title=Capitals Acquire Michal Kempny from Chicago Blackhawks|url=https://www.nhl.com/capitals/news/capitals-acquire-michal-kempny-from-chicago-blackhawks/c-296129438|website=NHL.com|access-date=February 19, 2018|date=February 19, 2018|archive-date=February 20, 2018|archive-url=https://web.archive.org/web/20180220025852/https://www.nhl.com/capitals/news/capitals-acquire-michal-kempny-from-chicago-blackhawks/c-296129438|url-status=live}}</ref> and [[Jakub Jeřábek|Jakub Jerabek]] from the [[Montreal Canadiens]].<ref>{{cite web|title=Capitals Acquire Jakub Jerabek from Montreal Canadiens|url=https://www.nhl.com/capitals/news/capitals-acquire-jakub-jerabek-from-montreal-canadiens/c-296197578|website=NHL.com|access-date=February 21, 2018|date=February 21, 2018|archive-date=February 22, 2018|archive-url=https://web.archive.org/web/20180222165115/https://www.nhl.com/capitals/news/capitals-acquire-jakub-jerabek-from-montreal-canadiens/c-296197578|url-status=live}}</ref>
+
+The Capitals finished the regular season with 105 points (49–26–7), winning their division. Left winger and team captain [[Alexander Ovechkin]] was the winner of this season's [[Maurice "Rocket" Richard Trophy]], leading the league with 49 regular-season goals.<ref>{{cite news|last1=Battaglino|first1=Matt|title=Ovechkin leads NHL in goals for seventh time|url=https://www.nhl.com/news/alex-ovechkin-leads-nhl-in-goals-wins-rocket-richard-trophy/c-297794578|website=NHL.com|access-date=April 9, 2018|date=April 9, 2018|archive-date=April 8, 2018|archive-url=https://web.archive.org/web/20180408161754/https://www.nhl.com/news/alex-ovechkin-leads-nhl-in-goals-wins-rocket-richard-trophy/c-297794578|url-status=live}}</ref> Kuznetsov led the team in assists with 56.<ref>{{cite web|url=https://www.hockey-reference.com/teams/WSH/2018.html|title=2017-18 Washington Capitals Roster and Statistics|publisher=Sports Reference LLC|website=hockey-reference.com|access-date=May 16, 2018|archive-date=May 15, 2018|archive-url=https://web.archive.org/web/20180515215841/https://www.hockey-reference.com/teams/WSH/2018.html|url-status=live}}</ref>
+
+In the first round of playoffs, Washington came back from a 2–0 series deficit to win four in a row and beat the [[Columbus Blue Jackets]] in six games. The Capitals then won a six-game series against their [[Capitals–Penguins rivalry|division rival]] and two-time defending champion [[Pittsburgh Penguins]], whom the Capitals had beaten in a playoff series only once in ten previous attempts since 1994; losing the last seven prior series to them. The Penguins had eliminated Washington from the playoffs in the second round the previous two years. Washington then defeated the [[Tampa Bay Lightning]] in the Eastern Conference Finals in seven games, winning game seven on the road for only the second time in franchise history and first since [[2012 Stanley Cup playoffs|2012]].<ref>{{cite web|url=https://www.nbcsports.com/video/washington-capitals-4-tampa-bay-lightning-0-game-7-highlights |title=Washington Capitals 4, Tampa Bay Lightning 0 Game 7 highlights |publisher=NBC Sports |date=January 1, 1970 |accessdate=June 8, 2018}}</ref>
+
+===Vegas Golden Knights===
+{{main|2017–18 Vegas Golden Knights season|2017 NHL expansion draft}}
+Vegas became the first expansion team since the [[1967–68 St. Louis Blues season|1967–68 St. Louis Blues]] to make the Stanley Cup Final in their inaugural season. However, the 1967–68 expansion was structured so that an expansion team was guaranteed to make the final. By contrast, the Golden Knights entered the season as long shots to make the postseason, let alone the Finals,<ref>{{cite news|last=Allen|first=Kevin|title=Ability to win in different ways puts Golden Knights on brink of Stanley Cup Final|url=https://www.usatoday.com/story/sports/nhl/columnist/allen/2018/05/18/vegas-golden-knights-winnipeg-jets-game-4-western-conference-final/625472002/|newspaper=[[USA Today]]|publisher=[[Gannett Company]]|date=May 18, 2018|access-date=May 21, 2018|archive-date=May 20, 2018|archive-url=https://web.archive.org/web/20180520081422/https://www.usatoday.com/story/sports/nhl/columnist/allen/2018/05/18/vegas-golden-knights-winnipeg-jets-game-4-western-conference-final/625472002/|url-status=live}}</ref> with sources like [[Deadspin]]<ref>{{cite news|last=Petchesky|first=Barry|title=Wow The Golden Knights Are Going To Be Bad|url=https://deadspin.com/wow-the-golden-knights-are-going-to-be-bad-1796327043|publisher=[[Gizmodo Media Group]]|website=[[Deadspin|Deadspin.com]]|date=June 22, 2017|access-date=May 21, 2018|archive-date=May 21, 2018|archive-url=https://web.archive.org/web/20180521104729/https://deadspin.com/wow-the-golden-knights-are-going-to-be-bad-1796327043|url-status=live}}</ref> and ''[[Newsweek]]''<ref>{{cite news|last=Cutler|first=Teddy|title=Vegas Golden Knights Are Going to Suck in 2017-18 and Here's Why|url=http://www.newsweek.com/vegas-golden-knights-nhl-expansion-draft-2017-mar-andre-fleury-james-neal-628218|magazine=[[Newsweek]]|publisher=[[Newsweek Media Group]]|date=June 22, 2017|access-date=May 21, 2018|archive-date=May 22, 2018|archive-url=https://web.archive.org/web/20180522041333/http://www.newsweek.com/vegas-golden-knights-nhl-expansion-draft-2017-mar-andre-fleury-james-neal-628218|url-status=live}}</ref> predicting that the Golden Knights would be among the worst teams in the league. However, the Golden Knights exceeded even the most optimistic projections to turn in [[Cinderella (sports)|one of the strongest debut seasons]] for an expansion team in [[Major professional sports leagues in the United States and Canada|North American professional sports]] history.<ref>{{cite news |last=Paine |first=Neil |date=January 16, 2018 |title=Vegas Has The Best Expansion Team In The History Of Pro Sports, And It's Not Close |url=https://fivethirtyeight.com/features/vegas-has-the-best-expansion-team-in-the-history-of-pro-sports-and-its-not-close/ |publisher=[[FiveThirtyEight]] |access-date=June 8, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612141856/https://fivethirtyeight.com/features/vegas-has-the-best-expansion-team-in-the-history-of-pro-sports-and-its-not-close/ |url-status=dead }}</ref>
+
+Las Vegas was awarded as the NHL's 31st franchise on June 22, 2016, to begin to play for the 2017–18 season.<ref>{{cite news|last=Rosen|first=Dan|title=Las Vegas awarded NHL franchise|url=https://www.nhl.com/news/nhl-expands-to-las-vegas/c-281010682|publisher=NHL Enterprises LP|website=NHL.com|date=June 23, 2016|access-date=June 24, 2017|archive-date=March 31, 2022|archive-url=https://web.archive.org/web/20220331111938/https://www.nhl.com/news/nhl-expands-to-las-vegas/c-281010682|url-status=live}}</ref> On April 13, 2017, the team announced the hiring of their inaugural head coach, [[Gerard Gallant]].<ref>{{cite news|title=Golden Knights Name Gerard Gallant Head Coach|url=https://www.nhl.com/goldenknights/news/golden-knights-name-gerard-gallant-head-coach/c-288743770|publisher=NHL Enterprises LP|website=NHL.com/GoldenKnights|access-date=April 13, 2017|date=April 13, 2017|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612142418/https://www.nhl.com/goldenknights/news/golden-knights-name-gerard-gallant-head-coach/c-288743770|url-status=live}}</ref> The team then participated in the [[2017 NHL expansion draft]] on June 21, selecting an available player from all of the other 30 NHL teams. Some notable selections included goalie [[Marc-André Fleury|Marc-Andre Fleury]], who had won three Stanley Cups as a member of the [[Pittsburgh Penguins]], winger [[James Neal (ice hockey)|James Neal]] from the [[Nashville Predators]], and [[Jonathan Marchessault]] from the [[Florida Panthers]]. Fleury was left exposed by the Penguins because of the emergence of [[Matt Murray (ice hockey, born 1994)|Matt Murray]].<ref>{{cite press release|title=Marc-Andre Fleury Claimed by Vegas Golden Knights in NHL Expansion Draft|url=https://www.nhl.com/penguins/news/fleury-claimed-by-vegas/c-290051212|publisher=NHL Enterprises LP|website=NHL.com/Penguins|date=June 20, 2017|access-date=May 24, 2018|archive-date=August 4, 2017|archive-url=https://web.archive.org/web/20170804012438/https://www.nhl.com/penguins/news/fleury-claimed-by-vegas/c-290051212|url-status=live}}</ref> The Panthers, who had salary cap issues, traded [[Reilly Smith]] to the Golden Knights in exchange for Vegas selecting Marchessault.<ref>{{cite news|title=Panthers Acquire 2018 Fourth Round Draft Choice from Vegas|url=https://www.nhl.com/panthers/news/florida-panthers-acquire-2018-fourth-round-draft-choice-from-vegas-golden-knights/c-290046188|publisher=NHL Enterprises LP|website=NHL.com/Panthers|date=June 21, 2017|access-date=May 24, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612143955/https://www.nhl.com/panthers/news/florida-panthers-acquire-2018-fourth-round-draft-choice-from-vegas-golden-knights/c-290046188|url-status=live}}</ref>
+
+The team started winning, despite Fleury being injured for most of the first months of the season.<ref>{{cite news|title=Fleury activated off injured reserve by Golden Knights|url=https://www.nhl.com/news/goalie-marc-andre-fleury-injury-update/c-293882526|publisher=NHL Enterprises LP|website=NHL.com|date=December 10, 2017|access-date=May 20, 2018|archive-date=July 5, 2018|archive-url=https://web.archive.org/web/20180705033038/https://www.nhl.com/news/goalie-marc-andre-fleury-injury-update/c-293882526|url-status=live}}</ref> The team relied on four other goaltenders while their starter was injured. Instead of being sellers trying to unload players with one-year contracts by the trade deadline, Vegas became surprise buyers,<ref>{{cite news|title=Will Golden Knights be surprise trade deadline buyers?|url=https://www.usatoday.com/story/sports/nhl/2018/01/31/will-golden-knights-be-surprise-trade-deadline-buyers/109965374/|agency=Associated Press|newspaper=USA Today|date=January 31, 2018|access-date=May 20, 2018|archive-date=May 21, 2018|archive-url=https://web.archive.org/web/20180521111412/https://www.usatoday.com/story/sports/nhl/2018/01/31/will-golden-knights-be-surprise-trade-deadline-buyers/109965374/|url-status=live}}</ref> acquiring [[Ryan Reaves]] from the Penguins<ref>{{cite web|title=Penguins Acquire Derick Brassard in Three-Team Trade with OTT and VGK|url=https://www.nhl.com/penguins/news/penguins-acquire-brassard-in-three-team-trade/c-296285780|website=NHL.com|publisher=Pittsburgh Penguins|access-date=February 23, 2018|date=February 23, 2018|archive-date=July 15, 2022|archive-url=https://web.archive.org/web/20220715153304/https://www.nhl.com/penguins/news/penguins-acquire-brassard-in-three-team-trade/c-296285780|url-status=live}}</ref> and [[Tomáš Tatar|Tomas Tatar]] from the [[Detroit Red Wings]].<ref>{{cite web|title=Vegas Golden Knights Acquire Tomas Tatar From The Detroit Red Wings|url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-acquire-tomas-tatar-from-the-detroit-red-wings/c-296389968|website=NHL.com|access-date=February 26, 2018|date=February 26, 2018|archive-date=February 27, 2018|archive-url=https://web.archive.org/web/20180227094259/https://www.nhl.com/goldenknights/news/vegas-golden-knights-acquire-tomas-tatar-from-the-detroit-red-wings/c-296389968|url-status=live}}</ref>
+
+On March 26, 2018, Vegas became the first team to make the playoffs in their inaugural season in the league since the [[Edmonton Oilers]] and [[Hartford Whalers]] in the [[1979–80 NHL season|1979–80 season]].<ref>{{cite news|last=Kaplan|first=Emily|title=Vegas first to clinch playoff berth in inaugural season since '79-80|url=https://abcnews.go.com/Sports/vegas-clinch-playoff-berth-inaugural-season-79-80/story?id=54032773|work=[[ABC News (United States)|ABC News]]|date=March 27, 2018|access-date=March 27, 2018|archive-date=March 27, 2018|archive-url=https://web.archive.org/web/20180327064059/http://abcnews.go.com/Sports/vegas-clinch-playoff-berth-inaugural-season-79-80/story?id=54032773|url-status=live}}</ref> Following that achievement, on March 31, Vegas became the first modern-era expansion team from any of the four major sports and the first NHL team since the [[1926–27 New York Rangers season|1926–27 New York Rangers]] to win their division in their inaugural season (excluding the [[1967–68 Philadelphia Flyers season|1967–68 Philadelphia Flyers]], as all teams in the [[West Division (NHL)|West Division]] that year were expansion teams).<ref>{{cite news|last=Webster|first=Danny|title=Golden Knights top Sharks, clinch Pacific Division|url=https://www.nhl.com/news/san-jose-sharks-vegas-golden-knights-game-recap/c-297543990|publisher=NHL Enterprises LP|website=NHL.com|date=March 31, 2018|access-date=April 1, 2018|archive-date=April 1, 2018|archive-url=https://web.archive.org/web/20180401213321/https://www.nhl.com/news/san-jose-sharks-vegas-golden-knights-game-recap/c-297543990|url-status=live}}</ref> The Golden Knights ended up finishing the regular season with 109 points (51–24–7). In the playoffs, Vegas swept the [[Los Angeles Kings]] in four games, defeated the [[San Jose Sharks]] in six games, and eliminated the [[Winnipeg Jets]] in the Western Conference Finals in five games.<ref>{{cite web |last=Katsilometes |first=John |url=https://www.reviewjournal.com/sports/golden-knights-nhl/stunned-jets-credit-golden-knights-it-was-their-time/ |title=Stunned Jets credit Golden Knights: 'It was their time' – Las Vegas Review-Journal |publisher=Reviewjournal.com |date=May 20, 2018 |access-date=June 8, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612141506/https://www.reviewjournal.com/sports/golden-knights-nhl/stunned-jets-credit-golden-knights-it-was-their-time/ |url-status=live }}</ref>
+
+With Vegas' trip to the 2018 Finals, a brand-new team in the league has now reached the Stanley Cup Final every 50 years dating back to 1918.<ref>{{cite news|title=Golden Knights join elite group in professional sports history|url=https://www.nhl.com/news/golden-knights-join-elite-group/c-298707748|publisher=NHL Enterprises LP|website=NHL.com|date=May 20, 2018|access-date=May 21, 2018|archive-date=May 22, 2018|archive-url=https://web.archive.org/web/20180522042033/https://www.nhl.com/news/golden-knights-join-elite-group/c-298707748|url-status=live}}</ref> The [[Toronto Arenas]] reached the [[1918 Stanley Cup Final]] and won the Cup, but this was the first year of the new NHL (after every team except the Toronto Blueshirts left the [[National Hockey Association]]). The St. Louis Blues reached the [[1968 Stanley Cup Final]] and got swept by the [[Montreal Canadiens]]. However, the Blues and five other brand-new expansion teams all entered the league at the same time and were all placed in the [[West Division (NHL)|West Division]], with the [[Original Six]] comprising the [[East Division (NHL)|East Division]]. The playoffs were structured so that one of the newly minted teams was guaranteed a berth in the Finals. In contrast, the Golden Knights were the first true expansion team in NHL history to advance all the way to the Finals while not playing in an all-expansion division.
+
+The Golden Knights were only the second captainless team since [[1973 Stanley Cup Final|1973]] to be in the Finals, and the first since the [[New York Rangers]] in [[2014 Stanley Cup Final|2014]].
+
+==Game summaries==
+:'' Number in parentheses represents the player's total goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|date1=May 28
+|team1=Washington Capitals
+|team2=Vegas Golden Knights
+|stadium1=[[T-Mobile Arena]]
+|score1=4–6
+|won1=2
+|recap1=www.nhl.com/news/washington-capitals-vegas-golden-knights-game-1-recap/c-298818918
+}}
+[[File:Nosek7990 34216865794 o (40542079232) (cropped).jpg|thumb|right|upright|[[Tomáš Nosek|Tomas Nosek]], shown with Grand Rapids, scored two goals, including the game-winner, in Game 1.]]
+Both teams scored twice in the opening period. The first goal came from Vegas Golden Knights defenceman [[Colin Miller (ice hockey, born 1992)|Colin Miller]] whose slap shot went past Capitals goaltender [[Braden Holtby]]. Washington struck back later in the period as both [[Brett Connolly]] and [[Nicklas Bäckström|Nicklas Backstrom]] scored 42 seconds apart. [[William Karlsson]] then snuck the puck in between Holtby and the left post to tie the game. Early in the second period, a rebound off the glass came to [[Deryk Engelland]] who passed to an open [[Reilly Smith]] firing one past Holtby. Capitals defenceman [[John Carlson (ice hockey)|John Carlson]] tied up the score after some nice passing from the defender and [[T. J. Oshie]] left himself wide open for the goal. In the third period, [[Tom Wilson (ice hockey)|Tom Wilson]] redirected [[Alexander Ovechkin]]'s shot past Vegas goaltender [[Marc-André Fleury|Marc-Andre Fleury]] to take the lead in the game. However, Vegas responded 1:41 later as [[Ryan Reaves]] went top-shelf to tie the game yet again. This goal proved to be controversial, as Ryan Reaves illegally cross-checked [[John Carlson (ice hockey)|John Carlson]] to get into position to score. [[Tomáš Nosek|Tomas Nosek]] was able to score for Vegas later in the period, taking the pass from [[Shea Theodore]]. Vegas kept the lead in the penultimate minutes, grabbing an empty-net goal in the final minute to finish the game 6–4.<ref>{{cite web|url=https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-1-recap/c-298818918|title=Golden Knights defeat Capitals in back-and-forth Game 1 of Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises LP|date=May 28, 2018|website=NHL.com|access-date=May 28, 2018|archive-date=May 29, 2018|archive-url=https://web.archive.org/web/20180529065544/https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-1-recap/c-298818918|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4"|'''1st'''
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[Colin Miller (ice hockey, born 1992)|Colin Miller]] (3) – ''pp''
+| style="text-align:center;"|[[Erik Haula]] (5)
+| style="text-align:center;"|07:15
+| style="text-align:center;"|1–0 VGK
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Brett Connolly]] (5)
+| style="text-align:center;"|[[Michal Kempný|Michal Kempny]] (2), [[André Burakovsky|Andre Burakovsky]] (1)
+| style="text-align:center;"|14:41
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Nicklas Bäckström|Nicklas Backstrom]] (5)
+| style="text-align:center;"|[[T. J. Oshie]] (9), [[Jakub Vrána|Jakub Vrana]] (5)
+| style="text-align:center;"|15:23
+| style="text-align:center;"|2–1 WSH
+|- style="text-align:center;" 
+||VGK
+||[[William Karlsson]] (7)
+||[[Reilly Smith]] (15), [[Deryk Engelland]] (1)
+||18:19
+||2–2
+|- style="text-align:center;" 
+| rowspan="2"|'''2nd'''
+||VGK
+||Reilly Smith (3)
+||Deryk Engelland (2), [[Jonathan Marchessault]] (11)
+||03:21
+||3–2 VGK
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[John Carlson (ice hockey)|John Carlson]] (4)
+| style="text-align:center;"|T. J. Oshie (10), Nicklas Backstrom (13)
+| style="text-align:center;"|08:29
+| style="text-align:center;"|3–3
+|-
+| style="text-align:center;" rowspan="4"|'''3rd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Tom Wilson (ice hockey)|Tom Wilson]] (4)
+| style="text-align:center;"|[[Alexander Ovechkin]] (11), [[Evgeny Kuznetsov]] (14)
+| style="text-align:center;"|01:10
+| style="text-align:center;"|4–3 WSH
+|- style="text-align:center;" 
+||VGK
+||[[Ryan Reaves]] (2)
+||''Unassisted''
+||02:41
+||4–4
+|-
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[Tomáš Nosek|Tomas Nosek]] (2)
+| style="text-align:center;"|[[Shea Theodore]] (6)
+| style="text-align:center;"|09:44
+| style="text-align:center;"|5–4 VGK
+|- style="text-align:center;" 
+||VGK
+||Tomas Nosek (3) – ''en''
+||[[David Perron]] (8)
+||19:57
+||6–4 VGK
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| style="text-align:center;"|'''1st'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|Andre Burakovsky
+| style="text-align:center;"|Boarding
+| style="text-align:center;"|05:53
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||'''2nd'''
+||VGK
+||Bench (served by David Perron)
+||Too many men on the ice
+||13:55
+||2:00
+|-
+| style="text-align:center;" rowspan="2"|'''3rd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|Tom Wilson
+| style="text-align:center;"|Interference
+| style="text-align:center;"|05:53
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||VGK
+||David Perron
+||Cross-checking
+||05:53
+||2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|WSH}} || style="text-align:center;"|10 || style="text-align:center;"|8 || style="text-align:center;"|10 || style="text-align:center;"|28
+|-
+| style="text-align:left;"|{{nowrap|VGK}} || style="text-align:center;"|11 || style="text-align:center;"|14 || style="text-align:center;"|9 || style="text-align:center;"|34
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=May 30
+|team1=Washington Capitals
+|team2=Vegas Golden Knights
+|stadium1=[[T-Mobile Arena]]
+|score1=3–2
+|won1=1
+|recap1=www.nhl.com/news/washington-capitals-vegas-golden-knights-game-2-recap/c-298850984
+}}
+[[File:Braden Holtby 2016-04-07 1.JPG|thumb|right|upright=.8|[[Braden Holtby]] saved 37 of 39 shots faced in Game 2.]]
+During the first period of game two, [[James Neal (ice hockey)|James Neal]] took a pass from [[Luca Sbisa]], firing a wrist shot past [[Braden Holtby]]. The Capitals tied the game during a four-on-four when [[Lars Eller]] shot into an empty net from [[Michal Kempný|Michal Kempny's]] pass. During the second period, Golden Knights rookie [[Alex Tuch]] was penalized for cross-checking, and on the ensuing power-play, Capitals captain [[Alexander Ovechkin]] fired a shot from a tight angle to give Washington the lead. [[Brooks Orpik]] extended the Capitals' lead to two goals when his shot deflected off [[Alex Tuch]] past [[Marc-André Fleury|Marc-Andre Fleury]]. Vegas cut the deficit by one goal when [[T. J. Oshie]] interfered with [[Colin Miller (ice hockey, born 1992)|Colin Miller]] and [[Shea Theodore]] scored on the power-play. In the third period Holtby backstopped Washington to the victory, stopping the final fifteen shots from Vegas, including a diving stick save from [[Braden Holtby]] known as "The Save" to win 3–2 for the Capitals's first victory in the Stanley Cup Final.<ref>{{cite web|url=https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-2-recap/c-298850984|title=Capitals hang on to defeat Golden Knights in Game 2, even Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises LP|date=May 30, 2018|website=NHL.com|access-date=June 2, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612210739/https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-2-recap/c-298850984|url-status=live}}</ref><ref>{{Cite news |last=Kuc |first=Chris |date=2018-12-04 |title='That was crazy. That was insane': An oral history of Braden Holtby's save that propelled the Capitals to the Cup |url=https://www.nytimes.com/athletic/687995/2018/12/04/that-was-crazy-that-was-insane-an-oral-history-of-braden-holtbys-save-that-propelled-the-capitals-to-the-cup/ |access-date=2026-06-11 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2"|'''1st'''
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[James Neal (ice hockey)|James Neal]] (5)
+| style="text-align:center;"|[[Luca Sbisa]] (3), [[Colin Miller (ice hockey, born 1992)|Colin Miller]] (2)
+| style="text-align:center;"|07:58
+| style="text-align:center;"|1–0 VGK
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Lars Eller]] (6)
+| style="text-align:center;"|[[Michal Kempný|Michal Kempny]] (3), [[André Burakovsky|Andre Burakovsky]] (2)
+| style="text-align:center;"|17:27
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;" rowspan="3"|'''2nd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Alexander Ovechkin]] (13) – ''pp''
+| style="text-align:center;"|Lars Eller (10), [[Nicklas Bäckström|Nicklas Backstrom]] (14)
+| style="text-align:center;"|05:38
+| style="text-align:center;"|2–1 WSH
+|- style="text-align:center;" 
+||WSH
+||[[Brooks Orpik]] (1)
+||Lars Eller (11), Andre Burakovsky (3)
+||09:41
+||3–1 WSH
+|- style="text-align:center;" 
+||VGK
+||[[Shea Theodore]] (3) – ''pp''
+||[[Reilly Smith]] (16), [[William Karlsson]] (8)
+||17:47
+||3–2 WSH
+|- style="text-align:center;"
+||'''3rd'''
+| colspan="5"|''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="2"|'''1st'''
+||WSH
+||[[T. J. Oshie]]
+||Roughing
+||16:43
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Deryk Engelland]]
+||Roughing
+||16:43
+||2:00
+|- style="text-align:center;" 
+| rowspan="7"|'''2nd'''
+||WSH
+||Brooks Orpik
+||Illegal check to head
+||02:04
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Alex Tuch]]
+||Cross-checking
+||05:13
+||2:00
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|Nicklas Backstrom
+| style="text-align:center;"|Holding
+| style="text-align:center;"|06:56
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||VGK
+||[[Erik Haula]]
+||Holding
+||06:56
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Ryan Reaves]]
+||Roughing
+||10:10
+||2:00
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Dmitry Orlov (ice hockey)|Dmitry Orlov]]
+| style="text-align:center;"|Hooking
+| style="text-align:center;"|11:42
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||WSH
+||T. J. Oshie
+||Interference
+||17:27
+||2:00
+|-
+| style="text-align:center;" rowspan="2"|'''3rd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Tom Wilson (ice hockey)|Tom Wilson]]
+| style="text-align:center;"|Interference
+| style="text-align:center;"|03:13
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||WSH
+||Lars Eller
+||Hooking
+||04:05
+||2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|WSH}} || style="text-align:center;"|11 || style="text-align:center;"|9 || style="text-align:center;"|6 || style="text-align:center;"|26
+|-
+| style="text-align:left;"|{{nowrap|VGK}} || style="text-align:center;"|10 || style="text-align:center;"|14 || style="text-align:center;"|15 || style="text-align:center;"|39
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=June 2
+|team1=Vegas Golden Knights
+|team2=Washington Capitals
+|stadium1=[[Capital One Arena]]
+|score1=1–3
+|won1=2
+|recap1=www.nhl.com/news/vegas-golden-knights-washington-capitals-game-3-recap/c-298904488
+}}
+[[File:Devante Smith-Pelly 2018-04-29.jpg|thumb|right|upright=.8|[[Devante Smith-Pelly]] began his three-game goal-scoring streak in Game 3.]]
+After a tense first period in which neither team scored, [[Alexander Ovechkin]] scored early in the second period to give Washington the lead. [[Evgeny Kuznetsov]], who was believed to have suffered an arm injury the game prior,<ref>{{cite web|url=https://www.sbnation.com/nhl/2018/6/1/17411256/evgeny-kuznetsov-injury-updates-stanley-cup|title=Capitals star Evgeny Kuznetsov may or may not play in Game 3 against Vegas|last=Kirshner|first=Alex|publisher=Vox Media, Inc.|date=June 1, 2018|website=sbnation.com|access-date=June 3, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612140156/https://www.sbnation.com/nhl/2018/6/1/17411256/evgeny-kuznetsov-injury-updates-stanley-cup|url-status=live}}</ref> scored 11:40 after Ovechkin, extending Washington's lead to two. [[Tomáš Nosek|Tomas Nosek]] scored off of a [[Braden Holtby]] giveaway to cut the deficit in half early in the third period. However, 10 minutes later [[Shea Theodore]] mishandled the puck in his own zone and [[Jay Beagle]] capitalized on the error, making a pass to an open [[Devante Smith-Pelly]] who restored the two-goal lead for Washington. The Capitals played defensively for the final minutes of the game to win 3–1, and took the series lead.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-washington-capitals-game-3-recap/c-298904488|title=Capitals lead Stanley Cup Final after Game 3 win against Golden Knights|last=Rosen|first=Dan|publisher=NHL Enterprises LP|date=June 2, 2018|website=NHL.com|access-date=June 3, 2018|archive-date=August 22, 2018|archive-url=https://web.archive.org/web/20180822195112/https://www.nhl.com/news/vegas-golden-knights-washington-capitals-game-3-recap/c-298904488|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+||'''1st'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Alexander Ovechkin]] (14)
+| style="text-align:center;"|[[John Carlson (ice hockey)|John Carlson]] (14), [[Evgeny Kuznetsov]] (15)
+| style="text-align:center;"|01:10
+| style="text-align:center;"|1–0 WSH
+|- style="text-align:center;" 
+||WSH
+||Evgeny Kuznetsov (12)
+||[[Jay Beagle]] (5), [[T. J. Oshie]] (11)
+||12:50
+||2–0 WSH
+|-
+| style="text-align:center;" rowspan="2"|'''3rd'''
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[Tomáš Nosek|Tomas Nosek]] (4)
+| style="text-align:center;"|[[Pierre-Édouard Bellemare|Pierre-Edouard Bellemare]] (3)
+| style="text-align:center;"|03:29
+| style="text-align:center;"|2–1 WSH
+|- style="text-align:center;" 
+||WSH
+||[[Devante Smith-Pelly]] (5)
+||Jay Beagle (6)
+||13:53
+||3–1 WSH
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="2"|'''1st'''
+||WSH
+||Devante Smith-Pelly
+||Interference
+||05:04
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Reilly Smith]]
+||Holding
+||11:21
+||2:00
+|- style="text-align:center;" 
+| rowspan="3"|'''2nd'''
+||VGK
+||[[Erik Haula]]
+||Hooking
+||09:55
+||2:00
+|- style="text-align:center;" 
+||WSH
+||Devante Smith-Pelly
+||Tripping
+||18:34
+||2:00
+|-
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[Marc-André Fleury|Marc-Andre Fleury]] (served by [[Shea Theodore]])
+| style="text-align:center;"|Tripping
+| style="text-align:center;"|19:38
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+||'''3rd'''
+||VGK
+||[[Deryk Engelland]]
+||Tripping
+||07:35
+||2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|VGK}} || style="text-align:center;"|5 || style="text-align:center;"|8 || style="text-align:center;"|9 || style="text-align:center;"|22
+|-
+| style="text-align:left;"|{{nowrap|WSH}} || style="text-align:center;"|7 || style="text-align:center;"|14 || style="text-align:center;"|5 || style="text-align:center;"|26
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=June 4
+|team1=Vegas Golden Knights
+|team2=Washington Capitals
+|stadium1=[[Capital One Arena]]
+|score1=2–6
+|won1=2
+|recap1=www.nhl.com/news/vegas-golden-knights-washington-capitals-game-4-recap/c-298927150
+}}
+[[File:Evgeny Kuznetsov 2018-04-29.jpg|thumb|right|upright=.8|[[Evgeny Kuznetsov]] scored four assists in Game 4.]]
+During the first period, a penalty called on [[Colin Miller (ice hockey, born 1992)|Colin Miller]] for tripping allowed [[T. J. Oshie]] to give Washington the first lead. The Capitals extended the lead after [[Evgeny Kuznetsov]] fed a pass to [[Tom Wilson (ice hockey)|Tom Wilson]] who fired a wrist shot past [[Marc-André Fleury|Marc-Andre Fleury]]. [[Devante Smith-Pelly]] then gave Washington a 3–0 lead after a pass by [[Matt Niskanen]] deflected off Vegas forward [[Jonathan Marchessault]] to the stick of Smith-Pelly, who scored top-shelf on Fleury. Even with the Golden Knights more than doubling the shots of Washington, [[John Carlson (ice hockey)|John Carlson]] gave the Capitals a 4–0 lead, firing a slap shot on the power-play. In the third period, Vegas ended the shutout as [[James Neal (ice hockey)|James Neal]] scored just as Evgeny Kuznetsov's tripping penalty had expired. [[Reilly Smith]] cut the deficit to two goals, scoring on the backhand past [[Braden Holtby]]. Washington restored a three-goal lead during a four-on-four; as [[Nicklas Bäckström|Nicklas Backstrom]] fed an open [[Michal Kempný|Michal Kempny]], firing the shot past Fleury. [[Brett Connolly]] added an insurance goal with less than two minutes remaining, giving the Capitals a commanding 6–2 lead.<ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-washington-capitals-game-4-recap/c-298927150|title=Capitals top Golden Knights in Game 4, move one win from first Cup title|last=Rosen|first=Dan|publisher=NHL Enterprises LP|date=June 4, 2018|website=NHL.com|access-date=June 7, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612210856/https://www.nhl.com/news/vegas-golden-knights-washington-capitals-game-4-recap/c-298927150|url-status=live}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[T. J. Oshie]] (8) – ''pp''
+| style="text-align:center;"|[[Evgeny Kuznetsov]] (16), [[Nicklas Bäckström|Nicklas Backstrom]] (15)
+| style="text-align:center;"|09:54
+| style="text-align:center;"|1–0 WSH
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Tom Wilson (ice hockey)|Tom Wilson]] (5)
+| style="text-align:center;"|Evgeny Kuznetsov (17)
+| style="text-align:center;"|16:26
+| style="text-align:center;"|2–0 WSH
+|- style="text-align:center;" 
+||WSH
+||[[Devante Smith-Pelly]] (6)
+||[[Matt Niskanen]] (8), [[Alexander Ovechkin]] (12)
+||19:39
+||3–0 WSH
+|-
+| style="text-align:center;"|'''2nd'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[John Carlson (ice hockey)|John Carlson]] (5) – ''pp''
+| style="text-align:center;"|Evgeny Kuznetsov (18), T. J. Oshie (12)
+| style="text-align:center;"|15:23
+| style="text-align:center;"|4–0 WSH
+|-
+| style="text-align:center;" rowspan="4"|'''3rd'''
+| style="text-align:center;"|VGK
+| style="text-align:center;"|[[James Neal (ice hockey)|James Neal]] (6)
+| style="text-align:center;"|[[Erik Haula]] (6), [[Colin Miller (ice hockey, born 1992)|Colin Miller]] (3)
+| style="text-align:center;"|05:43
+| style="text-align:center;"|4–1 WSH
+|- style="text-align:center;" 
+||VGK
+||[[Reilly Smith]] (4)
+||[[Jonathan Marchessault]] (12), [[Luca Sbisa]] (4)
+||12:26
+||4–2 WSH
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|[[Michal Kempný|Michal Kempny]] (2)
+| style="text-align:center;"|Nicklas Backstrom (16), T. J. Oshie (13)
+| style="text-align:center;"|13:39
+| style="text-align:center;"|5–2 WSH
+|- style="text-align:center;" 
+||WSH
+||[[Brett Connolly]] (6) – ''pp''
+||Nicklas Backstrom (17), Evgeny Kuznetsov (19)
+||18:51
+||6–2 WSH
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| style="text-align:center;" rowspan="2"|'''1st'''
+| style="text-align:center;"|WSH
+| style="text-align:center;"|John Carlson
+| style="text-align:center;"|Tripping
+| style="text-align:center;"|03:58
+| style="text-align:center;"|2:00
+|-
+| style="text-align:center;"|VGK
+| style="text-align:center;"|Colin Miller
+| style="text-align:center;"|Tripping
+| style="text-align:center;"|09:22
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+| rowspan="3"|'''2nd'''
+||WSH
+||John Carlson
+||Tripping
+||05:21
+||2:00
+|-
+| style="text-align:center;"|WSH
+| style="text-align:center;"|Tom Wilson
+| style="text-align:center;"|Cross-checking
+| style="text-align:center;"|09:18
+| style="text-align:center;"|2:00
+|-
+| style="text-align:center;"|VGK
+| style="text-align:center;"|James Neal
+| style="text-align:center;"|Slashing
+| style="text-align:center;"|14:45
+| style="text-align:center;"|2:00
+|- style="text-align:center;" 
+| rowspan="9"|'''3rd'''
+||VGK
+||Erik Haula
+||Slashing
+||01:33
+||2:00
+|- style="text-align:center;" 
+||WSH
+||Evgeny Kuznetsov
+||Tripping
+||03:42
+||2:00
+|- style="text-align:center;" 
+||WSH
+||Tom Wilson
+||Roughing
+||13:03
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Ryan Reaves]]
+||Roughing
+||13:03
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Nate Schmidt]]
+||Tripping
+||16:57
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Brayden McNabb]]
+||Cross-checking
+||17:44
+||2:00
+|- style="text-align:center;" 
+||VGK
+||[[Deryk Engelland]]
+||Misconduct
+||17:44
+||10:00
+|- style="text-align:center;" 
+||WSH
+||T. J. Oshie
+||Misconduct
+||17:44
+||10:00
+|- style="text-align:center;" 
+||VGK
+||Ryan Reaves
+||Misconduct
+||19:17
+||10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|VGK}} || style="text-align:center;"|11 || style="text-align:center;"|11 || style="text-align:center;"|9 || style="text-align:center;"|30
+|-
+| style="text-align:left;"|{{nowrap|WSH}} || style="text-align:center;"|10 || style="text-align:center;"|5 || style="text-align:center;"|7 || style="text-align:center;"|23
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=June 7
+|team1=Washington Capitals
+|team2=Vegas Golden Knights
+|stadium1=[[T-Mobile Arena]]
+|score1=4–3
+|won1=1
+|recap1=www.nhl.com/news/washington-capitals-vegas-golden-knights-game-5-recap/c-298984386
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=IzyKiQY5GoI Game 5 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:Lars Eller 2018-02-04 1.jpg|thumb|right|upright=.8|[[Lars Eller]] scored the [[Stanley Cup]]-clinching goal in Game 5.]]
+Although no goals were scored in the first period, the Capitals had the shot advantage nine to seven. During the second period, [[Tom Wilson (ice hockey)|Tom Wilson]] passed to a speedy [[Jakub Vrána|Jakub Vrana]] going past the Golden Knight's defender and beating [[Marc-André Fleury|Marc-Andre Fleury]] to take the lead. The Golden Knights tied the game soon after as former-Capitals defenceman [[Nate Schmidt]] shot through a flurry of players and the puck deflected off of [[Matt Niskanen]] past [[Braden Holtby]]. [[Alexander Ovechkin]] gave the Capitals the lead again on the power play, firing a shot onto Fleury, bouncing off his back and into the net. With the goal, it broke a tie with [[John Druce]] for most goals in a postseason by a Capitals player with fifteen. [[David Perron]] tied the game for Vegas, scoring his first goal of the postseason via deflection. Coach [[Barry Trotz]] of the Capitals challenged the play on goaltender interference as Perron appeared to hit the skate of Holtby as he was battling for position; the challenge was unsuccessful. An open [[Reilly Smith]] gave the Golden Knights the lead in the final minute of the second period, taking the pass from [[Alex Tuch]]. Halfway through the third period, [[Devante Smith-Pelly]] tied the game for the Capitals. Less than three minutes later, a shot came from the slot and went between Fleury's pads, but, unbeknownst to Fleury and his defensemen, the puck sneaked through and was lying in view just behind him, and [[Lars Eller]] forehanded it into the net to give the Capitals the lead with 7:37 left. With two minutes left, Vegas pulled Fleury for an extra attacker. At 18:11 of the third period, the game clock froze; however, the next stoppage in play occurred at 28.9 seconds remaining, allowing the clock to be readjusted.<ref>{{cite web|last=Petchesky|first=Barry|publisher=Gizmodo Media Group|date=June 7, 2018|title=The Game Clock Broke In Vegas And Caused Total Chaos|url=https://deadspin.com/the-game-clock-broke-in-vegas-and-caused-total-chaos-1826665434|website=Deadspin.com|access-date=June 8, 2018|archive-date=June 9, 2018|archive-url=https://web.archive.org/web/20180609025649/https://deadspin.com/the-game-clock-broke-in-vegas-and-caused-total-chaos-1826665434|url-status=live}}</ref> Nevertheless, the attempts of the Golden Knights were thwarted as the Capitals held on to win the game and their first Stanley Cup.<ref>{{cite web|url=https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-5-recap/c-298984386?tid=297173160|title=Capitals win Stanley Cup, defeat Golden Knights in Game 5 of Final|last=Rosen|first=Dan|publisher=NHL Enterprises LP|date=June 7, 2018|website=NHL.com|access-date=June 7, 2018|archive-date=June 12, 2018|archive-url=https://web.archive.org/web/20180612141423/https://www.nhl.com/news/washington-capitals-vegas-golden-knights-game-5-recap/c-298984386?tid=297173160|url-status=live}}</ref><ref>{{cite web|url=https://www.reuters.com/article/us-icehockey-nhl-vgk-wsh/capitals-beat-golden-knights-to-clinch-maiden-stanley-cup-title-idUSKCN1J40AE|title=Capitals beat Golden Knights to win their first Stanley Cup|first=Frank|last=Pingue|publisher=Reuters|date=June 7, 2018|website=reuters.com|access-date=June 8, 2018|archive-date=May 25, 2023|archive-url=https://web.archive.org/web/20230525173641/https://www.reuters.com/article/us-icehockey-nhl-vgk-wsh/capitals-beat-golden-knights-to-clinch-maiden-stanley-cup-title-idUSKCN1J40AE|url-status=live}}</ref> Ovechkin was awarded the [[Conn Smythe Trophy]].<ref name="connsmythe">{{cite web|url=http://www.espn.com/nhl/story/_/id/23729499/alex-ovechkin-washington-capitals-wins-conn-smythe-trophy-playoffs-mvp|title=Alex Ovechkin of Washington Capitals wins Conn Smythe Trophy as playoffs MVP|last=Kaplan|first=Emily|publisher=ESPN Internet Ventures|website=ESPN.com|date=June 8, 2018|access-date=June 8, 2018|archive-date=June 8, 2018|archive-url=https://web.archive.org/web/20180608083012/http://www.espn.com/nhl/story/_/id/23729499/alex-ovechkin-washington-capitals-wins-conn-smythe-trophy-playoffs-mvp|url-status=live}}</ref>
+
+The Capitals' Stanley Cup victory was the first championship won by a team from [[Washington, D.C.]] since 1992, when the then-[[Washington Redskins]] won [[Super Bowl XXVI]].<ref>{{Cite web|url=https://www.espn.com/nhl/story/_/id/23729697/washington-capitals-fans-celebrate-stanley-cup-first-dc-title-1992|title=Capitals fans celebrate Stanley Cup, first D.C. title since 1992|website=[[ESPN]]|date=June 8, 2018|accessdate=March 20, 2026}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;" 
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | WSH
+|align=center | [[Jakub Vrána|Jakub Vrana]] (3)
+|align=center | [[Tom Wilson (ice hockey)|Tom Wilson]] (10), [[Evgeny Kuznetsov]] (20)
+|align=center | 06:24
+|align=center | 1–0 WSH
+|-
+|align=center | VGK
+|align=center | [[Nate Schmidt]] (3)
+|align=center | [[Reilly Smith]] (17), [[Jonathan Marchessault]] (13)
+|align=center | 09:40
+|align=center | 1–1
+|-
+|align=center | WSH
+|align=center | [[Alexander Ovechkin]] (15) – ''pp''
+|align=center | [[Nicklas Bäckström|Nicklas Backstrom]] (18), [[John Carlson (ice hockey)|John Carlson]]
+|align=center | 10:14
+|align=center | 2–1 WSH
+|-
+|align=center | VGK
+|align=center | [[David Perron]] (1)
+|align=center | [[Tomáš Tatar|Tomas Tatar]] (1), [[Colin Miller (ice hockey, born 1992)|Colin Miller]] (4)
+|align=center | 12:56
+|align=center | 2–2
+|-
+|align=center | VGK
+|align=center | Reilly Smith (5) – ''pp''
+|align=center | [[Alex Tuch]] (4), [[Shea Theodore]] (7)
+|align=center | 19:31
+|align=center | 3–2 VGK
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | WSH
+|align=center | [[Devante Smith-Pelly]] (7)
+|align=center | [[Brooks Orpik]] (4)
+|align=center | 09:52
+|align=center | 3–3
+|-
+|align=center | WSH
+|align=center | [[Lars Eller]] (7)
+|align=center | [[Brett Connolly]] (3), [[André Burakovsky|Andre Burakovsky]] (4)
+|align=center | 12:23
+|align=center | 4–3 WSH
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+|align=center | VGK
+|align=center | Colin Miller
+|align=center | Interference
+|align=center | 11:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | VGK
+|align=center | Shea Theodore
+|align=center | Tripping
+|align=center | 00:21
+|align=center | 2:00
+|-
+|align=center | WSH
+|align=center | [[Christian Djoos]]
+|align=center | High sticking
+|align=center | 03:19
+|align=center | 2:00
+|-
+|align=center | VGK
+|align=center | [[Brayden McNabb]]
+|align=center | Tripping
+|align=center | 09:51
+|align=center | 2:00
+|-
+|align=center | WSH
+|align=center | Alexander Ovechkin
+|align=center | Tripping
+|align=center | 17:46
+|align=center | 2:00
+|-
+|align=center | WSH
+|align=center | Brooks Orpik
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+|align=center | VGK
+|align=center | Reilly Smith
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+|align=center | VGK
+|align=center | [[Alex Tuch]]
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+|align=center | WSH
+|align=center | [[Jay Beagle]]
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+| style="text-align:center;"| '''3rd'''
+|align=center | VGK
+|align=center | Tomas Tatar
+|align=center | Hooking
+|align=center | 05:37
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|WSH}} ||align=center | 9 ||align=center | 11 ||align=center | 13 ||align=center | 33
+|-
+| style="text-align:left;"| {{nowrap|VGK}} ||align=center | 7 ||align=center | 13 ||align=center | 11 ||align=center | 31
+|}
+
+==Team rosters==
+
+===Vegas Golden Knights=== 
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| 3
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|McNabb}}
+| D
+| L
+| {{hs|27–120}}27
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Davidson, Saskatchewan]]
+| style="text-align:left;"|first
+|-
+| 5
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Deryk|Engelland}}&nbsp;– '''[[Alternate captain|A]]'''
+| D
+| R
+| {{hs|36–048}}36
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| style="text-align:left;"|first
+|-
+| 6
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|Miller|dab=ice hockey, born 1992}}
+| D
+| R
+| {{hs|25–204}}25
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| style="text-align:left;"|first
+|-
+| 15
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Merrill|dab=ice hockey}}
+| D
+| L
+| {{hs|26–107}}26
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Oklahoma City|Oklahoma City, Oklahoma]]
+| style="text-align:left;"|first
+|-
+| 18
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|James|Neal|dab=ice hockey}}&nbsp;– '''[[Alternate captain|A]]'''
+| RW
+| L
+| {{hs|30–260}}30
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Whitby, Ontario]]
+| style="text-align:left;"|second {{small|([[2017 Stanley Cup Final|2017]])}}
+|-
+| 19
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Reilly|Smith}}&nbsp;– '''[[Alternate captain|A]]'''
+| RW
+| L
+| {{hs|27–050}}27
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| style="text-align:left;"|first
+|-
+| 21
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cody|Eakin}}
+| C
+| L
+| {{hs|27–004}}27
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| style="text-align:left;"|first
+|-
+| 24
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Oscar|Lindberg|dab=ice hockey}}
+| C
+| L
+| {{hs|26–204}}26
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Skellefteå|Skellefteå, Sweden]]
+| style="text-align:left;"|first
+|-
+| 27
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shea|Theodore}}
+| D
+| L
+| {{hs|22–291}}22
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Langley, British Columbia (district municipality)|Langley, British Columbia]]
+| style="text-align:left;"|first
+|-
+| 28
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|William|Carrier|dab=ice hockey}}
+| LW
+| L
+| {{hs|23–152}}23
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[LaSalle, Quebec]]
+| style="text-align:left;"|first
+|-
+| 29
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc-Andre|Fleury|Marc-André Fleury}}
+| G
+| L
+| {{hs|33–174}}33
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Sorel-Tracy|Sorel-Tracy, Quebec]]
+| style="text-align:left;"|fifth {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''', '''[[2016 Stanley Cup Final|2016]]''', '''[[2017 Stanley Cup Final|2017]]''')}}
+|-
+| 30
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Malcolm|Subban}}
+| G
+| L
+| {{hs|24–151}}24
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| style="text-align:left;"|first
+|-
+| 33
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Maxime|Lagace|Maxime Lagacé}}
+| G
+| L
+| {{hs|25–129}}25
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Saint-Augustin-de-Desmaures|Saint-Agustin, Quebec]]
+| style="text-align:left;"|first
+|-
+| 40
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Carpenter}}
+| C
+| R
+| {{hs|27–123}}27
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Oviedo, Florida]]
+| style="text-align:left;"|first
+|-
+| 41
+| {{flagicon|FRA}}
+! scope="row" style="text-align:left;"|{{sortname|Pierre-Edouard|Bellemare|Pierre-Édouard Bellemare}}&nbsp;– '''[[Alternate captain|A]]'''
+| LW
+| L
+| {{hs|33–076}}33
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Le Blanc-Mesnil|Le Blanc-Mesnil, France]]
+| style="text-align:left;"|first
+|-
+| 47
+| {{flagicon|CHE}}
+! scope="row" style="text-align:left;"|{{sortname|Luca|Sbisa}}&nbsp;– '''[[Alternate captain|A]]'''
+| D
+| L
+| {{hs|28–111}}28
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Ozieri|Ozieri, Italy]]
+| style="text-align:left;"|first
+|-
+| 56
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Haula}}
+| LW
+| L
+| {{hs|27–059}}27
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Pori|Pori, Finland]]
+| style="text-align:left;"|first
+|-
+| 57
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|David|Perron}}&nbsp;– '''[[Alternate captain|A]]'''
+| LW
+| R
+| {{hs|29–358}}29
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Sherbrooke|Sherbrooke, Quebec]]
+| style="text-align:left;"|first
+|-
+| 71
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|William|Karlsson}}
+| C
+| L
+| {{hs|25–133}}25
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[Märsta|Märsta, Sweden]]
+| style="text-align:left;"|first
+|-
+| 75
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Reaves}}
+| RW
+| R
+| {{hs|31–121}}31
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| style="text-align:left;"|first
+|-
+| 81
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Marchessault}}
+| C
+| R
+| {{hs|27–145}}27
+| [[2017 NHL Expansion Draft|2017]]
+|style="text-align:left;"|[[Cap-Rouge, Quebec City|Cap-Rouge, Quebec]]
+| style="text-align:left;"|second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| 88
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Nate|Schmidt}}
+| D
+| L
+| {{hs|26–309}}26
+| [[2017 NHL Expansion Draft|2017]]
+| style="text-align:left;"|[[St. Cloud, Minnesota]]
+| style="text-align:left;"|first
+|-
+| 89
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Tuch}}
+| RW
+| R
+| {{hs|22–011}}22
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Syracuse, New York]]
+| style="text-align:left;"|first
+|-
+| 90
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Tatar|Tomáš Tatar}}
+| LW
+| L
+| {{hs|27–171}}27
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Ilava|Ilava, Czechoslovakia]]
+| style="text-align:left;"|first
+|-
+| 92
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Nosek|Tomáš Nosek}}
+| LW
+| L
+| {{hs|25–262}}25
+| [[2017 NHL Expansion Draft#Trades|2017]]
+| style="text-align:left;"|[[Pardubice|Pardubice, Czechoslovakia]]
+| style="text-align:left;"|first
+|}
+
+===Washington Capitals===
+[[File:Alex Ovechkin with Stanley Cup.jpg|right|thumb|250px|[[Alexander Ovechkin]] captained the Capitals to their first [[Stanley Cup]] championship in franchise history, winning the [[Conn Smythe Trophy]] as the most valuable player of the 2018 playoffs<ref name=connsmythe/>]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+<!-- |-
+| 1
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Pheonix|Copley}}
+| G
+| L
+| {{hs|26–120}}27
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[North Pole, Alaska]]
+| style="text-align:left;"|first -->
+|-
+| 2
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matt|Niskanen}}
+| D
+| R
+| {{hs|31–169}}31
+| [[2014–15 NHL season|2014]]
+| style="text-align:left;"|[[Virginia, Minnesota]]
+| style="text-align:left;"|first
+|-
+| 6
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Michal|Kempny|Michal Kempný}}
+| D
+| L
+| {{hs|27–258}}27
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Hodonín|Hodonin, Czechoslovakia]]
+| style="text-align:left;"|first
+|-
+| 8
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Ovechkin}}&nbsp;– '''[[Captain (ice hockey)|C]]'''
+| LW
+| R
+| {{hs|32–249}}32
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| style="text-align:left;"|first
+|-
+| 9
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Dmitry|Orlov|dab=ice hockey}}
+| D
+| L
+| {{hs|26–305}}26
+| [[2009 NHL Entry Draft|2009]]
+| style="text-align:left;"|[[Novokuznetsk|Novokuznetsk, Soviet Union]]
+| style="text-align:left;"|first
+|-
+| 10
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Connolly}}
+| RW
+| R
+| {{hs|26–022}}26
+| [[2016–17 NHL season|2016]]
+| style="text-align:left;"|[[Campbell River, British Columbia]]
+| style="text-align:left;"|first
+|-
+| 13
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jakub|Vrana|Jakub Vrána}}
+| LW
+| L
+| {{hs|22–085}}22
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Prague|Prague, Czech Republic]]
+| style="text-align:left;"|first
+|-
+| 18
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chandler|Stephenson}}
+| C
+| L
+| {{hs|24–032}}24
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| style="text-align:left;"|first
+|-
+| 19
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Nicklas|Backstrom|Nicklas Bäckström}}&nbsp;– '''[[Alternate captain|A]]'''
+| C
+| L
+| {{hs|30–182}}30
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"|[[Valbo|Valbo, Sweden]]
+| style="text-align:left;"|first
+|-
+| 20
+| {{flagicon|DNK}}
+! scope="row" style="text-align:left;"|{{sortname|Lars|Eller}}
+| C
+| L
+| {{hs|29–016}}29
+| [[2016–17 NHL season|2016]]
+| style="text-align:left;"|[[Rødovre|Rødovre, Denmark]]
+| style="text-align:left;"|first
+|-
+| 22
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Madison|Bowey}}
+| D
+| R
+| {{hs|23–033}}23
+| [[2013 NHL Entry Draft|2013]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| style="text-align:left;"|first {{small|(did not play)}}
+|-
+| 25
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Devante|Smith-Pelly}}
+| RW/LW
+| R
+| {{hs|25–344}}25
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| style="text-align:left;"|first
+|-
+| 28
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jakub|Jerabek|Jakub Jeřábek}}
+| D
+| L
+| {{hs|27–012}}27
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| style="text-align:left;"|first
+|-
+| 29
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Christian|Djoos}}
+| D
+| L
+| {{hs|23–291}}23
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Gothenburg|Gothenburg, Sweden]]
+| style="text-align:left;"|first
+|-
+| 31
+| {{flagicon|DEU}}
+! scope="row" style="text-align:left;"|{{sortname|Philipp|Grubauer}}
+| G
+| L
+| {{hs|26–180}}26
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Rosenheim|Rosenheim, Germany]]
+| style="text-align:left;"|first
+|-
+| 39
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Chiasson}}
+| RW
+| R
+| {{hs|27–235}}27
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| style="text-align:left;"|first {{small|(did not play)}}
+|-
+| 43
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Wilson|dab=ice hockey}}
+| RW
+| R
+| {{hs|24–056}}24
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| style="text-align:left;"|first
+|-
+| 44
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brooks|Orpik}}&nbsp;– '''[[Alternate captain|A]]'''
+| D
+| L
+| {{hs|37–240}}37
+| [[2014–15 NHL season|2014]]
+| style="text-align:left;"|[[San Francisco|San Francisco, California]]
+| style="text-align:left;"|third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|-
+| 63
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shane|Gersich}}
+| LW
+| L
+| {{hs|21–318}}21
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Chaska, Minnesota]]
+| style="text-align:left;"|first
+|-
+| 65
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Andre|Burakovsky|André Burakovsky}}
+| LW
+| L
+| {{hs|23–104}}23
+| [[2013 NHL Entry Draft|2013]]
+| style="text-align:left;"|[[Klagenfurt|Klagenfurt, Austria]]
+| style="text-align:left;"|first
+|-
+| 70
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Braden|Holtby}}
+| G
+| L
+| {{hs|28–250}}28
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Lloydminster|Lloydminster, Saskatchewan]]
+| style="text-align:left;"|first
+|-
+| 72
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Travis|Boyd|dab=ice hockey}}
+| C
+| L
+| {{hs|24–252}}24
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Hopkins, Minnesota]]
+| style="text-align:left;"|first
+|-
+| 74
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|Carlson|dab=ice hockey}}
+| D
+| R
+| {{hs|28–134}}28
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Natick, Massachusetts]]
+| style="text-align:left;"|first
+|-
+| 77
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|T. J.|Oshie}}
+| RW
+| R
+| {{hs|31–152}}31
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Everett, Washington]]
+| style="text-align:left;"|first
+|-
+| 79
+| {{flagicon|AUS}}
+! scope="row" style="text-align:left;"|{{sortname|Nathan|Walker}}
+| LW
+| L
+| {{hs|24–249}}24
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Cardiff|Cardiff, Wales]]
+| style="text-align:left;"|first
+|-
+| 83
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Beagle}}
+| C
+| R
+| {{hs|32–220}}32
+| [[2007–08 NHL season|2008]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| style="text-align:left;"|first
+|-
+| 92
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Evgeny|Kuznetsov}}
+| C
+| L
+| {{hs|26–005}}26
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Chelyabinsk|Chelyabinsk, Russia]]
+| style="text-align:left;"|first
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Capitals captain Alexander Ovechkin by [[NHL commissioner]] [[Gary Bettman]] following the Capitals 4–3 win over the Golden Knights in game five.
+
+The following Capitals players and staff had their names engraved on the Stanley Cup:<ref>{{cite news |date=June 8, 2018 |title=Get to know the Stanley Cup, Washington D.C.'s newest bling |url=https://www.nbcsports.com/washington/capitals/get-know-stanley-cup-washington-dcs-newest-bling |publisher=NBC Sports Washington |access-date=June 8, 2018 |archive-date=June 12, 2018 |archive-url=https://web.archive.org/web/20180612142009/https://www.nbcsports.com/washington/capitals/get-know-stanley-cup-washington-dcs-newest-bling |url-status=live }}</ref>
+
+'''2017–18 Washington Capitals'''
+{{Stanley Cup champion
+|defence=
+*&nbsp;2 [[Matt Niskanen]]
+*&nbsp;6 [[Michal Kempný|Michal Kempny]]
+*&nbsp;9 [[Dmitry Orlov (ice hockey)|Dmitry Orlov]]
+*22 [[Madison Bowey]] †
+*29 [[Christian Djoos]]
+*44 [[Brooks Orpik]] (A)
+*74 [[John Carlson (ice hockey)|John Carlson]]
+|wingers=
+*&nbsp;8 [[Alexander Ovechkin]] (Captain)
+*10 [[Brett Connolly]]
+*13 [[Jakub Vrána|Jakub Vrana]]
+*25 [[Devante Smith-Pelly]]
+*39 [[Alex Chiasson]] †
+*43 [[Tom Wilson (ice hockey)|Tom Wilson]]
+*65 [[André Burakovsky|Andre Burakovsky]]
+*77 [[T. J. Oshie]]
+|centres=
+*18 [[Chandler Stephenson]]*
+*19 [[Nicklas Bäckström|Nicklas Backstrom]] (A)
+*20 [[Lars Eller]]
+*83 [[Jay Beagle]]
+*92 [[Evgeny Kuznetsov]]
+|goaltenders=
+*70 [[Braden Holtby]]
+*31 [[Philipp Grubauer]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+|non-players=
+*[[Ted Leonsis]] (Chairman/Majority Owner/Chief Executive Officer/Governor), [[Dick Patrick]] (Vice Chairman/Chief Operating Officer/President/Alt. Governor-Minority Owner), [[Brian MacLellan]] (Sr. Vice President/General Manager/Alt. Governor)
+* Donald Fishman (Asst. General Manager), J. Ross Mahoney (Asst. General Manager), Kristian Wagner (Director of Hockey Operations)
+* [[Chris Patrick (ice hockey)|Christopher Patrick]] (Director, Player Personnel), Steve Richmond (Director, Player Development), Rob Tillotson (Director of Team Operations)
+* [[Barry Trotz]] (Head Coach), [[Todd Reirden]] (Associate Coach), [[Blaine Forsythe]] (Asst. Coach)
+* [[Lane Lambert]] (Asst. Coach), Brett Leonhardt (Video Coach), Timothy Ohashi (Video Analyst)
+* Scott Murray (Goaltending Coach), [[Mitch Korn]] (Director of Goaltending), Mark Nemish (Strength & Conditioning Coach), James Serbus (Athletic Trainer)
+* Michael Booi (Asst. Athletic Trainer), Brock Myles (Equipment Manager), Craig Leydig (Asst. Equipment Manager), David Marin (Equipment Asst.)
+* Steve Bowman (Head Amateur Scout), Jason Fitzsimmons (Pro Scout/Director of Minor League Operations), Ed McColgan (Scout), Martin Pouliot (Scout)
+* [[Brian Sutherby]] (Scout), [[Olaf Kölzig|Olaf Kolzig]] (Pro Development Coach), Sergey Kocharov (Vice President of Communications)}}
+
+===Engraving notes===
+* #25 [[Devante Smith-Pelly]] (RW/LW) was the second player, after [[Patrice Bergeron-Cleary]], to have a hyphenated surname engraved on the trophy.
+* #20 [[Lars Eller]] (C) was the first Danish-born and trained player to win the Stanley Cup.
+* The Cup was full, so a new ring was added to include Washington Capitals members. The top ring with the winners from 1953–54 to 1964–65 (12 teams) was taken off and was placed on permanent display at the Hockey Hall of Fame. Some famous names no longer featured on the Cup include [[Dickie Moore (ice hockey)|Dickie Moore]], [[Maurice Richard]], [[Jacques Plante]], [[Bert Olmstead]], [[Ted Lindsay]], [[Alex Delvecchio]], [[Gordie Howe]], [[Stan Mikita]], [[Bobby Hull]], among others. There are several retired rings at the Hockey Hall of Fame that feature winning team members' names from 1924 to 1965.
+* The Patrick family now had seven members who have won the Stanley Cup. [[Frank Patrick (ice hockey)|Frank]] won the Cup in 1915. Frank's brother, [[Lester Patrick|Lester]], won Cups in 1906, 1907, 1925, 1928, 1933 and 1940. In 1940, Lester won his sixth and final Stanley Cup with his sons [[Lynn Patrick|Lynn]] and [[Murray Patrick|Murray]]. Lynn's son [[Craig Patrick|Craig]] won two Cups in 1991 and 1992. Murray's son [[Dick Patrick|Dick]] and grandson Christopher both won the Cup in 2018.
+
+===Included in the team picture, but left off the Stanley Cup===
+* #28 [[Jakub Jeřábek|Jakub Jerabek]] (D) — played 25 games for Montreal, plus 11 regular-season games for Washington and two playoff games (in the first round)
+* #72 [[Travis Boyd (ice hockey)|Travis Boyd]] (C) — played 8 regular-season games and one playoff game (in the second round)
+* #79 [[Nathan Walker]] (LW) — played 2 games for Edmonton, plus 7 regular-season games for Washington & one playoff game (in the second round)
+* #63 [[Shane Gersich]] (LW) — played 3 regular-season games and two playoff games (in the second round)
+* #1 [[Pheonix Copley]] (G) — played 0 games for Washington, but played 41 games for [[Hershey Bears|Hershey]] (AHL)
+* #64 [[Brian Pinho]] (C) – 0 regular season and 0 playoff games, 40 games for [[Providence Friars men's ice hockey|Providence College]]
+* These six players were on the expanded roster during the playoffs. Washington did not request an exemption for any of their names to be engraved on the Stanley Cup.<ref>{{Cite web |url=https://www.nhl.com/scores/htmlreports/20172018/RO030415.HTM |title=Playing Roster |access-date=June 6, 2025 |archive-date=October 24, 2022 |archive-url=https://web.archive.org/web/20221024031537/https://www.nhl.com/scores/htmlreports/20172018/RO030415.HTM |url-status=live }}</ref>
+* [[Raul Fernandez (entrepreneur)|Raul Fernandez]] (Vice Chairman-Minority Owner), [[Sheila Johnson]] (Vice Chairman-Minority Owner)
+* Cleo Bates (Massage Therapist), Ray Straccia (Locker Room Asst.)
+
+==Television and radio==
+In Canada, the series was broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]],<ref>{{cite press release | url=https://www.sportsnet.ca/hockey/nhl/sportsnets-2018-stanley-cup-final-broadcast-schedule/ | title=Sportsnet's 2018 Stanley Cup Final Broadcast Schedule | publisher=Sportsnet | date=May 23, 2018 | access-date=May 23, 2018 | archive-date=April 17, 2019 | archive-url=https://web.archive.org/web/20190417195731/https://www.sportsnet.ca/hockey/nhl/sportsnets-2018-stanley-cup-final-broadcast-schedule/ | url-status=live }}</ref> and [[TVA Sports]] in [[French language|French]]. In the U.S., the Finals were split between [[NBC]] (Games 1, 4 and 5) and [[NBCSN]] (Games 2 and 3).<ref>{{cite press release | url=http://nbcsportsgrouppressbox.com/2018/04/04/theres-nothing-like-playoff-hockey-nbc-sports-group-to-present-every-stanley-cup-playoff-game-for-seventh-consecutive-season/ | title=NBC Sports Group to Present Every Stanley Cup Playoff Game For Seventh Consecutive Season | publisher=NBC Sports | date=April 4, 2018 | access-date=May 11, 2018 | archive-date=May 13, 2018 | archive-url=https://web.archive.org/web/20180513134418/http://nbcsportsgrouppressbox.com/2018/04/04/theres-nothing-like-playoff-hockey-nbc-sports-group-to-present-every-stanley-cup-playoff-game-for-seventh-consecutive-season/ | url-status=live }}</ref>
+
+In the U.S., with an average of 4.918 million viewers across all games, they were the highest-rated Stanley Cup Final without an "Original Six" team since 1994. Game 5 drew 6.714 million viewers, making it the most-watched game 5 since 2002.<ref>{{Cite news|url=http://awfulannouncing.com/nbc/stanley-cup-playoffs-tied-for-second-most-watched-since-1997-final-was-most-watched-non-original-six-final-on-record.html|title=Stanley Cup playoffs tied for second-most watched since 1997|date=June 8, 2018|work=Awful Announcing|access-date=June 9, 2018|language=en-US|archive-date=June 10, 2018|archive-url=https://web.archive.org/web/20180610223358/http://awfulannouncing.com/nbc/stanley-cup-playoffs-tied-for-second-most-watched-since-1997-final-was-most-watched-non-original-six-final-on-record.html|url-status=live}}</ref>
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[https://www.nhl.com/stanley-cup-playoffs/2018/golden-knights-vs-capitals-series-o Official website]
+
+{{s-start}}
+{{succession box | before = [[2017 Stanley Cup Final|Pittsburgh Penguins<br />2017]] | title = [[List of Stanley Cup champions|Washington Capitals<br />Stanley Cup champions]] | years = 2018 | after = [[2019 Stanley Cup Final|St. Louis Blues<br />2019]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Washington Capitals}}
+{{Vegas Golden Knights}}
+{{2017–18 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on Sportsnet}}
+{{NHL Radio}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2018 Stanley Cup| ]]
+[[Category:2017–18 NHL season]]
+[[Category:Stanley Cup Finals]]
+[[Category:2018 in the Las Vegas Valley]]
+[[Category:May 2018 sports events in the United States|Stanley Cup]]
+[[Category:June 2018 sports events in the United States|Stanley Cup]]
+[[Category:Washington Capitals games]]
+[[Category:Vegas Golden Knights games|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Nevada]]
+[[Category:Ice hockey competitions in Washington, D.C.]]
+[[Category:2018 in sports in Nevada|Stanley Cup]]
+[[Category:2018 in sports in Washington, D.C.|Stanley Cup]]
+[[Category:Sports competitions in Paradise, Nevada]]

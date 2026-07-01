@@ -1,0 +1,220 @@
+{{Short description|1970 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1970
+|image = Bobby Orr in mid-air (1970).jpg
+|image_size =
+|caption = [[Bobby Orr]] of the Bruins airborne after scoring the Cup-winning goal in overtime of game four; behind him is {{nowrap|[[Noel Picard]]}} of the Blues
+|team1=[[1969–70 St. Louis Blues season|St. Louis Blues]]
+|team1_short=St. Louis
+|team1_coach=[[Scotty Bowman]]
+|team1_captain=[[Al Arbour]]
+|team2='''[[1969–70 Boston Bruins season|Boston Bruins]]'''
+|team2_short=Boston 
+|team2_coach=[[Harry Sinden]]
+|team2_captain= Vacant
+|team1_1=1
+|team1_2=2
+|team1_3=1
+|team1_4=3*
+|team1_tot=0
+|team2_1='''6'''
+|team2_2='''6'''
+|team2_3='''4'''
+|team2_4='''4'''*
+|team2_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=May 3–10, 1970
+|location1=[[St. Louis]]: [[St. Louis Arena]] (1, 2)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4)
+|team2_winner=1
+|mvp=[[Bobby Orr]] (Bruins)
+|series_winner=[[Bobby Orr]] (0:40, OT)
+|hofers='''Bruins:'''<br/>[[Johnny Bucyk]] (1981)<br/>[[Gerry Cheevers]] (1985)<br/>[[Phil Esposito]] (1984)<br/>[[Bobby Orr]] (1979)<br/>'''Blues:'''<br/>[[Al Arbour]] (1996, builder)<br/>[[Glenn Hall]] (1975)<br/>[[Jacques Plante]] (1978)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>[[Harry Sinden]] (1983)
+|networks      = [[Hockey Night in Canada|CBC]] (Canada)<br>[[La Soiree du Hockey|SRC]] (Canada, French)<br>[[NHL on CBS|CBS]] (United States) (Games 1 and 4)<br>WSBK (Boston; Games 2 and 3)<br>KPLR (St.Louis; Games 2 and 3)
+|net_announcers= (CBC): [[Bill Hewitt (sportscaster)|Bill Hewitt]], [[Bob Goldham]] and [[Brian McFarlane]] (in St. Louis) [[Danny Gallivan]] and [[Dick Irvin Jr.]] (in Boston)  <br>(SRC): [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br>(CBS): [[Dan Kelly (sportscaster)|Dan Kelly]], [[Bill Mazer]] and [[Gordie Howe]]<br>(WSBK):[[Don Earle]] and [[Johnny Peirson]]<br>(KPLR): Dan Kelly and [[Gus Kyle]]
+}}
+The '''1970 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1969–70 NHL season|1969–70 season]], and the culmination of the [[1970 Stanley Cup playoffs]].
+It was a contest between the [[1969–70 Boston Bruins season|Boston Bruins]] and the [[1969–70 St. Louis Blues season|St. Louis Blues]], who appeared in their third consecutive finals series. The Bruins were making their first appearance in the Stanley Cup Final since {{scfy|1958}}.
+
+The Bruins swept the Blues to win their first [[Stanley Cup]] title since [[1941 Stanley Cup Final|1941]]. [[Bobby Orr]] scored the Cup-winning goal on Mother's Day against St. Louis' veteran Hall of Fame goalie [[Glenn Hall]], with an assist from close friend and teammate "The Turk" [[Derek Sanderson]], at forty seconds of overtime. The subsequent image of Orr flying through the air, his arms stretched out in victory — (he had been tripped by Blues' defenseman [[Noel Picard]] immediately after scoring the goal) — is considered the most famous and recognized hockey image of all time. With the win, the Bruins became the first American team to win the Stanley Cup since the [[Chicago Black Hawks]] in {{scfy|1961}}. The Blues, who had gone to the Finals their first three years in the league, would eventually lose each of the three series in four-game sweeps. St. Louis would not appear in a Stanley Cup Final again until [[2019 Stanley Cup Final|2019]], where they also faced (and defeated) the Bruins in seven games, ending the second-longest [[List of NHL franchise post-season droughts#Stanley Cup Final droughts 2|Finals drought]] in league history.
+
+==Paths to the Finals==
+Boston defeated the [[New York Rangers]] 4–2 and the [[Chicago Black Hawks]] 4–0 to advance to the Finals.
+
+St. Louis defeated the [[Minnesota North Stars]] 4–2 and the [[Pittsburgh Penguins]] 4–2.
+
+This was the seventh meeting between teams from [[Boston]] and [[St. Louis]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship. This previously happened in two World Series ([[1946 World Series|1946]], [[1967 World Series|1967]]), and four NBA Finals ([[1957 NBA Finals|1957]], [[1958 NBA Finals|1958]], [[1960 NBA Finals|1960]], [[1961 NBA Finals|1961]]).<ref>{{Cite web|url=https://sports.yahoo.com/boston-st-louis-meet-for-11-th-time-only-two-to-meet-in-nfl-mlb-nba-and-nhl-045852356.html|title=Boston & St. Louis meet for 11th time, only two to meet in NFL, MLB, NBA and NHL finals|last=Flores Jr.|first=Johnny|date=May 21, 2019|website=Yahoo Sports|accessdate=November 16, 2024}}</ref>
+
+==Game summaries==
+The Boston Bruins tied for first in the East Division with the [[Chicago Black Hawks]] with 99 points. The Bruins lost the tiebreaker of wins with 40 to Chicago's 45. The St. Louis Blues finished first in the West Division with 86 points. This was the first playoff meeting between these two teams. In this year's regular-season series, there were three wins for Boston, one for St. Louis and two ties.
+
+At 3:57 of the second period of game one, a hard shot from [[Fred Stanfield]] was deflected and struck [[Jacques Plante]] in the forehead of his face mask, splitting the mask in half and injuring Plante.<ref>{{cite web |url=https://nhl.nbcsports.com/2019/05/26/pht-time-machine-top-1970-cup-final-moments-beyond-the-orr-goal/ |title=PHT Time Machine: Top 1970 Cup Final moments beyond the Orr goal |last=Gretz |first=Adam |date=May 26, 2019 |website=NBCSports.com |publisher=[[NBC Sports]] |access-date=June 3, 2019}}</ref>  Plante was finished for the series. Doctors later said if he hadn't been wearing the mask, he surely would have been killed. [[Ernie Wakely]] took over in goal but only held off the Bruins for a few minutes before becoming a rather easy mark for Bruins sharpshooters.
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=St. Louis Blues
+|stadium1=[[St. Louis Arena]]
+|stadium2=[[Boston Garden]]
+
+|date1       =May 3
+|home1       =1
+|score1      =6–1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/bos-vs-stl/1970/05/03/1969030311#game=1969030311,game_state=final
+|1-1-1       =[[Johnny Bucyk]] (6) - 19:45
+|1-1-2       =''No scoring''
+|1-2-1       =Johnny Bucyk (7) - 5:16
+|1-2-2       =1:52 - [[Jimmy Roberts]] (2)
+|1-3-1       =[[Wayne Carleton]] (2) - 4:59<br>Johnny Bucyk (8) - 5:31<br>[[Derek Sanderson]] (3) - ''sh'' - 17:20<br>[[Phil Esposito]] (12) - 18:58
+|1-3-2       =''No scoring''
+|goalie1-1   =[[Gerry Cheevers]] 28 saves / 29 shots
+|goalie1-2   = [[Ernie Wakely]] 16 saves / 21 shots <br> [[Jacques Plante]] 13 saves / 14 shots
+
+|date2       =May 5
+|home2       =1
+|score2      =6–2
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/bos-vs-stl/1970/05/05/1969030312#game=1969030312,game_state=final
+|2-1-1       =[[Fred Stanfield]] (4) - ''pp'' - 8:10<br>[[Ed Westfall]] (2) - 13:38<br>Ed Westfall (3) - ''sh'' - 19:15
+|2-1-2       =''No scoring''
+|2-2-1       =[[Derek Sanderson]] (4) - ''pp'' - 9:37
+|2-2-2       =17:26 - ''pp'' - [[Terry Gray (ice hockey)|Terry Gray]] (2)
+|2-3-1       =Derek Sanderson (5) - 00:58<br>[[Johnny Bucyk]] (9) - 15:00
+|2-3-2       =4:15 - ''pp'' - [[Frank St. Marseille]] (5)
+|goalie2-1   =[[Gerry Cheevers]] 17 saves / 19 shots
+|goalie2-2   =[[Ernie Wakely]] 29 saves / 35 shots
+
+|date3       =May 7
+|home3       =2
+|score3      =1–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/stl-vs-bos/1970/05/07/1969030313#game=1969030313,game_state=final
+|3-1-1       =13:23 - ''pp'' - [[Johnny Bucyk]] (10)<br>18:23 - [[John McKenzie (ice hockey)|John McKenzie]] (5)
+|3-1-2       =[[Frank St. Marseille]] (6) - ''pp'' - 5:32
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =3:26 - [[Wayne Cashman]] (4)<br>14:26 - Wayne Cashman (5)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Gerry Cheevers]] 42 saves / 46 shots
+|goalie3-2   =[[Glenn Hall]] 20 saves / 21 shots
+
+|date4       =May 10
+|home4       =2
+|score4      =3–4
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/stl-vs-bos/1970/05/10/1969030314#game=1969030314,game_state=final
+|4-1-1       =5:28 - [[Rick Smith (ice hockey)|Rick Smith]] (1)
+|4-1-2       =[[Red Berenson]] (7) - 19:17
+|4-2-1       =14:22 - [[Phil Esposito]] (13)
+|4-2-2       =[[Gary Sabourin]] (5) - 3:22
+|4-3-1       =13:28 - [[Johnny Bucyk]] (11)
+|4-3-2       =[[Larry Keenan]] (7) - ''pp'' - 00:19
+|4-4-1       =00:40 - [[Bobby Orr]] (9)
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Gerry Cheevers]] 28 saves / 31 shots
+|goalie4-2   =[[Glenn Hall]] 28 saves / 32 shots
+
+|series      =Boston won series 4–0
+}}
+
+==Quotes==
+{{blockquote|Bobby Orr… behind the net to Sanderson to ORR! BOBBY ORR!… scores and the [[Boston Bruins]] have won the Stanley Cup!|[[Dan Kelly (sportscaster)|Dan Kelly]] calling Orr's Stanley Cup winning goal}}
+
+=="The Flight"==
+The most commonly seen video clip of [[Bobby Orr]]'s famous overtime goal ("The Flight") in game four is the American version broadcast on [[NHL on CBS|CBS]] as called by [[Dan Kelly (sportscaster)|Dan Kelly]]. This archival clip can be considered a rarity, since surviving [[kinescope]]s or videotapes of the telecasts of hockey games from this era usually emanate from [[Hockey Night in Canada|CBC]]'s coverage. According to [[Dick Irvin Jr.]]'s book ''My 26 Stanley Cups'' (Irvin was in the CBC booth with [[Danny Gallivan]] during the 1970 Stanley Cup Final), he was always curious why even the CBC typically uses the CBS replay of the Bobby Orr goal (with Dan Kelly's commentary) instead of Gallivan's call. The explanation that Irvin received was that the CBC's [[Master recording|master tape]] of the game (along with others) was thrown away in order to clear shelf space at the network.<ref>{{cite book|title=My 26 Stanley Cups: Memories of a Hockey Life|author=Dick Irvin|date=October 2, 2001|ISBN=9780771043703}}</ref>
+
+The [[New England Sports Network]] has played the CBS video of the goal but has used the original WBZ-FM radio call with [[Fred Cusick]] and [[Johnny Peirson]].<ref>{{cite web|url=https://www.nhl.com/bruins/news/bobby-orr-s-cup-winning-goal-in-1970-played-out-to-perfection-316886220|title=Orr's Cup-Winning Goal Played Out to Perfection|last=Russo|first=Eric|publisher=NHL Enterprises, L. P.|date=May 9, 2020|website=NHL.com|accessdate=June 17, 2024}}</ref>
+
+==Stanley Cup engraving==
+The 1970 Stanley Cup was presented to Bruins alternate captain Johnny Bucyk by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Bruins 4–3 overtime win over the Blues in game four.
+
+The following Bruins players and staff had their names engraved on the Stanley Cup
+
+'''1969–70 Boston Bruins'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Eddie Johnston]]
+*30 [[Gerry Cheevers]]
+*31 [[John Adams (ice hockey, born 1946)|John Adams]] †
+|defence=*4 [[Bobby Orr]]
+*6 Edward [[Ted Green]]*
+*10 [[Rick Smith (ice hockey)|Rick Smith]]
+*20 [[Dallas Smith (ice hockey)|Dallas Smith]]
+*24 [[Bill Speer]]
+*25 [[Gary Doak]]
+*26 [[Don Awrey]]
+|centres=*7 [[Phil Esposito]] (A)
+*16 [[Derek Sanderson]]
+*17 [[Fred Stanfield]]
+*22 [[Jim Lorentz]]
+*22 [[Ivan Boldirev]] †
+|wingers=*8 [[Ken Hodge]] Sr.
+*9 [[John Bucyk]] (A)
+*11 [[Wayne Carleton]]
+*12 [[Wayne Cashman]]
+*14 [[Garnet "Ace" Bailey]]
+*18 [[Ed Westfall]] (A) 
+*19 [[John McKenzie (ice hockey)|John McKenzie]]
+*21 [[Don Marcotte]]
+*23 [[Dan Schock]]
+*24 [[Bill Lesuk]]
+*28 [[Ron Murphy]] †
+|player-notes=
+* * Did not play, missed the whole season due to an injury.
+* † Spare who did not play for the team.{{ref|A|[A]}}
+|non-players=
+* [[Weston Adams (ice hockey, born 1904)|Weston Adams]] Sr. (Chairman/owner), [[Weston Adams, Jr.]] (President/owner)
+* Charles Mulcahy Jr. (Vice President – General Counsel), [[Edward J. Powers|Ed Powers]] (Vice President – Treasurer), [[Shelby M.C. Davis|Shelby Davis]] (Vice President)
+* [[Harry Sinden]] (Head Coach), [[Milt Schmidt]] (General Manager)
+* [[Tom Johnson (ice hockey)|Tom Johnson]] (Asst. General Manager), Dan Canney (Trainer)
+*  John Forristall (Asst. Trainer)}}
+===Engraving notes===
+* Tom Johnson's name was engraved ''T. Johnson TR'' by mistake. Johnson was the assistant manager, not the trainer. The mistake was not corrected on the Replica Stanley Cup created in 1992–93.
+* Coach, Manager, Asst. Manager and both trainers were listed after the players. Traditional Coach, Manager and Asst. Manager are listed before the players with the rest of the team executives. 
+* <sup>{{note|A|A}}</sup> #6 Ted Green (D) received a head injury in a pre-season game.  He missed the entire season, but his name was still engraved on the Stanley Cup. #31 John Adams (G) and #22 Ivan Boldirev (C) had their names engraved on the Cup before they played their first NHL game. Boldirev played his first NHL game for Boston during the 1970–71 season, Adams played his first NHL game for Boston during the 1972–73 season. Dan Schock played in the minors but was called up to play one playoff game, earning a spot on the Stanley Cup.  Ron Murphy played only 20 regular-season games and had officially retired in March, but his name was engraved on the Cup.
+* Boston Bruins did not have an official Captain – John Bucyk, Phil Esposito, Ed Westfall were Alternate Captains. Bucyk was presented with the Cup because he was the most senior letter-wearer (a scenario that would repeat in 1972).
+*After Boston included 3 players who did not play for the team that season, the NHL only allowed players who dressed in the playoffs to be included on the Stanley Cup.
+* The NHL feared that the Original Stanley Cup bowl was becoming too brittle. So a new Presentation Stanley Cup was made and first awarded in 1970. It was identical to the original bowl. The Original bowl was retired and put on permanent display at the Hockey Hall Fame.
+
+==See also==
+* [[1969–70 NHL season]]
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+{{reflist}}
+
+==Further reading==
+* {{cite news |url=https://www.bostonglobe.com/sports/bruins/2019/05/25/nbc-announcers-recall-where-they-were-for-bobby-orr-goal/NIYqRMxjcFEYmia0kFEBCN/story.html |title='It was just an explosion of emotion': NBC announcers recall where they were for Bobby Orr's goal |first=Kevin Paul |last=Dupont |website=[[The Boston Globe]] |url-access=limited |date=May 25, 2019 |access-date=May 26, 2019}}
+
+{{s-start}}
+{{succession box |
+  before = [[1969 Stanley Cup Final|Montreal Canadiens<br>1969]] |
+  after = [[1971 Stanley Cup Final|Montreal Canadiens<br>1971]] |
+  title = [[List of Stanley Cup champions|Boston Bruins<br>Stanley Cup champions]] |
+  years = 1970|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Boston Bruins}}
+{{St. Louis Blues}}
+{{1969–70 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+}}
+
+[[Category:1969–70 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:St. Louis Blues games]]
+[[Category:Ice hockey competitions in St. Louis]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1970 in Boston|Stanley Cup Final]]
+[[Category:1970 in sports in Missouri|Stanley Cup Final]]
+[[Category:1970s in St. Louis]]
+[[Category:May 1970 sports events in the United States|Stanley Cup Final]]
+[[Category:1970 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:Events at the Boston Garden]]

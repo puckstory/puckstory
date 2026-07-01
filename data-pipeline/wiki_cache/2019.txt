@@ -1,0 +1,1682 @@
+{{short description|2019 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=April 2019}}
+{{Infobox Stanley Cup Final
+| year = 2019
+| image = 2019 Stanley Cup Finals logo.png
+| image_size = 275px
+| team1 = '''[[2018–19 St. Louis Blues season|St. Louis Blues]]'''
+| team2 = [[2018–19 Boston Bruins season|Boston Bruins]]
+| team1_1 = 2
+| team2_1 = '''4'''
+| team1_2 = '''3'''*
+| team2_2 = 2*
+| team1_3 = 2
+| team2_3 = '''7'''
+| team1_4 = '''4'''
+| team2_4 = 2
+| team1_5 = '''2'''
+| team2_5 = 1
+| team1_6 = 1
+| team2_6 = '''5'''
+| team1_7 = '''4'''
+| team2_7 = 1
+| team1_tot = 4
+| team2_tot = 3
+| location1 = [[St. Louis]]: [[Enterprise Center]] (3, 4, 6)
+| location2 = [[Boston]]: [[TD Garden]] (1, 2, 5, 7)
+| team1_coach = [[Craig Berube]] (interim)
+| team2_coach = [[Bruce Cassidy]]
+| team1_short = St. Louis
+| team2_short = Boston
+| coaches =
+| team1_captain = [[Alex Pietrangelo]]
+| team2_captain = [[Zdeno Chára|Zdeno Chara]]
+| captains =
+| team1_national_anthem = Charles Glenn (vocalist) and [[Jeremy Boyer]] (organist)
+| team2_national_anthem = Todd Angilly (vocalist) and [[Ron Poster]] (organist)
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = Gord Dwyer (2, 4, 6, 7)<br>[[Steve Kozari]] (1, 3, 5)<br>[[Chris Rooney]] (2, 4, 6, 7)<br>[[Kelly Sutherland]] (1, 3, 5)
+| dates = May 27 – June 12, 2019
+| mvp = [[Ryan O'Reilly]] (Blues)
+| series_winner = [[Alex Pietrangelo]] (19:52, first)
+|hofers = '''Bruins:'''<br/>[[Patrice Bergeron]] (2026)<br/>[[Zdeno Chára|Zdeno Chara]] (2025)
+| networks ='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–7), [[NHL on NBC|NBCSN]] (2–3)
+| net_announcers =(CBC/SN) [[Jim Hughson]] and [[Craig Simpson]]<br/>(TVA) Felix Seguin and [[Patrick Lalime]]<br />(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Steve Mears]], [[Kevin Weekes]], and E.J. Hradek<br/>([[NBC Sports Radio]] & [[NHL Radio]]) [[Kenny Albert]], [[Joe Micheletti]], [[Brian Boucher]], and [[Steve Goldstein (broadcaster)|Steve Goldstein]]
+}}
+The '''2019 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2018–19 NHL season|2018–19 season]] and the culmination of the [[2019 Stanley Cup playoffs]]. The [[Western Conference (NHL)|Western Conference]] champion [[2018–19 St. Louis Blues season|St. Louis Blues]] defeated the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2018–19 Boston Bruins season|Boston Bruins]] four games to three in the [[best-of-seven playoff|best-of-seven series]]. It was the Blues' first championship, in their 51st season of play (not including the [[2004–05 NHL lockout|2004–05 lockout]]), ending what was then the third-longest championship [[List of NHL franchise post-season droughts#Stanley Cup droughts 2|drought]] in league history. The Bruins had home-ice advantage in the series with the better regular season record. The series began on May 27 and concluded on June 12.<ref>{{cite news|title=Stanley Cup Final schedule|url=https://www.nhl.com/news/stanley-cup-final-schedule-2019/c-289529902|publisher=NHL Enterprises, L.P.|website=NHL.com|date=May 17, 2019|access-date=May 17, 2019}}</ref> The Blues' Stanley Cup-winning run of 26 playoff games tied the [[2013–14 Los Angeles Kings season|2013–14 Los Angeles Kings]] for the longest of any Stanley Cup-winning team.
+
+This was a rematch of the [[1970 Stanley Cup Final]], which Boston won in four games. This was the fourth consecutive Final to both involve at least one team vying for its first championship and end with the champion clinching the Cup on the road. It was also the first time since [[2011 Stanley Cup Final|2011]] where the Final went the full seven games.
+
+Entering the 2019 Final, the Blues were the only active team from the [[1967 NHL expansion]] to have not won a Stanley Cup. The Blues' victory resulted in all five of the active 1967 expansion teams obtaining a Stanley Cup title, while the [[Buffalo Sabres]] and [[Vancouver Canucks]] became the oldest active expansion franchises to not win one,<ref>{{Cite news |last=McIndoe |first=Sean |last2=Vogl |first2=John |last3=Drance |first3=Thomas |title=Sabres vs. Canucks: After 50 years and no Stanley Cups, whose fans have had it worse? |url=https://www.nytimes.com/athletic/2440424/2021/03/11/sabres-vs-canucks-after-50-years-and-no-stanley-cups-whose-fans-have-had-it-worse/ |access-date=2024-07-13 |work=The New York Times |issn=0362-4331}}</ref> and the [[Toronto Maple Leafs]] became the last active team not to win the Cup since the expansion era.<ref>{{Cite web |last=Share-Cohen |first=Brandon |date=2024-04-09 |title=10 NHL Teams Without a Stanley Cup - The Hockey Writers Hockey History Latest News, Analysis & More |url=https://thehockeywriters.com/nhl-teams-never-won-a-stanley-cup/ |access-date=2024-07-13 |website=The Hockey Writers}}</ref><ref>{{Cite news |last=Mather |first=Victor |date=2019-06-13 |title=St. Louis Celebrates, Leaving Other Cities to Sing the Title Drought Blues |url=https://www.nytimes.com/2019/06/13/sports/blues-stanley-cup.html |access-date=2024-07-13 |work=The New York Times |issn=0362-4331}}</ref><ref>{{Cite web |last=Billeck |first=Scott |date=2019-06-12 |title=Blues latest team erased from Stanley Cup drought list |url=https://www.nbcsports.com/nhl/news/blues-latest-team-erased-from-stanley-cup-drought-list |access-date=2024-07-13 |website=NBC Sports}}</ref><ref>{{Cite web |title=Inside the historic, controversial, mind-blowing 2019 Cup Final |url=https://www.sportsnet.ca/hockey/nhl/blues-bruins-stanley-cup-final-big-read/ |access-date=2024-07-13 |website=www.sportsnet.ca}}</ref>
+
+This is the most recent professional sports championship won by a [[St. Louis]]-based team, and was the last time the Stanley Cup Final did not feature a team from [[Florida]] until [[2026 Stanley Cup Final|2026]].
+
+==Paths to the Final==
+{{Main|2019 Stanley Cup playoffs}}
+This was the eleventh meeting between teams from [[Boston]] and [[St. Louis]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship. This previously happened in four World Series ([[1946 World Series|1946]], [[1967 World Series|1967]], [[2004 World Series|2004]], [[2013 World Series|2013]]), four NBA Finals ([[1957 NBA Finals|1957]], [[1958 NBA Finals|1958]], [[1960 NBA Finals|1960]], [[1961 NBA Finals|1961]]), [[Super Bowl XXXVI]] in 2002, and the [[1970 Stanley Cup Final]].<ref>{{Cite web|url=https://sports.yahoo.com/boston-st-louis-meet-for-11-th-time-only-two-to-meet-in-nfl-mlb-nba-and-nhl-045852356.html|title=Boston & St. Louis meet for 11th time, only two to meet in NFL, MLB, NBA and NHL finals|last=Flores Jr.|first=Johnny|website=Yahoo Sports|date=May 21, 2019|accessdate=November 16, 2024}}</ref>
+
+===Boston Bruins===
+{{Main|2018–19 Boston Bruins season}}
+This was the Boston Bruins' 20th appearance in the Stanley Cup Final, six years after {{scfy|2013}}, when they faced the [[Presidents' Trophy]]-winning [[Chicago Blackhawks]] and were defeated in six games. The Bruins last won the Stanley Cup in {{scfy|2011}} against the Presidents' Trophy-winning [[Vancouver Canucks]] in seven games, their sixth Cup in franchise history.<ref>{{cite web|url=https://www.boston.com/sports/boston-bruins/2013/06/07/bruins-history-in-the-stanley-cup-finals/|title=Bruins history in the Stanley Cup Final|publisher=Boston Globe Media Partners, LLC|date=June 7, 2013|website=Boston.com|access-date=June 9, 2019}}</ref>
+
+[[Brad Marchand]] became the first Bruin since the 2005–06 season to score 100 points, finishing the regular season with 100 points in 79 games. [[David Pastrňák|David Pastrnak]] led the team in goals with 38. [[Tuukka Rask]] and [[Jaroslav Halák|Jaroslav Halak]] split the goaltending duties during the regular season.<ref>{{cite web|url=https://www.hockey-reference.com/teams/BOS/2019.html|title=2018-19 Boston Bruins Roster and Statistics|publisher=Sports Reference LLC|website=hockey-reference.com|access-date=June 9, 2019}}</ref> Halak had signed with the team during the off-season,<ref>{{cite web|url=https://www.sportsnet.ca/hockey/nhl/bruins-sign-goaltender-jaroslav-halak-two-year-contract/|title=Bruins sign goaltender Jaroslav Halak to two-year contract|publisher=Rogers Media|date=July 1, 2018|website=Sportsnet.ca|access-date=June 9, 2019}}</ref> and approaching the trade deadline the Bruins acquired forwards [[Charlie Coyle]] and [[Marcus Johansson (ice hockey, born 1990)|Marcus Johansson]].<ref>{{cite news|url=https://www.bostonglobe.com/sports/bruins/2019/05/10/deadline-pickups-charlie-coyle-and-marcus-johansson-have-added-life-bruins/STWkgtHlSka4GZNw752CpN/story.html|title=Deadline pickups Charlie Coyle and Marcus Johansson are the real deal|last=Porter|first=Matt|work=Boston Globe|date=May 10, 2019|access-date=June 9, 2019}}</ref>
+
+Boston finished the regular season with 107 points, finishing in second place in the Atlantic Division and third overall in the league.<ref>{{cite web|url=https://www.nhl.com/standings/2018/conference|title=NHL Hockey Standings|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=June 9, 2019}}</ref> In the first round of the playoffs, they defeated the [[2018–19 Toronto Maple Leafs season|Toronto Maple Leafs]] in seven games for the second consecutive playoff meeting against the Maple Leafs and third since the 2012–13 season.<ref>{{cite web|url=https://www.si.com/nhl/2019/04/24/boston-bruins-toronto-maple-leafs-stanley-cup-nhl-playoffs|title=Supporting Cast Powers Bruins Past Maple Leafs and Into East Semis|last=Pierce|first=Charles P.|publisher=TI Gotham, Inc.|date=April 24, 2019|website=SI.com|access-date=June 9, 2019}}</ref> They then defeated the [[2018–19 Columbus Blue Jackets|Columbus Blue Jackets]] 4–2 in the second round.<ref>{{cite news|url=https://www.dispatch.com/sports/20190506/bruins-3-blue-jackets-0--boston-delivers-knockout-blow|title=Boston delivers knockout blow|last=Hedger|first=Brian|date=May 7, 2019|work=The Columbus Dispatch|access-date=June 9, 2019}}</ref> In the conference finals, Boston swept the [[2018–19 Carolina Hurricanes|Carolina Hurricanes]].<ref>{{cite news|url=https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article230508324.html|title=Hurricanes fall to Bruins in game 4|last1=Willett|first1=Robert|last2=Hyman|first2=Ethan|last3=Long|first3=Travis|date=May 16, 2019|work=The News & Observer|access-date=June 9, 2019}}</ref>
+
+===St. Louis Blues===
+{{Main|2018–19 St. Louis Blues season}}
+This was the St. Louis Blues' fourth appearance in the Stanley Cup Final. Their last appearance in the Final was in {{scfy|1970}} against the Bruins, which Boston won in a four-game sweep. All of St. Louis' prior appearances came during their first three seasons after the Blues and five other new teams formed the West Division in the [[1967 NHL expansion]]. While the Blues were able to advance past their fellow expansion franchises, each Final appearance ended with them being swept by [[Original Six]] teams that comprised the East Division, concluding with their 1970 defeat. In the years that followed, the other expansion teams from 1967 would win Stanley Cup titles (excluding the defunct [[California Golden Seals]] franchise), but the Blues went nearly half a century without reaching the Final again and became the oldest franchise not to win the Stanley Cup.<ref>{{cite web|url=https://thehockeywriters.com/longest-stanley-cup-droughts/|title=Longest Stanley Cup Droughts|last=Bell|first=Josh|publisher=The Hockey Writers|date=April 1, 2019|website=TheHockeyWriters.com|access-date=June 9, 2019}}</ref>
+
+[[Ryan O'Reilly]], who was acquired via trade in the off-season led the team in scoring with 77 points and assists with 49.<ref>{{cite web|url=https://www.diebytheblade.com/2018/7/1/17524056/ryan-oreilly-trade-buffalo-sabres-st-louis-blues-thompson-berglund-sobotka-picks-nhl-free-agency|title=BREAKING: Ryan O'Reilly traded in blockbuster deal|author=Calvin|publisher=Vox Media, Inc.|date=July 1, 2018|website=diebytheblade.com|access-date=June 9, 2019}}</ref> [[Vladimir Tarasenko]] led the team in goal-scoring with 33 goals.<ref>{{cite web|url=https://www.hockey-reference.com/teams/STL/2019.html|title=2018-19 St. Louis Blues Roster and Statistics|publisher=Sports Reference LLC|website=hockey-reference.com|access-date=June 9, 2019}}</ref>
+
+St. Louis struggled early in the regular season, beginning the year with a 7–9–3 record. Head coach [[Mike Yeo]] was fired and assistant coach [[Craig Berube]] was named interim coach.<ref>{{cite web|url=https://www.usatoday.com/story/sports/nhl/blues/2018/11/19/mike-yeo-fired-head-coach-st-louis-blues/2064025002/|title=St. Louis Blues fire head coach Mike Yeo after disappointing start|last=Evans|first=Jake|publisher=USA Today|date=November 20, 2018|website=usatoday.com|access-date=June 9, 2019}}</ref> Their record declined to an NHL-worst 15–18–4 with 34 points on January 2, 2019. However, the Blues went on a 30–10–5 run to finish the season with 99 points, third in the Central Division.<ref>{{cite web|url=https://bleedinblue.com/2019/03/27/st-louis-blues-miraculous-turnaround-still-depends-playoffs/|title=St. Louis Blues Miraculous Turnaround Still Depends On Playoffs|last=Panula|first=Todd|publisher=FanSided Inc.|website=BleedinBlue.com|date=March 27, 2019 |access-date=June 9, 2019}}</ref> Amid their turnaround, rookie goaltender [[Jordan Binnington]] was given his first start and went on to obtain 23 wins.<ref>{{cite web|url=https://www.nhl.com/blues/news/binnington-sets-franchise-record-for-rookie-goalie-wins/c-306426622|title=Binnington sets franchise record for rookie goalie wins|last=Pinkert|first=Chris|publisher=NHL Enterprises, L. P.|date=April 4, 2019|website=NHL.com|access-date=June 9, 2019}}</ref> In the playoffs, St. Louis defeated the [[2018–19 Winnipeg Jets season|Winnipeg Jets]] 4–2 in the first round, eliminated the [[2018–19 Dallas Stars|Dallas Stars]] in seven games in the second round, and won 4–2 against the [[2018–19 San Jose Sharks|San Jose Sharks]] in the conference finals.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/26922942/how-blues-stanley-cup-run-revitalized-st-louis|title=How the Blues' Stanley Cup run has revitalized St. Louis|last=Wagoner|first=Nick|publisher=ESPN Enterprises, Inc.|date=June 8, 2019|website=ESPN.com|access-date=June 9, 2019}}</ref>
+
+==Game summaries==
+:''Note: Number in parentheses represents the player's total goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|date1=May 27
+|team1=St. Louis Blues
+|team2=Boston Bruins
+|stadium1=[[TD Garden]]
+|score1=2–4
+|won1=2
+|recap1=www.nhl.com/news/st-louis-blues-boston-bruins-game-1-recap/c-307544030
+}}
+[[File: Sean Kuraly with Boston Bruins 2017.jpg|thumb|right|upright=.8|[[Sean Kuraly]] scored two points, including the game-winning goal, in Game 1.]]
+In game one, [[Brayden Schenn]] scored the first goal of the Final for the Blues, firing a wrist shot past [[Tuukka Rask]]. In the second period, Bruins forward [[David Pastrňák|David Pastrnak]] mistakenly passed back to an open Schenn who gave the puck to [[Vladimir Tarasenko]] who doubled the lead for St. Louis. The Bruins quickly scored after, as a pass by [[Sean Kuraly]] deflected off of intended target [[Connor Clifton]]'s skate and then goalie [[Jordan Binnington]]'s stick and into the net. [[Charlie McAvoy]] then tied the game on the power play speeding through the Blues zone to put one past Binnington. In the third period, Boston gained the lead as a net-mouth scramble ended up on [[Sean Kuraly]]'s stick who fired it past Binnington. The Bruins continued their shot output, placing ten more on Binnington before being pulled. [[Brad Marchand]] sealed the Bruins victory after a successful defensive zone face-off put the puck into the Blues' zone and the forward shot it into the empty net.<ref>{{Cite web|url=https://www.nhl.com/news/st-louis-blues-boston-bruins-game-1-recap/c-307544030|title=Bruins rally past Blues, win Game 1 of Stanley Cup Final|website=NHL.com|language=en-US|access-date=2019-05-28}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| STL
+|| [[Brayden Schenn]] (3)
+|| [[Jaden Schwartz]] (5), [[Jay Bouwmeester]] (6)
+|| 07:23
+|| 1–0 STL
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| STL
+|| [[Vladimir Tarasenko]] (9)
+|| Brayden Schenn (6)
+|| 01:00
+|| 2–0 STL
+|-style="text-align:center;"
+|| BOS
+|| [[Connor Clifton]] (2)
+|| [[Sean Kuraly]] (4), [[Joakim Nordström|Joakim Nordstrom]] (3)
+|| 02:16
+|| 2–1 STL
+|-style="text-align:center;"
+|| BOS
+|| [[Charlie McAvoy]] (2) – ''pp''
+|| ''Unassisted''
+|| 12:41
+|| 2–2
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| BOS
+|| Sean Kuraly (3)
+|| [[Noel Acciari]] (2), [[Zdeno Chára|Zdeno Chara]] (3)
+|| 05:21
+|| 3–2 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]] (8) – ''en''
+|| ''Unassisted''
+|| 18:11
+|| 4–2 BOS
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| BOS
+|| Sean Kuraly
+|| Tripping
+|| 03:37
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[David Perron]]
+|| Tripping
+|| 13:15
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Robert Thomas (ice hockey)|Robert Thomas]]
+|| Hooking
+|| 16:45
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| STL
+|| [[Joel Edmundson]]
+|| High-sticking
+|| 05:25
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Oskar Sundqvist]]
+|| Cross-checking
+|| 11:04
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| BOS
+|| [[David Krejčí|David Krejci]]
+|| Illegal check to head
+|| 06:55
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Samuel Blais]]
+|| Interference
+|| 13:28
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} ||8 || 3 || 9 ||20
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} || 8 || 18 ||12 ||38
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=May 29
+|team1=St. Louis Blues
+|team2=Boston Bruins
+|stadium1=[[TD Garden]]
+|score1=3–2
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/news/st-louis-blues-boston-bruins-game-2-recap/c-307544080
+}}
+[[File:Carl Gunnarsson 2012-03-07.JPG|thumb|upright=.8|[[Carl Gunnarsson]], shown with Toronto, scored two points, including the overtime game-winning goal in Game 2.]]
+In game two, Boston scored the first goal when [[Samuel Blais]] was given a penalty for goaltender interference and [[Charlie Coyle]] put the puck past St. Louis goaltender [[Jordan Binnington]]. The Blues struck back when [[Robert Bortuzzo]]'s shot deflected off of [[Matt Grzelcyk]] and squeaked past [[Tuukka Rask]] on the short side. The Bruins scored 40 seconds later to take the lead again with [[Joakim Nordström|Joakim Nordstrom]] moving around the St. Louis defenceman and backhanding his shot past Binnington. [[Vladimir Tarasenko]] then tied the game for the Blues when his shot rebounded off of Rask and backhanded his shot into the open net. In the second period, the Blues dominated in shots fourteen to six but neither team scored. However, Blues forward [[Tyler Bozak]] was high-sticked resulting in an injury to the forward; St. Louis was granted a 4-minute power-play. The teams were even in shots in the third period, but with no scoring, the game went into overtime. During the overtime period, Bruins defenceman [[Brandon Carlo]] tripped up [[Alexander Steen]] and on the delayed penalty, [[Carl Gunnarsson]] fired a slap shot past Rask giving St. Louis their first victory in the Final in franchise history and tying the series 1–1.<ref>{{cite web|url=https://www.nhl.com/news/st-louis-blues-boston-bruins-game-2-recap/c-307544080|title=Gunnarsson's goal lifts Blues to Game 2 win in Cup Finals against Bruins|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=May 29, 2019|website=NHL.com|access-date=May 29, 2019}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| BOS
+|| [[Charlie Coyle]] (7) – ''pp''
+|| [[Jake DeBrusk]] (5), [[David Pastrňák|David Pastrnak]] (9)
+|| 04:44
+|| 1–0 BOS
+|-style="text-align:center;"
+|| STL
+|| [[Robert Bortuzzo]] (2)
+|| [[Tyler Bozak]] (6), [[Carl Gunnarsson]] (1)
+|| 09:37
+|| 1–1
+|-style="text-align:center;"
+|| BOS
+|| [[Joakim Nordström|Joakim Nordstrom]] (3)
+|| [[Sean Kuraly]] (5)
+|| 10:17
+|| 2–1 BOS
+|-style="text-align:center;"
+| STL
+|| [[Vladimir Tarasenko]] (10)
+|| [[Jaden Schwartz]] (6)
+|| 14:55
+|| 2–2
+|- style="text-align:center;"
+||'''2nd'''
+| colspan="5"|''None''
+|- style="text-align:center;"
+||'''3rd'''
+| colspan="5"|''None''
+|-style="text-align:center;"
+| rowspan="1"|'''OT'''
+|| STL
+|| Carl Gunnarsson (1)
+|| [[Ryan O'Reilly]] (12), [[Oskar Sundqvist]] (5)
+|| 03:51
+|| 3–2 STL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| STL
+|| [[Samuel Blais]]
+|| Goaltender interference
+|| 03:55
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Oskar Sundqvist]]
+|| Boarding
+|| 17:57
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| BOS
+|| [[Connor Clifton]]
+|| Interference
+|| 03:34
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Joel Edmundson]]
+|| Tripping
+|| 12:19
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| Connor Clifton
+|| High-sticking – double minor
+|| 15:39
+|| 4:00
+|- style="text-align:center;"
+|| STL
+|| Jaden Schwartz
+|| Goaltender interference
+|| 17:56
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1" | '''3rd'''
+|| STL
+|| [[Brayden Schenn]]
+|| Slashing
+|| 13:22
+|| 2:00
+|- style="text-align:center;"
+||'''OT'''
+| colspan="5"|''None''{{efn|name=delayedpenalty|The game winning goal was scored on a delayed penalty.}}
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} ||10 ||14 || 9 || 4 || 37
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} ||8 || 6 || 9 || 0 || 23
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=June 1
+|team1=Boston Bruins
+|team2=St. Louis Blues
+|stadium1=[[Enterprise Center]]
+|score1=7–2
+|won1=1
+|recap1=www.nhl.com/news/boston-bruins-st-louis-blues-game-3-recap/c-307544082
+}}
+[[File:Torey Krug 2013-06-07 2.JPG |thumb|upright=.8|[[Torey Krug]] scored four points in Game 3, setting a Bruins franchise record.]]
+In game three, Boston took over the first period with three unanswered goals. The first came from [[Patrice Bergeron]] on the power-play. The next came from [[Charlie Coyle]] whose wrist shot got past Blues goaltender [[Jordan Binnington]]. The last goal came from [[Sean Kuraly]] with less than ten seconds in the period; the goal was unsuccessfully challenged on an offside review. With power-play given to the Bruins from the failed offside challenge, [[David Pastrňák|David Pastrnak]] capitalized in the second period, backhanding his shot past Binnington. The Blues were able to get on the board as [[Zach Sanford]] passed to an open [[Ivan Barbashev]] for his third goal of the playoffs. However, the Bruins quickly had their four-goal restored when [[Colton Parayko]] was sent to the penalty box for high-sticking and [[Torey Krug]] cashed in for Boston's third power-play goal of the game. Binnington was pulled from the game following this goal and replaced with [[Jake Allen (ice hockey)|Jake Allen]]. In the third period, a roughing penalty by Bruins captain [[Zdeno Chára|Zdeno Chara]] proved costly as Parayko scored on the given power-play, his slap shot deflecting off of [[Brandon Carlo]]. Although the Blues out shot the Bruins eleven to four, beyond the one goal, St. Louis could not get another past [[Tuukka Rask]]. Bruins forward [[Noel Acciari]] scored an empty-net goal to add insurance. Boston added another power-play goal with [[Marcus Johansson (ice hockey, born 1990)|Marcus Johansson]]'s slap shot cleanly beating Allen finalizing the score at 7–2. The Bruins scored on every power-play that they had in the game, scoring on each of their four power-play shots.<ref>{{cite web|url=https://www.nhl.com/news/boston-bruins-st-louis-blues-game-3-recap/c-307544082|title=Bruins blitz Blues in Game 3, take lead in Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 1, 2019|website=NHL.com|access-date=June 3, 2019}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| BOS
+|| [[Patrice Bergeron]] (9) – ''pp''
+|| [[Torey Krug]] (12), [[Jake DeBrusk]] (6)
+|| 10:47
+|| 1–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Charlie Coyle]] (8)
+|| [[Marcus Johansson (ice hockey, born 1990)|Marcus Johansson]] (7), [[Danton Heinen]] (6)
+|| 17:40
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Sean Kuraly]] (4)
+|| [[Joakim Nordström|Joakim Nordstrom]] (4)
+|| 19:50
+|| 3–0 BOS
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| BOS
+|| [[David Pastrňák|David Pastrnak]] (8) – ''pp''
+|| Torey Krug (13), Patrice Bergeron (8)
+|| 00:41
+|| 4–0 BOS
+|-style="text-align:center;"
+|| STL
+|| [[Ivan Barbashev]] (3)
+|| [[Zach Sanford]] (1), [[Alexander Steen]] (3)
+|| 11:05
+|| 4–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| Torey Krug (2) – ''pp''
+|| [[Brad Marchand]] (12), Patrice Bergeron (7)
+|| 12:12
+|| 5–1 BOS
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| STL
+|| [[Colton Parayko]] (2) – ''pp''
+|| [[Ryan O'Reilly]] (13), [[Tyler Bozak]] (7)
+|| 05:24
+|| 5–2 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Noel Acciari]] (2) – ''en''
+|| Joakim Nordstrom (5), Charlie Coyle (7)
+|| 18:12
+|| 6–2 BOS
+|-style="text-align:center;"
+|| BOS
+|| Marcus Johansson (2) – ''pp''
+|| Torey Krug (14), [[Connor Clifton]] (3)
+|| 18:35
+|| 7–2 BOS
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="5"|'''1st'''
+|| BOS
+|| Jake DeBrusk
+|| Kneeing
+|| 01:02
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[David Perron]]
+|| Interference
+|| 10:26
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Connor Clifton]]
+|| Roughing
+|| 14:22
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Ivan Barbashev]]
+|| Unsportsmanlike conduct
+|| 14:22
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Bench (served by David Perron)
+|| Delay of game (failed offside coach's challenge)
+|| 19:50
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| BOS
+|| [[Charlie McAvoy]]
+|| Slashing
+|| 07:37
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Patrick Maroon]]
+|| Unsportsmanlike conduct
+|| 07:37
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Unsportsmanlike conduct
+|| 07:37
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Colton Parayko
+|| High-sticking
+|| 11:41
+|| 2:00
+|- style="text-align:center;"
+| rowspan="6"|'''3rd'''
+|| STL
+|| David Perron
+|| Roughing
+|| 00:54
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| Connor Clifton
+|| Cross checking
+|| 00:54
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Brandon Carlo]]
+|| Interference
+|| 01:31
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| Zdeno Chara
+|| Roughing
+|| 05:18
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| Jake DeBrusk
+|| Delay of game (puck over glass)
+|| 06:04
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Alex Pietrangelo]]
+|| Slashing
+|| 18:12
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} ||12 || 8 || 4 || 24
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} || 8 || 10 || 11 || 29
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=June 3
+|team1=Boston Bruins
+|team2=St. Louis Blues
+|stadium1=[[Enterprise Center]]
+|score1=2–4
+|won1=2
+|recap1=www.nhl.com/news/boston-bruins-st-louis-blues-game-4-recap/c-307543702
+}}
+[[File:Ryan O'Reilly during the 2019 Stanley Cup Parade.jpg|thumb|upright=.8|[[Ryan O'Reilly]] scored twice, including the game-winner, in Game 4. This game began his four-game goal-scoring streak.]]
+In game four, [[Ryan O'Reilly]] scored first for the Blues, scoring a wrap-around goal 43 seconds into the game. The Bruins counter-attacked when [[Zdeno Chára|Zdeno Chara]] shot at [[Jordan Binnington]] and the rebound went to [[Charlie Coyle]] who slid it past the Blues goaltender. The Blues regained the lead when [[Alex Pietrangelo]]'s shot rebounded to [[Vladimir Tarasenko]] firing a wrist shot past [[Tuukka Rask]]. In the second period, with Boston forward [[Connor Clifton]] resigned to the penalty box for an illegal check to the head, the Bruins, shorthanded, tied the game as [[Brandon Carlo]] picked up a rebound to shoot it past Binnington. Midway through the third period, however, the Blues regained the lead with a rebound going to O'Reilly. The Blues staved off the Bruins, limiting Boston's shots to five. [[Brayden Schenn]] sealed the game's final score at 4–2 with an empty-net goal tying the series at 2–2.<ref>{{cite web|url=https://www.nhl.com/news/boston-bruins-st-louis-blues-game-4-recap/c-307543702|title=Blues defeat Bruins in Game 4, even Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 3, 2019|website=NHL.com|access-date=June 9, 2019}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| STL
+|| [[Ryan O'Reilly]] (4)
+|| [[Zach Sanford]] (2), [[Vince Dunn]] (6)
+|| 00:43
+||  1–0 STL
+|-style="text-align:center;"
+|| BOS
+|| [[Charlie Coyle]] (9)
+|| [[Zdeno Chára|Zdeno Chara]] (4)
+|| 13:14
+|| 1–1
+|-style="text-align:center;"
+|| STL
+|| [[Vladimir Tarasenko]] (11)
+|| [[Alex Pietrangelo]] (12), [[Brayden Schenn]] (7)
+|| 15:30
+|| 2–1 STL
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| BOS
+|| [[Brandon Carlo]] (1) – ''sh''
+|| [[Patrice Bergeron]] (8), [[Brad Marchand]] (13) 
+|| 14:19
+|| 2–2
+|-style="text-align:center;"
+|  rowspan="2"|'''3rd'''
+|| STL
+|| Ryan O'Reilly (5)
+|| Alex Pietrangelo (13), [[Carl Gunnarsson]] (2) 
+|| 10:38
+|| 3–2 STL
+|-style="text-align:center;"
+|| STL
+|| Brayden Schenn (4) – ''en''
+|| ''Unassisted'' 
+|| 18:31
+|| 4–2 STL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+||'''1st'''
+| colspan="5"|''None''
+|- style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| BOS
+|| [[Charlie Coyle]]
+|| High-sticking
+|| 05:47
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Colton Parayko]]
+|| Delay of game (puck over glass)
+|| 08:31
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Connor Clifton]]
+|| Illegal check to head
+|| 13:53
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''3rd'''
+|| BOS
+|| [[Danton Heinen]]
+|| Tripping
+|| 02:08
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Jay Bouwmeester]]
+|| High-sticking
+|| 06:42
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Torey Krug]]
+|| Slashing
+|| 19:34
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Jay Bouwmeester
+|| Elbowing
+|| 19:34
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} || 9 ||10 || 4 || 23
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} || 13 || 12 || 13 || 38
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=June 6
+|team1=St. Louis Blues
+|team2=Boston Bruins
+|stadium1=[[TD Garden]]
+|score1=2–1
+|won1=1
+|recap1=www.nhl.com/news/st-louis-blues-boston-bruins-game-5-recap/c-307631396
+}}
+[[File:Perron during the 2019 Stanley Cup parade.jpg|thumb|right|[[David Perron]] scored the game-winning goal in Game 5.]]
+In game five, the Bruins piled on seventeen shots in the first period, but Blues goaltender [[Jordan Binnington]] held down the fort. The Blues got the first goal of the game in the second period as [[Ryan O'Reilly]] backhanded a shot past [[Tuukka Rask]]. The Bruins continued the pressure into the third period. In the third period, controversy occurred when Blues forward [[Tyler Bozak]] tripped [[Noel Acciari]], but no penalty was called on the play. With play continuing while Acciari was down on the ice, [[David Perron]] scored with the puck deflecting off Rask into the net. The Bruins got on the board with less than seven minutes remaining when [[Oskar Sundqvist]] high-sticked [[Torey Krug]], causing a delayed penalty, and the Boston defenceman passed to an open [[Jake DeBrusk]] who fired it past Binnington. The Blues played defensively for the final minutes to win the game 2–1 and lead the series 3–2.<ref>{{cite web|url=https://www.nhl.com/news/st-louis-blues-boston-bruins-game-5-recap/c-307631396|title=Blues hold on for Game 5 win against Bruins, lead Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date= June 6, 2019|website=NHL.com|access-date=June 9, 2019}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|- style="text-align:center;" 
+||'''1st'''
+| colspan="5"|''None''
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| STL
+|| [[Ryan O'Reilly]] (6)
+|| [[Zach Sanford]] (3), [[Alex Pietrangelo]] (14) 
+|| 00:55
+|| 1–0 STL
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| STL
+|| [[David Perron]] (7)
+|| Ryan O'Reilly (14)
+|| 10:36
+|| 2–0 STL
+|-style="text-align:center;"
+|| BOS
+|| [[Jake DeBrusk]] (4)
+|| [[Torey Krug]] (15)
+|| 13:32
+|| 2–1 STL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="2"|'''1st'''
+|| STL
+|| [[Vince Dunn]]
+|| Delay of game (puck over glass)
+|| 06:27
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]]
+|| Slashing
+|| 17:22
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| STL
+|| [[David Perron]]
+|| Interference
+|| 09:25
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| STL
+|| [[Alexander Steen]]
+|| Interference
+|| 03:09
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} || 8 || 6 || 7 || 21
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} || 17 || 8 || 14 || 39
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1=June 9
+|team1=Boston Bruins
+|team2=St. Louis Blues
+|stadium1=[[Enterprise Center]]
+|score1=5–1
+|won1=1
+|recap1=www.nhl.com/news/boston-bruins-st-louis-blues-game-6-recap/c-307691644
+}}
+[[File:Tuukka Rask - Boston Bruins.jpg|thumb|right|upright=.8|[[Tuukka Rask]] saved 28 of 29 shots faced in Game 6.]]
+In game six, after both [[Brayden Schenn]] and [[Ryan O'Reilly]] were sent to the penalty box for boarding and delay of game respectively, Boston forward [[Brad Marchand]] scored on the resulting 5-on-3 power play. In the second period, both teams were relatively even in shots, Boston with eight and St. Louis with ten, but neither team scored. In the third period, Bruins defenceman [[Brandon Carlo]] shot a bouncing puck towards [[Jordan Binnington]] which snuck under the Blues goaltender's blocker for the second goal of the game. [[Karson Kuhlman]] gave Boston a three-goal lead with his first goal of the playoffs. St. Louis got on the board when O'Reilly's shot appeared to cross the goal line after a video replay. The Bruins regained their three-goal lead when the Blues in a defensive scramble left [[David Pastrňák|David Pastnak]] alone in front of the net and he fired the puck past Binnington. The Blues pulled Binnington in an attempt to tie the game, but [[Zdeno Chára|Zdeno Chara]] sealed the victory for the Bruins finalizing the score at 5–1 and sending the series to a seventh game.<ref>{{cite web|url=https://www.nhl.com/news/boston-bruins-st-louis-blues-game-6-recap/c-307691644|title=Bruins deny Blues in Game 6 to extend Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 9, 2019|website=NHL.com|access-date=June 12, 2019}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| BOS
+|| [[Brad Marchand]] (9) – ''pp''
+|| [[David Pastrňák|David Pastrnak]] (10), [[Torey Krug]] (16)
+|| 08:40
+|| 1–0 BOS
+|- style="text-align:center;"
+||'''2nd'''
+| colspan="5"|''None''
+|-style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| BOS
+|| [[Brandon Carlo]] (2)
+|| [[Jake DeBrusk]] (7)
+|| 02:31
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Karson Kuhlman]] (1)
+|| [[David Krejčí|David Krejci]] (11)
+|| 10:15
+|| 3–0 BOS
+|-style="text-align:center;"
+|| STL
+|| [[Ryan O'Reilly]] (7)
+|| [[Alex Pietrangelo]] (15), [[David Perron]] (8)
+|| 12:01
+|| 3–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| David Pastrnak (9)
+|| Brad Marchand (14), [[Sean Kuraly]] (6)
+|| 14:06
+|| 4–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]] (2) – ''en''
+|| ''Unassisted''
+|| 17:41
+|| 5–1 BOS
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="4"|'''1st'''
+|| BOS
+|| Sean Kuraly
+|| Delay of game (puck over glass)
+|| 02:42
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Brayden Schenn]]
+|| Boarding
+|| 07:17
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Ryan O'Reilly
+|| Delay of game (puck over glass)
+|| 08:19
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| Zdeno Chara
+|| Interference
+|| 18:21
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| BOS
+|| Brad Marchand
+|| Tripping
+|| 09:11
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Charlie McAvoy]]
+|| Tripping
+|| 13:43
+|| 2:00
+|- style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| STL
+|| [[Samuel Blais]]
+|| Slashing
+|| 19:38
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Samuel Blais
+|| Roughing
+|| 19:38
+|| 2:00
+|- style="text-align:center;"
+|| BOS
+|| [[Connor Clifton]]
+|| Roughing
+|| 19:38
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| [[Robert Bortuzzo]]
+|| Cross-checking
+|| 19:43
+|| 2:00
+|- style="text-align:center;"
+|| STL
+|| Robert Bortuzzo
+|| Misconduct
+|| 19:43
+|| 10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} || 12 || 8 || 12 || 32
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} || 9 || 10 || 10 || 29
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|date1=June 12
+|team1=St. Louis Blues
+|team2=Boston Bruins
+|stadium1=[[TD Garden]]
+|score1=4–1
+|won1=1
+|recap1=www.nhl.com/news/st-louis-blues-boston-bruins-game-7-recap/c-307776644
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=NNOWNXH1P5E Game 7 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:Alex Pietrangelo 2014-03-22.JPG|thumb|upright=.8|[[Alex Pietrangelo]] scored the [[Stanley Cup]]-clinching goal in Game 7.]]
+In game seven, [[Jay Bouwmeester]]'s shot got through a screen of players and [[Ryan O'Reilly]] tipped the puck past [[Tuukka Rask]] for the opening goal. The Blues increased their lead with eight seconds remaining in the first period when [[Jaden Schwartz]] passed to an open [[Alex Pietrangelo]] who backhanded his shot for his third goal of the playoffs. Boston continued to pressure St. Louis in the second period with eleven shots, but [[Jordan Binnington]] kept the score at 2–0. In the third period, [[Vladimir Tarasenko]] followed the puck into the Bruins' zone and passed to an open [[Brayden Schenn]] who fired the puck past Rask. [[Zach Sanford]] made the score 4–0 as the Blues continued to work in the offensive zone, with [[David Perron]] working around the Bruins defenceman to pass to the open rookie forward. The Bruins then swapped Rask for an [[extra attacker]] and thwarted Binnington's shutout attempt with a goal from [[Matt Grzelcyk]].<ref name=":0">{{cite web|url=https://www.nhl.com/news/st-louis-blues-boston-bruins-game-7-recap/c-307776644|title=Blues win Stanley Cup for first time, defeat Bruins in Game 7 of Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 12, 2019|website=NHL.com|access-date=June 12, 2019}}</ref> With the 4–1 victory, the Blues became the last remaining expansion franchise from [[1967 NHL expansion|1967]] to win the Stanley Cup.<ref>{{cite web|url=https://www.nbcsports.com/washington/capitals/7-reasons-caps-fans-should-be-happy-blues-won-stanley-cup|title=Caps fans should be happy the Blues won the Stanley Cup|last=Regan|first=J.J.|date=June 13, 2019|website=NBC Sports Washington|access-date=June 14, 2019|quote=Of the five other expansion teams in their division, the Blues are the only team still in existence that had not won a Cup. The only other team that did not was the [[Oakland Seals]].}}</ref> O'Reilly was awarded the [[Conn Smythe Trophy]] as the most valuable player in the playoffs.<ref name=":0" />
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| STL
+|| [[Ryan O'Reilly]] (8)
+|| [[Jay Bouwmeester]] (7), [[Alex Pietrangelo]] (16)
+|| 16:47
+|| 1–0 STL
+|-style="text-align:center;"
+| STL
+|| [[Alex Pietrangelo]] (3)
+|| [[Jaden Schwartz]] (7)
+|| 19:52
+|| 2–0 STL
+|- style="text-align:center;"
+||'''2nd'''
+| colspan="5"|''None''
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+| STL
+| [[Brayden Schenn]] (5)
+| [[Vladimir Tarasenko]] (6), Jaden Schwartz (8)
+| 11:25
+|| 3–0 STL
+|-style="text-align:center;"
+|| STL
+|| [[Zach Sanford]] (1)
+|| [[David Perron]] (6), Ryan O'Reilly (15)
+|| 15:22
+|| 4–0 STL
+|-style="text-align:center;"
+|| BOS
+|| [[Matt Grzelcyk]] (4)
+|| [[David Krejčí|David Krejci]] (12)
+|| 17:50
+|| 4–1 STL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;" 
+| rowspan="1"|'''1st'''
+|| STL
+|| [[Colton Parayko]]
+|| Delay of game (puck over glass)
+|| 07:57
+|| 2:00
+|- style="text-align:center;"
+||'''2nd'''
+| colspan="5"|''None''
+|- style="text-align:center;"
+||'''3rd'''
+| colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|STL}} || 4 ||6 || 10 || 20
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|BOS}} ||12 || 11 || 10 || 33
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Boston Bruins===
+[[File:Zdeno Chara - Boston Bruins 2012.jpg|right|thumb|250px|[[Zdeno Chára|Zdeno Chara]] [[Captain (ice hockey)|captained]] the Bruins to their third Stanley Cup Final appearance in the 2010s decade]]
+
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''55'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Noel|Acciari}}
+| C/W
+| R
+| {{hs|27–194}}27
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Johnston, Rhode Island]]
+| first
+|-
+| '''42'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|David|Backes}}
+| RW
+| R
+| {{hs|35–016}}35
+| [[2016–17 NHL season|2016]]
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrice|Bergeron}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|33–302}}33
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"|[[L'Ancienne-Lorette, Quebec]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Carlo}}
+| D
+| R
+| {{hs|22-202}}22
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Colorado Springs, Colorado]]
+| first
+|-
+| '''33'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Zdeno|Chara|Zdeno Chára}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{hs|42-075}}42
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"|[[Trenčín|Trenčín, Czechoslovakia]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''75'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Connor|Clifton}}
+| D
+| R
+| {{hs|24-019}}24
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Long Branch, New Jersey]]
+| first
+|-
+| '''13'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Coyle}}
+| C
+| R
+| {{hs|27-076}}27
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Weymouth, Massachusetts]]
+| first
+|-
+| '''74'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|DeBrusk}}
+| LW
+| L
+| {{hs|22-294}}22
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''48'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matt|Grzelcyk}}
+| D
+| L
+| {{hs|25-143}}25
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Charlestown, Boston|Charlestown, Massachusetts]]
+| first
+|-
+| '''43'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Danton|Heinen}}
+| C/W
+| L
+| {{hs|23-308}}23
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Langley, British Columbia (city)|Langley, British Columbia]]
+| first
+|-
+| '''41'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Jaroslav|Halak|Jaroslav Halák}}
+| G
+| L
+| {{hs|34–004}}34
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Bratislava|Bratislava, Czechoslovakia]]
+| first
+|-
+| '''90'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Marcus|Johansson|dab=ice hockey, born 1990}}
+| LW/C
+| L
+| {{hs|28–233}}28
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Landskrona|Landskrona, Sweden]]
+| first
+|-
+| '''44'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Kampfer}}
+| D
+| R
+| {{hs|30–199}}30
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Ann Arbor, Michigan]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|-
+| '''46'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|David|Krejci|David Krejčí}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|33-019}}33
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"|[[Šternberk|Šternberk, Czechoslovakia]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''47'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Torey|Krug}}
+| D
+| L
+| {{hs|28-036}}28
+| [[2011–12 NHL season|2012]]
+| style="text-align:left;"|[[Livonia, Michigan]]
+| second {{small|([[2013 Stanley Cup Final|2013]])}}
+|-
+| '''83'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Karson|Kuhlman}}
+| C/W
+| R
+| {{hs|23–228}}23
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Esko, Minnesota]]
+| first
+|-
+| '''52'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Sean|Kuraly}}
+| C
+| L
+| {{hs|26-104}}26
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Dublin, Ohio]]
+| first
+|-
+| '''63'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Marchand}}
+| LW
+| L
+| {{hs|31-006}}31
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''73'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|McAvoy}}
+| D
+| R
+| {{hs|21-181}}21
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Long Beach, New York]]
+| first
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|Moore|dab=ice hockey}}
+| D
+| L
+| {{hs|28-146}}28
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Winnetka, Illinois]]
+| second {{small|([[2014 Stanley Cup Final|2014]])}}
+|-
+|'''20'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Joakim|Nordstrom|Joakim Nordström}}
+| C
+| L
+| {{hs|27–121}}27
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| second {{small|('''[[2015 Stanley Cup Final|2015]]''')}}
+|-
+| '''88'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|David|Pastrnak|David Pastrňák}}
+| RW
+| R
+| {{hs|23-002}}23
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Havířov|Havířov, Czech Republic]]
+| first
+|-
+| '''40'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Tuukka|Rask}}
+| G
+| L
+| {{hs|32–067}}32
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"|[[Savonlinna|Savonlinna, Finland]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Wagner}}
+| RW
+| R
+| {{hs|28-001}}28
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Walpole, Massachusetts]]
+| first
+|}
+
+===St. Louis Blues===
+[[File:Alex Pietrangelo during the 2019 Stanley Cup parade.jpg|right|thumb|250px|[[Alex Pietrangelo]] captained the Blues to the franchise's first Stanley Cup championship and first Final appearance in 49 years]]
+
+{| class="sortable wikitable plainrowheaders" style="text-align:center"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! scope="col" | #
+! scope="col" | [[Nationality|Nat]]
+! scope="col" | Player
+! scope="col" | Position
+! scope="col" | Hand
+! scope="col" | Age
+! scope="col" | Acquired
+! scope="col" class="unsortable" | Place of birth
+! scope="col" class="unsortable" | Final appearance
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|Allen|dab=ice hockey}}
+| G
+| L
+| {{hs|28–004}}28
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Fredericton|Fredericton, New Brunswick]]
+| first
+|- 
+| '''49'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Ivan|Barbashev}}
+| C
+| L
+| {{hs|23-355}}23
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Moscow|Moscow, Russia]]
+| first
+|-
+| '''50'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jordan|Binnington}}
+| G
+| L
+| {{hs|25-355}}25
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Richmond Hill, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Samuel|Blais}}
+| LW
+| L
+| {{hs|22-355}}22
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Montmagny, Quebec]]
+| first
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Robert|Bortuzzo}}
+| D
+| R
+| {{hs|30-355}}30
+| [[2014–15 NHL season|2015]]
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Bouwmeester}}
+| D
+| L
+| {{hs|35-355}}35
+| [[2012–13 NHL season|2013]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Bozak}}
+| C
+| R
+| {{hs|33-355}}33
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Regina, Saskatchewan]]
+| first
+<!-- |-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jared|Coreau}}
+| G
+| L
+| {{hs|27-355}}27
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Perth, Ontario]]
+| first -->
+|-
+| '''42'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Del Zotto}}
+| D
+| L
+| {{hs|28-355}}28
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Stouffville, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Vince|Dunn}}
+| D
+| L
+| {{hs|22-355}}22
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Edmundson}}
+| D
+| L
+| {{hs|25-355}}25
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Robby|Fabbri}}
+| C
+| L
+| {{hs|23-355}}23
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| first
+|-
+| '''4'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Carl|Gunnarsson}}
+| D
+| L
+| {{hs|32-355}}32
+| [[2014–15 NHL season|2014]]
+| style="text-align:left;"|[[Örebro|Örebro, Sweden]]
+| first
+<!-- |-
+| '''62'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mackenzie|MacEachern}}
+| LW
+| L
+| {{hs|25-355}}25
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Bloomfield Hills, Michigan]]
+| first -->
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Maroon}}
+| LW
+| L
+| {{hs|31-355}}31
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[St. Louis|St. Louis, Missouri]]
+| first
+|-
+| '''90'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|O'Reilly}}
+| C
+| L
+| {{hs|28-355}}28
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Clinton, Ontario]]
+| first
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colton|Parayko}}
+| D
+| R
+| {{hs|26-355}}26
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[St. Albert, Alberta]]
+| first
+|-
+| '''57'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|David|Perron}}
+| LW
+| R
+| {{hs|31-001}}31
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Sherbrooke|Sherbrooke, Quebec]]
+| | second {{small|([[2018 Stanley Cup Final|2018]])}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Pietrangelo}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| R
+| {{hs|29-355}}29
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[King City, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Sanford}}
+| LW
+| L
+| {{hs|24-355}}24
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[Salem, Massachusetts]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|Schenn}}
+| C
+| L
+| {{hs|27-355}}27
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jaden|Schwartz}}
+| C/LW
+| L
+| {{hs|26-355}}26
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Melfort, Saskatchewan]]
+| first
+|-
+| '''20'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Steen}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|35-355}}35
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first
+|-
+| '''70'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Oskar|Sundqvist}}
+| C
+| R
+| {{hs|25-355}}25
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Boden, Sweden]]
+| second {{small|('''[[2016 Stanley Cup Final|2016]]''')}}
+|-
+| '''91'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Tarasenko}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| L
+| {{hs|27-355}}27
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Yaroslavl|Yaroslavl, Soviet Union]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Robert|Thomas|dab=ice hockey}}
+| C
+| R
+| {{hs|19-355}}19
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Aurora, Ontario]]
+| first
+<!-- |-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Thorburn}}
+| RW
+| Right
+| {{hs|35-355}}35
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| first -->
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Blues captain Alex Pietrangelo by [[NHL commissioner]] [[Gary Bettman]] following the Blues 4–1 win over the Bruins in game seven.
+
+The following Blues players and staff had their names engraved on the Stanley Cup:
+
+'''2018–19 St. Louis Blues'''
+{{Stanley Cup champion
+|defence=
+*4 [[Carl Gunnarsson]]
+*6 [[Joel Edmundson]]
+*19 [[Jay Bouwmeester]]
+*27 [[Alex Pietrangelo]] (Captain)
+*29 [[Vince Dunn]]
+*41 [[Robert Bortuzzo]]
+*42 [[Michael Del Zotto]] †
+*55 [[Colton Parayko]]
+|wingers=
+*7 [[Patrick Maroon]]
+*9 [[Samuel Blais]]
+*12 [[Zach Sanford]]
+*20 [[Alexander Steen]] (A)
+*57 [[David Perron]]
+*91 [[Vladimir Tarasenko]] (A)
+|centres=
+*10 [[Brayden Schenn]]
+*15 [[Robby Fabbri]]*
+*17 [[Jaden Schwartz]]*
+*18 [[Robert Thomas (ice hockey)|Robert Thomas]]*
+*21 [[Tyler Bozak]]
+*49 [[Ivan Barbashev]]*
+*70 [[Oskar Sundqvist]]
+*90 [[Ryan O'Reilly]]
+|goaltenders=*34 [[Jake Allen (ice hockey)|Jake Allen]]
+*50 [[Jordan Binnington]]
+|player-notes=
+* * Played both centre and wing.
+* † Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*Tom Stillman (Chairman/Governor/Majority Owner), Chris Zimmerman (President/CEO of Business Operations/Alt. Governor), [[Doug Armstrong]] (President of Hockey Operations and General Manager/Alt. Governor) 
+* [[Dave Taylor (ice hockey)|Dave Taylor]] (Vice President of Hockey Ops.), [[Al MacInnis]] (Senior Advisor to the General Manager), [[Bill Armstrong (ice hockey, born 1970)|Bill Armstrong]] (Asst. General Manager/Director of Amateur Scouting), [[Craig Berube]] (Head Coach), 
+* [[Steve Ott]] (Asst. Coach), [[Mike Van Ryn]] (Asst. Coach), David Alexander (Goaltending Coach), Sean Ferrell (Video Coach)
+* [[Larry Robinson]] (Senior Consultant of Hockey Ops./Asst. Coach), [[Rob DiMaio]] (Director of Player Personnel), Kevin McDonald (GM, San Antonio Rampage and Pro Scout), [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]] (Director of Player Development)
+* Ryan Miller (Director of Hockey Operations), Dan Ginnell (Amateur Scout), Tony Feltrin (Amateur Scout), [[Jan Vopat]] (Head of European Scouting)
+* Ray Barile (Athletic Trainer), Dustin Flynn (Asst. Athletic Trainer), Joel Farnsworth (Equipment Manager)
+* Rich Matthews (Asst. Equipment Manager), Andrew Dvorak (Equipment Assistant), Eric Renaghan (Strength & Conditioning Coach)
+* Steve Squier (Massage Therapist), Rich Jankowski (Sr. Director of Team Services), Mike Caruso (Vice President, Media & Brand Communications)}}
+===Engraving notes===
+* #42 [[Michael Del Zotto]] (D) played in 7 regular season games for St. Louis, but was a healthy scratch for the entire playoffs. He previously played in 23 for [[Vancouver Canucks|Vancouver]] and later 12 regular season games for [[Anaheim Ducks|Anaheim]] before being acquired midseason by St. Louis. As he did not automatically qualify,{{efn|name=qualify}} St. Louis successfully requested an exemption to engrave his name.<ref>[https://www.sportskeeda.com/us/nhl/news-michael-del-zotto-reveals-got-name-engraved-stanley-cup-st-louis-blues-2019-win-despite-meeting-requirements Michael Del Zotto reveals how he got his name engraved on the Stanley Cup after St. Louis Blues' 2019 win despite not meeting requirements]</ref>
+<!--Listed in order by NHL games played during the 2018–19 NHL season, then AHL or other league if no NHL games.-->
+* Six players were the on the roster during the Final, but left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} None of them played in or dressed for the playoffs (they were healthy scratches).<ref>[https://www.nhl.com/scores/htmlreports/20182019/RO030417.HTM Playing Roster]</ref> They were included in the team picture.
+** #62 [[Mackenzie MacEachern]] (LW) – 29 regular season games
+** #71 [[Jordan Nolan]] (C) – 14 regular season games (name engraved on the Stanley Cup for [[Los Angeles Kings|Los Angeles]] in {{scfy|2012}} and {{scfy|2014}})
+** #25 [[Chris Butler (ice hockey)|Chris Butler]] (D) – 13 regular season games
+** #22 [[Chris Thorburn]] (RW) – 1 regular season game
+** #35 [[Ville Husso]] (G) – 0 regular season games, 27 for [[San Antonio Rampage|San Antonio]] of the [[American Hockey League|AHL]]
+** #39 [[Mitch Reinke]] (D) – 0 regular season games, 76 for San Antonio of the AHL
+
+==Television and radio==
+In Canada, the series was broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]], and [[TVA Sports]] in [[French language|French]]. In the U.S., the Final was split between [[NBC]] (Games 1, and 4 through 7) and [[NBCSN]] (Games 2 and 3).<ref>{{cite press release | url=http://nbcsportsgrouppressbox.com/2019/04/03/final-draft-theres-nothing-like-playoff-hockey-nbc-sports-group-to-present-every-stanley-cup-playoff-game-for-eighth-consecutive-season/ | title=NBC Sports Group to Present Every Stanley Cup Playoff Game For Eighth Consecutive Season | publisher=NBC Sports | date=April 3, 2019 | access-date=April 25, 2019}}</ref>
+
+In the United States, the seven-game series averaged 5.3 million viewers, the highest average since the six-game [[2015 Stanley Cup Final]]. St. Louis had an average 28.7 rating, and Boston had an average 25.5.<ref>[https://www.sportsmediawatch.com/2019/06/stanley-cup-ratings-increase-blues-bruins-nbc/ Blues-Bruins Stanley Cup Final most-watched in four years] - Paulsen, Sports Media Watch, 13 June 2019</ref> Game 7 had an average 8.7 million viewers, being the most watched NHL game in nearly 50 years.<ref>{{cite web|url=https://adage.com/article/media/game-7-stanley-cup-final-all-timer-nbc/2178116|title=Game 7 of the Stanley Cup Final is an All-Timer for NBC|first=Anthony|last=Crupi|website=AdAge|date=June 14, 2019|quote=Anyone looking to find the NHL games that posted bigger numbers than Wednesday night’s broadcast has to go back nearly 50 years}}</ref><ref>{{cite web|url=https://www.sportsmediawatch.com/2019/06/stanley-cup-game-7-ratings-blues-bruins/|title=Stanley Cup Final Game 7 sets ratings, viewership marks|author=Paulsen|publisher=Sports Media Watch|date=June 13, 2019}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite news |url=https://www.bostonglobe.com/sports/bruins/2019/05/24/bobby-orr-reflects-two-bruins-blues-series-years-apart/nTZjDFnUgMfje1VXwbjDfI/story.html |title=Bobby Orr reflects on two Bruins-Blues series, 49 years apart |first=Dan |last=Shaughnessy |website=[[The Boston Globe]] |url-access=limited |date=May 24, 2019 |access-date=May 25, 2019|authorlink=Dan Shaughnessy}}
+
+==External links==
+* {{Official website|https://www.nhl.com/stanley-cup-playoffs/2019/bruins-vs-blues-series-o}}
+
+{{s-start}}
+{{succession box | before = [[2018 Stanley Cup Final|Washington Capitals<br />2018]] | title = [[List of Stanley Cup champions|St. Louis Blues<br />Stanley Cup champions]] | years = 2019 | after = [[2020 Stanley Cup Final|Tampa Bay Lightning<br />2020]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{St. Louis Blues}}
+{{Boston Bruins}}
+{{2018–19 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on Sportsnet}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2019 Stanley Cup| ]]
+[[Category:2018–19 NHL season]]
+[[Category:Stanley Cup Finals]]
+[[Category:May 2019 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2019 sports events in the United States|Stanley Cup]]
+[[Category:St. Louis Blues games]]
+[[Category:Boston Bruins games]]
+[[Category:Ice hockey competitions in St. Louis]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:2019 in sports in Missouri|Stanley Cup]]
+[[Category:2019 in sports in Massachusetts|Stanley Cup]]
+[[Category:2019 in St. Louis]]
+[[Category:2019 in Boston]]

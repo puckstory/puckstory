@@ -1,0 +1,1619 @@
+{{short description|2013 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=June 2013}}
+{{Infobox Stanley Cup Final
+|year = 2013
+|image=2013 Stanley Cup Final Logo.png
+|team1 = '''[[2012–13 Chicago Blackhawks season|Chicago Blackhawks]]'''
+|team1_1 = '''4'''***
+|team1_2 = 1*
+|team1_3 = 0
+|team1_4 = '''6'''*
+|team1_5 = '''3'''
+|team1_6 = '''3'''
+|team1_tot = 4
+|team1_short = Chicago
+|team1_coach = [[Joel Quenneville]]
+|team1_captain = [[Jonathan Toews]]
+|team1_national_anthem = [[Jim Cornelison]]
+|team2 = [[2012–13 Boston Bruins season|Boston Bruins]]
+|team2_1 = 3***
+|team2_2 = '''2'''*
+|team2_3 = '''2'''
+|team2_4 = 5*
+|team2_5 = 1
+|team2_6 = 2
+|team2_tot= 2
+|team2_short = Boston
+|team2_coach = [[Claude Julien (ice hockey)|Claude Julien]]
+|team2_captain = [[Zdeno Chára|Zdeno Chara]]
+|team2_national_anthem = [[Rene Rancourt]]
+|table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+|referees = [[Brad Watson (ice hockey)|Brad Watson]] (1, 3, 5)<br>[[Chris Rooney]] (1, 3, 5)<br>[[Dan O'Halloran]] (2, 4, 6)<br>[[Wes McCauley]] (2, 4, 6)
+|dates = June 12–24, 2013
+|location1 = [[Chicago]]: [[United Center]] (1, 2, 5)
+|location2 = [[Boston]]: [[TD Garden]] (3, 4, 6)
+|mvp = [[Patrick Kane]] (Blackhawks)
+|series_winner = [[Dave Bolland]] (19:01, third)
+|hofers = '''Blackhawks:'''<br/>[[Marián Hossa|Marian Hossa]] (2020)<br/>[[Duncan Keith]] (2025)
+<br/>'''Bruins:'''<br/>[[Patrice Bergeron]] (2026)<br/>[[Zdeno Chára|Zdeno Chara]] (2025)
+|networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–6), [[NHL on NBC|NBCSN]] (2–3)
+|net_announcers =(CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br/>(RDS) [[Pierre Houde]] and [[Marc Denis]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+}}
+The '''2013 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2012–13 NHL season|2012–13 season]], and the conclusion of the [[2013 Stanley Cup playoffs]]. The [[Western Conference (NHL)|Western Conference]] playoff champion [[2012–13 Chicago Blackhawks season|Chicago Blackhawks]] defeated the [[Eastern Conference (NHL)|Eastern Conference]] playoff champion [[2012–13 Boston Bruins season|Boston Bruins]] in six games to win their fifth Stanley Cup in team history. The Blackhawks also became just the eighth team to win both the Cup and the [[Presidents' Trophy]] (as the team with the best regular season record) in the same season. To date, they are the last team to win these two trophies in the same season. Chicago's [[Patrick Kane]] was awarded the [[Conn Smythe Trophy]] as the Most Valuable Player of the playoffs.<ref>{{cite web|url= http://www.nhl.com/ice/news.htm?id=675063|title= Chicago's Patrick Kane wins Conn Smythe Trophy as Stanley Cup playoff MVP|date=June 24, 2013|work=NHL.com|access-date=June 25, 2013 }}</ref>
+
+Due to a [[2012–13 NHL lockout|lockout]] that both shortened and delayed the start of the regular season, the 2013 Cup Finals began on June 12,<ref>{{cite news |url=https://www.espn.com/nhl/preview?gameId=400470574 |title=Bruins-Blackhawks Preview |date=June 12, 2013 |last1=Cohen |first1=Jay |agency=[[Associated Press]] |publisher=[[ESPN]] |access-date=June 12, 2013 }}</ref> and lasted until June 24&ndash;tying the [[1994–95 NHL lockout|lockout]] impacted {{scfy|1995}} and [[2024 Stanley Cup Final|2024]] for the latest in June that the Stanley Cup was awarded. This was the first [[Stanley Cup Final]] series between two [[Original Six]] teams since {{scfy|1979}}, and the seventh since its first expansion in [[1967 NHL expansion|1967]]. It also marked the first time these two teams have met in the Stanley Cup Final.<ref>{{cite news |url=http://www.thehockeynews.com/articles/52234-Blackhawks-Bruins-in-1st-Original-6-matchup-in-Cup-finals-since-Canadiens-Rangers-in-1979.html |title=Blackhawks, Bruins in 1st Original 6 matchup in Cup finals since Canadiens, Rangers in 1979 |agency=[[The Canadian Press]] |work=[[The Hockey News]] |date=June 9, 2013 |access-date=June 17, 2013 |archive-url=https://web.archive.org/web/20130613064013/http://www.thehockeynews.com/articles/52234-Blackhawks-Bruins-in-1st-Original-6-matchup-in-Cup-finals-since-Canadiens-Rangers-in-1979.html |archive-date=June 13, 2013 |url-status=dead |df=mdy-all }}</ref><ref>{{cite web |url=https://www.espn.com/nhl/playoffs/2013/story/_/id/9357684/chicago-blackhawks-versus-boston-bruins |title=Stanley Cup finals: Hawks-Bruins |last1=Burnside |first1=Scott |date=June 10, 2013 |publisher=[[ESPN]]|access-date=June 12, 2013 }}</ref>
+
+In Game 6, while trailing the Bruins 2–1 with 76 seconds left in the third period, Chicago's [[Bryan Bickell]] and [[Dave Bolland]] scored two goals in 17 seconds to win the Cup for the Blackhawks.<ref>{{cite web|url= https://www.theguardian.com/sport/2013/jun/25/chicago-blackhawks-stanley-cup-champions-rally|title= Chicago Blackhawks win Stanley Cup with dramatic late rally over Boston|date=June 24, 2013|work=Guardian|access-date=June 25, 2013 }}</ref><ref>{{cite web|url= http://msn.foxsports.com/nhl/story/stanley-cup-final-game-6-live-blog-chicago-blackhawks-boston-bruins-series-can-end-062413|title= Chicago wins Cup in stunner!|date=June 24, 2013|work=Fox Sports|access-date=June 25, 2013 }}</ref><ref>{{cite web|url= https://www.nytimes.com/2013/06/25/sports/hockey/blackhawks-defeat-bruins-for-stanley-cup.html?ref=sports&_r=0|title= In a Stunning Finish, a Fifth Stanley Cup for the Blackhawks|date=June 24, 2013|work=New York Times|access-date=June 25, 2013 }}</ref><ref>{{cite web|url= http://www.chicagotribune.com/news/local/breaking/chinews-blackhawks-stanley-cup-201306242101,0,3022533.htmlstory|title= The Stanley Blog: Hawks return champions again|date=June 24, 2013|work=Chicago Tribune|access-date=June 25, 2013 }}</ref> The win was the Blackhawks' second in four years, after also claiming the title in {{scfy|2010}}.<ref>{{cite web|url= http://www.chicagotribune.com/sports/hockey/blackhawks/ct-spt-0625-blackhawks-bruins-chicago-20130625,0,1260892.story|title= Blackhawks' 2nd Stanley Cup in 4 years comes in a flash|date= June 24, 2013|work= Chicago Tribune|access-date= June 25, 2013|archive-url= https://web.archive.org/web/20130627023959/http://www.chicagotribune.com/sports/hockey/blackhawks/ct-spt-0625-blackhawks-bruins-chicago-20130625,0,1260892.story|archive-date= June 27, 2013|url-status= dead}}</ref><ref>{{cite web|url= https://www.cbsnews.com/news/late-rally-propels-blackhawks-past-bruins-to-stanley-cup/|title= Late rally propels Blackhawks past Bruins, to Stanley Cup|date=June 24, 2013|work=CBS News|access-date=June 25, 2013 }}</ref> It was the first Finals series since [[2004 Stanley Cup Final|2004]] to be tied after two games. It was also the first Stanley Cup Final since {{scfy|1993}} to feature three overtime games, including the fifth longest game in Finals history. This series is the last time to date that a [[Presidents' Trophy]] winner has won the [[Stanley Cup]].
+
+==Paths to the Finals==
+{{further|2013 Stanley Cup playoffs}}
+
+This was the first meeting between teams from [[Boston]] and [[Chicago]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship since [[Super Bowl XX]] in [[1985–86 NFL playoffs|1986]], which featured the [[Chicago Bears]] and [[New England Patriots]].
+
+===Boston Bruins===
+{{Main|2012–13 Boston Bruins season}}
+This was the Boston Bruins's nineteenth appearance in the Stanley Cup Final, a couple years removed from {{scfy|2011}}, when they also faced the [[Presidents' Trophy]] winners, the [[Vancouver Canucks]] whom they defeated to win their sixth Cup championship.
+
+The Bruins entered the season without the services of goalie [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]], the [[Conn Smythe Trophy]] winner during Boston's 2011 championship. It was announced on June 3, 2012, that he planned on taking a year off from hockey.<ref>{{cite news |url=http://www.nhl.com/ice/news.htm?id=633679 |title=Bruins goalie Tim Thomas, 2-time Vezina winner, thinking of taking year off for family reasons |date=June 3, 2012 |agency=[[The Canadian Press]] |publisher=NHL.com |access-date=June 17, 2013}}</ref> Thomas was eventually traded to the [[New York Islanders]] on February 7, 2013.<ref>{{cite web |url=http://bruins.nhl.com/club/news.htm?id=654605 |title=Bruins Trade Tim Thomas to New York Islanders for Conditional Second Round Pick in 2014 or 2015 |date=February 7, 2013 |publisher=Boston Bruins |access-date=June 17, 2013}}</ref> [[Tuukka Rask]] succeeded Thomas as the Bruins' starting goalie. Another of the Bruins' major trades was sending [[Benoît Pouliot|Benoit Pouliot]] to the [[Tampa Bay Lightning]].<ref>{{cite web |url=http://bruins.nhl.com/club/news.htm?id=635927 |title=Pleased in Pittsburgh |last1=Bishop |first1=John |date=June 23, 2012 |publisher=Boston Bruins |access-date=June 17, 2013}}</ref> Then on April 2, 2013, with about a month left in the lockout-shortened regular season, Boston acquired veteran [[Jaromír Jágr|Jaromir Jagr]] from the [[Dallas Stars]].<ref>{{cite web |url=http://bruins.nhl.com/club/news.htm?id=663561 |title=Bruins Acquire Jaromir Jagr from the Dallas Stars |date=April 2, 2012 |publisher=Boston Bruins |access-date=June 17, 2013}}</ref>
+
+Boston finished the lockout-shortened regular season with 62 points, finishing in second place in the Northeast Division, and the fourth seed in the Eastern Conference. Throughout the regular season, the Bruins and the [[Montreal Canadiens]] were neck-and-neck in the division, but the Bruins lost their last game to the [[Ottawa Senators]], a contest that was postponed until the end of the regular season due to the [[Boston Marathon bombing]]. In the first round of the playoffs, Boston rallied from a 4–1 third period deficit in Game 7 to defeat the [[Toronto Maple Leafs]] in overtime. The Bruins then eliminated the [[New York Rangers]] in five games, and then swept the top seeded [[Pittsburgh Penguins]] in the Eastern Conference Final.
+
+===Chicago Blackhawks===
+{{Main|2012–13 Chicago Blackhawks season}}
+{{Multiple image|total_width = 400
+| align             = right
+| direction         = horizontal
+| image1            = Lion Sculpture (9210803376).jpg
+| caption1          =
+| image2            = Stanley Cup Chicago (9287379105).jpg
+| caption2          =
+| footer          = [[Lions (Kemeys)|The lion sculptures]] outside of the [[Art Institute of Chicago]] decorated to celebrate the Chicago Blackhawks' postseason
+}}
+
+This was the Chicago Blackhawks' twelfth appearance in the Stanley Cup Final. The Blackhawks sought their fifth Cup championship overall and their first since {{scfy|2010}}. In both 2011 and 2012, the Blackhawks were eliminated in the first round of the playoffs by the Presidents' Trophy-winning Canucks and Phoenix Coyotes, respectively.
+
+The Blackhawks began the lockout-shortened regular season by setting the NHL record for most games to start a season without a regulation loss (24), recording their first regulation loss in their 25th game of the season: a 6–2 defeat to the [[Colorado Avalanche]].<ref>{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012020353 |title=Blackhawks' streak ends at 24 with loss to Avalanche |last1=Sadowski |first1=Rick |publisher=NHL.com | date=March 9, 2013 | access-date=June 9, 2013}}</ref> The Blackhawks finished the regular season with an NHL-best 77 points, winning their second [[Presidents' Trophy]] in team history. In the first round of the playoffs, the Blackhawks defeated the [[Minnesota Wild]] in five games. In the next round, Chicago came back from a 3–1 series deficit to defeat the [[Detroit Red Wings]] in overtime of Game 7. In the Western Conference Final, the Blackhawks defeated the defending Stanley Cup champion [[Los Angeles Kings]] in five games.
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Chicago Blackhawks
+|stadium1= [[United Center]]
+|date1= June 12
+|score1= 3–4
+|ot1 = 3
+|won1 = 2
+|recap1 = www.nhl.com/gamecenter/bos-vs-chi/2013/06/12/2012030411
+}}
+[[File:Andrew Shaw - Chicago Blackhawks.jpg|thumb|upright=.8|[[Andrew Shaw (ice hockey)|Andrew Shaw]] scored two points, including the game-winning goal in triple-overtime of Game 1.]]
+The Blackhawks rallied from a 3–1 third period deficit in game one to defeat the Bruins in triple-overtime, 4–3. This was the 24th longest NHL overtime game, and the fifth longest in the history of the Stanley Cup Final.<ref name="NHL_Game1">{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012030411 | title=Blackhawks beat Bruins in triple OT, take game one |last1=Rosen |first1=Dan | publisher=NHL.com | date=June 13, 2013 | access-date=June 13, 2013}}</ref><ref name="CBC_Game1">{{cite news | url=http://www.cbc.ca/sports/hockey/nhl/game/1326717/ | title=Blackhawks cap game one rally over Bruins in 3OT | publisher=[[CBC Sports]] |agency=[[The Canadian Press]] | date=June 13, 2013 | access-date=June 13, 2013}}</ref> [[Milan Lucic]] scored at 13:11 of the first period and 51 seconds into the second period to give the Bruins a 2–0 lead. At 3:08 of the second period, Chicago rookie [[Brandon Saad]] scored his first career playoff goal, ending Boston goalie [[Tuukka Rask]]'s shutout streak of 149:36, and cutting Boston's lead to 2–1.<ref name="NHL_Game1"/> Chicago then had a 5-on-3 for 1:17 midway through the second period, but could not get a shot on goal.<ref>{{cite news | url=http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061204 | title=Blackhawks beat Bruins 4–3 in 3OT Cup opener | last1=Cohen | first1=Jay | agency=[[Associated Press]] | publisher=[[NBC Sports]] | date=June 13, 2013 | access-date=June 13, 2013 | archive-url=https://web.archive.org/web/20130616040400/http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061204 | archive-date=June 16, 2013 | url-status=dead }}</ref> The Bruins then increased their lead to 3–1 when [[Patrice Bergeron]] scored a power-play goal at 06:09 of the third period. But [[Dave Bolland]] and [[Johnny Oduya]] scored in 4:14 apart to tie the game.<ref name="CBC_Game1"/> In the overtime periods, the Blackhawks were penalized twice for too many men on the ice, but Boston was unable to score on those two ensuing power-plays. The game finally ended at 12:08 of the third overtime period when [[Michal Rozsíval|Michal Rozsival]]'s shot from the point deflected off of Bolland, then [[Andrew Shaw (ice hockey)|Andrew Shaw]], and past Rask into the Boston net.<ref name="NHL_Game1"/>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| style="text-align:center;" | '''1st'''
+|align=center | BOS
+| [[Milan Lucic]] (4)
+| [[Nathan Horton]] (11) and [[David Krejčí|David Krejci]] (13)
+|align=center | 13:11
+|align=center | 1–0 BOS
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="2" | '''2nd'''
+|align=center | BOS
+| Milan Lucic (5)
+| David Krejci (14)
+|align=center | 00:51
+|align=center | 2–0 BOS
+|- style="text-align:center;"
+|align=center | CHI
+| [[Brandon Saad]] (1)
+| [[Marián Hossa|Marian Hossa]] (8)
+|align=center | 03:08
+|align=center | 2–1 BOS
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="3" | '''3rd'''
+|align=center | BOS
+| [[Patrice Bergeron]] (6) – ''pp''
+| [[Tyler Seguin]] (4) and Milan Lucic (11)
+|align=center | 06:09
+|align=center | 3–1 BOS
+|- style="text-align:center;"
+|align=center | CHI
+| [[Dave Bolland]] (1)
+| [[Andrew Shaw (ice hockey)|Andrew Shaw]] (4)
+|align=center | 08:00
+|align=center | 3–2 BOS
+|- style="text-align:center;"
+|align=center | CHI
+| [[Johnny Oduya]] (3)
+| [[Marcus Krüger|Marcus Kruger]] (2) and [[Michael Frolík|Michael Frolik]] (4)
+|align=center | 12:14
+|align=center | 3–3
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2OT'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| style="text-align:center;" | '''3OT'''
+|align=center | CHI
+| Andrew Shaw (5)
+| Dave Bolland (2) and [[Michal Rozsíval|Michal Rozsival]] (2)
+|align=center | 12:08
+|align=center | 4–3 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4" | '''2nd'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Nathan Horton]]
+| Interference
+|align=center | 07:37
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| Bench (Served by [[Shawn Thornton]])
+| Too many men on the ice
+|align=center | 08:20
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Zdeno Chára|Zdeno Chara]]
+| High-sticking
+|align=center | 12:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2" | '''3rd'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Michael Frolík|Michael Frolik]]
+| Tripping
+|align=center | 05:51
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2" | '''OT'''
+|- style="text-align:center;"
+|align=center | CHI
+| Bench (Served by [[Patrick Sharp]])
+| Too many men on the ice
+|align=center | 12:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2" | '''2OT'''
+|- style="text-align:center;"
+|align=center | CHI
+| Bench (Served by Andrew Shaw)
+| Too many men on the ice
+|align=center | 19:07
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:29em; text-align:right;"
+|-
+! colspan=8 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | 2OT
+! style="width:3em;" | 3OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Boston || align=center | 11 || align=center | 6 || align=center | 8 || align=center | 12 || align=center | 10 || align=center | 7 || align=center | 54
+|-
+| style="text-align:left;"| Chicago || align=center | 8 || align=center | 16 || align=center | 15 || align=center | 8 || align=center | 10 || align=center | 6 || align=center | 63
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Chicago Blackhawks
+|stadium1= [[United Center]]
+|date1= June 15
+|score1= 2–1
+|ot1 = 1
+|won1 = 1
+|recap1 = www.nhl.com/gamecenter/chi-vs-bos/2013/06/15/2012030412
+}}
+[[File:Daniel Paille - Boston Bruins.jpg|thumb|upright=.8|[[Daniel Paille]] scored two points, including the game-winning goal in overtime of Game 2.]]
+The Bruins tied the series with a 2–1 overtime victory in game two. This was the third consecutive overtime game for the Blackhawks (dating back to the conference finals), and the second consecutive Cup Finals in which the first two games went into overtime.<ref>{{cite web | url=http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061504 | title=Bruins beat Blackhawks 2–1 in OT, even Cup series | agency=Associated Press | publisher=NBCSports.com | date=June 13, 2013 | access-date=June 13, 2013 | archive-url=https://web.archive.org/web/20130619221327/http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061504 | archive-date=June 19, 2013 | url-status=dead }}</ref> In the first period, Chicago had 19 shots on goal compared to Boston's 4, but only scored on [[Patrick Sharp]]'s goal at 11:22.<ref name="NHL_Game2">{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012030412 | title=Bruins beat Blackhawks in OT to even Final |last1=Rosen |first1=Dan |publisher=NHL.com |date=June 16, 2013 |access-date=June 16, 2013}}</ref> Seventy seconds later, a goal by the Blackhawks' [[Marián Hossa|Marian Hossa]] was disallowed after officials blew the play dead prior to the puck crossing the Bruins' goal line.<ref name="CBC_Game2">{{cite news | url=http://www.cbc.ca/sports/hockey/nhl/game/1326718/recap/ |title=Daniel Paille scores OT winner, Bruins square Stanley Cup final |publisher=[[CBC Sports]] |agency=[[The Canadian Press]] |date=June 16, 2013 |access-date=June 16, 2013}}</ref> Boston's [[Chris Kelly (ice hockey)|Chris Kelly]] then scored his first goal of the playoffs at 14:58 of the second period to tie the game. After a scoreless third period, [[Daniel Paille]] won the game for the Bruins at 13:48 of overtime; the Blackhawks' [[Brent Seabrook]] sent the puck around the end boards in the Chicago zone, but [[Brandon Bollig]] could not push it out to centre ice, allowing [[Adam McQuaid]] to steal the loose puck and feed it to [[Tyler Seguin]], who then passed it to Paille.<ref name="NHL_Game2"/>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| style="text-align:center;" | '''1st'''
+|align=center | CHI
+| [[Patrick Sharp]] (9)
+| [[Patrick Kane]] (9) and [[Michal Handzuš|Michal Handzus]] (8)
+|align=center | 11:22
+|align=center | 1–0 CHI
+|- style="text-align:center;"
+| style="text-align:center;" | '''2nd'''
+|align=center | BOS
+| [[Chris Kelly (ice hockey)|Chris Kelly]] (1)
+| [[Daniel Paille]] (4)
+|align=center | 14:58
+|align=center | 1–1 
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| style="text-align:center;" | '''OT'''
+|align=center | BOS
+| [[Daniel Paille]] (3)
+| [[Tyler Seguin]] (5) and [[Adam McQuaid]] (2)
+|align=center | 13:48
+|align=center | 2–1 BOS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2" | '''1st'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Andrew Ference]]
+| Tripping
+|align=center | 06:51
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5" | '''2nd'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Dave Bolland]]
+| Tripping
+|align=center | 01:19
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Johnny Boychuk]]
+| Holding
+|align=center | 08:15
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Dennis Seidenberg]]
+| Tripping
+|align=center | 17:11
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Johnny Oduya]]
+| Tripping
+|align=center | 19:14
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|-
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:23em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Boston || align=center | 4 || align=center | 8 || align=center | 8 || align=center | 8 || align=center | 28
+|-
+| style="text-align:left;"| Chicago || align=center | 19 || align=center | 4 || align=center | 5 || align=center | 6 || align=center | 34
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1= Chicago Blackhawks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 17
+|score1= 0–2
+|won1 = 2
+|recap1 =www.nhl.com/gamecenter/bos-vs-chi/2013/06/17/2012030413
+}}
+[[File:Tuukka Rask - Boston Bruins.jpg|thumb|upright=.8|[[Tuukka Rask]] recorded a 28-save shutout in Game 3.]]
+Boston goalie [[Tuukka Rask]] stopped all 28 Chicago shots in the Bruins' 2–0 victory in game three. [[Daniel Paille]] scored Boston's first goal at 02:13 of the second period. [[Patrice Bergeron]] then scored a power play goal at 14:05 of the second period, just seconds after the Bruins' 5-on-3 advantage expired. The Blackhawks' [[Marián Hossa|Marian Hossa]] was scratched from the game; Chicago head coach [[Joel Quenneville]] later said after the game that Hossa did not play due to an upper-body injury.<ref name="NHL_Game3">{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012030413 | title=Bruins blank Blackhawks in game three, lead Final 2–1 |last1=Masisak |first1=Corey |publisher=NHL.com |date=June 17, 2013 |access-date=June 18, 2013}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="2" | '''2nd'''
+|align=center | BOS
+| [[Daniel Paille]] (4)
+| [[Chris Kelly (ice hockey)|Chris Kelly]] (1) and [[Tyler Seguin]] (6)
+|align=center | 02:13
+|align=center | 1–0 BOS
+|- style="text-align:center;"
+|align=center | BOS
+| [[Patrice Bergeron]] (7) – ''pp''
+| [[Jaromír Jágr|Jaromir Jagr]] (8) and [[Zdeno Chára|Zdeno Chara]] (10)
+|align=center | 14:05
+|align=center | 2–0 BOS
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3" | '''1st'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Kaspars Daugaviņš|Kaspars Daugavins]]
+| Roughing
+|align=center | 09:57
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Shawn Thornton]]
+| Roughing
+|align=center | 14:15
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4" | '''2nd'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Dave Bolland]]
+| Cross-checking
+|align=center | 12:00
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Niklas Hjalmarsson]]
+| Tripping
+|align=center | 13:50
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| Dave Bolland
+| Tripping
+|align=center | 19:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8" | '''3rd'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Adam McQuaid]]
+| Tripping
+|align=center | 07:56
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| Dave Bolland
+| Tripping
+|align=center | 13:55
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[David Krejčí|David Krejci]]
+| Hooking
+|align=center | 15:55
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Bryan Bickell]]
+| Roughing
+|align=center | 19:48
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| Zdeno Chara
+| Roughing – double minor
+|align=center | 19:48
+|align=center | 4:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Brad Marchand]]
+| Fighting – major
+|align=center | 19:48
+|align=center | 5:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Andrew Shaw (ice hockey)|Andrew Shaw]]
+| Fighting – major
+|align=center | 19:48
+|align=center | 5:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Chicago || align=center | 10 || align=center | 8 || align=center | 10 || align=center | 28
+|-
+| style="text-align:left;"| Boston || align=center | 11 || align=center | 15 || align=center | 9 || align=center | 35
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1= Chicago Blackhawks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 19
+|score1= 6–5
+|ot1 = 1
+|won1 = 1
+|recap1 = www.nhl.com/gamecenter/bos-vs-chi/2013/06/19/2012030414
+}}
+[[File:Brent Seabrook (23501039815) (1) (cropped).jpg|thumb|upright=.8|[[Brent Seabrook]] scored the game-winning goal in overtime of Game 4.]]
+<ref name="NHL_Game4">{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012030414 | title=Blackhawks edge Bruins in OT to even Final |last1=Masisak |first1=Corey | publisher=NHL.com | date=June 19, 2013 | access-date=June 10, 2013}}</ref><ref name="CBC_Game4">{{cite news | url=http://www.cbc.ca/sports/hockey/nhl/game/1326720/ | title=Blackhawks pull even in Stanley Cup final with OT win over Bruins | publisher=[[CBC Sports]] |agency=[[The Canadian Press]] | date=June 19, 2013 | access-date=June 20, 2013}}</ref> After only 12 total goals were scored in the first three games, game four featured a series high 11 total goals.<ref name="NBC_Game4">{{cite news | url=http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061901 | title=Blackhawks beat Bruins 6–5 in OT, tie series 2–2 | last1=Ulman | first1=Howard | agency=[[Associated Press]] | publisher=[[NBC Sports]] | date=June 19, 2013 | access-date=June 20, 2013 | archive-url=https://web.archive.org/web/20140103160129/http://scores.nbcsports.msnbc.com/nhl/recap.asp?g=2013061901 | archive-date=January 3, 2014 | url-status=dead }}</ref> In the first period, Chicago's [[Michal Handzuš|Michal Handzus]] scored a short-handed goal at 06:48 before Boston's [[Rich Peverley]] tied the game on a power play goal at 14:43. Five total goals were then scored in the second period. [[Jonathan Toews]] deflected [[Michal Rozsíval|Michal Rozsival]]'s shot into the Boston net at 6:48 to give the Blackhawks a 2–1 lead. Chicago then scored again at 8:41: [[Bryan Bickell]]'s shot was stopped by [[Tuukka Rask]], but [[Patrick Kane]] grabbed the rebound from the other side and shot it into the net before the Boston goalie could recover. [[Milan Lucic]] cut the lead, 3–2, at 14:43 after shooting a rebound past Chicago goalie [[Corey Crawford]], but Chicago scored right back at 15:32 with [[Marcus Krüger|Marcus Kruger]]'s goal on a 2-on-1 breakaway. At 17:22, the Bruins scored their second power play goal after [[Zdeno Chára|Zdeno Chara]]'s shot deflected over the net, hit the glass, then eventually bounced into the crease where [[Patrice Bergeron]] tapped it into the net before Crawford could find the puck. In the third period, Bergeron tied the game, 4–4, at 2:05. The Blackhawks then scored their first power play goal of the series with [[Patrick Sharp]]'s score at 11:19, but Boston answered 55 seconds later with [[Johnny Boychuk]]'s equalizer. At 09:51 of overtime, [[Brent Seabrook]] scored from the point through traffic to give the Blackhawks a 6–5 victory in game four to even the series at 2. All five Bruins goals were shot to the glove side of Crawford,<ref name="NBC_Game4"/> but the Blackhawks never once trailed in this game.<ref name="CBC_Game4"/>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="2" | '''1st'''
+|align=center | CHI
+| [[Michal Handzuš|Michal Handzus]] (3) – ''sh''
+| [[Brandon Saad]] (5)
+|align=center | 06:48
+|align=center | 1–0 CHI
+|- style="text-align:center;"
+|align=center | BOS
+| [[Rich Peverley]] (2) – ''pp''
+| [[Andrew Ference]] (2)
+|align=center | 14:43
+|align=center | 1–1 TIE
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="5" | '''2nd'''
+|align=center | CHI
+| [[Jonathan Toews]] (2)
+| [[Michal Rozsíval|Michal Rozsival]] (3)
+|align=center | 06:33
+|align=center | 2–1 CHI
+|- style="text-align:center;"
+|align=center | CHI
+| [[Patrick Kane]] (7)
+| [[Bryan Bickell]] (6) and [[Michal Rozsíval|Michal Rozsival]] (4)
+|align=center | 08:41
+|align=center | 3–1 CHI
+|- style="text-align:center;"
+|align=center | BOS
+| [[Milan Lucic]] (6)
+| [[Zdeno Chára|Zdeno Chara]] (11)
+|align=center | 14:43
+|align=center | 3–2 CHI
+|- style="text-align:center;"
+|align=center | CHI
+| [[Marcus Krüger|Marcus Kruger]] (3)
+| [[Michael Frolík|Michael Frolik]] (5) and [[Dave Bolland]] (3)
+|align=center | 15:32
+|align=center | 4–2 CHI
+|- style="text-align:center;"
+|align=center | BOS
+| [[Patrice Bergeron]] (8) – ''pp''
+| Zdeno Chara (12) and [[Jaromír Jágr|Jaromir Jagr]] (9)
+|align=center | 17:22
+|align=center | 4–3 CHI
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="3" | '''3rd'''
+|align=center | BOS
+| [[Patrice Bergeron]] (9)
+| Jaromir Jagr (10)
+|align=center | 02:05
+|align=center | 4–4
+|- style="text-align:center;"
+|align=center | CHI
+| [[Patrick Sharp]] (10) – ''pp''
+| [[Marián Hossa|Marian Hossa]] (9) and [[Duncan Keith]] (10)
+|align=center | 11:19
+|align=center | 5–4 CHI
+|- style="text-align:center;"
+|align=center | BOS
+| [[Johnny Boychuk]] (6)
+| [[Nathan Horton]] (12) and [[David Krejčí|David Krejci]] (15)
+|align=center | 12:14
+|align=center | 5–5 TIE
+|- style="text-align:center;"
+| style="text-align:center;" | '''OT'''
+|align=center | CHI
+| [[Brent Seabrook]] (3)
+| [[Bryan Bickell]] (7) and Patrick Kane (10)
+|align=center | 09:51
+|align=center | 6–5 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7" | '''1st'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Johnny Oduya]]
+| Interference
+|align=center | 05:18
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| Duncan Keith
+| Hooking
+|align=center | 12:45
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Andrew Shaw (ice hockey)|Andrew Shaw]]
+| Roughing
+|align=center | 12:45
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Chris Kelly (ice hockey)|Chris Kelly]]
+| Roughing
+|align=center | 12:45
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Nathan Horton]]
+| Slashing
+|align=center | 18:16
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| Duncan Keith
+| Tripping
+|align=center | 18:58
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3" | '''2nd'''
+|- style="text-align:center;"
+|align=center | BOS
+| Bench (Served by [[Shawn Thornton]])
+| Too many men on the ice
+|align=center | 09:58
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| Patrick Kane
+| Hooking
+|align=center | 16:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4" | '''3rd'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Jonathan Toews]]
+| High-sticking
+|align=center | 08:51
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| Jaromir Jagr
+| High-sticking
+|align=center | 09:13
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[David Krejčí|David Krejci]]
+| Hooking
+|align=center | 10:20
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:23em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Chicago || align=center | 12 || align=center | 13 || align=center | 16 || align=center | 6 || align=center | 47
+|-
+| style="text-align:left;"| Boston || align=center | 9 || align=center | 11 || align=center | 8 || align=center | 5 || align=center | 33
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Chicago Blackhawks
+|stadium1= [[United Center]]
+|date1= June 22
+|score1= 1–3
+|won1 = 2
+|recap1 = www.nhl.com/gamecenter/chi-vs-bos/2013/06/22/2012030415
+}}
+[[File:Patrick Kane - Chicago Blackhawks.jpg|thumb|upright=.8|[[Patrick Kane]] scored twice, including the game-winning goal, in Game 5.]]
+[[Patrick Kane]] scored two goals in the Blackhawks' 3–1 victory in game five. Chicago built a 2–0 lead with Kane's goals at 17:27 of the first period and 05:13 of the second. Boston's [[Zdeno Chára|Zdeno Chara]] cut the score to 2–1 at 03:40 of the third period, but Chicago goalie [[Corey Crawford]] stopped 24 of 25 Bruins shots, and [[Dave Bolland]] added an empty net goal in the waning seconds of the game. Boston's [[Patrice Bergeron]] left the game in the second period and was later taken to the hospital for observation, while Chicago's [[Jonathan Toews]] suffered an upper body injury and did not play in the third period.<ref name="NHL_Game5">{{cite web | url=http://www.nhl.com/ice/recap.htm?id=2012030415 | title=Blackhawks hold off Bruins, take 3–2 lead in Final |last1=Rosen |first1=Dan |publisher=NHL.com |date=June 23, 2013 |access-date=June 23, 2013}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| style="text-align:center;" | '''1st'''
+|align=center | CHI
+| [[Patrick Kane]] (8)
+| [[Johnny Oduya]] (4) and [[Jonathan Toews]] (9)
+|align=center | 17:27
+|align=center | 1–0 CHI
+|- style="text-align:center;"
+| style="text-align:center;" | '''2nd'''
+|align=center | CHI
+| Patrick Kane (9)
+| [[Bryan Bickell]] (8) and Jonathan Toews (10)
+|align=center | 05:13
+|align=center | 2–0 CHI
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="2" | '''3rd'''
+|align=center | BOS
+| [[Zdeno Chára|Zdeno Chara]] (3) 
+| [[David Krejčí|David Krejci]] (16) and [[Milan Lucic]] (12)
+|align=center | 03:40
+|align=center | 2–1 CHI
+|- style="text-align:center;"
+|align=center | CHI
+| [[Dave Bolland]] (2) – ''en''
+| [[Michael Frolík|Michael Frolik]] (6)
+|align=center | 19:46
+|align=center | 3–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3" | '''1st'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Patrick Sharp]]
+| Roughing
+|align=center | 17:56
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Johnny Boychuk]]
+| Roughing
+|align=center | 17:56
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5" | '''2nd'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Nathan Horton]]
+| Hooking
+|align=center | 00:49
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Michal Handzuš|Michal Handzus]]
+| Embellishment 
+|align=center | 00:49
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Dennis Seidenberg]]
+| Boarding
+|align=center | 05:59
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Adam McQuaid]]
+| Roughing
+|align=center | 15:20
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Boston || align=center | 11 || align=center | 5 || align=center | 9 || align=center | 25
+|-
+| style="text-align:left;"| Chicago || align=center | 8 || align=center | 11 || align=center | 13 || align=center | 32
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1= Chicago Blackhawks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 24
+|score1= 3–2
+|won1 = 1
+|recap1 = www.nhl.com/gamecenter/bos-vs-chi/2013/06/24/2012030416
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=ILe8NuFJUok Game 6 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:David Bolland.JPG|thumb|upright=.8|[[Dave Bolland]] scored the Stanley Cup-clinching goal in the final minute of Game 6.]]
+With Chicago holding a 3–2 series lead heading into game six, the desperate Bruins outshot the Blackhawks 12–6 in the first period, with the Bruins ending the period up 1–0 due to [[Chris Kelly (ice hockey)|Chris Kelly's]] goal. However, Chicago would fight back in the second period, as Blackhawks captain [[Jonathan Toews]] scored on a breakaway while shorthanded to tie the game (Toews' goal would be recorded as an even strength goal, as it entered the net just after [[Andrew Shaw (ice hockey)|Andrew Shaw's]] penalty expired). The teams entered the third period with the game tied 1–1. However, [[Milan Lucic]] would score at 12:11 of the third period to put the Bruins in front again. With the Bruins clinging onto a 2–1 lead late in the third period, the Blackhawks pulled goalie [[Corey Crawford]] for the extra attacker. This resulted in [[Bryan Bickell]] scoring the game-tying goal with 76 seconds remaining in the game on a feed from [[Jonathan Toews]]. Thus, with the score tied 2–2, it appeared the Finals would go to overtime for the fourth time. However, only 17 seconds after Bickell's goal, [[Dave Bolland]] scored what proved to be the series-winning goal, as the Bruins were unable to get an equalizer in the final minute with goalie [[Tuukka Rask]] on the bench.<ref name="Blackhawks win CBC">{{cite web | url=http://www.cbc.ca/sports/hockey/nhl/game/1326722/ | title=Blackhawks win Stanley Cup in stunning fashion | publisher=CBC | work=CBC.ca | date=June 24, 2013 | access-date=June 24, 2013 | author=The Canadian Press}}</ref> Bolland's goal at 19:01 of the third period broke the record for the latest Stanley Cup game-winner scored in regulation.<ref name="NHL CHI late rally">{{cite web | url=http://www.nhl.com/ice/news.htm?id=675134 | title=Blackhawks' late rally caps epic Final with Bruins | publisher=NHL | date=June 25, 2013 | access-date=June 25, 2013 | first=Tal |last=Pinchevsky}}</ref><ref>{{cite web|url= https://www.espn.com/nhl/recap?gameId=400470605|title= Blackhawks cap record-setting start with Stanley Cup win|date=June 24, 2013|work=ESPN|access-date=June 25, 2013 }}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| style="text-align:center;" | '''1st'''
+|align=center | BOS
+| [[Chris Kelly (ice hockey)|Chris Kelly]] (2)
+| [[Tyler Seguin]] (7) and [[Daniel Paille]] (5)
+|align=center | 07:19
+|align=center | 1–0 BOS
+|- style="text-align:center;"
+| style="text-align:center;" | '''2nd'''
+|align=center | CHI
+| [[Jonathan Toews]] (3)
+| ''Unassisted''
+|align=center | 04:24
+|align=center | 1–1 TIE
+|- style="text-align:center;"
+| style="text-align:center;" rowspan="3" | '''3rd'''
+|align=center | BOS
+| [[Milan Lucic]] (7) 
+| [[David Krejčí|David Krejci]] (17)
+|align=center | 12:11
+|align=center | 2–1 BOS
+|- style="text-align:center;"
+|align=center | CHI
+| [[Bryan Bickell]] (9)
+| [[Jonathan Toews]] (11) and [[Duncan Keith]] (11)
+|align=center | 18:44
+|align=center | 2–2 TIE
+|- style="text-align:center;"
+|align=center | CHI
+| [[Dave Bolland]] (3) 
+| [[Michael Frolík|Michael Frolik]] (7) and [[Johnny Oduya]] (5)
+|align=center | 19:01
+|align=center | 3–2 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3" | '''1st'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Johnny Oduya]]
+| Hooking
+|align=center | 10:40
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Michal Rozsíval|Michal Rozsival]]
+| High-sticking
+|align=center | 18:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4" | '''2nd'''
+|- style="text-align:center;"
+|align=center | CHI
+| [[Andrew Shaw (ice hockey)|Andrew Shaw]]
+| Roughing
+|align=center | 02:24
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | CHI
+| [[Brent Seabrook]]
+| Tripping
+|align=center | 05:12
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|align=center | BOS
+| [[Tyler Seguin]]
+| Hooking
+|align=center | 13:57
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2" | '''3rd'''
+|- style="text-align:center;"
+|align=center | BOS
+| [[Chris Kelly (ice hockey)|Chris Kelly]]
+| High-sticking
+|align=center | 14:21
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| Chicago || align=center | 6 || align=center | 9 || align=center | 16 || align=center | 31
+|-
+| style="text-align:left;"| Boston || align=center | 12 || align=center | 6 || align=center | 7 || align=center | 25
+|}
+
+==Officials==
+
+Referees: [[Wes McCauley]] (Canada), [[Dan O'Halloran]] (Canada), [[Chris Rooney]] (United States), [[Brad Watson (ice hockey)|Brad Watson]] (Canada)
+
+Linesmen: [[Shane Heyer]] (Canada), [[Brian Murphy (linesman)|Brian Murphy]] (United States), [[Pierre Racicot]] (Canada), [[Jay Sharrers]] (Canada)
+
+==Television==
+In Canada, the series was televised in English on [[Hockey Night in Canada|CBC]] and in French on the cable network [[NHL on RDS|RDS]]. The [[NHL on NBC|NBC Sports Group]]'s coverage in the United States was different from previous seasons: the [[NBC|NBC broadcast network]] televised game one and then the final four games, while the [[NBC Sports Network]] broadcast games two and three.<ref>{{cite press release |url=http://corporate.comcast.com/news-information/news-feed/nbc-sports-delivers-unprecedented-multi-platform-access-to-the-2013-stanley-cup-playoffs | title=NBC Sports Delivers Unprecedented Access to the 2013 NHL Playoffs | publisher=[[Comcast]] | date=April 29, 2013 | access-date=May 8, 2013 | quote=NBC will broadcast Game 1, Game 4, and Games 5–7 (if necessary), with NBC Sports Network televising Games 2–3.}}</ref>
+
+{| class="wikitable" style="text-align:center;" border="1"
+|+ U.S. Ratings
+|-
+! Game !! NBC/NBCSN viewership<br>(in millions)
+|-
+! 1
+| 6.358<ref>{{cite press release|title=Bruins-Blackhawks Is Most-Watched Stanley Cup Final Game 1 In 16 Years|date=June 13, 2013|publisher=[[NBC Sports]]|url=http://nbcsportsgrouppressbox.com/2013/06/13/bruins-blackhawks-is-most-watched-stanley-cup-final-game-1-in-16-years/|access-date=June 18, 2013}}</ref>
+|-
+! 2
+| 3.964<ref>{{cite press release|title=Bruins-Blackhawks Game 2 Is Most-Watched NHL Game in NBC Sports Network History|date=June 17, 2013|publisher=NBC Sports|url=http://nbcsportsgrouppressbox.com/2013/06/17/bruins-blackhawks-game-2-is-most-watched-nhl-game-in-nbc-sports-network-history/|access-date=June 18, 2013}}</ref>
+|-
+! 3
+| 4.001<ref>{{cite press release|title=Bruins-Blackhawks Game 3 is Most-Watched NHL Game in NBC Sports Network History|date=June 18, 2013|publisher=NBC Sports|url=http://nbcsportsgrouppressbox.com/2013/06/18/bruins-blackhawks-game-3-is-most-watched-nhl-game-in-nbc-sports-network-history/|access-date=June 24, 2013}}</ref>
+|-
+! 4
+| 6.459<ref>{{cite press release|title=Most-Watched Stanley Cup Final on Record Through Four Games|date=June 20, 2013|publisher=NBC Sports|url=http://nbcsportsgrouppressbox.com/2013/06/20/most-watched-stanley-cup-final-on-record-through-four-games/|access-date=June 24, 2013}}</ref>
+|-
+! 5
+| 5.632<ref>{{cite press release|title=2013 Stanley Cup Final Game 5 Viewership|date=June 24, 2013|publisher=NBC Sports|url=http://nbcsportsgrouppressbox.com/2013/06/24/2103-stanley-cup-final-game-5-viewership/|access-date=June 24, 2013}}</ref>
+|-
+! 6
+| 8.160<ref>{{cite press release|title=8.16 Million Viewers Watch Chicago Blackhawks Win Stanley Cup on NBC|date=June 25, 2013|publisher=NBC Sports|url=http://nbcsportsgrouppressbox.com/2013/06/25/8-16-million-viewers-watch-chicago-blackhawks-win-stanley-cup-on-nbc/|access-date=June 27, 2013}}</ref>
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Boston Bruins===
+[[File:Zdeno Chara - Boston Bruins 2012.jpg|thumb|[[Zdeno Chára|Zdeno Chara]] captained the Bruins to their second Stanley Cup Final appearance in three years.]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+|- style="background:#eeeeee;"
+| '''37'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Patrice|Bergeron}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|27–335}}27
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[L'Ancienne-Lorette, Quebec]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''55'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Johnny|Boychuk}}
+| D
+| R
+| {{hs|29–146}}29
+| [[2007–08 NHL season|2008]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eee;"
+| '''11'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Gregory Campbell (ice hockey)|Gregory Campbell]]
+| C
+| L
+| {{hs|29-165}}29
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[London, Ontario]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''33'''
+| {{flagicon|SVK}}
+| align="left" | {{sortname|Zdeno|Chara|Zdeno Chára}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{hs|36-098}}36
+| [[2006–07 NHL season|2006]]
+| align="left" | [[Trenčín|Trenčín, Czechoslovakia]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''16'''
+| {{flagicon|LAT}}
+| align="left" | {{sortname|Kaspars|Daugavins|Kaspars Daugaviņš}}
+| LW
+| L
+| {{hs|25-037}}25
+| [[2012–13 NHL season|2013]]
+| align="left" | [[Riga|Riga, Soviet Union]]
+| first
+|- style="background:#eeeeee;"
+| '''21'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Andrew|Ference}}
+| D
+| L
+| {{hs|34-099}}34
+| [[2006–07 NHL season|2007]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| third {{small|([[2004 Stanley Cup Final|2004]], '''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eee;"
+| '''18'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Nathan Horton]]
+| RW
+| R
+| {{hs|28–14}}28
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Welland|Welland, Ontario]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''68'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Jaromir|Jagr|Jaromír Jágr}}
+| RW
+| L
+| {{hs|41–129}}41
+| [[2012–13 NHL season|2013]]
+| align="left" | [[Kladno|Kladno, Czechoslovakia]]
+| third {{small|('''[[1991 Stanley Cup Final|1991]]''', '''[[1992 Stanley Cup Final|1992]]''')}}
+|- style="background:#eeeeee;"
+| '''23'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chris|Kelly|Chris Kelly (ice hockey)}}
+| C
+| L
+| {{hs|32–225}}32
+| [[2010–11 NHL season|2011]]
+| align="left" | [[Toronto|Toronto, Ontario]]
+| third {{small|([[2007 Stanley Cup Final|2007]], '''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''35'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Anton|Khudobin}}
+| G
+| L
+| {{hs|27-048}}27
+| [[2010–11 NHL season|2011]]
+| align="left" | [[Oskemen|Ust-Kamenogorsk, Soviet Union]]
+| first
+|- style="background:#eeeeee;"
+| '''46'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|David|Krejci|David Krejčí}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|27-057}}27
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Šternberk|Šternberk, Czechoslovakia]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''47'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Torey|Krug}}
+| D
+| L
+| {{hs|22-073}}22
+| [[2011–12 NHL season|2012]]
+| align="left" | [[Livonia, Michigan]]
+| first
+|- style="background:#eeeeee;"
+| '''17'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Milan|Lucic}}
+| LW
+| L
+| {{hs|25-017}}25
+| [[2006 NHL Entry Draft|2006]]
+| align="left" | [[Vancouver|Vancouver, British Columbia]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''63'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brad|Marchand}}
+| LW
+| L
+| {{hs|25-044}}25
+| [[2006 NHL Entry Draft|2006]]
+| align="left" | [[Halifax, Nova Scotia]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''54'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Adam|McQuaid}}
+| D
+| R
+| {{hs|26–255}}26
+| [[2007–08 NHL season|2007]]
+| align="left" | [[Charlottetown|Charlottetown, Prince Edward Island]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''20'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Daniel|Paille}}
+| LW
+| L
+| {{hs|29-070}}29
+| [[2009–10 NHL season|2009]]
+| align="left" | [[Welland|Welland, Ontario]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''49'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Rich|Peverley}}
+| C
+| R
+| {{hs|30–351}}30
+| [[2010–11 NHL season|2011]]
+| align="left" | [[Guelph|Guelph, Ontario]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''40'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Tuukka|Rask}}
+| G
+| L
+| {{hs|26–106}}26
+| [[2006–07 NHL season|2006]]
+| align="left" | [[Savonlinna|Savonlinna, Finland]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''19'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Tyler|Seguin}}
+| C
+| R
+| {{hs|21–144}}21
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Brampton|Brampton, Ontario]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''44'''
+| {{flagicon|GER}}
+| align="left" | {{sortname|Dennis|Seidenberg}}
+| D
+| L
+| {{hs|31–341}}31
+| [[2009–10 NHL season|2010]]
+| align="left" | [[Villingen-Schwenningen|Villingen-Schwenningen, West Germany]]
+| second {{small|('''[[2011 Stanley Cup Final|2011]]''')}}
+|- style="background:#eeeeee;"
+| '''34'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Carl|Soderberg|Carl Söderberg}}
+| C
+| L
+| {{hs|27–255}}27
+| [[2012–13 NHL season|2013]]
+| align="left" | [[Malmö|Malmö, Sweden]]
+| first
+|- style="background:#eeeeee;"
+| '''22'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Shawn|Thornton}}
+| RW
+| R
+| {{hs|35–336}}35
+| [[2007–08 NHL season|2007]]
+| align="left" | [[Oshawa|Oshawa, Ontario]]
+| third {{small|('''[[2007 Stanley Cup Final|2007]]''', '''[[2011 Stanley Cup Final|2011]]''')}}
+|}
+
+===Chicago Blackhawks===
+[[File:Toews Stanly Cup.jpg|thumb|right|300px|[[Jonathan Toews]] captained the Blackhawks to their second [[Stanley Cup]] championship in four seasons]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+
+|- style="background:#eeeeee;"
+| '''29'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Bryan|Bickell}}
+| LW
+| L
+| {{hs|27–107}}27
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Bowmanville|Bowmanville, Ontario]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''36'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Dave|Bolland}}
+| C
+| R
+| {{hs|27-019}}27
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Etobicoke|Etobicoke, Ontario]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''52'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Brandon|Bollig}}
+| LW
+| L
+| {{hs|26–144}}26
+| [[2009–10 NHL season|2010]]
+| align="left" | [[St. Charles, Missouri]]
+| first
+|- style="background:#eeeeee;"
+| '''17'''
+| {{flagicon|CAN}}
+| align=“left" | {{sortname|Sheldon|Brookbank}}
+| D
+| R
+| {{hs|32-264}}32
+| [[2012-13 NHL season|2012]]
+| align=“left” | [[Lanigan, Saskatchewan]]
+| first 
+|- style=background:#eeeeee;”
+| '''13'''
+| {{flagicon |CAN}}
+| align=“left” | {{sortname|Daniel|Carcillo}}
+| LW
+| L
+| {{hs|28-147}}28
+| [[2011-12 NHL season|2011]]
+| align=“left” | [[King City, Ontario]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|- style="background:#eeeeee;"
+| '''50'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Corey|Crawford}}
+| G
+| L
+| {{hs|28–175}}28
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[Montreal|Montreal, Quebec]]
+| first
+|- style="background:#eeeeee;"
+| '''30'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Ray|Emery}}
+| G
+| L
+| {{hs|30–269}}30
+| [[2011–12 NHL season|2011]]
+| align="left" | [[Hamilton, Ontario]]
+| third {{small|([[2007 Stanley Cup Final|2007]], [[2010 Stanley Cup Final|2010]])}}
+|- style="background:#eeeeee;"
+| '''67'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Michael|Frolik|Michael Frolík}}
+| RW
+| L
+| {{hs|25–127}}25
+| [[2010–11 NHL season|2011]]
+| align="left" | [[Kladno|Kladno, Czechoslovakia]]
+| first
+|- style="background:#eeeeee;"
+| '''26'''
+| {{flagicon|SVK}}
+| align="left" | {{sortname|Michal|Handzus|Michal Handzuš}}
+| C
+| L
+| {{hs|36–105}}36
+| [[2012–13 NHL season|2013]]
+| align="left" | [[Banská Bystrica|Banská Bystrica, Czechoslovakia]]
+| first
+|- style="background:#eeeeee;"
+| '''4'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Niklas|Hjalmarsson}}
+| D
+| L
+| {{hs|26-018}}26
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Eksjö|Eksjö, Sweden]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''81'''
+| {{flagicon|SVK}}
+| align="left" | {{sortname|Marian|Hossa|Marián Hossa}}
+| RW
+| L
+| {{hs|34–163}}34
+| [[2009–10 NHL season|2009]]
+| align="left" | [[Stará Ľubovňa|Stará Ľubovňa, Czechoslovakia]]
+| fourth {{small|([[2008 Stanley Cup Final|2008]], [[2009 Stanley Cup Final|2009]], '''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''88'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Patrick|Kane}}
+| RW
+| L
+| {{hs|24–217}}24
+| [[2007 NHL Entry Draft|2007]]
+| align="left" | [[Buffalo, New York]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''2'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Duncan|Keith}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|29–343}}29
+| [[2002 NHL Entry Draft|2002]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''16'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Marcus|Kruger|Marcus Krüger}}
+| C
+| L
+| {{hs|23-028}}23
+| [[2009 NHL Entry Draft|2009]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| first
+|- style="background:#eeeeee;"
+| '''8'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Nick|Leddy}}
+| D
+| L
+| {{hs|22-096}}22
+| [[2009–10 NHL season|2010]]
+| align="left" | [[Eden Prairie, Minnesota]]
+| first
+|- style="background:#eeeeee;"
+|'''22'''
+| {{flagicon|CAN}}
+| align=“left” | {{sortname|Jamal|Mayers}}
+| RW
+| R
+| {{hs|38-250}}38
+| [[2011–12 NHL season|2011]]
+| align=“left” | [[Toronto, Ontario]]
+| first {{small|(did not play)}}
+|- style="background:#eeeeee;"
+| '''27'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Johnny|Oduya}}
+| D
+| L
+| {{hs|31–266}}31
+| [[2011–12 NHL season|2012]]
+| align="left" | [[Stockholm|Stockholm, Sweden]]
+| first
+|- style="background:#eeeeee;"
+| '''32'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Michal|Rozsival|Michal Rozsíval}}
+| D
+| R
+| {{hs|34–294}}34
+| [[2012–13 NHL season|2012]]
+| align="left" | [[Vlašim|Vlašim, Czechoslovakia]]
+| first
+|- style="background:#eeeeee;"
+| '''20'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Brandon|Saad}}
+| LW
+| L
+| {{hs|20–240}}20
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Pittsburgh|Pittsburgh, Pennsylvania]]
+| first
+|- style="background:#eeeeee;"
+| '''7'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brent|Seabrook}}
+| D
+| R
+| {{hs|28-065}}28
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[Richmond, British Columbia]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''10'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Patrick|Sharp}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW/C
+| R
+| {{hs|31–179}}31
+| [[2005–06 NHL season|2005]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|- style="background:#eeeeee;"
+| '''65'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Andrew|Shaw|Andrew Shaw (ice hockey)}}
+| C
+| R
+| {{hs|21–339}}21
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Belleville, Ontario]]
+| first
+|- style="background:#eeeeee;"
+| '''28'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ben|Smith|Ben Smith (ice hockey, born 1988)}}
+| RW
+| R
+| {{hs|24–348}}24
+| [[2008 NHL Entry Draft|2008]]
+| align="left" | [[Winston-Salem, North Carolina]]
+| first
+|- style="background:#eeeeee;"
+| '''25'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Viktor|Stalberg|Viktor Stålberg}}
+| RW
+| L
+| {{hs|27–158}}27
+| [[2010–11 NHL season|2010]]
+| align="left" | [[Gothenburg|Gothenburg, Sweden]]
+| first
+|- style="background:#eeeeee;"
+| '''19'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jonathan|Toews}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|25-056}}25
+| [[2006 NHL Entry Draft|2006]]
+| align="left" | [[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|}
+
+==Stanley Cup engraving==
+[[File:game 2 2013 Stanley Cup Finals.JPG|thumb|right|200px|Just before game two of the 2013 Stanley Cup Final at the United Center.]]
+The 2013 Stanley Cup was presented to Blackhawks captain [[Jonathan Toews]] by [[NHL Commissioner]] [[Gary Bettman]], following the Blackhawks' 3–2 win over the Bruins in the sixth game of the finals.<ref>{{cite web|url= http://www.latimes.com/sports/la-sp-blackhawks-bruins-stanley-cup-web-20130624,0,6505430.story|title= Chicago Blackhawks win Stanley Cup|date=June 24, 2013|work=Los Angeles Times|access-date=June 25, 2013 }}</ref><ref>{{cite web|url= https://www.bbc.co.uk/sport/ice-hockey/23043176|title= Chicago Blackhawks beat Boston Bruins to win NHL's Stanley Cup|date=June 24, 2013|work=BBC Sport|access-date=June 25, 2013 }}</ref><ref>{{cite web|url= https://www.usatoday.com/story/sports/nhl/2013/06/24/chicago-blackhawks-stanley-cup-champions-defeat-boston-bruins/2454481/|title= Blackhawks' furious game six rally wins Stanley Cup title|date=June 24, 2013|work=USA Today|access-date=June 25, 2013 }}</ref>
+
+The following Blackhawks players and staff had their names engraved on the Stanley Cup
+
+'''2012–13 Chicago Blackhawks'''
+{{Stanley Cup champion
+|defence=
+*2 [[Duncan Keith]] (A)
+*4 [[Niklas Hjalmarsson]]
+*7 [[Brent Seabrook]]
+*8 [[Nick Leddy]]
+*17 [[Sheldon Brookbank]] †
+*27 [[Johnny Oduya]]
+*32 [[Michal Rozsíval|Michal Rozsival]]
+|wingers=
+*10 [[Patrick Sharp]]* (A)
+*13 [[Daniel Carcillo]] †
+*20 [[Brandon Saad]]
+*22 [[Jamal Mayers]] ‡
+*25 [[Viktor Stålberg|Viktor Stalberg]]
+*28 [[Ben Smith (ice hockey, born 1988)|Ben Smith]]
+*29 [[Bryan Bickell]]
+*52 [[Brandon Bollig]]
+*67 [[Michael Frolík|Michael Frolik]]
+*81 [[Marián Hossa|Marian Hossa]]
+*88 [[Patrick Kane]]
+|centres=
+*16 [[Marcus Krüger|Marcus Kruger]]*
+*19 [[Jonathan Toews]] (Captain)
+*26 [[Michal Handzuš|Michal Handzus]]
+*36 [[Dave Bolland]]
+*65 [[Andrew Shaw (ice hockey)|Andrew Shaw]]*
+|goaltenders=*30 [[Ray Emery]]
+*50 [[Corey Crawford]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+*[[Rocky Wirtz]] (Owner/Chairman/Governor), [[John McDonough (sports executive)|John McDonough]] (President/Chief Executive Officer/Alt. Governor), Jay Blunk (Executive Vice President)
+*[[Stan Bowman]] (general manager), [[Al MacIsaac]] (Vice President Hockey Operations/Asst. to President), [[Norm Maciver]] (assistant general manager), William [[Scotty Bowman]] (Senior Adviser, Hockey Operations) 
+*[[Joel Quenneville]] (head coach), [[Mike Kitchen]] (assistant coach), [[Jamie Kompon]] (assistant coach)
+*[[Stephane Waite]] (goaltending coach), Mike Gapskie (athletic trainer), Troy Parchman (equipment manager), Jeff Thomas (Asst. Athletic Trainer) 
+*Clint Reif (Asst. Equipment Manager), Pawel Prylinski (Message Therapist), Jim Heintzelman (Equipment Asst.)
+*Paul Goodman (strength & conditioning coach), Tim Campbell (Video Coach), [[Pierre Gauthier]] (Director, Player Personnel)
+*Mark Kelley (Director, Amateur Scouting), [[Barry Smith (ice hockey b. 1952)|Barry Smith]] (Director, Player Development), Ryan Stewart (Director, Pro Scouting), [[Ron Anderson (ice hockey, born 1950)|Ron Anderson]] (Director, Player Recruitment)
+*Tony Ommen (Senior Director, Team Services), [[Mark Bernard]] (General Manager, Minor League Affiliation), Dr. Michael Terry (head team physician)}}
+===Engraving notes===
+* Two players who did not play in the Finals automatically qualified to have their names engraved along with another who didn’t meet the 23-regular season game requirement but did play one in the Finals. For the shortened 2012–13 season, the NHL's 41-game regular-season games played requirement for automatic inclusion on the Stanley Cup was pro-rated to 23 regular-season games or one game played in the finals (or dressed as the backup goaltender).
+** #13 [[Daniel Carcillo]] (LW) – 23 regular season games and four playoff games (two in the first round and two in the second round). Qualified for meeting the 23-regular season game requirement.
+** #17 [[Sheldon Brookbank]] (D) – 26 regular season games and one playoff game (in the Western Conference Finals). Qualified for meeting the 23-regular season game requirement.
+* #22 [[Jamal Mayers]] – played in 19 regular season games and none in the playoffs but was on the main roster all season (as a healthy reserve). His name was engraved due to a successful petition by the Blackhawks.
+* #28 [[Ben Smith (ice hockey, born 1988)|Ben Smith]] – one regular season game and one game in the Stanley Cup Finals (spending the rest of the regular season in the minors with the Rockford IceHogs of the AHL as a black ace for the Blackhawks both before and after the lockout ended). Qualified for playing at least one game in the Stanley Cup Finals.
+*Jamie Kompon became the first assistant coach in NHL history to win back to back championships with different teams: [[2012 Stanley Cup Final|2012]] with Los Angeles, and 2013 with Chicago. He would eventually go on to win a third championship in [[2024 Stanley Cup Final|2024]] and a fourth in [[2025 Stanley Cup Final|2025]] as an assistant coach with the [[Florida Panthers]].
+* [[Scotty Bowman]] moved into second place with his 13th Stanley Cup championship. He became the first person to win multiple Stanley Cups with four teams. Montreal 1973 and 1976–1979, Pittsburgh 1992, Detroit 1997, 1998, 2002 and 2008, Chicago 2010 and 2013. He also lost in the Finals four times: St. Louis in 1968-69-70 (general manager/coach) Detroit 1995 (head coach/director of player personnel).
+
+===Left off the Stanley Cup===
+* Chicago did not request an exemption to engrave the names of these eleven players on the roster who did not qualify (23 regular season games or 1 Finals game for the pro-rated requirements of the shortened season).<ref name=roster>[https://www.nhl.com/scores/htmlreports/20122013/RO030416.HTM Playing Roster]</ref> None of them played in the playoffs. Only Henrik Karlsson dressed in any playoff games.
+;Included in team picture
+* #55 [[Ryan Stanton]] (D) – 1 regular-season game. Stanton played 73 games in minors for [[Rockford IceHogs]] and served as a black ace for the Blackhawks.
+
+;Not in team picture
+* #39 [[Jimmy Hayes (ice hockey)|Jimmy Hayes]] (RW) – 10 regular season games. He was recalled as a black ace for the playoffs.
+* #11 [[Jeremy Morin]] (LW) – 3 regular season games. He was recalled as a black ace for the playoffs.
+* #33 [[Carter Hutton]] (G) – 1 regular season game. He was recalled for the playoffs as a black ace.
+* #37 [[Brandon Pirri]] (C) – 1 regular season game. He was recalled as a black ace for the playoffs.
+* #42 [[Shawn Lalonde]] (D) – 1 regular season game. He was recalled as a black ace for the playoffs.
+* #38 [[Henrik Karlsson]] (G) – dressed for the 5 games in the first round of the playoffs, due to Ray Emery being injured.<ref>{{cite news |work=Chicago Tribune |title=Hawks' names engraved on Stanley Cup |first=Chris |last=Kuc |url=http://www.chicagotribune.com/sports/chi-chicago-blackhawks-stanley-cup-20130926,0,1888034.story |date=September 26, 2013 |access-date=June 12, 2017}}</ref>
+* #5 [[Steve Montador]] (D) – 0 regular season games. He was recalled for the playoffs as a black ace.
+* #34 [[Dylan Olsen]] (D) – 0 regular season games. He was recalled for the playoffs as a black ace.
+* #44 [[Klas Dahlbeck]] (D) – 0 regular season games. He was recalled for the playoffs as a black ace.
+* #49 [[Adam Clendening]] (D) – 0 regular season games. He was recalled for the playoffs as a black ace.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nhl.com/ice/series.htm?navid=sc.com-bracket-series&season=20122013&series=o Official Site]
+
+{{s-start}}
+{{succession box | before = [[2012 Stanley Cup Final|Los Angeles Kings<br />2012]] | title = [[List of Stanley Cup champions|Chicago Blackhawks<br />Stanley Cup champions]] | years = 2013 | after = [[2014 Stanley Cup Final|Los Angeles Kings<br />2014]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Chicago Blackhawks}}
+{{Boston Bruins}}
+{{2012–13 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on RDS}}
+}}
+
+<!--Please do NOT remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2012–13 NHL season]]
+[[Category:Boston Bruins games]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Stanley Cup Finals]]
+[[Category:2013 in Boston|Stanley Cup Final]]
+[[Category:2013 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:2013 in Chicago]]
+[[Category:2013 in sports in Illinois|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:2013 Stanley Cup| ]]
+[[Category:June 2013 sports events in the United States|Stanley Cup Final]]
+[[Category:Events at United Center]]

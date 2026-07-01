@@ -1,0 +1,185 @@
+{{Short description|1949 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1949
+|team2=[[1948–49 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit 
+|team2_captain=[[Sid Abel]]
+|team2_coach=[[Tommy Ivan]]
+|team2_1=2*
+|team2_2=1
+|team2_3=1
+|team2_4=1
+|team2_tot=0
+|team1='''[[1948–49 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto 
+|team1_captain=[[Ted Kennedy (ice hockey)|Ted Kennedy]]
+|team1_coach=[[Hap Day]]
+|team1_1='''3'''*
+|team1_2='''3'''
+|team1_3='''3'''
+|team1_4='''3'''
+|team1_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 8–16, 1949
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 2)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4)
+|series_winner=[[Cal Gardner]] (19:45, second)
+|hofers='''Maple Leafs:'''<br/>[[Max Bentley]] (1966)<br/>[[Turk Broda]] (1967)<br/>[[Ted Kennedy (ice hockey)|Ted Kennedy]] (1966)<br/>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1994)<br/>'''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Harry Lumley (ice hockey)|Harry Lumley]] (1980)<br/>[[Bud Poile]] (1990, builder)<br/>[[Bill Quackenbush]] (1976)<br/>[[Jack Stewart (ice hockey)|Jack Stewart]] (1964)<br/>'''Coaches:'''<br/>[[Hap Day]] (1961, player)<br/>[[Tommy Ivan]] (1974)
+}}
+
+The '''1949 Stanley Cup Final''' was a best-of-seven series between the [[1948–49 Detroit Red Wings season|Detroit Red Wings]] and the defending champion [[1948–49 Toronto Maple Leafs season|Toronto Maple Leafs]], the second straight Finals series between Detroit and Toronto. The Maple Leafs swept the Red Wings again to win their third consecutive [[Stanley Cup]] and eighth in the history of the franchise, becoming the first team in NHL history to [[three-peat]] as Stanley Cup champions. The Maple Leafs also became the first team to win the Stanley Cup in back-to-back sweeps.<ref>{{Cite web|url=https://www.si.com/nhl/every-sweep-stanley-cup-final-history|last=Dierberger|first=Tom|title=Looking Back at Every Sweep in Stanley Cup Final History|website=[[Sports Illustrated]]|date=June 10, 2024|accessdate=January 19, 2025}}</ref>
+
+==Paths to the Finals==
+Detroit defeated the [[Montreal Canadiens]] 4–2 to advance to the Finals. Toronto defeated the [[Boston Bruins]] 4–1 to advance to the Finals.
+
+==Game summaries==
+The Maple Leafs became the first NHL team to win the Stanley Cup in three straight seasons. The Leafs also won nine straight Finals games (beating Montreal in game six of the {{scfy|1947}} Finals, plus consecutive sweeps of the Wings in {{scfy|1948}} and this year).
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 8
+|home1       =1
+|score1      =3–2
+|ot1         =1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/tor-vs-det/1949/04/08/1948030211#game=1948030211,game_state=final
+|1-1-1       =[[Max Bentley]] (3) - 13:15
+|1-1-2       =4:15 - ''pp'' - [[George Gee (ice hockey)|George Gee]] (1)
+|1-2-1       =[[Jimmy Thomson (ice hockey, born 1927)|Jimmy Thomson]] (1) - ''pp'' - 16:02
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =13:56 - [[Bill Quackenbush]] (1)
+|1-4-1       =[[Joe Klukay]] (2) - 17:13
+|1-4-2       =''No scoring''
+|goalie1-1   =[[Turk Broda]]
+|goalie1-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date2       =April 10
+|home2       =1
+|score2      =3–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/tor-vs-det/1949/04/10/1948030212#game=1948030212,game_state=final
+|2-1-1       =[[Sid Smith (ice hockey)|Sid Smith]] (3) - ''pp'' - 8:50<br>Sid Smith (4) - ''pp'' - 9:56
+|2-1-2       =''No scoring''
+|2-2-1       =Sid Smith (5) - ''pp'' - 17:58
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =5:50 - [[Pete Horeck]] (1)
+|goalie2-1   =[[Turk Broda]]
+|goalie2-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date3       =April 13
+|home3       =2
+|score3      =1–3
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/det-vs-tor/1949/04/13/1948030213#game=1948030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Jack Stewart (ice hockey)|Jack Stewart]] (1) - 4:57
+|3-2-1       =[[Bill Ezinicki]] (1) - 11:02<br>[[Ted Kennedy (ice hockey)|Ted Kennedy]] (2) - 12:40<br>[[Gus Mortson]] (2) - 16:18
+|3-2-2       =''No scoring''
+|3-3-1       =''No scoring''
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Turk Broda]]
+|goalie3-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|date4       =April 16
+|home4       =2
+|score4      =1–3
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/det-vs-tor/1949/04/16/1948030214#game=1948030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Ted Lindsay]] (2) - 2:59
+|4-2-1       =10:10 - ''pp'' - [[Ray Timgren]] (3)<br>19:45 - [[Cal Gardner]] (2)
+|4-2-2       =''No scoring''
+|4-3-1       =15:10 - [[Max Bentley]] (4)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Turk Broda]]
+|goalie4-2   =[[Harry Lumley (ice hockey)|Harry Lumley]]
+
+|series = Toronto won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1949 Stanley Cup was presented to Maple Leafs captain Ted Kennedy by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 3–1 win over the Red Wings in game four.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1948–49 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 Walter [[Turk Broda]]
+|defence=*2 [[Jimmy Thomson (ice hockey b. 1927)|Jimmy Thomson]]
+*3 [[Gus Mortson]]
+*5 [[Garth Boesch]]
+*18 [[Bill Juzda]]
+*19 [[Bill Barilko]]
+*21-23 [[Bob Dawes]]
+|centres=*7 [[Max Bentley]] (A)
+*9 Ted [[Ted Kennedy (ice hockey)|Teeder Kennedy]] (Captain)
+*16 [[Fleming Mackell]]
+*17 [[Cal Gardner]]
+*21 [[Harry Taylor (ice hockey)|Harry Taylor]]
+|wingers=*4 [[Harry Watson (ice hockey b. 1923)|Harry Watson]] (A)
+*8 [[Joe Klukay]]
+*11 [[Howie Meeker]]
+*12 [[Bill Ezinicki]]*
+*14 [[Vic Lynn]]
+*15 [[Don Metz (ice hockey)|Don Metz]]
+*22 [[Ray Timgren]]
+*23-24 [[Sid Smith (ice hockey)|Sid Smith]]
+
+|non-players=
+*[[Conn Smythe]] (President/Manager/Owner), George McGillach (Vice President)
+*John Murdoch (Vice President), [[Jack Bickell]] (Director/Owner)
+*Ed Bickle (Director/Owner), George Walker (Chief Scout)
+*[[W. A. H. MacBrien|William MacBrien]] (Chairman/Owner), Tim Daly (Trainer) 
+* Clarence [[Hap Day]] (Coach)
+* Kerry Day (Mascot) 
+* Archie Campbell* (Ass't Trainer), Ed Fitkin* (Publicity Director), 
+* Norman Delarue*, Robert Galloway*, Horance MacIntyre* (Team Doctors)
+|engraving-notes=
+* * The following members were engraved on the original Stanley Cup in 1949, but removed from the Stanley Cup when it was redone during 1957-58 season. #12 [[Bill Ezinicki]] (player-by mistake-played in the finals), Archie Campbell, Ed Fitkin, Norman Delarue, Horance MacIntyre, James Murphy (non players).  There is room for 5 more names to be included on the cup. 
+* #20 [[Tod Sloan (ice hockey)|Tod Sloan]] name was not included on the cup in 1949, but was included on the team picture. Sloan only played 29 games, and did not play in the playoffs. Sloan's name was engraved on the cup in 1951, 1961.
+*William A.H. MacBrien's last name was spelt wrong. W.A.H. MacBRIAN with an "E" instead of an "A". Mistake was corrected on the Replica Cup created in 1992–93.
+|
+}}
+
+==See also==
+* [[1948–49 NHL season]]
+
+==References and notes==
+{{reflist}}
+
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1948 Stanley Cup Finals|Toronto Maple Leafs<br>1948]] |
+ after = [[1950 Stanley Cup Finals|Detroit Red Wings<br>1950]] |
+ title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+ years = 1949|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Toronto Maple Leafs}}
+{{Detroit Red Wings}}
+{{1948–49 NHL season by team}}
+
+[[Category:1948–49 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:April 1949 sports events in Canada|Stanley Cup Finals]]
+[[Category:April 1949 sports events in the United States|Stanley Cup Finals]]
+[[Category:1949 in Detroit|Stanley Cup Finals]]
+[[Category:1949 in sports in Michigan|Stanley Cup]]
+[[Category:1949 in Ontario|Stanley Cup Finals]]
+[[Category:1940s in Toronto|Stanley Cup Finals, 1949]]

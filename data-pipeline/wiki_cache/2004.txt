@@ -1,0 +1,1710 @@
+{{Short description|2004 ice hockey championship series}}
+{{More citations needed|date=January 2008}}
+{{Use mdy dates|date=March 2012}}
+{{Infobox Stanley Cup Final
+| year = 2004
+| image = 2004stanleycupfinals.PNG
+| team1 = '''[[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]]'''
+| team1_short = Tampa Bay
+| team1_1 = 1
+| team1_2 = '''4'''
+| team1_3 = 0
+| team1_4 = '''1'''
+| team1_5 = 2*
+| team1_6 = '''3'''**
+| team1_7 = '''2'''
+| team1_tot = 4
+| team2 = [[2003–04 Calgary Flames season|Calgary Flames]]
+| team2_short = Calgary
+| team2_1 = '''4'''
+| team2_2 = 1
+| team2_3 = '''3'''
+| team2_4 = 0
+| team2_5 = '''3'''*
+| team2_6 = 2**
+| team2_7 = 1
+| team2_tot = 3
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| coaches = Tampa Bay: [[John Tortorella]]<br />Calgary: [[Darryl Sutter]]
+| captains = Tampa Bay: [[Dave Andreychuk]]<br />Calgary: [[Jarome Iginla]]
+| referees = [[Bill McCreary (referee)|Bill McCreary]] (1, 3, 5, 6, 7)<br/>[[Stephen Walkom]] (1, 2, 5, 6)<br/>[[Kerry Fraser]] (3, 4, 7)<br/>[[Brad Watson (referee)|Brad Watson]] (2, 4)
+| team1_national_anthem = [[Brooke Hogan]]
+| team2_national_anthem = Heather Liscano
+| dates = May 25 – June 7, 2004
+| mvp = [[Brad Richards]] (Lightning)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ESPN|ESPN]] (1–2), [[NHL on ABC|ABC]] (3–7)
+| net_announcers =(CBC) [[Bob Cole (announcer)|Bob Cole]] and [[Harry Neale]]<br/>(RDS) [[Pierre Houde]] and [[Yvon Pedneault]]<br/>(ESPN/ABC) [[Gary Thorne]], [[Bill Clement]], and [[John Davidson (ice hockey)|John Davidson]] <!-- DO NOT remove John Davidson; he worked with Thorne and Clement on both ESPN/ABC --><br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+| location1 = [[Tampa, Florida|Tampa]]: [[St. Pete Times Forum]] (1, 2, 5, 7)
+| location2 = [[Calgary]]: [[Scotiabank Saddledome|Pengrowth Saddledome]] (3, 4, 6)
+| series_winner = [[Ruslan Fedotenko]] (14:38, second)
+| hofers = '''Lightning:'''<br/>[[Dave Andreychuk]] (2017)<br/>[[Martin St. Louis]] (2018)<br/>'''Flames:'''<br/>[[Jarome Iginla]] (2020)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+|next = [[2006 Stanley Cup Final|2006]]
+}}
+The '''2004 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2003–04 NHL season|2003–04 season]], and the culmination of the [[2004 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion [[2003–04 Tampa Bay Lightning season|Tampa Bay Lightning]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2003–04 Calgary Flames season|Calgary Flames]] in seven games for their first Stanley Cup in franchise history, becoming the southernmost team to win the [[Stanley Cup]] until their in-state rival [[Florida Panthers]] won the Cup in {{scfy|2024}}. It was Tampa Bay's first-ever appearance in the Finals in their twelfth season since entering the league in [[1992–93 NHL season|1992]]. For Calgary, it was the team's third appearance, and first since their championship season of {{scfy|1989}}. This was one of the few Stanley Cup Finals in which the losing team scored more goals.
+
+Lightning owner [[Bill Davidson (businessman)|William Davidson]] became the first owner in sports history to win two championships in one year as eight days after this series ended, the other team that Davidson owned (the [[2003–04 Detroit Pistons season|Detroit Pistons]] of the [[National Basketball Association|NBA]]) won the [[2004 NBA Finals|NBA title]] in five games over the [[2003–04 Los Angeles Lakers season|Los Angeles Lakers]]. This was the last Stanley Cup Final to be played for two years, as the [[2004–05 NHL lockout]] began three months after the end of this series, lasting over ten months and leading to the cancellation of the following season, with the league not returning to play for the Stanley Cup until [[2006 Stanley Cup Final|2006]]. This was the last of three consecutive Finals to feature a team making its debut appearance.
+
+==Paths to the Finals==
+{{further|2004 Stanley Cup playoffs}}
+{{see also|2003–04 Calgary Flames season|2003–04 Tampa Bay Lightning season}}
+
+===Tampa Bay Lightning===
+Tampa Bay finished the season with 106 points and entered the playoffs as the [[Eastern Conference (NHL)|Eastern Conference’s]] top seed.<ref>{{Cite web |title=Tampa Bay Lightning Franchise History |url=https://www.hockey-reference.com/teams/TBL/history.html |access-date=2022-05-02 |website=Hockey-Reference.com |language=en}}</ref> They defeated the eighth, seventh, and third-seeded teams, beating the [[2003–04 New York Islanders season|New York Islanders]] 4–1, the [[2003–04 Montreal Canadiens season|Montreal Canadiens]] 4–0 and the [[2003–04 Philadelphia Flyers season|Philadelphia Flyers]] 4–3, in order, and they advanced to the Finals for the first time in franchise history since their establishment in [[1992–93 Tampa Bay Lightning season|1992]].<ref>{{Cite web |title=2003-04 Tampa Bay Lightning Roster and Statistics |url=https://www.hockey-reference.com/teams/TBL/2004.html |access-date=May 2, 2022 |website=Hockey-Reference.com |language=en}}</ref> It was also the third year in a row in which a team made their debut Finals appearance, after the [[2002 Stanley Cup Final|Carolina Hurricanes]] and [[2003 Stanley Cup Final|Mighty Ducks of Anaheim]].
+
+===Calgary Flames===
+Calgary finished the season with 94 points, qualifying for the playoffs for the first time since [[1995–96 Calgary Flames season|1996]].<ref>{{Cite web |title=Calgary Flames Franchise History |url=https://www.hockey-reference.com/teams/CGY/history.html |access-date=2022-05-02 |website=Hockey-Reference.com |language=en}}</ref> As the sixth seed, they defeated the [[Western Conference (NHL)|Western Conference]]'s top three seeded teams, which were the [[2003–04 Vancouver Canucks season|Vancouver Canucks]] 4–3, the [[2003–04 Detroit Red Wings season|Detroit Red Wings]] 4–2 and the [[2003–04 San Jose Sharks season|San Jose Sharks]] 4–2, in order, and made it to the Finals for the first time since [[1988–89 Calgary Flames season|1989]].<ref>{{Cite web |title=2003-04 Calgary Flames Roster and Statistics |url=https://www.hockey-reference.com/teams/CGY/2004.html |access-date=May 2, 2022 |website=Hockey-Reference.com |language=en}}</ref> This also marked the first time a [[Hockey in Canada|Canadian]] team made it to the Finals since the [[Vancouver Canucks]] lost to the [[1993–94 New York Rangers season|New York Rangers]] in the [[1994 Stanley Cup Final]].<ref name="CanadianTeams">{{cite web|quote=Calgary is the first Canadian team to reach the Stanley Cup finals since the 1994 Vancouver Canucks...lost...to the New York Rangers.|url=https://www.cbc.ca/sports/flames-reach-stanley-cup-finals-1.514689|title=Flames reach Stanley Cup finals|date=May 20, 2004|access-date=May 28, 2023|work=CBC Sports|publisher=[[Canadian Broadcasting Corporation]]}}</ref>
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+|team1= Calgary Flames
+|team2= Tampa Bay Lightning
+|stadium1= [[St. Pete Times Forum]]
+|date1= May 25
+|score1= 4–1
+|won1= 1
+|series= 
+|recap1= www.nhl.com/gamecenter/cgy-vs-tbl/2004/05/25/2003030411
+}}
+
+The first game, at [[St. Pete Times Forum]], saw the Flames win 4–1. Dave Andreychuk began the game with a record 634 career goals without a Stanley Cup Final appearance.<ref>{{cite web|title=NHL playoffs 2018: Alex Ovechkin, Capitals join Golden Knights in unlikely Stanley Cup Final|url=https://www.sportingnews.com/us/nhl/news/nhl-playoffs-2018-capitals-lightning-game-7-live-score-result-updates-video-highlights/1ajd713bp7rbk12werl14hfg2l|website=The Sporting News|access-date=28 May 2023}}</ref> Calgary only got 19 shots off against the Lightning defence, but more than one-fifth found the net. [[Martin Gélinas|Martin Gelinas]] got Calgary on the board early, and they extended the lead to 3–0 in the second period on goals by [[Jarome Iginla]], his 11th of the playoffs, and [[Stéphane Yelle|Stephane Yelle]]. [[Chris Simon]] added the fourth and final Calgary goal after Tampa Bay's [[Martin St. Louis]] scored the lone Lightning goal.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | CGY
+|align=center | [[Martin Gélinas|Martin Gelinas]] (7)
+|align=center | [[Craig Conroy]] (11) and [[Andrew Ference]] (2)
+|align=center | 03:02
+|align=center | 1–0 CGY
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Jarome Iginla]] (11) – ''sh''
+|align=center | ''Unassisted''
+|align=center | 15:21
+|align=center | 2–0 CGY
+|-
+|align=center | CGY
+|align=center | [[Stéphane Yelle|Stephane Yelle]] (3)
+|align=center | ''Unassisted''
+|align=center | 18:08
+|align=center | 3–0 CGY
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | TB
+|align=center | [[Martin St. Louis]] (6) – ''pp''
+|align=center | [[Brad Richards]] (10) and [[Dan Boyle (ice hockey)|Dan Boyle]] (7)
+|align=center | 04:13
+|align=center | 3–1 CGY
+|-
+|align=center | CGY
+|align=center | [[Chris Simon]] (4) – ''pp''
+|align=center | [[Oleg Saprykin]] (2) and [[Robyn Regehr]] (5)
+|align=center | 19:40
+|align=center | 4–1 CGY
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CGY
+|align=center | Stephane Yelle
+|align=center | Interference
+|align=center | 11:32
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Pavel Kubina]]
+|align=center | Holding
+|align=center | 18:52
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | Robyn Regehr
+|align=center | Holding
+|align=center | 09:22
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Andrew Ference]]
+|align=center | Hooking
+|align=center | 14:48
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''3rd'''
+|align=center | CGY
+|align=center | [[Ville Nieminen]]
+|align=center | Roughing
+|align=center | 03:05
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[André Roy|Andre Roy]]
+|align=center | Roughing
+|align=center | 04:30
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Cory Stillman]]
+|align=center | Roughing
+|align=center | 04:30
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Shean Donovan]]
+|align=center | Roughing
+|align=center | 04:30
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Oleg Saprykin
+|align=center | Unsportsmanlike conduct
+|align=center | 07:55
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Ruslan Fedotenko]]
+|align=center | Roughing
+|align=center | 17:50
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Martin St. Louis
+|align=center | High-sticking
+|align=center | 19:06
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 5 || align=center | 10 || align=center | 4 || align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 10 || align=center | 8 || align=center | 6 || align=center | 24
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1= Calgary Flames
+|team2= Tampa Bay Lightning
+|stadium1= [[St. Pete Times Forum]]
+|date1= May 27
+|score1= 1–4
+|won1= 2
+|series= 
+|recap1= www.nhl.com/gamecenter/cgy-vs-tbl/2004/05/27/2003030412
+}}
+
+Game 2 saw the same final score, but this time, it was Tampa Bay winning a clutch game to tie the series, 1–1, headed to Calgary. [[Ruslan Fedotenko]]'s 10th goal of the postseason got the Lightning on the board first, and Tampa Bay used three third-period goals, coming from [[Brad Richards]], [[Dan Boyle (ice hockey)|Dan Boyle]], and St. Louis, respectively, to blast the game open. The lone Calgary goal was scored by [[Ville Nieminen]].
+
+These Finals would be the last until [[2013 Stanley Cup Final|2013]] to be tied after two games. The team with home ice in games one and two held a 2–0 edge in every Final between 2006 and 2011. In 2012, the [[Los Angeles Kings]] won the first two games at [[New Jersey Devils|New Jersey]].
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | TB
+|align=center | [[Ruslan Fedotenko]] (10)
+|align=center | [[Jassen Cullimore]] (2) and [[Vincent Lecavalier]] (5)
+|align=center | 07:10
+|align=center | 1–0 TB
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | TB
+|align=center | [[Brad Richards]] (9)
+|align=center | [[Dave Andreychuk]] (10) and [[Martin St. Louis]] (14)
+|align=center | 02:51
+|align=center | 2–0 TB
+|-
+|align=center | TB
+|align=center | [[Dan Boyle (ice hockey)|Dan Boyle]] (2)
+|align=center | [[Brad Richards]] (11) and [[Fredrik Modin]] (10)
+|align=center | 04:00
+|align=center | 3–0 TB
+|-
+|align=center | TB
+|align=center | [[Martin St. Louis]] (7) – ''pp''
+|align=center | [[Vincent Lecavalier]] (6) and Dave Andreychuk (11)
+|align=center | 05:58
+|align=center | 4–0 TB
+|-
+|align=center | CGY
+|align=center | [[Ville Nieminen]] (4) – ''pp''
+|align=center | [[Shean Donovan]] (5) and [[Robyn Regehr]] (6)
+|align=center | 12:21
+|align=center | 4–1 TB
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | TB
+|align=center | [[André Roy|Andre Roy]]
+|align=center | Interference
+|align=center | 02:00
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dimitri Afanasenkov]]
+|align=center | Boarding
+|align=center | 07:58
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Dave Lowry]]
+|align=center | Hooking – Obstruction
+|align=center | 10:21
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Vincent Lecavalier
+|align=center | High-sticking
+|align=center | 13:33
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Shean Donovan]]
+|align=center | Holding
+|align=center | 15:04
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Bench (served by Dimitri Afanasenkov)
+|align=center | Too many men on the ice
+|align=center | 16:59
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TB
+|align=center | Fredrik Modin
+|align=center | Hooking – Obstruction
+|align=center | 00:53
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Oleg Saprykin]]
+|align=center | Goaltender interference
+|align=center | 19:22
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="24"| '''3rd'''
+|align=center | CGY
+|align=center | [[Stéphane Yelle|Stephane Yelle]]
+|align=center | Cross-checking
+|align=center | 00:37
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Brad Richards
+|align=center | Roughing
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dan Boyle (ice hockey)|Dan Boyle]]
+|align=center | Roughing
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Cory Stillman]]
+|align=center | Fightning – major
+|align=center | 05:50
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | [[Chuck Kobasew]]
+|align=center | Roughing
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Andrew Ference]]
+|align=center | Fighting – major
+|align=center | 05:50
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Andrew Ference
+|align=center | Unsportsmanlike conduct
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Chris Clark (ice hockey)|Chris Clark]]
+|align=center | Roughing
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Chris Simon]]
+|align=center | Cross-checking
+|align=center | 05:50
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Andre Roy
+|align=center | Fighting – major
+|align=center | 08:31
+|align=center | 5:00
+|-
+|align=center | TB
+|align=center | [[Chris Dingman]]
+|align=center | Game misconduct
+|align=center | 08:31
+|align=center | 10:00
+|-
+|align=center | TB
+|align=center | Chris Dingman
+|align=center | Misconduct
+|align=center | 08:31
+|align=center | 10:00
+|-
+|align=center | TB
+|align=center | Chris Dingman
+|align=center | Roughing – double minor
+|align=center | 08:31
+|align=center | 4:00
+|-
+|align=center | CGY
+|align=center | Chris Simon
+|align=center | Misconduct
+|align=center | 08:31
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Chris Simon
+|align=center | Fighting – major
+|align=center | 08:31
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Chris Simon
+|align=center | Instigator
+|align=center | 08:31
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]]
+|align=center | Holding
+|align=center | 10:35
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Chuck Kobasew
+|align=center | Interference
+|align=center | 14:27
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Robyn Regehr]]
+|align=center | Holding
+|align=center | 15:13
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Martin Gélinas|Martin Gelinas]]
+|align=center | Checking from behind – major
+|align=center | 19:48
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Martin Gelinas
+|align=center | Game misconduct
+|align=center | 19:48
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Chuck Kobasew
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | TB
+|align=center | Andre Roy
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | TB
+|align=center | [[Pavel Kubina]]
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 6 || align=center | 9 || align=center | 4 || align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 8 || align=center | 10 || align=center | 13 || align=center | 31
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1= Tampa Bay Lightning
+|team2= Calgary Flames
+|stadium1= [[Pengrowth Saddledome]]
+|date1= May 29
+|score1= 0–3
+|won1= 2
+|recap1= www.nhl.com/gamecenter/tbl-vs-cgy/2004/05/29/2003030413
+|series=
+}}
+
+The series shifted to the [[Pengrowth Saddledome]] in Calgary, where Flames goalie [[Miikka Kiprusoff]] and the Calgary defence completely stonewalled the Tampa Bay attack, which only took 21 shots in a 3–0 Flames victory. Simon scored the first Calgary goal in the second period, and [[Shean Donovan]] and Iginla added goals to ice the game.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Chris Simon]] (5) – ''pp''
+|align=center | [[Jarome Iginla]] (8) and [[Jordan Leopold]] (9)
+|align=center | 13:53
+|align=center | 1–0 CGY
+|-
+|align=center | CGY
+|align=center | [[Shean Donovan]] (5)
+|align=center | ''Unassisted''
+|align=center | 17:09
+|align=center | 2–0 CGY
+|-
+| style="text-align:center;" rowspan="1"|'''3rd'''
+|align=center | CGY
+|align=center | Jarome Iginla (12) – ''pp''
+|align=center | [[Robyn Regehr]] (7) and Chris Simon (2)
+|align=center | 18:28
+|align=center | 3–0 CGY
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | CGY
+|align=center | [[Martin Gélinas|Martin Gelinas]]
+|align=center | Elbowing
+|align=center | 00:27
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Brad Lukowich]]
+|align=center | Cross-checking
+|align=center | 03:50
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Jarome Iginla
+|align=center | Fighting – major
+|align=center | 06:17
+|align=center | 5:00
+|-
+|align=center | TB
+|align=center | [[Vincent Lecavalier]]
+|align=center | Fighting – major
+|align=center | 06:17
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | [[Chris Clark (ice hockey)|Chris Clark]]
+|align=center | Tripping
+|align=center | 07:10
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dan Boyle (ice hockey)|Dan Boyle]]
+|align=center | Hooking
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Martin Gelinas
+|align=center | Holding the stick
+|align=center | 17:03
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | TB
+|align=center | [[Brad Lukowich]]
+|align=center | Slashing
+|align=center | 13:03
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CGY
+|align=center | [[Shean Donovan]]
+|align=center | Holding
+|align=center | 04:05
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Cory Sarich]]
+|align=center | Slashing
+|align=center | 17:23
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Cory Sarich
+|align=center | Misconduct
+|align=center | 19:16
+|align=center | 10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 5 || align=center | 6 || align=center | 10 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 2 || align=center | 12 || align=center | 4 || align=center | 18
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1= Tampa Bay Lightning
+|team2= Calgary Flames
+|stadium1= [[Pengrowth Saddledome]]
+|date1= May 31
+|score1= 1–0
+|won1= 1
+|recap1= www.nhl.com/gamecenter/tbl-vs-cgy/2004/05/31/2003030414
+|series= 
+}}
+
+With a chance to take a commanding 3–1 series lead, Calgary was shut out by Lightning goalie [[Nikolai Khabibulin]], who recorded his fifth shutout of the postseason, a 29-save shutout, in a 1–0 Tampa Bay victory, with the game's lone goal being scored by Brad Richards three minutes into the game on a two-man advantage.
+
+With 4:13 left in the game, Ville Nieminen checked [[Vincent Lecavalier]] into the boards from behind, drawing a five-minute major penalty for boarding, a game misconduct penalty, and an eventual game five suspension.<ref>{{cite web | url=https://www.espn.com/nhl/recap?gameId=240531003 | archive-url=https://web.archive.org/web/20180208174750/http://www.espn.com/nhl/recap?gameId=240531003 | url-status=dead | archive-date=February 8, 2018 | title=Richards nets record seventh winning goal | publisher=ESPN | date=May 31, 2004 | access-date=July 6, 2009}}</ref> Meanwhile, fans at the [[Pengrowth Saddledome]] angrily booed referees Kerry Fraser and Brad Watson throughout most of the contest. They were originally also scheduled to work game six in Calgary but the league eventually decided to replace them.<ref>{{cite web | url=http://sportsillustrated.cnn.com/2004/writers/stephen_cannella/06/05/cannella.preview/index.html | archive-url=https://web.archive.org/web/20040619000645/http://sportsillustrated.cnn.com/2004/writers/stephen_cannella/06/05/cannella.preview/index.html | url-status=dead | archive-date=June 19, 2004 | title=A faint whiff of panic: Lightning tightly wound with Flames nearing first title in 15 years | publisher=SI.com | date=June 4, 2004 | access-date=July 6, 2009}}</ref><ref>{{cite web | url=https://www.nytimes.com/2004/06/07/sports/hockey-the-gamesmanship-is-over-it-s-one-game-for-the-cup.html?pagewanted=print | title= The Gamesmanship Is Over: It's One Game for the Cup | work=New York Times | date=June 7, 2004 | access-date=July 6, 2009|first=Joe|last=Lapointe}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | TB
+|align=center | [[Brad Richards]] (10) – ''pp''
+|align=center | [[Dave Andreychuk]] (12) and [[Dan Boyle (ice hockey)|Dan Boyle]] (8)
+|align=center | 02:48
+|align=center | 1–0 TB
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | CGY
+|align=center | [[Chris Clark (ice hockey)|Chris Clark]]
+|align=center | Cross-checking
+|align=center | 01:52
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Mike Commodore]]
+|align=center | Holding
+|align=center | 01:52
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Vincent Lecavalier]]
+|align=center | Tripping
+|align=center | 07:50
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dimitri Afanasenkov]]
+|align=center | Elbowing
+|align=center | 12:52
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Chuck Kobasew]]
+|align=center | Holding
+|align=center | 16:40
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | CGY
+|align=center | [[Krzysztof Oliwa]]
+|align=center | Holding
+|align=center | 05:07
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | CGY
+|align=center | [[Ville Nieminen]]
+|align=center | Boarding – major
+|align=center | 15:47
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Ville Nieminen
+|align=center | Game misconduct
+|align=center | 15:47
+|align=center | 10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 12 || align=center | 7 || align=center | 5 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 12 || align=center | 5 || align=center | 12 || align=center | 29
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1= Calgary Flames
+|team2= Tampa Bay Lightning
+|stadium1= [[St. Pete Times Forum]]
+|date1= June 3
+|score1= 3–2
+|ot1=1
+|won1= 1
+|recap1= www.nhl.com/gamecenter/cgy-vs-tbl/2004/06/03/2003030415
+|series=
+}}
+
+The series returned to Tampa Bay tied, 2–2, for a critical game five, and Calgary pulled off a 3–2 overtime victory to move within one win from the Stanley Cup. After Gelinas and St. Louis traded goals in the first period, Iginla scored for Calgary late in the second period. However, [[Fredrik Modin]] tied the game for the Lightning 37 seconds into the third period. The 2–2 score held until after 14:40 had gone by in overtime, when [[Oleg Saprykin]]'s first goal since the first round won the game for the Flames.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CGY
+|align=center | [[Martin Gélinas|Martin Gelinas]] (8) – ''pp''
+|align=center | [[Toni Lydman]] (1) and [[Steve Montador]] (2)
+|align=center | 02:13
+|align=center | 1–0 CGY
+|-
+|align=center | TB
+|align=center | [[Martin St. Louis]] (8)
+|align=center | [[Martin Cibák|Martin Cibak]] (1) and [[Chris Dingman]] (1)
+|align=center | 19:26
+|align=center | 1–1 TIE
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | CGY
+|align=center | [[Jarome Iginla]] (13)
+|align=center | ''Unassisted''
+|align=center | 15:10
+|align=center | 2–1 CGY
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | TB
+|align=center | [[Fredrik Modin]] (8) – ''pp''
+|align=center | [[Brad Richards]] (12) and [[Dave Andreychuk]] (13)
+|align=center | 00:37
+|align=center | 2–2 TIE
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | CGY
+|align=center | [[Oleg Saprykin]] (3)
+|align=center | [[Jarome Iginla]] (9) and [[Marcus Nilson]] (7)
+|align=center | 14:40
+|align=center | 3–2 CGY
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | TB
+|align=center | Fredrik Modin
+|align=center | High-sticking
+|align=center | 01:43
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Dave Lowry]]
+|align=center | Interference
+|align=center | 08:41
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[André Roy|Andre Roy]]
+|align=center | Roughing
+|align=center | 13:18
+|align=center | 2:00
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CGY
+|align=center | [[Rhett Warrener]]
+|align=center | Holding the stick
+|align=center | 00:31
+|align=center | 2:00
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 11 || align=center | 14 || align=center | 4 || align=center | 7 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 9 || align=center | 3 || align=center | 8 || align=center | 8 || align=center | 28
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1= Tampa Bay Lightning
+|team2= Calgary Flames
+|stadium1= [[Pengrowth Saddledome]]
+|date1= June 5
+|score1= 3–2
+|ot1=2
+|won1= 1
+|recap1=www.nhl.com/gamecenter/tbl-vs-cgy/2004/06/05/2003030416
+|series= 
+}}
+
+Back to Calgary for game six, each team scored two second-period goals, with Richards scoring two for the Lightning and [[Chris Clark (ice hockey)|Chris Clark]] and [[Marcus Nilson]] for the Flames. In the third period, there was a dispute over a Martin Gelinas redirect that appeared to have gone in off of his skate.<ref>{{YouTube|id=qBBgCRIxrtg|title=Martin Gelinas Phantom Goal, Did The Puck Go In?}}</ref> A review from one camera angle appeared to show the puck crossing the goal line before Khabibulin's pad dragged it out, though some (including Lightning [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]]) argue that the puck had not only been knocked several inches ''above'' the goal line (thus making there appear to be white ice between the puck and the goal line) in front of Khabibulin's pad, but that it was also "kicked" by Gelinas. The play was never reviewed. However, the ABC broadcast of Game 7 showed a CGI video analysis of the play, which estimated that the puck did not completely cross the line, and that the call on the ice was correct.<ref>{{YouTube|id=qLav481BVEA|title=A better look at Martin Gelinas 'goal' in game six Stanley Cup Final 2004}}</ref> The CGI company that did the analysis of the video was based out of Calgary. The game entered overtime with the Flames needing only a goal to win the Stanley Cup. However, thirty-three seconds into the second overtime, St. Louis put in the game-winner for the Lightning to force a winner-take-all seventh game in Tampa.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | TB
+|align=center | [[Brad Richards]] (11) – ''pp''
+|align=center | [[Martin St. Louis]] (15) and [[Ruslan Fedotenko]] (2)
+|align=center | 04:17
+|align=center | 1–0 TB
+|-
+|align=center | CGY
+|align=center | [[Chris Clark (ice hockey)|Chris Clark]] (3)
+|align=center | [[Stéphane Yelle|Stephane Yelle]] (3) and [[Ville Nieminen]] (4)
+|align=center | 09:05
+|align=center | 1–1 TIE
+|-
+|align=center | TB
+|align=center | Brad Richards (12) – ''pp''
+|align=center | ''Unassisted''
+|align=center | 10:52
+|align=center | 2–1 TB
+|-
+|align=center | CGY
+|align=center | [[Marcus Nilson]] (4)
+|align=center | [[Oleg Saprykin]] (3) and [[Andrew Ference]] (3)
+|align=center | 17:49
+|align=center | 2–2 TIE
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''2OT'''
+|align=center | TB
+|align=center | [[Martin St. Louis]] (9) 
+|align=center | Brad Richards (13) and [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]] (3)
+|align=center | 00:33
+|align=center | 3–2 TB
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | CGY
+|align=center | Andrew Ference
+|align=center | Hooking
+|align=center | 11:59
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dave Andreychuk]]
+|align=center | Elbowing
+|align=center | 11:59
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Cory Sarich]]
+|align=center | Interference
+|align=center | 16:34
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | Ruslan Fedotenko
+|align=center | Interference
+|align=center | 19:01
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Jordan Leopold]]
+|align=center | Interference
+|align=center | 02:34
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Craig Conroy]]
+|align=center | Hooking – Obstruction
+|align=center | 09:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CGY
+|align=center | Craig Conroy
+|align=center | Hooking
+|align=center | 00:45
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Chris Simon]]
+|align=center | Cross-checking
+|align=center | 08:38
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Jassen Cullimore]]
+|align=center | Interference
+|align=center | 11:18
+|align=center | 2:00
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=7 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | 2OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 6 || align=center | 5 || align=center | 7 || align=center | 7 || align=center | 2 || align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 6 || align=center | 13 || align=center | 7 || align=center | 7 || align=center | 0 || align=center | 33
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|team1= Calgary Flames
+|team2= Tampa Bay Lightning
+|stadium1= [[St. Pete Times Forum]]
+|date1= June 7
+|score1= 1–2
+|won1= 2
+|recap1= www.nhl.com/gamecenter/cgy-vs-tbl/2004/06/07/2003030417
+|series=
+}}
+
+In a tense Game 7, Fedotenko scored goals for Tampa Bay late in the first period and late in the second period for a 2–0 lead. After [[Craig Conroy|Conroy]] scored to narrow the deficit to 2–1, Calgary bombarded Khabibulin after taking only seven shots in the first two periods. After the Conroy goal, Khabibulin stopped 16 Calgary shots. The series ended as Flames center [[Marcus Nilson]] missed a last-second opportunity to force overtime. Tampa Bay won the game, 2–1, and the Stanley Cup.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | TB
+|align=center | [[Ruslan Fedotenko]] (11) – ''pp''
+|align=center | [[Brad Richards]] (14) and [[Fredrik Modin]] (11)
+|align=center | 13:31
+|align=center | 1–0 TB
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | TB
+|align=center | Ruslan Fedotenko (12)
+|align=center | [[Vincent Lecavalier]] (7) and [[Cory Stillman]] (5)
+|align=center | 14:38
+|align=center | 2–0 TB
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CGY
+|align=center | [[Craig Conroy]] (6) – ''pp''
+|align=center | [[Jordan Leopold]] (10)
+|align=center | 09:21
+|align=center | 2–1 TB
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CGY
+|align=center | [[Marcus Nilson]]
+|align=center | Slashing
+|align=center | 01:10
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Oleg Saprykin]]
+|align=center | Tripping
+|align=center | 11:59
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Jassen Cullimore]]
+|align=center | Interference
+|align=center | 19:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Martin Gélinas|Martin Gelinas]]
+|align=center | Boarding
+|align=center | 04:16
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Chris Clark (ice hockey)|Chris Clark]]
+|align=center | Tripping
+|align=center | 18:46
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | TB
+|align=center | [[Nolan Pratt]]
+|align=center | Interference
+|align=center | 08:50
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Andrew Ference]]
+|align=center | Charging
+|align=center | 18:59
+|align=center | 2:00
+|-
+|align=center | TB
+|align=center | [[Dave Andreychuk]]
+|align=center | Tripping
+|align=center | 19:37
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 3 || align=center | 4 || align=center | 10 || align=center | 17
+|-
+| style="text-align:left;"| {{nowrap|Tampa Bay}} || align=center | 6 || align=center | 4 || align=center | 5 || align=center | 15
+|}
+
+This is the last Finals appearance for the Flames. The Lightning returned to the finals in [[2015 Stanley Cup Final|2015]].
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Calgary Flames===
+[[File:Jarome Iginla. 2008.JPG|thumb|[[Jarome Iginla]] captained the Flames to their first Final appearance in [[1989 Stanley Cup Final|fifteen years]].]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+|- style="background:#eeeeee; text-align:center"
+| '''17'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Chris|Clark|Chris Clark (ice hockey)}}
+| RW
+| R
+| {{hs|28–091}}28
+| [[1994 NHL Entry Draft|1994]]
+| align="left" | [[South Windsor, Connecticut]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''2'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Mike|Commodore}}
+| D
+| R
+| {{hs|24–213}}24
+| [[2002–03 NHL season|2003]]
+| align="left" | [[Fort Saskatchewan|Fort Saskatchewan, Alberta]]
+| align="left" | second {{small|([[2001 Stanley Cup Final|2001]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''22'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Craig|Conroy}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|32–277}}32
+| [[2000–01 NHL season|2001]]
+| align="left" | [[Potsdam, New York]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''16'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Shean|Donovan}}
+| RW
+| R
+| {{hs|29–137}}29
+| [[2002–03 NHL season|2003]]
+| align="left" | [[Timmins|Timmins, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''21'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Andrew|Ference}}
+| D
+| L
+| {{hs|25–082}}25
+| [[2002–03 NHL season|2003]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''23'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Martin|Gelinas|Martin Gélinas}}
+| LW
+| L
+| {{hs|34–002}}34
+| [[2002–03 NHL season|2002]]
+| align="left" | [[Shawinigan|Shawinigan, Quebec]]
+| align="left" | fourth {{small|('''[[1990 Stanley Cup Final|1990]]''', [[1994 Stanley Cup Final|1994]], [[2002 Stanley Cup Final|2002]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''12'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jarome|Iginla}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| {{hs|26–342}}26
+| [[1995–96 NHL season|1995]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''34'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Miikka|Kiprusoff}}
+| G
+| L
+| {{hs|27–225}}27
+| [[2003–04 NHL season|2003]]
+| align="left" | [[Turku|Turku, Finland]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''7'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chuck|Kobasew}}
+| RW
+| R
+| {{hs|22–051}}22
+| [[2001 NHL Entry Draft|2001]]
+| align="left" | [[Vancouver, British Columbia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''4'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Jordan|Leopold}}
+| D
+| L
+| {{hs|23–309}}23
+| [[2000–01 NHL season|2000]]
+| align="left" | [[Golden Valley, Minnesota]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''10'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Dave|Lowry}}
+| LW
+| L
+| {{hs|39–114}}39
+| [[2000–01 NHL season|2000]]
+| align="left" | [[Greater Sudbury|Sudbury, Ontario]]
+| align="left" | second {{small|([[1996 Stanley Cup Final|1996]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''32'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Toni|Lydman}}
+| D
+| L
+| {{hs|26–256}}26
+| [[1996 NHL Entry Draft|1996]]
+| align="left" | [[Lahti|Lahti, Finland]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''5'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Steve|Montador}}
+| D
+| R
+| {{hs|24–169}}24
+| [[1999–2000 NHL season|2000]]
+| align="left" | [[Vancouver]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''24'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Ville|Nieminen}}
+| LW
+| L
+| {{hs|27–062}}27
+| [[2003–04 NHL season|2004]]
+| align="left" | [[Tampere|Tampere, Finland]]
+| align="left" | second {{small|('''[[2001 Stanley Cup Final|2001]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''26'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Marcus|Nilson}}
+| LW
+| R
+| {{hs|26–097}}26
+| [[2003–04 NHL season|2004]]
+| align="left" | [[Bålsta|Bålsta, Sweden]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''33'''
+| {{flagicon|POL}}
+| align="left" | {{sortname|Krzysztof|Oliwa}}
+| LW
+| L
+| {{hs|31–056}}31
+| [[2003–04 NHL season|2003]]
+| align="left" | [[Tychy|Tychy, Poland]]
+| align="left" | second {{small|('''[[2000 Stanley Cup Final|2000]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''28'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Robyn|Regehr}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|24–049}}24
+| [[1998–99 NHL season|1999]]
+| align="left" | [[Recife|Recife, Brazil]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''19'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Oleg|Saprykin}}
+| LW
+| L
+| {{hs|23–116}}23
+| [[1999 NHL Entry Draft|1999]]
+| align="left" | [[Moscow|Moscow, U.S.S.R.]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''15'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chris|Simon}}
+| LW
+| L
+| {{hs|32–129}}32
+| [[2003–04 NHL season|2004]]
+| align="left" | [[Wawa, Ontario]]
+| align="left" | third {{small|('''[[1996 Stanley Cup Final|1996]]''', [[1998 Stanley Cup Final|1998]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''1'''
+| {{flagicon|CSK}}
+| align="left" | {{sortname|Roman|Turek}}
+| G
+| R
+| {{hs|34–070}}34
+| [[2001–02 NHL season|2001]]
+| align="left" | [[Strakonice|Strakonice, Czechoslovakia]]
+| align="left" | second {{small|('''[[1999 Stanley Cup Final|1999]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''44'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Rhett|Warrener}}
+| D
+| R
+| {{hs|28–132}}28
+| [[2003–04 NHL season|2003]]
+| align="left" | [[Shaunavon, Saskatchewan]]
+| align="left" | third {{small|([[1996 Stanley Cup Final|1996]], [[1999 Stanley Cup Final|1999]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''11'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Stephane|Yelle|Stéphane Yelle}}
+| C
+| L
+| {{hs|30–029}}30
+| [[2002–03 NHL season|2002]]
+| align="left" | [[Ottawa|Ottawa, Ontario]]
+| align="left" | third {{small|('''[[1996 Stanley Cup Final|1996]]''', '''[[2001 Stanley Cup Final|2001]]''')}}
+|}
+
+===Tampa Bay Lightning===
+[[File:Dave Andreychuk.jpg|thumb|[[Dave Andreychuk]] (pictured in 2008) captained the Lightning to their first Final appearance in franchise history.]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+|- style="background:#eeeeee; text-align:center"
+| '''29'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Dmitry|Afanasenkov}}
+| LW
+| R
+| {{hs|24–026}}24
+| [[1998 NHL Entry Draft|1998]]
+| align="left" | [[Arkhangelsk|Arkhangelsk, U.S.S.R.]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''25'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Dave|Andreychuk}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| R
+| {{hs|40–252}}40
+| [[2001–02 NHL season|2001]]
+| align="left" | [[Hamilton, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''22'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Dan|Boyle|dab=ice hockey}}
+| D
+| R
+| {{hs|27–331}}27
+| [[2001–02 NHL season|2002]]
+| align="left" | [[Ottawa|Ottawa, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''8'''
+| {{flagicon|SVK}}
+| align="left" | {{sortname|Martin|Cibak}}
+| C
+| L
+| {{hs|24–021}}24
+| [[1998 NHL Entry Draft|1998]]
+| align="left" | [[Liptovský Mikuláš]], [[Czechoslovakia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''7'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ben|Clymer}}
+| RW
+| R
+| {{hs|26–057}}26
+| [[1999–2000 NHL season|1999]]
+| align="left" | [[Bloomington, Minnesota]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''5'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Jassen|Cullimore}} 
+| D
+| L
+| {{hs|31-186}}31
+| [[1997–98 NHL season|1998]]
+| align="left" | [[Simcoe, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''11'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chris|Dingman}}
+| LW
+| L
+| {{hs|27–337}}27
+| [[2001–02 NHL season|2002]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| align="left" | second {{small|('''[[2001 Stanley Cup Final|2001]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''17'''
+| {{flagicon|UKR}}
+| align="left" | {{sortname|Ruslan|Fedotenko}}
+| LW
+| L
+| {{hs|25–149}}25
+| [[2002–03 NHL season|2003]]
+| align="left" | [[Kyiv|Kyiv, U.S.S.R.]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''47'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|John|Grahame}}
+| G
+| L
+| {{hs|28–281}}28
+| [[2002–03 NHL season|2003]]
+| align="left" | [[Denver|Denver, Colorado]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''35'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Nikolai|Khabibulin}}
+| G
+| L
+| {{hs|31–146}}31
+| [[2000–01 NHL season|2001]]
+| align="left" | [[Yekaterinburg|Sverdlovsk, U.S.S.R.]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''13'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Pavel|Kubina}}
+| D
+| R
+| {{hs|27–053}}27
+| [[1996 NHL Entry Draft|1996]]
+| align="left" | [[Čeladná|Čeladná, Czechoslovakia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''4'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Vincent|Lecavalier}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|24–047}}24
+| [[1998 NHL Entry Draft|1998]]
+| align="left" | [[Île Bizard|Île Bizard, Quebec]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''37'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brad|Lukowich}}
+| D
+| L
+| {{hs|27–300}}27
+| [[2002–03 NHL season|2002]]
+| align="left" | [[Cranbrook, British Columbia]]
+| align="left" | third {{small|('''[[1999 Stanley Cup Final|1999]]''', [[2000 Stanley Cup Final|2000]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''33'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Fredrik|Modin}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|29–243}}29
+| [[1999–2000 NHL season|1999]]
+| align="left" | [[Sundsvall|Sundsvall, Sweden]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''44'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Nolan|Pratt}}
+| D
+| L
+| {{hs|28-298}}28
+| [[2001–02 NHL season|2001]]
+| align="left" | [[Fort McMurray|Fort McMurray, Alberta]]
+| align="left" | second {{small|('''[[2001 Stanley Cup Final|2001]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''19'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brad|Richards}}
+| C
+| L
+| {{hs|24–036}}24
+| [[1998 NHL Entry Draft|1998]]
+| align="left" | [[Murray Harbour, Prince Edward Island]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''36'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Andre|Roy|André Roy}}
+| RW
+| L
+| {{hs|29–120}}29
+| [[2001–02 NHL season|2002]]
+| align="left" | [[Port Chester, New York]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''21'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Cory|Sarich}}
+| D
+| R
+| {{hs|25–296}}25
+| [[1999–2000 NHL season|2000]]
+| align="left" | [[Saskatoon|Saskatoon, Saskatchewan]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''26'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Martin|St. Louis}}
+| RW
+| L
+| {{hs|28–355}}28
+| [[2000–01 NHL season|2000]]
+| align="left" | [[Laval, Quebec]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''61'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Cory|Stillman}}
+| LW
+| L
+| {{hs|30–170}}30
+| [[2003–04 NHL season|2003]]
+| align="left" | [[Peterborough, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''55'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Darryl|Sydor}}
+| D
+| L
+| {{hs|32–025}}32
+| [[2003–04 NHL season|2004]]
+| align="left" | [[Edmonton|Edmonton, Alberta]]
+| align="left" | fourth {{small|([[1993 Stanley Cup Final|1993]], '''[[1999 Stanley Cup Final|1999]]''', [[2000 Stanley Cup Final|2000]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''27'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Tim|Taylor|dab=ice hockey, born 1969}}
+| C
+| L
+| {{hs|35-122}}35
+| [[2001–02 NHL season|2001]]
+| align="left" | [[Stratford, Ontario]]
+| align="left" | second {{small|('''[[1997 Stanley Cup Final|1997]]''')}}
+|}
+
+==Stanley Cup engraving==
+The 2004 Stanley Cup was presented to Lightning captain Dave Andreychuk by [[NHL Commissioner]] [[Gary Bettman]] following the Lightning's 2–1 win over the Flames in game seven
+
+The following Lightning players and staff had their names engraved on the Stanley Cup
+
+'''2003–04 Tampa Bay Lightning'''
+{{Stanley Cup champion
+|centres=*4 [[Vincent Lecavalier]] (A)
+*8 [[Martin Cibák|Martin Cibak]]
+*9 [[Éric Perrin|Eric Perrin]]*
+*19 [[Brad Richards]]
+*27 [[Tim Taylor (ice hockey, born 1969)|Tim Taylor]]
+|wingers=*7 [[Ben Clymer]]
+*11 [[Chris Dingman]]
+*17 [[Ruslan Fedotenko]]
+*25 [[Dave Andreychuk]] (Captain)
+*26 [[Martin St. Louis]]
+*29 [[Dmitry Afanasenkov]]
+*33 [[Fredrik Modin]] (A)
+*36 [[André Roy|Andre Roy]]
+*61 [[Cory Stillman]]
+|defence=*2 [[Stanislav Neckář|Stanislav Neckar]]*
+*5 [[Jassen Cullimore]]
+*13 [[Pavel Kubina]]
+*21 [[Cory Sarich]]
+*22 [[Dan Boyle (ice hockey)|Dan Boyle]]
+*37 [[Brad Lukowich]]
+*38 [[Darren Rumble (ice hockey)|Darren Rumble]]*
+*44 [[Nolan Pratt]]
+*55 [[Darryl Sydor]]
+|goaltenders=*35 [[Nikolai Khabibulin]]
+*47 [[John Grahame]]
+|player-notes=
+* * Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of the Stanley Cup winning team's regular season games.}}
+|non-players=
+*[[Bill Davidson (businessman)|William Davidson]] (Owner), Thomas Wilson (Governor), Ronald Campbell (President) 
+*[[Jay Feaster]] (Vice President/General Manager), [[John Tortorella]] (Head Coach), [[Craig Ramsay]] (Associate Coach), [[Jeff Reese]] (Asst. Coach)
+*Nigel Kirwan (Video Coach), Eric Lawson (Strength-Conditioning Coach), Tom Mulligan (Medical Trainer), Adam Rambo (Asst. Medical Trainer), Ray Thill (Equipment Manager) 
+*Dana Heinze (Asst. Equipment Manager), Jim Pickard (Asst. Equipment Manager), Mike Griebel (Massage Therapist), [[Bill Barber]] (Director-Player Personnel), Jake Goertzen (Head Scout)
+*Phil Thibodeau (Director-Team Services), Ryan Belec (Asst. General Manager), [[Rick Paterson]] (Chief Pro Scout), Kari Kettunen (Scout) 
+*Glen Zacharias (Scout), Steve Barker (Scout), Dave Heitz (Scout) 
+*Yuri Yanchenkov (Scout), Bill Wickett (Sr. Vice President-Communications), Sean Henry (Exe. Vice President-Chief Operating Officer)}}
+===Engraving notes===
+* #9 [[Éric Perrin|Eric Perrin]] (C) played in 4 regular season games and 12 playoff games (4 in the Eastern Conference finals). #38 [[Darren Rumble]] (D) played in 5 regular season games and did not play in the playoffs (he was a healthy scratch). #2 [[Stanislav Neckář|Stanislav Neckar]] (D) played in 2 games in the Eastern Conference finals. Neckar was on the [[Nashville Predators]] injured reserve list for most of the season, before joining Tampa Bay in a trade on March 9, 2004. As they did not automatically qualify,{{efn|name=qualify}} Tampa Bay successfully requested an exemption to engrave their names.
+* [[Ruslan Fedotenko]] was the first player who was born and raised in Ukraine, and exclusively trained in the country to win the Stanley Cup.
+*All 52 members were included with their full first and last names on the presentation Stanley Cup, filling the last spot on it. When the engraver Louise St. Jacques went to engrave the replica Stanley Cup, there was less space available. There was more space between each winning team on the replica Stanley Cup than on the presentation Stanley Cup. Louise decided to keep each member's name in the same order on the same line on the replica Stanley Cup, so all names were engraved with their first initial and full last name. This is another way of telling the presentation Stanley Cup from the replica Stanley Cup. (see [[1984 Stanley Cup Final]] and [[1993 Stanley Cup Final]])
+* #24 [[Shane Willis]] (RW – 12 regular season games) and #40 [[Brian Eklund]] (G – 0 regular season games, 62 for [[Pensacola Ice Pilots|Pensacola]] of the [[ECHL]]) did not play in or dress for the playoffs (both were healthy scratches). Both were on the roster during the Final, but left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}} They were not in the team picture.<ref>[https://www.tampabay.com/archive/2004/08/21/willis-re-signs-with-lightning/ Willis re-signs with Lightning]<br/>[https://www.patriotledger.com/story/sports/nhl/2020/11/25/abingtons-eklund-moving-up-coaching-ranks/6420599002/ Braintree native Brian Eklund making the move back to pro hockey]</ref>
+
+==Broadcasting==
+In the United States, this was the last Stanley Cup Final to air on ABC and the ESPN family of networks until the [[2022 Stanley Cup Final|2022 Finals]]. ESPN televised the first two games while ABC broadcast the rest of the series. Due to the [[2004–05 NHL lockout]], which suspended play for the next season, this marked the end of ESPN's third run and ABC's second run as the main NHL broadcasters. [[NHL on NBC|NBC]] and [[NHL on Versus|OLN]] would pick up the rights to broadcast the NHL for the {{NHL Year|2005}} season. The [[Comcast]]-owned OLN would later be renamed Versus for the {{NHL Year|2006}} season, then re-branded as [[NBCSN]] on January 2, 2012, following Comcast's 2011 acquisition of NBC, effectively moving to the ''NHL on NBC'' banner. The Finals would also be the last time a Canadian team played a game on ABC (regular season and postseason) until 2024.
+
+In Canada, the CBC's broadcast of game seven of the Finals drew 4.862 million viewers, making it the highest-rated NHL game on the CBC since game seven of the 1994 Final, which drew 4.957 million viewers.<ref name="CBC"/> However, those numbers include both pre-game and post-game coverage. The game itself drew 5.560 million viewers, up from 5.404 in 1994.<ref name="CBC">{{cite news|title=game seven scores with Canadian viewers|date=June 9, 2004|newspaper=The Calgary Herald|page=AA.05}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+*{{cite book |title=Total Stanley Cup |year=2008 |publisher=Dan Diamond & Associates, Inc. |last=Diamond |first=Dan |url=http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |access-date=March 23, 2009 |archive-url=https://web.archive.org/web/20090326001907/http://www.stanleycupplayoffs2008.com/assets/pdfs/totalstanleycup2008.pdf |archive-date=March 26, 2009 |url-status=dead |df=mdy-all }}
+
+==Further reading==
+* {{cite web |url=https://www.nytimes.com/athletic/5510337/2024/05/29/jarome-iginla-vincent-lecavalier-fight-stanley-cup-final-2004/ |title=Inside Iginla and Lecavalier's fight from 2004, one of Stanley Cup Final's most iconic moments |website=[[The Athletic]] |url-access=limited |date=May 29, 2004 |accessdate=June 1, 2024}}
+
+{{s-start}}
+{{succession box | before = [[2003 Stanley Cup Final|New Jersey Devils<br>2003]] | title = [[List of Stanley Cup champions|Tampa Bay Lightning<br>2004 Stanley Cup champions]] | years = 2004 | after = [[2006 Stanley Cup Final|Carolina Hurricanes<br>2006]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Tampa Bay Lightning}}
+{{Calgary Flames}}
+{{2003–04 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on ABC}}
+{{ESPN National Hockey Night}}
+{{NHL on RDS}}
+}}
+
+[[Category:2004 Stanley Cup| ]]
+[[Category:2003–04 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:2003–04 in Canadian ice hockey|Stanley Cup Final]]
+[[Category:2004 in sports in Florida|Stanley Cup Final]]
+[[Category:21st century in Tampa, Florida]]
+[[Category:Calgary Flames games]]
+[[Category:Ice hockey competitions in Tampa, Florida]]
+[[Category:Tampa Bay Lightning games|Stan]]
+[[Category:2004 in sports in Alberta|Stanley Cup Final]]
+[[Category:2000s in Calgary]]
+[[Category:Ice hockey competitions in Calgary]]
+[[Category:May 2004 sports events in the United States]]
+[[Category:June 2004 sports events in the United States]]

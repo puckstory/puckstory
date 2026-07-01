@@ -1,0 +1,1006 @@
+{{Short description|1961 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1961
+|team1='''[[1960–61 Chicago Black Hawks season|Chicago Black Hawks]]'''
+|team1_short=Chicago 
+|team1_captain=[[Ed Litzenberger]]
+|team1_coach=[[Rudy Pilous]]
+|team2=[[1960–61 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit
+|team2_captain=[[Gordie Howe]]
+|team2_coach=[[Sid Abel]]
+|team1_1='''3'''
+|team1_2=1
+|team1_3='''3'''
+|team1_4=1
+|team1_5='''6'''
+|team1_6='''5'''
+|team1_tot=4
+|team2_1=2
+|team2_2='''3'''
+|team2_3=1
+|team2_4='''2'''
+|team2_5=3
+|team2_6=1
+|team2_tot=2
+|dates=April 6–16, 1961197
+|location1=[[Chicago]]: [[Chicago Stadium]] (1, 3, 5)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (2, 4, 6)
+|team2_winner=1
+|series_winner=[[Ab McDonald]] (18:49, second)
+|hofers='''Black Hawks:'''<br/>[[Al Arbour]] (1996, builder)<br/>[[Glenn Hall]] (1975)<br/>[[Bill Hay]] (2015, builder)<br/>[[Bobby Hull]] (1983)<br/>[[Stan Mikita]] (1983)<br/>[[Pierre Pilote]] (1975)<br/>'''Red Wings:'''<br/>[[Alex Delvecchio]] (1977)<br/>[[Gordie Howe]] (1972)<br/>[[Marcel Pronovost]] (1978)<br/>[[Terry Sawchuk]] (1971)<br/>[[Norm Ullman]] (1982)<br/>'''Coaches:'''<br/>[[Sid Abel]] (1969, player)<br/>[[Rudy Pilous]] (1985)<br/>'''Officials:'''<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[George Hayes (ice hockey)|George Hayes]] (1988)<br/>[[Matt Pavelich]] (1987)<br/>[[Frank Udvari]] (1973)
+}}
+The '''1961 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1960–61 NHL season|1960–61 season]], and the culmination of the [[1961 Stanley Cup playoffs]]. It was contested between the [[1960–61 Detroit Red Wings season|Detroit Red Wings]] and the [[1960–61 Chicago Black Hawks season|Chicago Black Hawks]]. Chicago was making its first Finals appearance since {{scfy|1944}}, and Detroit its first appearance since {{scfy|1956}}; both had lost to the [[Montreal Canadiens]] in those previous appearances. The Black Hawks won the best-of-seven series, four games to two, to win their third [[Stanley Cup]], their first since {{scfy|1938}}. This was the last time Chicago won the Cup until {{scfy|2010}}, a 49-year drought.
+
+This was the only title not won by the Canadiens, Red Wings or [[Toronto Maple Leafs]] during the [[Original Six]] era, and the only title won by a U.S. team between {{scfy|1955}} and {{scfy|1970}}.
+
+==Paths to the Finals==
+Detroit defeated Toronto in five games and Chicago upset Montreal, the record five-time defending champion, in six, setting up the first all-American-team Finals since {{scfy|1950}}, when the Wings beat the [[New York Rangers]] in a seven-game series.
+
+==Game summaries==
+This was the only Stanley Cup championship in the 1960s not to be won by either the [[Canadiens–Maple Leafs rivalry|Toronto Maple Leafs or the Montreal Canadiens]]<ref name="HNIC">{{cite book|last=Cole|first=Stephen|title=The Best of Hockey Night in Canada|year=2004|publisher=McArthur & Company|location=Toronto|isbn=1-55278-408-8|page=52}}</ref> or feature either team.
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|stadium2=[[Olympia Stadium]]
+|date1       =April 6
+|home1       =1
+|score1      =2–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-chi/1961/04/06/1960030211#game=1960030211,game_state=final
+}}
+[[Bobby Hull]] scored two goals in game one, giving the Black Hawks a 3–2 victory and a 1–0 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | [[Bobby Hull]] (3) – ''pp''
+|align=center | [[Stan Mikita]] (2) and [[Murray Balfour]] (3)
+|align=center | 09:39
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]] (2)
+|align=center | Ab McDonald (2) and Stan Mikita (3)
+|align=center | 10:10
+|align=center | 2–0 CHI
+|-
+|align=center | CHI
+|align=center | Bobby Hull (4)
+|align=center | Pierre Pilote (7) and Murray Balfour (4)
+|align=center | 13:15
+|align=center | 3–0 CHI
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | DET
+|align=center | [[Len Lunde]] (2) – ''pp''
+|align=center | [[Gordie Howe]] (5) 
+|align=center | 16:14
+|align=center | 3–1 CHI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | [[Al Johnson (ice hockey)|Al Johnson]] (2)
+|align=center | Gordie Howe (6) and [[Norm Ullman]] (3)
+|align=center | 19:18
+|align=center | 3–2 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DET
+|align=center | [[Howie Young]]
+|align=center | Holding
+|align=center | 07:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | DET
+|align=center | Howie Young
+|align=center | Cross-checking
+|align=center | 03:13
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Tripping
+|align=center | 09:27
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Reg Fleming]]
+|align=center | Boarding
+|align=center | 09:55
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Warren Godfrey]]
+|align=center | Interference
+|align=center | 13:28
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Bill Hay]]
+|align=center | Holding
+|align=center | 15:42
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Vic Stasiuk]]
+|align=center | High-sticking
+|align=center | 17:29
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | CHI
+|align=center | Pierre Pilote
+|align=center | Tripping
+|align=center | 01:14
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Warren Godfrey
+|align=center | Holding
+|align=center | 11:53
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Pete Goegan]]
+|align=center | Misconduct
+|align=center | 14:03
+|align=center | 10:00
+|-
+|align=center | CHI
+|align=center | Bill Hay
+|align=center | Holding
+|align=center | 16:08
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Howie Young
+|align=center | Slashing
+|align=center | 16:08
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 8 || align=center | 14 || align=center | 14 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 10 || align=center | 13 || align=center | 8 || align=center | 31
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Chicago Black Hawks
+|stadium1=[[Detroit Olympia]]
+|date1       =April 8
+|score1      =3–1
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-det/1961/04/08/1960030212/summary
+}}
+With [[Terry Sawchuk]] being pulled in the first period of game one, [[Hank Bassen]] started the second game and provided the Red Wings with a win, making 26 saves in the victory. [[Alex Delvecchio]] also recorded two goals and an assist, and the Red Wings tied the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | DET
+|align=center | [[Howie Young]] (2)
+|align=center | [[Vic Stasiuk]] (4) and [[Alex Delvecchio]] (3)
+|align=center | 08:10
+|align=center | 1–0 DET
+|-
+|align=center | DET
+|align=center | Alex Delvecchio (2) – ''pp''
+|align=center | [[Gordie Howe]] (7) and [[Al Johnson (ice hockey)|Al Johnson]] (1)
+|align=center | 17:39
+|align=center | 2–0 DET
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | CHI
+|align=center | [[Pierre Pilote]] (2)
+|align=center | ''Unassisted''
+|align=center | 00:41
+|align=center | 2–1 DET
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | Alex Delvecchio (3) – ''en''
+|align=center | Vic Stasiuk (5) and Gordie Howe (8)
+|align=center | 19:22
+|align=center | 3–1 DET
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | DET
+|align=center | [[Gerry Odrowski]]
+|align=center | Tripping
+|align=center | 00:33
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]]
+|align=center | Hooking
+|align=center | 00:45
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Vic Stasiuk
+|align=center | Holding
+|align=center | 03:13
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Howie Young
+|align=center | Elbowing
+|align=center | 08:27
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Kenny Wharram
+|align=center | Tripping
+|align=center | 12:15
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Warren Godfrey]]
+|align=center | Kneeing
+|align=center | 15:16
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Dollard St. Laurent]]
+|align=center | Kneeing
+|align=center | 17:27
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Hooking
+|align=center | 02:42
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jack Evans
+|align=center | Tripping
+|align=center | 10:50
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Howie Young
+|align=center | Slashing
+|align=center | 15:31
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jack Evans
+|align=center | Charging
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | CHI
+|align=center | [[Bill Hay]]
+|align=center | Roughing
+|align=center | 04:55
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Howie Young
+|align=center | Roughing
+|align=center | 04:55
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Holding
+|align=center | 13:19
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Tod Sloan (ice hockey)|Tod Sloan]]
+|align=center | Tripping
+|align=center | 19:33
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 9 || align=center | 12 || align=center | 17 || align=center | 38
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 2 || align=center | 13 || align=center | 12 || align=center | 27
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =April 10
+|score1      =1–3
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/det-vs-chi/1961/04/10/1960030213
+}}
+[[Glenn Hall]] was solid in game three for Chicago, making 35 saves in a 3–1 victory to take a 2–1 lead in the series. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | CHI
+|align=center | [[Stan Mikita]] (4)
+|align=center | [[Bobby Hull]] (6) and [[Pierre Pilote]] (8)
+|align=center | 11:54
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Ron Murphy]] (1)
+|align=center | [[Ed Litzenberger]] (3) and Pierre Pilote (9)
+|align=center | 14:19
+|align=center | 2–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Murray Balfour]] (3)
+|align=center | Bobby Hull (7) and Bill Hay (3)
+|align=center | 18:16
+|align=center | 3–0 CHI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CHI
+|align=center | [[Gordie Howe]] (4)
+|align=center | [[Alex Delvecchio]] (4) and [[Howie Young]] (2)
+|align=center | 09:28
+|align=center | 3–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DET
+|align=center | [[Warren Godfrey]]
+|align=center | Tripping
+|align=center | 05:29
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]]
+|align=center | Charging
+|align=center | 11:12
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Stan Mikita
+|align=center | High-sticking
+|align=center | 19:09
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | CHI
+|align=center | Murray Balfour
+|align=center | Roughing
+|align=center | 00:08
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Roughing
+|align=center | 00:08
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Kenny Wharram
+|align=center | Hooking
+|align=center | 02:02
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Warren Godfrey
+|align=center | Hooking
+|align=center | 02:02
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Howie Young
+|align=center | Tripping
+|align=center | 05:33
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 14 || align=center | 14 || align=center | 8 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 11 || align=center | 14 || align=center | 11 || align=center | 36
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Detroit Red Wings
+|stadium1=[[Detroit Olympia]]
+|date1       =April 12
+|score1      =1–2
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-det/1961/04/12/1960030214/summary
+}}
+Terry Sawchuk started game four for Detroit and made 26 saves, while [[Bruce MacGregor]] scored the game winning goal in the third period to help Detroit tie the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Bill Hay]] (2)
+|align=center | [[Bobby Hull]] (8) and [[Murray Balfour]] (5)
+|align=center | 07:34
+|align=center | 1–0 CHI
+|-
+|align=center | DET
+|align=center | [[Alex Delvecchio]] (4) – ''pp''
+|align=center | [[Bruce MacGregor]] (1) and [[Gordie Howe]] (9)
+|align=center | 08:48
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | DET
+|align=center | Bruce MacGregor (1)
+|align=center | [[Val Fonteyne]] (2) and [[Warren Godfrey]] (2)
+|align=center | 13:10
+|align=center | 2–1 DET
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | Murray Balfour
+|align=center | Holding
+|align=center | 07:12
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Bruce MacGregor
+|align=center | Tripping
+|align=center | 12:22
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Eric Nesterenko]]
+|align=center | Cross-checking
+|align=center | 15:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | Bobby Hull 
+|align=center | High-sticking
+|align=center | 08:12
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Norm Ullman]]
+|align=center | Holding
+|align=center | 17:17
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 6 || align=center | 11 || align=center | 10 || align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 14 || align=center | 10 || align=center | 6 || align=center | 30
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =April 14
+|score1      =3–6
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/det-vs-chi/1961/04/14/1960030215
+}}
+In a back and forth game five, [[Murray Balfour]] and [[Stan Mikita]] each scored twice for Chicago to give them a 6–3 victory and a 3–2 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | DET
+|align=center | [[Leo Labine]] (3)
+|align=center | [[Al Johnson (ice hockey)|Al Johnson]] (2) and [[Norm Ullman]] (4)
+|align=center | 02:14
+|align=center | 1–0 DET
+|-
+|align=center | CHI
+|align=center | [[Murray Balfour]] (3)
+|align=center | [[Bobby Hull]] (7) and [[Bill Hay]] (3)
+|align=center | 09:36
+|align=center | 1–1
+|-
+|align=center | CHI
+|align=center | [[Ron Murphy]] (2)
+|align=center | [[Dollard St. Laurent]] (2) and [[Eric Nesterenko]] (3)
+|align=center | 10:14
+|align=center | 2–1 CHI
+|-
+|align=center | DET
+|align=center | [[Howie Glover]] (1) – ''pp''
+|align=center | [[Bruce MacGregor]] (2) and [[Val Fonteyne]] (3)
+|align=center | 15:35
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | Murray Balfour (5)
+|align=center | [[Pierre Pilote]] (10) and [[Bill Hay]] (5)
+|align=center | 16:25
+|align=center | 3–2 CHI
+|-
+|align=center | DET
+|align=center | [[Vic Stasiuk]] (2)
+|align=center | [[Gordie Howe]] (10) and [[Marcel Pronovost]] (3)
+|align=center | 18:49
+|align=center | 3–3
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Stan Mikita]] (5) – ''pp''
+|align=center | Pierre Pilote (11) and [[Elmer Vasko]] (1)
+|align=center | 02:51
+|align=center | 4–3 CHI
+|-
+|align=center | CHI
+|align=center | Pierre Pilote (3)
+|align=center | Kenny Wharram (5) and Stan Mikita (4)
+|align=center | 07:02
+|align=center | 5–3 CHI
+|-
+|align=center | CHI
+|align=center | Stan Mikita (6)
+|align=center | Ron Murphy (1)
+|align=center | 13:27
+|align=center | 6–3 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | CHI
+|align=center | Elmer Vasko
+|align=center | Tripping
+|align=center | 13:44
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | DET
+|align=center | [[Howie Young]]
+|align=center | Boarding
+|align=center | 06:20
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Kenny Wharram
+|align=center | Tripping
+|align=center | 12:29
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bill Hay
+|align=center | Roughing
+|align=center | 19:13
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Pete Goegan]]
+|align=center | Roughing
+|align=center | 19:13
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | DET
+|align=center | Howie Young
+|align=center | Tripping
+|align=center | 02:22
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Elmer Vasko
+|align=center | Tripping
+|align=center | 04:17
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | [[Gerry Odrowski]]
+|align=center | Tripping
+|align=center | 08:15
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Elmer Vasko
+|align=center | Boarding
+|align=center | 16:27
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Holding
+|align=center | 18:18
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 14 || align=center | 11 || align=center | 11 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 8 || align=center | 12 || align=center | 24 || align=center | 44
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Detroit Red Wings
+|stadium1=[[Detroit Olympia]]
+|date1       =April 16
+|score1      =5–1
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-det/1961/04/16/1960030216
+}}
+In game six, the Black Hawks defeated the Red Wings by a score of 5–1 to win their first Stanley Cup in 23 years.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | DET
+|align=center | [[Parker MacDonald]] (1) – ''pp''
+|align=center | [[Gordie Howe]] (11) and [[Alex Delvecchio]] (5)
+|align=center | 15:24
+|align=center | 1–0 DET
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Reg Fleming]] (1) – ''sh''
+|align=center | ''Unassisted''
+|align=center | 06:45
+|align=center | 1–1 
+|-
+|align=center | CHI
+|align=center | [[Ab McDonald]] (2)
+|align=center | [[Bobby Hull]] (10) and [[Stan Mikita]] (5)
+|align=center | 18:49
+|align=center | 2–1 CHI
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Eric Nesterenko]] (2)
+|align=center | [[Tod Sloan (ice hockey)|Tod Sloan]] (1) and [[Pierre Pilote]] (12)
+|align=center | 00:57
+|align=center | 3–1 CHI
+|-
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]] (1)
+|align=center | ''Unassisted''
+|align=center | 06:27
+|align=center | 4–1 CHI
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]] (3)
+|align=center | ''Unassisted''
+|align=center | 18:00
+|align=center | 5–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | DET
+|align=center | Gordie Howe
+|align=center | Tripping
+|align=center | 07:17
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jack Evans 
+|align=center | Interference 
+|align=center | 11:16
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Al Arbour]]
+|align=center | Interference 
+|align=center | 13:34
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | DET
+|align=center | [[Pete Goegan]]
+|align=center | Interference
+|align=center | 01:24
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Wayne Hicks]]
+|align=center | Hooking
+|align=center | 06:05
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Tod Sloan
+|align=center | Hooking
+|align=center | 14:17
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | DET
+|align=center | [[Bruce MacGregor]]
+|align=center | Tripping
+|align=center | 03:28
+|align=center | 2:00
+|-
+|align=center | DET
+|align=center | Bruce MacGregor
+|align=center | Tripping
+|align=center | 10:55
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Tod Sloan
+|align=center | Tripping
+|align=center | 18:23
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 4 || align=center | 10 || align=center | 11 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Detroit}} || align=center | 8 || align=center | 8 || align=center | 6 || align=center | 22
+|}
+
+==Stanley Cup engraving==
+The 1961 Stanley Cup was presented to Black Hawks captain Ed Litzenberger by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Black Hawks 5–1 win over the Red Wings in game six.
+
+The following Black Hawks players and staff had their names engraved on the Stanley Cup:
+
+'''1960–61 Chicago Black Hawks'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Glenn Hall]]
+* 1 [[Denis DeJordy]]*
+* Allan [[Roy Edwards (ice hockey)|Roy Edwards]]*
+|defence=*2 [[Al Arbour]]
+*3 [[Pierre Pilote]] (A) 
+*4 [[Elmer Vasko]] 
+*5 [[Jack Evans (ice hockey)|Jack Evans]]
+*18 [[Wayne Hillman]]
+*19 [[Dollard St. Laurent]]
+|centres=*9 [[Tod Sloan (ice hockey)|Tod Sloan]]
+*11 [[Bill Hay]]
+*12 [[Ed Litzenberger]] (Captain)
+*17 [[Ken Wharram]]
+*21 [[Stan Mikita]]
+|wingers=*6 [[Reg Fleming]]
+*8 [[Murray Balfour]]
+*8 [[[Wayne Hicks]]
+*10 [[Ron Murphy]] (A)
+*14 Alvin [[Ab McDonald]]
+*15 [[Eric Nesterenko]]
+*16 [[Bobby Hull]]
+*18 Ronald [[Chico Maki]]*
+*20 [[Earl Balfour]]
+|player-notes=
+{{asterisk}} Did not play in the Finals.
+|non-players=
+* [[Arthur Wirtz]] Sr. (President/Owner), [[Bill Wirtz|Arthur Wirtz Jr.]] (Vice President/Owner)
+* [[James D. Norris]] Jr. (Chairman/Owner), [[Tommy Ivan]] (Manager)
+* [[Rudy Pilous]] (Coach), Nick Garen (Trainer) 
+* [[Walter Humeniuk]] (Asst. Trainer)
+* Michael Wirtz (Vice President)
+|engraving-notes=
+* Roy Edwards was engraved as Allan R. Edwards. He never played in any games for Chicago; his first NHL game was during the 1967–68 season with Detroit. Denis DeJordy's first NHL game was during the 1962–63 season. Chico Maki's name was included on the Stanley Cup for dressing for one game in the Finals, even though he did not get any ice time. Maki played his first regular-season NHL game during the 1961–62 season.
+* Ron Murphy was engraved as Robert Murphy. He was engraved as R. Murphy in 1970 with Boston.
+* Tod Sloan was engraved as Martin A. Sloan. He was engraved on the cup as Tod Sloan in 1951 with Toronto.
+|
+}}
+
+==See also==
+* [[1960–61 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1960 Stanley Cup Final|Montreal Canadiens<br>1960]] |
+  after = [[1962 Stanley Cup Final|Toronto Maple Leafs <br>1962]] |
+  title = [[List of Stanley Cup champions|Chicago Black Hawks<br>Stanley Cup champions]] |
+  years = 1961|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Chicago Blackhawks}}
+{{Detroit Red Wings}}
+{{1960–61 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1960–61 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games|1960]]
+[[Category:Detroit Red Wings games]]
+[[Category:April 1961 sports events in the United States]]
+[[Category:1961 in Detroit]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1961 in Chicago]]
+[[Category:1961 in sports in Michigan|Stanley Cup]]
+[[Category:Events at Chicago Stadium]]

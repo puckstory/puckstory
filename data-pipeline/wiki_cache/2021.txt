@@ -1,0 +1,1597 @@
+{{short description|2021 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=June 2021}}
+{{Infobox Stanley Cup Final
+| year = 2021
+| image = 2021 Stanley Cup Finals.png
+| team1 = [[2020–21 Montreal Canadiens season|Montreal Canadiens]]
+| team2 = '''[[2020–21 Tampa Bay Lightning season|Tampa Bay Lightning]]'''
+| team1_1 = 1
+| team2_1 = '''5'''
+| team1_2 = 1
+| team2_2 = '''3'''
+| team1_3 = 3
+| team2_3 = '''6'''
+| team1_4 = '''3'''*
+| team2_4 = 2*
+| team1_5 = 0
+| team2_5 = '''1'''
+| team1_tot = 1
+| team2_tot = 4
+| location1 = [[Montreal]]: [[Bell Centre]] (3, 4)
+| location2 = [[Tampa, Florida|Tampa]]: [[Amalie Arena]] (1, 2, 5)
+| team1_coach = [[Dominique Ducharme (ice hockey)|Dominique Ducharme]] (interim)
+| team2_coach = [[Jon Cooper (ice hockey)|Jon Cooper]]
+| team1_short = Montreal
+| team2_short = Tampa Bay
+| team1_captain = [[Shea Weber]]
+| team2_captain = [[Steven Stamkos]]
+| table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = [[Francis Charron]] (1, 3)<br>Gord Dwyer (3, 5)<br>[[Eric Furlatt]] (2, 4)<br>[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (1, 5)<br>[[Kelly Sutherland]] (2, 4)
+| dates = June 28 – July 7, 2021
+| mvp = [[Andrei Vasilevskiy]] (Lightning)
+| series_winner = [[Ross Colton]] (13:27, second)
+|hofers = '''Canadiens:'''<br/>[[Carey Price]] (2026)<br/>[[Shea Weber]] (2024)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBCSN]] (1–2), [[NHL on NBC|NBC]] (3–5)
+| net_announcers = (CBC/SN) [[Chris Cuthbert]] and [[Craig Simpson]]<ref name="SN PR"/><br/>(TVA) Felix Seguin and [[Patrick Lalime]]<br/>(NBC/NBCSN) [[Kenny Albert]], [[Eddie Olczyk]] (1, 3–5), [[Brian Boucher]] (1–2, 4–5), and [[Pierre McGuire]] (2–3)<ref name="NBC PR"/><ref name="NBC Gm2"/><br/>(NHL International) E.J. Hradek and [[Kevin Weekes]]
+}}
+
+The '''2021 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2020–21 NHL season|2020–21 season]] and the culmination of the [[2021 Stanley Cup playoffs]]. The series was between the [[2020–21 Montreal Canadiens season|Montreal Canadiens]] and the [[2020 Stanley Cup Final|defending Stanley Cup champion]] [[2020–21 Tampa Bay Lightning season|Tampa Bay Lightning]]. The Lightning won the [[best-of-seven playoff|best-of-seven series]], four games to one, for their second consecutive and the third overall championship in franchise history. Tampa Bay had home-ice advantage in the series with the better regular season record.
+
+Due to the [[COVID-19 pandemic in North America|COVID-19 pandemic]] that both shortened and delayed the start of the regular season, the series began on June 28, 2021, and concluded on July 7, 2021, marking the first time that games in the Stanley Cup Final were held in July. The [[Canada–United States border|cross-border travel]] restrictions under the pandemic also forced the league to temporarily realign this season into four divisions with no conferences, putting all seven Canadian teams into one of those divisions. Consequently, a divisional-based postseason format was held, featuring intra-divisional matchups in the first two rounds. The four divisional playoff champions were then re-seeded by regular season points in the Stanley Cup semifinals, with the winners of the semifinals advancing to the Stanley Cup Final.<ref name="Playoff FAQ">{{cite web |url=https://www.nhl.com/news/stanley-cup-playoffs-critical-questions/c-324708710 |title=Stanley Cup Playoffs: Key questions, answers |date=May 14, 2021 |first=Nicholas |last=Cotsonika|publisher=NHL Enterprises, L. P.|website=NHL.com|accessdate=June 8, 2021}}</ref> Under a normal playoff format, this Final series matchup would be impossible, as both the Lightning and Canadiens compete in the NHL's Eastern Conference. However, under the temporarily realigned divisions and omission of conferences, this scenario became possible.
+
+This was the first Final since {{scfy|2009}} played entirely in the [[Eastern Time Zone]] and the first since {{scfy|2011}} to feature a Canadian-based team.
+
+This Final matchup broke the Stanley Cup Final record for highest combined seed between teams, with 26 (Tampa Bay 8th, and Montreal 18th).<ref>{{Cite web|url=https://www.nhl.com/standings/2020/league|title=NHL Hockey Standings|website=www.nhl.com|accessdate=May 24, 2025}}</ref> This record was previously held by the [[1991 Stanley Cup Final]], which had a combined seed of 23.<ref>{{Cite web|url=https://www.nhl.com/standings/1990/league|title=NHL Hockey Standings|website=www.nhl.com|accessdate=May 24, 2025}}</ref>
+
+==Paths to the Final==
+
+===Impact of COVID-19===
+{{Main|2020–21 NHL season#Impact of COVID-19 and temporary realignment|2021 Stanley Cup playoffs}}
+The [[COVID-19 pandemic in North America|COVID-19 pandemic]] impacted the league for the second straight year with the [[Government of Canada]] and the Government of the United States both maintaining their [[Canada–United States border|cross-border travel]] restrictions. Consequently, the league temporarily realigned for this season into four regional divisions with no conferences, putting all seven Canadian teams into one of those divisions. Each team played 56 regular season games, all intra-divisional matchups. The league returned to the traditional 16-team playoff format, with the first two rounds of the playoffs also featuring intra-divisional matchups. This format delayed any possibility of cross-border travel until the third round.<ref>{{cite news |title=NHL, NHLPA formally approve 56-game season |url=https://www.tsn.ca/nhl-nhlpa-formally-approve-56-game-season-1.1566771 |date=December 20, 2020 |access-date=April 21, 2021|publisher=Bell Media|newspaper=TSN}}</ref> The league explored the possibility of having the Canadian team that advanced to the third round hold their home games in a neutral NHL city in the U.S. but were granted a cross-border travel exemption approved by the [[Public Health Agency of Canada]].<ref name="Canada travel">{{cite web |title=Federal government grants NHL playoffs travel exemption |url=https://www.tsn.ca/federal-government-grants-nhl-playoffs-travel-exemption-1.1650515|publisher=Bell Media|website=TSN.ca |date=June 6, 2021 |access-date=June 6, 2021}}</ref><ref>{{cite web |title=Hope remains for NHL playoffs in Canadian cities, but U.S. bubble a possibility |url=https://www.sportsnet.ca/nhl/hope-remains-nhl-playoffs-canadian-cities-u-s-bubble-possibility/|publisher=Rogers Media|website=Sportsnet.ca |date=April 17, 2021 |access-date=April 21, 2021}}</ref>
+
+Due to local COVID-19 health protocols during the regular season, all 24 American teams hosted a limited amount of in-person spectators while all seven Canadian teams played [[Behind closed doors (sport)|behind closed doors]]. During the first three rounds of the playoffs, a number of U.S. teams further increased their capacity, and three of the Canadian playoff teams admitted spectators for the first time.<ref name="ESPN Jan19">{{cite web |last=Wyshynski |first=Greg |title=NHL teams wrestling with COVID-19 fan attendance policies |url=https://www.espn.com/nhl/insider/story/_/id/30737247/nhl-teams-wrestling-covid-19-fan-attendance-policies |work=ESPN |access-date=January 24, 2021 |date=January 19, 2021 |archive-date=January 23, 2021 |archive-url=https://web.archive.org/web/20210123083442/https://www.espn.com/nhl/insider/story/_/id/30737247/nhl-teams-wrestling-covid-19-fan-attendance-policies |url-status=live }}</ref> The Canadiens were the first team from Canada to offer tickets to the general public.<ref>{{Cite web|title=Canadiens approved to host 2,500 fans for games starting May 28|url=https://www.sportsnet.ca/nhl/canadiens-approved-host-2500-fans-games-starting-may-28/|access-date=2021-05-18|website=Sportsnet.ca|archive-date=May 18, 2021|archive-url=https://web.archive.org/web/20210518233238/https://www.sportsnet.ca/nhl/canadiens-approved-host-2500-fans-games-starting-may-28/|url-status=live}}</ref> By the time the Final started, [[Florida]] health officials had allowed the Lightning to admit 16,300 fans (85 percent of full capacity) at [[Amalie Arena]] for game one, then allowed up to 100% capacity for game two and beyond.<ref>{{cite news|url=https://www.upi.com/Sports_News/NHL/2021/06/28/Tampa-Bay-Lighting-favored-over-Montreal-Canadiens-Stanley-Cup-Final-NHL/8121624889270/|title=Stanley Cup Final: Lightning favored to repeat against Canadiens|publisher=UPI.com|date=June 28, 2021}}</ref><ref>{{Cite news|last=|title=Lightning increasing Amalie Arena to full capacity|url=https://www.tampabay.com/sports/lightning/2021/06/30/lightning-increasing-amalie-arena-to-full-capacity/|access-date=2021-07-09|work=[[Tampa Bay Times]]}}</ref> The Canadiens were permitted to issue 3,500 tickets for the [[Bell Centre]] after [[Quebec]] health officials denied the team's request to increase it to 10,500 fans (50 percent of capacity) before game three.<ref>{{cite news|url=https://nationalpost.com/sports/hockey/nhl/hockey-inside-out/only-3500-fans-will-be-allowed-at-bell-centre-for-cup-final-games/wcm/140901b2-15bb-43e4-88b1-4e8336ff1dcc|title=Only 3,500 fans will be allowed at Bell Centre for Cup final games|publisher=National Post|date=June 28, 2021}}</ref>
+
+===Montreal Canadiens===
+{{Main|2020–21 Montreal Canadiens season}}
+
+This was Montreal's 35th Stanley Cup Final appearance. They have won the Stanley Cup a record twenty-four times (the second most championships in major North American sports behind the [[New York Yankees]]' twenty-seven [[World Series]] victories). They are the most recent Canadian team to win the Stanley Cup, doing so in [[1993 Stanley Cup Final|1993]] (their most recent Final appearance) against the [[Los Angeles Kings]], winning in five games.<ref>{{cite web|url=https://www.nhl.com/gamecenter/lak-vs-mtl/1993/06/09/1992030415#game=1992030415,game_state=final|title=Los Angeles Kings – Montreal Canadiens – June 9th, 1993|publisher=NHL Enterprises, L. P.|website=NHL.com|accessdate=June 15, 2021}}</ref> They were also the first Canadian team since the [[2010–11 Vancouver Canucks season|2011 Vancouver Canucks]] to reach the Final.<ref>{{cite web|url=https://www.nytimes.com/athletic/4208511/2021/06/25/canadiens-reach-first-stanley-cup-final-since-1993-as-lehkonen-nets-ot-winner/|title=Canadiens reach first Stanley Cup Final since 1993 as Lehkonen nets OT winner|publisher=The Athletic Media company|website=TheAthletic.com|date=June 24, 2021|access-date=June 25, 2021}}</ref>
+[[File:2021 Scf french.png|thumb|Montreal's Stanley Cup Final patch]]
+During the offseason, the Canadiens traded left wing [[Max Domi]] and a third-round pick for right wing [[Josh Anderson (ice hockey)|Josh Anderson]].<ref>{{cite web |title=Canadiens acquire Josh Anderson from the Blue Jackets|url=https://www.nhl.com/canadiens/news/canadiens-acquire-josh-anderson-from-the-blue-jackets/c-319318650|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=October 6, 2020|date=October 6, 2020}}</ref> They also picked up forwards [[Tyler Toffoli]], [[Michael Frolík|Michael Frolik]], and [[Corey Perry]] in free agency.<ref>{{cite web|url=https://www.nhl.com/canadiens/news/canadiens-agree-to-terms-on-a-four-year-contract-with-forward-tyler-toffoli/c-319434866|title=Canadiens agree to terms on a four-year contract with Tyler Toffoli|publisher=NHL Enterprises, L. P.|website=NHL.com|date=October 12, 2020|accessdate=June 15, 2021}}</ref><ref>{{cite web|url=https://www.nhl.com/canadiens/news/canadiens-agree-to-terms-on-a-one-year-contract-with-michael-frolik/c-319871320|title=Canadiens agree to terms on a one-year contract with Michael Frolik|publisher=NHL Enterprises, L. P.|website=NHL.com|date=December 23, 2020|accessdate=June 15, 2021}}</ref><ref>{{cite web|url=https://www.nhl.com/canadiens/news/canadiens-agree-to-terms-with-corey-perry/c-319893002|title=Canadiens agree to terms with Corey Perry on a one-year contract|publisher=NHL Enterprises, L. P.|website=NHL.com|date=December 28, 2020|accessdate=June 15, 2021}}</ref> The team also re-signed goaltender [[Jake Allen (ice hockey)|Jake Allen]] and forward [[Brendan Gallagher]].<ref>{{cite web|url=https://www.nhl.com/canadiens/news/canadiens-sign-jake-allen-to-a-two-year-contract-extension/c-319454186|title=Canadiens sign Jake Allen to a two-year contract extension|publisher=NHL Enterprises, L. P.|website=NHL.com|date=October 14, 2020|accessdate=June 15, 2021}}</ref><ref>{{cite web|url=https://www.nhl.com/canadiens/news/canadiens-sign-forward-brendan-gallagher-to-a-six-year-contract-extension/c-319456122|title=Canadiens sign forward Brendan Gallagher to a six-year contract extension|publisher=NHL Enterprises, L. P.|website=NHL.com|date=October 14, 2020|accessdate=June 15, 2021}}</ref> During the season, [[Hobey Baker Award]] winner and rookie [[Cole Caufield]] made his debut with the Canadiens.<ref>{{cite web|title=MTL@CGY: Game Recap|url=https://www.nhl.com/canadiens/news/postgame-canadiens---flames---april-26/c-324048152|last=Cudzinowski|first=Matt|publisher=NHL Enterprises, L. P.|date=April 26, 2021|website=NHL.com|accessdate=June 15, 2021}}</ref> The team traded for forward [[Eric Staal]] as well as defencemen [[Jon Merrill (ice hockey)|Jon Merrill]] and [[Erik Gustafsson (ice hockey, born 1992)|Erik Gustafsson]].<ref>{{cite web |title=Canadiens acquire Eric Staal from the Buffalo Sabres|url=https://www.nhl.com/canadiens/news/canadiens-acquire-eric-staal-from-the-buffalo-sabres/c-322939202|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=March 27, 2021|date=March 26, 2021}}</ref><ref>{{cite web |title=Canadiens acquire defenseman Jon Merill|url= https://www.nhl.com/canadiens/news/canadiens-acquire-defenseman-jon-merrill/c-323533180|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=April 11, 2021|date=April 11, 2021}}</ref><ref>{{cite web |title=Canadiens acquire defenseman Erik Gustafsson|url=https://www.nhl.com/canadiens/news/canadiens-acquire-defenseman-erik-gustafsson/c-323569012|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=April 12, 2021|date=April 12, 2021}}</ref>
+
+On February 24, 2021, head coach [[Claude Julien (ice hockey)|Claude Julien]] was fired after coaching the team through parts of five seasons during his second stint as head coach of the Canadiens, which had registered a 9–5–4 record to start the season. Assistant coach [[Dominique Ducharme (ice hockey)|Dominique Ducharme]] was named interim head coach.<ref>{{cite web |title=Claude Julien and Kirk Muller relieved of their coaching duties |url=https://www.nhl.com/canadiens/news/claude-julien-and-kirk-muller-relieved-of-their-coaching-duties/c-321755176|publisher=NHL Enterprises, L. P.|website=NHL.com |access-date=February 24, 2021 |date=February 24, 2021}}</ref>
+
+The team finished with a record of 24–21–11 to finish fourth in the [[North Division (NHL)|North Division]]. In the playoffs, the Canadiens came back from a 3–1 deficit in their series with their [[Canadiens–Maple Leafs rivalry|rival]] [[Toronto Maple Leafs]] to win in seven games,<ref>{{cite web|url=https://www.nhl.com/news/montreal-canadiens-toronto-maple-leafs-game-7-recap/c-324664302|title=Canadiens eliminate Maple Leafs in Game 7, advance to second round|last=McCarthy|first=Dave|publisher=NHL Enterprises, L. P.|date=May 31, 2021|website=NHL.com|accessdate=May 31, 2021}}</ref> swept the [[Winnipeg Jets]] in the second round, and knocked off the [[Vegas Golden Knights]] in the Stanley Cup semifinals in six games.<ref>{{cite web|url=https://www.nhl.com/news/winnipeg-jets-montreal-canadiens-game-4-recap/c-325114716|title=Canadiens win Game 4 in OT, sweep Jets|last=Farrell|first=Sean|publisher=NHL Enterprises, L. P.|date=June 7, 2021|website=NHL.com|accessdate=June 7, 2021}}</ref><ref>{{cite web|url=https://www.nhl.com/news/vegas-golden-knights-montreal-canadiens-game-6-recap/c-325300926|title=Canadiens defeat Golden Knights in Game 6, advance to Stanley Cup Final|last=Farrell|first=Sean|publisher=NHL Enterprises, L. P.|date=June 24, 2021|website=NHL.com|accessdate=June 24, 2021}}</ref>
+
+As they had in the past, the Canadiens used the French version of the Stanley Cup Final logo patch on their jerseys.<ref>{{Cite web|last=Creamer|first=Chris|title=Montreal Canadiens to Wear French-Language Patch During 2021 Stanley Cup Final|url=https://news.sportslogos.net/2021/06/27/montreal-canadiens-to-wear-french-language-patch-during-2021-stanley-cup-final/hockey-2/|access-date=2021-07-13|website=SportsLogos.Net News}}</ref>
+
+===Tampa Bay Lightning===
+{{Main|2020–21 Tampa Bay Lightning season}}
+This was Tampa Bay's second consecutive and fourth overall Final appearance. They won the [[2020 Stanley Cup Final|previous year]] against the [[Dallas Stars]] in six games.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-6-recap/c-319086198|title=Lightning win Stanley Cup, defeat Stars in Game 6 of Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=September 28, 2020|website=NHL.com|access-date=September 28, 2020}}</ref>
+
+Tampa Bay made very few transactions to gain players in the offseason. They traded away [[Braydon Coburn]] and [[Cédric Paquette|Cedric Paquette]] and let [[Zach Bogosian]], [[Kevin Shattenkirk]], and [[Carter Verhaeghe]] walk via free agency. They re-signed [[Anthony Cirelli]], [[Patrick Maroon]], [[Luke Schenn]], and [[Mikhail Sergachev]].<ref>{{cite news |title=Pat Maroon re-signs with Tampa Bay Lightning |url=https://www.ksdk.com/article/sports/pat-maroon-resigns-with-tampa-bay-lightning/63-a738f995-8ee1-476e-bb06-7ddd013e9668|last=Miller|first=Corey |website=ksdk.com|publisher=KDSK-TV |access-date=October 10, 2020 |date=October 9, 2020}}</ref><ref>{{cite news |title=How the coronavirus dampened the NHL's free-agent frenzy |url=https://www.tampabay.com/sports/lightning/2020/10/09/lightning-re-sign-luke-schenn-and-pat-maroon-put-tyler-johnson-on-waivers/|last=Nearhos|first=Diana C. |newspaper=Tampa Bay Times|access-date=October 10, 2020 |date=October 9, 2020}}</ref><ref>{{cite web |title=Lightning re-sign Mikhail Sergachev; still have work to do before season |url=https://nhl.nbcsports.com/2020/11/25/tampa-bay-lightning-re-sign-mikhail-sergachev-still-have-work-to-do-before-season-2020-nhl-free-agency/|last=Gertz|first=Adam|publisher=NBC University |website=NBCSports.com |access-date=December 9, 2020 |date=November 25, 2020}}</ref> During the season, they traded for defenceman [[David Savard]]<ref>{{cite web|title=Trade: Blue Jackets send David Savard to Lightning in 3-team trade|url=https://nhl.nbcsports.com/2021/04/10/trade-blue-jackets-send-david-savard-to-lightning-in-3-team-trade/|publisher=NHL Enterprises, L. P.|website=NHL.com|date=April 10, 2021|access-date=April 12, 2021}}</ref> and traded away forward [[Alexander Volkov (ice hockey)|Alexander Volkov]]. Forward [[Nikita Kucherov]], who had hip surgery prior to the regular season, returned for the playoffs.
+
+Tampa Bay finished with a 36–17–3 record to finish third in the [[Central Division (NHL)|Central Division]]. In the playoffs, the Lightning defeated their [[Lightning–Panthers rivalry|intrastate rival]], the [[Florida Panthers]], in six games in the first round.<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-tampa-bay-lightning-game-6-recap/c-324663538|title=Lightning eliminate Panthers with Game 6 shutout|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=May 26, 2021|website=NHL.com|accessdate=May 26, 2021}}</ref> The Lightning then triumphed over the [[Carolina Hurricanes]] in five games and in the Stanley Cup semifinals, a rematch of the [[2020 Stanley Cup playoffs#Eatern Conference final|previous year's]] Eastern Conference final, they defeated the [[New York Islanders]] in seven games.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-carolina-hurricanes-game-5-recap/c-325053346|title=Lightning eliminate Hurricanes in Game 5 of Stanley Cup Second Round|last=Dusterberg|first=Kurt|publisher=NHL Enterprises, L. P.|date=June 8, 2021|website=NHL.com|accessdate=June 8, 2021}}</ref>
+
+==Game summaries==
+:''Note: The numbers in parentheses represent each player's total goals or assists to that point of the entire playoffs.''
+
+===Game one===
+[[File:Nikita Kucherov 140103.png|thumb|right|upright=.8|[[Nikita Kucherov]] scored two goals and three points in game one.]]
+The Lightning took the lead early in the first period. With Tampa Bay defenseman [[Erik Černák|Erik Cernak]] joining the rush with [[Ondřej Palát|Ondrej Palat]], Palat passed to an open Cernak who fired a wrist shot past [[Carey Price]] resulting in a 1–0 lead for Tampa Bay. In the second period, the Lightning grabbed a 2–0 lead when [[Blake Coleman]]'s shot through traffic deflected off of [[Yanni Gourde]] and into the net. The Canadiens then halved the Lightning's lead as their offensive-zone coverage swept Tampa Bay's end setting up [[Ben Chiarot]] for a one-timer and Montreal's first goal of the game. The Lightning regained their two-goal lead in the third period when [[Nikita Kucherov]]'s shot across the net got swatted by Chiarot and into his own net. After [[Brayden Point]] won a faceoff, the puck was picked up by Kucherov who fired a wrist shot past Price to gain a 4–1 lead. Towards the end of the third period and with frustrations boiling over for Montreal, [[Joel Edmundson]] took a roughing penalty with 2:40 left in the period. On the ensuing power-play, Kucherov passed to captain [[Steven Stamkos]] whose shot got past Price for a 5–1 lead, sealing the victory for the Lightning. The goal ended Montreal's penalty-killing streak at 32.<ref>{{cite web|url=https://www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-1-recap/c-325483436|title=Kucherov, Lightning top Canadiens in Game 1 of Stanley Cup Final|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=June 28, 2021|website=NHL.com|accessdate=June 28, 2021}}</ref>
+
+{{NHLPlayoffs
+|date1=June 28
+|team1=Tampa Bay Lightning
+|team2=Montreal Canadiens
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=1–5
+|won1=1
+|recap1=www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-1-recap/c-325483436
+}}
+{| class="wikitable" style="text-align:center; width:100%;"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+| TBL
+| [[Erik Černák|Erik Cernak]] (1)
+| [[Ondřej Palát|Ondrej Palat]] (7), [[Brayden Point]] (7)
+| 06:19
+| 1–0 TBL
+|-
+| rowspan="2"|'''2nd'''
+| TBL
+| [[Yanni Gourde]] (6)
+| [[Blake Coleman]] (7), [[Barclay Goodrow]] (2)
+| 05:47
+| 2–0 TBL
+|-
+| MTL
+| [[Ben Chiarot]] (3)
+| [[Jesperi Kotkaniemi]] (3), [[Shea Weber]] (4)
+| 17:40
+| 2–1 TBL
+|-
+| rowspan="3"|'''3rd'''
+| TBL
+| [[Nikita Kucherov]] (6)
+| [[Mikhail Sergachev]] (3)
+| 02:00
+| 3–1 TBL
+|-
+| TBL
+| Nikita Kucherov (7)
+| Brayden Point (8)
+| 11:25
+| 4–1 TBL
+|-
+| TBL
+| [[Steven Stamkos]] (8) – ''pp''
+| Nikita Kucherov (23), Brayden Point (9)
+| 18:50
+| 5–1 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="2"|'''1st'''
+| TBL
+| Barclay Goodrow
+| Cross checking
+| 15:21
+| 2:00
+|-
+| MTL
+| Ben Chiarot
+| Roughing
+| 19:14
+| 2:00
+|-
+|'''2nd'''
+|colspan="5"|''None''
+|-
+| rowspan="5"|'''3rd'''
+| TBL
+| Erik Cernak
+| Roughing
+| 06:30
+| 2:00
+|-
+| MTL
+| [[Eric Staal]]
+| Roughing
+| 06:30
+| 2:00
+|-
+| TBL
+| Blake Coleman
+| Roughing
+| 13:42
+| 2:00
+|-
+| MTL
+| Jesperi Kotkaniemi
+| High-sticking
+| 15:51
+| 2:00
+|-
+| MTL
+| [[Joel Edmundson]]
+| Roughing
+| 17:20
+| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|MTL}} || 5 || 9 || 5 || 19
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 7 || 12 || 8 || 27
+|}
+
+===Game two===
+[[File:Ondrej Palat - Tampa Bay Lightning.jpg|thumb|right|upright=.8|[[Ondřej Palát|Ondrej Palat]]'s goal helped to secure Tampa Bay's win in game two.]]
+In game two, the Canadiens poured off more shots than in the first game. The first period saw Montreal make thirteen shots compared to Tampa Bay's six. However, neither team was able to score in the opening frame. In the second period, Montreal had more than double the shots of Tampa Bay, yet the Lightning ended up with two goals in contrast to the Canadiens' one. The first Lightning goal came from [[Anthony Cirelli]], whose point shot pinballed in off of [[Carey Price]]'s blocker and into the net. After Lightning defenceman [[Mikhail Sergachev]] committed an interference penalty on [[Artturi Lehkonen]], Montreal tied the score on a power-play when [[Nick Suzuki]] floated a backhand shot through traffic and under [[Andrei Vasilevskiy]]'s pads. With 1.1 seconds left in the second period, Tampa Bay forward [[Barclay Goodrow]] got past [[Ben Chiarot]] forcing a two-on-one with [[Blake Coleman]]. Goodrow passed it to Coleman who shot it past Price for the buzzer-beater. In the third period, Montreal continued to pressure the Lightning and Vasilevskiy, however, after a dump-in by Tampa Bay ended up in the Canadiens' zone, an errant pass off the boards by [[Joel Edmundson]] gave the puck away to [[Ondřej Palát|Ondrej Palat]], scoring the goal that made it 3–1. At the end of the game, both [[Corey Perry]] and Cirelli each received misconducts after an altercation.<ref>{{cite web|url=https://www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-2-recap/c-325482492|title=Lightning defeat Canadiens in Game 2 of Stanley Cup Final, extend lead|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=June 30, 2021|website=NHL.com|accessdate=June 30, 2021}}</ref>
+
+{{NHLPlayoffs
+|date1=June 30
+|team1=Tampa Bay Lightning
+|team2=Montreal Canadiens
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=1–3
+|won1=1
+|recap1=www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-2-recap/c-325482492
+}}
+{| class="wikitable" style="text-align:center; width:100%;"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+| colspan="5" | ''None''
+|-
+| rowspan="3"|'''2nd'''
+| TBL
+| [[Anthony Cirelli]] (5)
+| [[Tyler Johnson (ice hockey)|Tyler Johnson]] (2), [[Jan Rutta]] (1)
+| 06:40
+| 1–0 TBL
+|-
+| MTL
+| [[Nick Suzuki]] (6) – ''pp''
+| ''Unassisted''
+| 10:36
+| 1–1
+|-
+| TBL
+| [[Blake Coleman]] (2)
+| [[Barclay Goodrow]] (3), [[Ryan McDonagh]] (6)
+| 19:58
+| 2–1 TBL
+|-
+| rowspan="1"|'''3rd'''
+| TBL
+| [[Ondřej Palát|Ondrej Palat]] (5)
+| ''Unassisted''
+| 15:42
+| 3–1 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="5"|'''1st'''
+| MTL
+| [[Jeff Petry]]
+| Tripping
+| 05:29
+| 2:00
+|-
+| MTL
+| [[Paul Byron]]
+| Slashing
+| 09:57
+| 2:00
+|-
+| MTL
+| Paul Byron
+| Slashing
+| 17:27
+| 2:00
+|-
+| TBL
+| [[Erik Černák|Erik Cernak]]
+| Cross checking
+| 17:27
+| 2:00
+|-
+| TBL
+| Ryan McDonagh
+| High-sticking – double minor
+| 17:32
+| 4:00
+|-
+| rowspan="2"|'''2nd'''
+| TBL
+| [[Mikhail Sergachev]]
+| Interference
+| 10:03
+| 2:00
+|-
+| MTL
+| [[Joel Armia]]
+| High-sticking
+| 16:38
+| 2:00
+|-
+| rowspan="4"|'''3rd'''
+| TBL
+| Anthony Cirelli
+| Cross checking
+| 20:00
+| 2:00
+|-
+| TBL
+| Anthony Cirelli
+| Misconduct
+| 20:00
+| 10:00
+|-
+| MTL
+| [[Corey Perry]]
+| Roughing
+| 20:00
+| 2:00
+|-
+| MTL
+| Corey Perry
+| Misconduct
+| 20:00
+| 10:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|MTL}} || 13 || 16 || 14 || 43
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 6 || 7 || 10 || 23
+|}
+
+===Game three===
+[[File:Tyler Johnson Lightning.jpg|thumb|right|upright=.8|[[Tyler Johnson (ice hockey)|Tyler Johnson]] scored two goals, including the game-winning goal, in game three.]]
+In the first four minutes of the first period, the Lightning grabbed a 2–0 lead. The first goal came from a point shot through traffic by [[Jan Rutta]]. After [[Eric Staal]] shot the puck over the glass causing a power-play for Tampa Bay, [[Victor Hedman]] scored the second goal when his point shot bounced off of [[Carey Price]] and into the net. The Canadiens were able to score a goal within their seventeen shots as a two-on-one with captain [[Shea Weber]] and [[Phillip Danault]] allowed the latter's wrist shot to rip off both posts and past [[Andrei Vasilevskiy]]. In the second period, the Lightning followed the same momentum from the first period with another two goals in the first four minutes. When an errant change by Montreal created an opening for [[Ondřej Palát|Ondrej Palat]] and [[Nikita Kucherov]], Kucherov fired the puck past Price. At 3:33, the Lightning began another two-on-one rush during which [[Mathieu Joseph]]'s shot rebounded to [[Tyler Johnson (ice hockey)|Tyler Johnson]] who scored to give Tampa Bay a 4–1 lead. However, just like the first period, Montreal scored which brought their deficit to two. [[Nick Suzuki]], who drove down the right side of Tampa Bay's defensive zone, shot the puck under Vasilevskiy's pads. In the third period, the Lightning mainly held a defensive strategy. In the final five minutes, the Lightning gained a three-goal lead again when defenceman [[Erik Gustafsson (ice hockey, born 1992)|Erik Gustafsson]] gave the puck away to Johnson and he scored his second goal of the game. The Canadiens quickly rebounded after pulling their goalie and [[Corey Perry]] scored top-shelf over Vasilevskiy. However, with the empty net, the Lightning took advantage as [[Blake Coleman]] backhanded the puck into the net and the game ended 6–3.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-montreal-canadiens-game-3-recap/c-325482494|title=Lightning on cusp of Stanley Cup, defeat Canadiens in Game 3 of Final|last=Farrell|first=Sean|publisher=NHL Enterprises, L. P.|date=July 2, 2021|website=NHL.com|accessdate=July 2, 2021}}</ref>
+
+{{NHLPlayoffs
+|date1=July 2
+|team1=Montreal Canadiens
+|team2=Tampa Bay Lightning
+|homeright=yes
+|stadium1=[[Bell Centre]]
+|score1=6–3
+|won1=2
+|recap1=www.nhl.com/news/tampa-bay-lightning-montreal-canadiens-game-3-recap/c-325482494
+}}
+{| class="wikitable" style="text-align:center; width:100%;"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="3"|'''1st'''
+| TBL
+| [[Jan Rutta]] (2)
+| [[Ondřej Palát|Ondrej Palat]] (7), [[Victor Hedman]] (16)
+| 01:52
+| 1–0 TBL
+|-
+| TBL
+| Victor Hedman (2) – ''pp''
+| [[Nikita Kucherov]] (24), [[Anthony Cirelli]] (7)
+| 03:27
+| 2–0 TBL
+|-
+| MTL
+| [[Phillip Danault]] (1)
+| [[Shea Weber]] (5)
+| 11:16
+| 2–1 TBL
+|-
+| rowspan="3"|'''2nd'''
+| TBL
+| Nikita Kucherov (8)
+| Ondrej Palat (8), [[Erik Černák|Erik Cernak]] (9)
+| 01:40
+| 3–1 TBL
+|-
+| TBL
+| [[Tyler Johnson (ice hockey)|Tyler Johnson]] (3)
+| [[Mathieu Joseph]] (1), [[David Savard]] (4)
+| 03:33
+| 4–1 TBL
+|-
+| MTL
+| [[Nick Suzuki]] (3)
+| [[Jeff Petry]] (6), [[Cole Caufield]] (6)
+| 18:04
+| 4–2 TBL
+|-
+| rowspan="3"|'''3rd'''
+| TBL
+| Tyler Johnson (7)
+| ''Unassisted''
+| 15:19
+| 5–2 TBL
+|-
+| MTL
+| [[Corey Perry]] (4)
+| [[Brendan Gallagher]] (4), [[Ben Chiarot]] (1)
+| 15:58
+| 5–3 TBL
+|-
+| TBL
+| [[Blake Coleman]] (7) – ''en''
+| [[Barclay Goodrow]] (4)
+| 16:48
+| 6–3 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="2"|'''1st'''
+| MTL
+| [[Eric Staal]]
+| Delay of game (puck over glass)
+| 02:54
+| 2:00
+|-
+| TBL
+| [[Mikhail Sergachev]]
+| Interference
+| 17:29
+| 2:00
+|-
+|'''2nd'''
+|colspan="5"|''None''
+|-
+|'''3rd'''
+|colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 12 || 9 || 9 || 30
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|MTL}} || 17 || 8 || 10 || 35
+|}
+
+===Game four===
+[[File:Josh Anderson hockey.jpg|thumb|right|upright=.8|[[Josh Anderson (ice hockey)|Josh Anderson]], shown with Lake Erie, scored twice in game four, including the overtime-winning goal.]]
+In the first period, the Canadiens scored first, taking their first lead in the series, as [[Nick Suzuki]] made a pretty passing play to [[Josh Anderson (ice hockey)|Josh Anderson]] who fired it past [[Andrei Vasilevskiy]]. The Lightning were able to continue pressuring the Canadiens into the second period. This pressure led to a backhand pass by [[Ryan McDonagh]] to [[Barclay Goodrow]] as he fired the puck into an open net. In the third period, [[Alexander Romanov (ice hockey, born 2000)|Alexander Romanov]] fired a wrist shot from the blue line, scoring to make it 2–1 for Montreal. The Lightning tied it five minutes later when [[Mathieu Joseph]] sprung a two-on-one with [[Patrick Maroon]] and the latter scored, ending his goal-scoring drought. With the game tied 2–2 after the third period, both teams headed to overtime. In overtime, the Canadiens killed a double-minor penalty caused by [[Shea Weber]] and less than a minute later, Anderson put the puck past Vasilevskiy, preventing the first four-game sweep in the Final since {{scfy|1998}}, and winning the game 3–2.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-montreal-canadiens-game-4-recap/c-325483076|title=Canadiens defeat Lightning in OT in Game 4 of Cup Final, extend series|last=Farrell|first=Sean|publisher=NHL Enterprises, L. P.|date=July 5, 2021|website=NHL.com|accessdate=July 5, 2021}}</ref>
+
+{{NHLPlayoffs
+|date1=July 5
+|team1=Montreal Canadiens
+|team2=Tampa Bay Lightning
+|homeright=yes
+|stadium1=[[Bell Centre]]
+|score1=2–3
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-montreal-canadiens-game-4-recap/c-325483076
+}}
+{| class="wikitable" style="text-align:center; width:100%;"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+| MTL
+| [[Josh Anderson (ice hockey)|Josh Anderson]] (4)
+| [[Nick Suzuki]] (9), [[Cole Caufield]] (7)
+| 15:39
+| 1–0 MTL
+|-
+| rowspan="1"|'''2nd'''
+| TBL
+| [[Barclay Goodrow]] (2)
+| [[Ryan McDonagh]] (7), [[Blake Coleman]] (8)
+| 17:20
+| 1–1
+|-
+| rowspan="2"|'''3rd'''
+| MTL
+| [[Alexander Romanov (ice hockey, born 2000)|Alexander Romanov]] (1)
+| [[Jake Evans (ice hockey)|Jake Evans]] (1)
+| 08:48
+| 2–1 MTL
+|-
+| TBL
+| [[Patrick Maroon]] (2)
+| [[Mathieu Joseph]] (2), [[Tyler Johnson (ice hockey)|Tyler Johnson]] (3)
+| 13:48
+| 2–2
+|-
+| rowspan="1"|'''OT'''
+| MTL
+| Josh Anderson (5)
+| Cole Caufield (8)
+| 03:57
+| 3–2 MTL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="5"|'''1st'''
+| MTL
+| Jake Evans
+| Interference
+| 16:33
+| 2:00
+|-
+| TBL
+| [[Brayden Point]]
+| Roughing
+| 16:33
+| 2:00
+|-
+| MTL
+| [[Joel Edmundson]]
+| Slashing
+| 17:59
+| 2:00
+|-
+| TBL
+| Patrick Maroon
+| Unsportsmanlike conduct
+| 20:00
+| 2:00
+|-
+| MTL
+| Joel Edmundson
+| Unsportsmanlike conduct
+| 20:00
+| 2:00
+|-
+| rowspan="3"|'''2nd'''
+| TBL
+| Brayden Point
+| High-sticking
+| 05:50
+| 2:00
+|-
+| MTL
+| [[Corey Perry]]
+| Hooking
+| 09:43
+| 2:00
+|-
+| MTL
+| [[Joel Armia]]
+| Tripping
+| 14:28
+| 2:00
+|-
+| rowspan="7"|'''3rd'''
+| MTL
+| [[Jeff Petry]]
+| Roughing
+| 07:42
+| 2:00
+|-
+| MTL
+| [[Ben Chiarot]]
+| Roughing
+| 07:42
+| 2:00
+|-
+| MTL
+| Josh Anderson
+| Roughing
+| 07:42
+| 2:00
+|-
+| TBL
+| Barclay Goodrow
+| Roughing
+| 07:42
+| 2:00
+|-
+| TBL
+| Blake Coleman
+| Roughing
+| 07:42
+| 2:00
+|-
+| TBL
+| [[Yanni Gourde]]
+| Roughing
+| 07:42
+| 2:00
+|-
+| MTL
+| [[Shea Weber]]
+| High-sticking – double minor
+| 18:59
+| 4:00
+|-
+|'''OT'''
+|colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 12 || 8 || 10 || 4 || 34
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|MTL}} || 5 || 9 || 5 || 2 || 21
+|}
+
+===Game five===
+[[File:Andrei Vasilevskiy - Tampa Bay Lightning.jpg|thumb| 
+right|upright=.8|[[Andrei Vasilevskiy]] recorded his fifth-straight shutout in a series-clinching game in game five.]]
+Tampa Bay dominated during the first period of game five, recording thirteen shots on target to the Canadiens' four, but neither team scored. The second period had the opposite trend, with the Canadiens getting ten shots compared to the Lightning's six shots. Nevertheless, it was Tampa Bay who scored the opening goal, when [[Ryan McDonagh]] set up a [[David Savard]] shot that was tipped in by [[Ross Colton]]. It would prove to be the only goal of the contest. Tampa Bay held onto their one-goal lead throughout the third period, with [[Andrei Vasilevskiy]] recording a shutout. The 1–0 victory won the series for Tampa Bay and their second consecutive Stanley Cup.<ref>{{cite web|url=https://www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-5-recap/c-325483294|title=Lightning repeat as Stanley Cup champions, defeat Canadiens in Game 5|last=Long|first=Corey|publisher=NHL Enterprises, L. P.|date=July 7, 2021|website=NHL.com|accessdate=July 7, 2021}}</ref>
+
+Vasilevskiy was awarded the [[Conn Smythe Trophy]] as [[most valuable player]] during the playoffs. With their victory, the Lightning became the first team since the [[1982–83 New York Islanders season|1983 New York Islanders]] to win the Stanley Cup without winning an overtime game during the playoffs. [[Patrick Maroon]] won the Stanley Cup in three consecutive seasons, a feat which hadn't occurred since multiple members of the [[1982–83 New York Islanders season|1983 New York Islanders]] accomplished it.<ref>{{cite web|url=https://www.sportsnet.ca/nhl/article/forged-disappointment-lightning-ride-every-storm-win-stanley-cup/|title=Forged by disappointment, Lightning ride out every storm to win Stanley Cup|last=Johnston|first=Chris|publisher=Rogers Media|date=July 7, 2021|website=Sportsnet.ca|accessdate=July 7, 2021}}</ref> Maroon was the first player since [[Ed Litzenberger]] in [[1963 Stanley Cup Final|1963]] to win the Stanley Cup in three consecutive years with two different teams.<ref>{{cite web|url=https://www.nhl.com/news/pat-maroon-wins-third-straight-stanley-cup-title-with-lightning-blues/c-325597362|title=Maroon wins third straight Stanley Cup title with Lightning, Blues|last=Satriano|first=David|publisher=NHL Enterprises, L. P.|date=July 7, 2021|website=NHl.com|accessdate=July 7, 2021}}</ref>
+
+{{NHLPlayoffs
+|date1=July 7
+|team1=Tampa Bay Lightning
+|team2=Montreal Canadiens
+|homeright=yes
+|stadium1=[[Amalie Arena]]
+|score1=0–1
+|won1=1
+|recap1=www.nhl.com/news/montreal-canadiens-tampa-bay-lightning-game-5-recap/c-325483294
+}}
+{| class="wikitable" style="text-align:center; width:100%;"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| rowspan="1"|'''1st'''
+| colspan="5" | ''None''
+|-
+| rowspan="1"|'''2nd'''
+| TBL
+| [[Ross Colton]] (4)
+| [[David Savard]] (5), [[Ryan McDonagh]] (8)
+| 13:27
+| 1–0 TBL
+|-
+| rowspan="1"|'''3rd'''
+| colspan="5" | ''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|-
+| rowspan="5"|'''1st'''
+| MTL
+| [[Corey Perry]]
+| Hooking
+| 03:21
+| 2:00
+|-
+| TBL
+| [[Jan Rutta]]
+| Cross-checking
+| 07:19
+| 2:00
+|-
+| MTL
+| Corey Perry
+| Embellishment
+| 08:15
+| 2:00
+|-
+| TBL
+| [[Erik Černák|Erik Cernak]]
+| Interference
+| 08:15
+| 2:00
+|-
+| MTL
+| [[Josh Anderson (ice hockey)|Josh Anderson]]
+| Hooking
+| 08:43
+| 2:00
+|-
+| rowspan="3"|'''2nd'''
+| TBL
+| David Savard
+| Delay of game (puck over glass)
+| 00:21
+| 2:00
+|-
+| TBL
+| [[Mikhail Sergachev]]
+| Tripping
+| 08:32
+| 2:00
+|-
+| MTL
+| [[Ben Chiarot]]
+| Holding
+| 19:22
+| 2:00
+|-
+|'''3rd'''
+|colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|MTL}} || 4 || 10 || 8 || 22
+|- style="text-align:center;"
+| style="text-align:left;"|{{nowrap|TBL}} || 13 || 6 || 11 || 30
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Montreal Canadiens===
+[[File:Shea Weber 2-6-2010.jpg|right|thumb|250px|[[Shea Weber]] (pictured with Nashville) captained the Canadiens to their thirty-fifth Final appearance in franchise history and first since [[1993 Stanley Cup Final|1993]].]]
+
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|Allen|dab=ice hockey}}
+| G
+| L
+| {{hs|30-057}}30
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Fredericton|Fredericton, New Brunswick]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Josh|Anderson|dab=ice hockey}}
+| RW
+| R
+| {{hs|27–004}}27
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Burlington, Ontario]]
+| first
+|-
+| '''40'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Armia}}
+| RW
+| R
+| {{hs|28–004}}29
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Pori|Pori, Finland]]
+| first
+|-
+| '''60'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Belzile}}
+| RW
+| R
+| {{hs|29–004}}29
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Saint-Éloi, Quebec]]
+| first
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Byron}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|32–004}}32
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Cole|Caufield}}
+| RW
+| R
+| {{hs|20–004}}20
+| [[2019 NHL Entry Draft|2019]]
+| style="text-align:left;"|[[Mosinee, Wisconsin]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Chiarot}}
+| D
+| L
+| {{hs|31–004}}31
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Phillip|Danault}}
+| C
+| L
+| {{hs|28–004}}28
+| [[2015–16 NHL season|2016]]
+| style="text-align:left;"|[[Victoriaville|Victoriaville, Quebec]]
+| first
+|-
+| '''92'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Drouin}}
+| LW
+| L
+| {{hs|26–004}}26
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Sainte-Agathe-des-Monts|Sainte-Agathe-des-Monts, Quebec]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Edmundson}}
+| D
+| L
+| {{hs|27–004}}27
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|Evans|dab=ice hockey}}
+| C
+| R
+| {{hs|25–004}}25
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cale|Fleury}}
+| D
+| R
+| {{hs|22–004}}22
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Carlyle, Saskatchewan]]
+| first
+|-
+| '''67'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Frolik|Michael Frolík}}
+| RW
+| L
+| {{hs|33–004}}33
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Kladno|Kladno, Czechoslovakia]]
+| second {{small|('''[[2013 Stanley Cup Final|2013]]''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brendan|Gallagher}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| {{hs|29–004}}29
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''32'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Gustafsson|dab = ice hockey, born 1992}}
+| D
+| L
+| {{hs|29–004}}29
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Nynäshamn|Nynäshamn, Sweden]]
+| first
+|-
+| '''15'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jesperi|Kotkaniemi}}
+| C
+| L
+| {{hs|20–004}}20
+| [[2018 NHL Entry Draft|2018]]
+| style="text-align:left;"|[[Pori|Pori, Finland]]
+| first
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Kulak}}
+| D
+| L
+| {{hs|27–004}}27
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''62'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Artturi|Lehkonen}}
+| LW
+| L
+| {{hs|25–004}}25
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Piikkiö|Piikkiö, Finland]]
+| first
+|-
+| '''39'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Lindgren}}
+| G
+| R
+| {{hs|27–004}}27
+| [[2015–16 NHL season|2016]]
+| style="text-align:left;"|[[Lakeville, Minnesota]]
+| first
+|-
+| '''70'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|McNiven}}
+| G
+| L
+| {{hs|23–004}}23
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Merrill|dab=ice hockey}}
+| D
+| L
+| {{hs|29–004}}29
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Oklahoma City|Oklahoma City, Oklahoma]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}
+|-
+| '''61'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Xavier|Ouellet}}
+| D
+| L
+| {{hs|27–004}}27
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Bayonne|Bayonne, France]]
+| first
+|-
+| '''94'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Perry}}
+| RW
+| R
+| {{hs|36–004}}36
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[New Liskeard, Ontario]]
+| third {{small|('''[[2007 Stanley Cup Final|2007]]''', [[2020 Stanley Cup Final|2020]])}}
+|-
+| '''26'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Petry}}
+| D
+| R
+| {{hs|33–004}}33
+| [[2014–15 NHL season|2015]]
+| style="text-align:left;"|[[Ann Arbor, Michigan]]
+| first
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carey|Price}}
+| G
+| L
+| {{hs|33–004}}33
+| [[2005 NHL Entry Draft|2005]]
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first
+|-
+| '''30'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Cayden|Primeau}}
+| G
+| L
+| {{hs|21–004}}21
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Farmington Hills, Michigan]]
+| first
+|-
+| '''27'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Romanov|dab=ice hockey, born 2000}}
+| D
+| L
+| {{hs|21–004}}21
+| [[2018 NHL Entry Draft|2018]]
+| style="text-align:left;"|[[Moscow|Moscow, Russia]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Staal}}
+| C
+| L
+| {{hs|35–004}}36
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Thunder Bay|Thunder Bay, Ontario]]
+| second {{small|('''[[2006 Stanley Cup Final|2006]]''')}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Suzuki}}
+| C
+| R
+| {{hs|21–004}}21
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|- 
+| '''90'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Tatar|Tomáš Tatar}}
+| LW
+| L
+| {{hs|30–004}}30
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Ilava|Ilava, Czechoslovakia]]
+| second {{small|([[2018 Stanley Cup Final|2018]])}}
+|-
+| '''73'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Toffoli}}
+| RW
+| R
+| {{hs|29–004}}29
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| second {{small|('''[[2014 Stanley Cup Final|2014]]''')}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shea|Weber}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| R
+| {{hs|35–004}}35
+| [[2016–17 NHL season|2016]]
+| style="text-align:left;"|[[Sicamous|Sicamous, British Columbia]]
+| first
+|}
+
+===Tampa Bay Lightning===
+[[File:Steve Stamkos - Tampa Bay Lightning.jpg|right|thumb|250px|[[Steven Stamkos]] captained the Lightning to their second-straight Final appearance and fourth overall in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''60'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Barre-Boulet|Alex Barré-Boulet}}
+| C
+| L
+| {{hs|24–110}}24
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Montmagny, Quebec]]
+| first
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Andreas|Borgman}}
+| D
+| L
+| {{hs|26–110}}26
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''81'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Cernak|Erik Černák}}
+| D
+| L
+| {{hs|24–110}}24
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[Košice|Košice, Slovakia]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Cirelli}}
+| C
+| L
+| {{hs|23–064}}23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Woodbridge, Ontario]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''3'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Fredrik|Claesson}}
+| D
+| L
+| {{hs|28–203}}28
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Blake|Coleman}}
+| C
+| L
+| {{hs|29–297}}29
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Plano, Texas]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''79'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ross|Colton}}
+| C
+| L
+| {{hs|24–203}}24
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Robbinsville Township, New Jersey|Robbinsville, New Jersey]]
+| first
+|-
+| '''52'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Callan|Foote}}
+| D
+| R
+| {{hs|22–203}}22
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Englewood, Colorado]]
+| first
+|-
+| '''33'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Christopher|Gibson}}
+| G
+| L
+| {{hs|28–203}}28
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Karkkila|Karkkila, Finland]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Barclay|Goodrow}}
+| C/RW
+| L
+| {{hs|28–202}}28
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| third {{small|([[2016 Stanley Cup Final|2016]], '''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Yanni|Gourde}}
+| C
+| L
+| {{hs|29–280}}29
+| [[2013–14 NHL season|2014]]
+| style="text-align:left;"|[[Saint-Narcisse-de-Beaurivage, Quebec|Saint-Narcisse, Quebec]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''77'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Victor|Hedman}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|30–275}}30
+| [[2009 NHL Entry Draft|2009]]
+| style="text-align:left;"|[[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Johnson|dab=ice hockey}}
+| C
+| R
+| {{hs|30–049}}30
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"|[[Spokane, Washington]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''7'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;"|[[Mathieu Joseph]]
+| RW
+| L
+| 24
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Chambly, Quebec]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"| {{sortname|Boris|Katchouk}}
+| LW
+| L
+| {{hs|23–004}}23
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Waterloo, Ontario]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Killorn}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C/LW
+| L
+| {{hs|31–004}}31
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''86'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Nikita|Kucherov}}
+| RW
+| L
+| {{hs|28–092}}28
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Maykop|Maykop, Russia]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Maroon}}
+| LW
+| L
+| {{hs|32–146}}32
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[St. Louis|St. Louis, Missouri]]
+| third {{small|('''[[2019 Stanley Cup Final|2019]]'''}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Spencer|Martin|dab=ice hockey}}
+| G
+| R
+| {{hs|26–046}}26
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Oakville, Ontario]]
+| first
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|McDonagh}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|32–096}}32
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| third {{small|([[2014 Stanley Cup Final|2014]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Curtis|McElhinney}}
+| G
+| L
+| {{hs|38–116}}38
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[London, Ontario]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''18'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Ondrej|Palat|Ondřej Palát}}
+| LW
+| L
+| {{hs|30–175}}30
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Frýdek-Místek|Frýdek-Místek, Czechoslovakia]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|Point}}
+| C
+| R
+| {{hs|25–187}}25
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Taylor|Raddysh}}
+| RW
+| R
+| {{hs|23–046}}23
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Caledon, Ontario]]
+| first
+|-
+| '''44'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jan|Rutta}}
+| D
+| R
+| {{hs|30–049}}30
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Písek|Písek, Czechoslovakia]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''58'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|David|Savard}}
+| D
+| R
+| {{hs|30–046}}30
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Saint-Hyacinthe|Saint-Hyacinthe, Quebec]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Luke|Schenn}}
+| D
+| R
+| {{hs|31–046}}31
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''98'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Mikhail|Sergachev}}
+| D
+| L
+| {{hs|22–084}}22
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Nizhnekamsk|Nizhmekamsk, Russia]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''46'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gemel|Smith}}
+| C
+| L
+| {{hs|27–046}}27
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Stamkos}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{hs|31–223}}31
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''67'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mitchell|Stephens|dab=ice hockey}}
+| C
+| R
+| {{hs|24–226}}24
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| second {{small|('''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''56'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Thomas|dab=ice hockey}}
+| D
+| R
+| {{hs|25–226}}25
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''88'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Andrei|Vasilevskiy}}
+| G
+| L
+| {{hs|26–054}}26
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Tyumen|Tyumen, Russia]]
+| third {{small|([[2015 Stanley Cup Final|2015]]}}, {{small|'''[[2020 Stanley Cup Final|2020]]''')}}
+|-
+| '''85'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Daniel|Walcott}}
+| LW
+| L
+| {{hs|27–034}}27
+| [[2015-16 NHL season|2015]]
+| style="text-align:left;"|[[L'Île-Perrot, Quebec]]
+| first
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Lightning captain Steven Stamkos by [[NHL commissioner]] [[Gary Bettman]] following the Lightning's 1–0 win in Game 5.
+
+The following Lightning players and staff qualified to have their names engraved on the Stanley Cup:
+
+'''2020–21 Tampa Bay Lightning'''
+{{Stanley Cup champion
+|defence=
+*2 [[Luke Schenn]]
+*27 [[Ryan McDonagh]] (A)
+*44 [[Jan Rutta]]
+*52 [[Callan Foote|Cal Foote]] †
+*58 [[David Savard]]
+*77 [[Victor Hedman]] (A)
+*81 [[Erik Černák|Erik Cernak]]
+*98 [[Mikhail Sergachev]]
+|wingers=
+* 7 [[Mathieu Joseph]]
+*14 [[Patrick Maroon|Pat Maroon]]
+*18 [[Ondřej Palát|Ondrej Palat]]
+*86 [[Nikita Kucherov]]
+|centres=
+*9 [[Tyler Johnson (ice hockey)|Tyler Johnson]]
+*17 [[Alex Killorn]]* (A)
+*19 [[Barclay Goodrow]]*
+*20 [[Blake Coleman]]*
+*21 [[Brayden Point]]
+*37 [[Yanni Gourde]]
+*71 [[Anthony Cirelli]]*
+*79 [[Ross Colton]]
+*91 [[Steven Stamkos]]* (Captain)
+|goaltenders=
+*35 [[Curtis McElhinney]]
+*88 [[Andrei Vasilevskiy]]
+|player-notes=
+* * Played both wing and centre and wing.
+* † Automatically qualified for engraving despite shortened season,{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}} but did not play or dress in the Final.
+|non-players=
+* [[Jeffrey Vinik]] (Chairman/Owner/Governor), Penny Vinik (Co-Owner),[[Steve Griggs]] (Chief Executive Officer/Alt. Governor), [[Julien BriseBois]] (Vice President/General Manager/Alt. Governor), 
+* Allen Murray (Asst General Manager-Director of Amateur Scouting), [[Jamie Pushor]] (Asst. General Manager-Director of Player Personnel), [[Stacy Roest]] (Asst. General Manager-Director of Player Development), [[Mathieu Darche]] (Director of Hockey Operations), 
+* [[Jon Cooper (ice hockey)|Jon Cooper]] (Head Coach), [[Jeff Halpern]] (Asst. Coach), [[Derek Lalonde]] (Asst. Coach), [[Rob Zettler]] (Asst. Coach),
+* Frantz Jean (Goaltending Coach), Brian Garlock (Video Coordinator), Nigel Kirwan (Video Coach)‡, Ryan Hamilton (Mental Performance Coach)
+* [[Jean-Philippe Côté|Jean-Philippe "J.P." Cote]] (Director of Player Development), Mark Lambert (Director of High Performance/Strength Coach), Tom Mulligan (Athletic Trainer)‡
+* Michael Poirier (Asst. Athletic Trainer), Ray Thill (Equipment Manager)‡, Rob Kennedy (Asst. Equipment Manager), Jason Berger (Asst. Equipment Manager), 
+* Christian Rivas (Massage Therapist), Brandon Rodgers (Physical Therapist, Asst. Strength & Conditioning Coach), Ryan Belec (Sr. Director of Team Services)‡
+* Liz Sylvia Kokoharsky (Director of Hockey Administration), Michael Peterson (Director of Hockey Analytics), Ben Morgan (Video Analysis/player Analytics)
+* ‡ Name engraved on the Stanley Cup with Tampa Bay in {{scfy|2004}}, {{scfy|2020}}, and 2021.}}
+===Engraving notes===
+* #52 [[Callan Foote|Cal Foote]] (D) played in 35 regular season games, but did not play in the playoffs (he was a healthy scratch). Due to the shortened season, he played in at least half of the regular season games and automatically qualified to have his name engraved, despite playing in fewer games than what would usually be required.{{efn|name=qualify}}
+* Penny Vinik (Co-Owner), Ryan Hamilton (Mental Performance Coach), [[Jean-Philippe Côté|Jean-Philippe "J.P." Cote]] (Director of Player Development), and Ben Morgan (Video Analysis/player Analytics) were left off the Stanley Cup engraving for the {{scfy|2020}} title, but included on the 2021 title engraving.
+* Nigel Kirwan (Video Coach), Tom Mulligan (Athletic Trainer), Ray Thill (Equipment Manager), and Ryan Belec (Sr. Director of Team Services) had their names engraved on the Stanley Cup with Tampa Bay in {{scfy|2004}}, {{scfy|2020}}, and 2021.
+* [[Patrick Maroon|Pat Maroon]] won his third consecutive Stanley Cup, after winning in [[2019 Stanley Cup Final|2019]] with [[St. Louis Blues|St. Louis]] and [[2020 Stanley Cup Final|2020]] with Tampa Bay. He is the first player to do so since multiple members of the [[New York Islanders]] accomplished the feat in [[1982 Stanley Cup Final|1982]] and [[1983 Stanley Cup Final|1983]]. He was also the first player since 1963 to win three cups in a row with two different teams, previously accomplished by [[Ed Litzenberger]] with [[Chicago Blackhawks|Chicago]] in [[1961 Stanley Cup Final|1961]] and [[Toronto Maple Leafs|Toronto]] in [[1962 Stanley Cup Final|1962]] and [[1963 Stanley Cup Final|1963]].
+* Assistant General Manager Al Murray was engraved as A.L. Murray, after having been engraved as Allen Murray the previous year.
+
+===Player notes===
+* Eleven players were on the roster during the playoffs, but left off the Stanley Cup engraving due to not qualifying. None appeared in the playoffs. Tampa Bay did not request an exemption to engrave their names. They received championship rings.<ref>[https://www.nhl.com/scores/htmlreports/20202021/RO030415.HTM Playing Roster]</ref>
+** #60 [[Alex Barré-Boulet|Alex Barre-Boulet]] (C) – 15 regular season games
+** #67 [[Mitchell Stephens (ice hockey)|Mitchell Stephens]] (C) – 7 regular season games, but missed 35 games and the entirety of the playoffs due to injury (name engraved on the Stanley Cup with Tampa Bay in {{scfy|2020}})
+** #5 [[Andreas Borgman]] (D) – 7 regular season games
+** #46 [[Gemel Smith]] (C) – 5 regular season games
+** #56 [[Ben Thomas (ice hockey)|Ben Thomas]] (D) – 5 regular season games
+** #3 [[Fredrik Claesson]] (D) – 2 regular season games with Tampa Bay, 4 with [[San Jose Sharks|San Jose]]
+** #33 [[Christopher Gibson]] (G) – 2 regular season games
+** #85 [[Daniel Walcott]] (LW) – 1 regular season game
+** #41 [[Boris Katchouk]] (LW) – 0 regular season games, 29 games with [[Syracuse Crunch|Syracuse]] of the [[American Hockey League]] (AHL)
+** #16 [[Taylor Raddysh]] (RW) – 0 regular season games, 27 games with Syracuse of the AHL
+** #30 [[Spencer Martin (ice hockey)|Spencer Martin]] (G) – 0 regular season games, 15 games with Syracuse of the AHL
+
+==Media rights==
+With the series running through the first week of July, no games were held on either [[Canada Day|Canada Day (July 1)]] or [[Independence Day (United States)|American Independence Day (July 4)]] to avoid scheduling conflicts.
+
+In Canada, this was the seventh consecutive Stanley Cup Final broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]], and [[TVA Sports]] in [[French language|French]].<ref>{{cite web|last=Rosen|first=Dan|title=NHL, Rogers announce landmark 12-year deal|url=https://www.nhl.com/news/nhl-rogers-announce-landmark-12-year-deal/c-693152|publisher=NHL Enterprises, L. P.|website=NHL.com|date=November 26, 2013|access-date=June 8, 2021}}</ref> The series was also streamed on Sportsnet Now and Rogers NHL Live.<ref name="SN PR">{{cite press release|url=https://media.sportsnet.ca/2021/06/le-retour-en-force-du-nord-montreal-canadiens-to-meet-xx-in-historic-stanley-cup-final-on-sportsnet/|title=Le retour en force du Nord: Montreal Canadiens to Meet Tampa Bay Lightning in Historic Stanley Cup Final on Sportsnet|website=Sportsnet.ca|publisher=Rogers Media|date=June 26, 2021|accessdate=June 26, 2021|archive-date=June 28, 2021|archive-url=https://web.archive.org/web/20210628105853/https://media.sportsnet.ca/2021/06/le-retour-en-force-du-nord-montreal-canadiens-to-meet-xx-in-historic-stanley-cup-final-on-sportsnet/|url-status=dead}}</ref>
+
+In the United States, this was the sixteenth consecutive and final Stanley Cup Final produced by [[NBC Sports]] under their ten-year contract for American television rights to the NHL. [[NHL on NBC|NBCSN]] aired the first two games, while [[NBC]] televised the rest of the series. When the series started, only the first two games were available on [[Peacock (streaming service)|Peacock]],<ref>{{Cite web|last=Gurwin|first=Jason|title=Peacock to Stream Select Games of 2021 Stanley Cup Final|url=https://thestreamable.com/news/peacock-to-stream-select-games-of-2021-stanley-cup-final|access-date=2021-10-11|website=The Streamable|language=en}}</ref> NBC's streaming service. However, on July 2, the day of game three, NBCUniversal announced that the remainder of the series would also be available on Peacock.<ref name="NBC PR">{{cite press release|url=https://nbcsportsgrouppressbox.com/2021/07/02/2021-stanley-cup-final-game-3-tampa-bay-lightning-vs-montreal-canadiens-tonight-at-8-p-m-et-on-nbc-and-peacock/ |title=2021 Stanley Cup Final Game 3 – Tampa Bay Lightning vs. Montreal Canadiens Tonight at 8 p.m. ET on NBC and Peacock|publisher=NBC Universal|date=July 2, 2021|accessdate=July 2, 2021}}</ref><ref>{{Cite web|title=PEACOCK TO STREAM ALL STANLEY CUP FINAL GAMES|url=https://www.nbcuniversal.com/press-release/peacock-stream-all-stanley-cup-final-games-0|access-date=2021-10-11|website=NBCUNIVERSAL MEDIA|language=en}}</ref> Under the new seven-year contracts that began the next season, coverage of the Stanley Cup Final will be rotated annually between [[NHL on ABC|ABC]] (which broadcast its first Stanley Cup Final since [[2004 Stanley Cup Final|2004]]) in even years, and [[NHL on TNT|TNT]] (which will broadcast the Stanley Cup Final for the first time ever in 2023; the first time the series will be aired entirely on cable television) in odd years.<ref>{{cite news|title=Turner Sports inks 7-year deal with NHL, will air 3 Stanley Cup finals|website=ESPN.com|publisher=ESPN Interactive|last=Wyshnyski|first=Greg|url=https://www.espn.com/nhl/story/_/id/31346196/turner-sports-inks-seven-year-deal-nhl-air-3-stanley-cup-finals|date=April 27, 2021|accessdate=June 8, 2021}}</ref>
+
+In Canada, [[Chris Cuthbert]] filled-in for [[Jim Hughson]] as Sportsnet lead play-by-play announcer after Hughson decided to not travel this season, and opted to only call national [[Vancouver Canucks]] home games due to [[COVID-19 pandemic]].<ref name="ProvinceJan15">{{Cite news|last=Johnston|first=Patrick|date=January 15, 2021|title=Canucks Notebook: Höglander keeps late sister in his heart, broadcasters stick close to home|url=https://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-notebook-hoglander-keeps-late-sister-in-his-heart-broadcasters-stick-close-to-home|access-date=January 21, 2021|newspaper=Theprovince|archive-date=January 15, 2021|archive-url=https://web.archive.org/web/20210115011011/https://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-notebook-hoglander-keeps-late-sister-in-his-heart-broadcasters-stick-close-to-home|url-status=live}}</ref> Hughson would later announce his retirement in September 2021.<ref>{{Cite web|title=Hall of Fame broadcaster Jim Hughson announces retirement|url=https://www.nytimes.com/athletic/4198599/2021/09/21/hall-of-fame-broadcaster-jim-hughson-announces-retirement/|work=The Athletic|date=September 21, 2021}}</ref>
+
+In the U.S., [[Kenny Albert]] replaced the retired [[Mike Emrick|Mike "Doc" Emrick]] as NBC lead play-by-play announcer, having previously filled in for Emrick in game one of the [[2014 Stanley Cup Final]] due to a death in the latter's family.<ref>{{Cite web|title=NEW YORK RANGERS FACE LOS ANGELES KINGS IN STANLEY CUP FINAL – GAME 1 WEDNESDAY AT 8 P.M. ET ON NBC|url=https://nbcsportsgrouppressbox.com/2014/06/02/new-york-rangers-face-los-angeles-kings-in-stanley-cup-final-game-1-wednesday-at-8-p-m-et-on-nbc/|date=June 2, 2014|access-date=July 2, 2021|website=NBCSportsGroupPressbox.com|publisher=NBC Universal}}</ref><ref>{{Cite web|first=Pete|last=Dougherty|date=2014-06-04|title=Albert to fill in for Emrick on Game 1 of Stanley Cup Final|url=https://blog.timesunion.com/sportsmedia/albert-to-fill-in-for-emrick-on-game-1-of-stanley-cup-final/14977/|access-date=July 2, 2021|publisher=Hearst}}</ref> NBC lead color commentator [[Eddie Olczyk]] missed game two due to a personal matter, so "Inside-the-Glass" reporter [[Brian Boucher]] moved to the booth with Albert, and [[Pierre McGuire]] took over for Boucher between the benches.<ref name="NBC Gm2">{{cite press release|url=https://nbcsportsgrouppressbox.com/2021/06/30/2021-stanley-cup-final-game-2-montreal-canadiens-vs-tampa-bay-lightning-tonight-at-8-p-m-et-on-nbcsn-and-peacock/|title=2021 Stanley Cup Final Game 2: Montreal Canadiens vs. Tampa Bay Lightning Tonight at 8 p.m. ET on NBCSN and Peacock|publisher=NBC Universal|date=June 30, 2021|accessdate=June 30, 2021}}</ref> McGuire also called Game 3 of this series since Boucher missed that game for the same reason.<ref>{{Cite web|title=2021 STANLEY CUP FINAL GAME 3 – TAMPA BAY LIGHTNING VS. MONTREAL CANADIENS TONIGHT AT 8 P.M. ET ON NBC AND PEACOCK|url=https://nbcsportsgrouppressbox.com/2021/07/02/2021-stanley-cup-final-game-3-tampa-bay-lightning-vs-montreal-canadiens-tonight-at-8-p-m-et-on-nbc-and-peacock/|date=July 2, 2021|access-date=July 30, 2021|website=NBC Sports Pressbox|language=en}}</ref> After the Final, Albert and Olczyk moved on to become [[NHL on TNT|TNT]]’s lead broadcast team (erstwhile NBC studio analyst [[Keith Jones (ice hockey)|Keith Jones]] was later added to join the pair),<ref>{{Cite web|title=The Great Move: Gretzky will be part of Turner's NHL studio|url=https://apnews.com/article/canada-hockey-nhl-arts-and-entertainment-sports-c3e34107b3e1398c896f1d66a021a37d|last=Reedy|first=Joe|date=May 26, 2021|access-date=July 2, 2021|publisher=The Associated Press}}</ref><ref>{{Cite web|title="The Great One" Wayne Gretzky, Kenny Albert & Eddie Olczyk Join the Turner Sports NHL Team|url=https://pressroom.warnermedia.com/us/media-release/great-one-wayne-gretzky-kenny-albert-eddie-olczyk-join-turner-sports-nhl-team?language_content_entity=en&fb|access-date=July 2, 2021|date=May 26, 2021|website=WarnerMedia.com|publisher=Warner Media, LLC}}</ref> while Boucher joined [[NHL on ESPN|ESPN]]/[[NHL on ABC|ABC]].<ref name=":222">{{Cite news|title=Dynamic, Diverse and Accomplished Team to Present ESPN's NHL Coverage to Fans|newspaper=Espn Press Room U.S.|publisher=ESPN Interactive|url=https://espnpressroom.com/us/?p=216400|last=Coryell|first=Grace|date=June 29, 2021|access-date=June 29, 2021}}</ref><ref>{{Cite web|title=ESPN adding Ray Ferraro, Brian Boucher as NHL analysts|url=https://nypost.com/2021/05/10/espn-adding-ray-ferraro-brian-boucher-as-nhl-analysts/|last=Marchand|first=Andrew|date=May 10, 2021|access-date=May 17, 2021|website=New York Post|language=en-US}}</ref> McGuire meanwhile, was hired by the [[Ottawa Senators]] as the team's senior vice-president of player development on July 12,<ref>{{cite web|last1=Garrioch|first1=Bruce|title=GARRIOCH: Melnyk calls McGuire a key piece of Sens' Stanley Cup drive|url=https://ottawasun.com/sports/hockey/nhl/ottawa-senators/garrioch-melnyk-calls-mcguire-a-key-piece-of-sens-stanley-cup-drive|access-date=July 12, 2021|publisher=[[Ottawa Sun]]}}</ref> having gone nearly three full decades without a managerial job in the NHL.<ref>{{Cite web|title=Senators appoint Pierre McGuire as senior VP of player development|url=https://www.nhl.com/senators/news/senators-appoint-pierre-mcguire-as-senior-vp-of-player-development/c-325631294|access-date=July 17, 2021|website=NHL.com|language=en-US}}</ref>
+
+The series averaged 3.6 million people on Sportsnet and CBC, making it the most watched Final in Canada since the last time a Canadian team advanced this far in {{Scfy|2011}}. Meanwhile, the series averaged 2.52 million U.S. viewers, an increase from the 2.15 million average during the previous season's COVID-19-delayed Final series.<ref>{{cite news|url=https://www.nytimes.com/athletic/2698807/2021/07/09/nhl-nbc-stanley-cup-final-ratings/|title=This is how it ends for the NHL on NBC — a small ratings bump for the Stanley Cup Final|date=July 9, 2021|work=The Athletic|access-date=August 16, 2021|quote=The entire five-game series, which was mostly one-sided as Tampa Bay defended its title, averaged 2.52 million, the network [NBC] said. That's up from last year's Final — played out-of-season in September and in a fan-less Edmonton "bubble" because of COVID-19 — that averaged 2.15 million ... The broadcast on Sportsnet/CBC averaged 4.1 million for Game 5 and 3.6 million for the series}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nhl.com/stanley-cup-playoffs/2021/lightning-vs-canadiens-series-o 2021 Stanley Cup Final at NHL.com]
+
+{{s-start}}
+{{succession box | before = [[2020 Stanley Cup Final|Tampa Bay Lightning<br />2020]] | title = [[List of Stanley Cup champions|Tampa Bay Lightning<br />Stanley Cup champions]] | years = 2021 | after = [[2022 Stanley Cup Final|Colorado Avalanche<br />2022]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Tampa Bay Lightning}}
+{{Montreal Canadiens}}
+{{2020–21 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on Sportsnet}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2021 Stanley Cup| ]]
+[[Category:2020–21 NHL season]]
+[[Category:Stanley Cup Finals]]
+[[Category:July 2021 sports events in Canada|Stanley Cup Final]]
+[[Category:July 2021 sports events in the United States|Stanley Cup Final]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:2021 in sports in Quebec|Stanley Cup Final]]
+[[Category:2021 in Montreal]]
+[[Category:Tampa Bay Lightning games]]
+[[Category:2021 in sports in Florida|Stanley Cup Final]]
+[[Category:2020s in Tampa, Florida]]
+[[Category:Ice hockey competitions in Tampa, Florida]]

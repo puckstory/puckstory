@@ -1,0 +1,1992 @@
+{{short description|1991 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1991
+|image=Stanley Cup 1991 Logo.gif
+|team1='''[[1990–91 Pittsburgh Penguins season|Pittsburgh Penguins]]'''
+|team1_short=Pittsburgh
+|team1_1=4
+|team1_2='''4'''
+|team1_3=1
+|team1_4='''5'''
+|team1_5='''6'''
+|team1_6='''8'''
+|team1_tot=4
+|team2=[[1990–91 Minnesota North Stars season|Minnesota North Stars]]
+|team2_short=Minnesota
+|team2_1='''5'''
+|team2_2=1
+|team2_3='''3'''
+|team2_4=3
+|team2_5=4
+|team2_6=0
+|team2_tot=2
+|dates=May 15–25, 1991
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on SportsChannel America|SportsChannel America]]<br />(Pittsburgh area): [[AT&T SportsNet Pittsburgh|KBL]] (1–2, 5), [[KDKA-TV|KDKA]] (3–4, 6)<br />(Minnesota area): [[KMSP-TV|KMSP]] (1–2, 5), [[Midwest Sports Channel]] (3–4, 6)
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Harry Neale]], and [[Dick Irvin Jr.]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(SportsChannel America) [[Jiggs McDonald]] and [[Bill Clement]]<br/>(KBL/KDKA) [[Mike Lange]] and [[Paul Steigerwald]]<br/>(KMSP/MSC) Doug McLeod and [[Lou Nanne]]
+|mvp=[[Mario Lemieux]] (Penguins)
+|location1=[[Pittsburgh]]: [[Civic Arena (Pittsburgh)|Civic Arena]] (1, 2, 5)
+|location2=[[Bloomington, Minnesota|Bloomington]]: [[Met Center]] (3, 4, 6)
+|series_winner=[[Ulf Samuelsson]] (2:00, first)
+|team1_coach=[[Bob Johnson (ice hockey, born 1931)|Bob Johnson]]
+|team1_captain=[[Mario Lemieux]]
+|team2_coach=[[Bob Gainey]]
+|team2_captain=[[Curt Giles]]<ref>Giles did not play in any games in the finals. [[Neal Broten]] served as acting captain</ref>
+|hofers='''Penguins:'''<br/>[[Tom Barrasso]] (2023)<br/>[[Paul Coffey]] (2004)<br/>[[Ron Francis]] (2007)<br/>[[Mario Lemieux]] (1997)<br/>[[Joe Mullen]] (2000)<br/>[[Larry Murphy (ice hockey)|Larry Murphy]] (2004)<br/>[[Mark Recchi]] (2017)<br/>[[Bryan Trottier]] (1997)<br/>'''North Stars:'''<br/>[[Mike Modano]] (2014)<br/>'''Coaches:'''<br/>[[Bob Gainey]] (1992, player)<br/>[[Bob Johnson (ice hockey, born 1931)|Bob Johnson]] (1992)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|referees=[[Don Koharski]] (1, 6)<br/>[[Andy Van Hellemond]] (2, 4)<br/>[[Kerry Fraser]] (3, 5)
+}}
+The '''1991 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1990–91 NHL season|1990–91 season]], and the culmination of the [[1991 Stanley Cup playoffs]]. It was contested by the [[1990–91 Pittsburgh Penguins season|Pittsburgh Penguins]] and the [[1990–91 Minnesota North Stars season|Minnesota North Stars]]. It was the Penguins' first Final series appearance and their first [[Stanley Cup]] victory. This is the first and only (to date) Stanley Cup Final to feature two teams from the [[1967 NHL Expansion|expansion group of 1967]]. It was Minnesota's second Final series appearance, and their last before the franchise's relocation to [[Dallas]] [[1993-94 NHL season|two years later]]. It was also the first time since {{scfy|1983}} that an American franchise would win the Stanley Cup. This was the first all-American finals since {{scfy|1981}}, which also featured the North Stars in their first appearance.
+
+This was also the first final since {{scfy|1982}} not to feature either of the two Alberta-based teams, the [[Battle of Alberta|Calgary Flames or the Edmonton Oilers]], and the first since {{scfy|1981}} not contested by a team from [[Western Canada]], or [[Canada]] overall.
+
+The Finals and the NHL season ended on May 25, marking the last time to date that the Stanley Cup playoffs ended before the month of June.
+
+This series brought together four North Stars who were teammates on the other [[1980–81 Minnesota North Stars season|North Stars team]] to reach the Finals: [[Neal Broten]], [[Curt Giles]], and [[Bobby Smith (ice hockey)|Bobby Smith]] for Minnesota, and [[Gordie Roberts]] for Pittsburgh.
+
+The Penguins players had a decided edge in Finals experience, with four players having won a Stanley Cup. [[Bryan Trottier]] (who won four with the [[New York Islanders]] in {{scfy|1980}}, {{scfy|1981}}, {{scfy|1982}}, and {{scfy|1983}}), [[Paul Coffey]] (who won three with the [[Edmonton Oilers]] in {{scfy|1984}}, {{scfy|1985}}, and {{scfy|1987}}), [[Jiri Hrdina]] and [[Joe Mullen]] (both with the [[Calgary Flames]] in {{scfy|1989}}). On the other hand, Bobby Smith was the only North Star player that had won a Stanley Cup, having won with the [[Montreal Canadiens]] in {{scfy|1986}}. Overall, the North Stars had six players with previous Finals appearances, compared to the Penguins five.
+
+==Paths to the Finals==
+{{further|1991 Stanley Cup playoffs}}
+Minnesota defeated the first-place overall [[Chicago Blackhawks]] 4–2, the second-place overall [[St. Louis Blues]] 4–2, and the defending Cup champion [[Edmonton Oilers]] 4–1 to advance to the Finals. The North Stars became the first American team and first [[Norris Division]] team to win the [[Campbell Conference]] since the league re-aligned the divisions and adopted a divisional-based playoff format in 1981.
+
+Pittsburgh defeated the [[New Jersey Devils]] 4–3, the [[Washington Capitals]] 4–1 and the [[Boston Bruins]] 4–2.
+
+==Game summaries==
+Pittsburgh centre [[Mario Lemieux]], despite missing a game due to a back injury, recorded 12 points in 5 games to lead all scorers in the series. He was awarded the [[Conn Smythe Trophy]] for his postseason efforts.
+
+Lemieux scored one of the most famous goals in NHL history during the second period of game two. Receiving the puck in the Penguins' end of the ice, Lemieux skated solo into the North Stars' zone facing two defensemen ([[Shawn Chambers]] and [[Neil Wilkinson (ice hockey)|Neil Wilkinson]]) as well as goaltender [[Jon Casey]]. Lemieux skirted the puck through the legs of Chambers, skated around him, baited goaltender Casey to commit left (Lemieux's right), then switched the puck to his backhand side and slid the puck into the net (before crashing into the net himself). A brief video of the goal has since been featured on Stanley Cup promotional advertisements by the NHL.
+
+===Game one===
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=Pittsburgh Penguins
+|stadium2=[[Met Center]]
+|stadium1=[[Civic Arena (Pittsburgh)|Civic Arena]]
+|date1       =May 15
+|score1      =5–4
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/mns-vs-pit/1991/05/15/1990030411#game=1990030411,game_state=final
+}}
+[[Neal Broten]] scored two goals in a back and forth game one for the North Stars, as did his teammate [[Bobby Smith (ice hockey)|Bobby Smith]], including the game-winning goal early in the third period to gave Minnesota a 5–4 victory and a 1–0 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Ulf Samuelsson]] (2)
+| style="text-align:center;"|[[Ron Francis]] (8)
+| style="text-align:center;"|03:45
+| style="text-align:center;"|1–0 PIT
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Neal Broten]] (7)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|06:32
+| style="text-align:center;"|1–1 
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Ulf Dahlen]] (1)
+| style="text-align:center;"|[[Bobby Smith (ice hockey)|Bobby Smith]] (7) and [[Shawn Chambers]] (6)
+| style="text-align:center;"|09:49
+| style="text-align:center;"|2–1 MNS
+|-
+| style="text-align:center;" rowspan="4" |'''2nd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mario Lemieux]] (12) – ''sh''
+| style="text-align:center;"|Ron Francis (9)
+| style="text-align:center;"|03:54
+| style="text-align:center;"|2–2 
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Marc Bureau (ice hockey)|Marc Bureau]] (3) – ''sh''
+| style="text-align:center;"|[[Stewart Gavin]] (8)
+| style="text-align:center;"|06:53
+| style="text-align:center;"|3–2 MNS
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Scott Young (ice hockey, born 1967)|Scott Young]] (1) – ''pp''
+| style="text-align:center;"|[[Larry Murphy (ice hockey)|Larry Murphy]] (10) and [[Jaromír Jágr|Jaromir Jagr]] (6)
+| style="text-align:center;"|07:43
+| style="text-align:center;"|3–3
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|Neal Broten (8)
+| style="text-align:center;"|[[Mike Modano]] (11)
+| style="text-align:center;"|17:01
+| style="text-align:center;"|4–3 MNS
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|MNS
+| style="text-align:center;"|Bobby Smith (7)
+| style="text-align:center;"|Ulf Dahlen (5)
+| style="text-align:center;"|01:39
+| style="text-align:center;"|5–3 MNS
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Joe Mullen]] (6)
+| style="text-align:center;"|Jaromir Jagr (7) and Scott Young (6)
+| style="text-align:center;"|10:35
+| style="text-align:center;"|5–4 MNS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | MNS
+|align=center | [[Brian Propp]]
+|align=center | Slashing
+|align=center | 04:17
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Troy Loney]]
+|align=center | Elbowing
+|align=center | 13:46
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Shawn Chambers
+|align=center | Hooking
+|align=center | 12:32
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Mark Tinordi
+|align=center | High-sticking 
+|align=center | 13:45
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Mark Recchi]]
+|align=center | Interference
+|align=center | 15:02
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Basil Mcrae]]
+|align=center | Unsportsmanlike conduct
+|align=center | 18:13
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Marc Bureau
+|align=center | High-sticking 
+|align=center | 19:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Interference
+|align=center | 02:01
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Jim Johnson (ice hockey, born 1962)|Jim Johnson]]
+|align=center | Slashing
+|align=center | 05:58
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Marc Bureau
+|align=center | Holding
+|align=center | 10:25
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Hooking
+|align=center | 19:11
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PIT
+|align=center | [[Grant Jennings]]
+|align=center | Cross-checking
+|align=center | 04:08
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Jon Casey]]
+|align=center | Slashing
+|align=center | 08:25
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 9 || align=center | 12 || align=center | 8|| align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 17|| align=center | 11|| align=center | 10 || align=center | 38
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=Pittsburgh Penguins
+|stadium2=[[Met Center]]
+|stadium1=[[Civic Arena (Pittsburgh)|Civic Arena]]
+|date1       =May 17
+|score1      =1–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mns-vs-pit/1991/05/17/1990030412#game=1990030412,game_state=final
+}}
+[[Mario Lemieux]] scored one of the most famous goals in NHL history during the second period of game two. Receiving the puck in the Penguins' end of the ice, Lemieux skated solo into the North Stars' zone facing two defensemen ([[Shawn Chambers]] and [[Neil Wilkinson (ice hockey)|Neil Wilkinson]]) as well as goaltender [[Jon Casey]]. Lemieux skirted the puck through the legs of Chambers, skated around him, baited goaltender Casey to commit left (Lemieux's right), then switched the puck to his backhand side and slid the puck into the net (before crashing into the net himself). A brief video of the goal has since been featured on Stanley Cup promotional advertisements by the NHL. Late in the third period, Pittsburgh defenseman [[Gordie Roberts]] received a major penalty for spearing and was ejected from the game. The Penguins went on to win the game 4–1, with goaltender [[Tom Barrasso]] stopping 39 of 40 shots, and [[Kevin Stevens]] scoring two goals.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Bob Errey]] (4) – ''sh''
+| style="text-align:center;"|[[Peter Taglianetti]] (1)
+| style="text-align:center;"|14:26
+| style="text-align:center;"|1–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Kevin Stevens]] (14) – ''pp''
+| style="text-align:center;"|[[Mario Lemieux]] (22) and [[Larry Murphy (ice hockey)|Larry Murphy]] (11)
+| style="text-align:center;"|19:10
+| style="text-align:center;"|2–0 PIT
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Mike Modano]] (7) – ''pp''
+| style="text-align:center;"|[[Shawn Chambers]] (7) and [[Jon Casey]] (1)
+| style="text-align:center;"|00:55
+| style="text-align:center;"|2–1 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Mario Lemieux (13)
+| style="text-align:center;"|[[Phil Bourque]] (6)
+| style="text-align:center;"|15:04
+| style="text-align:center;"|3–1 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Kevin Stevens (15)
+| style="text-align:center;"|[[Joe Mullen]] (5) and Larry Murphy (12)
+| style="text-align:center;"|16:32
+| style="text-align:center;"|4–1 PIT
+|-
+| style="text-align:center;" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | PIT
+|align=center | [[Ron Francis]]
+|align=center | Hooking
+|align=center | 01:07
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Bob Errey]]
+|align=center | Boarding
+|align=center | 09:08
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Mark Recchi]]
+|align=center | Cross-checking
+|align=center | 13:06
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Ulf Samuelsson
+|align=center | Holding
+|align=center | 15:12
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Brian Bellows]]
+|align=center | Hooking
+|align=center | 16:36
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Shawn Chambers
+|align=center | Interference
+|align=center | 18:13
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Bench 
+|align=center | Too many men on the ice
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''2nd'''
+|align=center | MNS
+|align=center | [[Gaétan Duchesne|Gaetan Duchesne]]
+|align=center | Holding
+|align=center | 06:22
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Larry Murphy
+|align=center | Hooking
+|align=center | 06:37
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]]
+|align=center | Interference
+|align=center | 09:30
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Glynn
+|align=center | Roughing
+|align=center | 17:27
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Neil Wilkinson (ice hockey)|Neil Wilkinson]]
+|align=center | Roughing
+|align=center | 19:58
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Mark Tinordi]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Mark Tinordi
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | PIT
+|align=center | [[Troy Loney]]
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Troy Loney
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="14"| '''3rd'''
+|align=center | MNS
+|align=center | Mike Modano
+|align=center | High-sticking
+|align=center | 05:29
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Gaetan Duchesne
+|align=center | Hooking
+|align=center | 10:39
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]]
+|align=center | Interference
+|align=center | 09:30
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Ulf Samuelsson
+|align=center | Holding
+|align=center | 12:58
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Marc Bureau (ice hockey)|Marc Bureau]]
+|align=center | Roughing
+|align=center | 16:20
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Kevin Stevens
+|align=center | Roughing
+|align=center | 16:20
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Bryan Trottier
+|align=center | Misconduct
+|align=center | 16:20
+|align=center | 10:00
+|-
+|align=center | MNS
+|align=center | [[Dave Gagner]]
+|align=center | Roughing
+|align=center | 17:03
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Roughing
+|align=center | 17:03
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Gordie Roberts]]
+|align=center | Holding
+|align=center | 17:34
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Gordie Roberts
+|align=center | Spearing – major
+|align=center | 17:34
+|align=center | 5:00
+|-
+|align=center | PIT
+|align=center | Gordie Roberts
+|align=center | Game misconduct
+|align=center | 17:34
+|align=center | 10:00
+|-
+|align=center | MNS
+|align=center | Bench
+|align=center | Delay of game
+|align=center | 19:41
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Ron Francis
+|align=center | Holding
+|align=center | 20:00
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 12 || align=center | 12|| align=center | 16|| align=center |40
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 14|| align=center | 12|| align=center | 5|| align=center | 31
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Pittsburgh Penguins
+|team2=Minnesota North Stars
+|stadium1=[[Met Center]] 
+|date1       =May 19
+|score1      =1–3
+|won1      =2
+|recap1      =www.nhl.com/gamecenter/mns-vs-pit/1991/05/19/1990030413
+}}
+Due to severe back spasms, Mario Lemieux did not dress for Pittsburgh in game three. After a scoreless first, [[Dave Gagner]] and [[Bobby Smith (ice hockey)|Bobby Smith]] both scored in the second, and [[Gaétan Duchesne|Gaetan Duchesne]] scored early in the third. Pittsburgh forward [[Kevin Stevens]] received a major penalty for spearing late in the game was ejected. The North Stars went on to win the game 3–1, giving them a 2–1 lead in the series. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Dave Gagner]] (9)
+| style="text-align:center;"|[[Mike Modano]] (12) and [[Jim Johnson (ice hockey, born 1962)|Jim Johnson]] (1)
+| style="text-align:center;"|07:21
+| style="text-align:center;"|1–0 MNS
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Bobby Smith (ice hockey)|Bobby Smith]] (8)
+| style="text-align:center;"|[[Brian Bellows]] (18) and [[Chris Dahlquist]] (6)
+| style="text-align:center;"|07:54
+| style="text-align:center;"|2–0 MNS
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Phil Bourque (5)
+| style="text-align:center;"|[[Jaromír Jágr|Jaromir Jagar]] (8) and [[Bryan Trottier]] (3)
+| style="text-align:center;"|01:23
+| style="text-align:center;"|2–1 MNS
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Gaétan Duchesne|Gaetan Duchesne]] (2)
+| style="text-align:center;"|[[Stewart Gavin]] (9) and [[Neal Broten]] (13)
+| style="text-align:center;"|02:01
+| style="text-align:center;"|3–1 MNS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | PIT
+|align=center | [[Bob Errey]]
+|align=center | Charging
+|align=center | 09:08
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ron Francis]]
+|align=center | Holding
+|align=center | 13:44
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Bobby Smith
+|align=center | Interference
+|align=center | 16:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | MNS
+|align=center | [[Basil Mcrae]]
+|align=center | Boarding
+|align=center | 04:08
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Shawn Chambers]]
+|align=center | Unsportsmanlike conduct
+|align=center | 05:23
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Mark Recchi]]
+|align=center | Unsportsmanlike conduct
+|align=center | 05:23
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Gaetan Duchesne
+|align=center | Holding
+|align=center | 08:38
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Peter Taglianetti]]
+|align=center | High-sticking
+|align=center | 12:26
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Jim Johnson
+|align=center | Roughing
+|align=center | 17:28
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Troy Loney]]
+|align=center | Roughing
+|align=center | 17:28
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="15"| '''3rd'''
+|align=center | MNS
+|align=center | Jim Johnson
+|align=center | High-sticking
+|align=center | 07:20
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Phil Bourque
+|align=center | Slashing
+|align=center | 07:20
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Bellows
+|align=center | Roughing
+|align=center | 08:09
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | Roughing
+|align=center | 08:09
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Dave Gagner]]
+|align=center | Roughing
+|align=center | 08:13
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Randy Gilhen]]
+|align=center | Holding
+|align=center | 08:13
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ulf Samuelsson]]
+|align=center | Elbowing
+|align=center | 08:53
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Chris Dahlquist]]
+|align=center | Tripping
+|align=center | 13:34
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Kevin Stevens]]
+|align=center | Spearing – major
+|align=center | 18:47
+|align=center | 5:00
+|-
+|align=center | PIT
+|align=center | Kevin Stevens
+|align=center | Game misconduct
+|align=center | 18:47
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | [[Tom Barrasso]]
+|align=center | Slashing
+|align=center | 19:21
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Bellows
+|align=center | Misconduct
+|align=center | 19:53
+|align=center | 10:00
+|-
+|align=center | PIT
+|align=center | Randy Gilhen
+|align=center | Misconduct
+|align=center | 19:53
+|align=center | 10:00
+|-
+|align=center | MNS
+|align=center | Bobby Smith
+|align=center | High-sticking
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Bob Errey 
+|align=center | Charging
+|align=center | 20:00
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 7 || align=center | 8 || align=center | 15|| align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 12|| align=center | 8|| align=center | 13|| align=center | 33
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Pittsburgh Penguins
+|team2=Minnesota North Stars
+|stadium1=[[Met Center]] 
+|date1       =May 21
+|score1      =5–3
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/pit-vs-mns/1991/05/21/1990030414#game=1990030414,game_state=final
+}}
+The Penguins won game four 5–3, with five different Pittsburgh players scoring goals. With 6:57 left in the third period, Pittsburgh forward [[Troy Loney]] hit Minnesota defenseman [[Mark Tinordi]] in the head with his stick, resulting in a major penalty and Loney being ejected from the game.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;" |[[Kevin Stevens]] (16)
+| style="text-align:center;" |''Unassisted''
+| style="text-align:center;" |00:58
+| style="text-align:center;" |1–0 PIT
+|-
+| style="text-align:center;" |PIT
+| style="text-align:center;" |[[Ron Francis]] (5)
+| style="text-align:center;" |Kevin Stevens (14) and [[Joe Mullen]] (6)
+| style="text-align:center;" |02:36
+| style="text-align:center;" |2–0 PIT
+|-
+| style="text-align:center;" |PIT
+| style="text-align:center;" |[[Mario Lemieux]] (14)
+| style="text-align:center;" |[[Mark Recchi]] (24) and [[Larry Murphy (ice hockey)|Larry Murphy]] (13)
+| style="text-align:center;" |02:58
+| style="text-align:center;" |3–0 PIT
+|-
+| style="text-align:center;" |MNS
+| style="text-align:center;" |[[Dave Gagner]] (10)
+| style="text-align:center;" |[[Brian Bellows]] (19) and [[Ulf Dahlen]] (6)
+| style="text-align:center;" |18:22
+| style="text-align:center;" |3–1 PIT
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Bryan Trottier]] (3)
+| style="text-align:center;"|[[Bob Errey]] (2) and [[Jaromír Jágr|Jaromir Jagr]] (9)
+| style="text-align:center;"|09:55
+| style="text-align:center;"|4–1 PIT
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Brian Propp]] (8) – ''pp''
+| style="text-align:center;"|[[Dave Gagner]] (14)
+| style="text-align:center;"|13:10
+| style="text-align:center;"|4–2 PIT
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Mike Modano]] (8) – ''pp''
+| style="text-align:center;"|Brian Propp (13) and Dave Gagner (15)
+| style="text-align:center;"|18:25
+| style="text-align:center;"|4–3 PIT
+|-
+| style="text-align:center;" |'''3rd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Phil Bourque]] (6) – ''en''
+| style="text-align:center;"|Joe Mullen (7) and Mario Lemieux (23)
+| style="text-align:center;"|19:45
+| style="text-align:center;"|5–3 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | PIT
+|align=center | [[Ulf Samuelsson]]
+|align=center | Charging
+|align=center | 07:27
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Propp
+|align=center | High-sticking
+|align=center | 07:44
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Paul Stanton (ice hockey)|Paul Stanton]]
+|align=center | High-sticking
+|align=center | 07:44
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Jim Johnson (ice hockey, born 1962)|Jim Johnson]]
+|align=center | Holding
+|align=center | 14:45
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Ulf Samuelsson
+|align=center | Holding
+|align=center | 18:38
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="10"| '''2nd'''
+|align=center | MNS
+|align=center | Mike Modano
+|align=center | Slashing
+|align=center | 04:28
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Basil Mcrae]]
+|align=center | Roughing – double minor
+|align=center | 11:22
+|align=center | 4:00
+|-
+|align=center | PIT
+|align=center | Larry Murphy
+|align=center | Roughing
+|align=center | 11:22
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Kevin Stevens
+|align=center | Holding
+|align=center | 11:49
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Bellows
+|align=center | Roughing
+|align=center | 12:34
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Mario Lemieux
+|align=center | Interference
+|align=center | 12:34
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Mario Lemieux
+|align=center | Roughing 
+|align=center | 12:34
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Larry Murphy
+|align=center | Roughing
+|align=center | 16:59
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Bob Errey]]
+|align=center | Hooking
+|align=center | 18:06
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dave Gagner
+|align=center | Roughing
+|align=center | 18:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PIT
+|align=center | [[Troy Loney]]
+|align=center | High-sticking – major
+|align=center | 13:03
+|align=center | 5:00
+|-
+|align=center | PIT
+|align=center | Troy Loney
+|align=center | Game misconduct
+|align=center | 13:03
+|align=center | 10:00
+|-
+|align=center | MNS
+|align=center | [[Jon Casey]]
+|align=center | Interference
+|align=center | 16:52
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 13 || align=center | 5|| align=center | 6|| align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 14|| align=center | 17|| align=center | 7|| align=center | 38
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=Pittsburgh Penguins 
+|stadium1=[[Civic Arena (Pittsburgh)|Civic Arena]]
+|date1       =May 23
+|score1      =4–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mns-vs-pit/1991/05/23/1990030415#game=1990030415,game_state=final
+}}
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="5" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mario Lemieux]] (15) – ''pp''
+| style="text-align:center;"|[[Larry Murphy (ice hockey)|Larry Murphy]] (14) and [[Paul Coffey]] (8)
+| style="text-align:center;"|05:36
+| style="text-align:center;"|1–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Kevin Stevens]] (17) – ''pp''
+| style="text-align:center;"|Paul Coffey (9) and Larry Murphy (15)
+| style="text-align:center;"|10:08 
+| style="text-align:center;"|2–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mark Recchi]] (9)
+| style="text-align:center;"|Mario Lemieux (24) and [[Phil Bourque]] (7)
+| style="text-align:center;"|11:45
+| style="text-align:center;"|3–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mark Recchi]] (10)
+| style="text-align:center;"|Mario Lemieux (25) and Larry Murphy (16)
+| style="text-align:center;"|13:41
+| style="text-align:center;"|4–0 PIT
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Neal Broten]] (9) – ''sh''
+| style="text-align:center;"|[[Mark Tinordi]] (6)
+| style="text-align:center;"|14:52
+| style="text-align:center;"|4–1 PIT
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Dave Gagner]] (11) – ''sh''
+| style="text-align:center;"|[[Brian Propp]] (14)
+| style="text-align:center;"|06:54
+| style="text-align:center;"|4–2 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Ron Francis]] (6)
+| style="text-align:center;"|[[Joe Mullen]] (8)
+| style="text-align:center;"|16:26
+| style="text-align:center;"|5–2 PIT
+|-
+| style="text-align:center;" rowspan="3" |'''3rd'''
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Ulf Dahlen]] (2)
+| style="text-align:center;"|[[Bobby Smith (ice hockey)|Bobby Smith]] (8) and [[Gaétan Duchesne|Gaetan Duchesne]] (3)
+| style="text-align:center;"|01:36
+| style="text-align:center;"|5–3 PIT
+|-
+| style="text-align:center;"|MNS
+| style="text-align:center;"|[[Dave Gagner]] (12)
+| style="text-align:center;"|Brian Propp (15) and [[Stewart Gavin]] (10)
+| style="text-align:center;"|07:42
+| style="text-align:center;"|5–4 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Troy Loney]] (2)
+| style="text-align:center;"|Larry Murphy (17) and Ron Francis (10)
+| style="text-align:center;"|18:21
+| style="text-align:center;"|6–4 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="9"| '''1st'''
+|align=center | MNS
+|align=center | [[Brian Glynn]]
+|align=center | Cross-checking
+|align=center | 03:38
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Bryan Trottier]]
+|align=center | Cross-checking
+|align=center | 07:07
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Mark Tinordi
+|align=center | Hooking
+|align=center | 09:54
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Shane Churla]]
+|align=center | Roughing
+|align=center | 14:26
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Basil Mcrae]]
+|align=center | Charging
+|align=center | 14:26
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Basil Mcrae
+|align=center | Roughing
+|align=center | 14:26
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Basil Mcrae
+|align=center | Unsportsmanlike conduct
+|align=center | 14:26
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Jim Paek]]
+|align=center | Roughing
+|align=center | 14:26
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Kevin Stevens
+|align=center | Roughing
+|align=center | 14:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MNS
+|align=center | [[Chris Dahlquist]]
+|align=center | Cross-checking
+|align=center | 05:23
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Bryan Trottier
+|align=center | Tripping
+|align=center | 10:46
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dave Gagner
+|align=center | Interference
+|align=center | 09:54
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Peter Taglianetti]]
+|align=center | Holding
+|align=center | 14:53
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Phil Bourque 
+|align=center | Illegal equipment 
+|align=center | 17:20
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''3rd'''
+|align=center | PIT
+|align=center | Peter Taglianetti
+|align=center | Cross-checking
+|align=center | 08:40
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dave Gagner
+|align=center | Tripping
+|align=center | 09:49
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brian Glynn
+|align=center | Cross-checking
+|align=center | 10:05
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Mark Tinordi
+|align=center | Roughing
+|align=center | 12:00
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Kevin Stevens
+|align=center | Roughing
+|align=center | 12:00
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dave Gagner
+|align=center | Roughing
+|align=center | 19:02
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | Mario Lemieux
+|align=center | Roughing
+|align=center | 19:02
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 7 || align=center | 9 || align=center | 9|| align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 18|| align=center | 5|| align=center | 8|| align=center | 31
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1=Pittsburgh Penguins
+|team2=Minnesota North Stars
+|stadium1=[[Met Center]] 
+|date1       =May 25
+|score1      =8–0
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/pit-vs-mns/1991/05/25/1990030416#game=1990030416,game_state=final
+}}
+Pittsburgh dominated game six early and often, with [[Joe Mullen]] recording two goals and an assist, and Tom Barrasso made 39 saves to record his first career playoff shutout in an 8–0 victory, which at the time was the most goals scored by a team in a Cup-clinching game, until it was surpassed by the [[Vegas Golden Knights]] in game five of [[2023 Stanley Cup Final]] against the [[Florida Panthers]].
+
+Mario Lemieux, who recorded four points during the game, as well as a total of 44 points during the playoffs, was awarded the [[Conn Smythe Trophy]] as Most Valuable Player of the postseason.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3" |'''1st'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Ulf Samuelsson]] (3) – ''pp''
+| style="text-align:center;"|[[Bryan Trottier]] (4) and [[Peter Taglianetti]] (2)
+| style="text-align:center;"|02:00
+| style="text-align:center;"|1–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Mario Lemieux]] (16) – ''sh''
+| style="text-align:center;"|[[Larry Murphy (ice hockey)|Larry Murphy]] (18)
+| style="text-align:center;"|12:19
+| style="text-align:center;"|2–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Joe Mullen]] (7) - ''pp''
+| style="text-align:center;"|Peter Taglianetti (3), [[Kevin Stevens]] (15)
+| style="text-align:center;"|13:14
+| style="text-align:center;"|3–0 PIT
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Bob Errey]] (5)
+| style="text-align:center;"|[[Jaromír Jágr|Jaromir Jagr]] (10) and Mario Lemieux (26)
+| style="text-align:center;"|13:15
+| style="text-align:center;"|4–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Ron Francis]] (7)
+| style="text-align:center;"|Joe Mullen (9)
+| style="text-align:center;"|14:28
+| style="text-align:center;"|5–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Joe Mullen (8)
+| style="text-align:center;"|Kevin Stevens (16) and Ulf Samuelsson (2)
+| style="text-align:center;"|18:44
+| style="text-align:center;"|6–0 PIT
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|PIT
+| style="text-align:center;"|[[Jim Paek]] (1)
+| style="text-align:center;"|Mario Lemieux (27)
+| style="text-align:center;"|01:29
+| style="text-align:center;"|7–0 PIT
+|-
+| style="text-align:center;"|PIT
+| style="text-align:center;"|Larry Murphy (5) – ''pp''
+| style="text-align:center;"|Mario Lemieux (28)
+| style="text-align:center;"|13:45
+| style="text-align:center;"|8–0 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | MNS
+|align=center |[[Neal Broten]]
+|align=center |Interference
+|align=center |00:09
+|align=center | 2:00
+|-
+|align=center |MNS
+|align=center |[[Jim Johnson (ice hockey, born 1962)|Jim Johnson]]
+|align=center |High-sticking
+|align=center |06:20
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |Kevin Stevens
+|align=center |Holding
+|align=center |10:25
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |[[Gordie Roberts]]
+|align=center |Roughing
+|align=center |10:59
+|align=center |2:00
+|-
+|align=center |MNS
+|align=center |[[Mike Modano]]
+|align=center |Interference
+|align=center |11:17
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |Gordie Roberts
+|align=center |Interference
+|align=center |13:58
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |Peter Taglianetti
+|align=center |Tripping
+|align=center |17:35
+|align=center |2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center |MNS
+|align=center |[[Shane Churla]]
+|align=center |Roughing
+|align=center |08:03
+|align=center |2:00
+|-
+|align=center |MNS 
+|align=center |[[Basil Mcrae]]
+|align=center |Misconduct
+|align=center |08:03
+|align=center |10:00
+|-
+|align=center |MNS
+|align=center |[[Mark Tinordi]]
+|align=center |Roughing – double minor
+|align=center |08:03
+|align=center |4:00
+|-
+|align=center |PIT
+|align=center |[[Mark Recchi]]
+|align=center |Roughing
+|align=center |08:03
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |Ulf Samuelsson
+|align=center |Roughing
+|align=center |08:03
+|align=center |2:00
+|-
+|align=center |MNS
+|align=center |[[Dave Gagner]]
+|align=center |Roughing
+|align=center |15:18
+|align=center |2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center |MNS
+|align=center |Basil Mcrae
+|align=center |Slashing
+|align=center |13:03
+|align=center |2:00
+|-
+|align=center |MNS
+|align=center |[[Stewart Gavin]]
+|align=center |Slashing
+|align=center |13:03
+|align=center |2:00
+|-
+|align=center |PIT
+|align=center |Kevin Stevens
+|align=center |Slashing
+|align=center |13:03
+|align=center |2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 11|| align=center | 9|| align=center | 8 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 16 || align=center | 7 || align=center | 16|| align=center | 39
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Minnesota North Stars===
+[[File:Neal Broten.jpg|thumb|[[Neal Broten]] acted as team captain for the North Stars playoff run.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Bellows}}
+| LW
+| R
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[St. Catharines|St. Catharines, Ontario]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Perry|Berezan}}
+| C
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|({{scfy|1986}}) }}
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Neal|Broten}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Roseau, Minnesota]]
+| second {{small|({{scfy|1981}})}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc|Bureau|dab=ice hockey}}
+| C
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Trois-Rivières|Trois-Rivières, Quebec]]
+| first
+|-
+| '''30'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Casey}}
+| G
+| L
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Grand Rapids, Minnesota]]
+| first
+|-
+|-
+| '''26'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Shawn|Chambers}}
+| D
+| L
+| [[1987 NHL Supplemental Draft|1987]]
+| style="text-align:left;"|[[Royal Oak, Michigan]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shane|Churla}}
+| RW
+| R 
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Fernie, British Columbia]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Craig|dab=ice hockey, born 1971}}
+| RW
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[St. Mary's, Ontario]]
+| first
+|-
+| '''22'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Ulf|Dahlen|Ulf Dahlén}}
+| RW
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Östersund|Östersund, Sweden]]
+| first
+|-
+| '''4'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Dahlquist}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Fridley, Minnesota]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gaetan|Duchesne|Gaétan Duchesne}}
+| LW
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Gagner}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Chatham-Kent|Chatham, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stewart|Gavin}}
+| RW
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Curt|Giles}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[The Pas|The Pas, Manitoba]]
+| second {{small|({{scfy|1981}}) (did not play)}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Glynn}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Iserlohn|Iserlohn, West Germany]]
+| first
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Hayward}}
+| G
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Georgetown, Ontario]]
+| second {{small|({{scfy|1989}})}}
+|-
+| '''8'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Johnson|dab=ice hockey, born 1962}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[New Hope, Minnesota]]
+| first 
+|- 
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Basil|McRae}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Beaverton, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Modano}}
+| C
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Livonia, Michigan]]
+| first
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Propp}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Lanigan, Saskatchewan]]
+| fifth {{small|({{scfy|1980}}, {{scfy|1985}}, {{scfy|1987}}, {{scfy|1990}})}} 
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Smail}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Moose Jaw|Moose Jaw, Saskatchewan]]
+| first 
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Smith|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[North Sydney, Nova Scotia]]
+| fourth {{small|({{scfy|1981}}, '''{{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Tinordi}}
+| D
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Red Deer, Alberta]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Neil|Wilkinson|dab=ice hockey}}
+| D
+| R
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Selkirk, Manitoba]]
+| first
+|}
+
+'''Note:''' ''[[Neal Broten]] served as the North Stars acting team captain during the [[1991 Stanley Cup playoffs]]. [[Curt Giles]], who was injured late in the season and played in only 10 playoff games, missing the entire finals, is listed as the official team captain.''
+
+===Pittsburgh Penguins===
+[[File:1988 - Mario Lemieux - Pittsburgh Penguins.png|thumb|[[Mario Lemieux]] captained the Penguins to their first Stanley Cup Final appearance.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''35'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Barrasso}}
+| G
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| first
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Phil|Bourque}}
+| LW
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Chelmsford, Massachusetts]]
+| first
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Caufield}}
+| RW
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Philadelphia|Philadelphia, Pennsylvania]]
+| first {{small|(did not play)}}
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Coffey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Weston, Toronto|Weston, Ontario]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Errey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L 
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ron|Francis}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Gilhen}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Zweibrücken|Zweibrücken, West Germany]]
+| first
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Hillier|dab=ice hockey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''38'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jiri|Hrdina|Jiří Hrdina}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Prague|Prague, Czechoslovakia]]
+| second {{small|('''{{scfy|1989}}''')}}
+|-
+| '''68'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jaromir|Jagr|Jaromír Jágr}}
+| RW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Kladno|Kladno, Czechoslovakia]]
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Jennings}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Hudson Bay, Saskatchewan]]
+| first
+|-
+| '''66'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mario|Lemieux}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Troy|Loney}}
+| LW
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Bow Island|Bow Island, Alberta]]
+| first
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Mullen}}
+| RW
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[New York City|New York, New York]]
+| third {{small|({{scfy|1986}}, '''{{scfy|1989}}''')}}
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Murphy|dab=ice hockey}}
+| D
+| R
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Paek}}
+| D
+| L
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Seoul|Seoul, South Korea]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Barry|Pederson}}
+| C
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Big River, Saskatchewan]]
+| first {{small|(did not play)}}
+|-
+| '''40'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Frank|Pietrangelo}}
+| G
+| L
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Niagara Falls, Ontario]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Recchi}}
+| RW
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Kamloops|Kamloops, British Columbia]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Gordie|Roberts}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| second {{small|({{scfy|1981}})}}
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Ulf|Samuelsson}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Fagersta|Fagersta, Sweden]]
+| first
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Stanton|dab=ice hockey}}
+| D
+| R
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| first
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Stevens}}
+| LW
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Brockton, Massachusetts]]
+| first
+|-
+| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Taglianetti}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Framingham, Massachusetts]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryan|Trottier}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Val Marie|Val Marie, Saskatchewan]]
+| sixth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}})}}
+|-
+| '''34'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Young|dab=ice hockey, born 1967}}
+| RW/C
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Clinton, Massachusetts]]
+| first
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wendell|Young}}
+| G
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| first {{small|(did not play)}}
+|}
+
+==Stanley Cup engraving==
+The 1991 Stanley Cup was presented to Penguins captain Mario Lemieux by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Penguins 8–0 win over the North Stars in game six.
+
+The following Penguins players and staff had their names engraved on the Stanley Cup
+
+'''1990–91 Pittsburgh Penguins'''
+{{Stanley Cup champion|team=Pittsburgh Penguins |year=1991
+|centres= *9 [[Ron Francis]]
+*10 [[Barry Pederson]] †
+*15 [[Randy Gilhen]]
+*19 [[Bryan Trottier]] (A)
+*38 [[Jiří Hrdina|Jiri Hrdina]]
+*66 [[Mario Lemieux]] (Captain)
+|wingers=*7 [[Joe Mullen]]
+*8 [[Mark Recchi]]
+*12 [[Bob Errey]] (A)
+*16 [[Jay Caufield]] ‡
+*24 [[Troy Loney]]
+*25 [[Kevin Stevens]]
+*29 [[Phil Bourque]]
+*34 [[Scott Young (ice hockey, born 1967)|Scott Young]]*
+*68 [[Jaromír Jágr|Jaromir Jagr]]
+|defence=*2 [[Jim Paek]]
+*3 [[Grant Jennings]]
+*5 [[Ulf Samuelsson]]
+*22 [[Paul Stanton (ice hockey)|Paul Stanton]]
+*23 [[Randy Hillier (Ice Hockey)|Randy Hillier]] (A)
+*28 [[Gordie Roberts]]
+*32 [[Peter Taglianetti]]
+*55 [[Larry Murphy (ice hockey)|Larry Murphy]]
+*77 [[Paul Coffey]] (A)
+|goaltenders=*35 [[Tom Barrasso]]
+*40 [[Frank Pietrangelo]]
+*1 [[Wendell Young]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Did not play in the Final. Name engraved on Stanley Cup despite not officially qualifying.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Edward J. DeBartolo Sr.]] (Chairman/Owner)
+* [[Marie Denise DeBartolo York]] (President/Owner) 
+* Paul Martha (Vice President-General Council), [[Craig Patrick]] (Vice President/General Manager) 
+* William [[Scotty Bowman]] (Director of Player Development-Recruitment), [[Bob Johnson (ice hockey, born 1931)|Bob Johnson]] (Head Coach)
+* [[Rick Kehoe]] (Asst. Coach), [[Rick Paterson]] (Asst. Coach), [[Barry Smith (ice hockey, born 1952)|Barry Smith]] (Asst. Coach) 
+* [[Gilles Meloche]] (Goaltending Coach/Scout) 
+* Steve Latin (Equipment Manager), Charles "Skip" Thayer (Trainer)
+* John Welday (Strength-Conditioning Coach), [[Greg Malone (ice hockey)|Greg Malone]] (Head Scout)}}
+===Engraving notes===
+* #16 [[Jay Caufield]] (RW) played in only 23 games. His name was engraved on the Stanley Cup because he spent the whole season with Pittsburgh.
+* [[Pierre McGuire]], [[Les Binkley]], John Gill, [[Charlie Hodge (ice hockey)|Charlie Hodge]], [[Ralph Cox]] were with the team as scouts in 1990–91, but names were not included on the Stanley Cup that year. All five of these scouts were awarded Stanley Cup rings.
+* [[Randy Gilhen]] was the first German-born player to win the Stanley Cup, but grew up in Winnipeg, Manitoba, Canada
+* [[Jim Paek]] was the first Korean-born hockey player to both play in the NHL, and have his name engraved on the Stanley Cup.
+* [[Barry Pederson]] did not play a single game in the 1991 playoffs, but he qualified to get his name on the Stanley Cup and get a Stanley Cup ring because he played 46 games during the season.
+* Pittsburgh filled the last spot on the bottom ring. The larger rings were filled a year early then planned. See [[1965 Stanley Cup Final]] and [[1992 Stanley Cup Final]].
+
+===Player notes===
+* The players listed below were on the roster, but did not qualify to be included on the Stanley Cup.{{efn|name=qualify}}
+** [[Gord Dineen]] (D) – 9 regular season games
+** #20 [[Jamie Leach]] (RW) – 7 regular season games
+** #18 [[Ken Priestlay]] (C) – 2 regular season games
+** #27 [[Gilbert Delorme]] (D) – missed the whole season due to a car accident in the offseason.
+** #30 [[Bruce Racine]] (G) – was called up from the minors to serve as back-up to Frank Pietrangelo. He was dressed for the last two games of round one, and first two games of round two. Both Wendell Young (who missed first three rounds due to injury), and Tom Barrasso (missed four games due to injury) were unable to play. Racine's name was left off the Stanley Cup, because he had not played in the NHL - in fact, Racine has never played for Pittsburgh. His only NHL experience came in 1995-96 for the [[St. Louis Blues]].
+* Dineen, Leach, and Priestlay spent most of the regular season in the minors. Racine spent the entire regular season in the minors. Delorme missed the entire season due to injury.
+
+==Broadcasting==
+In Canada, the series was televised in English on the [[Hockey Night in Canada|CBC]] and in French on [[La Soirée du hockey|SRC]].
+
+In the United States, the series aired nationally on [[NHL on SportsChannel America|SportsChannel America]]. However, SportsChannel America's national coverage was blacked out in the Minnesota and Pittsburgh areas due to the local rights to North Stars and Penguins games in those respective TV markets. In Minnesota, [[KMSP-TV]] aired games one, two and five while the [[Fox Sports North|Midwest Sports Channel]] had games three, four, and six. In Pittsburgh, [[Root Sports Pittsburgh|KBL]] televised games one, two and five while [[KDKA-TV|KDKA]] aired games three, four, and six. Had there been a game seven, it would have aired on KMSP-TV in Minnesota and KBL in Pittsburgh respectively.
+
+==See also==
+*[[1990–91 NHL season]]
+*[[List of Stanley Cup champions]]
+*[[1990–91 Minnesota North Stars season]]
+*[[1990–91 Pittsburgh Penguins season]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+<references />
+*{{cite book|title=Total Stanley Cup|year=2000|publisher=NHL}}
+*{{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|location=Bolton, Ont|publisher=Fenn Pub|pages=12, 50|isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+ before = [[1990 Stanley Cup Final|Edmonton Oilers<br>1990]] |
+ after = [[1992 Stanley Cup Final|Pittsburgh Penguins<br>1992]] |
+ title = [[List of Stanley Cup champions|Pittsburgh Penguins<br>Stanley Cup champions]] |
+ years = 1991|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Pittsburgh Penguins}}
+{{Minnesota North Stars}}
+{{1990–91 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on SportsChannel America}}
+{{NHL on ABC}}
+}}
+
+[[Category:1991 Stanley Cup| ]]
+[[Category:1990–91 NHL season|Stanley Cup]]
+[[Category:Minnesota North Stars|Stan]]
+[[Category:Pittsburgh Penguins games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1991 in sports in Minnesota|Stanley Cup Final]]
+[[Category:1991 in sports in Pennsylvania|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Pittsburgh]]
+[[Category:1990s in Pittsburgh]]
+[[Category:Ice hockey competitions in Minnesota]]
+[[Category:May 1991 sports events in the United States|Stanley Cup Final]]

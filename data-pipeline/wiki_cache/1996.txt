@@ -1,0 +1,1227 @@
+{{Short description|1996 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1996
+|image=1996 NHL Season.jpg
+|team1=[[1995–96 Florida Panthers season|Florida Panthers]]
+|team1_short=Florida
+|team1_1=1
+|team1_2=1
+|team1_3=2
+|team1_4=0***
+|team1_tot=0
+|team2='''[[1995–96 Colorado Avalanche season|Colorado Avalanche]]'''
+|team2_short=Colorado
+|team2_1='''3'''
+|team2_2='''8'''
+|team2_3='''3'''
+|team2_4='''1'''***
+|team2_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|mvp=[[Joe Sakic]] (Avalanche)
+|location2=[[Miami]]: [[Miami Arena]] (3, 4)
+|location1=[[Denver]]: [[McNichols Sports Arena]] (1, 2)
+|referees=[[Bill McCreary (referee)|Bill McCreary]] (1, 4)<br/>[[Don Koharski]] (2)<br/>[[Andy Van Hellemond]] (3)
+|team2_national_anthem= Aaron Bergell
+|team1_national_anthem=[[Jim Salestrom]]
+|series_winner=[[Uwe Krupp]] (4:31, third OT)
+|dates=June 4–10, 1996
+|team2_coach=[[Marc Crawford]]
+|team1_coach=[[Doug MacLean]]
+|team2_captain=[[Joe Sakic]]
+|team1_captain=[[Brian Skrudland]]
+|hofers='''Avalanche:'''<br/>[[Peter Forsberg]] (2014)<br/>[[Patrick Roy]] (2006)<br/>[[Joe Sakic]] (2012)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)<br/>[[Andy Van Hellemond]] (1999)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on Fox|Fox]] (1, 3), [[NHL on ESPN|ESPN]] (2, 4)
+|net_announcers= (CBC) [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(Fox) [[Mike Emrick]] and [[John Davidson (ice hockey)|John Davidson]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]] 
+}}
+The '''1996 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1995–96 NHL season|1995–96 season]], and the culmination of the [[1996 Stanley Cup playoffs]]. It was contested by the [[Western Conference (NHL)|Western Conference]] champion [[1995–96 Colorado Avalanche season|Colorado Avalanche]] and the [[Eastern Conference (NHL)|Eastern Conference]] champion [[1995–96 Florida Panthers season|Florida Panthers]], two teams in the Finals for the first time. The Avalanche swept the Panthers to win their first Stanley Cup in franchise history, becoming the seventh post-1967 expansion team and the second former [[World Hockey Association|WHA]] team (after the [[Edmonton Oilers]]) to win the Cup. Colorado's [[Joe Sakic]] earned the [[Conn Smythe Trophy]] as MVP of the 1996 Playoffs. This was the first [[Major professional sports leagues in the United States and Canada|major professional sports]] championship ever won by a [[Denver]]-based team.
+
+It was Colorado's first appearance in the Finals, in only their first season in [[Denver]] since [[relocation of professional sports teams|moving]] from [[Quebec City]] (where they had formerly played as the [[Quebec Nordiques|Nordiques]]) in 1995. It was also Florida's first appearance in the Finals, in only the franchise's third season since entering the NHL in 1993. Only four other teams have made their first Stanley Cup Final appearance faster: the [[Toronto Arenas]] winning the Stanley Cup in the NHL inaugural season in {{NHL Year|1917}}, the [[St. Louis Blues]] in their debut season in {{NHL Year|1967}} (they lost the {{scfy|1968}} Finals to the [[Montreal Canadiens]]), the [[Vegas Golden Knights]] in their inaugural year in {{NHL Year|2017}}, and the {{scfy|1928}} Cup-winning [[New York Rangers]] (who were in their second season of play, having been formed for the {{NHL Year|1926}} season). This was also the first time since the formation of the NHL in 1917 that the two teams competing for the Cup were making their first Finals appearance.
+
+==Paths to the Finals==
+{{further|1996 Stanley Cup playoffs}}
+{{see also|1995–96 Colorado Avalanche season|1995–96 Florida Panthers season}}
+
+===Colorado Avalanche===
+Colorado defeated the [[Vancouver Canucks]], [[Chicago Blackhawks]], and [[Detroit Red Wings]] in six games each to advance to the Finals.
+
+===Florida Panthers===
+Florida defeated the [[Boston Bruins]] in five games, the [[Philadelphia Flyers]] in six, and the [[Pittsburgh Penguins]] in seven, becoming the first team from a Southern state to appear in the Stanley Cup Final.
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = Florida Panthers
+ |team2 = Colorado Avalanche
+ |stadium1 = [[McNichols Sports Arena]]
+ |recap1 = www.nhl.com/gamecenter/col-vs-fla/1996/06/04/1995030411
+ |date1 = June 4
+ |score1 = 1–3
+ |won1 = 2
+}}
+The series opened on June 4, at the [[McNichols Sports Arena]] in [[Denver]]. [[Patrick Roy]] was in goal for Colorado, and [[John Vanbiesbrouck]] was between the pipes for Florida (a rematch from the 1986 Wales Conference Finals when Roy was with the [[Montreal Canadiens]] and Vanbiesbrouck was with the [[New York Rangers]]). Although Colorado was the heavy favorite in the series, Florida got on the board first on [[Tom Fitzgerald (ice hockey)|Tom Fitzgerald]]'s goal at 16:51 of the first period. That would be all the Panthers would get, however, as Colorado scored three times within five minutes in the second period. [[Scott Young (ice hockey, born 1967)|Scott Young]] scored at 10:32, [[Mike Ricci (ice hockey)|Mike Ricci]] scored at 12:21, and [[Uwe Krupp]] scored at 14:21. The Avalanche went on to win the game 3–1, with Roy making 25 saves in the victory.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;"|'''1st'''
+| style="text-align:center;"| FLA
+| style="text-align:center;"| [[Tom Fitzgerald (ice hockey)|Tom Fitzgerald]] (4)
+| style="text-align:center;"| [[Bill Lindsay]] (5)
+| style="text-align:center;"| 16:51
+| style="text-align:center;"| 1–0 FLA
+|-
+| style="text-align:center;" rowspan="3"|'''2nd'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Scott Young (ice hockey, born 1967)|Scott Young]] (3)
+| style="text-align:center;"| [[Adam Deadmarsh]] (9) and [[Sylvain Lefebvre]] (5)
+| style="text-align:center;"| 10:32
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Mike Ricci (ice hockey)|Mike Ricci]] (6)
+| style="text-align:center;"| [[Sandis Ozoliņš|Sandis Ozolinsh]] (13) and [[Mike Keane]] (2)
+| style="text-align:center;"| 12:21
+| style="text-align:center;"| 2–1 COL
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Uwe Krupp]] (3)
+| style="text-align:center;"| [[Valeri Kamensky]] (11) and [[Peter Forsberg]] (10)
+| style="text-align:center;"| 14:21
+| style="text-align:center;"| 3–1 COL
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| FLA
+|| [[Scott Mellanby]]
+|| Roughing
+|| 09:12
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Brian Skrudland]]
+|| Roughing
+|| 09:21
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Uwe Krupp
+|| High-sticking
+|| 13:46
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Alexei Gusarov]]
+|| Holding
+|| 18:15
+|| 2:00
+|- style="text-align:center;"
+| rowspan="5"|'''2nd'''
+|| FLA
+|| [[Róbert Švehla|Robert Svehla]]
+|| Interference
+|| 00:41
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| Bill Lindsay
+|| Roughing
+|| 07:56
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Mike Ricci
+|| Roughing
+|| 15:31
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| Robert Svehla
+|| Roughing
+|| 17:39
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Mike Ricci
+|| Goaltender interference
+|| 18:30
+|| 2:00
+|- style="text-align:center;"
+| rowspan="4"|'''3rd'''
+|| COL
+|| [[Joe Sakic]]
+|| Holding
+|| 03:35
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Terry Carkner]]
+|| Slashing
+|| 07:51
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[John Vanbiesbrouck]]
+|| Slashing
+|| 09:55
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Ed Jovanovski]]
+|| Roughing
+|| 19:42
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|FLA}} || style="text-align:center;"|12 || style="text-align:center;"|6 || style="text-align:center;"|8 || style="text-align:center;"|26
+|-
+| style="text-align:left;"|{{nowrap|COL}} || style="text-align:center;"|6 || style="text-align:center;"|15 || style="text-align:center;"|9 || style="text-align:center;"|30
+|}
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = Florida Panthers
+ |team2 = Colorado Avalanche
+ |stadium1 = [[McNichols Sports Arena]]
+ |recap1 = www.nhl.com/gamecenter/col-vs-fla/1996/06/06/1995030412
+ |date1 = June 6
+ |score1 = 1–8
+ |won1 = 2
+}}
+[[Peter Forsberg]] got the Avalanche on the board first in game two, scoring an unassisted goal at 4:11 of the first period. The Panthers tied the game on [[Stu Barnes]]' power-play goal at 7:52. [[René Corbet|Rene Corbet]] broke the 1–1 tie with a power-play goal at 10:43, and then Forsberg scored two power-play goals of his own at 13:46 and 15:05 to complete the hat trick. Colorado led 4–1 after just one period. The Avalanche would make it 5–1 with Corbet's second goal of the game at 4:37 of the second period. [[Valeri Kamensky]] followed with a goal just 31 seconds later, and [[Jon Klemm]] scored at 10:03 to give Colorado a dominating 7–1 lead after two periods. Klemm would add another goal at 17:28 of the third period. It was the Avalanche's fourth power-play goal of the game. Colorado won the game 8–1, with three players scoring at least twice.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="5"|'''1st'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Peter Forsberg]] (8)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 04:11
+| style="text-align:center;"| 1–0 COL
+|-
+| style="text-align:center;"| FLA
+| style="text-align:center;"| [[Stu Barnes]] (6) – ''pp''
+| style="text-align:center;"| [[Dave Lowry]] (7) and [[Ed Jovanovski]] (7)
+| style="text-align:center;"| 07:52
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[René Corbet|Rene Corbet]] (2) – ''pp''
+| style="text-align:center;"| [[Scott Young (ice hockey, born 1967)|Scott Young]] (12) and [[Joe Sakic]] (13)
+| style="text-align:center;"| 10:43
+| style="text-align:center;"| 2–1 COL
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| Peter Forsberg (9) – ''pp''
+| style="text-align:center;"| Joe Sakic (14) and [[Sandis Ozoliņš|Sandis Ozolinsh]] (14)
+| style="text-align:center;"| 13:46
+| style="text-align:center;"| 3–1 COL
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| Peter Forsberg (10) – ''pp''
+| style="text-align:center;"| Joe Sakic (15) and [[Adam Deadmarsh]] (10)
+| style="text-align:center;"| 15:05
+| style="text-align:center;"| 4–1 COL
+|-
+| style="text-align:center;" rowspan="3"|'''2nd'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| Rene Corbet (3)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 04:37
+| style="text-align:center;"| 5–1 COL
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Valeri Kamensky]] (10)
+| style="text-align:center;"| [[Alexei Gusarov]] (8) and Adam Deadmarsh (11)
+| style="text-align:center;"| 05:08
+| style="text-align:center;"| 6–1 COL
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Jon Klemm]] (1)
+| style="text-align:center;"| Rene Corbet (2) and [[Uwe Krupp]] (12)
+| style="text-align:center;"| 10:03
+| style="text-align:center;"| 7–1 COL
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| Jon Klemm (2) – ''pp''
+| style="text-align:center;"| Joe Sakic (16)
+| style="text-align:center;"| 17:28
+| style="text-align:center;"| 8–1 COL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| COL
+|| Adam Deadmarsh
+|| Roughing
+|| 05:53
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Bill Lindsay]]
+|| Slashing
+|| 08:55
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Terry Carkner]]
+|| Roughing
+|| 12:51
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[John Vanbiesbrouck]]
+|| Interference
+|| 14:50
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| COL
+|| [[Sylvain Lefebvre]]
+|| Holding
+|| 06:26
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Warren Rychel]]
+|| Roughing
+|| 17:01
+|| 2:00
+|- style="text-align:center;"
+| rowspan="10"|'''3rd'''
+|| COL
+|| Valeri Kamensky
+|| High-sticking – double minor
+|| 03:11
+|| 4:00
+|- style="text-align:center;"
+|| COL
+|| [[Curtis Leschyshyn]]
+|| Charging
+|| 07:28
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Valeri Kamensky
+|| Roughing
+|| 07:28
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| Ed Jovanovski
+|| Roughing
+|| 07:28
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Warren Rychel
+|| Instigator
+|| 09:39
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Warren Rychel
+|| Fighting – major
+|| 09:39
+|| 5:00
+|- style="text-align:center;"
+|| COL
+|| Warren Rychel
+|| Game misconduct
+|| 09:39
+|| 10:00
+|- style="text-align:center;"
+|| FLA
+|| Ed Jovanovski
+|| Fighting – major
+|| 09:39
+|| 5:00
+|- style="text-align:center;"
+|| FLA
+|| [[Paul Laus]]
+|| Goaltender interference
+|| 11:42
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Scott Mellanby]]
+|| Roughing
+|| 16:09
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|FLA}} || style="text-align:center;"|8 || style="text-align:center;"|15 || style="text-align:center;"|5 || style="text-align:center;"|28
+|-
+| style="text-align:left;"|{{nowrap|COL}} || style="text-align:center;"|11 || style="text-align:center;"|12 || style="text-align:center;"|7 || style="text-align:center;"|30
+|}
+
+===Game three===
+{{NHLPlayoffs
+ |team2 = Florida Panthers
+ |team1 = Colorado Avalanche
+ |stadium1 = [[Miami Arena]]
+ |recap1 = www.nhl.com/gamecenter/col-vs-fla/1996/06/08/1995030413
+ |date1 = June 8
+ |score1 = 3–2
+ |won1 = 1
+}}
+The Avalanche went to the [[Miami Arena]] in Florida with a 2–0 series lead. [[Claude Lemieux]], back after his two-game suspension, scored the first goal of the game at 2:44 of the first period to give Colorado a 1–0 lead. Florida played determinedly, however, and tied the game on Ray Sheppard's power-play goal at 9:14. [[Rob Niedermayer]] scored at 11:19 to give the Panthers their second lead of the series. The score was 2–1 Florida after one period. At 1:38 of the second period, Colorado's [[Mike Keane]] scored a game-tying goal. Captain Joe Sakic scored the go-ahead goal just 82 seconds later, and Colorado went on to win 3–2 and take a commanding three-games-to-none lead in the series. Patrick Roy made 32 saves in the win.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Claude Lemieux]] (5)
+| style="text-align:center;"| [[Valeri Kamensky]] (12) and [[Peter Forsberg]] (11)
+| style="text-align:center;"| 02:44
+| style="text-align:center;"| 1–0 COL
+|-
+| style="text-align:center;"| FLA
+| style="text-align:center;"| [[Ray Sheppard]] (8) – ''pp''
+| style="text-align:center;"| [[Martin Straka]] (2) and [[Ed Jovanovski]] (8)
+| style="text-align:center;"| 09:14
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;"| FLA
+| style="text-align:center;"| [[Rob Niedermayer]] (5)
+| style="text-align:center;"| [[Scott Mellanby]] (6) and [[Johan Garpenlöv|Johan Garpenlov]] (2)
+| style="text-align:center;"| 11:19
+| style="text-align:center;"| 2–1 FLA
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Mike Keane]] (3)
+| style="text-align:center;"| [[Adam Foote]] (3) and [[Alexei Gusarov]] (9)
+| style="text-align:center;"| 01:38
+| style="text-align:center;"| 2–2
+|-
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Joe Sakic]] (18)
+| style="text-align:center;"| [[Adam Deadmarsh]] (12) and [[Curtis Leschyshyn]] (2)
+| style="text-align:center;"| 03:00
+| style="text-align:center;"| 3–2 COL
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| COL
+|| Adam Deadmarsh
+|| Hooking
+|| 07:40
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| Adam Foote
+|| Roughing
+|| 12:49
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Dave Lowry]]
+|| Roughing
+|| 12:49
+|| 2:00
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|COL}} || style="text-align:center;"|6 || style="text-align:center;"|10 || style="text-align:center;"|6 || style="text-align:center;"|22
+|-
+| style="text-align:left;"|{{nowrap|FLA}} || style="text-align:center;"|16 || style="text-align:center;"|13 || style="text-align:center;"|5 || style="text-align:center;"|34
+|}
+
+===Game four===
+{{NHLPlayoffs
+ |team2 = Florida Panthers
+ |team1 = Colorado Avalanche
+ |stadium1 = [[Miami Arena]]
+ |recap1 = www.nhl.com/gamecenter/col-vs-fla/1996/06/10/1995030414
+ |date1 = June 10
+ |score1 = 1–0
+ |ot1=3
+ |won1 = 1
+}}
+With their backs to the wall, the two teams combined for a defensive battle that set a new record for the longest scoreless tie (104:31) in a Stanley Cup Final game, breaking the previous record from [[1934 Stanley Cup Final|Game 4 of the 1934 Stanley Cup Final]] (which ended after 90:05 of overtime); this record would be passed by Game 5 of the [[2000 Stanley Cup Final]].<ref>{{cite web|url=https://records.nhl.com/records/scf-team-records/overtime/longest-overtimes-scf-history|title=Stanley Cup Final Team Records {{!}} Longest Overtimes, Stanley Cup Final History|access-date=May 8, 2026|website=NHL Records}}</ref>
+
+Florida goaltender [[John Vanbiesbrouck]] went save for save with Colorado goaltender Patrick Roy. The two teams played a marathon game that took until the third overtime period. [[Uwe Krupp|Uwe Krupp's]] unassisted goal at 4:31 ended 44 minutes and 31 seconds of overtime and gave the Avalanche a 1–0 win and a four-game series sweep. Goaltender Patrick Roy stopped all 63 shots he faced. Colorado outscored Florida 15–4 in the series, and Patrick Roy stopped 147 of 151 shots, for a save percentage of .974. Joe Sakic was awarded the [[Conn Smythe Trophy]] as playoff MVP, having led all skaters in goals with 18, and points with 34. For both Patrick Roy and Claude Lemieux, it was one of their three Stanley Cup wins in 11 years. Roy and Lemieux first won the Cup in 1986 with the [[Montreal Canadiens]]. Roy won a second Cup with Montreal in 1993. Lemieux won a second cup with [[New Jersey Devils|New Jersey]] in 1995.
+
+The Avalanche became the third team to win the cup after relocating: the {{scfy|1989}} [[Calgary Flames]] won the Cup after moving from [[Atlanta Flames|Atlanta]] and the New Jersey Devils in 1995 won the Cup 13 years after they played their last game in the [[Denver|same city]] and [[McNichols Sports Arena|same arena]] that the Avs played in as the [[Colorado Rockies (NHL)|Colorado Rockies]].
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2OT'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''3OT'''
+| style="text-align:center;"| COL
+| style="text-align:center;"| [[Uwe Krupp]] (4)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 04:31
+| style="text-align:center;"| 1–0 COL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| FLA
+|| [[Róbert Švehla|Robert Svehla]]
+|| Roughing
+|| 18:51
+|| 2:00
+|- style="text-align:center;"
+| rowspan="8"|'''2nd'''
+|| COL
+|| [[Valeri Kamensky]]
+|| Hooking
+|| 05:21
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Sandis Ozoliņš|Sandis Ozolinsh]]
+|| Roughing
+|| 05:21
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Rob Niedermayer]]
+|| Roughing
+|| 05:21
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Adam Foote]]
+|| Roughing
+|| 09:28
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Ed Jovanovski]]
+|| Cross-checking
+|| 12:27
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Curtis Leschyshyn]]
+|| Hooking
+|| 15:33
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Mike Ricci (ice hockey)|Mike Ricci]]
+|| Roughing
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Stu Barnes]]
+|| Roughing
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| FLA
+|| [[John Vanbiesbrouck]]
+|| Interference
+|| 05:15
+|| 2:00
+|- style="text-align:center;"
+|| COL
+|| [[Claude Lemieux]]
+|| High-sticking
+|| 06:29
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''OT'''
+|| COL
+|| Sandis Ozolinsh
+|| Roughing
+|| 13:04
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Johan Garpenlov]]
+|| Roughing
+|| 13:04
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2OT'''
+|| COL
+|| Claude Lemieux
+|| Roughing
+|| 09:57
+|| 2:00
+|- style="text-align:center;"
+|| FLA
+|| [[Brian Skrudland]]
+|| Slashing
+|| 09:57
+|| 2:00
+|-
+| style="text-align:center;" rowspan="1" |'''3OT'''
+| style="text-align:center;" colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="8"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|2OT
+! style="width:3em;"|3OT
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|COL}} || style="text-align:center;"|9 || style="text-align:center;"|10 || style="text-align:center;"|10 || style="text-align:center;"|11 || style="text-align:center;"|12 || style="text-align:center;"|4 || style="text-align:center;"|56
+|-
+| style="text-align:left;"|{{nowrap|FLA}} || style="text-align:center;"|10 || style="text-align:center;"|17 || style="text-align:center;"|8 || style="text-align:center;"|7 || style="text-align:center;"|18 || style="text-align:center;"|3 || style="text-align:center;"|63
+|}
+
+==Team rosters==
+Bolded years under Finals appearance indicates year won Stanley Cup.
+
+===Colorado Avalanche===
+[[File:Joe sakic.jpg|thumb|[[Joe Sakic]] captained the Avalanche to their first Stanley Cup Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Fiset|Stéphane Fiset}}
+| G
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Roy}}
+| G
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| fourth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1993}}''')}}
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sylvain|Lefebvre}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Richmond, Quebec]]
+| first 
+|-
+| '''4'''
+| {{flagicon|GER}}
+! scope="row" style="text-align:left;"|{{sortname|Uwe|Krupp}}
+| D
+| R
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Cologne|Cologne, West Germany]]
+| first
+|-
+| '''5'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Gusarov}}
+| D
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Saint Petersburg|Leningrad, Soviet Union]]
+| first
+|-
+| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Wolanin}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Grosse Pointe, Michigan]]
+| first {{small|(did not play)}}
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{Sortname|Curtis|Leschyshyn}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Thompson, Manitoba]]
+| first
+|-
+| '''8'''
+| {{flagicon|LAT}}
+! scope="row" style="text-align:left;"|{{sortname|Sandis|Ozolinsh|Sandis Ozoliņš}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Riga|Riga, Soviet Union]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jon|Klemm}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| first 
+|-
+| '''52'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Foote}}
+| D
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Ricci|dab=ice hockey}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Scarborough, Toronto|Scarborough, Ontario]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Troy|Murray}}
+| C
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Simon}}
+| LW
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Wawa, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''13'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Valeri|Kamensky}}
+| LW
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Voskresensk, Moscow Oblast|Voskresensk, Soviet Union]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Hannan}}
+| C/LW
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Onaping Falls, Ontario]]
+| second {{small|('''{{scfy|1988}}''')}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Warren|Rychel}}
+| LW
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Strathroy-Caradoc|Strathroy, Ontario]]
+| second {{small|({{scfy|1993}})}}
+|-
+| '''18'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Deadmarsh}}
+| RW
+| R
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Trail, British Columbia]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Sakic}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rene|Corbet|René Corbet}}
+| LW
+| R
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Victoriaville|Victoriaville, Quebec]]
+| first
+|-
+| '''21'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Forsberg}}
+| C/LW
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Claude|Lemieux}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Buckingham, Quebec]]
+| fourth {{small|('''{{scfy|1986}}''', {{scfy|1989}}, '''{{scfy|1995}}''')}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Keane}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| third {{small|({{scfy|1989}}, '''{{scfy|1993}}''')}}
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Yelle|Stéphane Yelle}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first 
+|-
+| '''48'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Young|Scott Young (ice hockey, born 1967)}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Clinton, Massachusetts]]
+| second {{small|('''{{scfy|1991}}''')}}
+|}
+
+===Florida Panthers===
+[[File:BrianSkrudland.png|thumb|[[Brian Skrudland]] captained the Panthers to their first Stanley Cup Final appearance in franchise history.]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Fitzpatrick}}
+| G
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''34'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|Vanbiesbrouck}}
+| G
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Terry|Carkner}}
+| D
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Smiths Falls|Smiths Falls, Ontario]]
+| first 
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Laus}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Beamsville, Ontario]]
+| first 
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gord|Murphy}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[North York, Ontario]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Woolley}}
+| D
+| L
+| {{NHL Year|1994}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{Sortname|Rhett|Warrener}}
+| D
+| R
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Shaunavon, Saskatchewan]]
+| first
+|-
+| '''24'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Robert|Svehla|Róbert Švehla}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Martin, Slovakia|Martin, Czechoslovakia]]
+| first
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Jovanovski}}
+| D
+| L
+| [[1994 NHL Entry Draft|1994]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first 
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Lowry}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Greater Sudbury|Sudbury, Ontario]]
+| first
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bill|Lindsay}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Bigfork, Montana]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jody|Hull}}
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Petrolia, Ontario]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stu|Barnes}}
+| C
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Spruce Grove|Spruce Grove, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Hough}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''9'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Radek|Dvorak|Radek Dvořák}}
+| RW
+| R
+| [[1995 NHL Entry Draft|1995]]
+| style="text-align:left;"|[[Tábor|Tábor, Czechoslovakia]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Skrudland}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Peace River, Alberta]]
+| third {{small|('''{{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''21'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Fitzgerald|Tom Fitzgerald (ice hockey)}}
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Billerica, Massachusetts]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ray|Sheppard}}
+| RW
+| R
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Pembroke, Ontario]]
+| second {{small|({{scfy|1995}})}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Mellanby}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|({{scfy|1987}})}}
+|-
+| '''28'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Straka}}
+| C
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| first
+|-
+| '''29'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Johan|Garpenlov|Johan Garpenlöv}}
+| LW
+| L
+| {{NHL Year|1995}}
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first 
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Niedermayer}}
+| C
+| L
+| [[1993 NHL Entry Draft|1993]]
+| style="text-align:left;"|[[Cassiar, British Columbia]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1996 Stanley Cup was presented to Avalanche captain Joe Sakic by [[NHL Commissioner]] [[Gary Bettman]] following the Avalanche's 1–0 triple overtime win over the Panthers in game four.
+
+The following Avalanche players and staff had their names engraved on the Stanley Cup
+
+'''1995–96 Colorado Avalanche'''
+{{Stanley Cup champion
+|defence=*2 [[Sylvain Lefebvre]] (A)
+*4 [[Uwe Krupp]]
+*5 [[Alexei Gusarov]]
+*6 [[Craig Wolanin]] (A)†
+*7 [[Curtis Leschyshyn]] (A)
+*8 [[Sandis Ozoliņš|Sandis Ozolinsh]]
+*24 [[Jon Klemm]]
+*52 [[Adam Foote]]
+|goaltenders=*33 [[Patrick Roy]]
+*35 [[Stéphane Fiset|Stephane Fiset]]
+|centres=*9 [[Mike Ricci (ice hockey)|Mike Ricci]] (A)
+*10 [[Troy Murray]] †
+*19 [[Joe Sakic]] (Captain)
+*14 [[Dave Hannan]]*
+*21 [[Peter Forsberg]]*
+*26 [[Stéphane Yelle|Stephane Yelle]]
+|wingers=
+*12 [[Chris Simon]] †
+*13 [[Valeri Kamensky]]
+*16 [[Warren Rychel]]
+*18 [[Adam Deadmarsh]] ‡
+*20 [[René Corbet|Rene Corbet]]
+*22 [[Claude Lemieux]]
+*25 [[Mike Keane]]
+*48 [[Scott Young (ice hockey, born 1967)|Scott Young]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+|non-players=
+*[[Charlie Lyons]] (Chairman/Chief Executive Officer/Owner/President/Governor), [[Pierre Lacroix (ice hockey, born 1948)|Pierre Lacroix]] (Vice President/General Manager), [[Marc Crawford]] (Head Coach)
+*[[Joel Quenneville]] (Asst. Coach), [[Jacques Cloutier]] (Goaltending Coach), [[François Giguère|Francois Giguere]] (Asst. General Manager)
+*[[Michel Goulet]] (Director of Player Personnel), Dave Draper (Chief Scout), [[Jean Martineau (ice hockey)|Jean Martineau]] (Director of Public Relations)
+*Pat Karns (Athletic Trainer), Matthew Sokolowski (Asst. Trainer), Rob McLean (Equipment Manager)
+*Mike Kramer (Asst. Equipment Manager), Brock Gibbins (Asst. Equipment Manager), Skip Allen (Strength-Conditioning Coach)
+*Paul Fixter (Video Coordinator), Leo Vyssokov (Massage Therapist)}}
+===Engraving notes===
+* #8 [[Sandis Ozoliņš|Sandis Ozolinsh]] (D) – was the first Latvian born and trained player to win the Stanley Cup. 
+* #4 [[Uwe Krupp]] (D) – was the first German born and trained player to win the Stanley Cup.
+* Adam Deadmarsh's name was misspelled ADAM DEADMARCH. This mistake was corrected by stamping an "S" over the "C" twice. Deadmarsh's name was the first player's name to be corrected on the Presentation Stanley Cup.
+
+==Broadcasting==
+In Canada, the series was televised on [[Hockey Night in Canada|CBC]]. In the United States, this was the second year that coverage was split between [[NHL on Fox|Fox]] and [[ESPN National Hockey Night|ESPN]]. Fox broadcast games 1 and 3 while ESPN televised games 2 and 4. The Stanley Cup-clinching game thus aired on cable. Had the series extended, Fox would have televised games 5 and 7, and ESPN would have aired game 6.
+
+==See also==
+* [[1995–96 NHL season]]
+* [[1995-96 Colorado Avalanche season]]
+* [[List of Stanley Cup champions]]
+
+== References ==
+{{Reflist}}
+* {{cite book|last=Diamond |first=Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |last=Podnieks|first=Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1995 Stanley Cup Final|New Jersey Devils<br>1995]] |
+  after = [[1997 Stanley Cup Final|Detroit Red Wings<br>1997]] |
+  title = [[List of Stanley Cup champions|Colorado Avalanche<br>Stanley Cup champions]] |
+  years = 1996|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Colorado Avalanche}}
+{{Florida Panthers}}
+{{1995–96 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Fox}}
+{{ESPN National Hockey Night}}
+}}
+
+[[Category:1996 Stanley Cup| ]]
+[[Category:1995–96 NHL season|Stanley Cup]]
+[[Category:Colorado Avalanche games]]
+[[Category:Florida Panthers games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1990s in Miami]]
+[[Category:June 1996 sports events in the United States]]
+[[Category:1990s in Denver]]
+[[Category:Ice hockey competitions in Denver]]
+[[Category:Ice hockey in Miami]]
+[[Category:1996 in sports in Florida]]
+[[Category:1996 in sports in Colorado]]

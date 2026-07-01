@@ -1,0 +1,1538 @@
+{{Short description|1993 ice hockey championship series}}
+{{Use mdy dates|date=February 2012}}
+{{Infobox Stanley Cup Final
+| year = 1993
+| image = Stanley Cup 1993 Logo.gif
+| team1 = [[1992–93 Los Angeles Kings season|Los Angeles Kings]]
+| team2 = '''[[1992–93 Montreal Canadiens season|Montreal Canadiens]]'''
+| team1_short = Montreal
+| team2_short = Los Angeles
+| team2_captain = [[Wayne Gretzky]]
+| team1_captain = [[Guy Carbonneau]]
+| team2_coach = [[Barry Melrose]]
+| team1_coach = [[Jacques Demers]]
+| team1_1 = '''4'''
+| team2_1 = 1
+| team1_2 = 2*
+| team2_2 = '''3'''*
+| team1_3 = 3*
+| team2_3 = '''4'''*
+| team1_4 = 2*
+| team2_4 = '''3'''*
+| team1_5 = 1
+| team2_5 = '''4'''
+| team1_tot = 1
+| team2_tot = 4
+| table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = [[Andy Van Hellemond]] (1, 4)<br>[[Kerry Fraser]] (2)<br>[[Terry Gregson]] (3, 5)
+| dates = June 1–9, 1993
+| location1 = [[Inglewood, California|Inglewood]]: [[The Forum (Inglewood)|Great Western Forum]] (3, 4)
+| location2 = [[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+| mvp = [[Patrick Roy]] (Canadiens)
+| series_winner = [[Kirk Muller]] (3:51, second)
+| hofers = '''Canadiens:''' <br/>[[Guy Carbonneau]] (2019)<br/>[[Patrick Roy]] (2006)<br/>[[Denis Savard]] (2000)<br>'''Kings:'''<br/>[[Rob Blake]] (2014)<br/>[[Wayne Gretzky]] (1999)<br/>[[Jari Kurri]] (2001)<br/>[[Luc Robitaille]] (2009)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+| networks ='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on ESPN|ESPN]]<br />(Los Angeles area): [[FSN West/Prime Ticket|Prime Ticket]] 
+| net_announcers =(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Harry Neale]], and [[Dick Irvin Jr.]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]]<br/>(Prime Ticket) [[Bob Miller (sportscaster)|Bob Miller]] and [[Jim Fox (ice hockey)|Jim Fox]]
+}}
+The '''1993 Stanley Cup Final'''  was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1992–93 NHL season|1992–93 season]], and the culmination of the [[1993 Stanley Cup playoffs]]. It was contested between the [[1992–93 Los Angeles Kings season|Los Angeles Kings]] and the [[1992–93 Montreal Canadiens season|Montreal Canadiens]]. It was the first appearance in the Final for the Kings and the first appearance since the [[1920 Stanley Cup Final]] for a team based on the west coast of the United States. It was also the 34th appearance for Montreal, their first since the [[1989 Stanley Cup Final]]. The Canadiens defeated the Kings in five games to win the team's 24th Stanley Cup. The year 1993 was the 100th anniversary of the first awarding of the [[Stanley Cup]] in [[1893 Stanley Cup championship|1893]], and the first Finals to start in the month of June. To date, the 1993 Canadiens are the last Stanley Cup championship team to be composed solely of North American-born players, and the last Canadian-based team to win the Stanley Cup.
+
+The series is remembered for Kings defenceman [[Marty McSorley]]'s penalty late in the third period of game two for using an illegal stick, in what proved to be the turning point in the 1993 Cup Finals. When McSorley entered the penalty box, Los Angeles held a 1–0 series lead, and a 2–1 score in the contest. The Canadiens then went on to score the equalizer on the ensuing power play, won game two in overtime, and then defeated the Kings in the next three games to win the Cup.
+
+From the moment that McSorley was called for the penalty, the Kings failed to win another postseason game for the remainder of the 20th century, losing all the remaining games of the Finals, failing to qualify for the playoffs in five of the next seven seasons, and being swept out in the first round the other two times. Their next postseason win did not come until 2001, against the [[Detroit Red Wings]]. Meanwhile, the Canadiens did not appear in the Stanley Cup Final again until [[2021 Stanley Cup Final|2021]].
+
+==Paths to the Finals==
+{{further|1993 Stanley Cup playoffs|1992–93 Los Angeles Kings season|1992–93 Montreal Canadiens season}}
+
+===Los Angeles Kings===
+Los Angeles had started the season well but faltered from December to February, though they managed to rebound and clinch a playoff spot. Superstar [[Wayne Gretzky]] sat out from October to January due to injury. Los Angeles did not have home ice advantage for all four playoff rounds, and was the only club to face Canadian teams in every round. To reach the finals, Los Angeles defeated the [[Calgary Flames]] in the Smythe Division Semifinals 4–2, the [[Vancouver Canucks]] in the Smythe Division Finals 4–2, and the [[Toronto Maple Leafs]] in the Campbell Conference Finals 4–3.
+
+===Montreal Canadiens===
+Montreal defeated the [[Quebec Nordiques]] (their [[Battle of Quebec (ice hockey)|provincial rival]]s) in the Adams Division Semifinals 4–2, the [[Buffalo Sabres]] in the Adams Division Finals 4–0, and the [[New York Islanders]] in the Wales Conference Finals 4–1.<ref name="Canadiens">{{harvnb|Morrison|2008|pp=142–145}}</ref> The Canadiens initially lost their first two games against the Nordiques, due in part to a couple of weak goals let in by star Montreal goaltender (and Quebec City native) [[Patrick Roy]]. Afterwards, a newspaper in Roy's hometown district suggested that he be traded, while Nordiques goaltending coach [[Dan Bouchard]] proclaimed that his team had solved Roy. The Canadiens then responded by winning the next four games to eliminate the Nordiques, then swept the Sabres and took the first three games against the Islanders, tying a record of 11 consecutive playoff wins set by the [[Chicago Blackhawks]] and [[Pittsburgh Penguins]] [[1992 Stanley Cup playoffs|the year before]].
+
+The playoffs in both conferences saw numerous upsets, with the top teams in each conference &ndash; the Blackhawks and Penguins &ndash; being eliminated before the Conference Finals. The Campbell Conference saw the Blackhawks swept in the Norris Division Semifinals by the [[Blackhawks–Blues rivalry|rival]] [[St. Louis Blues]]. Montreal's path to their first Cup Finals since {{scfy|1989}} became much easier after the Sabres swept the Canadiens' [[Bruins–Canadiens rivalry|bitter rivals]], the [[Boston Bruins]], in the Adams Division Semifinals and the Islanders eliminated the two-time defending Stanley Cup champions (and the [[Presidents' Trophy|league's top regular-season team]]), the [[Pittsburgh Penguins]], in the Patrick Division Finals.<ref>{{cite news|title=Sabres send Bruins packing May's OT strike completes sweep|first=Kevin Paul|last=Dupont|newspaper=Boston Globe|date=April 25, 1993|page=49}}</ref> The Bruins had eliminated the Canadiens in the playoffs for three straight years,<ref>{{cite news|title=The KO Punch Wesley Scores with 1:13 Left as Bruins Send Canadiens Packing|first=Kevin Paul|last=Dupont|newspaper=Boston Globe|date=April 28, 1990|page=33}}</ref><ref>{{cite news|title=Moog Leads Bruins Into Conference Final|last=Yannis|first=Alex|newspaper=New York Times|date=April 30, 1991|page=B11}}</ref><ref>{{cite news|title=Bruins bump Canadiens|first=Rachel|last=Shuster|newspaper=USA Today|date=April 30, 1991|page=1C}}</ref><ref>{{cite news|title=A Four-Gone Conclusion Bruins complete sweep of Montreal with shutout|first=Kevin Paul|last=Dupont|newspaper=Boston Globe|date=May 10, 1992|page=49}}</ref> mainly due to Boston goaltender [[Andy Moog]], who was often referred to as the "greatest Hab killer" the Bruins ever had.<ref>{{cite web|url=https://www.espn.com/espn/print?id=3305393&type=story|title=Canadiens-Bruins rivalry alive and well this season|date=March 21, 2008|access-date=January 9, 2011|first=Jonah|last=Keri|publisher=ESPN}}</ref> The Kings' path through the 1993 playoffs was similarly made easier as their nemesis, the [[Edmonton Oilers]], who had eliminated the Kings from the playoffs in [[1990 Stanley Cup playoffs|1990]], [[1991 Stanley Cup playoffs|1991]], and 1992, failed to qualify for the playoffs for the first time since they joined the NHL in 1979.
+
+==Game summaries==
+This was the last Stanley Cup Final series played in the [[Montreal Forum]], and the last time [[Wayne Gretzky]] competed in the Finals. The Kings were appearing in the Finals for the first time in their 26-year history. They did not appear in the Finals again until [[2012 Stanley Cup Final|2012]], where they faced the [[New Jersey Devils]] and won their first Stanley Cup. Montreal's victory is the most recent championship won by a Canadian team. They did not appear in the Finals again until [[2021 Stanley Cup Final|2021]], where they lost to the [[Tampa Bay Lightning]].
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = Los Angeles Kings
+ |team2 = Montreal Canadiens
+ |stadium1 = Montreal Forum
+ |date1 = June 1
+ |score1 = 4–1
+ |won1 = 1
+ |recap1=www.nhl.com/gamecenter/lak-vs-mtl/1993/06/01/1992030411
+}}
+In game one at the Montreal Forum, the Kings jumped out to a 1–0 lead on [[Luc Robitaille]]'s power-play goal at 3:03 of the first period. The Canadiens tied the game late in the first on [[Ed Ronan]]'s goal at 18:09 (although it was merely a pass that Gretzky accidentally deflected [[own goal|into his own net]]). Robitaille would break the 1–1 deadlock with his second power-play goal of the game at 17:41 of the second period. [[Jari Kurri]] added an insurance marker off a [[Patrice Brisebois]] turnover at 1:51 of the third, and Gretzky sealed the 4–1 win for the Kings with an empty net goal at 18:02.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | LAK
+|align=center | [[Luc Robitaille]] (7) – ''pp''
+|align=center | [[Alexei Zhitnik]] (9) and [[Wayne Gretzky]] (21)
+|align=center | 03:03
+|align=center | 1–0 LAK
+|-
+|align=center | MTL
+|align=center | [[Ed Ronan]] (2)
+|align=center | ''Unassisted''
+|align=center | 18:09
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | LAK
+|align=center | Luc Robitaille (8) – ''pp''
+|align=center | Rob Blake (6) and Wayne Gretzky (22)
+|align=center | 17:41
+|align=center | 2–1 LAK
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | LAK
+|align=center | [[Jari Kurri]] (9)
+|align=center | Wayne Gretzky (23) and [[Tony Granato]] (9)
+|align=center | 01:51
+|align=center | 3–1 LAK
+|-
+|align=center | LAK
+|align=center | Wayne Gretzky (14) – ''en''
+|align=center | [[Tomas Sandström]] (16)
+|align=center | 18:02
+|align=center | 4–1 LAK
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | MTL
+|align=center | [[Lyle Odelein]]
+|align=center | Holding
+|align=center | 02:42
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Gilbert Dionne]]
+|align=center | Hooking
+|align=center | 06:12
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Kelly Hrudey]]
+|align=center | Delay of game
+|align=center | 11:03
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Jari Kurri 
+|align=center | Holding
+|align=center | 15:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="11"| '''2nd'''
+|align=center | LAK
+|align=center | Tony Granato
+|align=center | Goaltender interference
+|align=center | 05:08
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Dave Taylor (ice hockey)|Dave Taylor]]
+|align=center | Roughing
+|align=center | 06:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Kirk Muller]]
+|align=center | Roughing
+|align=center | 06:23
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Marty McSorley]]
+|align=center | Unsportsmanlike conduct
+|align=center | 07:16
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Lyle Odelein
+|align=center | Unsportsmanlike conduct
+|align=center | 07:16
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Vincent Damphousse]]
+|align=center | Slashing
+|align=center | 10:23
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Corey Millen]]
+|align=center | High-sticking
+|align=center | 17:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrice Brisebois]]
+|align=center | Holding
+|align=center | 17:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Éric Desjardins|Eric Desjardins]]
+|align=center | High-sticking
+|align=center | 17:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrick Roy]]
+|align=center | Delay of game
+|align=center | 18:33
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Wayne Gretzky
+|align=center | Hooking
+|align=center | 19:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | LAK
+|align=center | [[Charlie Huddy]]
+|align=center | Hooking
+|align=center | 06:41
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[J.J. Daigneault]]
+|align=center | Cross-checking
+|align=center | 18:41
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Los Angeles}} || align=center | 11 || align=center | 20 || align=center | 7 || align=center | 38
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 11 || align=center | 10 || align=center | 11 || align=center | 32
+|}
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = Los Angeles Kings
+ |team2 = Montreal Canadiens
+ |stadium1 = Montreal Forum
+ |date1 = June 3
+ |score1 = 2–3
+ |ot1=1
+ |won1 = 2
+ |recap1=www.nhl.com/gamecenter/lak-vs-mtl/1993/06/03/1992030412
+}}
+The turning point of the series for the Canadiens came late in the third period of game two. With the Kings leading by a score of 2–1, Canadiens head coach [[Jacques Demers]] called for a measurement of the curve of Kings defenceman [[Marty McSorley]]'s stick. The stick was deemed illegal and McSorley was given a two-minute minor penalty for [[unsportsmanlike conduct]]. As it was late in the game and Montreal was facing the prospect of going to Los Angeles down two games to none, Demers pulled goalie [[Patrick Roy]], producing a 6-on-4 advantage for the Canadiens. Montreal's [[Éric Desjardins|Eric Desjardins]] scored from the point to tie the game at two and force overtime. Desjardins then scored his third goal of the game 51 seconds into overtime to give Montreal the win and the momentum heading toward games three and four at the [[The Forum (Inglewood, California)|Great Western Forum]]. Desjardins is the first and only defenceman to score a [[hat trick]] in the Cup Finals.
+
+Reports suggested Canadiens head coach Jacques Demers knew which of the Kings' hockey sticks to challenge, thanks to a Montreal Forum employee assigned to the Kings' locker room who temporarily moved the Kings' portable stick rack to the Montreal's locker room. Demers has denied this and credited captain [[Guy Carbonneau]] with spotting McSorley's illegal stick.<ref>{{cite news| url=http://usatoday30.usatoday.com/sports/hockey/nhl/kings/story/2012-05-27/marty-mcsorley-illegal-stick-curse/55238940/1 | work=USA Today | title=Most Popular E-mail Newsletter | date=May 27, 2012}}</ref><ref>{{cite news| url=https://www.latimes.com/sports/la-xpm-2012-may-28-la-sp-kings-mcsorley-stick-20120529-story.html | work=Los Angeles Times | first=Chris | last=Foster | title=Kings fans can't forget stick incident in 1993, but there's more to the picture | date=May 28, 2012}}</ref><ref>{{cite news |title=McSorley hopes Kings overcome stick curse|url=http://www.sportsnet.ca/hockey/nhl/marty-mcsorley-los-angeles-kings-illegal-stick-curse/ |date=May 27, 2012 |website=Sportsnet.ca |access-date=July 31, 2019}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Éric Desjardins|Eric Desjardins]] (2)
+|align=center | [[Vincent Damphousse]] (10) and [[Stéphan Lebeau]] (2)
+|align=center | 18:31
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | LAK
+|align=center | [[Dave Taylor (ice hockey)|Dave Taylor]] (3)
+|align=center | ''Unassisted''
+|align=center | 05:12
+|align=center | 1–1 
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | LAK
+|align=center | [[Pat Conacher]] (6) 
+|align=center | Dave Taylor (5) and [[Tony Granato]] (10)
+|align=center | 08:32
+|align=center | 2–1 LAK
+|-
+|align=center | MTL
+|align=center | Eric Desjardins (3)
+|align=center | Vincent Damphousse (11) and [[Mathieu Schneider]] (2)
+|align=center | 18:47
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | MTL
+|align=center | Eric Desjardins (4)
+|align=center | [[Benoît Brunet|Benoit Brunet]] (8) and [[Ed Ronan]] (3)
+|align=center | 00:51
+|align=center | 3–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="10"| '''1st'''
+|align=center | MTL
+|align=center | [[Lyle Odelein]]
+|align=center | Roughing
+|align=center | 05:57
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Luc Robitaille]]
+|align=center | Hooking
+|align=center | 06:40
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrice Brisebois]]
+|align=center | Roughing
+|align=center | 07:05
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Rob Blake]]
+|align=center | Tripping
+|align=center | 10:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrick Roy]]
+|align=center | High-sticking
+|align=center | 10:38
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Tim Watters]]
+|align=center | Holding
+|align=center | 13:01
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Kirk Muller]]
+|align=center | Tripping
+|align=center | 13:01
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Darryl Sydor]]
+|align=center | Holding
+|align=center | 14:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Mathieu Schneider
+|align=center | High-sticking
+|align=center | 17:02
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Tony Granato
+|align=center | Holding
+|align=center | 17:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | MTL
+|align=center | Kirk Muller
+|align=center | Cross-checking
+|align=center | 00:35
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Charlie Huddy]]
+|align=center | Cross-checking
+|align=center | 04:20
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Marty McSorley]]
+|align=center | Roughing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Vincent Damphousse
+|align=center | Roughing
+|align=center | 09:43
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Luc Robitaille
+|align=center | Roughing
+|align=center | 16:02
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Gilbert Dionne]]
+|align=center | Roughing
+|align=center | 16:02
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | MTL
+|align=center | Benoit Brunet
+|align=center | Slashing
+|align=center | 01:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Vincent Damphousse
+|align=center | Cross-checking
+|align=center | 02:30
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Alexei Zhitnik]]
+|align=center | Tripping
+|align=center | 04:17
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Dave Taylor
+|align=center | Goaltender interference
+|align=center | 11:56
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Patrice Brisebois
+|align=center | Cross-checking
+|align=center | 13:16
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Marty McSorley
+|align=center | Illegal equipment
+|align=center | 18:15
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | LAK
+|align=center | Rob Blake
+|align=center | Misconduct
+|align=center | 00:51
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Los Angeles}} || align=center | 5 || align=center | 9 || align=center | 9 || align=center | 1 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 16 || align=center | 12 || align=center | 11 || align=center | 2 || align=center | 41
+|}
+
+===Game three===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Los Angeles Kings
+ |stadium1 = Great Western Forum
+ |date1 = June 5
+ |score1 = 4–3
+ |ot1=1
+ |won1 = 1
+ |recap1=www.nhl.com/gamecenter/mtl-vs-lak/1993/06/05/1992030413
+}}
+In game three in Los Angeles, the Canadiens jumped out to a 1–0 first period lead on a tip-in goal by [[Brian Bellows]] at 10:26, and [[Gilbert Dionne]] and [[Mathieu Schneider]] increased that lead to 3–0 at 2:41 and 3:02 of the second period. After a memorable check by long-time Kings defenceman [[Mark Hardy (ice hockey)|Mark Hardy]] on Montreal's [[Mike Keane]], the Kings fired back to tie the game in the second period on goals by Robitaille, [[Tony Granato]] and Gretzky. With time running out in the third period, Montreal captain [[Guy Carbonneau]] appeared to cover the puck in the goal crease, which with such little time remaining (12 seconds) would have resulted in a [[penalty shot]] for Los Angeles. But the referee ruled that the puck had been shot by a Kings player into Carbonneau's equipment, and so the period remained scoreless. After the series, the referee admitted that he had made a mistake on the call. The game went into overtime and Montreal's [[John LeClair]] scored the winner just 34 seconds into the extra period, giving the Canadiens their ninth consecutive overtime playoff victory.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Brian Bellows]] (6) – ''pp''
+|align=center | [[Kevin Haller]] (6) and [[Kirk Muller]] (6)
+|align=center | 10:26
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | MTL
+|align=center | [[Gilbert Dionne]] (6)
+|align=center | [[Mike Keane]] (11) and [[Stéphan Lebeau|Stephan Lebeau]] (3)
+|align=center | 02:41
+|align=center | 2–0 MTL
+|-
+|align=center | MTL
+|align=center | [[Mathieu Schneider]] (1)
+|align=center | [[Guy Carbonneau]] (3)
+|align=center | 03:02
+|align=center | 3–0 MTL
+|-
+|align=center | LAK
+|align=center | [[Luc Robitaille]] (9)
+|align=center | Wayne Gretzky (24) and [[Tomas Sandström|Tomas Sandstrom]] (17)
+|align=center | 07:52
+|align=center | 3–1 MTL
+|-
+|align=center | LAK
+|align=center | [[Tony Granato]] (6)
+|align=center | ''Unassisted''
+|align=center | 11:02
+|align=center | 3–2 MTL
+|-
+|align=center | LAK
+|align=center | Wayne Gretzky (15)
+|align=center | [[Mike Donnelly]] (7) and [[Mark Hardy (ice hockey)|Mark Hardy]] (2)
+|align=center | 17:07
+|align=center | 3–3
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | MTL
+|align=center | [[John LeClair]] (3)
+|align=center | Kirk Muller (7) and Brian Bellows (9)
+|align=center | 00:34
+|align=center | 4–3 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | LAK
+|align=center | [[Alexei Zhitnik]]
+|align=center | Tripping
+|align=center | 04:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Brian Bellows
+|align=center | Cross-checking
+|align=center | 05:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Éric Desjardins|Eric Desjardins]]
+|align=center | Interference
+|align=center | 07:40
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Tim Watters]]
+|align=center | Tripping
+|align=center | 10:21
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ed Ronan]]
+|align=center | Goaltender interference
+|align=center | 13:09
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Stephan Lebeau
+|align=center | Slashing
+|align=center | 16:37
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Rob Blake]]
+|align=center | Roughing
+|align=center | 19:59
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | LAK
+|align=center | [[Dave Taylor (ice hockey)|Dave Taylor]]
+|align=center | Slashing
+|align=center | 11:42
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Ed Ronan
+|align=center | Slashing
+|align=center | 11:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Stephan Lebeau
+|align=center | Holding
+|align=center | 06:48
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Tomas Sandstrom
+|align=center | Goaltender interference
+|align=center | 10:50
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 12 || align=center | 9 || align=center | 12 || align=center | 3 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Los Angeles}} || align=center | 10 || align=center | 13 || align=center | 10 || align=center | 0 || align=center | 33
+|}
+
+===Game four===
+{{NHLPlayoffs
+ |team1 = Montreal Canadiens
+ |team2 = Los Angeles Kings
+ |stadium1 = Great Western Forum
+ |date1 = June 7
+ |score1 = 3–2
+ |ot1=1
+ |won1 = 1
+ |recap1=www.nhl.com/gamecenter/mtl-vs-lak/1993/06/07/1992030414
+}}
+Game four was a carbon copy of the previous game. Montreal bolted out to an early 2–0 lead, but the Kings fought back in the second period with goals by [[Mike Donnelly]] at 6:33 and McSorley on a power play at 19:56. As was the case in game three, the third period in game four ended up scoreless. Once again, it was John LeClair who was the hero for Montreal as he netted the overtime winner 14:37 into the extra period, banking the puck off the leg of sliding Los Angeles defenceman [[Darryl Sydor]]. In doing so, he became the first player since Montreal legend [[Maurice Richard|Maurice "Rocket" Richard]] in [[1950–51 NHL season|1951]] to score playoff overtime goals in consecutive games, and giving Montreal an NHL-record ten consecutive overtime wins in the 1993 playoffs.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Kirk Muller]] (9)
+|align=center | ''Unassisted''
+|align=center | 10:57
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MTL
+|align=center | [[Vincent Damphousse]] (11) – ''pp''
+|align=center | [[Mike Keane]] (12) and [[Éric Desjardins|Eric Desjardins]] (10)
+|align=center | 10:57
+|align=center | 2–0 MTL
+|-
+|align=center | LAK
+|align=center | [[Mike Donnelly]] (6)
+|align=center | [[Tony Granato]] (11)
+|align=center | 06:33
+|align=center | 2–1 MTL
+|-
+|align=center | LAK
+|align=center | [[Marty McSorley]] (3) – ''pp''
+|align=center | [[Wayne Gretzky]] (25) and [[Luc Robitaille]] (12)
+|align=center | 19:55
+|align=center | 2–2
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | MTL
+|align=center | [[John LeClair]] (4)
+|align=center | ''Unassisted''
+|align=center | 14:37
+|align=center | 3–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | LAK
+|align=center | [[Pat Conacher]]
+|align=center | Cross-checking
+|align=center | 01:53
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Tony Granato
+|align=center | Roughing
+|align=center | 04:24
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Eric Desjardins
+|align=center | Roughing
+|align=center | 04:24
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Mathieu Schneider]]
+|align=center | Elbowing
+|align=center | 16:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | LAK
+|align=center | [[Mark Hardy (ice hockey)|Mark Hardy]]
+|align=center | Holding
+|align=center | 03:32
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Marty McSorley
+|align=center | Misconduct
+|align=center | 05:24
+|align=center | 10:00
+|-
+|align=center | LAK
+|align=center | [[Warren Rychel]]
+|align=center | Goaltender interference
+|align=center | 07:37
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[J.J. Daigneault]]
+|align=center | Roughing
+|align=center | 07:37
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Rob Blake]]
+|align=center | Roughing
+|align=center | 12:09
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrice Brisebois]]
+|align=center | Roughing
+|align=center | 12:09
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Darryl Sydor]]
+|align=center | Interference 
+|align=center | 15:58
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Brian Bellows]]
+|align=center | Hooking
+|align=center | 19:10
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | MTL
+|align=center | J.J. Daigneault
+|align=center | Cross-checking
+|align=center | 02:42
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | Tony Granato
+|align=center | Roughing
+|align=center | 19:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Mathieu Schneider
+|align=center | Roughing
+|align=center | 19:30
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | OT
+! style="width:3em;"         | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 13 || align=center | 7 || align=center | 12 || align=center | 7 || align=center | 39
+|-
+| style="text-align:left;"| {{nowrap|Los Angeles}} || align=center | 6 || align=center | 11 || align=center | 15 || align=center | 10 || align=center | 42
+|}
+
+===Game five===
+{{NHLPlayoffs
+ |team1 = Los Angeles Kings
+ |team2 = Montreal Canadiens
+ |stadium1 = Montreal Forum
+ |date1 = June 9
+ |score1 = 1–4
+ |won1 = 2
+ |recap1=www.nhl.com/gamecenter/lak-vs-mtl/1993/06/09/1992030415
+}}
+Leading the series three games to one, the Canadiens headed back home for game five. After [[Paul DiPietro]] gave Montreal a 1–0 lead with a goal at 15:10 of the first period, McSorley tied the game for the Kings at 2:40 of the second period. The Canadiens' response was swift as [[Kirk Muller]] scored just 71 seconds later, and then [[Stéphan Lebeau|Stephane Lebeau]] scored a power-play goal at 11:31 to give the Canadiens a 3–1 lead after two periods. DiPietro scored again at 12:06 to give Montreal a 4–1 lead. That ended up being the final score, with Muller's goal turning out to be the game winner. Gretzky did not manage a shot on net during the entire game.<ref name="Canadiens"/>
+
+With the win, the Canadiens won the series four games to one and clinched their 24th Stanley Cup championship. Montreal goaltender [[Patrick Roy]] won the [[Conn Smythe Trophy]] as the most valuable player of the Stanley Cup Playoffs for the second time (he won it for the first time in {{scfy|1986}}).
+
+Along with the [[Toronto Blue Jays]] repeating as [[1993 World Series|World Series]] champions, 1993 marked the first (and to date, only) year in which at least two championships of the [[Major professional sports leagues in the United States and Canada|four major North American sports leagues]] were won by Canadian teams.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Paul DiPietro]] (7)
+|align=center | [[Gary Leeman]] (2) and [[John LeClair]] (5)
+|align=center | 15:10
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | LAK
+|align=center | [[Marty McSorley]] (4)
+|align=center | [[Jimmy Carson]] (4) and [[Luc Robitaille]] (13)
+|align=center | 02:40
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Kirk Muller]] (10)
+|align=center | [[Vincent Damphousse]] (12) and [[Lyle Odelein]] (4)
+|align=center | 03:51
+|align=center | 2–1 MTL
+|-
+|align=center | MTL
+|align=center | [[Stephan Lebeau]] (3)
+|align=center | [[Mike Keane]] (13) and John LeClair (6)
+|align=center | 11:31
+|align=center | 3–1 MTL
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | Paul DiPietro (8)
+|align=center | [[Gilbert Dionne]] (6) and Lyle Odelein (5)
+|align=center | 12:06
+|align=center | 4–1 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | MTL
+|align=center | [[Mathieu Schneider]]
+|align=center | Tripping
+|align=center | 04:35
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Mike Keane
+|align=center | Charging
+|align=center | 10:46
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Tony Granato]]
+|align=center | Tripping
+|align=center | 12:49
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Rob Blake]]
+|align=center | Roughing
+|align=center | 19:23
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Tomas Sandström|Tomas Sandstrom]]
+|align=center | Roughing
+|align=center | 19:23
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Ed Ronan]]
+|align=center | Roughing
+|align=center | 19:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MTL
+|align=center | [[Gary Leeman]]
+|align=center | Tripping
+|align=center | 05:32
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Vincent Damphousse
+|align=center | Elbowing
+|align=center | 07:40
+|align=center | 2:00
+|-
+|align=center | LAK
+|align=center | [[Mark Hardy (ice hockey)|Mark Hardy]]
+|align=center | Holding
+|align=center | 10:28
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Los Angeles}} || align=center | 7 || align=center | 7 || align=center | 5 || align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 10 || align=center | 12 || align=center | 7 || align=center | 29
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Los Angeles Kings===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Blake}}
+| D
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Simcoe, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jimmy|Carson}}
+| C
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Southfield, Michigan]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Conacher}}
+| C
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|'''({{scfy|1984}}''')}}
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Donnelly}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Livonia, Michigan]]
+| first
+|-
+| '''21'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tony|Granato}}
+| RW
+| R
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Downers Grove, Illinois]]
+| first
+|-
+| '''99'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Gretzky}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Brantford|Brantford, Ontario]]
+| sixth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Hardy|dab=ice hockey}}
+| D
+| L 
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Samedan|Samedan, Switzerland]]
+| first
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kelly|Hrudey}}
+| G
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| second {{small|({{scfy|1984}})}}
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Huddy}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Oshawa|Oshawa, Ontario]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''17'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jari|Kurri}}
+| RW
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Helsinki|Helsinki, Finland]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lonnie|Loach}}
+| LW
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[New Liskeard, Ontario]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marty|McSorley}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| third {{small|'''({{scfy|1987}}''', '''{{scfy|1988}}''')}}
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Millen}}
+| C
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Cloquet, Minnesota]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc|Potvin}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Luc|Robitaille}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Warren|Rychel}}
+| LW
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Strathroy-Caradoc|Strathroy, Ontario]]
+| first
+|-
+| '''7'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Sandstrom|Tomas Sandström}}
+| RW
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Jakobstad|Jakobstad, Finland]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gary|Shuchuk}}
+| C
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''35'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Robb|Stauber}}
+| G
+| L
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Duluth, Minnesota]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darryl|Sydor}}
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Taylor|dab=ice hockey}}
+| RW
+| R
+| [[1975 NHL Entry Draft|1975]]
+| style="text-align:left;"|[[Levack, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Thomson|dab=ice hockey, born 1965}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Watters}}
+| D
+| L
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Kamloops|Kamloops, British Columbia]]
+| first
+|-
+| '''2'''
+| {{flagicon|RUS|1991}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Zhitnik}}
+| D
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Kyiv|Kyiv, Soviet Union]]
+| first
+|}
+
+===Montreal Canadiens===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jesse|Belanger|Jesse Bélanger}}
+| C
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Saint-Georges, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Bellows}}
+| LW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[St. Catharines|St. Catharines, Ontario]]
+| second {{small|({{scfy|1991}})}}
+|-
+| '''43'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrice|Brisebois}}
+| D
+| R
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Benoit|Brunet|Benoît Brunet}}
+| LW
+| L
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Sainte-Anne-de-Bellevue, Quebec]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Guy|Carbonneau}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Sept-Îles, Quebec]]
+| third {{small|'''({{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''48'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|J. J.|Daigneault}}
+| D
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| second {{small|({{scfy|1987}})}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Vincent|Damphousse}}
+| C
+| L 
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Desjardins|Éric Desjardins}}
+| D
+| R
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn, Quebec]]
+| second {{small|({{scfy|1989}})}}
+|-
+| '''45'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gilbert|Dionne}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Drummondville|Drummondville, Quebec]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|DiPietro}}
+| C
+| R
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Sault Ste. Marie, Ontario]]
+| first
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Donald|Dufresne}}
+| D
+| L
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| second {{small|({{scfy|1989}})}}
+|-
+| '''36'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Todd|Ewen}}
+| RW
+| R
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Haller}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Trochu, Alberta]]
+| first
+|-
+| '''38'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Sean|Hill|dab=ice hockey}}
+| D
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Duluth, Minnesota]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Keane}}
+| RW
+| R
+| {{NHL Year|1986}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|({{scfy|1989}})}}
+|-
+| '''47'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephan|Lebeau|Stéphan Lebeau}}
+| C
+| R
+| {{NHL Year|1988}}
+| style="text-align:left;"|[[Saint-Jérôme, Quebec]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|LeClair}}
+| LW
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[St. Albans (city), Vermont|St. Albans, Vermont]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gary|Leeman}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kirk|Muller}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Kingston, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lyle|Odelein}}
+| D
+| R
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Quill Lake|Quill Lake, Saskatchewan]]
+| first
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andre|Racicot|André Racicot}}
+| G
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn, Quebec]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Ramage}}
+| D
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Byron, Ontario]]
+| second {{small|('''{{scfy|1989}}''')}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mario|Roberge}}
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| first
+|-
+| '''31'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Ronan}}
+| RW
+| R
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Quincy, Massachusetts]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Roy}}
+| G
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| third {{small|'''({{scfy|1986}}''', {{scfy|1989}})}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Denis|Savard}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Témiscaming|Témiscaming, Quebec]]
+| first
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mathieu|Schneider}}
+| D
+| L
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[New York City|New York, New York]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1993 Stanley Cup was presented to Canadiens captain Guy Carbonneau by [[NHL Commissioner]] [[Gary Bettman]] following the Canadiens 4–1 win over the Kings in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1992–93 Montreal Canadiens''' 
+{{Stanley Cup champion|
+centres=*21 [[Guy Carbonneau]] (C)
+*15 [[Paul DiPietro]]
+*18 [[Denis Savard]] (A) 
+*25 [[Vincent Damphousse]]
+*29 [[Jesse Bélanger|Jesse Belanger]]*
+*47 [[Stéphan Lebeau|Stephan Lebeau]]
+|wingers=*11 [[Kirk Muller]] (A)
+*12 [[Mike Keane]] 
+*17 [[John LeClair]]
+*22 [[Benoît Brunet|Benoit Brunet]] 
+*23 [[Brian Bellows]]
+*26 [[Gary Leeman]]
+*31 [[Ed Ronan]]
+*32 [[Mario Roberge]]
+*36 [[Todd Ewen]]
+*45 [[Gilbert Dionne]]
+|defence=*5 [[Rob Ramage]] 
+*14 [[Kevin Haller]] 
+*24 [[Lyle Odelein]]
+*27 [[Mathieu Schneider]]
+*28 [[Éric Desjardins|Eric Desjardins]]
+*34 [[Donald Dufresne]]
+*38 [[Sean Hill (ice hockey)|Sean Hill]]
+*43 [[Patrice Brisebois]]
+*48 [[J. J. Daigneault]]
+|goaltenders=*33 [[Patrick Roy]]
+*37 [[André Racicot|Andre Racicot]]
+|player-notes=
+* * Did not officially qualify, but name still engraved on the Stanley Cup.
+|non-players=
+*[[Ronald Corey]] (Chairman/President), [[Serge Savard]] (Vice President/General Manager) 
+*[[Jacques Demers]] (Head Coach), [[Jacques Laperrière|Jacques Laperriere]] (Asst. Coach)
+*[[Charles Thiffault]], (Asst Coach), [[François Allaire|Francois Allaire]] (Goaltending Coach)
+*[[Jean Béliveau|Jean Beliveau]] (Sr. Vice President-Director of Cooperate Affairs), [[Jacques Lemaire]] (Asst. General Manager/Director of Player Personnel)
+*[[André Boudrias|Andre Boudrias]] (Asst. General Manager)
+*Gaetan Lefebvre (Athletic Trainer) 
+*John Shipman (Asst. Athletic Trainer), [[Eddy Palchak]] (Equipment Manager)
+*Pierre Gervais (Asst. Equipment Manager), Robert Boulanger (Asst. Equipment Manager)
+
+|engraving-notes=
+* #29 Jesse Belanger (C) – played in 19 regular-season games and nine playoff games but did not play in the finals. His name was included on the cup even though he did not qualify.
+* #6 [[Oleg Petrov]] (RW) played nine regular-season games and one playoff game but was left off the cup, and team picture. He spent the rest of the season in the minors.
+* Montreal did not include Aldo Giampaolo, Fred Steer, Bernard Brisset (Vice Presidents), and Claude Ruel (Director-Player Development) on the Stanley Cup, even though there was more than enough room. In 1986, Montreal included three of their four vice presidents and Director-Player Development on the Cup. All seven members were awarded Stanley Cup Rings, along with scouts, and other non-playing members.
+* In 1992-1993 the NHL had a third Stanley Cup made the Replica Stanley Cup. It is almost identical to Presentation Stanley Cup. This Stanley Cup stays at the Hockey Hall of Fame and does not travel. It has no dents like the Presentation Stanley Cup. Most spelling mistakes were fixed, but a couple of new mistakes did appear on the Stanley Cup (See [[1969 Stanley Cup Final]], and [[1973 Stanley Cup Final]], .) Many non-playing positions were spelled differently. 2 names were left off the Replica Stanley Cup 1954 Detroit Hugh Colfin (See [[1952 Stanley Cup Final]]), because he never played for Detroit; 1984 XXX'd Basil Pocklington because he was not a member of the Edmonton Oilers. Also, a new ring was made with the winners from 1979 to 1991 to exclude Basil Pocklington (See [[1984 Stanley Cup Final]]), and [[1981 Stanley Cup Final]] for new mistakes). The Replica Stanley cup is on display only when the Presentation Stanley Cup is away from the Hockey Hall of Fame about 250 days of the year.
+
+'''Included on the team picture, but left off Stanley Cup.''' 
+* Stephane T. Molson (Secretary - Molson Family Foundation)†, Eric H. Molson (Chairman of the Board, The Molson Company Limited)†. Names are not on the Stanley Cup even though they qualified as owners of Montreal.}}
+
+==Riot==
+{{See also|1994 Vancouver Stanley Cup riot|2011 Vancouver Stanley Cup riot}}
+The '''1993 Montreal Stanley Cup riot''' occurred in Montreal after the Montreal Canadiens won their 24th Stanley Cup. People poured into the streets of the city and some began to commit acts of vandalism and violence while the Canadiens were celebrating inside the Montreal Forum.<ref>{{cite web |url=http://www.macleans.ca/culture/entertainment/article.jsp?content=20051222_140516_2124 |title=4 Canadian sports riots |work=Macleans.ca |first1=David |last1=Allechinsky |first2=Amy |last2=Wallace |author3=Ira Basen and Jane Farrow |date=December 27, 2005 |url-status=dead |access-date=December 6, 2013 |archive-url=https://web.archive.org/web/20131210222652/http://www.macleans.ca/culture/entertainment/article.jsp?content=20051222_140516_2124 |archive-date=December 10, 2013 |df=mdy-all }}</ref> In the epicentre of the riot on [[Saint Catherine Street]], stores were looted and police cruisers were set ablaze. The riot caused {{CA$|2.5|link=yes}} million in damage ({{Inflation|CA|2.5|1993|r=1|fmt=eq}}).<ref>{{cite news|title=Sports People: Hockey; Cup Riot Bill is $2.5 million|newspaper=The New York Times|date=July 4, 1993|page=8.8}}</ref>
+
+At the high point of the riot 980 officers were dispatched and they made 115 arrests. The police reported 47 police cars damaged, 8 of those 47 cars were completely destroyed. Rioters were arrested after they broke windows, looted stores and set fires. Some of the rioters were suspected of planning to loot stores using the Canadiens' victory celebration as a decoy. 168 were injured, including 49 police officers.<ref>{{cite news|title=Hockey; Victory Party Turns Into Riot and Looting|newspaper=The New York Times|date=June 11, 1993 |page=B11}}</ref>
+
+Due to the Kings being the Canadiens' opponents, most of the Los Angeles news media, including the ''[[Los Angeles Times]]'' and the ''[[Los Angeles Daily News|Daily News]],'' also covered the riot; ''Times'' sports writer [[Helene Elliott]] was pressed into service as a news reporter minutes after the riot began.
+
+==Television==
+In Canada, the series was televised in English on the CBC and in French on [[La Soirée du hockey|SRC]]. In the United States, the series was broadcast on [[NHL on ESPN|ESPN]]. This was the ESPN's first Cup Finals coverage since [[1988 Stanley Cup Final|1988]]. However, ESPN was blacked out in the Los Angeles market because of [[Bally Sports West|Prime Ticket]]'s local rights to the Kings games.
+
+==References==
+;Inline citations
+{{reflist}}
+
+;Bibliography
+*{{cite book|last=Morrison|first=Scott|title=Hockey Night in Canada: My Greatest Day|year=2008|publisher=Key Porter Books|location=Toronto|isbn=978-1-55470-086-8|author-link=Scott Morrison (journalist)|url-access=registration|url=https://archive.org/details/mygreatestday50p0000morr}}
+
+{{s-start}}
+{{succession box |
+  before = [[1992 Stanley Cup Final|Pittsburgh Penguins<br>1992]] |
+  after = [[1994 Stanley Cup Final|New York Rangers<br>1994]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1993|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Montreal Canadiens}}
+{{Los Angeles Kings}}
+{{1992–93 NHL season by team}}
+{{Hockey Night in Canada}}
+{{ESPN National Hockey Night}}
+{{NHL Radio}}
+}}
+
+[[Category:1993 Stanley Cup| ]]
+[[Category:Los Angeles Kings games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1992–93 NHL season|Stanley Cup]]
+[[Category:June 1993 sports events in Canada|Stanley Cup Final]]
+[[Category:June 1993 sports events in the United States|Stanley Cup Final]]
+[[Category:1990s in Los Angeles County, California]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Sports competitions in Inglewood, California]]
+[[Category:1993 in Montreal]]
+[[Category:1993 in sports in Quebec|Stanley Cup Final]]
+[[Category:Ice hockey competitions in California]]

@@ -1,0 +1,909 @@
+{{short description|1988 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 1988
+| image =
+| team1 = '''[[1987–88 Edmonton Oilers season|Edmonton Oilers]]'''
+| team1_short = Edmonton
+| team1_1 = '''2'''
+| team1_2 = '''4'''
+| team1_3 = '''6'''
+| team1_4 = '''6'''
+| team1_tot = 4
+| team2 = [[1987–88 Boston Bruins season|Boston Bruins]]
+| team2_short = Boston
+| team2_1 = 1
+| team2_2 = 2
+| team2_3 = 3
+| team2_4 = 3
+| team2_tot = 0
+| location1 = [[Edmonton]]: [[Northlands Coliseum]] (1, 2, 4){{efn|name=game5|Game four was abandoned due to a power failure at the [[Boston Garden]] with the score tied 3–3; it was subsequently replayed in Edmonton}}
+| location2 = [[Boston]]: [[Boston Garden]]) (3, 4){{efn|name=game5}}
+| dates = May 18–26, 1988
+| team1_coach = [[Glen Sather]]
+| team1_captain = [[Wayne Gretzky]] 
+| mvp = Wayne Gretzky (Oilers)
+| series_winner = Wayne Gretzky (9:44, second)
+| team2_coach = [[Terry O'Reilly]]
+| team2_captain = [[Ray Bourque]], [[Rick Middleton]]
+| hofers = '''Oilers:'''<br/>[[Glenn Anderson]] (2008)<br/>[[Grant Fuhr]] (2003)<br/>[[Wayne Gretzky]] (1999)<br/>[[Jari Kurri]] (2001)<br/>[[Kevin Lowe]] (2020)<br/>[[Mark Messier]] (2007)<br/>'''Bruins:'''<br/>[[Ray Bourque]] (2004)<br/>[[Cam Neely]] (2005)<br/>'''Coaches:'''<br/>[[Glen Sather]] (1997)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[NHL on Global|Global/Canwest]] (1–2), [[Hockey Night in Canada|CBC]] (3–4){{efn|name=CBC|CBC aired both the original and replayed game fours.}}<br>([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on ESPN|ESPN]]<br>(Boston area): [[WSBK-TV|WSBK]] (1–2, 4),{{efn|name=BostonTV|Both NESN and WSBK simulcasted the original game four in Boston, and WSBK only aired the replayed game four in Edmonton.}} [[NESN]] (3–4){{efn|name=BostonTV}}
+| net_announcers =(Global/Canwest) [[Dan Kelly (sportscaster)|Dan Kelly]] and [[John Davidson (ice hockey)|John Davidson]]<br>(CBC) [[Bob Cole (sportscaster)|Bob Cole]] and [[Harry Neale]]<br>(SRC) [[Richard Garneau]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br>(ESPN) [[Mike Emrick]], [[Bill Clement]] (1–4),{{efn|name=Clement|Clement did not work during the replayed game four in Edmonton due to an illness.}} and [[Mickey Redmond]]<br>(WSBK/NESN) [[Fred Cusick]], [[Derek Sanderson]], and [[Dave Shea (sportscaster)|Dave Shea]] (NESN only)
+|referees=[[Denis Morel]] (1, 4){{efn|name=Morel|Morel refereed the original game 4 in Boston}}<br/>[[Andy Van Hellemond]] (3, 4){{efn|name=Van Hellemond|Van Hellemond refereed the replayed game 4 in Edmonton}}<br/>[[Don Koharski]] (2)
+}}
+The '''1988 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1987–88 NHL season|1987–88 season]], and the culmination of the [[1988 Stanley Cup playoffs]]. It was contested between the [[1987–88 Edmonton Oilers season|Edmonton Oilers]] and [[1987–88 Boston Bruins season|Boston Bruins]]. The Oilers swept the Bruins to once again repeat as Stanley Cup champions. It was the Oilers’ fourth championship in franchise history.{{efn|name=game5}}
+
+This was the seventh of nine consecutive Finals contested by a team from [[Western Canada]], sixth of eight by a team from [[Alberta]] (the Oilers appeared in six of them, the [[Calgary Flames]] in two, and the [[Vancouver Canucks]] in [[1982 Stanley Cup Final|one]]), and the last of five consecutive Finals to end with the Cup presentation on Alberta ice (the Oilers won four such Cups, the [[Montreal Canadiens]] the other). The series is remembered for the power failure that occurred during game four at [[Boston Garden]], which caused that game to be suspended. The league decided to replay game four at [[Northlands Coliseum]] in Edmonton, at the site, date and time that was originally scheduled for a possible game five. Game four is also the final time that [[Wayne Gretzky]] appeared in an Edmonton Oilers uniform as he was traded to [[Los Angeles Kings|Los Angeles]] just prior to the [[1988–89 NHL season|next season]], and the last Stanley Cup he would win as a player.
+
+==Paths to the Finals==
+{{further|1988 Stanley Cup playoffs}}
+{{See also|1987–88 Boston Bruins season|1987–88 Edmonton Oilers season}}
+The Oilers cruised into the Finals with relative ease, losing only two games in the process. They beat the [[Winnipeg Jets (1972-96)|Winnipeg Jets]] in five games, swept the [[Calgary Flames]], and then beat the [[Detroit Red Wings]] in five to win the [[Clarence S. Campbell Bowl]] for the fifth time in six years.
+
+The Bruins, meanwhile, had a much harder road. It took them six games to knock off the [[Buffalo Sabres]], then beat their longtime rivals the [[Montreal Canadiens]] in five games, and then needed the full seven games to beat the [[New Jersey Devils]] to claim the [[Prince of Wales Trophy]].
+
+==Game summaries==
+The Finals pitted the Oilers' offensive juggernaut against the Bruins' more balanced team. The Oilers showed their defensive prowess, surrendering just nine goals in the four completed games. [[Ray Bourque]] was physical in defending against Gretzky, but that would not ground the "Great One" on his way to claiming his second [[Conn Smythe Trophy]] and setting playoff records with 31 assists in just 18 games, and 13 points in the Finals series.
+
+===Game one===
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Edmonton Oilers 
+|stadium1=[[Northlands Coliseum]]
+|date1       =May 18
+|score1      =1–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-edm/1988/05/18/1987030411#game=1987030411,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Cam Neely]] (8) – 13:15
+|1-2-2       =01:56 – ''pp'' – [[Wayne Gretzky]] (10)
+|1-3-1       =''No scoring''
+|1-3-2       =01:15 – [[Keith Acton]] (2) 
+}}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Edmonton Oilers
+|stadium1=[[Northlands Coliseum]]
+|date1       =May 20
+|score1      =2–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-edm/1988/05/20/1987030412#game=1987030412,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =15:57 – ''pp'' – [[Glenn Anderson]] (7)<br>19:30 – ''pp'' – [[Mark Messier]] (11)
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =[[Bob Joyce (ice hockey)|Bob Joyce]] (8) – 00:35<br>[[Ken Linseman]] (10) – 03:16
+|2-3-2       =11:21 – [[Wayne Gretzky]] (11)<br>19:53 – ''en'' – [[Jari Kurri]] (14)
+}}
+
+===Game three===
+{{NHLPlayoffs
+|team2=Boston Bruins
+|team1=Edmonton Oilers
+|stadium1=[[Boston Garden]]
+|date1      =May 22
+|score1      =6–3
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/bos-vs-edm/1988/05/22/1987030413#game=1987030413,game_state=final
+|3-1-1       =02:46 – [[Randy Burridge]] (2)
+|3-1-2       =[[Kevin McClelland]] (2) – 16:18
+|3-2-1       =''No scoring''
+|3-2-2       =[[Esa Tikkanen]] (5) – ''pp'' – 10:25<br>[[Glenn Anderson]] (9) – 12:57
+|3-3-1       =04:19 – [[Moe Lemay]] (4)<br>14:02 – ''pp'' – [[Cam Neely]] (9)
+|3-3-2       =Esa Tikkanen (6) – 01:32<br>[[Craig Simpson]] (11) – 10:28<br>Esa Tikkanen (7) – 19:40
+}}
+
+===Game four (suspended)===
+[[Glenn Anderson]] set a new record for quickest goal from the start of a Finals game when he scored ten seconds into the contest. That record was tied two years later in the third game of the {{scfy|1990}} Finals by [[John Byce]] who, in a twist, was playing for the Bruins ''against'' the Oilers.<ref>{{harvtxt|Diamond|2000|p=90}}</ref> Fog interfered with the game, requiring stoppages during the second period so that all 40+ players could skate around the ice to clear it away. The Oilers' [[Craig Simpson]] scored with 3:23 left in the second period, tying the game at 3–3, then the arena suffered a power failure before the ensuing face-off. The teams were sent to their [[dressing room]] until{{snd}}after a very long delay and no change in the situation{{snd}}[[NHL President]] [[John Ziegler Jr.]] announced that the game was suspended.<ref>{{cite book|last=Weekes|first=Don|title=The Best and Worst of Hockey's Firsts: The Unofficial Guide|year=2003|publisher=Greystone Books|location=Canada|isbn=9781550548600|pages=[https://archive.org/details/bestworstofhocke0000week/page/240 240]|url=https://archive.org/details/bestworstofhocke0000week/page/240}}</ref> Despite the game being suspended and replayed, Anderson's record is official.
+
+Game four was subsequently rescheduled and moved to Edmonton, which was originally set to be the site of a game five if necessary. The Oilers won that game, sweeping the series and winning their fourth Stanley Cup in five years. The NHL announced that, in the event that the Bruins had managed to win game four, game five would have been played on the original date for game six in Boston, Edmonton would have hosted the rescheduled game six, and then game seven would have been played in Boston as the makeup game.<ref name=":0">{{cite news | url=https://www.latimes.com/archives/la-xpm-1988-05-25-sp-3235-story.html | title=Oilers, Bruins Play Game 4 in a Fog, End in the Dark | newspaper=Los Angeles Times | first=Jerry | last=Crowe | date=May 25, 1988}}</ref><ref name=":1">{{Cite news|last=Finn|first=Robin|date=1988-05-25|title=No Lights, Then No Crowd; Hockey Halted for the Night|language=en-US|work=The New York Times|url=https://www.nytimes.com/1988/05/25/sports/no-lights-then-no-crowd-hockey-halted-for-the-night.html|access-date=2021-08-01|issn=0362-4331}}</ref><ref name=":2">{{Citation|title=Memories: Power outage halts game at Boston Garden|url=https://www.youtube.com/watch?v=w07Zn4dtS3U |archive-url=https://ghostarchive.org/varchive/youtube/20211221/w07Zn4dtS3U |archive-date=2021-12-21 |url-status=live|language=en|access-date=2021-08-01}}{{cbignore}}</ref>
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Edmonton Oilers
+|stadium1=[[Boston Garden]]
+|date1       =May 24
+|score1      =3–3
+|won1        =
+|recap1      =www.hockey-reference.com/boxscores/198805240BOS.html
+|4-1-1       =16:56 – [[Greg Hawgood]] (1)
+|4-1-2       =[[Glenn Anderson]] (9) – 00:10<br>[[Esa Tikkanen]] (8) – ''pp'' – 15:33
+|4-2-1       =06:12 – ''sh'' – [[Glen Wesley]] (5)<br>07:37 – ''pp'' – Glen Wesley (6)
+|4-2-2       =[[Craig Simpson]] (12) – ''pp'' – 16:37
+|4-3-1       =
+|4-3-2       =
+|goalie4-1   =[[Andy Moog]] 16 saves, 19 shots
+|goalie4-2   =[[Grant Fuhr]] 18 saves / 21 shots
+}}
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3" |'''1st'''
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Glenn Anderson (9)	
+| style="text-align:center;"|Mark Messier, Craig Muni
+| style="text-align:center;"|0:10
+| style="text-align:center;"|1–0 EDM
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Esa Tikkanen (8) – ''pp''
+| style="text-align:center;"|Wayne Gretzky
+| style="text-align:center;"|15:33
+| style="text-align:center;"|2–0 EDM
+|-
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Greg Hawgood (1)	 
+| style="text-align:center;"|Rick Middleton, Bob Sweeney
+| style="text-align:center;"|16:56
+| style="text-align:center;"| 2–1 EDM
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Glen Wesley (5) – ''sh''
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|6:12 
+| style="text-align:center;"|2–2
+|-
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Glen Wesley (6) – ''pp''
+| style="text-align:center;"|	Ken Linseman
+| style="text-align:center;"|7:37
+| style="text-align:center;"|3–2 BOS
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Craig Simpson (12) – ''pp''	 
+| style="text-align:center;"|Steve Smith, Wayne Gretzky
+| style="text-align:center;"|16:37
+| style="text-align:center;"|3–3
+|-
+| style="text-align:center;" |'''3rd'''
+| style="text-align:center;" colspan="5"|''None (game suspended at 16:37)''
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Edmonton Oilers
+|stadium1=[[Northlands Coliseum]]
+|date5       =May 26
+|score5      =3–6
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/bos-vs-edm/1988/05/26/1987030414#game=1987030414,game_state=final
+|5-1-1       =[[Steve Kasper]] (6) – 00:43<br>[[Ken Linseman]] (11) – ''pp'' – 09:44
+|5-1-2       =06:07 – [[Normand Lacombe]] (3)<br>15:03 – ''pp'' – [[Esa Tikkanen]] (9)
+|5-2-1       =''No scoring''
+|5-2-2       =06:38 – [[Mike Krushelnyski]] (4)<br>09:44 – ''pp'' – [[Wayne Gretzky]] (12)<br>19:58 – [[Craig Simpson]] (13)
+|5-3-1       =Steve Kasper (7) – 06:35
+|5-3-2       =01:21 – Esa Tikkanen (10)
+}}
+In the new Game 4, Boston had the lead on two goals in the first nine minutes but were held without a goal for over thirty minutes as Edmonton rode a three-goal second period to a 6–3 victory to win the Cup.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="4" |'''1st'''
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Steve Kasper (6)
+| style="text-align:center;"|R. Burridge (10), R. Bourque (17)
+| style="text-align:center;"|0:43
+| style="text-align:center;"|1–0 BOS
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Normand Lacombe (3)
+| style="text-align:center;"|C. Muni (3), K. Lowe (1)
+| style="text-align:center;"|6:07
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Ken Linseman (11) – ''pp''
+| style="text-align:center;"|R. Bourque (18)
+| style="text-align:center;"|9:44
+| style="text-align:center;"|2–1 BOS
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Esa Tikkanen (8) – ''pp''
+| style="text-align:center;"|J. Kurri (16), W. Gretzky (28)
+| style="text-align:center;"|15:03
+| style="text-align:center;"|2–2 
+|-
+| style="text-align:center;" rowspan="3" |'''2nd'''
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Mike Krushelnyski (4)
+| style="text-align:center;"|K. McClelland (3), Kevin Lowe (2)
+| style="text-align:center;"|6:38
+| style="text-align:center;"|3–2 EDM
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Wayne Gretzky (12) – ''pp''
+| style="text-align:center;"|E. Tikkanen (17), J. Smith (10)
+| style="text-align:center;"|9:44
+| style="text-align:center;"|4–2 EDM
+|-
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Craig Simpson (12)
+| style="text-align:center;"|Wayne Gretzky (29), R. Gregg (7)
+| style="text-align:center;"|19:58
+| style="text-align:center;"|5–2 EDM
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|EDM
+| style="text-align:center;"|Esa Tikkanen (9)
+| style="text-align:center;"|J. Kurri (17), R. Gregg (8)
+| style="text-align:center;"|1:21
+| style="text-align:center;"|6–2 EDM
+|-
+| style="text-align:center;"|BOS
+| style="text-align:center;"|Steve Kasper (7)
+| style="text-align:center;"|G. Johnston (1), G. Wesley (8)
+| style="text-align:center;"|6:35
+| style="text-align:center;"|6–3 EDM
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Boston Bruins===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''33'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|John|Blum}}
+| D
+| R
+| {{hs|28–198}}28
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Detroit, Michigan]]
+| first {{small|(did not play)}}
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ray|Bourque}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{hs|27–022}}27
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Saint-Laurent, Quebec]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Burridge}}
+| LW
+| L
+| {{hs|22–017}}22
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Fort Erie, Ontario]]
+| first
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lyndon|Byers}}
+| RW
+| R
+| {{hs|24–019}}24
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Nipawin, Saskatchewan]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Crowder}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| {{hs|29–016}}29
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first
+|-
+| '''40'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Hawgood}}
+| D
+| L
+| {{hs|19–181}}19
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| first
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Janney}}
+| C
+| L
+| {{hs|20–092}}20
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Hartford, Connecticut]]
+| first
+|-
+| '''39'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Johnston|dab=ice hockey}}
+| RW
+| R
+| {{hs|23–014}}23
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Barrie, Ontario]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Joyce|dab=ice hockey}}
+| LW
+| L
+| {{hs|21–071}}21
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Saint John, New Brunswick]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Kasper}}
+| C
+| L
+| {{hs|26–192}}26
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Saint-Lambert, Quebec]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gord|Kluzak}}
+| D
+| L
+| {{hs|24–074}}24
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Climax, Saskatchewan]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Reed|Larson}}
+| D
+| R
+| {{hs|31–073}}31
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Minneapolis, Minnesota]]
+| first 
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Moe|Lemay}}
+| LW
+| L
+| {{hs|26–118}}26
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Saskatoon, Saskatchewan]]
+| second {{small|('''{{scfy|1987}}''')}}
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rejean|Lemelin|Réjean Lemelin}}
+| G
+| L
+| {{hs|33–119}}33
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Quebec City, Quebec]]
+| second {{small|({{scfy|1986}})}}
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Linseman}}
+| C
+| L
+| {{hs|29–081}}29
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Kingston, Ontario]]
+| fourth {{small|({{scfy|1980}}, {{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nevin|Markwart}}
+| LW
+| L
+| {{hs|23–229}}23
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Toronto, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|McCarthy|dab=ice hockey, born 1960}}
+| LW
+| L
+| {{hs|27–073}}27
+| {{NHL Year|1986}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| second {{small|({{scfy|1981}})}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rick|Middleton}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|34–124}}34
+| {{NHL Year|1976}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| third {{small|({{scfy|1977}}, {{scfy|1978}})}}
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Miller|dab=ice hockey}}
+| LW
+| L
+| {{hs|27–171}}27
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Wellesley, Massachusetts]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andy|Moog}}
+| G
+| L
+| {{hs|28–118}}28
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Penticton, British Columbia]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cam|Neely}}
+| RW
+| R
+| {{hs|22–066}}22
+| {{NHL Year|1986}}
+| style="text-align:left;"|[[Comox, British Columbia]]
+| first
+|-
+| '''10'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Billy|O'Dwyer}}
+| C
+| L
+| {{hs|28–125}}28
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[South Boston, Massachusetts]]
+| first
+|-
+| '''41'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Allen|Pedersen}}
+| D
+| L
+| {{hs|23–113}}23
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Fort Saskatchewan, Alberta]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Willi|Plett}}
+| RW
+| R
+| {{hs|32–067}}32
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Asunción|Asunción, Paraguay]]
+| first
+|-
+| '''40'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bruce|Shoebottom}}
+| D
+| L
+| {{hs|24–282}}24
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''42'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Sweeney|dab=ice hockey}}
+| C
+| R
+| {{hs|24–125}}24
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Concord, Massachusetts]]
+| first
+|-
+| '''22'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Thelven|Michael Thelvén}}
+| D
+| R
+| {{hs|27–017}}27
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Stockholm, Sweden]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glen|Wesley}}
+| D
+| L
+| {{hs|19–002}}19
+| [[1987 NHL Entry Draft|1987]]
+| style="text-align:left;"|[[Red Deer, Alberta]]
+| first
+|}
+
+===Edmonton Oilers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Acton}}
+| C
+| L
+| {{hs|30–041}}30
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Stouffville, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glenn|Anderson}}
+| RW
+| L
+| {{hs|27–202}}27
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Vancouver, British Columbia]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Beukeboom}}
+| D
+| R
+| {{hs|23–028}}23
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Ajax, Ontario]]
+| second {{small|('''{{scfy|1987}}''')}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Geoff|Courtnall}}
+| LW
+| L
+| {{hs|25–071}}25
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Victoria, British Columbia]]
+| first
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Fuhr}}
+| G
+| R
+| {{hs|25–052}}25
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Spruce Grove, Alberta]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Gregg|Randy Gregg (ice hockey)}}
+| D
+| L
+| {{hs|32–219}}32
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''99'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Gretzky}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|27–016}}27
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Brantford, Ontario]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Hannan}}
+| C
+| L
+| {{hs|26–112}}26
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Onaping Falls, Ontario]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Huddy}}
+| D
+| L
+| {{hs|28–082}}28
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Krushelnyski}}
+| C
+| L
+| {{hs|28–042}}28
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| third {{small|('''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''17'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jari|Kurri}}
+| RW
+| R
+| {{hs|28–031}}28
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Helsinki, Finland]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Normand|Lacombe}}
+| RW
+| R
+| {{hs|23–318}}23
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| first
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Lowe}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|29–071}}29
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Lachute, Quebec]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|MacTavish}}
+| C
+| L
+| {{hs|29–041}}29
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[London, Ontario]]
+| second {{small|('''{{scfy|1987}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|McClelland}}
+| RW
+| R
+| {{hs|25–084}}25
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| fourth {{small|('''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marty|McSorley}}
+| D
+| R
+| {{hs|25–031}}25
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| second {{small|'''({{scfy|1987}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Messier}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|27–058}}27
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| fifth {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Muni}}
+| D
+| L
+| {{hs|25–081}}25
+| {{NHL Year|1986}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| second {{small|('''{{scfy|1987}}''')}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bill|Ranford}}
+| G
+| L
+| {{hs|21–221}}21
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Simpson}}
+| LW
+| R
+| {{hs|21–115}}21
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Smith|dab=ice hockey, born April 30, 1963}}
+| D
+| L
+| {{hs|25–033}}25
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Glasgow, Scotland]]
+| second {{small|('''{{scfy|1987}}''')}}
+|-
+| '''10'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Esa|Tikkanen}}
+| LW
+| L
+| {{hs|23–225}}23
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Helsinki, Finland]]
+| third {{small|('''{{scfy|1985}}''', '''{{scfy|1987}}''')}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Wiemer}}
+| D
+| L
+| {{hs|27–119}}27
+| {{NHL Year|1986}}
+| style="text-align:left;"|[[Regional Municipality of Sudbury|Sudbury, Ontario]]
+| first {{small|(did not play)}}
+|}
+
+==Stanley Cup engraving==
+The 1988 Stanley Cup was presented to Oilers captain Wayne Gretzky by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Oilers 6–3 win over the Bruins in game four.
+
+The following Oilers players and staff had their names engraved on the Stanley Cup
+
+'''1987–88 Edmonton Oilers'''
+{{Stanley Cup champion
+|centres=
+* 99 [[Wayne Gretzky]] (Captain)
+* 11 [[Mark Messier]] (A)
+* 12 [[Dave Hannan]]
+* 14 [[Craig MacTavish]]
+* 23 [[Keith Acton]]
+* 26 [[Mike Krushelnyski]]*
+|wingers=
+* 9 [[Glenn Anderson]]
+* 10 [[Esa Tikkanen]]
+* 15 [[Geoff Courtnall]]
+* 17 [[Jari Kurri]]
+* 18 [[Craig Simpson]]
+* 19 [[Normand Lacombe]]
+* 24 [[Kevin McClelland]]
+|defence=
+* 4 [[Kevin Lowe]] (A)
+* 5 [[James Stephen Smith|Steve Smith]]
+* 6 [[Jeff Beukeboom]]
+* 21 [[Randy Gregg (ice hockey)|Randy Gregg]]
+* 22 [[Charlie Huddy]]
+* 28 [[Craig Muni]]
+* 33 [[Marty McSorley]] †
+|goaltenders=
+* 31 [[Grant Fuhr]]
+* 30 [[Bill Ranford]]
+|player-notes=
+* * Played both centre and wing.
+* † Played wing in the regular season.
+|non-players=
+* [[Peter Pocklington]] (Owner)
+* [[Glen Sather]] (President/General Manager/Head Coach)
+* [[John Muckler]] (Co-Coach), Edward [[Ted Green]] (Asst. Coach)
+* [[Bruce MacGregor]] (Asst. General Manager)
+* [[Barry Fraser]] (Director of Player Personnel/Chief Scout), Bill Tuele (Director of Public Relations)
+* Dr. Gordon Cameron (Team Physician), Peter Millar (Athletic Therapist), Juergen Merz (Massage Therapist)
+* Barrie Stafford (Trainer), Lyle Kulchisky (Asst. Trainer)
+|engraving-notes=
+* #29 [[Daryl Reaugh]] (G) – joined the team after Andy Moog left in September to play for Team Canada, and at the 1988 Olympics. Reaugh would play 6 games (dressed for 60). After the Olympics, Moog was traded to [[Boston Bruins]] for minor leaguer goalie Bill Ranford. Reaugh was sent to the minors, being recalled during the conference finals. His name was left off because he was playing in the minors after the trade deadline. Reaugh was included on the team picture.
+* #20 [[Steve Dykstra]] (D) – played 42 NHL games in the 1987–88 season. Dykstra joined Edmonton in a trade from the [[Buffalo Sabres]], playing in 15 of the Oilers' last 21 games, but not in the playoffs. He was left off because he did not play all 42 games with Edmonton.
+* #32 [[Jim Wiemer]] (D) – played 12 regular-season games and two games in the Conference Finals. He was left off the Stanley Cup because he did not play in the finals
+* This would mark the final time Wayne Gretzky would win the Stanley Cup. In 1991, Gretzky would win the Grey Cup as Co-Owner, of the Toronto Argonauts. He became the 7th person to get his name on both the Stanley Cup and Grey Cup. (See Joe Miller, Lionel Conacher, Carl Voss, Leo Dandurand, Harold Ballard & Norman Kwong who also won both the Grey Cup and Stanley Cup.)
+}}
+;Team picture on the ice, after winning a championship
+* After the Oilers won the 1988 Stanley Cup, Wayne Gretzky (in what ended up being his last game with the Oilers) requested a picture on the ice with all the players, and all non-playing members, including management, coaches, trainers, scouts, locker room assistants. The team honoured his request, and it has remained a tradition followed by each Stanley Cup-winning team. The team picture tradition after winning a championship then became a tradition followed by most hockey championship teams at all levels around the world.
+
+Gretzky wanted every member of the Oilers to be included on the team picture. However, when the cup was engraved all five scouts were left off: [[Garnet Bailey]], [[Ed Chadwick]], [[Lorne Davis]], Matti Vaisanen (on the Cup in 1985, 1987, 1990), Bob Freeman (part time, not on the Cup). The Oilers also left three players off the Stanley Cup: Daryl Reaugh, Steve Dykstra, Jim Weimer. Bill Tuele (Public Relations Director) had his name added to the cup for the first time. He has rings with the Oilers in 1984, 1985, 1987, but his name was not put on the Stanley Cup those seasons.
+
+==Broadcasting==
+In the United States, this was the final year under [[ESPN National Hockey Night|ESPN]]'s national three-year deal. Under the U.S. TV contracts that would take effect beginning next season, [[NHL on SportsChannel America|SportsChannel America]] would take over as the NHL's American television partner.
+
+ESPN's coverage of the 1988 Cup Finals was blacked out locally in the Boston area due to [[WSBK-TV|WSBK]] and [[NESN]]'s local rights to Bruins games.
+
+In Canada, this was the second and final year that the English-language rights to the Cup Finals was split between the [[NHL on Global|Global-Canwest consortium]] and the [[Hockey Night in Canada|CBC]]. Global aired games one and two. The CBC aired game three, then both the original and replayed game fours. CBC had the rights to game 5 of the Stanley Cup Final, and Canwest/Global also had the rights to games 6 & 7 of the Stanley Cup Final between Edmonton Oilers and Boston Bruins (both CBC and Canwest/Global had the rights of Game 7, using separate production facilities and separate on-air talent), which were not necessary.<ref name=":0" /><ref name=":1" /><ref name=":2" />
+
+==See also==
+* [[1987–88 NHL season]]
+* [[List of Stanley Cup champions]]
+
+==Notes==
+{{notelist}}
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* {{cite book|last=Diamond|first=Dan|title=Total Stanley Cup|year=2000|publisher=Total Sports Canada|location=Toronto|isbn=978-1-892129-07-9|url-access=registration|url=https://archive.org/details/totalstanleycupo0000unse}}
+* {{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|location=Bolton, Ont|publisher=Fenn Pub.|pages=12, 50|isbn=978-1-55168-261-7}}
+
+==Further reading==
+*[https://www.cbc.ca/archives/1988-stanley-cup-finals-power-outage-1.5579029 CBC Archives 1988 Stanley Cup Final Blackout in Boston]
+
+{{s-start}}
+{{succession box |
+  before = [[1987 Stanley Cup Final|Edmonton Oilers<br />1987]] |
+  after = [[1989 Stanley Cup Final|Calgary Flames<br />1989]] |
+  title = [[List of Stanley Cup champions|Edmonton Oilers<br />Stanley Cup champions]] |
+  years = 1988
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Edmonton Oilers}}
+{{Boston Bruins}}
+{{1987–88 NHL season by team}}
+{{Hockey Night in Canada}}
+{{ESPN National Hockey Night}}
+}}
+
+[[Category:1988 Stanley Cup| ]]
+[[Category:1987–88 NHL season|Stan]]
+[[Category:Boston Bruins games]]
+[[Category:Edmonton Oilers games]]
+[[Category:Stanley Cup Finals]]
+[[Category:May 1988 sports events in North America|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:1988 in Boston|Stanley Cup Final]]
+[[Category:1988 in sports in Alberta|Stanley Cup Final]]
+[[Category:1980s in Edmonton]]

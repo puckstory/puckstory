@@ -1,0 +1,199 @@
+{{Short description|1953 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1953
+|team2=[[1952–53 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston 
+|team2_captain=[[Milt Schmidt]]
+|team2_coach=[[Lynn Patrick]]
+|team2_1=2
+|team2_2='''4'''
+|team2_3=0
+|team2_4=3
+|team2_5=0*
+|team2_tot=1
+|team1='''[[1952–53 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Emile Bouchard]]
+|team1_coach=[[Dick Irvin]]
+|team1_1='''4'''
+|team1_2=1
+|team1_3='''3'''
+|team1_4='''7'''
+|team1_5='''1'''*
+|team1_tot=4
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 9–16, 1953
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4)
+|series_winner=[[Elmer Lach]] (1:22, OT)
+|hofers='''Canadiens:'''<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Elmer Lach]] (1966)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Jacques Plante]] (1978)<br/>[[Maurice Richard]] (1961)<br/>'''Bruins:'''<br/>[[Woody Dumart]] (1992)<br/>[[Bill Quackenbush]] (1976)<br/>[[Milt Schmidt]] (1961)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Lynn Patrick]] (1980, player)
+}}
+The '''1953 Stanley Cup Final''' was contested by the [[1952–53 Boston Bruins season|Boston Bruins]] and the [[1952–53 Montreal Canadiens season|Montreal Canadiens]]. The Bruins were appearing in the Final for the first time since {{scfy|1946}}. The Canadiens, who were appearing in their third straight Finals series, won the series four games to one to clinch their seventh championship.
+
+==Paths to the Finals==
+Montreal defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–3 to reach the Finals. Boston defeated the [[1952 Stanley Cup Finals|defending champion]] [[Detroit Red Wings]] 4–2 to reach the Finals.
+
+==The series==
+[[Jacques Plante]] was pulled after the first two games in favour of [[Gerry McNeil]]. The move paid off as McNeil posted two shutouts in the last three games.
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Boston Garden]]
+
+|date1       =April 9
+|home1       =1
+|score1      =2–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-mtl/1953/04/09/1952030211#game=1952030211,game_state=final
+|1-1-1       =[[Bob Armstrong (ice hockey, born 1931)|Bob Armstrong]] (1) - ''pp'' - 2:08
+|1-1-2       =13:42 - [[Dickie Moore (ice hockey)|Dickie Moore]] (2)
+|1-2-1       =''No scoring''
+|1-2-2       =2:37 - [[Ken Mosdell]] (2)<br>16:05 - [[Floyd Curry]] (2)
+|1-3-1       =[[Johnny Peirson]] (3) - ''pp'' - 10:11
+|1-3-2       =11:12 - [[Maurice Richard]] (4)
+|goalie1-1   =[[Jim Henry (ice hockey)|Jim Henry]]
+|goalie1-2   =[[Jacques Plante]]
+
+|date2       =April 11
+|home2       =1
+|score2      =4–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/bos-vs-mtl/1953/04/11/1952030212#game=1952030212,game_state=final
+|2-1-1       =[[Leo Labine]] (2) - 3:53<br>[[Ed Sandford]] (7) - 18:13
+|2-1-2       =''No scoring''
+|2-2-1       =Ed Sandford (8) - 7:26
+|2-2-2       =1:36 - [[Bert Olmstead]] (2)
+|2-3-1       =[[Milt Schmidt]] (4) - 15:43
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Jim Henry (ice hockey)|Jim Henry]], [[Gord Henry]]
+|goalie2-2   =[[Gerry McNeil]]
+
+|date3       =April 12
+|home3       =2
+|score3      =3–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-bos/1953/04/12/1952030213#game=1952030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Tom Johnson (ice hockey)|Tom Johnson]] (2) - 11:53
+|3-2-1       =''No scoring''
+|3-2-2       =[[Paul Masnick]] (1) - 6:30
+|3-3-1       =''No scoring''
+|3-3-2       =[[Ken Mosdell]] (3) - ''pp'' - 11:27
+|goalie3-1   =[[Gord Henry]]
+|goalie3-2   =[[Gerry McNeil]]
+
+|date4       =April 14
+|home4       =2
+|score4      =7–3
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-bos/1953/04/14/1952030214#game=1952030214,game_state=final
+|4-1-1       =18:22 - [[Dave Creighton]] (4)
+|4-1-2       =[[Lorne Davis]] (1) - 3:23<br>[[Maurice Richard]] (5) - 10:58<br>[[Dickie Moore (ice hockey)|Dickie Moore]] (3) - 16:40
+|4-2-1       =''No scoring''
+|4-2-2       =[[Bernie Geoffrion]] (6) - ''pp'' - 18:56
+|4-3-1       =7:23 - [[Milt Schmidt]] (5)<br>16:25 - [[Jack McIntyre (ice hockey)|Jack McIntyre]] (4)
+|4-3-2       =Maurice Richard (6) - 5:33<br>[[Calum MacKay (ice hockey)|Calum MacKay]] (1) - ''en'' - 17:59<br>Maurice Richard (7) - 18:27
+|goalie4-1   =[[Gord Henry]]
+|goalie4-2   =[[Gerry McNeil]]
+
+|date5       =April 16
+|home5       =1
+|score5      =0–1
+|ot5         =1
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/bos-vs-mtl/1953/04/16/1952030215#game=1952030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =''No scoring''
+|5-4-1       =''No scoring''
+|5-4-2       =1:22 - [[Elmer Lach]] (1)
+|goalie5-1   =[[Jim Henry (ice hockey)|Jim Henry]]
+|goalie5-2   =[[Gerry McNeil]]
+
+|series = Montreal won series 4–1
+}}
+
+==Stanley Cup engraving==
+The 1953 Stanley Cup was presented to Canadiens captain Emile Bouchard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 1–0 overtime win over the Bruins in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1952–53 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Gerry McNeil]]
+*1 [[Jacques Plante]] 
+|defence=*2 [[Doug Harvey (ice hockey)|Doug Harvey]]
+*3 [[Emile Bouchard|Emile "Butch" Bouchard]] (Captain)
+*10 [[Tom Johnson (ice hockey)|Tom Johnson]]
+*19 [[Dollard St. Laurent]]
+*21 Jim [[Bud MacPherson]]
+*23 [[Eddie Mazur]]
+|centres=*11 [[Paul Masnick]]
+*14 [[Billy Reay]] (A)
+*16 [[Elmer Lach]] (A)
+*17 [[Johnny McCormack]]
+*18 [[Kenny Mosdell]]
+*20 [[Paul Meger]] (also played Wing)
+*23  [[Doug Anderson (ice hockey)|Doug Anderson]]^
+|wingers=*4 [[Calum MacKay (ice hockey)|Calum MacKay]]
+*5 [[Bernie Geoffrion]]
+*6 [[Floyd Curry]]
+*8 [[Dick Gamble]]
+*9 [[Maurice Richard|Maurice "Rocket" Richard]]
+*12 [[Dickie Moore (ice hockey)|Dickie Moore]]
+*15 [[Bert Olmstead]]
+*22 [[Lorne Davis]]
+|non-players=
+*[[Donat Raymond]] (President/Owner), Dalton Coleman (Vice President/Owner)
+*[[William Northey (ice hockey)|William Northey]] (Vice Presidents/Owners), [[Frank Selke]] Sr. (Manager)
+*[[Dick Irvin]] Sr. (Coach), Hector Dubois (Trainer), Gaston Bettez (Asst. Trainer)
+*Camile DesRoches^, [[Frank Selke Jr.]]^ (Publicity Directors)
+* Doug Anderson^ played 2 games in the Semi-Finals, qualified to be on the Stanley Cup, but his name was still left off
+*^- on the team picture, but missing from the Stanley Cup.  
+|
+engraving-notes=
+*Eddie Maruz was misspelled EDDIE MARUZE, with an extra "E" on the Replica Cup created in 1992–93. His name was spelled correctly on the other two rings.
+* Mistake: Gaston Bettez's name was misspelled in 1953. Gettez was GOSTON BETTES on the original ring in 1953, G Bettes on the other two rings of 1953 Montreal.
+}}
+
+== See also ==
+* [[List of Stanley Cup champions]]
+
+== Notes ==
+{{reflist}}
+
+== References ==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1952 Stanley Cup Finals|Detroit Red Wings<br>1952]] |
+ after = [[1954 Stanley Cup Finals|Detroit Red Wings<br>1954]] |
+ title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+ years = 1953|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Canadiens}}
+{{Boston Bruins}}
+{{1952–53 NHL season by team}}
+{{Hockey Night in Canada}}
+
+[[Category:1952–53 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:April 1953 sports events in Canada|Stanley Cup Finals]] 
+[[Category:April 1953 sports events in the United States|Stanley Cup Finals]]
+[[Category:1953 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1950s in Boston]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1950s in Montreal]]
+[[Category:1953 in Quebec]]
+[[Category:Ice hockey competitions in Boston]]

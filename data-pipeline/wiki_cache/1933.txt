@@ -1,0 +1,172 @@
+{{Short description|1933 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1933
+|team1=[[1932–33 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team1_short=Toronto
+|team1_1=1
+|team1_2=1
+|team1_3='''3'''
+|team1_4=0*
+|team1_tot=1
+|team2='''[[1932–33 New York Rangers season|New York Rangers]]'''
+|team2_short=New York
+|team2_1='''5'''
+|team2_2='''3'''
+|team2_3=2
+|team2_4='''1'''*
+|team2_tot=3
+|format=best-of-five
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[New York City]]: [[Madison Square Garden (1925)|Madison Square Garden]] (1)
+|location3=[[Toronto]]: [[Maple Leaf Gardens]] (2–4)
+|dates=April 4–13, 1933
+|team1_coach=[[Dick Irvin]]
+|team2_coach=[[Lester Patrick]]
+|team1_captain=[[Hap Day]]
+|team2_captain=[[Bill Cook]]
+|series_winner=[[Bill Cook]] (7:34, OT)
+|hofers='''Rangers:'''<br/>[[Frank Boucher]] (1958)<br/>[[Bill Cook]] (1952)<br/>[[Bun Cook]] (1995)<br/>[[Ching Johnson]] (1958)<br/>[[Earl Seibert]] (1963)<br/>[[Babe Siebert]] (1964)<br/>'''Maple Leafs:'''<br/>[[Ace Bailey]] (1975)<br/>[[King Clancy]] (1958)<br/>[[Charlie Conacher]] (1961)<br/>[[Hap Day]] (1961)<br/>[[Red Horner]] (1965)<br/>[[Busher Jackson]] (1971)<br/>[[Joe Primeau]] (1963)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Lester Patrick]] (1947, player)
+}}
+The '''1933 Stanley Cup Final''' was played between the [[1932–33 New York Rangers season|New York Rangers]] and the [[1932–33 Toronto Maple Leafs season|Toronto Maple Leafs]], in a rematch of the 1932 Finals. The Rangers won the series 3–1 to win their second [[Stanley Cup]].
+
+==Paths to the Finals==
+Toronto defeated the [[Boston Bruins]] 3–2 in a best-of-five series to reach the Finals. New York defeated the [[Montreal Canadiens]] 8—5 and [[Detroit Red Wings]] 6–3 to reach the Finals.
+
+==Game summaries==
+After game one, the Rangers would vacate [[Madison Square Garden (1925)|Madison Square Garden]] for the circus. [[Bill Cook]] would become the first player to score a Cup-winning goal in overtime.<ref>{{cite news|url=https://www.nytimes.com/1986/05/07/obituaries/bill-cook-is-dead-a-ranger-captain.html|title=Bill Cook is dead; a Ranger captain|last=Yannis|first=Alex|newspaper=The New York Times|date=May 7, 1986|accessdate=June 17, 2024}}</ref>
+
+{{NHLPlayoffs
+|team1=New York Rangers
+|team2=Toronto Maple Leafs
+|stadium2=[[Madison Square Garden III]]
+|stadium1=[[Maple Leaf Gardens]]
+
+|date1       =April 4
+|score1      =1–5
+|home1       =2
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/tor-vs-nyr/1933/04/04/1932030211#game=1932030211,game_state=final
+|1-1-1       =12:18 – [[Bun Cook]] (2)<br>13:11 – [[Cecil Dillon]] (6)
+|1-1-2       =''No scoring''
+|1-2-1       =08:31 – ''pp'' – [[Ott Heller]] (2)<br>14:25 – ''sh'' – Cecil Dillon (7)
+|1-2-2       =''No scoring''
+|1-3-1       =16:55 – [[Murray Murdoch]] (2)
+|1-3-2       =[[Alex Levinsky]] (1) – 15:53
+|goalie1-1   =[[Andy Aitkenhead]]
+|goalie1-2   =[[Lorne Chabot]]
+
+|date2       =April 8
+|score2      =3–1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/nyr-vs-tor/1933/04/08/1932030212#game=1932030212,game_state=final
+|2-1-1       =[[Ott Heller]] (3) – 08:18<br>[[Bill Cook]] (2) – ''sh'' – 11:38
+|2-1-2       =01:10 – [[Ken Doraty]] (3)
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =[[Earl Seibert]] (1) – 14:39
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Andy Aitkenhead]]
+|goalie2-2   =[[Lorne Chabot]]
+
+|date3       =April 11
+|score3      =2–3
+|home3       =1
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/nyr-vs-tor/1933/04/11/1932030213#game=1932030213,game_state=final
+|3-1-1       =[[Cecil Dillon]] (8) – ''sh'' – 02:21
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =07:21 – ''pp'' – [[Ken Doraty]] (4)
+|3-3-1       =[[Butch Keeling]] (1) – ''sh'' – 07:42
+|3-3-2       =05:29 – ''pp'' – Ken Doraty (5)<br>08:30 – [[Red Horner]] (1)
+|goalie3-1   =[[Andy Aitkenhead]]
+|goalie3-2   =[[Lorne Chabot]]
+
+|date4       =April 13
+|score4      =1–0
+|home4       =1
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/nyr-vs-tor/1933/04/13/1932030214#game=1932030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =''No scoring''
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|4-4-1       =[[Bill Cook]] (3) – ''pp'' – 07:33
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Andy Aitkenhead]]
+|goalie4-2   =[[Lorne Chabot]]
+
+|series = New York won series 3–1
+}}
+
+==Stanley Cup engraving==
+The 1933 Stanley Cup was presented to Rangers captain Bill Cook by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Rangers' 1–0 overtime win over the Maple Leafs in game four.
+
+The following Rangers players and staff had their names engraved on the Stanley Cup
+
+'''1932–33 New York Rangers'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Andy Aitkenhead]]
+|defence=*3 Ivan [[Ching Johnson]] 
+*4 Albert [[Babe Siebert]]
+*8 [[Cecil Dillon]]
+*14 Erhardt [[Ott Heller]]
+*15 [[Doug Brennan]]
+|centres=*5 [[Bill Cook]] (Captain)
+*7 [[Frank Boucher]]
+*12 [[Art Somers]]
+*16  [[Ossie Asmundson]]
+|wingers=*6 Fred [[Bun Cook]]
+*9 [[Murray Murdoch]]
+*11 [[Gord Pettinger]] 
+*12 Melville [[Butch Keeling]] 
+       
+|non-players=
+*[[Lester Patrick]] (Manager-Coach) 
+*Harry Westerby (Trainer)
+*William Carey (President-Owner)*
+*Richard Hoyt (Vice President-Owner)*
+{{asterisk}} Left off the Stanley Cup, but included on the team picture.
+|engraving-notes=
+* The New York Rangers included two smaller rings on the Stanley Cup. Due to the size of the first ring, no playoff score was included. On the second ring, they honoured Lester Patrick (See 1934 Chicago Black Hawks for the wording.) Lester Patrick's name was put on the Stanley Cup twice in 1933. Even with adding 2 rings, the New York Rangers did not include any playoff scores on the 2nd ring, even though there was more than enough room.
+*Rangers did not include President William Carey's name on the Stanley Cup.  He is the only President of a Stanley Cup-winning team left off the Cup since the engraving of winning members became an annual tradition in 1924. John Hammond returned as President of the New York Rangers in the offseason, forcing out Carey and Hoyt; this may be the reason William Carey and Richard Hoyt were left off the Stanley Cup.
+}}
+
+==See also==
+*[[1932–33 NHL season]]
+
+==References & notes==
+* {{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+{{reflist}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+{{S-start}}
+{{succession box |
+ before = [[1932 Stanley Cup Finals|Toronto Maple Leafs<br>1932]] |
+ after = [[1934 Stanley Cup Finals|Chicago Black Hawks<br>1934]] |
+ title = [[List of Stanley Cup champions|New York Rangers<br>Stanley Cup champions]] |
+ years = 1933|
+}}
+{{S-end}}
+
+{{Stanley Cup Finals}}
+{{New York Rangers}}
+{{Toronto Maple Leafs}}
+{{1932–33 NHL season by team}}
+
+[[Category:1932–33 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Rangers games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1933 sports events in Canada|Stanley Cup Finals]] 
+[[Category:April 1933 sports events in the United States|Stanley Cup Finals]] 
+[[Category:1933 in sports in New York City|Stanley Cup Finals]]
+[[Category:1933 in Ontario|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1930s in Toronto]]
+[[Category:1933 in Canadian sports|Stanley Cup Finals]]
+[[Category:1930s in Manhattan]]

@@ -1,0 +1,317 @@
+{{Short description|1978 ice hockey championship series}}
+{{Use mdy dates|date=June 2013}}
+{{Infobox Stanley Cup Final
+|year=1978
+|image=
+|team1='''[[1977–78 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal
+|team1_captain=[[Yvan Cournoyer]]
+|team1_coach=[[Scotty Bowman]]
+|team2=[[1977–78 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston 
+|team2_coach=[[Don Cherry]]
+|team2_captain=[[Wayne Cashman]]
+|series_winner=[[Mario Tremblay]] (9:20, first)
+|hofers='''Canadiens:'''<br/>[[Yvan Cournoyer]] (1982)<br/>[[Ken Dryden]] (1983)<br/>[[Bob Gainey]] (1992)<br/>[[Guy Lafleur]] (1988)<br/>[[Guy Lapointe]] (1993)<br/>[[Jacques Lemaire]] (1984)<br/>[[Larry Robinson]] (1995)<br/>[[Serge Savard]] (1986)<br/>[[Steve Shutt]] (1993)<br/>'''Bruins:'''<br/>[[Johnny Bucyk]] (1981; did not play)<br/>[[Gerry Cheevers]] (1985)<br/>[[Brad Park]] (1988)<br/>[[Jean Ratelle]] (1985)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)
+|dates=May 13–25, 1978
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4, 6)
+|mvp=[[Larry Robinson]] (Canadiens)
+|networks= '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL Network (1975 TV program)|NHL Network]] (national), [[WSBK-TV]] (Boston)
+|net_announcers=(CBC) [[Danny Gallivan]] (1–2, 5), [[Dan Kelly (sportscaster)|Dan Kelly]] (3–4, 6), [[Chico Resch]], and [[Dick Irvin Jr.]]<br>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(NHLN) ''Simulcast of CBC feed''<br>(WSBK) [[Fred Cusick]] and [[Johnny Peirson]]
+|team1_1='''4'''
+|team1_2='''3'''*
+|team1_3=0
+|team1_4=3*
+|team1_5='''4'''
+|team1_6='''4'''
+|team1_tot=4
+|team2_1=1
+|team2_2=2*
+|team2_3='''4'''
+|team2_4='''4'''*
+|team2_5=1
+|team2_6=1
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+}}
+The '''1978 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1977–78 NHL season|1977–78 season]], and the culmination of the [[1978 Stanley Cup playoffs]]. It was contested between the [[1977–78 Boston Bruins season|Boston Bruins]] and the defending champion [[1977–78 Montreal Canadiens season|Montreal Canadiens]], making their third straight appearance in the Finals. The series was a rematch of the 1977 Stanley Cup Final. The Canadiens won the best-of-seven series, four games to two, to win their third consecutive [[Stanley Cup]] championship and their 21st overall.<ref>{{cite web|url= https://news.google.com/newspapers?nid=feST4K8J0scC&dat=19780526&printsec=frontpage&hl=en|title= Canadiens capture third straight cup after 4-1 win|date=May 26, 1978|work=St Petersburg Times (Page 32)|access-date=June 12, 2013 }}</ref> This was the last time that both the Boston Bruins and Montreal Canadiens met in the Stanley Cup Final. The Canadiens eventually joined the Bruins in the Adams Division (now the [[Atlantic Division (NHL)|Atlantic Division]]) in 1982, rendering a rematch impossible.
+
+==Paths to the Finals==
+Montreal defeated the [[Detroit Red Wings]] 4–1 and the [[Toronto Maple Leafs]] 4–0 to advance to the final.
+
+Boston defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–0 and the [[Philadelphia Flyers]] 4–1 to make it to the final.
+
+==Game summaries==
+Defenceman [[Larry Robinson]] of Montreal led all players with 17 assists, and finished tied with teammate [[Guy Lafleur]] with 21 points, to win the [[Conn Smythe Trophy]].
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Montreal Canadiens
+|stadium2=[[Boston Garden]]
+|stadium1=[[Montreal Forum]]
+
+|date1       =May 13
+|score1      =1–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-mtl/1978/05/13/1977030411#game=1977030411,game_state=final
+|1-1-1       =[[Brad Park]] (6) – ''pp'' – 02:31
+|1-1-2       =04:31 – ''pp'' – [[Guy Lafleur]] (8)<br>09:53 – ''pp'' – [[Yvon Lambert]] (2)
+|1-2-1       =''No scoring''
+|1-2-2       =13:54 – [[Steve Shutt]] (7)
+|1-3-1       =''No scoring''
+|1-3-2       =03:55 – [[Yvan Cournoyer]] (7)
+|goalie1-1   =[[Gerry Cheevers]] 23 saves / 27 shots
+|goalie1-2   =[[Ken Dryden]] 15 saves / 16 shots
+
+|date2       =May 16
+|score2      =2–3
+|ot2         =1
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/bos-vs-mtl/1978/05/16/1977030412#game=1977030412,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =[[Brad Park]] (7) – 03:57
+|2-2-2       =07:00 – [[Steve Shutt]] (8)
+|2-3-1       =[[Rick Smith (ice hockey)|Rick Smith]] (1) – 15:48
+|2-3-2       =12:12 – [[Bob Gainey]] (2)
+|2-4-1       =''No scoring''
+|2-4-2       =13:09 – [[Guy Lafleur]] (9)
+|goalie2-1   =[[Gerry Cheevers]] 32 saves / 35 shots
+|goalie2-2   =[[Ken Dryden]] 30 saves / 32 shots
+
+|date3       =May 18
+|score3      =0–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/mtl-vs-bos/1978/05/18/1977030413#game=1977030413,game_state=final
+|3-1-1       =00:59 – [[Gary Doak]] (1)<br>05:11 – [[Rick Middleton]] (5)
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =02:54 – [[Peter McNab]] (7)<br>15:39 – [[Terry O'Reilly]] (5)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Gerry Cheevers]] 16 saves / 16 shots
+|goalie3-2   =[[Ken Dryden]] 32 saves / 36 shots
+
+|date4       =May 21
+|score4      =3–4
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/mtl-vs-bos/1978/05/21/1977030414#game=1977030414,game_state=final
+|4-1-1       =00:25 – [[Gregg Sheppard]] (2)
+|4-1-2       =[[Doug Risebrough]] (2) – 03:26
+|4-2-1       =''No scoring''
+|4-2-2       =[[Larry Robinson]] (3) – 07:00
+|4-3-1       =09:19 – [[Peter McNab]] (8)<br>13:20 – [[Brad Park]] (8)
+|4-3-2       =[[Guy Lafleur]] (10) – 19:27
+|4-4-1       =06:22 – [[Bobby Schmautz]] (7)
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Gerry Cheevers]] 27 saves / 30 shots
+|goalie4-2   =[[Ken Dryden]] 20 saves / 24 shots
+
+|date5       =May 23
+|score5      =1–4
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/bos-vs-mtl/1978/05/23/1977030415#game=1977030415,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =07:46 – [[Larry Robinson]] (4)<br>11:10 – ''pp'' – [[Pierre Mondou]] (3)
+|5-2-1       =''No scoring''
+|5-2-2       =13:04 – ''pp'' [[Pierre Larouche]] (2)<br>18:42 – [[Jacques Lemaire]] (6)
+|5-3-1       =[[Don Marcotte]] (5) – ''pp'' – 11:22
+|5-3-2       =''No scoring''
+|goalie5-1   =[[Gerry Cheevers]] 21 saves / 25 shots<br>[[Ron Grahame]] 5 saves / 5 shots
+|goalie5-2   =[[Ken Dryden]] 29 saves / 30 shots
+
+|date6       =May 25
+|score6      =4–1
+|won6        =2
+|recap6      =www.nhl.com/gamecenter/mtl-vs-bos/1978/05/25/1977030416#game=1977030416,game_state=final
+|6-1-1       =04:05 – ''pp'' – [[Brad Park]] (9)
+|6-1-2       =[[Steve Shutt]] (9) – 07:01<br>[[Mario Tremblay]] (1) – 09:20
+|6-2-1       =''No scoring''
+|6-2-2       =Mario Tremblay (2) – 13:37<br>[[Rejean Houle]] (3) – 17:46
+|6-3-1       =''No scoring''
+|6-3-2       =''No scoring''
+|goalie6-1   =[[Gerry Cheevers]] 20 saves / 24 shots
+|goalie6-2   =[[Ken Dryden]] 15 saves / 16 shots
+
+|series = Montreal won series 4–2
+}}
+
+==Team rosters==
+
+===Boston Bruins===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Dennis | last = O'Brien | dab = Dennis O'Brien (ice hockey) | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 6 | birthday = 10 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Port Hope, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Sean | last = Shanahan | dab = | num = 7 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 2 | birthday = 8 | acq = [[1977-78 NHL season|1978]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Peter | last = McNab | dab = | num = 8 | pos = C | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 5 | birthday = 8 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Vancouver, British Columbia]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jean | last = Ratelle | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 10 | birthday = 3 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Lac Saint-Jean, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bobby | last = Schmautz | dab = | num = 11 | pos = RW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 3 | birthday = 28 | acq = [[1973-74 NHL season|1973]] | birthplace = [[Saskatoon, Saskatchewan]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Wayne | last = Cashman | dab = | num = 12 | pos = LW | nat = Canada | s/g = R | birthyear = 1945 | birthmonth = 6 | birthday = 24 | acq = [[1965-66 NHL season|1965]] | birthplace = [[Kingston, Ontario]] | cap = C | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Miller | dab = Bob Miller (ice hockey) | num = 14 | pos = C | nat = United States | s/g = L | birthyear = 1956 | birthmonth = 9 | birthday = 28 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Medford, Massachusetts]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rick | last = Middleton | dab = | num = 16 | pos = RW | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 12 | birthday = 4 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Stan | last = Jonathan | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 9 | birthday = 5 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Ohsweken, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = John | last = Wensink | dab = | num = 18 | pos = LW | nat = Netherlands | s/g = L | birthyear = 1953 | birthmonth = 4 | birthday = 1 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Cornwall, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gregg | last = Sheppard | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 4 | birthday = 23 | acq = [[1972-73 NHL season|1972]] | birthplace = [[North Battleford, Saskatchewan]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Al | last = Sims | dab = | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 4 | birthday = 18 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Don | last = Marcotte | dab = | num = 21 | pos = LW | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 4 | birthday = 15 | acq = [[1967-68 NHL season|1967]] | birthplace = [[Arthabaska, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Brad | last = Park | dab = | num = 22 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 7 | birthday = 6 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rick | last = Smith | dab = Rick Smith (ice hockey) | num = 23 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 6 | birthday = 29 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Kingston, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Terry | last = O'Reilly | dab = | num = 24 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 6 | birthday = 7 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Niagara Falls, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gary | last = Doak | dab = | num = 25 | pos = D | nat = Canada | s/g = R | birthyear = 1946 | birthmonth = 2 | birthday = 25 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Goderich, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mike | last = Milbury | dab = | num = 26 | pos = D | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 6 | birthday = 17 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brighton, Massachusetts]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gerry | last = Cheevers | dab = | num = 30 | pos = G | nat = Canada | s/g = L | birthyear = 1940 | birthmonth = 12 | birthday = 7 | acq = [[1975-76 NHL season|1976]] | birthplace = [[St. Catharines, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ron | last = Grahame | dab = | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 6 | birthday = 7 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Victoria, British Columbia]] | cap = | year = 1978 | month = 5 | day = 13}}
+|}
+
+===Montreal Canadiens===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Michel | last = Larocque | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 6 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Hull, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bill | last = Nyrop | dab = | num = 2 | pos = D | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 23 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Washington, D.C.]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Brian | last = Engblom | dab = | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Winnipeg, Manitoba]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Guy | last = Lapointe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 18 | acq = [[1968-69 NHL season|1969]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Mondou | dab = | num = 6 | pos = C | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 11 | birthday = 27 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Sorel, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Doug| last = Risebrough | dab = | num = 8 | pos = C | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 1 | birthday = 29 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Guelph, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Guy | last = Lafleur | dab = | num = 10 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 9 | birthday = 20 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Yvon | last = Lambert | dab = | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 5 | birthday = 20 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Drummondville, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Yvan | last = Cournoyer | dab = | num = 12 | pos = RW | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 11 | birthday = 22 | acq = [[1963-64 NHL season|1963]] | birthplace = [[Montreal, Quebec]] | cap = C | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mario | last = Tremblay | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1956 | birthmonth = 11 | birthday = 22 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Alma, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rejean | last = Houle | dab = | num = 15 | pos = RW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 25 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Rouyn, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Murray | last = Wilson | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 11 | birthday = 7 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Toronto, Canada]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Serge | last = Savard | dab = | num = 18 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 22 | acq = [[1966-67 NHL season|1966]] | birthplace = [[Landrienne, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Larry | last = Robinson | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 6 | birthday = 2 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Winchester, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Doug | last = Jarvis | dab = | num = 21 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 3 | birthday = 24 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brantford, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Steve | last = Shutt | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 1 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[North York, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Gainey | dab = | num = 23 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Peterborough, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gilles | last = Lupien | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 4 | birthday = 20 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Lachute, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jacques | last = Lemaire | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 27 | acq = [[1967-68 NHL season|1967]] | birthplace = [[LaSalle, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Bouchard | dab = | num = 26 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 2 | birthday = 20 | acq = [[1965 NHL Amateur Draft|1965]] | birthplace = [[Longueuil, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rick | last = Chartraw | dab = | num = 27 | pos = D | nat = United States | s/g = R | birthyear = 1954 | birthmonth = 7 | birthday = 13 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Caracas, Venezuela]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pierre | last = Larouche | dab = | num = 28 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 11| birthday = 16 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Taschereau, Quebec]] | cap = | year = 1978 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ken | last = Dryden | dab = | num = 29 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 8 | birthday = 8 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1978 | month = 5 | day = 13}}
+|}
+
+==Stanley Cup engraving==
+The 1978 Stanley Cup was presented to Canadiens captain Yvan Cournoyer by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Canadiens 4–1 win over the Bruins in game six.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1977–78 Montreal Canadiens'''
+{{Stanley Cup champion|team=Montreal Canadiens |year=1973
+|centres=*6 [[Pierre Mondou]]
+*8 [[Doug Risebrough]]
+*21 [[Doug Jarvis]]
+*25 [[Jacques Lemaire]]
+*28 [[Pierre Larouche]]
+|defence=*2 [[Bill Nyrop]]
+*3 [[Brian Engblom]]
+*5 [[Guy Lapointe]]
+*18 [[Serge Savard]]
+*19 [[Larry Robinson]]
+*24 [[Gilles Lupien]]
+*26 [[Pierre Bouchard]]
+*27 [[Rick Chartraw]]
+|goaltenders=*1 [[Michel Larocque|Michel Bunny Larocque]]
+*29 [[Ken Dryden]]
+|wingers=*10 [[Guy Lafleur]]
+*11 [[Yvon Lambert]]
+*12 [[Yvan Cournoyer]] (Captain)
+*14 [[Mario Tremblay]]
+*15 [[Rejean Houle]]
+*17 [[Murray Wilson]]*
+*22 [[Steve Shutt]]
+*23 [[Bob Gainey]]
+|player-notes=
+* * Did not play or dress in the Final. Name engraved on Stanley Cup despite not officially qualifying.{{ref|A|[A]}}
+|non-players=
+*[[Jacques Courtois (ice hockey)|Jacques Courtois]] (President), [[Sam Pollock]] (Vice President/General Manager)
+*[[Jean Beliveau]] (Vice President - Director of Cooperate Relations), William [[Scotty Bowman]] (Head Coach)
+*[[Peter Bronfman]] (Chairman/Owner/Director), [[Edward Bronfman]] (Executive Director/Owner) 
+*[[Al MacNeil]] (Director of Player Personnel), [[Eddy Palchak]] (Trainer), Pierre Meilleur (Asst. Trainer)
+*[[Claude Ruel]] (Director of Player Development), [[Floyd Curry]] (Asst. General Manager), [[Ron Caron]] (Asst. General Manager)
+|engraving-notes=
+* <sup>{{note|A|[A]}}</sup> Murray Wilson only played 12 games due to spinal fusion surgery. His name was engraved on the Cup in 1978, even though he did not qualify.}}
+
+==See also==
+* [[1977–78 NHL season]]
+
+==References==
+<references/>
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1977 Stanley Cup Final|Montreal Canadiens<br>1977]] |
+  after = [[1979 Stanley Cup Final|Montreal Canadiens<br>1979]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1978|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{Boston Bruins}}
+{{1977–78 NHL season by team}}
+{{Hockey Night in Canada}}
+{{The NHL Network (1975–79)}}
+{{NHL on NBC}}
+}}
+
+[[Category:1977–78 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Montreal Canadiens games]]
+[[Category:May 1978 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1978 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1978 in Montreal]]
+[[Category:1978 in sports in Quebec|Stanley Cup Final]]
+[[Category:1978 in Boston|Stanley Cup Final]]
+[[Category:1978 in sports in Massachusetts]]

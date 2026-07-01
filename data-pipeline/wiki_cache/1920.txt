@@ -1,0 +1,255 @@
+{{Short description|1920 ice hockey championship series}}
+{{Use mdy dates|date=March 2020}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final|
+|team2=[[Seattle Metropolitans]] (PCHA)
+|team1='''[[1919–20 Ottawa Senators season|Ottawa Senators]]''' (NHL)
+|year=1920
+|format=best-of-five
+|team2_1=2
+|team1_1='''3'''
+|team2_2=0
+|team1_2='''3'''
+|team2_3='''3'''
+|team1_3=1
+|team2_4='''5'''
+|team1_4=2
+|team2_5=1
+|team1_5='''6'''
+|team2_tot=2
+|team1_tot=3
+|dates=March 22 – April 1, 1920
+|location1=[[Ottawa]]: [[The Arena, Ottawa|The Arena]] (1–3)
+|location2=[[Toronto]]: [[Arena Gardens]] (4, 5)
+|team1_winner=1
+|series_winner=[[Jack Darragh]] (5:00, third)
+|hofers='''Senators:'''<br/>[[Clint Benedict]] (1965)<br/>[[Georges Boucher]] (1960)<br/>[[Punch Broadbent]] (1962)<br/>[[Sprague Cleghorn]] (1958)<br/>[[Jack Darragh]] (1962)<br/>[[Cy Denneny]] (1959)<br/>[[Eddie Gerard]] (1945)<br/>[[Frank Nighbor]] (1947)<br/>'''Metropolitans:'''<br/>[[Frank Foyston]] (1958)<br/>[[Hap Holmes]] (1972)<br/>[[Jack Walker (ice hockey)|Jack Walker]] (1960)
+|coaches=Ottawa: [[Pete Green (ice hockey)|Pete Green]]<br/>Seattle: [[Pete Muldoon]]
+|referees = [[Cooper Smeaton]]
+}}
+The '''1920 Stanley Cup Final''' was contested by the [[National Hockey League]] (NHL) champion [[1919–20 Ottawa Senators season|Ottawa Senators]] and the [[Pacific Coast Hockey Association]] (PCHA) champion [[Seattle Metropolitans]]. The Senators won the series by three games to two in the best-of-five game series. Although all of the games for the series were scheduled to be played at [[The Arena, Ottawa|The Arena]] in Ottawa, unseasonably warm weather and poor ice conditions forced the last two contests to be played on the artificial ice at Toronto's [[Arena Gardens]].<ref>{{Cite web|title=Stanley Cup Champions 1918-1929|url=https://www.nhl.com/news/nhl-stanley-cup-champions-1918-1929/c-288144788|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref>
+
+This would be the last Stanley Cup Final appearance for a team based on the West Coast of the United States until the [[1993 Stanley Cup Final]]. It is the last Finals appearance by a Seattle-based team to date.
+
+==Paths to the Finals==
+{{Main|1919–20 NHL season|1919–20 PCHA season}}
+
+The Senators captured the [[1919–20 NHL season|1919–20 NHL title]] after they won both halves of the regular season, thus eliminating the need for a league championship playoff. Meanwhile, Seattle finished the [[1919–20 PCHA season|1919–20 PCHA regular season]] in first place with a 12–10 record, but had to defeat the second place [[Vancouver Millionaires]] in a two-game total goals championship series, 7–3, to win the PCHA title.
+
+The location of the series was under dispute. As the 1919 series was not completed, the PCHA wanted the 1920 series to take place out west. The NHL opposed the idea. The PCHA proposed playing the series in [[Winnipeg]], but this was still not agreed to by the NHL. While the dispute continued, the schedules for both leagues was allowed to drag out, leading to a late starting date for the Finals.{{sfn|Howard|1921|p=49}}
+
+===Bracket===
+{{3TeamBracket-info
+| legs = 2
+| RD1-legs = 2
+| aggregate = y
+| RD1=PCHA Championship
+| RD2='''Stanley Cup Final'''
+| RD1-seed1='''P1'''
+| RD1-team1='''Seattle Metropolitans'''
+| RD1-score1-1=1
+| RD1-score1-2='''6'''
+| RD1-seed2=P2
+| RD1-team2=Vancouver Millionaires
+| RD1-score2-1='''3'''
+| RD1-score2-2=0
+| RD1-score1-agg='''7'''
+| RD1-score2-agg=3
+
+| RD2-legs = 5
+| RD2-seed1='''NC'''
+| RD2-team1='''Ottawa Senators'''
+| RD2-score1-1='''3'''
+| RD2-score1-2='''3'''
+| RD2-score1-3=1
+| RD2-score1-4=2
+| RD2-score1-5='''6'''
+| RD2-seed2=PC
+| RD2-team2=Seattle Metropolitans
+| RD2-score2-1=2
+| RD2-score2-2=0
+| RD2-score2-3='''3'''
+| RD2-score2-4='''5'''
+| RD2-score2-5=1
+| RD2-score1-agg='''3'''
+| RD2-score2-agg=2
+}}
+
+==Game summaries==
+Seattle's green, red, and white uniforms looked almost alike to Ottawa's black, red, and white uniforms. The Senators agreed to play in white sweaters. The rules alternated for each game, starting with eastern rules.
+
+The puck was dropped for the first game of the series by Stanley Cup trustee [[William Foran]] to the centers [[Frank Nighbor]] and [[Frank Foyston]]. The ice became soft and pools of water developed.{{sfn|Howard|1921|p=53}} Foyston scored two goals in the first period to put Seattle ahead 2–0. Nighbor scored on a shot that ricocheted off Morris of Seattle with 40 seconds to play in the second period. Nighbor tied it at the ten-minute mark of the third period. [[Jack Darragh]] scored the game-winning goal with four minutes to play on an assist from [[Eddie Gerard]].{{sfn|Howard|1921|pp=53–55}}
+
+[[Vancouver]] Mayor [[Robert Henry Otley Gale|Robert Gale]] dropped the puck to start game two, played under seven-man PCHA rules. Goaltender [[Clint Benedict]] led the Senators to a 3–0 shutout win. Ice conditions were again wet. Darragh scored at the 14-minute mark of the first period. In the third, Gerard stick-handled in and scored after six minutes. Nighbor finished the scoring with his third goal of the series with one minute to play.{{sfn|Howard|1921|pp=54}}rom
+
+Before game three, snow was placed onto the natural ice to make the ice harder and removed prior to the game. The ice softened, however, as the game progressed. Seattle won game three, 3–1, in a game notable for having no penalties called.{{sfn|Howard|1921|p=51}} Seattle outplayed Ottawa but the score was kept close by Benedict. The first goal was scored at five minutes of the first, by [[George Boucher]] to put Ottawa ahead 1–0. Riley of Seattle scored to tie the game with two minutes to play in the first. Seattle took the lead on a goal by Foyston, after a steal by Walker from Darragh. The final goal was scored by Rickey on another set-up by Walker.{{sfn|Howard|1921|pp=55}}
+
+By consensus of league and team officials, the series was shifted to Toronto because of Ottawa's slushy ice conditions (The Ottawa Arena did not have artificial ice). Ottawa objected, but NHL president Frank Calder
+stood firm.
+
+In game four Foyston scored after three minutes to give the Mets a lead which they did not relinquish. Rowe scored at the eight-minute mark to put the Mets ahead 2-0. In the second period, Nighbor scored after two minutes to draw Ottawa close. At the 6:55 mark, Walker scored on a back-hand to put Seattle again two goals ahead, before Nighbor scored his second to make the score 3–2 after two periods. Seattle scored twice in the third to win the game 5–2 and even the series.{{sfn|Howard|1921|pp=56}}
+
+In the fifth game, Rowe scored after ten minutes to put Seattle ahead 1–0, but Ottawa scored the next six to win the game 6–1. Boucher scored four minutes after Rowe to tie the score after one period. The score remained 1–1 after two periods. Darragh then scored after five minutes of the third to put Ottawa ahead. Gerard stick-handled through the Seattle team to put Ottawa ahead 3–1 three minutes later. Darragh then scored twice within a minute to record a [[hat-trick]]. Nighbor scored to finish the scoring.{{sfn|Howard|1921|pp=56}}
+
+Seattle forward Frank Foyston had high praise for the Ottawa team after the series had concluded, and gave credit to all of Frank Nighbor, Jack Darragh and Eddie Gerard on the Senators forward line:
+
+{{quote box| quote="It was something awful those fellows cut loose. I thought we had them until [[Bobby Rowe (ice hockey)|Rowe]] was hurt, but the Ottawas had saved themselves and skated us off our feet in the third period. [[Frank Nighbor|Nighbor]] had our line demoralized with his speed and poke check and no one could stop [[Jack Darragh|Darragh]] and [[Eddie Gerard|Gerard]]. Darragh scored three goals in as many minutes, and [[Hap Holmes|Harry Holmes]] afterwards told me he could see three our four Darraghs on the ice, the way the big Ottawa forward was galloping up and down. That guy isn't human when he gets his blood up. We were all sorry to lose, but we were beaten by a wonderful team. They're a credit to the game." |align=center |width=65%|source= – [[Seattle Metropolitans]] forward [[Frank Foyston]] on the Ottawa Senators after the 1920 Stanley Cup Final.<ref name="OttawaCitizen">[https://www.newspapers.com/clip/78467125/seattle-stars-back-at-coast-boost/ "Seattle stars back at coast boost Ottawa hockey team; Send thanks for hospitality"], ''Ottawa Citizen''. Apr. 20, 1920 (pg. 8). Retrieved 2021-05-28.</ref>}}
+
+For the series, Nighbor led in goals with six, while Foyston and Darragh scored five. Benedict recorded a 2.20 [[goals against average]] (GAA) during the series. [[Hap Holmes]] recorded a 3.00 GAA. It was Holmes' fourth consecutive Stanley Cup Final, and his fifth to that point ([[1914 Stanley Cup Final|1914]], [[1917 Stanley Cup Final|1917]], [[1918 Stanley Cup Final|1918]], [[1919 Stanley Cup Final|1919]], 1920). Each Senator received $390.19 in prize money, while each Metropolitan received $319.39.{{sfn|Howard|1921|p=51}}
+
+{{NHLPlayoffs
+|team1=Seattle Metropolitans
+|team2=Ottawa Senators
+|stadium1=[[The Arena, Ottawa|The Arena]]
+|stadium2=[[Mutual Street Arena]]
+
+|date1       =March 22
+|score1      =2–3
+|won1        =2
+|recap1      =web.archive.org/web/20220817202519/http://bigmouthsports.com/wp-content/uploads/2014/10/1920-Stanley-Cup-Playoff-boxscores-OTT.pdf
+|1-1-1       =[[Frank Foyston]] (1) – 10:25
+|1-1-2       =''No scoring''
+|1-2-1       =Frank Foyston (2) – 06:45
+|1-2-2       =14:15 – [[Frank Nighbor]] (1)
+|1-3-1       =''No scoring''
+|1-3-2       =10:00 – Frank Nighbor (2)<br>16:00 – [[Jack Darragh]] (1)
+|goalie1-1   =[[Hap Holmes]]
+|goalie1-2   =[[Clint Benedict]]
+
+|date2       =March 24
+|score2      =0–3
+|won2        =2
+|recap2      =web.archive.org/web/20220817202519/http://bigmouthsports.com/wp-content/uploads/2014/10/1920-Stanley-Cup-Playoff-boxscores-OTT.pdf
+|2-1-1       =''No scoring''
+|2-1-2       =14:00 – [[Jack Darragh]] (2)
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =06:00 – [[Eddie Gerard]] (1)<br/>19:00 – [[Frank Nighbor]] (3)
+|goalie2-1   =[[Hap Holmes]]
+|goalie2-2   =[[Clint Benedict]]
+
+|date3       =March 27
+|home3       =1
+|score3      =3–1
+|won3        =1
+|recap3      =web.archive.org/web/20220817202519/http://bigmouthsports.com/wp-content/uploads/2014/10/1920-Stanley-Cup-Playoff-boxscores-OTT.pdf
+|3-1-1       =[[Frank Foyston]] (3) – 09:00
+|3-1-2       =06:00 – [[Buck Boucher]] (1)
+|3-2-1       =Frank Foyston (4) – 12:00
+|3-2-2       =''No scoring''
+|3-3-1       =[[Roy Rickey]] (1) – 09:30
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Hap Holmes]]
+|goalie3-2   =[[Clint Benedict]]
+
+|date4       =March 30
+|score4      =2–5
+|won4        =1
+|recap4      =web.archive.org/web/20220817202519/http://bigmouthsports.com/wp-content/uploads/2014/10/1920-Stanley-Cup-Playoff-boxscores-OTT.pdf
+|4-1-1       =03:00 – [[Frank Foyston]] (5)<br>08:00 – [[Bobby Rowe (ice hockey)|Bobby Rowe]] (1)
+|4-1-2       =''No scoring''
+|4-2-1       =08:00 – [[Jack Walker (ice hockey)|Jack Walker]] (1)
+|4-2-2       =[[Frank Nighbor]] (4) – 02:00<br>Frank Nighbor (5) – 11:00
+|4-3-1       =02:00 – [[Roy Rickey]] (2)<br>05:00 – Frank Foyston (6)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Hap Holmes]]
+|goalie4-2   =[[Clint Benedict]]
+
+|date5       =April 1
+|home5       =2
+|score5      =6–1
+|won5        =2
+|recap5      =web.archive.org/web/20220817202519/http://bigmouthsports.com/wp-content/uploads/2014/10/1920-Stanley-Cup-Playoff-boxscores-OTT.pdf
+|5-1-1       =10:00 – [[Bobby Rowe (ice hockey)|Bobby Rowe]] (2)
+|5-1-2       =[[Buck Boucher]] (2) – 14:00
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =[[Jack Darragh]] (3) – 05:00<br>[[Eddie Gerard]] (2) – 10:00<br>Jack Darragh (3) – 13:00<br>Jack Darragh (4) – 14:00<br/>[[Frank Nighbor]] (6) – 14:30
+|goalie5-1   =[[Hap Holmes]]
+|goalie5-2   =[[Clint Benedict]]
+
+|series = Ottawa won series 3–2
+}}
+
+==Stanley Cup engraving==
+The 1920 Stanley Cup was presented by the trophy's trustee [[William Foran]]. The Senators never did engrave their name on the Cup for their championship season.
+
+It was not until the trophy was redesigned in 1948 that the words "1920 Ottawa Senators" was put onto its then-new collar. 
+
+The following Senators players and staff were members of the Stanley Cup winning team.
+
+'''1919–20 Ottawa Senators'''
+{{Stanley Cup champion|team=Ottawa Senators |year=1920
+|goaltenders=
+*1 [[Clint Benedict]]
+|defence=
+*2 [[Sprague Cleghorn]]
+*10 [[Morley Bruce]]
+*11 [[Horace Merrill]]
+|wingers=*5 [[Eddie Gerard]] – (Captain)^
+*3 [[Jack MacKell]]^
+*4 George [[Buck Boucher]]‡
+*6 [[Jack Darragh]] (Sub-Goalie)
+*7 Harry [[Punch Broadbent]]
+*8 [[Cy Denneny]]
+|centres=
+*9 [[Frank Nighbor]]
+|non-players=
+*Edwin [[Ted Dey]], (President/Owner)
+*[[Frank Ahearn]], (Hon. President/Owner)
+*[[Tommy Gorman]], (Manager/Secretary/Owner)
+*[[Pete Green (ice hockey)|Pete Green]], (Coach)
+* Frank Dolan, (Trainer)
+* Lorne Graham, (Team Doctor)<ref>{{cite news |work=The Globe |date=January 1, 1920 |page=12 |title=All Pro Players Under Similar Obligation}}</ref>
+* ‡ Played rover position in the Stanley Cup Final. ^-also played Defence
+* & Missing from the team picture.
+|engraving-notes=
+}}
+
+==See also==
+* [[1919–20 NHL season]]
+* [[1919–20 PCHA season]]
+
+==References==
+===Bibliography===
+*{{cite book | editor-first=Dan |editor-last=Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=52–53 }}
+*{{cite book |editor-last=Howard |editor-first=Tom |editor-link=Tom Howard (ice hockey)|title=Official Ice Hockey Guide and Winter Sports Almanac |publisher=American Sports Publishing |location=New York, NY |year=1921 }}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 52| author-link2=Hockey Hall of Fame }}
+===Notes===
+{{reflist}}
+===General===
+*{{cite web | url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1919–20 | title=1919–20 Stanley Cup Winner: Ottawa Senators | publisher=[[Hockey Hall of Fame]] | access-date=July 4, 2006}}
+*{{cite web|url=http://www.hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm |title=hockeyleaguehistory.com – Pacific Coast Hockey Association |access-date=July 4, 2006 |archive-url=https://web.archive.org/web/20060703172648/http://hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm |archive-date=July 3, 2006 |url-status=live }}
+*{{cite web | url=https://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+
+{{s-start}}
+{{succession box |
+ before = [[1919 Stanley Cup Final|(no 1919 champion)]] |
+ after = [[1921 Stanley Cup Final|Ottawa Senators<br>1921]] |
+ title = [[List of Stanley Cup champions|Ottawa Senators<br>Stanley Cup champions]] |
+ years = 1920|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Ottawa Senators (original)}}
+{{1919–20 NHL season by team}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1919–20 in Canadian ice hockey|Stan]]
+[[Category:1919–20 in American ice hockey|Stan]]
+[[Category:1919–20 NHL season|Stanley Cup]]
+[[Category:1919–20 PCHA season|Stan]]
+[[Category:Ottawa Senators (original) games]]
+[[Category:Seattle Metropolitans games]]
+[[Category:March 1920 sports events in Canada|Stanley Cup Final]]
+[[Category:April 1920 sports events in Canada|Stanley Cup Final]]
+[[Category:March 1920 sports events in the United States|Stanley Cup Final]]
+[[Category:April 1920 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Ottawa]]
+[[Category:1920 in sports in Ontario]]
+[[Category:1920s in Toronto]]
+[[Category:1920s in Ottawa]]
+[[Category:Ice hockey competitions in Toronto]]

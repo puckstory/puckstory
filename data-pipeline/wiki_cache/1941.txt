@@ -1,0 +1,173 @@
+{{Short description|1941 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1941
+|team1='''[[1940–41 Boston Bruins season|Boston Bruins]]'''
+|team1_short=Boston
+|team1_coach=[[Cooney Weiland]]
+|team1_captain=[[Dit Clapper]]
+|team1_1='''3'''
+|team1_2='''2'''
+|team1_3='''4'''
+|team1_4='''3'''
+|team1_tot=4
+|team2=[[1940–41 Detroit Red Wings season|Detroit Red Wings]]
+|team2_short=Detroit 
+|team2_captain=[[Ebbie Goodfellow]]
+|team2_coach=[[Jack Adams]]
+|team2_1=2
+|team2_2=1
+|team2_3=2
+|team2_4=1
+|team2_tot=0
+|location1=[[Boston]]: [[Boston Garden]] (1, 2)
+|location2=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (3, 4)
+|dates=April 6–12, 1941
+|series_winner=[[Bobby Bauer]] (8:43, second)
+|hofers='''Bruins:'''<br/>[[Bobby Bauer]] (1996)<br/>[[Frank Brimsek]] (1966)<br/>[[Dit Clapper]] (1947)<br/>[[Roy Conacher]] (1998)<br/>[[Bill Cowley]] (1968)<br/>[[Woody Dumart]] (1992)<br/>[[Milt Schmidt]] (1961)<br/>'''Red Wings:'''<br/>[[Sid Abel]] (1969)<br/>[[Ebbie Goodfellow]] (1963)<br/>[[Syd Howe]] (1965)<br/>[[Jack Stewart (ice hockey)|Jack Stewart]] (1964)<br/>'''Coaches:'''<br/>[[Jack Adams]] (1959, player)<br/>[[Cooney Weiland]] (1971, player)
+}}
+
+The '''1941 Stanley Cup Final''' was a best-of-seven series between the [[1940–41 Boston Bruins season|Boston Bruins]] and the [[1940–41 Detroit Red Wings season|Detroit Red Wings]]. Boston would win the series 4–0 to win their third [[Stanley Cup]].
+
+==Paths to the Finals==
+Boston defeated the [[Toronto Maple Leafs]] in a best-of-seven 4–3 to advance to the Finals. The Red Wings had to play two best-of three series; winning 2–1 against the [[New York Rangers]], and 2–0 against the [[Chicago Blackhawks|Chicago Black Hawks]] to advance to the Finals.
+
+==Game summaries==
+In the third best-of-seven series, Boston became the first to sweep the series in four games.
+{{NHLPlayoffs
+|team1=Detroit Red Wings
+|team2=Boston Bruins
+|stadium1=[[Boston Garden]]
+|stadium2=[[Olympia Stadium]]
+
+|date1       =April 6
+|home1       =1
+|score1      =2–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/det-vs-bos/1941/04/06/1940030211#game=1940030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =13:26 - [[Eddie Wiseman]] (4)
+|1-2-1       =''No scoring''
+|1-2-2       =14:45 - [[Milt Schmidt]] (3)
+|1-3-1       =[[Carl Liscombe]] (3) - 10:55<br>[[Syd Howe]] (1) - 17:45
+|1-3-2       =9:16 - [[Pat McReavy]] (2)
+|goalie1-1   =[[Johnny Mowers]]
+|goalie1-2   =[[Frank Brimsek]]
+
+|date2       =April 8
+|home2       =1
+|score2      =1–2
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/det-vs-bos/1941/04/08/1940030212#game=1940030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =[[Mud Bruneteau]] (2) - 2:41
+|2-3-2       =13:35 - [[Terry Reardon]] (2)<br>17:35 - [[Roy Conacher]] (1)
+|goalie2-1   =[[Johnny Mowers]]
+|goalie2-2   =[[Frank Brimsek]]
+
+|date3       =April 10
+|home3       =2
+|score3      =4–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/bos-vs-det/1941/04/10/1940030213#game=1940030213,game_state=final
+|3-1-1       =3:15 - [[Bill Jennings (ice hockey)|Bill Jennings]] (2)<br>7:45 - [[Sid Abel]] (2)
+|3-1-2       =[[Eddie Wiseman]] (5) - 3:57<br>[[Milt Schmidt]] (4) - 14:07
+|3-2-1       =''No scoring''
+|3-2-2       =Milt Schmidt (5) - 00:59
+|3-3-1       =''No scoring''
+|3-3-2       =[[Art Jackson]] (1) - ''pp'' - 17:20
+|goalie3-1   =[[Johnny Mowers]]
+|goalie3-2   =[[Frank Brimsek]]
+
+|date4       =April 12
+|home4       =2
+|score4      =3–1
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/bos-vs-det/1941/04/12/1940030214#game=1940030214,game_state=final
+|4-1-1       =10:14 - ''pp'' - [[Carl Liscombe]] (4)
+|4-1-2       =''No scoring''
+|4-2-1       =''No scoring''
+|4-2-2       =[[Flash Hollett]] (3) - ''pp'' - 7:42<br>[[Bobby Bauer]] - ''pp'' - 8:43<br>[[Eddie Wiseman]] (6) - 19:32
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Johnny Mowers]]
+|goalie4-2   =[[Frank Brimsek]]
+
+|series = Boston won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1941 Stanley Cup was presented to Bruins captain Dit Clapper by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Bruins 3–1 win over the Red Wings in game four.
+
+The following Bruins players and staff had their names engraved on the Stanley Cup
+
+'''1940–41 Boston Bruins'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Frank Brimsek]]
+|defence=*2 Bill [[Flash Hollett]]
+*5  Aubrey [[Dit Clapper]] (Captain)
+*6 [[Jack Crawford (ice hockey)|Jack Crawford]]
+*8 [[Des Smith (ice hockey)|Des Smith]] †
+*11–12 [[Jack Shewchuk]]*
+*19 [[Terry Reardon]]
+|centres=*10 [[Bill Cowley]]
+*12 [[Pat McReavy]] ‡
+*15 [[Milt Schmidt]]
+*16 [[Art Jackson]]
+|wingers=*4  [[Herb Cain]]
+*7 [[Eddie Wiseman]]
+*9 [[Roy Conacher]]
+*11 [[Mel Hill]]
+*14 [[Woody Dumart]]
+*17 [[Bobby Bauer]]
+|non-players=
+* [[Weston Adams (ice hockey, born 1904)|Weston Adams]] Sr. (President/Owner), [[Art Ross]] (Vice President/Manager)
+* Ralph Burkard (Treasurer), Ralph [[Cooney Weiland]] (Coach)
+* Win Green (Trainer) 
+|player-notes=
+
+|engraving-notes=
+* * #11–12 Jack Shewchuk (D) played 22 of 48 regular season games, but not dressed in the playoffs. He was original left off the cup. Shewchuk name was added to the cup when it redone during 1957–58, but not Gordie Bruce.
+* † #8 Des Smith (D) was engraved as WES SMITH with a "W" instead a "D".  This mistake was corrected when the Stanley Cup was redone during the 1957–58 Season.
+* ‡ #12 Pat McReavy (C) was misspelled PAT McCREAVY  with an extra "C" on new version of the cup created during the 1957–58 season. Pat McReavy was often misspelled as Pat McCreavy on some team pictures with the Boston Bruins. When the Replica Cup was created in 1992–93, Pat McReavy name was misspelled as Pat McCeavy with "C" instead of a "R".
+* [[Frank Ryan (sportscaster)|Frank Ryan]] (Publicity Director) was included on 1929, 1939 1941 Stanley Cup pictures, but his name is not engraved on the Stanley Cup.
+* Gordie Bruce (LW) was originally credited with playing 8 regular season games, and 3 playoffs games. Bruce's stats were corrected to only 7 regular season, and no playoff games.  He did not qualify so his name was left off the Stanley Cup. 
+|
+}}
+
+==See also==
+* [[1940–41 NHL season]]
+
+==References & notes==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1940 Stanley Cup Finals|New York Rangers<br>1940]] |
+ after = [[1942 Stanley Cup Finals|Toronto Maple Leafs<br>1942]] |
+ title = [[List of Stanley Cup champions|Boston Bruins<br>Stanley Cup champions]] |
+ years = 1941|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Boston Bruins}}
+{{Detroit Red Wings}}
+{{1940–41 NHL season by team}}
+
+[[Category:1940–41 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Detroit Red Wings games]]
+[[Category:April 1941 sports events in the United States]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1941 in sports in Michigan|Stanley Cup]]
+[[Category:1941 in sports in Massachusetts]]
+[[Category:1941 in Detroit]]
+[[Category:1940s in Boston]]
+[[Category:Events at the Boston Garden]]

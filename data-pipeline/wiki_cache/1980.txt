@@ -1,0 +1,1656 @@
+{{Short description|1980 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1980
+|image=
+|team1='''[[1979–80 New York Islanders season|New York Islanders]]'''
+|team1_short=New York
+|team1_captain=[[Denis Potvin]]
+|team1_national_anthem = Joe Duerr
+|team1_coach=[[Al Arbour]]
+|team2=[[1979–80 Philadelphia Flyers season|Philadelphia Flyers]]
+|team2_short=Philadelphia
+|team2_coach=[[Pat Quinn (ice hockey)|Pat Quinn]]
+|team2_captain=[[Mel Bridgman]]
+|team2_national_anthem = [[Kate Smith]]
+|referees=[[Andy Van Hellemond]] (1, 4)<br/>[[Wally Harris (referee)|Wally Harris]] (2, 5)<br/>Bob Myers (3, 6)
+|series_winner=[[Bob Nystrom]] (7:11, OT)
+|hofers='''Islanders:'''<br/>[[Mike Bossy]] (1991)<br/>[[Clark Gillies]] (2002)<br/>[[Denis Potvin]] (1991)<br/>[[Billy Smith (ice hockey)|Billy Smith]] (1993)<br/>[[Bryan Trottier]] (1997)<br/>'''Flyers:'''<br/>[[Bill Barber]] (1990)<br/>[[Bobby Clarke]] (1987)<br/>'''Coaches:'''<br/>[[Al Arbour]] (1996)<br/>[[Pat Quinn (ice hockey)|Pat Quinn]] (2016)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|dates=May 13–24, 1980
+|location1=[[Uniondale, New York|Uniondale]]: [[Nassau Veterans Memorial Coliseum]]) (3, 4, 6)
+|location2=[[Philadelphia]]: [[Spectrum (arena)|Spectrum]] (1, 2, 5)
+|mvp=[[Bryan Trottier]] (Islanders)
+|team1_1='''4'''*
+|team1_2=3
+|team1_3='''6'''
+|team1_4='''5'''
+|team1_5=3
+|team1_6='''5'''*
+|team1_tot=4
+|team2_1=3*
+|team2_2='''8'''
+|team2_3=2
+|team2_4=2
+|team2_5='''6'''
+|team2_6=4*
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on Hughes|Hughes]] (1–5), [[NHL on CBS|CBS]] (6)
+|net_announcers=(CBC) [[Dan Kelly (sportscaster)|Dan Kelly]] (1–5), [[Bob Cole (sportscaster)|Bob Cole]] (1–2), [[Jim Robson]] (3–6), [[Gary Dornhoefer]] and [[Dick Irvin Jr.]]<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(Hughes) ''Simulcast of CBC feed''<br/>(CBS) Dan Kelly, [[Tim Ryan (sportscaster)|Tim Ryan]], and [[Lou Nanne]]
+}}
+The '''1980 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1979–80 NHL season|1979–80 season]], and the culmination of the [[1980 Stanley Cup playoffs]]. It was contested by the [[1979–80 New York Islanders season|New York Islanders]] in their first-ever Final appearance and the [[1979–80 Philadelphia Flyers season|Philadelphia Flyers]], in their fourth Final appearance, and first since 1976. The Islanders would win the best-of-seven series, four games to two, to win their first [[Stanley Cup]] championship and the third for a post-1967 expansion team after Philadelphia's Cup wins in [[1974 Stanley Cup Final|1974]] and [[1975 Stanley Cup Final|1975]].
+
+==Paths to the Final==
+{{further|1980 Stanley Cup playoffs}}
+{{See also|1979–80 New York Islanders season|1979–80 Philadelphia Flyers season}}
+New York defeated the [[Los Angeles Kings]] 3–1, the [[Boston Bruins]] 4–1 and the [[Buffalo Sabres]] 4–2 to advance to the Final.
+
+Philadelphia defeated the [[Edmonton Oilers]] 3–0, the [[New York Rangers]] 4–1 and the [[Minnesota North Stars]] 4–1 to make it to the Final. The Flyers were one of the four Philadelphia professional sports teams to play for their respective sports' championships in the 1980 season. The [[1979–80 Philadelphia 76ers season|76ers]] would lose to the [[Los Angeles Lakers]] in the [[1980 NBA Finals]], the [[1980 Philadelphia Phillies season|Phillies]] would then beat the [[Kansas City Royals]] in the [[1980 World Series|World Series]], and the [[1980 Philadelphia Eagles season|Eagles]] later lost [[Super Bowl XV]] to the [[1980 Oakland Raiders season|Oakland Raiders]] in January 1981.<ref>{{cite news|title=Uniquely Successful; In this decade, all 4 pro teams reached finals|first=Frank|last=Fitzpatrick|newspaper=Philadelphia Inquirer|date=May 26, 2010|page=C1|quote=Among those cities with teams in the four major sports (not including metropolitan regions), only Philadelphia has reached championship rounds in all four in the new millennium.}}</ref><ref>{{cite web|title=The five best years in Philadelphia sports history|url=https://www.nbcsportsphiladelphia.com/news/the-five-best-years-in-philadelphia-sports-history/348153/|first=Casey|last=Feeney|website=NBC Sports Philadelphia|date=March 14, 2020|archive-url=https://web.archive.org/web/20241106171339/https://www.nbcsportsphiladelphia.com/news/the-five-best-years-in-philadelphia-sports-history/348153/|archive-date=November 6, 2024}}</ref>
+
+==Game summaries==
+
+===Game one===
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Philadelphia Flyers
+|stadium1=[[Spectrum (arena)|Spectrum]]
+|date1       =May 13
+|score1      =4–3
+|ot1         =1
+|won1        =1
+|recap1      =www.nhl.com/gamecenter/nyi-vs-phi/1980/05/13/1979030411#game=1979030411,game_state=final
+}}
+In game one, [[Denis Potvin]] scored twice, including the game-winning goal in overtime, which was the first power-play overtime goal in Stanley Cup Final history.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | PHI
+|align=center | [[Mel Bridgman]] (2)
+|align=center | ''Unassisted''
+|align=center | 10:31
+|align=center | 1–0 PHI
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (7) – ''pp''
+|align=center | Bryan Trottier (14)
+|align=center | 12:02
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | [[Denis Potvin]] (2)
+|align=center | [[Clark Gillies]] (5) and [[Butch Goring]] (10)
+|align=center | 02:20
+|align=center | 2–1 NYI
+|-
+|align=center | PHI
+|align=center | [[Bobby Clarke]] (5) – ''pp''
+|align=center | [[Bill Barber]] (6) and [[Reggie Leach]] (4)
+|align=center | 17:08
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Rick MacLeish]] (7)
+|align=center | [[Paul Holmgren]] (7)
+|align=center | 13:10
+|align=center | 3–2 PHI
+|-
+|align=center | NYI
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]] (3) – ''pp''
+|align=center | Mike Bossy (7) and Denis Potvin (10)
+|align=center | 17:08
+|align=center | 3–3
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | NYI
+|align=center | Denis Potvin (3) – ''pp''
+|align=center | [[John Tonelli]] (7) and [[Bob Nystrom]] (9)
+|align=center | 04:07
+|align=center | 4–3 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Elbowing
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Behn Wilson]]
+|align=center | High-sticking
+|align=center | 09:36
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bob Dailey]]
+|align=center | Tripping
+|align=center | 11:51
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Fighting – major
+|align=center | 02:56
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|align=center | Fighting – major
+|align=center | 02:56
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Ken Linseman]]
+|align=center | Hooking
+|align=center | 12:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Lorimer]]
+|align=center | Hooking
+|align=center | 16:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PHI
+|align=center | Bobby Clarke
+|align=center | Tripping
+|align=center | 02:33
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Holding
+|align=center | 10:49
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Al Hill (ice hockey)|Al Hill]]
+|align=center | Hooking
+|align=center | 14:35
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | PHI
+|align=center | Jimmy Watson
+|align=center | Holding
+|align=center | 02:08
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 15 || align=center | 9 || align=center | 11 || align=center | 1 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 9 || align=center | 12 || align=center | 11 || align=center | 1 || align=center | 33
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Philadelphia Flyers
+|stadium1=[[Spectrum (arena)|Spectrum]]
+|date1       =May 15
+|score1      =3–8
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/nyi-vs-phi/1980/05/15/1979030412
+}}
+After the Islanders drew first blood in game two, [[Paul Holmgren]] recorded a hat trick, [[Bobby Clarke]] and [[Bob Dailey]] each recorded three points for Philadelphia, and the Flyers cruised to an 8–3 victory to tie the series. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NYI
+|align=center | [[Butch Goring]] (5)
+|align=center | [[Clark Gillies]] (6) and [[Duane Sutter]] (5)
+|align=center | 03:23
+|align=center | 1–0 NYI
+|-
+|align=center | PHI
+|align=center | [[Paul Holmgren]] (7) – ''pp''
+|align=center | [[Brian Propp]] (8) and [[Bob Dailey]] (11)
+|align=center | 07:22
+|align=center | 1–1
+|-
+|align=center | PHI
+|align=center | [[Bob Kelly (ice hockey, born 1950)|Bob Kelly]] (1)
+|align=center | [[Behn Wilson]] (6) and [[Bobby Clarke]] (10)
+|align=center | 08:37
+|align=center | 2–1 PHI
+|-
+|align=center | PHI
+|align=center | Bobby Clarke (6)
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]] (14) and [[Bill Barber]] (7)
+|align=center | 17:23
+|align=center | 3–1 PHI
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | PHI
+|align=center | Bill Barber (12)
+|align=center | Bobby Clarke (11) and [[Reggie Leach]] (5)
+|align=center | 01:06
+|align=center | 4–1 PHI
+|-
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (9) – ''pp''
+|align=center | [[Mike Bossy]] (8)
+|align=center | 03:28
+|align=center | 4–2 PHI
+|-
+|align=center | PHI
+|align=center | Paul Holmgren (8) – ''pp''
+|align=center | [[Ken Linseman]] (12) and Bill Barber (8)
+|align=center | 04:13
+|align=center | 5–2 PHI
+|-
+|align=center | PHI
+|align=center | Brian Propp (3) – ''pp''
+|align=center | Bob Dailey (12) and Bobby Clarke (12)
+|align=center | 15:47
+|align=center | 6–2 PHI
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PHI
+|align=center | [[Tom Gorence]] (3)
+|align=center | Bob Dailey (13) and [[Mel Bridgman]] (7)
+|align=center | 01:40
+|align=center | 7–2 PHI
+|-
+|align=center | PHI
+|align=center | Paul Holmgren (9)
+|align=center | Ken Linseman (13) and Behn Wilson (7) 
+|align=center | 04:19
+|align=center | 8–2 PHI
+|-
+|align=center | NYI
+|align=center | Butch Goring (6) – ''pp''
+|align=center | [[Bob Bourne]] (7) and [[Stefan Persson (ice hockey)|Stefan Persson]] (7)
+|align=center | 15:00
+|align=center | 8–3 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | PHI
+|align=center | Tom Gorence
+|align=center | Hooking
+|align=center | 04:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Tripping
+|align=center | 05:37
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | Elbowing
+|align=center | 09:31
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Holding
+|align=center | 12:10
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="10"| '''2nd'''
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Hooking
+|align=center | 03:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Ken Morrow]]
+|align=center | Interference 
+|align=center | 04:02
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Roughing
+|align=center | 05:27
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Lorimer
+|align=center | High-sticking
+|align=center | 12:54
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Brian Propp
+|align=center | High-sticking
+|align=center | 12:54
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Garry Howatt]]
+|align=center | Tripping
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | High-sticking – major
+|align=center | 14:12
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Billy Smith (ice hockey)|Billy Smith]]
+|align=center | Slashing
+|align=center | 14:12
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bill Barber
+|align=center | Slashing
+|align=center | 14:12
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Bill Barber
+|align=center | High-sticking – major
+|align=center | 14:12
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="10"| '''3rd'''
+|align=center | PHI
+|align=center | [[Jack McIlhargey]]
+|align=center | Tripping
+|align=center | 01:55
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Slashing
+|align=center | 05:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Fighting – major
+|align=center | 07:01
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Misconduct
+|align=center | 07:01
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Fighting – major
+|align=center | 07:01
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Misconduct
+|align=center | 07:01
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Cross-checking
+|align=center | 14:13
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Roughing
+|align=center | 14:13
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Game misconduct
+|align=center | 14:13
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Slashing
+|align=center | 19:10
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10 || align=center | 5 || align=center | 8 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 10 || align=center | 16 || align=center | 5 || align=center | 23
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 17
+|score1      =2–6
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/phi-vs-nyi/1980/05/17/1979030413
+}}
+In game three, the Islanders connected on all five of their power plays, with Denis Potvin recording 4 points, and giving the Islanders a 6–2 victory and a 2–1 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NYI
+|align=center | [[Lorne Henning]] (3) – ''sh'' 
+|align=center | [[Bob Bourne]] (8)
+|align=center | 02:38
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]] (4) – ''pp''
+|align=center | ''Unassisted''
+|align=center | 07:43
+|align=center | 2–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (10) – ''pp''
+|align=center | [[Mike Bossy]] (9) and Denis Potvin (11)
+|align=center | 13:04
+|align=center | 3–0 NYI
+|-
+|align=center | NYI
+|align=center | Mike Bossy (8) – ''pp''
+|align=center | [[Clark Gillies]] (7) and Denis Potvin (12)
+|align=center | 14:29
+|align=center | 4–0 NYI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Clark Gillies (5) – ''pp'' 
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]] (8)
+|align=center | 15:41
+|align=center | 5–0 NYI
+|-
+|align=center | NYI
+|align=center | Denis Potvin (5) – ''pp''
+|align=center | Stefan Persson (9) and Mike Bossy (10)
+|align=center | 17:25
+|align=center | 6–0 NYI
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Bobby Clarke]] (7)
+|align=center | [[Reggie Leach]] (6) and [[Mike Busniuk]] (4)
+|align=center | 09:48
+|align=center | 6–1 NYI
+|-
+|align=center | PHI
+|align=center | Mike Busniuk (1) 
+|align=center | [[Mel Bridgman]] (8) 
+|align=center | 11:32
+|align=center | 6–2 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Hooking
+|align=center | 01:01
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Interference
+|align=center | 04:11
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bob Kelly (ice hockey, born 1950)|Bob Kelly]]
+|align=center | Tripping
+|align=center | 06:54
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Tripping
+|align=center | 09:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Rick MacLeish]]
+|align=center | Slashing
+|align=center | 12:24
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bob Dailey]]
+|align=center | Holding
+|align=center | 12:56
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[John Tonelli]]
+|align=center | Hooking
+|align=center | 16:46
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="19"| '''2nd'''
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Slashing
+|align=center | 01:21
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Nystrom]]
+|align=center | Fighting – major
+|align=center | 10:45
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Roughing
+|align=center | 10:45
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Mike Busniuk]]
+|align=center | Fighting – major
+|align=center | 10:45
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Roughing
+|align=center | 13:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | High-sticking
+|align=center | 13:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ken Linseman]]
+|align=center | Slashing
+|align=center | 14:15
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Garry Howatt]]
+|align=center | Roughing
+|align=center | 16:43
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Garry Howatt
+|align=center | Misconduct
+|align=center | 16:43
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Fighting – major
+|align=center | 16:43
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Misconduct
+|align=center | 16:43
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Tom Gorence]]
+|align=center | Roughing
+|align=center | 16:43
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Gorence
+|align=center | Misconduct
+|align=center | 16:43
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Jack McIlhargey]]
+|align=center | Fighting – major
+|align=center | 16:43
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Jack McIlhargey
+|align=center | Misconduct
+|align=center | 16:43
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Bill Barber]]
+|align=center | High-sticking
+|align=center | 17:18
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | High-sticking
+|align=center | 19:23
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Roughing
+|align=center | 19:23
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | Roughing
+|align=center | 19:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Behn Wilson
+|align=center | Roughing
+|align=center | 19:31
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 9 || align=center | 8 || align=center | 15 || align=center | 32
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 12 || align=center | 21 || align=center | 7 || align=center | 40
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 19
+|score1      =2–5
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/phi-vs-nyi/1980/05/19/1979030414
+}}
+In game four, Clark Gillies recorded three points for New York, and the Islanders defeated the Flyers by a score of 5–2, giving them a commanding 3–1 lead in the series. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NYI
+|align=center | [[Mike Bossy]] (9) – ''pp'' 
+|align=center | [[Clark Gillies]] (8) and [[Bryan Trottier]] (15)
+|align=center | 07:23
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Butch Goring]] (7)
+|align=center | Clark Gillies (9) and [[Duane Sutter]] (6)
+|align=center | 13:06
+|align=center | 2–0 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | PHI
+|align=center | [[John Paddock]] (1) 
+|align=center | [[Rick MacLeish]] (8) and [[Behn Wilson]] (8)
+|align=center | 01:35
+|align=center | 2–1 NYI
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | NYI
+|align=center | Bryan Trottier (11)
+|align=center | [[Garry Howatt]] (1)
+|align=center | 06:06 
+|align=center | 3–1 NYI
+|-
+|align=center | PHI
+|align=center | [[Ken Linseman]] (4)
+|align=center | [[Brian Propp]] (9) and [[Tom Gorence]] (3)
+|align=center | 11:53
+|align=center | 3–2 NYI
+|-
+|align=center | NYI
+|align=center | [[Bobby Nystrom]] (7)
+|align=center | [[Bob Bourne]] (9)
+|align=center | 12:35
+|align=center | 4–2 NYI
+|-
+|align=center | NYI
+|align=center | Clark Gillies (6)
+|align=center | Duane Sutter (7)
+|align=center | 14:08
+|align=center | 5–2 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NYI
+|align=center | [[Billy Smith (ice hockey)|Billy Smith]]
+|align=center | Slashing
+|align=center | 03:47
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tom Gorence
+|align=center | Holding
+|align=center | 05:56
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Mike Bossy
+|align=center | Tripping
+|align=center | 16:50
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | PHI
+|align=center | [[Jack McIlhargey]]
+|align=center | Interference
+|align=center | 01:48
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]]
+|align=center | High-sticking
+|align=center | 02:36
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Fighting – major
+|align=center | 03:06
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Mel Bridgman]]
+|align=center | Fighting – major
+|align=center | 03:06
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Dave Langevin
+|align=center | Holding
+|align=center | 13:45
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Tripping
+|align=center | 16:19
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]]
+|align=center | Hooking
+|align=center | 17:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PHI
+|align=center | [[Norm Barnes]]
+|align=center | Holding
+|align=center | 00:44
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Jack McIlhargey
+|align=center | Holding
+|align=center | 09:16
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Norm Barnes
+|align=center | Hooking
+|align=center | 17:42
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 13 || align=center | 11 || align=center | 12 || align=center | 36
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 9 || align=center | 8 || align=center | 10 || align=center | 27
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Philadelphia Flyers
+|stadium1=[[Spectrum (arena)|Spectrum]]
+|date1       =May 22
+|score1      =3–6
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/phi-vs-nyi/1980/05/19/1979030414
+}}
+With Philadelphia facing elimination in game five, [[Brian Propp]] and [[Ken Linseman]] each recorded three points, giving the Flyers a 6–3 victory to send the series to a game six back in [[Uniondale, New York|Uniondale]].
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | NYI
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]] (4) – ''pp''
+|align=center | [[Mike Bossy]] (11)
+|align=center | 10:58
+|align=center | 1–0 NYI
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | PHI
+|align=center | [[Bobby Clarke]] (8)
+|align=center | [[Behn Wilson]] (9) and Reggie Leach (7)
+|align=center | 01:45
+|align=center | 1–1
+|-
+|align=center | PHI
+|align=center | [[Ken Linseman]] (4)
+|align=center | [[Brian Propp]] (9) and [[Tom Gorence]] (3)
+|align=center | 11:53
+|align=center | 2–1 PHI
+|-
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (12)
+|align=center | Mike Bossy (12) and Stefan Persson (10)
+|align=center | 16:16
+|align=center | 2–2
+|-
+|align=center | PHI
+|align=center | [[Mike Busniuk]] (2)
+|align=center | Brian Propp (10) and [[Ken Linseman]] (14)
+|align=center | 17:04
+|align=center | 3–2 PHI
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | PHI
+|align=center | [[Rick MacLeish]] (9)
+|align=center | [[Mel Bridgman]] (9)
+|align=center | 09:43
+|align=center | 4–2 PHI
+|-
+|align=center | PHI
+|align=center | Brian Propp (4) – ''pp''
+|align=center | Ken Linseman (15) and [[Paul Holmgren]] (8)
+|align=center | 12:33
+|align=center | 5–2 PHI
+|-
+|align=center | NYI
+|align=center | Stefan Persson (5)
+|align=center | [[Butch Goring]] (11) and [[Denis Potvin]] (13)
+|align=center | 14:57
+|align=center | 5–3 PHI
+|-
+|align=center | PHI
+|align=center | Paul Holmgren (10)
+|align=center | Ken Linseman (16)
+|align=center | 17:26
+|align=center | 6–3 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | High-sticking
+|align=center | 02:48
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Clark Gillies]]
+|align=center | Interference
+|align=center | 03:44
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Slashing
+|align=center | 09:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | Slashing
+|align=center | 09:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[André Dupont|Andre Dupont]]
+|align=center | Holding
+|align=center | 10:40
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Brian Propp
+|align=center | Slashing
+|align=center | 15:24
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NYI
+|align=center | Stefan Persson
+|align=center | Interference
+|align=center | 09:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="13"| '''3rd'''
+|align=center | PHI
+|align=center | [[Jack McIlhargey]]
+|align=center | Hooking
+|align=center | 01:43
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Lorimer]]
+|align=center | Hooking
+|align=center | 02:36
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bob Kelly (ice hockey, born 1950)|Bob Kelly]]
+|align=center | Interference
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Ken Morrow]]
+|align=center | Slashing
+|align=center | 12:03
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Ken Morrow
+|align=center | Unsportsmanlike conduct
+|align=center | 12:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | High-sticking
+|align=center | 13:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Garry Howatt]]
+|align=center | Fighting – major
+|align=center | 19:52
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Billy Smith (ice hockey)|Billy Smith]]
+|align=center | Slashing – major
+|align=center | 19:52
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Bench (Served by Brian Propp)
+|align=center | Delay of game
+|align=center | 19:52
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Elbowing
+|align=center | 19:52
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Roughing
+|align=center | 19:52
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Fighting – major
+|align=center | 19:52
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Misconduct
+|align=center | 19:52
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10 || align=center | 15 || align=center | 13 || align=center | 38
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 6 || align=center | 13 || align=center | 12 || align=center | 31
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 24
+|score1      =4–5
+|won1        =2
+|ot1         =1
+|recap1      =https://www.nhl.com/gamecenter/phi-vs-nyi/1980/05/24/1979030416
+}}
+In game six, [[Bob Nystrom]] scored the Cup winner in overtime, his fourth career overtime goal, at the time putting him alone behind [[Maurice Richard]]'s six on the all-time overtime goal-scoring list. [[Ken Morrow]] joined the Islanders after [[Miracle on Ice|winning the Olympic gold medal with the United States]] and added the [[Stanley Cup]] to cap a remarkable season. 
+
+The deciding game six was marred by one of the most infamous blown official calls in NHL playoff history.  With the game tied 1–1, the Islanders [[Butch Goring]] picked up a drop pass from New York left wing [[Clark Gillies]] which had clearly gone back over the Flyers' defensive zone blue line into center ice. Linesman [[Leon Stickle]] waved the play as on-side, and Goring threaded a pass to right wing [[Duane Sutter]] who beat Philadelphia goalie [[Pete Peeters]] for a 2–1 New York lead.<ref>{{cite book |last1=Wilner |first1=Barry |title=Crazyball: Sports Scandals, Superstitions and Sick Plays |date=2014 |publisher=Taylor Trade Publishing |location=New York |isbn=9781589799134 |pages=392}}</ref> The Flyers argued vehemently to no avail. Everyone on both sides except Goring and Sutter appeared to relax as if play had been blown dead once the puck went over the blue line. Flyers captain [[Mel Bridgman]] stated the play changed the momentum of the game at a critical time even though the Flyers scored shortly afterwards to tie the score 2–2.  Stickle admitted after the game that he had blown the call. Ultimately, it was the Flyers lack of discipline and the resulting Islander power play goals that were the difference in the series.
+
+[[Bryan Trottier]] was awarded the [[Conn Smythe Trophy]] as the playoffs MVP, recording 29 points in 21 games.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | PHI
+|align=center | [[Reggie Leach]] (9) – ''pp''
+|align=center | [[Rick MacLeish]] (5) and [[Bill Barber]] (9)
+|align=center | 07:21
+|align=center | 1–0 PHI
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]] (6) – ''pp''
+|align=center | [[Mike Bossy]] (13) and [[Bryan Trottier]] (16)
+|align=center | 11:56
+|align=center | 1–1 
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]] (3)
+|align=center | [[Clark Gillies]] (10) and [[Butch Goring]] (12)
+|align=center | 14:08
+|align=center | 2–1 NYI
+|-
+|align=center | PHI
+|align=center | [[Brian Propp]] (5)
+|align=center | [[Paul Holmgren]] (9) and [[Ken Linseman]] (17)
+|align=center | 18:58
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Mike Bossy (10) – ''pp''
+|align=center | [[Bob Bourne]] (10) and Bryan Trottier (17)
+|align=center | 07:34
+|align=center | 3–2 NYI
+|-
+|align=center | NYI
+|align=center | [[Bob Nystrom]] (8)
+|align=center | [[John Tonelli]] (8)
+|align=center | 19:46
+|align=center | 4–2 NYI
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Bob Dailey]] (4)
+|align=center | Ken Linseman (18) and Paul Holmgren (10)
+|align=center | 01:47
+|align=center | 4–3 NYI
+|-
+|align=center | PHI
+|align=center | [[John Paddock]] (2)
+|align=center | [[André Dupont|Andre Dupont]] (4) and Rick MacLeish (6)
+|align=center | 06:02
+|align=center | 4–4
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | NYI
+|align=center | Bob Nystrom (9)
+|align=center | Lorne Henning (4) and John Tonelli (9)
+|align=center | 07:11
+|align=center | 5–4 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="16"| '''1st'''
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | High-sticking
+|align=center | 01:00
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | High-sticking
+|align=center | 01:00
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | High-sticking
+|align=center | 02:24
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Roughing
+|align=center | 05:55
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Fighting – major
+|align=center | 05:55
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Bob Kelly (ice hockey, born 1950)|Bob Kelly]]
+|align=center | Fighting – major
+|align=center | 05:55
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Cross-checking
+|align=center | 06:29
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Bourne
+|align=center | Delay of game
+|align=center | 07:42
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | Delay of game
+|align=center | 07:42
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | Hooking
+|align=center | 07:42
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Mike Busniuk]]
+|align=center | Holding
+|align=center | 10:15
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Roughing
+|align=center | 15:18
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bobby Nystrom
+|align=center | Misconduct
+|align=center | 15:18
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Mel Bridgman]]
+|align=center | Roughing
+|align=center | 15:18
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Misconduct
+|align=center | 15:18
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Holding
+|align=center | 16:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="11"| '''2nd'''
+|align=center | NYI
+|align=center | [[Garry Howatt]]
+|align=center | Roughing
+|align=center | 03:15
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Jimmy Watson (ice hockey)|Jimmy Watson]]
+|align=center | Roughing
+|align=center | 03:15
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Behn Wilson]]
+|align=center | Holding
+|align=center | 06:39
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Jack McIlhargey]]
+|align=center | Hooking
+|align=center | 08:46
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Mike Bossy
+|align=center | High-sticking
+|align=center | 11:10
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Mel Bridgman
+|align=center | Roughing
+|align=center | 11:10
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | Slashing
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Interference
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Andre Dupont
+|align=center | Roughing
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Charging
+|align=center | 15:09
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | Charging
+|align=center | 15:09
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Holding
+|align=center | 03:20
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Slashing
+|align=center | 08:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Fighting – major
+|align=center | 08:09
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | Cross-checking
+|align=center | 08:09
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Paul Holmgren
+|align=center | Fighting – major
+|align=center | 08:09
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Ken Linseman
+|align=center | Roughing
+|align=center | 09:21
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 6 || align=center | 6 || align=center | 11 || align=center | 2 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 13 || align=center | 12 || align=center | 5 || align=center | 3 || align=center | 33
+|}
+
+==Team rosters==
+===New York Islanders===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Chico | last = Resch | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 7 | birthday = 10 | acq = [[1973–74 NHL season|1974]] | birthplace = [[Moose Jaw, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jean | last = Potvin | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1949 | birthmonth = 3 | birthday = 25 | acq = [[1979–80 NHL season|1979]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Lorimer | dab =  | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 8 | birthday = 25 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Denis | last = Potvin | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 10 | birthday = 29 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Vanier, Ontario]] | cap = C | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ken | last = Morrow | dab = | num = 6 | pos = D | nat = USA | s/g = R | birthyear = 1956 | birthmonth = 10 | birthday = 17 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Davison, Michigan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Stefan | last = Persson | dab = Stefan Persson (ice hockey) | num = 7 | pos = D | nat = Sweden | s/g = L | birthyear = 1954 | birthmonth = 12 | birthday = 22 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Bjurholm|Bjurholm, Sweden]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Garry | last = Howatt | dab = | num = 8 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 9 | birthday = 26 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Grand Centre, Alberta]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Clark | last = Gillies | dab = | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 4 | birthday = 7 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Moose Jaw, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Lorne | last = Henning | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 2 | birthday = 22 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Melfort, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Wayne | last = Merrick | dab = | num = 11 | pos = C | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 23 | acq = [[1977–78 NHL season|1977]] | birthplace = [[Sarnia, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Duane | last = Sutter | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1960 | birthmonth = 3 | birthday = 16 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Viking, Alberta]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Bourne | dab = | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 6 | birthday = 21 | acq = [[1974–75 NHL season|1974]] | birthplace = [[Kindersley, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Steve | last = Tambellini | dab = | num = 16 | pos = C | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 5 | birthday = 14 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Trail, British Columbia]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Alex | last = McKendry | dab = | num = 17 | pos = RW | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 11 | birthday = 21 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Midland, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bryan | last = Trottier | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 7 | birthday = 17 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Val Marie, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Butch | last = Goring | dab = | num = 21 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 22 | acq = [[1979–80 NHL season|1980]] | birthplace = [[St. Boniface, Manitoba]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mike | last = Bossy | dab = | num = 22 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 1 | birthday = 22 | acq = [[1977 NHL Entry Draft|1977]] | birthplace = [[Montreal]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Nystrom | dab = | num = 23 | pos = RW | nat = Sweden | s/g = R | birthyear = 1952 | birthmonth = 10 | birthday = 10 | acq = [[1972 NHL Entry Draft|1972]] | birthplace = [[Stockholm, Sweden]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gord | last = Lane | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 3 | birthday = 31 | acq = [[1979–80 NHL season|1979]] | birthplace = [[Brandon, Manitoba]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Dave | last = Langevin | dab = | num = 26 | pos = D | nat = USA | s/g = L | birthyear = 1954 | birthmonth = 5 | birthday = 15 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = John | last = Tonelli | dab = | num = 27 | pos = LW | nat = Canada | s/g = L | birthyear = 1957 | birthmonth = 3 | birthday = 23 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Anders | last = Kallur | dab = | num = 28 | pos = RW | nat = Sweden | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 6 | acq = [[1979–80 NHL season|1979]] | birthplace = [[Ludvika|Ludvika, Sweden]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Billy | last = Smith | dab = Billy Smith (ice hockey) | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 12 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Perth, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+|}
+
+===Philadelphia Flyers===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Bob | last = Dailey | dab = | num = 2 | pos = D | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 5 | birthday = 3 | acq = [[1976–77 NHL season|1977]] | birthplace = [[Kingston, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Behn | last = Wilson | dab = | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 12 | birthday = 19 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Toronto]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Frank | last = Bathe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 9 | birthday = 27 | acq = [[1977–78 NHL season|1977]] | birthplace = [[Oshawa, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Andre | last = Dupont | dab = | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 7 | birthday = 27 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Trois-Rivières, Quebec]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bill | last = Barber | dab = | num = 7 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 11 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Callander, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bob | last = Kelly | dab = Bob Kelly (ice hockey, born 1950) | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 11 | birthday = 25 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Oakville, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mel | last = Bridgman | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 4 | birthday = 28 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Trenton, Ontario]] | cap = C | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Dennis | last = Ververgaert | dab = | num = 11 | pos = RW | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 3 | birthday = 30 | acq = [[1978–79 NHL season|1978]] | birthplace = [[Grimsby, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = John | last = Paddock | dab = | num = 12 | pos = LW | nat = Canada | s/g = R | birthyear = 1954 | birthmonth = 6 | birthday = 9 | acq = [[1976–77 NHL season|1976]] | birthplace = [[Oak River, Manitoba]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Ken | last = Linseman | dab = | num = 14 | pos = C | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 8 | birthday = 11 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Kingston, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Al | last = Hill | dab = Al Hill (ice hockey) | num = 15 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 4 | birthday = 22 | acq = [[1976–77 NHL season|1976]] | birthplace = [[Nanaimo, British Columbia]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Bobby | last = Clarke | dab = | num = 16 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 8 | birthday = 13 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Flin Flon, Manitoba]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Paul | last = Holmgren | dab = | num = 17 | pos = RW | nat = USA | s/g = R | birthyear = 1955 | birthmonth = 12 | birthday = 2 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Rick | last = MacLeish | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 1 | birthday = 3 | acq = [[1970–71 NHL season|1970]] | birthplace = [[Lindsay, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jimmy | last = Watson | dab = Jimmy Watson (ice hockey) | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 8 | birthday = 19 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Smithers, British Columbia]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Gary | last = Morrison | dab = | num = 21 | pos = RW | nat = USA | s/g = R | birthyear = 1955 | birthmonth = 11 | birthday = 8 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Farmington, Michigan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Tom | last = Gorence | dab = | num = 22 | pos = RW | nat = USA | s/g = R | birthyear = 1957 | birthmonth = 3 | birthday = 11 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Norm | last = Barnes | dab = | num = 25 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 8 | birthday = 24 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Rexdale, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Brian | last = Propp | dab = | num = 26 | pos = LW | nat = Canada | s/g = L | birthyear = 1959 | birthmonth = 2 | birthday = 15 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Lanigan, Saskatchewan]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Reggie | last = Leach | dab = | num = 27 | pos = RW | nat = Canada | s/g = R | birthyear = 1950 | birthmonth = 4 | birthday = 23 | acq = [[1974–75 NHL season|1974]] | birthplace = [[Riverton, Manitoba]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Mike | last = Busniuk | dab = | num = 28 | pos = D | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 12 | birthday = 13 | acq = [[1979–80 NHL season|1979]] | birthplace = [[Thunder Bay, Ontario]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Jack | last = McIlhargey | dab = | num = 29 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 3 | birthday = 7 | acq = [[1979–80 NHL season|1980]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Phil | last = Myre | dab = | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 11 | birthday = 1 | acq = [[1979–80 NHL season|1979]] | birthplace = [[Sainte-Anne-de-Bellevue, Quebec]] | cap = | year = 1980 | month = 5 | day = 13}}
+{{Ice hockey team player
+| first = Pete | last = Peeters | dab = | num = 33 | pos = G | nat = Canada | s/g = L | birthyear = 1957 | birthmonth = 8 | birthday = 17 | acq = [[1977 NHL Amateur Draft|1977]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1980 | month = 5 | day = 13}}
+|}
+
+==Stanley Cup engraving==
+The 1980 Stanley Cup was presented to Islanders captain Denis Potvin by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Islanders 5–4 win over the Flyers in game six.
+
+The following Islanders players and staff had their names engraved on the Stanley Cup
+
+'''1979–80 New York Islanders'''
+{{Stanley Cup champion
+|centres=*10 [[Lorne Henning]]
+*11 [[Wayne Merrick]]
+*16 [[Steve Tambellini]]
+*19 [[Bryan Trottier]]
+*21 Robert [[Butch Goring]]
+|defence=*3 [[Jean Potvin]]*
+*4 [[Bob Lorimer]]
+*5 [[Denis Potvin]] (Captain)
+*6 [[Ken Morrow]]
+*7 [[Stefan Persson (ice hockey)|Stefan Persson]]
+*24 [[Gord Lane]]
+*26 [[Dave Langevin]]
+|goaltenders=*1 [[Chico Resch]]
+*31 [[Billy Smith (ice hockey)|Billy Smith]]
+|wingers=*8 [[Garry Howatt]]
+*9 [[Clark Gillies]]
+*12 [[Duane Sutter]]
+*14 [[Bob Bourne]]
+*17 [[Alex McKendry]]*
+*22 [[Mike Bossy]]
+*23 [[Bob Nystrom]]
+*27 [[John Tonelli]]
+*28 [[Anders Kallur]]
+|player-notes=
+* * Name engraved on Stanley Cup despite not officially qualifying.{{ref|A|[A]}}
+|non-players=
+*[[John Pickett (businessman)|John Pickett]] (Chairman/Owner)
+*[[Bill Torrey]] (President/General Manager)
+*[[Al Arbour]] (Head Coach), [[Bill MacMillan]] (Asst. Coach)
+*[[Jim Devellano]] (Chief Scout), [[Gerry Ehman]] (Western Scout)
+*Harry Boyd (Scout), Mario Saraceno (Scout)
+*Ron Waske (Trainer), Jim Pickard (Asst. Trainer)
+|engraving-notes=
+* <sup>{{note|A|[A]}}</sup> Two players had their names engraved on the Stanley Cup, even though they did not officially qualify.
+** #17 [[Alex McKendry]] (LW) – played 2 regular season and 6 playoff games (none in the playoffs)
+** #3 [[Jean Potvin]] (D) – played 32 regular season games, spending the whole season with the Islanders. He did not play in the playoffs.  
+* Ken Morrow became the first player to win the Olympic Gold (with Team United States), and Stanley Cup (with New York Islanders) in the same year.
+* Al Arbour became the fourth person to win the Stanley Cup with four teams.  Arbour won the Stanley Cup as a player with Detroit 1954, Chicago 1961, and Toronto 1962. 1964.  The other three people to win cup with four teams are Jack Marshall, Harry (Happy) Holmes, and Tommy Gorman.
+* Bryan Trottier was first Metis player to win the Stanley Cup
+* [[Bob Nystrom]], [[Anders Kallur]] and [[Stefan Persson (ice hockey)|Stefan Persson]] were the first three Swedish born-trained players to win the Stanley Cup. Kallur and Persson were also the first European-trained players to win the Stanley Cup.
+}}
+
+==Broadcasting==
+[[Bob Cole (sportscaster)|Bob Cole]], [[Dan Kelly (sportscaster)|Dan Kelly]], and [[Jim Robson]] shared play-by-play duties for CBC's coverage. Cole did play-by-play for the first half of Games 1 and 2. Meanwhile, Kelly did play-by-play for the rest of Games 1–5 (Kelly also called the overtime period of Game 1). Finally, Robson did play-by-play for the first half of Games 3–4 and Game 6 entirely, he also would've called Game 7 had there been one. In essence, this meant that Cole or Robson did play-by-play for the first period and the first half of the second period (except for Game 5 in which the roles of Kelly and Robson were switched). Therefore, at the closest stoppage of play near the 10-minute mark of the second period, Cole or Robson handed off the call to Kelly for the rest of the game.
+
+In the United States, the first five games were syndicated by the [[NHL on Hughes|Hughes Television Network]].  Hughes used ''[[Hockey Night in Canada|CBC's Hockey Night in Canada]]'' feeds for the American coverage. Game 6 was televised in the United States by the [[NHL on CBS|CBS]] network, as a special edition of its ''[[CBS Sports Spectacular]]'' anthology series. Dan Kelly did the play-by-play for CBS for the first and third periods as well as overtime. Meanwhile, [[Tim Ryan (sportscaster)|Tim Ryan]] did play-by-play for the second period while [[Lou Nanne]] served as the color commentator throughout the game. Game 6 remains the last Stanley Cup Final game to be played in the afternoon (earlier than 5 p.m. local time). This would also be the last NHL game to air on U.S. network television until [[NHL on NBC|NBC]] televised the [[41st National Hockey League All-Star Game|1990 All-Star Game]].
+
+==References==
+* {{cite book|title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+==Notes==
+{{reflist}}
+{{s-start}}
+{{succession box |
+  before = [[1979 Stanley Cup Final|Montreal Canadiens<br>1979]] |
+  after = [[1981 Stanley Cup Final|New York Islanders<br>1981]] |
+  title = [[List of Stanley Cup champions|New York Islanders<br>Stanley Cup champions]] |
+  years = 1980|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New York Islanders}}
+{{Philadelphia Flyers}}
+{{1979–80 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on CBS}}
+}}
+
+[[Category:1979–80 NHL season]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Islanders games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:May 1980 sports events in the United States]]
+[[Category:Ice hockey competitions in New York (state)]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:1980 in sports in New York (state)]]
+[[Category:1980 in sports in Pennsylvania]]
+[[Category:1980s in Philadelphia]]
+[[Category:1980 Stanley Cup|Finals]]

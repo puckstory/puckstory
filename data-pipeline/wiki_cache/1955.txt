@@ -1,0 +1,245 @@
+{{Short description|1955 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1955
+|team2=[[1954–55 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal 
+|team2_captain=[[Émile Bouchard|Emile Bouchard]]
+|team2_coach=[[Dick Irvin]]
+|team1='''[[1954–55 Detroit Red Wings season|Detroit Red Wings]]'''
+|team1_short=Detroit 
+|team1_captain=[[Ted Lindsay]]
+|team1_coach=[[Jimmy Skinner]]
+|team1_1='''4'''
+|team1_2='''7'''
+|team1_3=2
+|team1_4=3
+|team1_5='''5'''
+|team1_6=3
+|team1_7='''3'''
+|team1_tot=4
+|team2_1=2
+|team2_2=1
+|team2_3='''4'''
+|team2_4='''5'''
+|team2_5=1
+|team2_6='''6'''
+|team2_7=1
+|team2_tot=3
+|dates=April 3–14, 1955
+|location1=[[Detroit]]: [[Detroit Olympia|Olympia Stadium]] (1, 2, 5, 7)
+|location2=[[Montreal]]: [[Montreal Forum]] (3, 4, 6)
+|series_winner=[[Gordie Howe]] (19:49, second)
+|hofers='''Red Wings:'''<br/>[[Alex Delvecchio]] (1977)<br/>[[Gordie Howe]] (1972)<br/>[[Red Kelly]] (1969)<br/>[[Ted Lindsay]] (1966)<br/>[[Marcel Pronovost]] (1978)<br/>[[Terry Sawchuk]] (1971)<br/>'''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Jacques Plante]] (1978)<br/>[[Maurice Richard]] (1961; did not play)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)
+}}
+The '''1955 Stanley Cup Final'''  was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1954–55 NHL season|1954–55 season]], and the culmination of the [[1955 Stanley Cup playoffs]]. It was contested between the [[1954–55 Montreal Canadiens season|Montreal Canadiens]], appearing in their fifth of ten straight Finals, and the defending champion [[1954–55 Detroit Red Wings season|Detroit Red Wings]], in the third Detroit-Montreal Finals series of the 1950s and the second consecutively. In a series where neither team won a road game, the Red Wings once again defeated the Canadiens in seven games for their second consecutive [[Stanley Cup]] championship, fourth in six seasons, and seventh overall. 
+
+This was the Red Wings’ last Stanley Cup championship until {{scfy|1997}}, and as of {{CURRENTYEAR}}, remains the last time they won Game 7 of the Final. It also marked the last time that a U.S.-based team defeated a Canada-based team in the championship round until {{scfy|1982}}.
+
+As of {{CURRENTYEAR}}, 1955 remains the only year in which the Stanley Cup Final, [[1955 NBA Finals|NBA Finals]], and [[1955 World Series|World Series]] all went the full seven games.<ref>{{Cite web|url=https://www.nhl.com/news/nhl-stanley-cup-final-game-7-history-307799358|title=History of Game 7 in Stanley Cup Final|website=[[NHL.com]]|date=June 24, 2024|accessdate=December 16, 2025}}</ref><ref>{{Cite web|url=https://www.mlb.com/news/history-of-world-series-game-7-c39984458|title=A brief history: Here's every World Series Game 7|website=[[MLB.com]]|date=November 2, 2025|accessdate=December 16, 2025}}</ref><ref>{{Cite web|url=https://www.espn.com/nba/story/_/id/45551784/nba-finals-history-game-7-matchups-stats-1951|last1=DeAndrea|first1=Joe|last2=Thompson|first2=Dan|title=NBA Finals history: Game 7 matchups and stats since 1951|website=[[ESPN]]|date=June 22, 2025|accessdate=December 16, 2025}}</ref>
+
+==Paths to the Finals==
+Montreal defeated the [[Boston Bruins]] in five games to reach the Finals. Detroit defeated the [[Toronto Maple Leafs]] in four games to reach the Finals.
+
+==Game summaries==
+Prior to the playoffs, Montreal's [[Maurice Richard]] was suspended and would be missed by the Canadiens.<ref>{{cite book|last=Cole|first=Stephen|title=The Best of Hockey Night in Canada|year=2004|publisher=McArthur & Company|location=Toronto|isbn=1-55278-408-8|pages=38–40}}</ref>
+
+In the second game, [[Ted Lindsay]] scored four goals to set an NHL record for most goals in one game in a Finals series.<ref>{{cite news|url=https://www.nytimes.com/1955/04/06/archives/wings-top-canadiens-again-lindsays-4-goals-mark-71-triumph-detroit.html|title=Wings Top Canadiens Again; LINDSAY'S 4 GOALS MARK 7-1 TRIUMPH Detroit Takes 2-0 Lead in Games Over Montreal Six in Stanley Cup Final|newspaper=The New York Times|date=April 6, 1955|accessdate=June 17, 2024}}</ref>
+
+[[Gordie Howe]] set two NHL records, amassing 12 points in this round, and surpassing former Canadiens player (and soon-to-be-coach) [[Toe Blake]]'s point mark for the playoffs with 20 points in 11 games.<ref>{{cite magazine|url=https://vault.si.com/vault/1962/03/26/point-of-fact|title=POINT OF FACT|magazine=Sports Illustrated|date=March 26, 1962|accessdate=June 17, 2024}}</ref>
+
+This was also the first Finals in which the home team won all seven games of the series, a feat that would be repeated only twice in the next 50 years, in {{scfy|1965}} (Montreal defeated the [[Chicago Blackhawks|Chicago Black Hawks]]) and {{scfy|2003}} (the [[New Jersey Devils]] beat the [[Anaheim Ducks|Mighty Ducks of Anaheim]]).<ref>{{cite news|url=https://www.nytimes.com/2003/06/09/sports/hockey/devils-defeat-mighty-ducks-to-win-stanley-cup.html|title=Devils Defeat Mighty Ducks to Win Stanley Cup|newspaper=The New York Times|date=June 9, 2003|accessdate=June 17, 2024}}</ref>
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Detroit Red Wings
+|stadium1=[[Olympia Stadium]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 3
+|home1       =1
+|score1      =2–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-det/1955/04/03/1954030211#game=1954030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Floyd Curry]] (4) - 5:09
+|1-2-2       =14:00 - ''pp'' - [[Alex Delvecchio]] (2)
+|1-3-1       =Floyd Curry (5) - 8:57
+|1-3-2       =13:05 - [[Vic Stasiuk]] (3)<br>17:07 - ''sh'' - [[Marty Pavelich]] (1)<br>19:42 - ''en'' - [[Ted Lindsay]] (3)
+|goalie1-1   =[[Jacques Plante]] 26 saves / 29 shots
+|goalie1-2   =[[Terry Sawchuck]] 20 saves / 22 shots
+
+|date2       =April 5
+|home2       =1
+|score2      =1–7
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/mtl-vs-det/1955/04/05/1954030212#game=1954030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =2:15 - ''sh'' - [[Marcel Pronovost]] (1)<br>9:57 - [[Ted Lindsay]] (4)<br>16:00 - [[Alex Delvecchio]] (3)<br>17:11 - [[Gordie Howe]] (5)
+|2-2-1       =''No scoring''
+|2-2-2       =8:10 - Ted Lindsay (5)<br>15:48 - ''pp'' - Ted Lindsay (6)<br>19:37 - Ted Lindsay (7)
+|2-3-1       =[[Ken Mosdell]] (2) - 12:32
+|2-3-2       =''No scoring''
+|goalie2-1   = [[Charlie Hodge (ice hockey)|Charlie Hodge]] 7 saves / 10 shots <br> [[Jacques Plante]] 36 saves / 40 shots
+|goalie2-2   =[[Terry Sawchuck]] 26 saves / 27 shots
+
+|date3       =April 7
+|home3       =2
+|score3      =2–4
+|won3        =1
+|recap3      =www.nhl.com/gamecenter/det-vs-mtl/1955/04/07/1954030213#game=1954030213,game_state=final
+|3-1-1       =8:30 - ''pp'' - [[Bernie Geoffrion]] (3)<br>8:42 - ''pp'' - Bernie Geoffrion (4)
+|3-1-2       =[[Red Kelly]] (1) - ''pp'' - 18:13
+|3-2-1       =14:23 - Bernie Geoffrion (5)
+|3-2-2       =[[Vic Stasiuk]] (4) - 16:16
+|3-3-1       =7:50 - [[Jack LeClair]] (4)
+|3-3-2       =''No scoring''
+|goalie3-1   =[[Jacques Plante]] 35 saves / 37 shots
+|goalie3-2   =[[Terry Sawchuck]] 22 saves / 26 shots
+
+|date4       =April 9
+|home4       =2
+|score4      =3–5
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/det-vs-mtl/1955/04/09/1954030214#game=1954030214,game_state=final
+|4-1-1       =00:40 - [[Calum MacKay (ice hockey)|Calum MacKay]] (2)
+|4-1-2       =[[Dutch Reibel]] (4) - 12:38
+|4-2-1       =3:41 - [[Bernie Geoffrion]] (6)<br>8:25 - [[Jean Beliveau]] (4)<br>9:07 - [[Tom Johnson (ice hockey)|Tom Johnson]] (2)
+|4-2-2       =''No scoring''
+|4-3-1       =2:33 - [[Floyd Curry]] (6)
+|4-3-2       =Dutch Reibel (5) - 3:40<br>[[Jim Hay]] (1) - 12:00
+|goalie4-1   =[[Jacques Plante]] 37 saves / 40 shots
+|goalie4-2   =[[Terry Sawchuck]] 25 saves / 30 shots
+
+|date5       =April 10
+|home5       =1
+|score5      =1–5
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/mtl-vs-det/1955/04/10/1954030215#game=1954030215,game_state=final
+|5-1-1       =[[Jean Beliveau]] (5) - ''pp'' - 8:01
+|5-1-2       =12:59 - [[Glen Skov]] (2)<br>18:59 - [[Gordie Howe]] (6)
+|5-2-1       =''No scoring''
+|5-2-2       =12:29 - ''pp'' - Gordie Howe (7)<br>16:20 - ''pp'' - Gordie Howe (8)
+|5-3-1       =''No scoring''
+|5-3-2       =2:09 - [[Vic Stasiuk]] (5)
+|goalie5-1   =[[Jacques Plante]] 36 saves / 41 shots
+|goalie5-2   =[[Terry Sawchuck]] 20 saves / 21 shots
+
+|date6       =April 12
+|home6       =2
+|score6      =3–6
+|won6        =1
+|recap6      =www.nhl.com/gamecenter/det-vs-mtl/1955/04/12/1954030216#game=1954030216,game_state=final
+|6-1-1       =7:30 - [[Jean Beliveau]] (6)
+|6-1-2       =[[Alex Delvecchio]] (4) - 13:36
+|6-2-1       =3:45 - ''pp'' - [[Jack LeClair]] (5)<br>5:21 - ''pp'' - [[Bernie Geoffrion]] (7)<br>18:18 - Bernie Geoffrion (8)
+|6-2-2       =Alex Delvecchio (5) - ''pp'' - 15:54
+|6-3-1       =00:19 - [[Floyd Curry]] (7)<br>18:55 - [[Calum MacKay (ice hockey)|Calum MacKay]] (3)
+|6-3-2       =[[Red Kelly]] (2) - 16:23
+|goalie6-1   =[[Jacques Plante]] 35 saves / 38 shots
+|goalie6-2   =[[Terry Sawchuck]] 33 saves / 39 shots
+
+|date7       =April 14
+|home7       =1
+|score7      =1–3
+|won7        =2
+|recap7      =www.nhl.com/gamecenter/mtl-vs-det/1955/04/14/1954030217#game=1954030217,game_state=final
+|7-1-1       =''No scoring''
+|7-1-2       =''No scoring''
+|7-2-1       =''No scoring''
+|7-2-2       =7:12 - [[Alex Delvecchio]] (6)<br>19:49 - [[Gordie Howe]] (9)
+|7-3-1       =[[Floyd Curry]] (8) - ''pp'' - 14:35
+|7-3-2       =2:59 - Alex Delvecchio (7)
+|goalie7-1   =[[Jacques Plante]] 30 saves / 33 shots
+|goalie7-2   =[[Terry Sawchuck]] 21 saves / 22 shots
+
+|series = Detroit won series 4–3
+}}
+
+==Stanley Cup engraving==
+The 1955 Stanley Cup was presented to Red Wings captain Ted Lindsay by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Red Wings' 3–1 win over the Canadiens in game seven.
+
+The following Red Wings players and staff had their names engraved on the Stanley Cup:
+
+'''1954–55 Detroit Red Wings'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Terry Sawchuk]]
+|defence=*2 [[Bob Goldham]] (A)
+*3 [[Marcel Pronovost]]
+*4 Leonard [[Red Kelly]] (A)
+*5 [[Benny Woit]]
+*15 [[Larry Hillman]]
+*18 [[Jim Hay]]
+|centres=*
+*12 [[Glen Skov]]
+*14 [[Earl Reibel]]
+*10 [[Alex Delvecchio]]
+*19 [[Vic Stasiuk]]
+|wingers=*7 [[Ted Lindsay]] (Captain)
+*8 [[Tony Leswick]]
+*9 [[Gordie Howe]]
+*11 [[Marty Pavelich]]
+*16 [[Johnny Wilson (ice hockey)|John Wilson]]
+*17 [[Bill Dineen]]
+*20 [[Marcel Bonin]]
+|non-players=
+*[[Marguerite Norris]] (President/Owner), [[Bruce Norris (ice hockey)|Bruce Norris]] (Vice President/Owner)  
+*[[Jack Adams]] (Manager), [[Jimmy Skinner]] (Coach)
+*John Mitchell (Chief Scout), Carl Mattson (Trainer)
+*Fred Huber Jr. (Publicity Director), [[Ross Wilson (ice hockey)|Ross "Lefty" Wilson]] (Asst. Trainer)
+|engraving-notes=
+* Larry Hillman became the youngest player to be engraved on the Stanley Cup at 18 years, 2 months, 9 days.  Gaye Stewart held the previous record in 1942 at 18 years, 9 months, and 21 days.
+* Wally Crossman (Asst. Trainer/Stick Boy) was left off the Stanley Cup, and team picture.
+* Marguerite Norris was the first woman to win back-to-back Stanley Cups in 1953–54, 1954–55.
+* Jimmy Skinner was the 8th NHL rookie coach to win the Stanley Cup. 
+* Glenn Hall played 2 games for Detroit during the season. He was spare goalie for the finals. Hall spent most regular-season and playoffs playing for the Edmonton Flyers(WHL). So, his name was left off the Stanley Cup.
+}}
+
+===Members of Detroit Red Wings Dynasty 1950, 1952, 1954, 1955===
+Gordie Howe, Red Kelly, Ted Lindsay, Marty Pavelich, Marcel Pronovost, John Wilson (6 Players), Jack Adams, Carl Mattson, Fred Hubert Jr. (3 Non-players).
+
+==Aftermath==
+The [[1956 Stanley Cup Final|next year]], the Red Wings again met the Canadiens in the Finals in the hopes of a three-peat, but Montreal would get revenge on Detroit, winning the Cup in five games. The Canadiens then started a dynasty, winning the Stanley Cup the next four years, in [[1957 Stanley Cup Final|1957]], [[1958 Stanley Cup Final|1958]], [[1959 Stanley Cup Final|1959]], and [[1960 Stanley Cup Final|1960]].
+
+The loss marked the end of the Red Wings’ dynasty. The Red Wings would return to the Finals in [[1961 Stanley Cup Final|1961]], [[1963 Stanley Cup Final|1963]], [[1964 Stanley Cup Final|1964]], and [[1966 Stanley Cup Final|1966]], but they would lose each one. They then entered a near 20 year slump known as the [[History of the Detroit Red Wings#Expansion era (1967-1993)|"Dead Wings"]] era, in which they would only make the playoffs twice between 1967 and 1983. The Red Wings would not win the Stanley Cup again until [[1997 Stanley Cup Final|1997]], in which they swept the [[Philadelphia Flyers]], starting another dynasty.
+
+==See also==
+* [[1954–55 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{s-start}}
+{{succession box |
+ before = [[1954 Stanley Cup Final|Detroit Red Wings<br>1954]] |
+ after = [[1956 Stanley Cup Final|Montreal Canadiens<br>1956]] |
+ title = [[List of Stanley Cup champions|Detroit Red Wings<br>Stanley Cup champions]] |
+ years = 1955|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes
+|list1=
+{{Detroit Red Wings}}
+{{Montreal Canadiens}}
+{{1954–55 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1954–55 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Detroit Red Wings games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Detroit]]
+[[Category:1955 in sports in Michigan|Stanley Cup]]
+[[Category:April 1955 sports events in North America|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1950s in Montreal]]
+[[Category:1955 in Quebec]]
+[[Category:1955 in Detroit]]

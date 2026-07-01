@@ -1,0 +1,1200 @@
+{{Short description|1962 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1962
+|team1=[[1961–62 Chicago Black Hawks season|Chicago Black Hawks]]
+|team1_short=Chicago 
+|team1_captain=[[Pierre Pilote]]
+|team1_coach=[[Rudy Pilous]]
+|team2='''[[1961–62 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team2_short=Toronto 
+|team2_captain=[[George Armstrong (ice hockey)|George Armstrong]]
+|team2_coach=[[Punch Imlach]]
+|team1_1=1
+|team1_2=2
+|team1_3='''3'''
+|team1_4='''4'''
+|team1_5=4
+|team1_6=1
+|team1_tot=2
+|team2_1='''4'''
+|team2_2='''3'''
+|team2_3=0
+|team2_4=1
+|team2_5='''8'''
+|team2_6='''2'''
+|team2_tot=4
+|dates=April 10–22, 1962
+|location1=[[Toronto]]: [[Maple Leaf Gardens]] (1, 2, 5)
+|location2=[[Chicago]]: [[Chicago Stadium]] (3, 4, 6)
+|team2_winner=1
+|series_winner=[[Dick Duff]] (14:14, third)
+|hofers='''Maple Leafs:'''<br/>[[Al Arbour]] (1996, builder)<br/>[[George Armstrong (ice hockey)|George Armstrong]] (1975)<br/>[[Johnny Bower]] (1976)<br/>[[Dick Duff]] (2006)<br/>[[Tim Horton]] (1977)<br/>[[Red Kelly]] (1969)<br/>[[Dave Keon]] (1986)<br/>[[Frank Mahovlich]] (1981)<br/>[[Bert Olmstead]] (1985)<br/>[[Bob Pulford]] (1991)<br/>[[Allan Stanley]] (1981)<br/>'''Black Hawks:'''<br/>[[Glenn Hall]] (1975)<br/>[[Bill Hay]] (2015, builder)<br/>[[Bobby Hull]] (1983)<br/>[[Stan Mikita]] (1983)<br/>[[Pierre Pilote]] (1975)<br/>'''Coaches:'''<br/>[[Punch Imlach]] (1984)<br/>[[Rudy Pilous]] (1985)<br/>'''Officials:'''<br/>[[Neil Armstrong (ice hockey)|Neil Armstrong]] (1991)<br/>[[George Hayes (ice hockey)|George Hayes]] (1988)<br/>[[Matt Pavelich]] (1987)<br/>[[Frank Udvari]] (1973)
+}}
+The '''1962 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1961–62 NHL season|1961–62 season]], and the culmination of the [[1962 Stanley Cup playoffs]]. It was contested between the defending champion [[1961–62 Chicago Black Hawks season|Chicago Black Hawks]] and the [[1961–62 Toronto Maple Leafs season|Toronto Maple Leafs]] who had last appeared in the Final in 1960. The Maple Leafs won the best-of-seven series, four games to two, to win the [[Stanley Cup]], their first since 1951.
+
+==Paths to the Finals==
+Toronto defeated the [[New York Rangers]] to advance to the finals and Chicago defeated the [[Montreal Canadiens]].
+
+==Game summaries==
+[[Stan Mikita]] broke [[Gordie Howe]]'s 1955 playoff record of 20 points, finishing with 21, but it was not enough as the Leafs would defeat the Black Hawks. [[Dave Keon]], making his playoff debut, scored two goals and an assist in the Final.<ref name="tsc-51">Diamond, p. 51</ref>
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|date1       =April 10
+|score1      =1–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/chi-vs-tor/1962/04/10/1961030211#game=1961030211,game_state=final
+}}
+[[George Armstrong (ice hockey)|George Armstrong]] recorded 3 points in a 4–1 victory for Toronto as they took a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | CHI
+|align=center | [[Bobby Hull]] (3) – ''pp''
+|align=center | [[Pierre Pilote]] (4) and [[Stan Mikita]] (11) 
+|align=center | 03:35
+|align=center | 1–0 CHI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | TOR
+|align=center | [[Dave Keon]] (4)
+|align=center | [[Dick Duff]] (7) and [[George Armstrong (ice hockey)|George Armstrong]] (2)
+|align=center | 01:32
+|align=center | 1–1
+|-
+|align=center | TOR
+|align=center | [[Frank Mahovlich]] (3) – ''pp''
+|align=center | [[Tim Horton]] (8) and [[Ron Stewart]] (2)
+|align=center | 13:54
+|align=center | 2–1 TOR
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | TOR
+|align=center | George Armstrong (5)
+|align=center | Dick Duff (8)
+|align=center | 06:03
+|align=center | 3–1 TOR
+|-
+|align=center | TOR
+|align=center | Tim Horton (3)
+|align=center | George Armstrong (3) and Dave Keon (3)
+|align=center | 14:32
+|align=center | 4–1 TOR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="9"| '''1st'''
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Holding
+|align=center | 03:20
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Dick Duff
+|align=center | Boarding
+|align=center | 03:44
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Holding
+|align=center | 08:24
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Jack Evans
+|align=center | Roughing
+|align=center | 11:49
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bobby Hull
+|align=center | Roughing
+|align=center | 11:49
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Bobby Baun]]
+|align=center | Roughing
+|align=center | 11:49
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Carl Brewer (ice hockey)|Carl Brewer]]
+|align=center | Roughing
+|align=center | 11:49
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Eric Nesterenko]]
+|align=center | Holding
+|align=center | 11:55
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Holding
+|align=center | 11:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | CHI
+|align=center | [[Murray Balfour]]
+|align=center | Holding
+|align=center | 04:22
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Carl Brewer
+|align=center | High-sticking
+|align=center | 10:38
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Eric Nesterenko
+|align=center | Roughing
+|align=center | 13:43
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Eric Nesterenko
+|align=center | High-sticking
+|align=center | 14:30
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Pierre Pilote
+|align=center | Hooking
+|align=center | 17:36
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich
+|align=center | Holding
+|align=center | 11:49
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | CHI
+|align=center | [[Reg Fleming]]
+|align=center | Hooking
+|align=center | 03:26
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Bobby Baun
+|align=center | Holding
+|align=center | 17:22
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 10 || align=center | 9 || align=center | 7 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 8 || align=center | 15 || align=center | 14 || align=center | 27
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|date1       =April 12
+|score1      =2–3
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-tor/1962/04/12/1961030212
+}}
+Although [[Stan Mikita]] scored twice for Chicago in game two, the Maple Leafs would win the game by a score of 3–2, giving them a 2–0 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | TOR
+|align=center | [[Billy Harris (ice hockey, born 1935)|Billy Harris]] (3) – ''pp''
+|align=center | [[Pierre Pilote]] (4) and [[Stan Mikita]] (11) 
+|align=center | 02:35
+|align=center | 1–0 TOR
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | CHI
+|align=center | [[Stan Mikita]] (4)
+|align=center | [[Ab McDonald]] (5) and [[Kenny Wharram]] (4)
+|align=center | 08:47
+|align=center | 1–1 
+|-
+|align=center | TOR
+|align=center | [[Frank Mahovlich]] (4)
+|align=center | [[Ron Stewart]] (4) and [[Red Kelly]] (5)
+|align=center | 09:47
+|align=center | 2–1 TOR
+|-
+|align=center | TOR
+|align=center | [[George Armstrong (ice hockey)|George Armstrong]] (6)
+|align=center | [[Dick Duff]] (9) and [[Allan Stanley]] (3)
+|align=center | 16:08
+|align=center | 3–1 TOR
+|-
+|align=center | CHI
+|align=center | Stan Mikita (5)
+|align=center | [[Pierre Pilote]] (5) and [[Bobby Hull]] (3)
+|align=center | 18:27
+|align=center | 3–2 TOR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | CHI
+|align=center | [[Murray Balfour]]
+|align=center | Boarding
+|align=center | 01:19
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Dick Duff
+|align=center | Cross-checking
+|align=center | 03:57
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Eric Nesterenko]]
+|align=center | High-sticking
+|align=center | 12:34
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Carl Brewer (ice hockey)|Carl Brewer]]
+|align=center | High-sticking
+|align=center | 12:34
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Carl Brewer
+|align=center | Boarding
+|align=center | 15:33
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Pierre Pilote
+|align=center | Cross-checking
+|align=center | 17:31
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Hooking
+|align=center | 02:17
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Bob Nevin]]
+|align=center | Holding
+|align=center | 06:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Elmer Vasko]]
+|align=center | Tripping
+|align=center | 04:03
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Bill Hay]]
+|align=center | High-sticking
+|align=center | 17:04
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Carl Brewer
+|align=center | High-sticking
+|align=center | 17:04
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 9 || align=center | 12 || align=center | 10 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 10 || align=center | 10 || align=center | 14 || align=center | 34
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =April 15
+|score1      =0–3
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/tor-vs-chi/1962/04/15/1961030213
+}}
+[[Glenn Hall]] made 19 saves in game three to record his second shutout of the postseason. The Black Hawks won the game 3–0 and cut the series lead in half.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | [[Stan Mikita]] (4)
+|align=center | [[Pierre Pilote]] (6) and [[Ab McDonald]] (6)
+|align=center | 04:35
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | Ab McDonald (4) – ''pp''
+|align=center | Pierre Pilote (7) and [[Bill Hay]] (4)
+|align=center | 08:33
+|align=center | 2–0 CHI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CHI
+|align=center | [[Bronco Horvath]] (4) – ''en''
+|align=center | [[Eric Nesterenko]] (2)
+|align=center | 19:21
+|align=center | 3–0 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | CHI
+|align=center | [[Bobby Hull]]
+|align=center | High-sticking
+|align=center | 02:41
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Bob Baun]]
+|align=center | Charging
+|align=center | 07:06
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | CHI
+|align=center | [[Reg Fleming]]
+|align=center | Roughing
+|align=center | 02:03
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Tim Horton]]
+|align=center | Roughing
+|align=center | 02:03
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Carl Brewer (ice hockey)|Carl Brewer]]
+|align=center | Holding
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Dollard St. Laurent]]
+|align=center | Holding
+|align=center | 08:51
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Eddie Shack]]
+|align=center | Tripping
+|align=center | 14:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | CHI
+|align=center | [[Gerry Melnyk]]
+|align=center | Roughing
+|align=center | 02:42
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | Roughing
+|align=center | 02:42
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | Charging
+|align=center | 16:14
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Dick Duff]]
+|align=center | Misconduct
+|align=center | 19:21
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 5 || align=center | 8 || align=center | 6 || align=center | 19
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 8 || align=center | 13 || align=center | 15 || align=center | 36
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =April 17
+|score1      =1–4
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/tor-vs-chi/1962/04/17/1961030214
+}}
+[[Bobby Hull]] and [[Reg Fleming]] both scored twice for Chicago in game four, and the Black Hawks won the game 4–1 and tied the series. Toronto also lost goaltender [[Johnny Bower]] during the first period to an injury, and he would not return for the remainder of the series. Late in the third period, [[Frank Mahovlich]] and Stan Mikita both received major penalties for slashing and were ejected from the game. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | [[Bobby Hull]] (6)
+|align=center | [[Stan Mikita]] (12)
+|align=center | 10:35
+|align=center | 1–0 CHI
+|-
+|align=center | CHI
+|align=center | [[Reg Fleming]] (1)
+|align=center | [[Eric Nesterenko]] (3)
+|align=center | 15:41
+|align=center | 2–0 CHI
+|-
+|align=center | TOR
+|align=center | [[Red Kelly]] (4) – ''pp''
+|align=center | [[George Armstrong (ice hockey)|George Armstrong]] (4) and [[Dick Duff]] (10)
+|align=center | 18:08
+|align=center | 2–1 CHI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CHI
+|align=center | Bobby Hull (7) – ''pp''
+|align=center | [[Bill Hay]] (5) and Stan Mikita (13)
+|align=center | 00:46
+|align=center | 3–1 CHI
+|-
+|align=center | CHI
+|align=center | Reg Fleming (2)
+|align=center | Eric Nesterenko (3) and [[Bronco Horvath]] (1)
+|align=center | 07:31
+|align=center | 4–1 CHI
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | CHI
+|align=center | [[Murray Balfour]]
+|align=center | Fighting – major
+|align=center | 00:17
+|align=center | 5:00
+|-
+|align=center | TOR
+|align=center | [[Bobby Baun]]
+|align=center | Fighting – major
+|align=center | 00:17
+|align=center | 5:00
+|-
+|align=center | TOR
+|align=center | [[Frank Mahovlich]]
+|align=center | High-sticking
+|align=center | 01:46
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Eric Nesterenko
+|align=center | Roughing
+|align=center | 07:08
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Carl Brewer (ice hockey)|Carl Brewer]]
+|align=center | Roughing
+|align=center | 07:08
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]]
+|align=center | Tripping
+|align=center | 17:37
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | TOR
+|align=center | Frank Mahovlich
+|align=center | Charging
+|align=center | 00:29
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Allan Stanley]]
+|align=center | Charging
+|align=center | 05:21
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Bob Pulford]]
+|align=center | Misconduct
+|align=center | 07:31
+|align=center | 10:00
+|-
+|align=center | CHI
+|align=center | Reg Fleming
+|align=center | Roughing
+|align=center | 10:53
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Ron Stewart]]
+|align=center | Roughing
+|align=center | 10:53
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Dollard St. Laurent]]
+|align=center | Holding
+|align=center | 12:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="11"| '''3rd'''
+|align=center | TOR
+|align=center | Carl Brewer
+|align=center | Holding
+|align=center | 00:33
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Murray Balfour
+|align=center | Roughing
+|align=center | 08:54
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | Roughing
+|align=center | 08:54
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Reg Fleming
+|align=center | Roughing
+|align=center | 14:30
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Tim Horton]]
+|align=center | Roughing
+|align=center | 14:30
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Reg Fleming
+|align=center | Cross-checking
+|align=center | 17:24
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Stan Mikita
+|align=center | Slashing – major
+|align=center | 17:24
+|align=center | 5:00
+|-
+|align=center | CHI
+|align=center | Stan Mikita
+|align=center | Game misconduct
+|align=center | 17:24
+|align=center | 10:00
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich
+|align=center | Slashing – major
+|align=center | 17:24
+|align=center | 5:00
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich
+|align=center | Game misconduct
+|align=center | 17:24
+|align=center | 10:00
+|-
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Hooking
+|align=center | 19:31
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 10 || align=center | 7 || align=center | 14 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 15 || align=center | 13 || align=center | 5 || align=center | 33
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Chicago Black Hawks
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|date1       =April 19
+|score1      =4–8
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/chi-vs-tor/1962/04/19/1961030215
+}}
+With Johnny Bower being injured in game four, [[Don Simmons (ice hockey)|Don Simmons]] would have to take his place in net for Toronto. In game five, [[Bobby Hull]] recorded three points and [[Ab McDonald]] scored twice for Chicago. However, the Maple Leafs would emerge victorious, with [[Bob Pulford]] recording a hat trick, and Frank Mahovlich recording 4 points in an 8–4 victory to take a 3–2 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | TOR
+|align=center | [[Bob Pulford]] (5)
+|align=center | [[Bob Nevin]] (4) and [[Bert Olmstead]] (1)
+|align=center | 00:17
+|align=center | 1–0 TOR
+|-
+|align=center | TOR
+|align=center | Bob Pulford (6)
+|align=center | ''Unassisted''
+|align=center | 17:45
+|align=center | 2–0 TOR
+|-
+|align=center | CHI
+|align=center | [[Murray Balfour]] (1)
+|align=center | [[Bill Hay]] (4) and [[Bobby Hull]] (4)
+|align=center | 18:05
+|align=center | 2–1 TOR
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | CHI
+|align=center | [[Ab McDonald]] (5)
+|align=center | [[Stan Mikita]] (14) and Bobby Hull (5)
+|align=center | 00:59
+|align=center | 2–2 
+|-
+|align=center | CHI
+|align=center | Ab McDonald (6) – ''pp''
+|align=center | Bobby Hull (6) and Stan Mikita (15)
+|align=center | 03:07
+|align=center | 3–2 CHI
+|-
+|align=center | TOR
+|align=center | [[Billy Harris (ice hockey, born 1935)|Billy Harris]] (2)
+|align=center | [[Frank Mahovlich]] (4) and [[Tim Horton]] (10)
+|align=center | 08:31
+|align=center | 3–3
+|-
+|align=center | TOR
+|align=center | [[Dave Keon]] (5) – ''pp''
+|align=center | Tim Horton (11) and Frank Mahovlich (4)
+|align=center | 09:50
+|align=center | 4–3 TOR
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich (5)
+|align=center | [[Red Kelly]] (6) and [[Ron Stewart]] (5)
+|align=center | 18:05
+|align=center | 5–3 TOR
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | TOR
+|align=center | [[George Armstrong (ice hockey)|George Armstrong]] (7)
+|align=center | [[Carl Brewer (ice hockey)|Carl Brewer]] (2) and [[Bobby Baun]] (1)
+|align=center | 04:41
+|align=center | 6–3 TOR
+|-
+|align=center | TOR
+|align=center | Frank Mahovlich (6)
+|align=center | Ron Stewart (6) and Bobby Baun (2)
+|align=center | 06:31
+|align=center | 7–3 TOR
+|-
+|align=center | CHI
+|align=center | [[Bob Turner (ice hockey)|Bob Turner]] (2) – ''sh''
+|align=center | [[Dollard St. Laurent]] (4) and [[Eric Nesterenko]] (5)
+|align=center | 10:31
+|align=center | 7–4 TOR
+|-
+|align=center | TOR
+|align=center | Bob Pulford (7) – ''pp''
+|align=center | Tim Horton (11) and Frank Mahovlich (4)
+|align=center | 13:51
+|align=center | 8–4 TOR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | TOR
+|align=center | [[Bob Nevin]]
+|align=center | Boarding
+|align=center | 00:31
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Eddie Shack]]
+|align=center | Cross-checking
+|align=center | 03:47
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bill Hay
+|align=center | High-sticking
+|align=center | 05:44
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Carl Brewer
+|align=center | Tripping
+|align=center | 08:12
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Holding
+|align=center | 10:56
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | TOR
+|align=center | [[Dick Duff]]
+|align=center | Charging
+|align=center | 01:53
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Reg Fleming]]
+|align=center | Cross-checking
+|align=center | 08:11
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Eddie Shack
+|align=center | High-sticking
+|align=center | 08:11
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Kenny Wharram]]
+|align=center | Holding
+|align=center | 08:51
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Dollard St. Laurent
+|align=center | Tripping
+|align=center | 15:15
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Reg Fleming
+|align=center | Roughing 
+|align=center | 16:39
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Bob Pulford
+|align=center | Roughing 
+|align=center | 16:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | TOR
+|align=center | Bobby Baun
+|align=center | Cross-checking
+|align=center | 01:10
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Reg Fleming
+|align=center | High-sticking
+|align=center | 10:12
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Pierre Pilote]]
+|align=center | Cross-checking
+|align=center | 12:43
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Bronco Horvath]]
+|align=center | Tripping
+|align=center | 14:07
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 13 || align=center | 11 || align=center | 6 || align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 10 || align=center | 15 || align=center | 19 || align=center | 44
+|}
+
+===Game six===
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Chicago Black Hawks
+|stadium1=[[Chicago Stadium]]
+|date1       =April 22
+|score1      =2–1
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/tor-vs-chi/1962/04/22/1961030216
+}}
+Game six remained scoreless until Bobby Hull gave the Black Hawks the game's first lead in the third period. One minute and thirty-three seconds later, [[Bob Nevin]] would score to tie the game again. [[Dick Duff]] scored a power-play goal with 5:46 remaining whilst the Maple Leafs would win their first Stanley Cup in 11 years.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+|- style="text-align:center;"
+|| '''1st'''
+|colspan="5"| ''None''
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | CHI
+|align=center | [[Bobby Hull]] (8)
+|align=center | [[Murray Balfour]] (1) and [[Bill Hay]] (7)
+|align=center | 08:56
+|align=center | 1–0 CHI
+|-
+|align=center | TOR
+|align=center | [[Bob Nevin]] (2)
+|align=center | [[Bobby Baun]] (3) and [[Frank Mahovlich]] (6)
+|align=center | 10:29
+|align=center | 1–1
+|-
+|align=center | TOR
+|align=center | [[Dick Duff]] (3) – ''pp''
+|align=center | [[Tim Horton]] (13) and [[George Armstrong (ice hockey)|George Armstrong]] (5)
+|align=center | 14:14
+|align=center | 2–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | CHI
+|align=center | [[Jack Evans (ice hockey)|Jack Evans]]
+|align=center | Holding
+|align=center | 02:57
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Bobby Hull
+|align=center | Boarding
+|align=center | 06:08
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Bob Pulford
+|align=center | High-sticking
+|align=center | 12:09
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | CHI
+|align=center | [[Reg Fleming]]
+|align=center | Tripping
+|align=center | 05:19
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Eric Nesterenko]]
+|align=center | High-sticking
+|align=center | 07:42
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Bobby Baun
+|align=center | Holding
+|align=center | 11:46
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | [[Dollard St. Laurent]]
+|align=center | Holding
+|align=center | 18:07
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Tripping
+|align=center | 04:30
+|align=center | 2:00
+|-
+|align=center | CHI
+|align=center | Eric Nesterenko
+|align=center | Hooking
+|align=center | 13:27
+|align=center | 2:00
+|-
+|align=center | TOR
+|align=center | Tim Horton
+|align=center | Tripping
+|align=center | 19:02
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Toronto}} || align=center | 13 || align=center | 14 || align=center | 10 || align=center | 37
+|-
+| style="text-align:left;"| {{nowrap|Chicago}} || align=center | 4 || align=center | 8 || align=center | 9 || align=center | 21
+|}
+
+==Stanley Cup engraving==
+The 1962 Stanley Cup was presented to Maple Leafs captain George Armstrong by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 2–1 win over the Black Hawks in game six.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1961–62 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Johnny Bower]]
+* 1-30  [[Don Simmons (ice hockey)|Don Simmons]]
+|defence=*2 [[Carl Brewer (ice hockey)|Carl Brewer]]
+*3 [[Al Arbour]]
+*7 Miles [[Tim Horton]] 
+*21 [[Bob Baun]]
+*22 [[Larry Hillman]]*
+*26 [[Allan Stanley]]
+|centres=*4 Leonard [[Red Kelly]]
+*14 [[Dave Keon]]
+*15 [[Billy Harris (ice hockey b. 1935)|Billy Harris]]
+|wingers=*8 [[John MacMillan (ice hockey)|John MacMillan]]
+*9 [[Dick Duff]] (A)
+*10 [[George Armstrong (ice hockey)|George Armstrong]] (Captain)
+*11 [[Bob Nevin]]
+*12 [[Ron Stewart]]
+*16 [[Bert Olmstead]] (A)
+*20 [[Bob Pulford]]
+*23 [[Eddie Shack]]
+*25 [[Ed Litzenberger]]
+*27 [[Frank Mahovlich]]
+|non-players=
+* [[Stafford Smythe]] (President/Owner), [[Conn Smythe]] (Chairman)
+* [[Harold Ballard]] (Exe Vice President/Owner), [[John W. H. Bassett]] (Vice President/Owner)
+* George [[Punch Imlach]] (Manager-Coach), Frank [[King Clancy]] (Asst. Manager-Coach)
+* [[Bob Davidson (hockey)|Bob Davidson]] (Chief Scout), Bob Haggart (Trainer)
+* Tom Nayler (Asst. Trainer), Hugh Holton (Asst. Trainer)
+|engraving-notes=
+* * Larry Hillman played only 3 regular-season games, and spent most of the year in the minors.  His name was still engraved on the Stanley Cup.
+* [[Harold Ballard]] won his first of 4 Stanley Cups as (Vice President/Owner). Ballard would later become the fifth person to get on his name on Stanley Cup & Grey Cup. In [[74th Grey Cup|1986]] Ballard was President/Owner of the Hamilton Tiger-Cats when they won the Grey Cup. (See [[Joe Miller (ice hockey)|Joe Miller]], [[Lionel Conacher]], [[Carl Voss]], [[Leo Dandurand]], [[Norman Kwong]] & [[Wayne Gretzky]] other persons who won both the Grey Cup and Stanley Cup.)
+*Dr. Karl Elieff (Physiotherapist), Dr. Jame Murphy, Dr. Hugh Smythe (Team Doctors) - left off
+|
+}}<ref name="tsc-51"/>
+
+==See also==
+* [[1961–62 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+*{{cite book
+ |editor=Diamond, Dan
+ |title=Total Stanley Cup | year=2008
+ |publisher=Dan Diamond and Associates |location=Toronto
+}}
+
+* {{cite book
+ |last=Podnieks
+ |first=Andrew
+ |title=Lord Stanley's Cup
+ |year=2004
+ |location=Bolton, Ont.
+ |publisher=Fenn Publishing
+ |isbn=978-1-55168-261-7
+}}
+
+{{s-start}}
+{{succession box |
+  before = [[1961 Stanley Cup Final|Chicago Black Hawks<br>1961]] |
+  after = [[1963 Stanley Cup Final|Toronto Maple Leafs <br>1963]] |
+  title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] |
+  years = 1962|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Toronto Maple Leafs}}
+{{Chicago Blackhawks}}
+{{1961–62 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1961–62 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1962 sports events in Canada]]
+[[Category:1962 in Toronto]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:1962 in Chicago]]
+[[Category:1962 in sports in Illinois]]
+[[Category:Events at Chicago Stadium]]
+[[Category:1962 in sports in Ontario]]

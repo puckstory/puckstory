@@ -1,0 +1,194 @@
+{{Short description|1928 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{More footnotes|date=March 2021}}
+{{Infobox Stanley Cup Final
+|year=1928
+|team1='''[[1927–28 New York Rangers season|New York Rangers]]'''
+|team1_1=0
+|team1_2='''2'''*
+|team1_3=0
+|team1_4='''1'''
+|team1_5='''2'''
+|team1_tot=3
+|team2=[[1927–28 Montreal Maroons season|Montreal Maroons]]
+|team2_1='''2'''
+|team2_2=1*
+|team2_3='''2'''
+|team2_4=0
+|team2_5=1
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|format=best-of-five
+|location1=[[Montreal]]: [[Montreal Forum]]
+|captains=New York: [[Bill Cook]]<br/>Montreal: [[Dunc Munro]]
+|coaches=New York: [[Lester Patrick]]<br/>Montreal: [[Eddie Gerard]]
+|series_winner=[[Frank Boucher]] (3:35, third)
+|hofers='''Rangers:'''<br/>[[Frank Boucher]] (1958)<br/>[[Bill Cook]] (1952)<br/>[[Bun Cook]] (1995)<br/>[[Ching Johnson]] (1958)<br/>[[Lester Patrick]] (1947)<br/>'''Maroons:'''<br/>[[Clint Benedict]] (1965)<br/>[[Red Dutton]] (1958)<br/>[[Babe Siebert]] (1964)<br/>[[Hooley Smith]] (1972)<br/>[[Nels Stewart]] (1962)<br/>'''Coaches:'''<br/>[[Eddie Gerard]] (1945, player)<br/>[[Lester Patrick]] (1947, player)
+|dates=April 5–14, 1928
+}}
+The '''1928 Stanley Cup Final''' was a best-of-five series played entirely in [[Montreal]] between the [[1927–28 New York Rangers season|New York Rangers]] and the [[1927–28 Montreal Maroons season|Montreal Maroons]]. It was the first appearance by the Rangers in the Finals in only their second season. The Maroons made their second Finals appearance after winning the [[Stanley Cup]] in {{scfy|1926}}. The Rangers won the series three games to two to earn their first championship in franchise history; this was also the second Stanley Cup victory by an American-based team, and the first since the [[Seattle Metropolitans]] in {{scfy|1917}}. This was also the first of only two times that a Montreal-based team lost the clinching game of the Stanley Cup Finals at home in the [[Montreal Forum]], the other occurred in {{scfy|1989}} when the [[Calgary Flames]] defeated the [[Montreal Canadiens]]. This was the last Stanley Cup Finals to be played in one location until the [[COVID-19 pandemic|pandemic]] shortened season of {{scfy|2020}}, when it was held entirely at [[Rogers Place]] in [[Edmonton|Edmonton, Alberta]], [[Canada]].
+
+==Paths to the Finals==
+The Montreal Maroons defeated the [[Ottawa Senators (original)|Ottawa Senators]] in the quarter-finals total-goals series 3–1. The Maroons then defeated the Montreal Canadiens in the semi-finals total-goals series 3–2 to reach the Finals.
+
+The New York Rangers defeated the Pittsburgh Pirates in the quarter-finals total-goals series 6–4. The Rangers then defeated the [[Boston Bruins]] in the semi-finals total-goals series 5–2 to reach the Finals.
+
+==Game summaries==
+The series had to be played in Montreal, as the circus had taken over New York's [[Madison Square Garden (1925)|Madison Square Garden]].
+
+The Rangers lost their goalie [[Lorne Chabot]] to an eye injury in the second period of game two. Although goaltenders [[Alex Connell]] and Hugh McCormick were in the stands, the Maroons refused to allow the Rangers to use either goalie.{{sfn|Zweig|2012|p=247}} In one of the most famous incidents in hockey history, 44-year-old coach [[Lester Patrick]] took over with the recorded words "Boys, don't let an old man down." [[Pittsburgh Pirates (NHL)|Pittsburgh Pirates]] player/coach [[Odie Cleghorn]], who also happened to be in the stands for the game, was recruited to be on the bench for the Rangers, where he told them to try and not let Montreal get shots. Patrick's efforts inspired the Rangers to a 2–1 victory in overtime.<ref>https://www.espn.com/magazine/vol5no12beauties.html</ref> At 44 years, 99 days old, Patrick became the oldest man to play in the Stanley Cup Finals, a record which remains unsurpassed to this day ([[Chris Chelios]] in 2008 at the age of 46 became the oldest player with his name on the cup, though he did not log any ice time in the final). He entered with eight minutes remaining in the second period and played the final 35:05 of the game.
+
+For the following matches, the Rangers hired [[New York Americans]] goalie [[Joe Miller (ice hockey)|Joe Miller]], who won two games including a shutout. Miller was available to all NHL teams as a backup after the Americans had put him on waivers. The Boston Bruins had claimed him on waivers, but he was made available to any NHL team. At the time of the Finals, Miller had not played in four weeks, and was home in Ottawa.{{sfn|Zweig|2012|p=247}} Miller was cut and suffered two black eyes in game five, but hung on for a 2–1 victory.{{sfn|Zweig|2012|p=247}}
+
+{{NHLPlayoffs
+|team1=New York Rangers
+|team2=Montreal Maroons
+|stadium2=[[Madison Square Garden III]]
+|stadium1=[[Montreal Forum]]
+
+|date1       =April 5
+|score1      =0–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/nyr-vs-mmr/1928/04/05/1927030311#game=1927030311,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =10:48 – [[Red Dutton]] (1)
+|1-3-1       =''No scoring''
+|1-3-2       =05:56 – [[Merlyn Phillips]] (1)
+|goalie1-1   =[[Lorne Chabot]]
+|goalie1-2   =[[Clint Benedict]]
+
+|date2       =April 7
+|score2      =2–1
+|ot2         =1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/nyr-vs-mmr/1928/04/07/1927030312#game=1927030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =[[Bill Cook]] (1) – 00:30
+|2-3-2       =18:51 – [[Nels Stewart]] (1)
+|2-4-1       =[[Frank Boucher]] (4) – 07:05
+|2-4-2       =''No scoring''
+|goalie2-1   =[[Lorne Chabot]] & [[Lester Patrick]]
+|goalie2-2   =[[Clint Benedict]]
+
+|date3       =April 10
+|score3      =0–2
+|home3       =1
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/nyr-vs-mmr/1928/04/10/1927030313#,game=1927030313,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =09:00 – [[Nels Stewart]] (2)
+|3-3-1       =''No scoring''
+|3-3-2       =17:20 – [[Babe Siebert]] (2)
+|goalie3-1   =[[Joe Miller (ice hockey)|Joe Miller]]
+|goalie3-2   =[[Clint Benedict]]
+
+|date4       =April 12
+|score4      =1–0
+|home4       =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/nyr-vs-mmr/1928/04/12/1927030314#game=1927030314,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =[[Frank Boucher]] (5) – 13:13
+|4-2-2       =''No scoring''
+|4-3-1       =''No scoring''
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Joe Miller (ice hockey)|Joe Miller]]
+|goalie4-2   =[[Clint Benedict]]
+
+|date5       =April 14
+|score5      =2–1
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/nyr-vs-mmr/1928/04/14/1927030315#,game=1927030315,game_state=final
+|5-1-1       =[[Frank Boucher]] (6) – 17:05
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =Frank Boucher (7) – 15:16
+|5-3-2       =17:16 – [[Merlyn Phillips]] (2)
+|goalie5-1   =[[Joe Miller (ice hockey)|Joe Miller]]
+|goalie5-2   =[[Clint Benedict]]
+
+|series = New York won series 3–2
+}}
+
+==Stanley Cup engraving==
+The 1928 Stanley Cup was presented to Rangers captain Bill Cook by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Rangers 2–1 win over the Maroons in game five.
+
+The following Rangers players and staff had their names engraved on the Stanley Cup
+
+[[File:New York Rangers 1928 Stanley Cup Champions.jpg|thumb|right|New York Rangers 1928 Stanley Cup champions|200px]]
+Frank Boucher became the fourth member of his family to win the Stanley Cup, after his brother [[George Boucher|George]] won it four times with Ottawa, and his brothers [[Billy Boucher|Billy]] and [[Robert Boucher (ice hockey)|Bobby]] had won it with Montreal in 1924.{{sfn|Zweig|2012|p=247}}
+
+'''1927–28 New York Rangers'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Lorne Chabot]]
+*1 [[Joe Miller (ice hockey)|Joe Miller]] (Sub)
+*16 [[Lester Patrick]] (Playing-Manager-Coach)
+|defence=*3 [[Ching Johnson|Ivan “Ching” Johnson]] 
+*4 [[Taffy Abel|Clarence “Taffy” Abel]]
+*12 [[Leo Bourgeault]]
+*14 [[Patsy Callighen|Frank “Patsy” Callighen]]
+|centres=*5 [[Bill Cook]] (Captain)
+*7 [[Frank Boucher]]
+|wingers=*2 [[Alex Gray (ice hockey)|Alex Gray]]
+*6 [[Bun Cook|Fred “Bun” Cook]]
+*8 [[Billy Boyd (ice hockey)|Billy Boyd]]
+*9 [[Murray Murdoch]]
+*10 [[Paul Thompson (ice hockey b. 1906)|Paul Thompson]] 
+|non-players=
+*John Hommond (President/Owner), William Carey (Director)
+*Richard Hojt (Director), [[Tex Rickard|George Rickard]] (Director)
+*Harry Westerby (Trainer)
+|engraving-notes=
+* By winning the Stanley Cup in 1928 [[Joe Miller (ice hockey)|Joe Miller]] became first player to win the Grey Cup & Stanley Cup in their career. He had won the Grey Cup [[13th Grey Cup|1925]], [[14th Grey Cup|1926]] with the Ottawa Senators. (See [[Lionel Conacher]], [[Carl Voss]], [[Leo Dandurand]], [[Harold Ballard]], [[Norman Kwong]] & [[Wayne Gretzky]] also won both the Grey Cup and Stanley Cup.)
+* #11 [[Laurie Scott (ice hockey)|Laurie Scott]] (C) played 23 of 44 regular season games. He was sent to the minors before the playoffs, so his name was left off the Stanley Cup. Scott was included on  mid-season team picture, but not on the Stanley Cup winning picture.
+|
+}}
+
+==Three champions==
+With the Rangers' triumph, the city of New York became home of the titlists of all three major sports leagues, including the [[1927 World Series]]-winning [[New York Yankees]] and the [[1927 NFL season|1927]] [[National Football League]] champion [[New York Giants]] (the Yankees won again in 1928, giving New York bragging rights over MLB, the NFL and NHL for almost 14 months, until the [[Providence Steamrollers (NFL)|Providence Steamrollers]] clinched the NFL title in December of that year). The only other city to pull off this feat is Detroit, whose [[Detroit Tigers|Tigers]], [[Detroit Lions|Lions]] and [[Detroit Red Wings|Red Wings]] reigned over the pro sports scene in 1935.
+
+==See also==
+*[[1927–28 NHL season]]
+
+==References==
+
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | page=[https://archive.org/details/totalstanleycupo0000unse/page/51 51] | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse/page/51 }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+ before = [[1927 Stanley Cup Finals|Ottawa Senators<br>1927]] |
+ after = [[1929 Stanley Cup Finals|Boston Bruins<br>1929]] |
+ title = [[List of Stanley Cup champions|New York Rangers<br>Stanley Cup champions]] |
+ years = 1928|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{New York Rangers}}
+{{Montreal Maroons}}
+{{1927–28 NHL season by team}}
+
+
+[[Category:1927–28 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:New York Rangers games]]
+[[Category:Montreal Maroons|Stan]]
+[[Category:April 1928 sports events in Canada|Stanley Cup Finals]]
+[[Category:1928 in Quebec|Stanley Cup Finals]]
+[[Category:1920s in Montreal|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1928 in Canadian sports|Stanley Cup Finals]]

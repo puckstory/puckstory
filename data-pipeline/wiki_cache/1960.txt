@@ -1,0 +1,196 @@
+{{Short description|1960 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1960
+|team1='''[[1959–60 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Maurice Richard]]
+|team1_coach=[[Toe Blake]]
+|team2=[[1959–60 Toronto Maple Leafs season|Toronto Maple Leafs]]
+|team2_short=Toronto
+|team2_captain=[[George Armstrong (ice hockey)|George Armstrong]]
+|team2_coach=[[Punch Imlach]]
+|team1_1='''4'''
+|team1_2='''2'''
+|team1_3='''5'''
+|team1_4='''4'''
+|team1_tot=4
+|team2_1=2
+|team2_2=1
+|team2_3=2
+|team2_4=0
+|team2_tot=0
+|dates=April 7–14, 1960
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2)
+|location2=[[Toronto]]: [[Maple Leaf Gardens]] (3, 4)
+|series_winner=[[Jean Beliveau]] (8:16, first)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Jacques Plante]] (1978)<br/>[[Henri Richard]] (1979)<br/>[[Maurice Richard]] (1961)<br/>'''Maple Leafs:'''<br/>[[George Armstrong (ice hockey)|George Armstrong]] (1975)<br/>[[Johnny Bower]] (1976)<br/>[[Dick Duff]] (2006)<br/>[[Tim Horton]] (1977)<br/>[[Red Kelly]] (1969)<br/>[[Frank Mahovlich]] (1981)<br/>[[Bert Olmstead]] (1985)<br/>[[Bob Pulford]] (1991)<br/>[[Allan Stanley]] (1981)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>[[Punch Imlach]] (1984)
+}}
+The '''1960 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1959–60 NHL season|1959–60 season]], and the culmination of the [[1960 Stanley Cup playoffs]]. It was contested between the four-time defending champion [[1959–60 Montreal Canadiens season|Montreal Canadiens]], appearing in their tenth consecutive finals, and the [[1959–60 Toronto Maple Leafs season|Toronto Maple Leafs]]; it was a rematch of the [[1959 Stanley Cup Final|previous year's finals]] and the fourth finals meeting in the history of the [[Canadiens–Maple Leafs rivalry]]. The Canadiens swept the Maple Leafs for their fifth straight Cup victory, which stands as an NHL record.
+
+This was the last time a Toronto-based team lost in the championship round in any of the four major North American sports leagues until the [[2025 World Series]].<ref>{{Cite news |date=November 2, 2025|title=Congrats on the loss, Toronto. It was a masterpiece |url=https://www.theglobeandmail.com/sports/article-blue-jays-vs-dodgers-world-series-game-7-results-analysis-toronto/ |access-date=February 25, 2026|work=The Globe and Mail |language=en-CA}}</ref>
+
+==Paths to the finals==
+Montreal swept the [[Chicago Blackhawks|Chicago Black Hawks]] in four games to reach the Final. In the other semi-final, Toronto defeated the [[Detroit Red Wings]] four games to two.
+
+==Game summaries==
+Montreal swept the Maple Leafs, outscoring them 15–5, en route to being the first team since the [[1951–52 NHL season|1952]] [[Detroit Red Wings]] to go perfect in the playoffs, with Jean Beliveau scoring the game-winning goal in three of the matches. The Red Wings beat both the Leafs and Habs in the 1952 playoffs to set the record.
+
+[[Maurice Richard|Maurice "Rocket" Richard]] retired after the series in style, finishing with his 34th final-series goal, his 82nd and final goal, and his last-ever goal (626th) in the third game.
+
+This was the last time a Toronto-based team lost a championship series in any of the "big four" [[Major professional sports leagues in the United States and Canada|major professional sports leagues]] until the [[2025 World Series]]. The Leafs would go on to appear in and win four more Stanley Cup Final in the 1960s, which included a three-peat from [[1962 Stanley Cup Final|1962]] to [[1964 Stanley Cup Final|1964]], and their most recent Finals appearance and win in [[1967 Stanley Cup Final|1967]]. The [[Toronto Blue Jays]] (who joined [[Major League Baseball]] in 1977) then appeared in and won the World Series in [[1992 World Series|1992]] and [[1993 World Series|1993]], while the [[Toronto Raptors]] (who joined the [[National Basketball Association]] in 1995) won their first [[NBA]] championship in [[2019 NBA Finals|2019]].
+
+{{NHLPlayoffs
+|team1=Toronto Maple Leafs
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Maple Leaf Gardens]]
+
+|date1       =April 7
+|home1       =1
+|score1      =2–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/tor-vs-mtl/1960/04/07/1959030211#game=1959030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =2:27 - ''pp'' - [[Dickie Moore (ice hockey)|Dickie Moore]] (5)<br>8:55 - [[Doug Harvey (ice hockey)|Doug Harvey]] (2)<br>11:56 - [[Jean Beliveau]] (2)
+|1-2-1       =[[Bob Baun]] (1) - 5:23<br>[[Bert Olmstead]] (2) - 17:35
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =1:30 - [[Henri Richard]] (1)
+|goalie1-1   =[[Johnny Bower]] 38 saves / 42 shots
+|goalie1-2   =[[Jacques Plante]] 27 saves / 29 shots
+
+|date2       =April 9
+|home2       =1
+|score2      =1–2
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/tor-vs-mtl/1960/04/09/1959030212#game=1959030212,game_state=final
+|2-1-1       =[[Larry Regan]] (3) - 19:32
+|2-1-2       =1:26 - [[Dickie Moore (ice hockey)|Dickie Moore]] (6)<br>5:56 - [[Jean Beliveau]] (3)
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Johnny Bower]] 34 saves / 36 shots
+|goalie2-2   =[[Jacques Plante]] 26 saves / 27 shots
+
+|date3       =April 12
+|home3       =2
+|score3      =5–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-tor/1960/04/12/1959030213#game=1959030213,game_state=final
+|3-1-1       =''No scoring''
+|3-1-2       =[[Donnie Marshall|Don Marshall]] (2) - 13:54
+|3-2-1       =16:19 - [[Johnny Wilson (ice hockey)|Johnny Wilson]] (1)
+|3-2-2       =[[Phil Goyette]] (1) - 00:21<br>[[Henri Richard]] (2) - 15:27
+|3-3-1       =19:47 - ''pp'' - [[Bert Olmstead]] (3)
+|3-3-2       =Phil Goyette (2) - 8:57<br>[[Maurice Richard]] (1) - 10:07
+|goalie3-1   =[[Johnny Bower]] 26 saves / 31 shots
+|goalie3-2   =[[Jacques Plante]] 32 saves / 34 shots
+
+|date4       =April 14
+|home4       =2
+|score4      =4–0
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-tor/1960/04/14/1959030214#game=1959030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Jean Beliveau]] (4) - 8:16<br>[[Doug Harvey (ice hockey)|Doug Harvey]] (3) - 8:45
+|4-2-1       =''No scoring''
+|4-2-2       =[[Henri Richard]] (3) - 16:40
+|4-3-1       =''No scoring''
+|4-3-2       =Jean Beliveau (5) - 1:21
+|goalie4-1   =[[Johnny Bower]] 28 saves / 32 shots
+|goalie4-2   =[[Jacques Plante]] 30 saves / 30 shots
+
+|series      =Montreal won series 4–0
+}}
+
+==Stanley Cup engraving==
+The 1960 Stanley Cup was presented to Canadiens captain Maurice Richard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 4–0 win over the Maple Leafs in game four.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1959–60 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Jacques Plante]]
+*1 [[Charlie Hodge (ice hockey)|Charlie Hodge]] (Sub)
+|defence=*2 [[Doug Harvey (ice hockey)|Doug Harvey]] (A)
+*8 [[Bill Hicke]]
+*10 [[Tom Johnson (ice hockey)|Tom Johnson]] (A)
+*11 [[Bob Turner (ice hockey)|Bob Turner]]
+*17 [[Jean-Guy Talbot]]
+*19 [[Albert Langlois]]
+|centres=*4 [[Jean Beliveau]]
+*6 [[Ralph Backstrom]]
+*16 [[Henri Richard]]
+*20 [[Phil Goyette]]
+|wingers=*
+*5 [[Bernie Geoffrion]] (A)
+*9 [[Maurice Richard|Maurice "Rocket" Richard]] (Captain)
+*12 [[Dickie Moore (ice hockey)|Dickie Moore]]
+*14 [[Claude Provost]]
+*15 Alvin [[Ab McDonald]]
+*18 [[Marcel Bonin]]
+*22 [[Donnie Marshall|Don Marshall]]
+*23 [[Andre Pronovost]]
+|non-players=
+*[[Hartland Molson]] (President/Owner) 
+*[[Frank Selke]] Sr. (Manager), [[Ken Reardon]] (Vice President) 
+*[[Sam Pollock]] (Personnel Director), [[Toe Blake]] (Coach)
+*Hector Dubois (Trainer)
+*Larry Aubut (Asst. Trainer)
+*Camile DesRoches*, Frank Selke Jr.* (Publicity Directors)
+* * On the team picture, but missing from the Stanley Cup.  
+}}
+
+===Stanley Cup engraving===
+* Camile DesRoches, [[Frank Selke Jr.]] (Publicity Directors) are part of all six team winning pictures 1953, 1956, 1957, 1958, 1959, 1960. However, their names do not appear on the Stanley Cup.
+* Dickie Moore won six Stanley Cups. His name was spelled differently 5 times. 1953, 1957 as Dickie MOORE, 1956 D MOORE, 1958 R MOORE, 1959 RICHARD MOORE, 1960 RICH MOORE. On the Replica Cup, Moore's name appears as DICKIE MOORE in 1953, 1957, 1959, 1960, D. MOORE in 1956, and R. Moore in 1958.
+* Jacques Plante won six Stanley Cups. His name was spelled differently 4 times. 1953, 1957, 1960 Jacques Plante, 1956 J Plante, 1958 Jac Plante, 1959 Jacq Plante. On the Replica Cup, Plante's name appears as JACQUES PLANTE in 1953, 1957, 1958, 1959, 1960, and J. PLANTE in 1956.
+*In 1959, the Montreal Canadiens engraved 29 names on the Stanley Cup; only 27 names were engraved on the Cup in 1960. Every person engraved on the Cup in 1960 was included on the Cup with Montreal in 1959. The only changes in the lineup where with Ian Cushnan and Ken Mosdell were no longer with the team, but were playing in the minors. The only other time in Stanley Cup history that no member engraved on the Cup was a first-time winner was in 1972.
+
+===Members of Montreal Canadiens Five Straight Dynasty 1956 to 1960===
+Jean Beliveau, Bernie Geoffrion*, Doug Harvey*, Tom Johnson*, Don Marshall, Dickie Moore*, Jacques Plante*, Claude Provost, Henri Richard, Maurice Richard*, Jean-Guy Talbot, Bob Turner (twelve players), Frank Selke Sr*, Ken Reardon, Toe Blake, Hector Dubois* (four non-players).
+* * Also won the Stanley Cup in 1953. Bernie Geoffrion is the only player who appeared in every game of the Stanley Cup Final from 1951 to 1960.
+
+==See also==
+* [[List of Stanley Cup champions]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1959 Stanley Cup Final|Montreal Canadiens<br>1959]] |
+  after = [[1961 Stanley Cup Final|Chicago Black Hawks<br>1961]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1960|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{Toronto Maple Leafs}}
+{{1959–60 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1960 Stanley Cup| ]]
+[[Category:1959–60 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:Toronto Maple Leafs games]]
+[[Category:April 1960 sports events in Canada|Stanley Cup Finals]]
+[[Category:1960 in Toronto|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1960 in Quebec]]
+[[Category:1960s in Montreal]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Canadiens–Maple Leafs rivalry|Stanley Cup Finals, 1960]]

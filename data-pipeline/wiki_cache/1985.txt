@@ -1,0 +1,1836 @@
+{{Short description|1985 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1985
+|image=1985 NHL Stanley Cup Playoffs.png
+|team1='''[[1984–85 Edmonton Oilers season|Edmonton Oilers]]'''
+|team1_short=Edmonton
+|team1_captain=[[Wayne Gretzky]]
+|team1_national_anthem = [[Paul Lorieau]]
+|team1_coach=[[Glen Sather]]
+|team2=[[1984–85 Philadelphia Flyers season|Philadelphia Flyers]]
+|team2_short=Philadelphia
+|team2_coach=[[Mike Keenan]]
+|team2_national_anthem = [[Kate Smith]]
+|team2_captain=[[Dave Poulin]]
+|referees=[[Andy Van Hellemond]] (1)<br/>[[Kerry Fraser]] (2, 4)<br/>[[Bryan Lewis]] (3, 5)
+|series_winner=[[Paul Coffey]] (17:57, first)
+|hofers='''Oilers:'''<br/>[[Glenn Anderson]] (2008)<br/>[[Paul Coffey]] (2004)<br/>[[Grant Fuhr]] (2003)<br/>[[Wayne Gretzky]] (1999)<br/>[[Jari Kurri]] (2001)<br/>[[Kevin Lowe]] (2020)<br/>[[Mark Messier]] (2007)<br/>'''Flyers:'''<br/>[[Mark Howe]] (2011)<br/>'''Coaches:'''<br/>[[Glen Sather]] (1997)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|dates=May 21–30, 1985
+|location1=[[Edmonton]]: [[Northlands Coliseum]] (3, 4, 5)
+|location2=[[Philadelphia]]: [[Spectrum (arena)|Spectrum]] (1, 2)
+|mvp=[[Wayne Gretzky]] (Oilers)
+|team1_1=1
+|team1_2='''3'''
+|team1_3='''4'''
+|team1_4='''5'''
+|team1_5='''8'''
+|team1_tot=4
+|team2_1='''4'''
+|team2_2=1
+|team2_3=3
+|team2_4=3
+|team2_5=3
+|team2_tot=1
+|networks='''Canada:'''<br>([[Canadian English|English]]): [[Hockey Night in Canada|CBC]] (1–2), [[NHL on CTV|CTV]] (3–5)<br>([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br>'''United States:'''<br>(National): [[NHL on USA|USA Network]]<br>(Philadelphia area): [[Prism (TV channel)|PRISM]] (1–2), [[WTXF|WTAF]] (3–5)
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[John Davidson (ice hockey)|John Davidson]] and [[Gary Dornhoefer]]<br> (CTV) [[Dan Kelly (sportscaster)|Dan Kelly]], [[Ron Reusch]] and [[Brad Park]]<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(USA Network) Dan Kelly (1-2), [[Al Albert (sportscaster)|Al Albert]] (3-5), and [[Gary Green (ice hockey)|Gary Green]]<br/>(PRISM/WTAF) [[Gene Hart]] and [[Bobby Taylor (ice hockey)|Bobby Taylor]]
+}}
+The '''1985 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1984–85 NHL season|1984–85 season]], and the culmination of the [[1985 Stanley Cup playoffs]]. It was contested between the [[1984 Stanley Cup Final|defending champion]] [[1984–85 Edmonton Oilers season|Edmonton Oilers]] (in their third straight Finals appearance) and the [[1984–85 Philadelphia Flyers season|Philadelphia Flyers]]. The Oilers defeated the Flyers in five games to repeat as [[Stanley Cup]] champions. It was also the sixth straight Finals contested between teams that joined the NHL in [[1967 NHL expansion|1967]] or later.
+
+Until {{scfy|2022}}, this was also the last time that a team, defending champion, or runner-up appeared in the Finals for the third straight season. This was the fourth of nine consecutive Finals contested by a team from [[Western Canada]], third of eight contested by a team from [[Alberta]] (the Oilers appeared in six, the [[Calgary Flames]] in {{scfy|1986}} and {{scfy|1989}}, and the [[Vancouver Canucks]] in {{scfy|1982}}), and the second of five consecutive Finals to end with the Cup presentation on Alberta ice (the Oilers won four of those times, the [[Montreal Canadiens]] once). Game five of this series was played on May 30, which at the time was the latest finishing date for an NHL season. The record was broken [[1987 Stanley Cup Final|two years later]].
+
+==Paths to the Finals==
+{{further|1984–85 NHL season}}
+{{See also|1984–85 Edmonton Oilers season|1984–85 Philadelphia Flyers season}}
+Edmonton defeated the [[Los Angeles Kings]] 3–0, the [[Winnipeg Jets (1972–96)|Winnipeg Jets]] 4–0, and the [[Chicago Blackhawks|Chicago Black Hawks]] 4–2 to advance to the finals.
+
+Philadelphia defeated the [[New York Rangers]] 3–0, the [[New York Islanders]] 4–1, and the [[Quebec Nordiques]] 4–2 to make it to the finals.
+
+==Game summaries==
+This was the first Stanley Cup Final in which games were scheduled for June. Game 6 was scheduled for June 2, and Game 7 for June 4. The NHL season would not extend into an actual June game until {{scfy|1992}}, due to a [[1992 NHL strike|players strike]].
+
+The NHL realigned its conferences and divisions based on geographic regions in [[1981&ndash;82 NHL season|1981]] and instituted a 2-3-2 schedule format for the Stanley Cup Final, with home ice advantage awarded to the division with the better aggregate record in interdivisional games. 1985 would be the last Final played under this format. Since then, the league has held to a 2-2-1-1-1 format, and home ice has gone to the team with the better regular season record. 
+
+[[Wayne Gretzky]] scored seven goals in the five games, tying the record set by [[Jean Béliveau]] of the Canadiens in {{scfy|1956}} and [[Mike Bossy]] of the Islanders in {{scfy|1982}}. [[Grant Fuhr]] stopped two penalty shots. [[Jari Kurri]] scored 19 goals through the entire playoffs, tying the single-year record set by [[Reggie Leach]] of the Flyers in {{scfy|1976}}.
+
+This was the last Stanley Cup Final in which either starting goalie wore the old-style fiberglass [[goalie mask|mask]]. Both Fuhr and the Flyers' [[Pelle Lindbergh]] wore the face-hugging mask, which was introduced in 1959 by [[Jacques Plante]]. The backups, Edmonton's [[Andy Moog]] and Philadelphia's [[Bob Froese]], wore the helmet-and-cage combination, similar to the one [[Billy Smith (ice hockey)|Billy Smith]] wore in leading the [[New York Islanders]] to four consecutive Cups from 1980 to 1983.  [[1986 Stanley Cup Final|The next year]], the [[Calgary Flames]]' [[Mike Vernon (ice hockey)|Mike Vernon]] sported a helmet-and-cage combo, and [[Montreal Canadiens]] rookie [[Patrick Roy]] wore a modern full fiberglass cage, the second goalie to sport that style in a Final series after [[Gilles Meloche]] with the [[Minnesota North Stars]] in [[1981 Stanley Cup Final|1981]]. Fuhr switched to a full fiberglass cage [[1985-86 Edmonton Oilers season|the next season]].
+
+This was the first Stanley Cup Final in which the [[NHL]] official (referee or linesman) wore a helmet ([[Andy Van Hellemond]]). This occurred during Game 1.
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = Edmonton Oilers
+ |team2 = Philadelphia Flyers
+ |stadium1 = [[Spectrum (arena)|Spectrum]]
+ |date1 = May 21
+|recap1      =www.nhl.com/gamecenter/edm-vs-phi/1985/05/21/1984030411#game=1984030411,game_state=final
+ |score1 = 1–4
+ |won1 = 2
+}}
+The Flyers posted a 4–1 victory to open the series. Edmonton coach [[Glen Sather]] was reportedly so disappointed with his team's performance that he burned the game videotapes after watching them.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | PHI
+|align=center | [[Ilkka Sinisalo]] (6) – ''pp''
+|align=center | [[Tim Kerr]] (4) and [[Todd Bergen]] (9)
+|align=center | 15:05
+|align=center | 1–0 PHI
+|-
+|- style="text-align:center;"
+|| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | PHI
+|align=center | [[Ron Sutter]] (4)
+|align=center | ''Unassisted''
+|align=center | 05:56
+|align=center | 2–0 PHI
+|-
+|align=center | PHI
+|align=center | Tim Kerr (9)
+|align=center |[[Dave Poulin]] (3)
+|align=center | 08:07
+|align=center | 3–0 PHI
+|-
+|align=center | EDM
+|align=center | [[Willy Lindström|Willy Lindstrom]] (3)
+|align=center | [[Mark Messier]] (10) and [[Randy Gregg (ice hockey)|Randy Gregg]] (6)
+|align=center | 16:52
+|align=center | 3–1 PHI
+|-
+|align=center | PHI
+|align=center | Dave Poulin (3) – ''en''
+|align=center | [[Lindsay Carson]] (2) and Ron Sutter (7)
+|align=center | 19:39
+|align=center | 4–1 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | PHI
+|align=center | Dave Poulin
+|align=center | Elbowing
+|align=center | 05:08
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Paul Coffey]]
+|align=center | Interference
+|align=center | 05:49
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin McClelland]]
+|align=center | Fighting – major
+|align=center | 11:15
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Ed Hospodar]]
+|align=center | Fighting – major
+|align=center | 11:15
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Willy Lindstrom
+|align=center | Cross-checking
+|align=center | 13:59
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Charlie Huddy]]
+|align=center | Hooking
+|align=center | 14:13
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Lumley]]
+|align=center | Hooking
+|align=center | 17:42
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="10"| '''2nd'''
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Fighting – major
+|align=center | 01:59
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Elbowing
+|align=center | 01:59
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Fighting – major
+|align=center | 01:59
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | [[Joe Paterson (ice hockey)|Joe Paterson]]
+|align=center | Fighting – major
+|align=center | 01:59
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | Fighting – major
+|align=center | 01:59
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | [[Glenn Anderson]]
+|align=center | Holding
+|align=center | 06:23
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Doug Crossman]]
+|align=center | Roughing
+|align=center | 06:23
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Randy Gregg
+|align=center | Holding
+|align=center | 09:51
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Brad Marsh]]
+|align=center | Holding
+|align=center | 12:13
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | High-sticking
+|align=center | 16:30
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Roughing
+|align=center | 04:29
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Rick Tocchet]]
+|align=center | Slashing
+|align=center | 04:29
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Hooking
+|align=center | 13:47
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 8 || align=center | 4 || align=center | 14 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 17 || align=center | 12 || align=center | 12 || align=center | 41
+|}
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = Edmonton Oilers
+ |team2 = Philadelphia Flyers
+ |stadium1 = Spectrum
+|recap1      =www.nhl.com/gamecenter/edm-vs-phi/1985/05/23/1984030412#game=1984030412,game_state=final
+ |date1 = May 23
+ |score1 = 3–1
+ |won1 = 1
+}}
+[[Wayne Gretzky]]'s first goal of the series late in the second period snapped a 1–1 tie, and [[Dave Hunter]] added an insurance empty-netter and the Oilers drew even in the series with a 3–1 win.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | EDM
+|align=center | [[Wayne Gretzky]] (11)
+|align=center | [[Paul Coffey]] (18)
+|align=center | 10:29
+|align=center | 1–0 EDM
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | PHI
+|align=center | [[Tim Kerr]] (10)
+|align=center | [[Dave Poulin]] (4) and Lindsay Carson (3)
+|align=center | 10:22
+|align=center | 1–1
+|-
+|align=center | EDM
+|align=center | [[Willy Lindström|Willy Lindstrom]] (4)
+|align=center | [[Mike Krushelnyski]] (8) and [[Kevin McClelland]] (3)
+|align=center | 16:08
+|align=center | 2–1 EDM
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | EDM
+|align=center | [[Dave Hunter]] (2) – ''en''
+|align=center | [[Glenn Anderson]] (15)
+|align=center | 19:33
+|align=center | 3–1 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | EDM
+|align=center | Paul Coffey
+|align=center | Tripping
+|align=center | 04:17
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Lee Fogolin]]
+|align=center | High-sticking
+|align=center | 06:03
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Roughing
+|align=center | 09:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Brad Marsh]]
+|align=center | Roughing
+|align=center | 09:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tim Kerr
+|align=center | Holding
+|align=center | 15:16
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Esa Tikkanen]]
+|align=center | Roughing
+|align=center | 19:21
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Rick Tocchet]]
+|align=center | Cross-checking
+|align=center | 19:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="11"| '''2nd'''
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Fighting – major
+|align=center | 02:39
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Tim Kerr
+|align=center | Fighting – major
+|align=center | 02:39
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Rick Tocchet
+|align=center | High-sticking
+|align=center | 04:54
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Mike Krushelnyski
+|align=center | Roughing
+|align=center | 07:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | Roughing
+|align=center | 07:22
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Brad Marsh
+|align=center | High-sticking
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | Interference
+|align=center | 13:35
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Lee Fogolin
+|align=center | Cross-checking
+|align=center | 17:58
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Miroslav Dvořák (ice hockey)|Miroslav Dvorak]]
+|align=center | High-sticking
+|align=center | 17:58
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Charlie Huddy]]
+|align=center | Tripping
+|align=center | 18:53
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Tim Kerr
+|align=center | Cross-checking
+|align=center | 19:51
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 8 || align=center | 14 || align=center | 8 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 6 || align=center | 8 || align=center | 4 || align=center | 18
+|}
+
+===Game three===
+{{NHLPlayoffs
+ |team1 = Philadelphia Flyers
+ |team2 = Edmonton Oilers
+ |stadium1 = [[Northlands Coliseum]]
+ |date1 = May 25
+|recap1      =www.nhl.com/gamecenter/phi-vs-edm/1985/05/25/1984030413#game=1984030413,game_state=final
+ |score1 = 3–4
+ |won1 = 2
+}}
+Gretzky almost single-handedly won Edmonton the game. He scored twice within the first 90 seconds of the game and finished off a hat trick by the end of the first period. Although the Oilers put only six shots on net over the final 40 minutes, it was enough to escape with a 4–3 win and 2–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | EDM
+|align=center | [[Wayne Gretzky]] (12)
+|align=center | [[Jari Kurri]] (4) and [[Paul Coffey]] (19)
+|align=center | 01:10
+|align=center | 1–0 EDM
+|-
+|align=center | EDM
+|align=center | Wayne Gretzky (13)
+|align=center | Paul Coffey (20) and [[Charlie Huddy]] (13)
+|align=center | 01:25
+|align=center | 2–0 EDM
+|-
+|align=center | PHI
+|align=center | [[Derrick Smith (ice hockey)|Derrick Smith]] (2)
+|align=center | Doug Crossman (5) and [[Murray Craven]] (5)
+|align=center | 01:41
+|align=center | 2–1 EDM
+|-
+|align=center | EDM
+|align=center | Wayne Gretzky (14)
+|align=center | Mark Messier (11) and [[Paul Coffey]] (21)
+|align=center | 13:32
+|align=center | 3–1 EDM
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | EDM
+|align=center | [[Mike Krushelnyski]] (4) – ''pp''
+|align=center | Paul Coffey (22) and Wayne Gretzsky (27)
+|align=center | 06:58
+|align=center | 4–1 EDM
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | [[Mark Howe]] (3)
+|align=center | [[Rick Tocchet]] (3) and [[Brian Propp]] (10)
+|align=center | 09:08
+|align=center | 4–2 EDM
+|-
+|align=center | PHI
+|align=center | Brian Propp (7)
+|align=center | Murray Craven (6) and Rick Tocchet (4)
+|align=center | 14:26
+|align=center | 4–3 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="15"| '''1st'''
+|align=center | PHI
+|align=center | [[Ron Sutter]]
+|align=center | Hooking
+|align=center | 00:10
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Glenn Anderson]]
+|align=center | High-sticking
+|align=center | 00:56
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Mike Krushelnyski
+|align=center | Roughing
+|align=center | 03:32
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Roughing
+|align=center | 03:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Rick Tocchet
+|align=center | Roughing
+|align=center | 03:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ed Hospodar]]
+|align=center | Roughing
+|align=center | 03:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Murray Craven
+|align=center | Interference
+|align=center | 06:08
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin McClelland]]
+|align=center | High-sticking
+|align=center | 09:58
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Brad Marsh]]
+|align=center | High-sticking
+|align=center | 09:58
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | High-sticking
+|align=center | 11:08
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | Roughing
+|align=center | 13:20
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Lindsay Carson]]
+|align=center | Roughing
+|align=center | 13:20
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Cross-checking
+|align=center | 14:55
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | Roughing
+|align=center | 17:19
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ron Sutter
+|align=center | Elbowing
+|align=center | 17:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | EDM
+|align=center | [[Dave Semenko]]
+|align=center | Misconduct
+|align=center | 03:27
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | Misconduct
+|align=center | 03:27
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Doug Crossman]]
+|align=center | Hooking
+|align=center | 06:01
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Hunter]]
+|align=center | Holding
+|align=center | 07:45
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Lee Fogolin]]
+|align=center | Charging
+|align=center | 12:02
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Bench (served by [[Esa Tikkanen]])
+|align=center | Too many men on the ice
+|align=center | 19:19
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Peter Zezel]]
+|align=center | Interference
+|align=center | 19:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | EDM
+|align=center | Dave Semenko
+|align=center | Roughing – double minor
+|align=center | 02:48
+|align=center | 4:00
+|-
+|align=center | EDM
+|align=center | Charlie Huddy
+|align=center | Slashing
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Rich Sutter]]
+|align=center | Cross-checking
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Ron Sutter
+|align=center | Cross-checking
+|align=center | 11:23
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Dave Hunter 
+|align=center | Misconduct
+|align=center | 14:05
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Joe Paterson (ice hockey)|Joe Paterson]]
+|align=center | Misconduct
+|align=center | 14:05
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 12 || align=center | 9 || align=center | 9 || align=center | 30
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 20 || align=center | 4 || align=center | 2 || align=center | 26
+|}
+
+===Game four===
+{{NHLPlayoffs
+ |team1 = Philadelphia Flyers
+ |team2 = Edmonton Oilers
+ |stadium1 = Northlands Coliseum
+ |date1 = May 28
+ |score1 = 3–5
+|recap1     =www.nhl.com/gamecenter/phi-vs-edm/1985/05/28/1984030414#game=1984030414,game_state=final
+ |won1 = 2
+}}
+Unbowed, the Flyers leapt out to a 3–1 lead midway through the first period thanks to goals at even strength, on the power play and shorthanded. However, the Oilers roared back with four consecutive goals, including two from Gretzky, to win 5–3 and take a commanding series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | PHI
+|align=center | [[Rich Sutter]] (1)
+|align=center | [[Ron Sutter]] (12) and [[Derrick Smith (ice hockey)|Derrick Smith]] (2)
+|align=center | 00:46
+|align=center | 1–0 PHI
+|-
+|align=center | EDM
+|align=center | [[Paul Coffey]] (10) – ''pp''
+|align=center | [[Charlie Huddy]] (14) and [[Jari Kurri]] (8)
+|align=center | 04:22
+|align=center | 1–1
+|-
+|align=center | PHI
+|align=center | [[Todd Bergen]] (4) – ''pp''
+|align=center | Peter Zezel (8) and [[Doug Crossman]] (6) 
+|align=center | 06:38
+|align=center | 2–1 PHI
+|-
+|align=center | PHI
+|align=center | [[Murray Craven]] (4) – ''sh''
+|align=center | Derrick Smith (3) and [[Brad Marsh]] (6) 
+|align=center | 11:32
+|align=center | 3–1 PHI
+|-
+|align=center | EDM
+|align=center | Charlie Huddy (3) – ''pp''
+|align=center | Paul Coffey (23) and Jari Kurri (9)
+|align=center | 18:23
+|align=center | 3–2 PHI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | EDM
+|align=center | [[Glenn Anderson]] (10)
+|align=center | ''Unassisted''
+|align=center | 00:21
+|align=center | 3–3 
+|-
+|align=center | EDM
+|align=center | [[Wayne Gretzky]] (15) – ''pp''
+|align=center | Paul Coffey (24) and Charlie Huddy (15)
+|align=center | 12:53
+|align=center | 4–3 EDM
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | EDM
+|align=center | Wayne Gretzky (16) – ''pp''
+|align=center | [[Mark Messier]] (12) and Glenn Anderson (16)
+|align=center | 03:42
+|align=center | 5–3 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | PHI
+|align=center | [[Dave Poulin]]
+|align=center | High-sticking
+|align=center | 03:31
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Pat Hughes (ice hockey)|Pat Hughes]]
+|align=center | High-sticking
+|align=center | 05:17
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Mark Messier]]
+|align=center | Slashing
+|align=center | 05:59
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Doug Crossman
+|align=center | Holding
+|align=center | 08:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Doug Crossman
+|align=center | Unsportsmanlike conduct
+|align=center | 08:32
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ed Hospodar]]
+|align=center | Slashing
+|align=center | 16:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''2nd'''
+|align=center | EDM
+|align=center | [[Lee Fogolin]]
+|align=center | Roughing
+|align=center | 00:48
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Rick Tocchet]]
+|align=center | Roughing
+|align=center | 00:48
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Paterson (ice hockey)|Joe Paterson]]
+|align=center | Hooking
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Hunter]]
+|align=center | Roughing
+|align=center | 17:39
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ray Allison]]
+|align=center | Slashing
+|align=center | 17:39
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin Lowe]]
+|align=center | Holding
+|align=center | 18:02
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Doug Crossman
+|align=center | Holding
+|align=center | 19:07
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Holding
+|align=center | 20:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | PHI
+|align=center | Ed Hospodar
+|align=center | Hooking
+|align=center | 02:46
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Kneeing
+|align=center | 07:58
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 10 || align=center | 6 || align=center | 7 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 10 || align=center | 12 || align=center | 10 || align=center | 32
+|}
+
+===Game five===
+{{NHLPlayoffs
+ |team1 = Philadelphia Flyers
+ |team2 = Edmonton Oilers
+ |stadium1 = Northlands Coliseum
+ |date1 = May 30
+|recap1     =www.nhl.com/gamecenter/phi-vs-edm/1985/05/30/1984030415#game=1984030415,game_state=final
+ |score1 = 3–8
+ |won1 = 2
+}}
+Against backup goaltender [[Bob Froese]], substituting for starter [[Pelle Lindbergh]] (who had been playing progressively less well over the course of the Final), the Oilers blitzed the Flyers with a four-goal first period and sailed to a convincing 8–3 win. Gretzky and Kurri posted a goal and three assists each, while [[Paul Coffey]] and [[Mark Messier]] scored two goals apiece. Edmonton won its second consecutive [[Stanley Cup]] while the Flyers, at the time the youngest team in professional sports, took the lessons from their loss into the clubs' next Stanley Cup Final; they lost again to the Oilers in {{scfy|1987}}, albeit in seven games. Wayne Gretzky won the [[Conn Smythe Trophy]] as playoff MVP, scoring a record 47 points this playoff year.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | EDM
+|align=center | [[Jari Kurri]] (19)
+|align=center | [[Wayne Gretzky]] (28) and [[Charlie Huddy]] (16)
+|align=center | 04:54
+|align=center | 1–0 EDM
+|-
+|align=center | EDM
+|align=center | [[Willy Lindström|Willy Lindstrom]] (5)
+|align=center | Paul Coffey (20) and Charlie Huddy (13)
+|align=center | 05:31
+|align=center | 2–0 EDM
+|-
+|align=center | PHI
+|align=center | Rich Sutter (2)
+|align=center | [[Derrick Smith (ice hockey)|Derrick Smith]] (4)
+|align=center | 07:23
+|align=center | 2–1 EDM
+|-
+|align=center | EDM
+|align=center | [[Paul Coffey]] (11)
+|align=center | Wayne Gretzky (29)
+|align=center | 15:31
+|align=center | 3–1 EDM
+|-
+|align=center | EDM
+|align=center | Paul Coffey (12) – ''pp''
+|align=center | Charlie Huddy (17) and Jari Kurri (10) 
+|align=center | 13:32
+|align=center | 4–1 EDM
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | EDM
+|align=center | [[Mark Messier]] (11)
+|align=center | ''Unassisted''
+|align=center | 09:18
+|align=center | 5–1 EDM
+|-
+|align=center | EDM
+|align=center | [[Mike Krushelnyski]] (5)
+|align=center | Wayne Gretzky (30) and Jari Kurri (11)
+|align=center | 10:20
+|align=center | 6–1 EDM
+|-
+|align=center | EDM
+|align=center | Wayne Gretzky (17)
+|align=center | Jari Kurri (12) and Paul Coffey (25)
+|align=center | 16:49
+|align=center | 7–1 EDM
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | PHI
+|align=center | [[Brian Propp]] (8) – ''pp''
+|align=center | [[Mark Howe]] (8) and [[Dave Poulin]] (5)
+|align=center | 09:18
+|align=center | 7–2 EDM
+|-
+|align=center | EDM
+|align=center | Mark Messier (12)
+|align=center | ''Unassisted''
+|align=center | 03:39
+|align=center | 8–2 EDM
+|-
+|align=center | PHI
+|align=center | Rich Sutter (3)
+|align=center | Derrick Smith (5)
+|align=center | 07:05
+|align=center | 8–3 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | EDM
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Slashing
+|align=center | 01:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Dave Brown (ice hockey)|Dave Brown]]
+|align=center | Slashing
+|align=center | 01:03
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Ed Hospodar]]
+|align=center | Holding
+|align=center | 08:45
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Roughing
+|align=center | 15:40
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Doug Crossman]]
+|align=center | Hooking
+|align=center | 16:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''2nd'''
+|align=center | PHI
+|align=center | [[Rick Tocchet]]
+|align=center | Slashing
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Rick Tocchet
+|align=center | Holding
+|align=center | 06:44
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Mark Messier
+|align=center | Hooking
+|align=center | 07:05
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin McClelland]]
+|align=center | Roughing
+|align=center | 12:23
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Rich Sutter
+|align=center | Cross-checking
+|align=center | 12:23
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Glenn Anderson]]
+|align=center | Roughing
+|align=center | 15:36
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Joe Paterson (ice hockey)|Joe Paterson]]
+|align=center | Roughing
+|align=center | 15:36
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Roughing
+|align=center | 19:55
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | Dave Brown
+|align=center | Roughing
+|align=center | 19:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="18"| '''3rd'''
+|align=center | EDM
+|align=center | Mark Messier
+|align=center | Hooking
+|align=center | 00:38
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Paul Coffey 
+|align=center | Roughing
+|align=center | 01:55
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Peter Zezel]]
+|align=center | Roughing
+|align=center | 01:55
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Tripping
+|align=center | 03:57
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin Lowe
+|align=center | High-sticking
+|align=center | 08:23
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Murray Craven]]
+|align=center | Hooking
+|align=center | 12:28
+|align=center | 2:00
+|-
+|align=center | PHI
+|align=center | [[Bob Froese]]
+|align=center | Slashing
+|align=center | 12:38
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Fighting – major
+|align=center | 15:22
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Game misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Roughing
+|align=center | 15:22
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Unsportsmanlike conduct
+|align=center | 15:22
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | Dave Brown
+|align=center | Fighting – major
+|align=center | 15:22
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Dave Brown
+|align=center | Misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|align=center | PHI
+|align=center | [[Brad Marsh]]
+|align=center | Fighting – major
+|align=center | 15:22
+|align=center | 5:00
+|-
+|align=center | PHI
+|align=center | Brad Marsh
+|align=center | Misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|align=center | EDM
+|align=center | Brad Marsh
+|align=center | Game misconduct
+|align=center | 15:22
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Philadelphia}} || align=center | 7 || align=center | 8 || align=center | 7 || align=center | 22
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 12 || align=center | 17 || align=center | 12 || align=center | 41
+|}
+
+==Broadcasting==
+In Canada, this was the first of two consecutive years that the English-language rights of the Cup Finals were shared between [[Hockey Night in Canada|CBC]] and [[NHL on CTV|CTV]]. CBC televised games one and two nationally while games 3–5 were televised in Edmonton only. CTV televised games 3–5 nationally while games were blacked out in Edmonton. Had the series gone to a Game 7, then both CBC and CTV would have simultaneously televised it while using their own production facilities and crews. [[Dan Kelly (sportscaster)|Dan Kelly]], [[Ron Reusch]], and [[Brad Park]] called the games on CTV.
+
+In the United States, this was the fifth and final season that the Cup Finals aired nationally on the [[NHL on USA|USA Network]]. Under the U.S. TV contracts that would take effect beginning next season, [[ESPN National Hockey Night|ESPN]] would take over as the NHL's American television partner. The USA Network would not air NHL games again until 2015 when it became an occasional overflow channel for [[NHL on NBC|NBC Sports]]' national coverage of the first two rounds of the Stanley Cup playoffs.
+
+The USA Network's national coverage of the 1985 Cup Finals was blacked out in the Philadelphia area due to the local rights to Flyers games in that TV market. [[PRISM (TV network)|PRISM]] aired games one and two while [[WTXF]] aired games three, four, and five.
+
+==Team rosters==
+
+===Edmonton Oilers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glenn|Anderson}}
+| RW
+| L
+| {{hs|24–202}}24
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Vancouver, British Columbia]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Billy|Carroll}}
+| C
+| L
+| {{hs|26–119}}26
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| fifth {{small|('''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}})}}
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Coffey}}
+| D
+| L
+| {{hs|23–161}}23
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Weston, Toronto|Weston, Ontario]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Lee|Fogolin}}
+| D
+| R
+| {{hs|30–127}}30
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Chicago|Chicago, Illinois]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Fuhr}}
+| G
+| R
+| {{hs|22–052}}22
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Spruce Grove, Alberta]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Gregg|Randy Gregg (ice hockey)}}
+| D
+| L
+| {{hs|29–219}}29
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''99'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Gretzky}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|24–046}}24
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Brantford, Ontario]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Huddy}}
+| D
+| L
+| {{hs|25–272}}25
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Hughes|dab=ice hockey}}
+| RW
+| R
+| {{hs|30–025}}30
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| fourth {{small|('''{{scfy|1979}}''', {{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Hunter}}
+| LW
+| L
+| {{hs|27–011}}27
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Petrolia, Ontario]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Don|Jackson|dab=ice hockey}}
+| D
+| L
+| {{hs|28–192}}28
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Krushelnyski}}
+| C
+| L
+| {{hs|25–042}}25
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| first
+|-
+| '''17'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jari|Kurri}}
+| RW
+| R
+| {{hs|25–031}}25
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Helsinki, Finland]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''19'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Willy|Lindstrom|Willy Lindström}}
+| RW
+| L
+| {{hs|34–055}}34
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Grums Municipality|Grums, Sweden]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Lowe}}
+| D
+| L
+| {{hs|26–071}}26
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Lachute, Quebec]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Lumley}}
+| RW
+| R
+| {{hs|30–291}}30
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|McClelland}}
+| C
+| R
+| {{hs|22–084}}22
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| second {{small|('''{{scfy|1984}}''')}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Melnyk}}
+| D
+| L
+| {{hs|25–061}}25
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| second {{small|('''{{scfy|1984}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Messier}}
+| C
+| L
+| {{hs|24–058}}24
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andy|Moog}}
+| G
+| L
+| {{hs|25–168}}25
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Penticton, British Columbia]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Napier|dab=ice hockey}}
+| RW
+| L
+| {{hs|28–028}}28
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[North York|North York, Ontario]]
+| second {{small|('''{{scfy|1979}}''')}}
+|-
+| '''10'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jaroslav|Pouzar}}
+| LW
+| L
+| {{hs|33–123}}33
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Čakov (České Budějovice District)|Cakov, Czechoslovakia]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Semenko}}
+| LW
+| L
+| {{hs|27–071}}27
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| third {{small|({{scfy|1983}}, '''{{scfy|1984}}''')}}
+|-
+| '''14'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Esa|Tikkanen}}
+| LW
+| L
+| {{hs|20–225}}20
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Helsinki, Finland]]
+| first
+|}
+
+===Philadelphia Flyers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ray|Allison}}
+| RW
+| R
+| {{hs|26–134}}26
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Cranbrook, British Columbia]]
+| first
+|-
+| '''42'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Todd|Bergen}}
+| C
+| L
+| {{hs|21–171}}21
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Prince Albert, Saskatchewan]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Brown|dab=ice hockey}}
+| RW
+| R
+| {{hs|22–312}}22
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lindsay|Carson}}
+| LW
+| L
+| {{hs|24–012}}24
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Oxbow, Saskatchewan]]
+| first
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Murray|Craven}}
+| LW
+| L
+| {{hs|20–082}}20
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Medicine Hat|Medicine Hat, Alberta]]
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Crossman}}
+| D
+| L
+| {{hs|24–161}}24
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Miroslav|Dvorak|Miroslav Dvořák (ice hockey)}}
+| D
+| L
+| {{hs|33–111}}33
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Hluboká nad Vltavou|Hluboká nad Vltavou, Czechosloavkia]]
+| first
+|-
+| '''27'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Thomas|Eriksson|dab=ice hockey}}
+| D
+| L
+| {{hs|25–116}}25
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Froese}}
+| G
+| L
+| {{hs|26–363}}26
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[St. Catharines|St. Catharines, Ontario]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Len|Hachborn}}
+| C
+| L
+| {{hs|23–094}}23
+| [[1982 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Brantford|Brantford, Ontario]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ed|Hospodar}}
+| D
+| L
+| {{hs|26–159}}26
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Bowling Green, Ohio]]
+| first
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Howe}}
+| D
+| L
+| {{hs|30–032}}30
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| first
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Kerr}}
+| RW
+| R
+| {{hs|25–015}}25
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Windsor, Ontario]]
+| first
+|-
+| '''27'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Pelle|Lindbergh}}
+| G
+| L
+| {{hs|26–052}}26
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Marsh}}
+| D
+| L
+| {{hs|27–331}}27
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|McCrimmon}}
+| D
+| L
+| {{hs|26–129}}26
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Dodsland, Saskatchewan]]
+| first {{small|(did not play)}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Paterson|dab=ice hockey}}
+| LW
+| L
+| {{hs|24–062}}24
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Poulin}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|26–271}}26
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Timmins|Timmins, Ontario]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Propp}}
+| LW
+| L
+| {{hs|26–145}}26
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Lanigan, Saskatchewan]]
+| second {{small|({{scfy|1980}})}}
+|-
+| '''23'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Ilkka|Sinisalo}}
+| RW
+| L
+| {{hs|26–281}}26
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Valkeakoski|Valkeakoski, Finland]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Derrick|Smith|dab=ice hockey}}
+| LW
+| L
+| {{hs|20–062}}20
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Scarborough, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rich|Sutter}}
+| LW
+| R
+| {{hs|21–122}}21
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Viking, Alberta]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ron|Sutter}}
+| C
+| R
+| {{hs|21–122}}21
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Viking, Alberta]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rick|Tocchet}}
+| RW
+| R
+| {{hs|21–079}}21
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Scarborough, Ontario]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Zezel}}
+| C
+| L
+| {{hs|20–022}}20
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Scarborough, Ontario]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1985 Stanley Cup was presented to Oilers captain Wayne Gretzky by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Oilers 8–3 win over the Flyers in game five.
+
+The following Oilers players and staff had their names engraved on the Stanley Cup
+
+'''1984–85 Edmonton Oilers'''
+{{Stanley Cup champion|team=Edmonton Oilers |year=1985
+|centres=*99 [[Wayne Gretzky]] (Captain)
+*26 [[Mike Krushelnyski]]
+*24 [[Kevin McClelland]]
+*11 [[Mark Messier]]*
+*20 [[Billy Carroll]]*
+|wingers=*8 [[Dave Lumley]]
+*9 [[Glenn Anderson]]
+*10 [[Jaroslav Pouzar]]
+*12 [[Dave Hunter]]
+*14 [[Esa Tikkanen]]
+*16 [[Pat Hughes (ice hockey)|Pat Hughes]]
+*17 [[Jari Kurri]]
+*18 [[Mark Napier (ice hockey)|Mark Napier]]
+*19 [[Willy Lindström|Willy Lindstrom]]
+*27 [[Dave Semenko]]
+|defence=*2 [[Lee Fogolin]] Jr.
+*4 [[Kevin Lowe]]
+*7 [[Paul Coffey]]
+*21 [[Randy Gregg (ice hockey)|Randy Gregg]]
+*22 [[Charlie Huddy]]
+*29 [[Don Jackson (ice hockey)|Don Jackson]]
+*28 [[Larry Melnyk]]
+|goaltenders=
+*31 [[Grant Fuhr]]
+*35 [[Andy Moog]]
+|player-notes=
+* * Played both centre and wing.
+|non-players=
+*[[Peter Pocklington]] (Owner),
+*[[Glen Sather]] (President/General Manager/Head Coach)
+*[[Bruce MacGregor]] (Asst. General Manager)
+*[[John Muckler]] (Asst. Coach), Edward [[Ted Green]] (Asst. Coach)
+*[[Barry Fraser]] (Director of Player Personnel/Chief Scout)
+*[[Garnet "Ace" Bailey]] (Scout), [[Ed Chadwick]] (Scout), [[Lorne Davis]] (Scout), Matti Valsanen (Scout)
+*Peter Millar (Athletic Therapist), Dr. Gordon Cameron (Team Physician)
+*Barrie Stafford (Trainer), Lyle Kulchisky (Asst. Trainer)
+|engraving-notes=Garnet "Ace" Bailey, Ed Chadwick, Lorne Davis, Matti Valsanen (Scouts), Gordon Cameron (Team Physician) received rings with Edmonton in 1984.  Their names however, were left off the Stanley Cup in 1984, but included in 1985.
+}}
+
+==See also==
+* [[List of Stanley Cup champions]]
+* [[1984–85 NHL season]]
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+{{s-start}}
+{{succession box
+|before = [[1984 Stanley Cup Final|Edmonton Oilers<br>1984]]
+|after = [[1986 Stanley Cup Final|Montreal Canadiens<br>1986]]
+|title = [[List of Stanley Cup champions|Edmonton Oilers<br>Stanley Cup champions]]
+|years = 1985|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Edmonton Oilers}}
+{{Philadelphia Flyers}}
+{{1984–85 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on USA}}
+{{NHL on CTV}}
+}}
+
+[[Category:1985 Stanley Cup| ]]
+[[Category:1984–85 NHL season|Stanley]]
+[[Category:Stanley Cup Finals]]
+[[Category:Edmonton Oilers games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:May 1985 sports events in Canada]]
+[[Category:May 1985 sports events in the United States]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:1980s in Edmonton]]
+[[Category:1980s in Philadelphia]]
+[[Category:1985 in sports in Alberta]]
+[[Category:1985 in sports in Pennsylvania]]

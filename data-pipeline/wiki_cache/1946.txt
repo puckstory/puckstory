@@ -1,0 +1,204 @@
+{{Short description|1946 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1946
+|team1='''[[1945–46 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Toe Blake]]
+|team1_coach=[[Dick Irvin]]
+|team1_1='''4'''*
+|team1_2='''3'''*
+|team1_3='''4'''
+|team1_4=2*
+|team1_5='''6'''
+|team1_tot=4
+|team2=[[1945–46 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston 
+|team2_captain=Dit Clapper
+|team2_coach=[[Dit Clapper]]
+|team2_1=3*
+|team2_2=2*
+|team2_3=2
+|team2_4='''3'''*
+|team2_5=3
+|team2_tot=1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=March 30 – April 9, 1946
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4)
+|series_winner=[[Toe Blake]] (11:06, third)
+|hofers='''Canadiens:'''<br/>[[Toe Blake]] (1966)<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bill Durnan]] (1964)<br/>[[Elmer Lach]] (1966)<br/>[[Buddy O'Connor]] (1988)<br/>[[Ken Reardon]] (1966)<br/>[[Maurice Richard]] (1961)<br/>'''Bruins:'''<br/>[[Bobby Bauer]] (1996)<br/>[[Frank Brimsek]] (1966)<br/>[[Dit Clapper]] (1947)<br/>[[Roy Conacher]] (1998)<br/>[[Bill Cowley]] (1968)<br/>[[Woody Dumart]] (1992)<br/>[[Milt Schmidt]] (1961)<br/>'''Coaches:'''<br/>Dit Clapper (1947, player)<br/>[[Dick Irvin]] (1958, player)
+}}
+The '''1946 Stanley Cup Final''' was a best-of-seven series between the [[1945–46 Boston Bruins season|Boston Bruins]] and the [[1945–46 Montreal Canadiens season|Montreal Canadiens]]. The Canadiens won the series four games to one.
+
+==Paths to the Finals==
+Boston defeated the [[Detroit Red Wings]] 4–1 to advance to the Finals. Montreal defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–0 to advance to the Finals.
+
+==Game summaries==
+Brothers [[Terry Reardon|Terry]] and [[Ken Reardon]] faced each other in the 1946 Stanley Cup Finals, with Terry playing for Boston and Ken playing for Montreal. This made them one of the few sets of brothers to face each other on opposing teams in the Stanley Cup Finals, and the two even dropped gloves against each other at one point.<ref name="McEvoy">{{cite news |last=McEvoy |first=Colin |title=The Ultimate Sibling Rivalry: 8 Sets of Brothers Who Faced Off in Sports Championships |work=[[Biography (TV program)|Biography]] |date=February 9, 2023 |url=https://www.biography.com/athletes/a42805051/brothers-who-have-faced-off-in-championships |accessdate=February 12, 2023}}</ref>
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Boston Garden]]
+
+|date1       =March 30
+|home1       =1
+|score1      =3–4
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-mtl/1946/03/30/1945030211#game=1945030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =[[Bep Guidolin]] (4) - 5:09<br>[[Woody Dumart]] (4) - 8:02
+|1-2-2       =00:21 - ''pp'' - [[Butch Bouchard]] (1)<br>3:19 - [[Bob Fillion]] (3)
+|1-3-1       =[[Jack Crawford (ice hockey)|Jack Crawford]] (1) - 14:04
+|1-3-2       =16:23 - [[Murph Chamberlain]] (3)
+|1-4-1       =''No scoring''
+|1-4-2       =9:08 - [[Maurice Richard]] (5)
+|goalie1-1   =[[Frank Brimsek]]
+|goalie1-2   =[[Bill Durnan]]
+
+|date2       =April 2
+|home2       =1
+|score2      =2–3
+|ot2         =1
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/bos-vs-mtl/1946/04/02/1945030212#game=1945030212,game_state=final
+|2-1-1       =[[Pat Egan]] (3) - 10:55
+|2-1-2       =1:06 - [[Elmer Lach]] (3)
+|2-2-1       =[[Bobby Bauer]] (3) - 3:04
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =10:10 - [[Butch Bouchard]] (2)
+|2-4-1       =''No scoring''
+|2-4-2       =16:55 - [[Jimmy Peters Sr.|Jimmy Peters]] (3)
+|goalie2-1   =[[Frank Brimsek]]
+|goalie2-2   =[[Bill Durnan]]
+
+|date3       =April 4
+|home3       =2
+|score3      =4–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-bos/1946/04/04/1945030213#game=1945030213,game_state=final
+|3-1-1       =11:01 - [[Bep Guidolin]] (5)
+|3-1-2       =[[Elmer Lach]] (4) - 10:14<br>[[Glen Harmon]] (1) - ''pp'' - 14:13
+|3-2-1       =18:41 - [[Terry Reardon]] (3)
+|3-2-2       =''No scoring''
+|3-3-1       =''No scoring''
+|3-3-2       =[[Ken Mosdell]] (3) - 2:45<br>[[Dutch Hiller]] (3) - 5:18
+|goalie3-1   =[[Frank Brimsek]]
+|goalie3-2   =[[Bill Durnan]]
+
+|date4       =April 7
+|home4       =2
+|score4      =2–3
+|ot4         =1
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/mtl-vs-bos/1946/04/07/1945030214#game=1945030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =''No scoring''
+|4-2-1       =8:05 - [[Murray Henderson (ice hockey)|Murray Henderson]] (1)
+|4-2-2       =[[Maurice Richard]] (6) - 13:46
+|4-3-1       =3:01 - [[Don Gallinger]] (2)
+|4-3-2       =Maurice Richard (7) - 4:04
+|4-4-1       =15:13 - [[Terry Reardon]] (4)
+|4-4-2       =''No scoring''
+|goalie4-1   =[[Frank Brimsek]]
+|goalie4-2   =[[Bill Durnan]]
+
+|date5       =April 9
+|home5       =1
+|score5      =3–6
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/bos-vs-mtl/1946/04/09/1945030215#game=1945030215,game_state=final
+|5-1-1       =[[Bill Cowley]] (1) - ''p'' - 5:42<br>[[Bobby Bauer]] (4) - 14:01
+|5-1-2       =9:55 - [[Bob Fillion]] (4)<br>15:51 - [[Elmer Lach]] (5)<br>18:28 - [[Ken Mosdell]] (4)
+|5-2-1       =[[Milt Schmidt]] (3) - 7:15
+|5-2-2       =''No scoring''
+|5-3-1       =''No scoring''
+|5-3-2       =11:06 - [[Toe Blake]] (7)<br>14:05 - [[Murph Chamberlain]] (4)<br>17:13 - [[Dutch Hiller]] (4)
+|goalie5-1   =[[Frank Brimsek]]
+|goalie5-2   =[[Bill Durnan]]
+
+|series = Montreal won series 4–1
+}}
+
+==Stanley Cup engraving==
+The 1946 Stanley Cup was presented to Canadiens captain Toe Blake by [[NHL Commissioner|NHL President]] [[Red Dutton]] following the Canadiens 6–3 win over the Bruins in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1945–46 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=1 [[Bill Durnan]]
+|defence=*2 [[Frank Eddolls]] 
+*3 [[Émile Bouchard|Emile "Butch" Bouchard]]
+*4 [[Leo Lamoureux]]
+*8 [[Glen Harmon]]
+*17 [[Ken Reardon]]
+|centres=*10 Herbert [[Buddy O'Connor]]
+*14 [[Bill Reay]]
+*16 [[Elmer Lach]]
+*18 [[Kenny Mosdell]]  
+|wingers=*5 Wilbert [[Dutch Hiller]]
+*6 Hector [[Toe Blake]] (Captain)
+*9 [[Maurice Richard|Maurice "Rocket" Richard]]
+*11 [[Joe Benoit]]
+*12 Erwin [[Murph Chamberlain]]
+*15 [[Bob Fillion]]
+*19 [[Jimmy Peters, Sr.]]   
+*20 [[Gerry Plamondon]] 
+|non-players=
+* [[Donat Raymond]] (President/Owner), Dalton Coleman (Vice President/Owner) 
+* Bill Hardy (Director), [[Tommy Gorman]] (Manager)
+* [[Dick Irvin]] Sr. (Coach), Arthur Cayford (Secretary-Treasurer)†
+* Ernie Cook (Trainer)†, Hector Dubois (Asst. Trainer)†
+* William Northey (Vice President/Owner) was missing from the team picture and the Stanley Cup.
+† Left off the cup, but included on the team picture.
+|engraving-notes=
+*Joe Benoit only won one Stanley Cup, but his name was engraved differently on all three rings with 1946 Montreal.
+*Original Ring – Joseph Benoit 1946
+*Presentation Ring – Jo Benoit 1957-58
+*Replica Ring – Joe Benoit 1992-93
+|
+}}
+
+==See also==
+* [[1945–46 NHL season]]
+
+==References and notes==
+{{reflist}}
+
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+ before = [[1945 Stanley Cup Finals|Toronto Maple Leafs<br>1945]] |
+ after = [[1947 Stanley Cup Finals|Toronto Maple Leafs<br>1947]] |
+ title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+ years = 1946|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Canadiens}}
+{{Boston Bruins}}
+{{1945–46 NHL season by team}}
+
+[[Category:1945–46 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1940s in Boston]]
+[[Category:1946 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1946 in Quebec|Stanley Cup Finals]]
+[[Category:1940s in Montreal]]
+[[Category:March 1946 sports events in the United States|Stanley Cup Finals]]
+[[Category:April 1946 sports events in the United States|Stanley Cup Finals]]
+[[Category:March 1946 sports events in Canada|Stanley Cup Finals]]
+[[Category:April 1946 sports events in Canada|Stanley Cup Finals]]

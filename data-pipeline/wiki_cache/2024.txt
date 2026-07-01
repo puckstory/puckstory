@@ -1,0 +1,1721 @@
+{{short description|2024 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=June 2024}}
+{{Infobox Stanley Cup Final
+| year = 2024
+| image = 2024 Stanley Cup Final.png
+| team1 = [[2023–24 Edmonton Oilers season|Edmonton Oilers]]
+| team2 = '''[[2023–24 Florida Panthers season|Florida Panthers]]'''
+| team1_1 = 0
+| team2_1 = '''3'''
+| team1_2 = 1
+| team2_2 = '''4'''
+| team1_3 = 3
+| team2_3 = '''4'''
+| team1_4 = '''8'''
+| team2_4 = 1
+| team1_5 = '''5'''
+| team2_5 = 3
+| team1_6 = '''5'''
+| team2_6 = 1
+| team1_7 = 1
+| team2_7 = '''2'''
+| team1_tot = 3
+| team2_tot = 4
+| location1 = [[Edmonton]]: [[Rogers Place]]
+| location2 = [[Sunrise, Florida|Sunrise]]: [[Amerant Bank Arena]] 
+| team1_coach = [[Kris Knoblauch]]
+| team2_coach = [[Paul Maurice]] 
+| team1_short = Edmonton 
+| team2_short = Florida 
+| team1_captain = [[Connor McDavid]]
+| team2_captain = [[Aleksander Barkov]] 
+| team1_national_anthem = Robert Clark
+| team2_national_anthem = Game 1: [[American Idol season 19|Madison Watkins]] ([[The Star-Spangled Banner|American]])<br/>Jon Acosta ([[O Canada|Canadian]])<br/>Game 2: [[Gina Miles (singer)|Gina Miles]] (American)<br/>Hannah Walpole (Canadian)<br/>Game 5: Brooke Alexx (American)<br/>Beverly Hodgson (Canadian)<br/>Game 7: [[Alanis Morissette]]
+| referees = {{ubl|Jean Hebert (2, 4, 6)|[[Steve Kozari]] (1, 3, 5, 7)|[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (1, 3, 5, 7)|[[Chris Rooney]] (2, 4, 6)}}
+| dates = June 8–24, 2024<ref name="schedule"/>
+| mvp = [[Connor McDavid]] (Oilers)
+| series_winner = [[Sam Reinhart]] (15:11, second)
+| networks =  '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]/[[Sportsnet+]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ABC|ABC]]/[[ESPN+]]
+| net_announcers = (CBC/SN) [[Chris Cuthbert]] and [[Craig Simpson]]<br> (ABC) [[Sean McDonough]] and [[Ray Ferraro]]<br>(NHL International) E. J. Hradek and [[Kevin Weekes]]
+}}
+The '''2024 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2023–24 NHL season|2023–24 season]] and the culmination of the [[2024 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion [[2023–24 Florida Panthers season|Florida Panthers]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2023–24 Edmonton Oilers season|Edmonton Oilers]] four games to three in the [[best-of-seven playoff|best-of-seven series]], earning their first championship in their thirty year history.
+
+The series began on June 8 and ended on June 24.<ref name="schedule">{{cite web|title=2024 Stanley Cup Final schedule announced |url=https://www.nhl.com/news/2024-stanley-cup-final-schedule-announced|date=May 30, 2024|access-date=May 30, 2024|publisher=NHL Enterprises, L. P.|website=NHL.com}}</ref> The Panthers had home-ice advantage in the series as the team with the better regular season record, and this was the fifth consecutive [[Stanley Cup Final]] with a team from the state of [[Florida]].<ref>{{cite web |url=https://ca.sports.yahoo.com/news/nhl-playoffs-panthers-knock-off-rangers-to-reach-2nd-straight-stanley-cup-final-024730005.html |title=NHL playoffs: Panthers knock off Rangers to reach 2nd straight Stanley Cup Final |last1=Baer|first1=Jack|last2=Leahy|first2=Sean|website=[[Yahoo! Sports]] |date=June 1, 2024 |access-date=June 2, 2024}}</ref>
+
+This was the furthest distance between two cities in an NHL championship series at {{convert|4089|km|abbr=off}}, breaking the previous record of {{convert|4023|km|abbr=on}}, set in {{scfy|2011}} by the [[2010–11 Vancouver Canucks season|Vancouver Canucks]] and [[2010–11 Boston Bruins season|Boston Bruins]].<ref>{{cite web|url=https://ftw.usatoday.com/2024/06/oilers-panthers-travel-distance-record-stanley-cup-final|title=Here's the record travel distance for the Panthers and Oilers during the 2024 Stanley Cup Final|last=Zeglinski|first=Robert|work=[[USA Today]]|date=June 4, 2024|accessdate=June 5, 2024}}</ref> This was the first Final since {{scfy|1945}} to see a team force a [[Game seven|seventh game]] after [[List of teams that have overcome 3–0 series deficits#National Hockey League|being down 3–0]],<ref name="OilersForce7" /><ref>{{cite web|url=https://thehockeynews.com/nhl/chicago-blackhawks/latest-news/edmonton-oilers-playoff-comeback-blackhawks-rallied-within-a-bounce-of-winning-playoff-series-after-trailing-3-0 |title=Edmonton Oilers Playoff Comeback: Blackhawks Rallied Within A Bounce Of Winning Playoff Series After Trailing 3-0 |website=[[The Hockey News]] |last1=Carlson|first1=Matt |date=June 23, 2024 |access-date=June 29, 2024}}</ref> with Florida becoming the first team since that occurrence to win the title in seven games after nearly surrendering a 3–0 series lead.<ref name="Game7" />  This was also the first Final since [[2018 Stanley Cup Final|2018]] without any [[Overtime (ice hockey)|overtime]].<ref>{{cite web|url=https://records.nhl.com/records/playoff-team-records/overtime/all-overtime-playoff|title=All-Time Overtime Games, Playoff History|publisher=National Hockey League|accessdate=June 26, 2024}}</ref>
+
+==Paths to the Final==
+
+===Edmonton Oilers===
+{{Main|2023–24 Edmonton Oilers season}}
+This was Edmonton's eighth Final appearance. They had won the Stanley Cup five times, all of which came between {{scfy|1984}} and {{scfy|1990}} during their [[Dynasty (sports)|dynasty years]].<ref>{{cite web|url=https://www.hhof.com/hockeypedia/edmontonoilers_8384_8990.html|title=EDMONTON OILERS 1983–84 to 1989–90|publisher=Hockey Hall of Fame and Museum|website=HHOF.com|accessdate=May 22, 2024}}</ref> They lost their most recent Final appearance in {{scfy|2006}}, against the [[2005–06 Carolina Hurricanes season|Carolina Hurricanes]] in seven games.<ref>{{cite news|url=https://www.newsobserver.com/sports/nhl/carolina-hurricanes/article254852192.html|title=The Cup stops here: Hurricanes hold off Oilers to win an NHL title|last=Decock|first=Luke|newspaper=[[The News & Observer]]|date=October 7, 2021|accessdate=May 31, 2024}}</ref>
+
+During the offseason, the Oilers acquired forward [[Connor Brown (ice hockey)|Connor Brown]] and defenceman [[Ben Gleason]] via [[free agent|free agency]].<ref>{{cite web|url=https://www.nhl.com/oilers/news/release-oilers-sign-connor-brown-to-one-year-contract/c-345155792|title=RELEASE: Oilers sign Connor Brown to one-year contract|publisher=Edmonton Oilers|date=July 1, 2023|via=NHL.com|accessdate=May 31, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/oilers/news/release-oilers-sign-ben-gleason-to-two-year-contract/c-345187698|title=RELEASE: Oilers sign Ben Gleason to two-year contract|publisher=Edmonton Oilers|date=July 2, 2023|via=NHL.com|accessdate=May 31, 2024}}</ref> They also re-signed forward [[Mattias Janmark]].<ref>{{cite web|url=https://www.nhl.com/oilers/news/release-oilers-sign-mattias-janmark-to-one-year-extension/c-345148180|title=RELEASE: Oilers sign Mattias Janmark to one-year extension|publisher=Edmonton Oilers|date=June 30, 2023|via=NHL.com|accessdate=May 31, 2024}}</ref> The team started the season poorly, going {{win-loss record|w=3|l=9|otl=1}} before firing head coach [[Jay Woodcroft]] and replacing him with [[Kris Knoblauch]],<ref>{{cite web |last=Shilton |first=Kristen |date=November 12, 2023 |title=Oilers fire coach Jay Woodcroft, hire AHL's Kris Knoblauch |url=https://www.espn.com/nhl/story/_/id/38881416/oilers-fire-coach-jay-woodcroft-hire-ahl-kris-knoblauch |accessdate=June 2, 2024 |website=ESPN.com |publisher=ESPN Enterprises Inc.}}</ref> under whom the team would rebound to make the playoffs. Edmonton signed free agent [[Corey Perry]] during the season, after Perry's contract with the [[2023-24 Chicago Blackhawks season|Chicago Blackhawks]] was terminated for misconduct.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/38999666/blackhawks-waive-corey-perry-unacceptable-conduct|title=Blackhawks waive Corey Perry for 'unacceptable' conduct|last=Clark|first=Ryan|publisher=ESPN Enterprises Inc.|date=November 28, 2023|website=ESPN.com|accessdate=May 31, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/oilers/news/release-oilers-sign-perry-to-one-year-contract|title=RELEASE: Oilers sign Perry to one-year contract|via=NHL.com|publisher=Edmonton Oilers|date=January 22, 2024|accessdate=May 31, 2024}}</ref> Nearing the [[trade deadline]], the team acquired centres [[Sam Carrick]] and [[Adam Henrique]] via a three-way trade;<ref>{{cite web|url=http://www.nhl.com/oilers/news/release-oilers-acquire-adam-henrique-sam-carrick|title=Release: Oilers acquiring forwards Adam Henrique, Sam Carrick in trade with Ducks|publisher=Edmonton Oilers|date=March 6, 2024|via=NHL.com|accessdate=May 31, 2024}}</ref> they also acquired defenceman [[Troy Stecher]].<ref>{{cite news|url=https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers/edmonton-oilers-ink-depth-defenceman-in-arizona-coyotes-troy-stecher|title=Edmonton Oilers acquire depth defenceman in Arizona Coyotes' Troy Stecher|newspaper=[[Edmonton Sun]]|first=Gerry|last=Moddejonge|date=March 7, 2024|accessdate=May 31, 2024}}</ref>
+
+Captain [[Connor McDavid]] led the team in scoring with 132 points, and was third overall in the league.<ref>{{cite web|url=https://www.hockey-reference.com/players/m/mcdavco01.html|title=Connor McDavid Stats, Height, Weight, Position, Salary, Title|publisher=Sports Reference, LLC|website=Hockey-Reference.com|accessdate=May 31, 2024}}</ref> 100 of those points were assists, making him the fourth NHL player to record at least 100 assists in a season, and the first since [[Wayne Gretzky]] in [[1990–91 NHL season|1990–91]].<ref>{{cite web|url=https://www.cbssports.com/nhl/news/oilers-connor-mcdavid-becomes-fourth-player-in-nhl-history-to-tally-100-assists-in-a-single-season/|title=Oilers' Connor McDavid becomes fourth player in NHL history to tally 100 assists in a single season|last=Bengel|first=Chris|work=[[CBS Sports]]|date=April 16, 2024|accessdate=May 31, 2024}}</ref> Perry made his fifth Final appearance, previously winning with the [[Anaheim Ducks]] in [[2007 Stanley Cup Final|2007]] and losing with the [[Dallas Stars]] in [[2020 Stanley Cup Final|2020]], [[Montreal Canadiens]] in [[2021 Stanley Cup Final|2021]], and [[Tampa Bay Lightning]] in [[2022 Stanley Cup Final|2022]], respectively; this made him the first player to play in the Stanley Cup Final for five different teams.<ref>{{cite magazine|url=https://thehockeynews.com/nhl/tampa-bay-lightning/latest-news/ex-lightning-forward-corey-perry-makes-nhl-history|title=Ex-Lightning Forward Corey Perry Makes NHL History|last=Deorsa|first=Michael|magazine=[[The Hockey News]]|date=June 3, 2024|accessdate=June 3, 2024}}</ref>
+
+The Oilers finished the regular season with 104 points via a {{win-loss record|w=49|l=27|otl=6}} record, which gave them second place in the [[Pacific Division (NHL)|Pacific Division]]. In the first round of the playoffs, the Oilers defeated [[Kings–Oilers rivalry|one of their rivals]], the [[Los Angeles Kings]], in five games.<ref>{{cite web|url=https://www.espn.com/nhl/recap/_/gameId/401655588|title=Draisaitl scores twice as Oilers beat Kings 4–3 to advance to 2nd round|publisher=ESPN Enterprises Inc.|date=May 2, 2024|website=ESPN.com|accessdate=May 31, 2024}}</ref> Edmonton then prevailed against the [[Vancouver Canucks]] in a seven-game victory in the second round.<ref>{{cite web|url=https://apnews.com/article/oilers-canucks-score-3aff28511081ce8a15111c82ca6f9cce|title=Oilers beat Canucks 3–2 in Game 7 to advance to Western Conference final|publisher=Associated Press|date=May 20, 2024|website=APNews.com|accessdate=May 31, 2024}}</ref> They then defeated the [[Dallas Stars]] in six games in the Western Conference final.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-edmonton-oilers-game-6-recap-june-2|title=Oilers withstand late Stars rally in Game 6, advance to Stanley Cup Final|last=Moddejonge|first=Gerry|publisher=NHL Enterprises, L. P.|date=June 2, 2024|website=NHL.com|accessdate=June 2, 2024}}</ref>
+
+===Florida Panthers===
+{{Main|2023–24 Florida Panthers season}}
+This was the second consecutive and third overall Final appearance for the Panthers. They lost both previous Final appearances, being swept in {{scfy|1996}} by the [[1995–96 Colorado Avalanche season|Colorado Avalanche]] and losing in five games to the [[2022–23 Vegas Golden Knights season|Vegas Golden Knights]] in {{scfy|2023}}.<ref>{{cite web|url=https://www.npr.org/2023/06/14/1182071288/las-vegas-golden-knights-win-stanley-cup|title=What happens in Vegas ... is a Stanley Cup, as the Golden Knights win the NHL title|publisher=National Public Radio|date=June 14, 2023|website=NPR.org|accessdate=May 22, 2024}}</ref>
+
+During the offseason, the Panthers signed defencemen [[Oliver Ekman-Larsson]] and [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]], forward [[Evan Rodrigues]], and goaltender [[Anthony Stolarz]] in free agency.<ref>{{cite web|url=https://www.nhl.com/panthers/news/panthers-agree-to-terms-with-defenseman-oliver-ekman-larsson-on-a-one-year-contract/c-345165626|title=Panthers Agree to Terms with Oliver Ekman-Larsson on a 1-Year Contract|via=NHL.com|publisher=Florida Panthers|date=July 1, 2023|accessdate=May 22, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-defenseman-dmitry-kulikov-on-a-one-year-contract/c-345164878|title=Panthers Agree to Terms with Defenseman Dmitry Kulikov on 1-year Contract|via=NHL.com|publisher=Florida Panthers|date=July 1, 2023|accessdate=May 22, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/panthers/news/panthers-agree-to-terms-with-forward-evan-rodrigues-on-a-four-year-contract/c-345182118|title=Panthers Agree to Terms with Forward Evan Rodrigues on a 4-Year Contract|via=NHL.com|publisher=Florida Panthers|date=July 2, 2023|accessdate=May 22, 2024}}</ref> They also re-signed [[Eetu Luostarinen]] and traded for [[Steven Lorentz]].<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-forward-eetu-luostarinen-on-three-year-contract-extension/c-345422684|title=Panthers Agree to Terms with Eetu Luostarinen on Contract Extension|via=NHL.com|publisher=Florida Panthers|date=July 25, 2023|accessdate=May 22, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/panthers/news/panthers-acquire-forward-steven-lorentz-5th-round-pick-in-2025-from-san-jose-sharks/c-345176324|title=Panthers Acquire Forward Steven Lorentz, 5th-Round Pick from San Jose|via=NHL.com|publisher=Florida Panthers|date=June 30, 2023|accessdate=May 22, 2024}}</ref> At the trade deadline, the team acquired [[Vladimir Tarasenko]], [[Magnus Hellberg]], and [[Kyle Okposo]].<ref>{{cite news|url=https://ottawasun.com/sports/hockey/nhl/ottawa-senators/senators-send-tarasenko-to-panthers|title=Senators send scoring winger Vladimir Tarasenko to Florida Panthers|newspaper=[[Ottawa Sun]]|last=Garrioch|first=Bruce|date=March 6, 2024|accessdate=May 22, 2024}}</ref><ref>{{cite web|url=https://www.sportsnet.ca/nhl/article/panthers-acquire-g-hellberg-from-penguins-for-g-waeber-draft-pick/|title=Panthers acquire G Hellberg from Penguins for G Waeber, draft pick|publisher=Rogers Media|date=March 8, 2024|website=Sportsnet.ca|accessdate=May 22, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/news/kyle-okposo-traded-to-florida-panthers-from-buffalo-sabres|title=Okposo traded to Panthers by Sabres|publisher=NHL Enterprises, L. P.|website=NHL.com|date=March 8, 2024|accessdate=May 22, 2024}}</ref> They also acquired [[Tobias Björnfot|Tobias Bjornfot]] via [[waivers (NHL)|waivers]]<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-claim-defenseman-tobias-bjornfot-off-waivers|title=Florida Panthers Claim Defenseman Tobias Bjornfot Off Waivers|publisher=Florida Panthers|date=March 8, 2024|via=NHL.com|accessdate=May 22, 2024}}</ref> and also re-signed [[Gustav Forsling]] shortly before the trade deadline.<ref>{{cite web|url=https://www.nhl.com/panthers/news/florida-panthers-agree-to-terms-with-defenseman-gustav-forsling-on-eight-year-contract-extension|title=Florida Panthers Agree to Terms with Defenseman Gustav Forsling on Eight-Year Contract Extension|publisher=Florida Panthers|date=March 7, 2024|via=NHL.com|accessdate=May 22, 2024}}</ref>
+
+[[Sam Reinhart]] led the team in scoring with 57 goals and 94 points.<ref>{{cite web|url=https://www.hockey-reference.com/players/r/reinhsa01.html|title=Sam Reinhart Stats, Height, Weight, Position, Salary, Title|publisher=Sports Reference LLC|website=Hockey-Reference.com|accessdate=May 17, 2024}}</ref>
+
+The Panthers finished first in the [[Atlantic Division (NHL)|Atlantic Division]] with 110 points via a {{win-loss record|w=52|l=24|otl=6}} record. In the first round, they defeated their [[Lightning–Panthers rivalry|intra-state rival]], the [[Tampa Bay Lightning]], in five games.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-florida-panthers-game-5-recap-april-29|title=Panthers pull away in 3rd, eliminate Lightning with win in Game 5|last=Richards|first=George|publisher=NHL Enterprises, L. P.|date=April 29, 2024|website=NHL.com|accessdate=April 29, 2024}}</ref> In the second round, they won in six games against the [[Boston Bruins]] in a rematch from the [[2023 Stanley Cup playoffs#(A1) Boston Bruins vs. (WC2) Florida Panthers|previous season's first round]].<ref>{{cite web|url=https://www.nhl.com/news/florida-panthers-boston-bruins-game-6-recap-may-17|title=Forsling scores late, Panthers eliminate Bruins in Game 6 to advance to East Final|last=Pohoryles|first=Joe|publisher=NHL Enterprises, L. P.|date=May 17, 2024|website=NHL.com|accessdate=May 17, 2024}}</ref> In the Eastern Conference final, they faced the [[New York Rangers]], who had won the [[Presidents' Trophy]] by having the best regular season record, and defeated them in six games.<ref>{{cite web|url=https://www.nhl.com/news/new-york-rangers-florida-panthers-game-6-recap-june-1|title=Panthers defeat Rangers in Game 6, advance to Stanley Cup Final|last=Richards|first=George|publisher=NHL Enterprises, L. P.|date=June 1, 2024|website=NHL.com|accessdate=June 1, 2024}}</ref>
+
+==Game summaries==
+:''Numbers in parentheses indicate the player's total goals or assists in the 2024 playoffs up to that point.''
+
+===Game one===
+{{NHLPlayoffs
+|date1=June 8
+|team1=Florida Panthers
+|team2=Edmonton Oilers
+|homeright=yes
+|stadium1=[[Amerant Bank Arena]]
+|score1=0–3
+|won1=1
+|recap1=www.nhl.com/news/edmonton-oilers-florida-panthers-game-1-recap-june-8
+}}
+[[File:BobApril25.jpg|thumb|right|upright=.8|[[Sergei Bobrovsky]] recorded a [[shutout]] in game one.]]
+In game one, Florida took a 1–0 lead four minutes into the first period when [[Carter Verhaeghe]] received a [[Assist (ice hockey)|pass]] from [[Aleksander Barkov]], beating Edmonton goaltender [[Stuart Skinner]] with a [[wrist shot]].<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-verhaeghe-scores-goal-against-stuart-skinner-6354648495112|title=Verhaeghe nets first goal of Cup Final|publisher=NHL Enterprises, L. P.|date=June 8, 2024|website=NHL.com|accessdate=June 8, 2024}}</ref> Two minutes into the second period, [[Evan Rodrigues]] scored to make it 2–0 after receiving a centering pass from [[Sam Bennett (ice hockey)|Sam Bennett]].<ref>{{cite web|url=https://bleacherreport.com/videos/573445-goal-by-evan-rodrigues|archive-url=https://web.archive.org/web/20240609031924/https://bleacherreport.com/videos/573445-goal-by-evan-rodrigues|url-status=dead|archive-date=June 9, 2024|title=Goal by Evan Rodrigues|publisher=NHL Enterprises, L. P.|date=June 8, 2024|website=NHL.com|accessdate=June 8, 2024}}</ref> Late in the third period, Edmonton pulled their goaltender for an [[extra attacker]], but with five seconds remaining, [[Eetu Luostarinen]] scored an [[empty net goal]] to make the final score 3–0.<ref>{{cite web|url=https://www.espn.com/video/clip?id=40309143|title='Here come the rats!' Luostarinen's empty-netter secures Game 1 for Panthers|publisher=NHL Enterprises, L. P.|date=June 8, 2024|website=NHL.com|accessdate=June 8, 2024}}</ref> Edmonton recorded 32 [[shot on goal (ice hockey)|shots on goal]] in the game against Florida goaltender [[Sergei Bobrovsky]], who saved them all in a [[shutout (ice hockey)|shutout]].<ref name="Game1">{{cite web|url=https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-1-recap-june-8|title=Bobrovsky, Panthers shut out Oilers in Game 1 of Stanley Cup Final|last=Roarke|first=Shawn P.|publisher=NHL Enterprises, L. P.|date=June 8, 2024|website=NHL.com|accessdate=June 8, 2024}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="Game1"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| FLA
+|| [[Carter Verhaeghe]] (10)
+|| [[Aleksander Barkov]] (12), [[Sam Reinhart]] (5)
+|| 03:59
+|| 1–0 FLA
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| FLA
+|| [[Evan Rodrigues]] (4)
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (5), [[Brandon Montour]] (7)
+|| 02:16
+|| 2–0 FLA
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| FLA
+|| [[Eetu Luostarinen]] (2) – ''en''
+|| Aleksander Barkov (13)
+|| 19:55
+|| 3–0 FLA
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| EDM
+|| [[Mattias Ekholm]]
+|| Tripping
+|| 07:33
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Gustav Forsling]]
+|| Tripping
+|| 14:53
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Carter Verhaeghe
+|| Tripping
+|| 19:51
+|| 2:00
+|-style="text-align:center;"
+| rowspan="5"|'''2nd'''
+|| FLA
+|| [[Kevin Stenlund]]
+|| Roughing
+|| 10:24
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Oliver Ekman-Larsson]]
+|| Roughing
+|| 10:24
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Connor Brown (ice hockey)|Connor Brown]]
+|| Roughing
+|| 10:24
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Mattias Janmark]]
+|| Roughing
+|| 10:24
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Sam Bennett
+|| Interference
+|| 10:38
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| EDM
+|| [[Corey Perry]]
+|| Interference
+|| 06:47
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game1"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||12 ||13 ||7 ||32
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||4 ||8 ||6 ||18
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=June 10
+|team1=Florida Panthers
+|team2=Edmonton Oilers
+|homeright=yes
+|stadium1=[[Amerant Bank Arena]]
+|score1=1–4
+|won1=1
+|recap1=www.nhl.com/news/edmonton-oilers-florida-panthers-game-2-recap-june-10
+}}
+[[File:RodriguesApril25.jpg|thumb|right|upright=.8|[[Evan Rodrigues]] scored two goals in game two.]]
+During the first period of game two, Edmonton forward [[Warren Foegele]] [[Penalty (ice hockey)#List of infractions|kneed]] Panthers forward [[Eetu Luostarinen]], resulting in a match penalty as well as a game misconduct for Foegele.<ref name="Foegele_ESPN">{{cite web|url=https://www.espn.com/nhl/story/_/id/40323752/oilers-warren-foegele-ejected-game-2-stanley-cup-final-hit-panthers-eetu-luostarinen|title=Oilers' Warren Foegele ejected from Game 2 vs. Panthers for hit|publisher=ESPN Enterprises Inc.|date=June 10, 2024|website=ESPN.com|accessdate=June 10, 2024}}</ref> Luostarinen continued to play in the game.<ref name="Foegele_ESPN"/> Whilst on the subsequent five-minute power play, defenceman [[Oliver Ekman-Larsson]] was penalized for tripping, resulting in a four-on-four, during which an Oilers rush resulted in their first shot from [[Mattias Ekholm]] going past goaltender [[Sergei Bobrovsky]] for a 1–0 lead.<ref>{{cite news|url=https://www.ourmidland.com/sports/article/oilers-foegele-ejected-for-knee-on-knee-hit-on-19507860.php|title=Oilers' Foegele ejected for knee-on-knee hit on Panthers' Luostarinen in Stanley Cup final Game 2|last=Whyno|first=Stephen|newspaper=[[Midland Daily News]]|date=June 10, 2024|accessdate=June 10, 2024}}</ref><ref>{{cite web|url=https://www.nhl.com/video/edm-fla-ekholm-scores-goal-against-sergei-bobrovsky-6354769947112|title=Ekholm kicks off scoring|publisher=NHL Enterprises, L. P.|date=June 10, 2024|website=NHL.com|accessdate=June 10, 2024}}</ref> In the second period, [[Niko Mikkola]] tied the game for the Panthers, taking a drop-pass from [[Anton Lundell]] and snapping a shot past Edmonton goaltender [[Stuart Skinner]].<ref>{{cite web|url=https://sports.yahoo.com/niko-mikkola-goal-vs-edmonton-014454726.html|title=Niko Mikkola with a Goal vs. Edmonton Oilers|date=June 10, 2024|website=[[Yahoo! Sports]]|accessdate=June 10, 2024}}</ref> In third period, Panthers forward [[Evan Rodrigues]] broke the tie, picking off a clearing attempt by Oilers defenceman [[Evan Bouchard]] to put the puck past Skinner for a 2–1 lead.<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-rodrigues-scores-goal-against-stuart-skinner-6354776224112|title=Rodrigues nets go-ahead goal|publisher=NHL Enterprises, L. P.|date=June 10, 2024|website=NHL.com|accessdate=June 10, 2024}}</ref> With less than ten minutes in the game, Oilers forward [[Leon Draisaitl]] was called for roughing and on the ensuing power play, Lundell passed to Rodrigues, who scored again to give the Panthers a 3–1 lead and end Edmonton's streak of 34 consecutive penalty kills.<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-rodrigues-scores-goal-against-stuart-skinner-6354777607112|title=Rodrigues strikes again with PPG|publisher=NHL Enterprises, L. P.|date=June 10, 2024|website=NHL.com|accessdate=June 10, 2024}}</ref> The Oilers then brought on an extra attacker, but [[Aaron Ekblad]] scored into the empty net for the Panthers, sealing a 4–1 victory for Florida.<ref>{{cite web|url=https://www.espn.com/video/clip?id=40324400|title=Aaron Ekblad scores the empty-net goal as Panthers grab Game 2|publisher=ESPN Enterprises Inc.|date=June 10, 2024|website=ESPN.com|accessdate=June 11, 2024}}</ref><ref name="Game2">{{cite web|url=https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-2-recap-june-10|title=Panthers defeat Oilers in Game 2 of Cup Final, extend series lead|last=Roarke|first=Shawn P.|publisher=NHL Enterprises, L. P.|date=June 10, 2024|website=NHL.com|accessdate=June 10, 2024}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="Game2"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| EDM
+|| [[Mattias Ekholm]] (5)
+|| [[Connor McDavid]] (27), [[Evan Bouchard]] (22)
+|| 11:17
+|| 1–0 EDM
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| FLA
+|| [[Niko Mikkola]] (2)
+|| [[Anton Lundell]] (10), [[Vladimir Tarasenko]] (4)
+|| 09:34
+|| 1–1
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| FLA
+|| [[Evan Rodrigues]] (5)
+|| ''Unassisted''
+|| 03:11
+|| 2–1 FLA
+|-style="text-align:center;"
+|| FLA
+|| Evan Rodrigues (6) – ''pp''
+|| Anton Lundell (11), [[Oliver Ekman-Larsson]] (4)
+|| 12:26
+|| 3–1 FLA
+|-style="text-align:center;"
+|| FLA
+|| [[Aaron Ekblad]] (1) – ''en''
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (6)
+|| 17:32
+|| 4–1 FLA
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="5"|'''1st'''
+|| FLA
+|| Sam Bennett
+|| Tripping
+|| 06:10
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Warren Foegele]]
+|| Game misconduct
+|| 09:21
+|| 10:00
+|-style="text-align:center;"
+|| EDM
+|| Warren Foegele (served by [[Dylan Holloway]])
+|| Kneeing – major
+|| 09:21
+|| 5:00
+|-style="text-align:center;"
+|| FLA
+|| Oliver Ekman-Larsson
+|| Tripping
+|| 10:58
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Evan Bouchard
+|| Roughing
+|| 19:13
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Hooking
+|| 00:41
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Carter Verhaeghe]]
+|| Tripping
+|| 13:55
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Evan Bouchard
+|| Slashing
+|| 16:20
+|| 2:00
+|-style="text-align:center;"
+| rowspan="7"|'''3rd'''
+|| EDM
+|| [[Leon Draisaitl]]
+|| Roughing
+|| 10:32
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Evander Kane]]
+|| Unsportsmanlike conduct
+|| 13:14
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Brandon Montour]]
+|| Roughing
+|| 13:14
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Oliver Ekman-Larsson
+|| Delay of game (puck over glass)
+|| 15:06
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Sam Carrick]] (served by Evander Kane)
+|| Slashing
+|| 18:01
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Sam Carrick
+|| Misconduct
+|| 18:01
+|| 10:00
+|-style="text-align:center;"
+|| EDM
+|| [[Vincent Desharnais]]
+|| Misconduct
+|| 18:01
+|| 10:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game2"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||4 ||3 ||12 ||19
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||9 ||13 ||7 ||29
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=June 13
+|team1=Edmonton Oilers
+|team2=Florida Panthers
+|homeright=yes
+|stadium1=[[Rogers Place]]
+|score1=4–3
+|won1=2
+|recap1=www.nhl.com/news/florida-panthers-edmonton-oilers-game-3-recap-june-13
+}}
+[[File:Sasha Barkov.jpg|thumb|right|upright=.8|Panthers captain [[Aleksander Barkov]], pictured during warmups for game seven, recorded the game-winning goal and two points in game three.]]
+In game three, the Panthers opened the scoring in the first period when captain [[Aleksander Barkov]] picked the puck off Oilers defenceman [[Evan Bouchard]], leading to a 3-on-2 rush in which [[Gustav Forsling]] shot toward the net and [[Sam Reinhart]] tipped the puck past Oilers goaltender [[Stuart Skinner]].<ref>{{cite web|url=https://www.nhl.com/video/fla-edm-reinhart-scores-goal-against-stuart-skinner-6354974867112|title=Reinhart's opening tip-in goal|publisher=NHL Enterprises, L. P.|date=June 13, 2024|website=NHL.com|accessdate=June 13, 2024}}</ref> In the second period, Oilers forward [[Adam Henrique]] passed to [[Warren Foegele]], who scored on a [[Breakaway (ice hockey)|breakaway]] to tie the game 1–1.<ref>{{cite web|url=https://www.sportsnet.ca/nhl/video/foegele-zips-wrister-past-bobrovsky-for-breakaway-goal/|title=Foegele zips wrister past Bobrovsky for breakaway goal|publisher=Rogers Media|date=June 13, 2024|website=Sportsnet.ca|accessdate=June 13, 2024}}</ref> The Panthers regained the lead after [[Anton Lundell]] shot the puck around the boards and Skinner attempted to play the puck, but [[Eetu Luostarinen]] sent the puck to an open [[Vladimir Tarasenko]] who wristed the puck into the net.<ref>{{cite web|url=https://sports.yahoo.com/vladimir-tarasenko-goal-vs-edmonton-014207010.html|title=Vladimir Tarasenko with a Goal vs. Edmonton Oilers|date=June 13, 2024|website=[[Yahoo! Sports]]|accessdate=June 13, 2024}}</ref> Florida then made it 3–1, after [[Sam Bennett (ice hockey)|Sam Bennett]] and [[Matthew Tkachuk]] forced a turnover in the offensive zone, leading to a Tkachuk-assisted Bennett goal.<ref>{{cite web|url=https://www.sportsnet.ca/nhl/video/bennett-helps-force-turnover-before-burying-goal/|title=Bennett helps force turnover before burying goal|publisher=Rogers Media|date=June 13, 2024|website=Sportsnet.ca|accessdate=June 13, 2024}}</ref> Barkov shortly made it 4–1, snapping a shot past Skinner after receiving a pass from [[Evan Rodrigues]].<ref>{{cite web|url=https://sports.yahoo.com/aleksander-barkov-goal-vs-edmonton-015353985.html|title=Aleksander Barkov with a Goal vs. Edmonton Oilers|date=June 13, 2024|website=[[Yahoo! Sports]]|accessdate=June 13, 2024}}</ref> In the third period, [[Philip Broberg]] brought the deficit for the Oilers down to two when his snap shot went past Panthers goaltender [[Sergei Bobrovsky]].<ref>{{cite web|url=https://bleacherreport.com/videos/574088-philip-broberg-gets-on-the-board|archive-url=https://web.archive.org/web/20240614044448/https://bleacherreport.com/videos/574088-philip-broberg-gets-on-the-board|url-status=dead|archive-date=June 14, 2024|title=Philip Broberg Gets on the Board|publisher=Bleacher Report, Inc.|date=June 13, 2024|website=NHL.com|accessdate=June 13, 2024}}</ref> The Oilers then lowered the deficit to one goal when [[Brett Kulak]]'s shot was deflected in by centre [[Ryan McLeod]].<ref>{{cite web|url=https://www.nhl.com/video/fla-edm-mcleod-scores-goal-against-sergei-bobrovsky-6354977208112|title=McLeod scores tip-in goal|publisher=NHL Enterprises, L. P.|date=June 13, 2024|website=NHL.com|accessdate=June 13, 2024}}</ref> The Panthers ultimately defended their one-goal lead en route to a 4–3 victory, taking a 3–0 series lead.<ref name="Game3">{{cite web|url=https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-3-recap-june-13|title=Panthers hold off Oilers in Game 3, on verge of 1st Stanley Cup championship|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 13, 2024|website=NHL.com|accessdate=June 13, 2024}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="Game3"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| FLA
+|| [[Sam Reinhart]] (9)
+|| [[Gustav Forsling]] (8), [[Aleksander Barkov]] (14)
+|| 18:58
+|| 1–0 FLA
+|-style="text-align:center;"
+| rowspan="4"|'''2nd'''
+|| EDM
+|| [[Warren Foegele]] (2)
+|| [[Adam Henrique]] (3)
+|| 01:49
+|| 1–1
+|-style="text-align:center;"
+|| FLA
+|| [[Vladimir Tarasenko]] (4)
+|| [[Eetu Luostarinen]] (6), [[Anton Lundell]] (12)
+|| 09:12
+|| 2–1 FLA
+|-style="text-align:center;"
+|| FLA
+|| [[Sam Bennett (ice hockey)|Sam Bennett]] (7)
+|| [[Matthew Tkachuk]] (15)
+|| 13:57
+|| 3–1 FLA
+|-style="text-align:center;"
+|| FLA
+|| Aleksander Barkov (7)
+|| [[Evan Rodrigues]] (6), Sam Reinhart (6)
+|| 15:31
+|| 4–1 FLA
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| EDM
+|| [[Philip Broberg]] (2)
+|| [[Connor McDavid]] (28), [[Darnell Nurse]] (4)
+|| 06:02
+|| 4–2 FLA
+|-style="text-align:center;"
+|| EDM
+|| [[Ryan McLeod]] (2)
+|| [[Brett Kulak]] (5), Connor McDavid (29)
+|| 12:25
+|| 4–3 FLA
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="5"|'''1st'''
+|| EDM
+|| [[Ryan Nugent-Hopkins]]
+|| Interference
+|| 04:30
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Aleksander Barkov
+|| Delay of game (puck over glass)
+|| 09:55
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Brandon Montour]]
+|| Slashing
+|| 09:21
+|| 5:00
+|-style="text-align:center;"
+|| EDM
+|| Brett Kulak
+|| Roughing
+|| 18:31
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Roughing
+|| 18:31
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| FLA
+|| Sam Bennett
+|| Hooking
+|| 18:08
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Corey Perry]]
+|| Interference
+|| 18:08
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Aaron Ekblad]]
+|| Hooking
+|| 19:39
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game3"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||10 ||8 ||5 ||23
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||13 ||16 ||6 ||35
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=June 15
+|team1=Edmonton Oilers
+|team2=Florida Panthers
+|homeright=yes
+|stadium1=[[Rogers Place]]
+|score1=1–8
+|won1=1
+|recap1=www.nhl.com/news/florida-panthers-edmonton-oilers-game-4-recap-june-15
+}}
+[[File:Connor McDavid 2-FEB-2022.jpg|thumb|right|upright=.8|Oilers captain [[Connor McDavid]] recorded a goal and four points in game four, in the process breaking [[Wayne Gretzky]]'s single-playoff assist record.<ref name="McDavidGretz" />]]
+The Oilers began the scoring in the first period of game four while on the penalty kill, with forward [[Connor Brown (ice hockey)|Connor Brown]] passing to [[Mattias Janmark]] on a shorthanded rush for a goal.<ref>{{cite web|url=https://www.sportsnet.ca/nhl/video/oilers-janmark-pots-short-handed-goal-after-panthers-hit-pair-of-posts/|title=Oilers' Janmark pots short-handed goal after Panthers hit pair of posts|publisher=Rogers Media|date=June 15, 2024|website=Sportsnet.ca|accessdate=June 15, 2024}}</ref> Edmonton then gained a two-goal lead when an offensive zone rush allowed Janmark to send the puck toward the net, with [[Adam Henrique]] tipping it in to make it 2–0.<ref>{{cite web|url=https://www.espn.com/video/clip/_/id/40359673|title=Adam Henrique's goal puts Oilers up 2–0 in 1st|publisher=ESPN Enterprises Inc.|date=June 15, 2024|website=ESPN.com|accessdate=June 15, 2024}}</ref> The Panthers got on the board with a goal from forward [[Vladimir Tarasenko]], tipping in a shot from defenceman [[Gustav Forsling]].<ref>{{cite web|url=https://sports.yahoo.com/vladimir-tarasenko-goal-vs-edmonton-004536261.html|title=Vladimir Tarasenko with a Goal vs. Edmonton Oilers|date=June 15, 2024|website=[[Yahoo! Sports]]|accessdate=June 15, 2024}}</ref> With 5:12 left in the first period, the Oilers regained a two-goal lead when [[Leon Draisaitl]] passed to [[Dylan Holloway]], who shot backhand on Panthers goaltender [[Sergei Bobrovsky]] for a 3–1 lead.<ref>{{cite web|url=https://www.nhl.com/video/holloway-s-sweet-backhand-goal-asl-cast-6355108954112|title=Holloway's sweet backhand goal (ASL Cast)|publisher=NHL Enterprises, L. P.|date=June 15, 2024|website=NHL.com|accessdate=June 15, 2024}}</ref> In the second period, Oilers captain [[Connor McDavid]] made it 4–1, snapping a shot past Bobrovsky.<ref>{{cite web|url=https://www.tsn.ca/must-see/video/must-see-mcdavid-scores-his-first-goal-of-the-stanley-cup-final-to-make-it-4-1~2941087|title=Must See: McDavid scores his first goal of the Stanley Cup Final to make it 4–1|publisher=Bell Media|date=June 15, 2024|website=TSN.ca|accessdate=June 15, 2024}}</ref> The Oilers then made it 5–1 when McDavid dropped a pass to defenceman [[Darnell Nurse]], who shot it past Bobrovsky, leading to Panthers backup goaltender [[Anthony Stolarz]] entering the game.<ref>{{cite news|url=https://www.washingtonpost.com/sports/nhl/2024/06/15/sergei-bobrovsky-stanley-cup/f3531dee-2b81-11ef-835a-2a6acac1f8a6_story.html|title=Oilers chase Sergei Bobrovsky, scoring 5 goals on him in Game 4 of the Stanley Cup Final|last=Whyno|first=Stephen|newspaper=[[The Washington Post]]|date=June 15, 2024|accessdate=June 15, 2024}}</ref> The Oilers were then given a 5-on-3 power play, during which [[Ryan Nugent-Hopkins]] scored to make the score 6–1.<ref>{{cite web|url=https://www.tsn.ca/nhl/video/nugent-hopkins-taps-in-the-loose-puck-for-the-oilers-first-pp-go~2941085|title=Nugent-Hopkins taps in the loose puck for the Oilers first PP goal of the Stanley Cup Final|publisher=Bell Media|date=June 15, 2024|website=TSN.ca|accessdate=June 15, 2024}}</ref> In the third period, the Oilers continued their rout, with both Holloway and [[Ryan McLeod]] scoring to push the score to 8–1, forcing a fifth game and avoiding becoming the first team since {{scfy|1998}} to be [[Sweep (sports)|swept]] in the Stanley Cup Final.<ref name="McDavid record">{{cite web|url=https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-4-recap-june-15|title=McDavid sets playoff assist record, Oilers roll past Panthers in Game 4 of Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 15, 2024|website=NHL.com|accessdate=June 15, 2024}}</ref> With an assist on the Holloway goal, Connor McDavid set the single season playoff record for most assists in one playoff year, breaking the record previously held by [[Wayne Gretzky]] in [[1988 Stanley Cup playoffs|1988]].<ref name="McDavidGretz">{{cite news|url=https://www.nytimes.com/athletic/5567460/2024/06/15/connor-mcdavid-wayne-gretzky-assists-playoffs/|title=Connor McDavid breaks Wayne Gretzky's record for most assists in a single playoff|last=Nugent-Bowman|first=Daniel|newspaper=[[The New York Times]]|date=June 15, 2024|accessdate=June 15, 2024}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="McDavid record"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| EDM
+|| [[Mattias Janmark]] (3) – ''sh''
+|| [[Connor Brown (ice hockey)|Connor Brown]] (4)
+|| 03:11
+|| 1–0 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Adam Henrique]] (3)
+|| Mattias Janmark (3), [[Mattias Ekholm]] (4)
+|| 07:48
+|| 2–0 EDM
+|-style="text-align:center;"
+|| FLA
+|| [[Vladimir Tarasenko]] (5)
+|| [[Gustav Forsling]] (9)
+|| 11:26
+|| 2–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Dylan Holloway]] (4)
+|| [[Leon Draisaitl]] (19), [[Brett Kulak]] (6)
+|| 14:48
+|| 3–1 EDM
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| EDM
+|| [[Connor McDavid]] (6)
+|| [[Zach Hyman]] (5), [[Evan Bouchard]] (23)
+|| 01:13
+|| 4–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Darnell Nurse]] (1)
+|| Connor McDavid (30), Zach Hyman (6)
+|| 04:59
+|| 5–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Ryan Nugent-Hopkins]] (7) – ''pp''
+|| Leon Draisaitl (20), Connor McDavid (31)
+|| 13:03
+|| 6–1 EDM
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| EDM
+|| Dylan Holloway (5)
+|| Connor McDavid (32), [[Corey Perry]] (2)
+|| 14:11
+|| 7–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Ryan McLeod]] (3)
+|| Dylan Holloway (2), [[Warren Foegele]] (3)
+|| 16:41
+|| 8–1 EDM
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| EDM
+|| Darnell Nurse
+|| Tripping
+|| 01:53
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Bench (served by [[Evan Rodrigues]])
+|| Too many men on the ice
+|| 04:12
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| FLA
+|| [[Oliver Ekman-Larsson]]
+|| Slashing
+|| 08:40
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Roughing
+|| 11:35
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Sam Bennett (ice hockey)|Sam Bennett]]
+|| Roughing
+|| 11:35
+|| 2:00
+|-style="text-align:center;"
+| rowspan="5"|'''3rd'''
+|| EDM
+|| Mattias Janmark
+|| Tripping
+|| 00:36
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Darnell Nurse
+|| Cross-checking
+|| 06:51
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Aaron Ekblad]]
+|| Slashing
+|| 09:16
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Corey Perry
+|| Slashing
+|| 11:52
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Kyle Okposo]]
+|| Elbowing
+|| 16:59
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="McDavid record"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||14 ||4 ||15 ||33
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||12 ||17 ||9 ||36
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=June 18
+|team1=Florida Panthers
+|team2=Edmonton Oilers
+|homeright=yes
+|stadium1=[[Amerant Bank Arena]]
+|score1=5–3
+|won1=2
+|recap1=www.nhl.com/news/edmonton-oilers-florida-panthers-game-5-recap-june-18
+}}
+[[File:Evan Bouchard.jpg|thumb|right|upright=.8|[[Evan Bouchard]] (pictured with the [[Bakersfield Condors]]) recorded three assists in game 5.]]
+In game five, [[Connor Brown (ice hockey)|Connor Brown]] scored the initial goal for the Oilers in the first period, with his backhand shot beating goaltender [[Sergei Bobrovsky]] for a shorthanded goal.<ref>{{cite web|url=https://www.cbssports.com/fantasy/hockey/news/oilers-connor-brown-opens-scoring-with-shortie/|title=Oilers' Connor Brown: Opens scoring with shortie|publisher=CBS Interactive Inc.|date=June 18, 2024|website=[[CBS Sports]]|accessdate=June 18, 2024}}</ref> In the second period, the Oilers gained a two-goal lead when [[Zach Hyman]] scored on the power play. Three minutes later, Oilers forward [[Warren Foegele]] passed to captain [[Connor McDavid]], whose wrist shot beat Bobrovsky for a 3–0 lead.<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-mcdavid-scores-goal-against-sergei-bobrovsky-6355260631112|title=McDavid whips in wrister|publisher=NHL Enterprises, L. P.|date=June 18, 2024|website=NHL.com|accessdate=June 18, 2024}}</ref> The Panthers got on the board less than two minutes later when forward [[Evan Rodrigues]] passed to [[Matthew Tkachuk]], who scored to cut the deficit to two goals.<ref>{{cite AV media |author=SPORTSNET |title=Matthew Tkachuk Gives Panthers Life In Game 5 With Top Shelf Snipe|url=https://www.youtube.com/watch?v=-EePmIywyI4 |via=[[YouTube]]|language=en |format=video |date=June 18, 2024|accessdate=June 18, 2024}}</ref> Following a slashing penalty by Rodrigues, the Oilers regained a three-goal lead when McDavid passed to [[Corey Perry]], who scored his first goal of the playoffs.<ref>{{cite web|url=https://www.cbssports.com/fantasy/hockey/news/oilers-corey-perry-strikes-on-power-play/|title=Oilers' Corey Perry: Strikes on power play|publisher=CBS Interactive Inc.|date=June 19, 2024|website=[[CBS Sports]]|accessdate=June 19, 2024}}</ref> Fourteen seconds later, the Panthers brought the deficit back to two goals when [[Brandon Montour]] passed to Rodrigues, who scored to make it 4–2.<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-rodrigues-scores-goal-against-stuart-skinner-6355261557112|title=Rodrigues answers right back|publisher=NHL Enterprises, L. P.|date=June 18, 2024|website=NHL.com|accessdate=June 18, 2024}}</ref> In the third period, Florida defenceman [[Oliver Ekman-Larsson]] brought the score to 4–3, snapping the puck past Edmonton goalie [[Stuart Skinner]].<ref>{{cite web|url=https://sports.yahoo.com/oliver-ekman-larsson-goal-vs-022624891.html|title=Oliver Ekman-Larsson with a Goal vs. Edmonton Oilers|date=June 18, 2024|website=[[Yahoo! Sports]]|accessdate=June 18, 2024}}</ref> In the final 30 seconds, and with an extra attacker out for Florida, the Oilers cleared the puck toward the empty net, but Tkachuk dove to sweep the puck away.<ref name="G5_empt">{{cite web|url=https://www.nhl.com/video/edm-fla-mcdavid-scores-goal-against-florida-panthers-6355265644112|title=McDavid adds empty-net goal|publisher=NHL Enterprises, L. P.|date=June 18, 2024|website=NHL.com|accessdate=June 18, 2024}}</ref> McDavid recovered the puck and scored into the empty net to give Edmonton a 5–3 victory, forcing a sixth game.<ref name="G5_empt"/><ref name="Game5">{{cite web|url=https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-5-recap-june-18|title=Oilers hold off Panthers in Game 5, stay alive again in Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 18, 2024|website=NHL.com|accessdate=June 18, 2024}}</ref> Edmonton became the first team since the [[2011–12 New Jersey Devils season|2011–12 New Jersey Devils]] and the fourth overall to force a sixth game after being down 3–0 in the Final.<ref>{{cite web|url=https://www.nhl.com/news/nhl-morning-skate-for-june-20 |title=NHL Morning Skate for June 20 |website=NHL.com |date=June 20, 2024 |access-date=June 20, 2024 |quote=Edmonton became just the fourth team in NHL history to force Game 6 after trailing 3–0 in the Stanley Cup Final – and second in the past 78 years following the aforementioned 2012 Devils}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="Game5"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| EDM
+|| [[Connor Brown (ice hockey)|Connor Brown]] (2) – ''sh''
+|| ''Unassisted''
+|| 05:30
+|| 1–0 EDM
+|-style="text-align:center;"
+| rowspan="5"|'''2nd'''
+|| EDM
+|| [[Zach Hyman]] (15) – ''pp''
+|| [[Evan Bouchard]] (24), [[Connor McDavid]] (33)
+|| 01:58
+|| 2–0 EDM
+|-style="text-align:center;"
+|| EDM
+|| Connor McDavid (7)
+|| [[Warren Foegele]] (4), Evan Bouchard (25)
+|| 05:00
+|| 3–0 EDM
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]] (6)
+|| [[Evan Rodrigues]] (7)
+|| 06:53
+|| 3–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Corey Perry]] (1)
+|| Connor McDavid (34), Evan Bouchard (26)
+|| 11:54
+|| 4–1 EDM
+|-style="text-align:center;"
+|| FLA
+|| Evan Rodrigues (7)
+|| [[Brandon Montour]] (8), [[Sam Bennett (ice hockey)|Sam Bennett]] (7)
+|| 12:08
+|| 4–2 EDM
+|-style="text-align:center;"
+| rowspan="2"|'''3rd'''
+|| FLA
+|| [[Oliver Ekman-Larsson]] (2)
+|| Matthew Tkachuk (16)
+|| 04:04
+|| 4–3 EDM
+|-style="text-align:center;"
+|| EDM
+|| Connor McDavid (8) – ''en''
+|| ''Unassisted''
+|| 19:41
+|| 5–3 EDM
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| EDM
+|| [[Brett Kulak]]
+|| High-sticking
+|| 04:47
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Aleksander Barkov
+|| Cross checking
+|| 09:04
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Ryan Nugent-Hopkins]]
+|| Hooking
+|| 10:07
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Niko Mikkola]]
+|| Interference
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| FLA
+|| [[Kyle Okposo]]
+|| Hooking
+|| 10:02
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Evan Rodrigues
+|| Slashing
+|| 13:35
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| Zach Hyman
+|| Interference
+|| 14:26
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| EDM
+|| [[Dylan Holloway]]
+|| Hooking
+|| 00:36
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| Matthew Tkachuk
+|| Embellishment
+|| 06:19
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]]
+|| Tripping
+|| 12:28
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game5"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||10 ||10 ||4 ||24
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||6 ||16 ||10 ||32
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1=June 21
+|team1=Edmonton Oilers
+|team2=Florida Panthers
+|homeright=yes
+|stadium1=[[Rogers Place]]
+|score1=1–5
+|won1=1
+|recap1=www.nhl.com/news/florida-panthers-edmonton-oilers-game-6-recap-june-21
+}}
+[[File:Jaden Schwartz and Warren Foegele (cropped).jpg|thumb|right|upright=.8|[[Warren Foegele]] scored the game-opening goal and an assist in game six.]]
+The Oilers began the scoring in the first period of game six, with centre [[Leon Draisaitl]] passing to right wing [[Warren Foegele]] who snapped the puck past Florida goaltender [[Sergei Bobrovsky]].<ref>{{cite web|url=https://www.tsn.ca/nhl/warren-foegele-gives-oilers-1-0-lead-over-panthers-after-first-period-of-game-6-in-stanley-cup-final-1.2138300|title=Foegele gives Oilers 1–0 lead over Panthers after first period of Game 6|publisher=Bell Media|date=June 21, 2024|website=TSN.ca|accessdate=June 21, 2024}}</ref> Florida was limited to only two shots in the first period. In the second period, [[Mattias Ekholm]] sent a stretch pass to [[Mattias Janmark]], who then passed to [[Adam Henrique]]; Henrique subsequently beat Bobrovsky with a wrist shot for a 2–0 Oilers lead.<ref>{{cite web|url=https://www.nhl.com/video/fla-edm-henrique-scores-goal-against-sergei-bobrovsky-6355464353112|title=Henrique strikes early in 2nd|publisher=NHL Enterprises, L. P.|date=June 21, 2024|website=NHL.com|accessdate=June 21, 2024}}</ref> Ten seconds later, the Panthers had a goal by [[Aleksander Barkov]] disallowed when replay showed [[Sam Reinhart]] was [[Offside (ice hockey)|offside]] on the play.<ref>{{cite web|url=https://ftw.usatoday.com/2024/06/panthers-oilers-aleksander-barkov-goal-game-6-offside-stanley-cup-final|title=Aleksander Barkov's key Game 6 goal for the Panthers was called offside by the slimmest of margins|last=Clarke|first=Mary|date=June 21, 2024|website=[[USA Today]]|accessdate=June 21, 2024}}</ref> [[Zach Hyman]] then made it 3–0 for Edmonton when he scored backhand on a breakaway chance.<ref>{{cite web|url=https://www.nhl.com/video/fla-edm-hyman-scores-goal-against-sergei-bobrovsky-6355465928112|title=Hyman's breakaway goal|publisher=NHL Enterprises, L. P.|date=June 21, 2024|website=NHL.com|accessdate=June 21, 2024}}</ref> The Panthers were able to get on the board in the third period when Barkov dangled the puck around goaltender [[Stuart Skinner]].<ref>{{cite web|url=https://sports.yahoo.com/aleksander-barkov-spectacular-goal-edmonton-022820226.html|title=Aleksander Barkov with a Spectacular Goal from Edmonton Oilers vs. Florida Panthers|date=June 21, 2024|website=[[Yahoo! Sports]]|accessdate=June 21, 2024}}</ref> The Oilers held off the Panthers for the remainder of the game, with [[Ryan McLeod]] and [[Darnell Nurse]] each scoring an empty net goal for a 5–1 victory. Edmonton became the tenth NHL team to force a seventh game [[List of teams that have overcome 3–0 series deficits|after trailing 3–0]] in the series,<ref>{{cite web|last=Dubow|first=Josh|date=June 22, 2024|title=The Oilers join 9 other NHL teams that forced a Game 7 after trailing a series 3–0|url=https://apnews.com/article/stanley-cup-nhl-playoffs-comebacks-a5cf771afd8bb2e35954436209d1b117|accessdate=June 24, 2024|website=AP.com|publisher=Associated Press|language=en}}</ref> the third team to do so in the Final, and the first in the Final since the [[Detroit Red Wings]] did so in {{scfy|1945}}.<ref name="OilersForce7">{{cite web|url=https://www.nhl.com/news/florida-panthers-edmonton-oilers-game-6-recap-june-21|title=Oilers top Panthers again in Game 6, push Stanley Cup Final to limit|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 21, 2024|website=NHL.com|accessdate=June 21, 2024}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="OilersForce7"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| EDM
+|| [[Warren Foegele]] (3)
+|| [[Leon Draisaitl]] (21), [[Brett Kulak]] (7)
+|| 07:27
+|| 1–0 EDM
+|-style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| EDM
+|| [[Adam Henrique]] (4)
+|| [[Mattias Janmark]] (4), [[Mattias Ekholm]] (5)
+|| 00:46
+|| 2–0 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Zach Hyman]] (16)
+|| [[Ryan Nugent-Hopkins]] (15)
+|| 18:20
+|| 3–0 EDM
+|-style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| FLA
+|| [[Aleksander Barkov]] (8)
+|| [[Carter Verhaeghe]] (9), [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]] (1)
+|| 01:28
+|| 3–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Ryan McLeod]] (4) – ''en''
+|| Warren Foegele (5)
+|| 16:45
+|| 4–1 EDM
+|-style="text-align:center;"
+|| EDM
+|| [[Darnell Nurse]] (4) – ''en''
+|| [[Stuart Skinner]] (1), [[Philip Broberg]] (1)
+|| 16:57
+|| 5–1 EDM
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| EDM
+|| Mattias Janmark
+|| Slashing
+|| 04:47
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Eetu Luostarinen]]
+|| Slashing
+|| 15:23
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| EDM
+|| Mattias Janmark
+|| Roughing
+|| 03:05
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Roughing
+|| 03:05
+|| 2:00
+|-style="text-align:center;"
+|| EDM
+|| [[Connor McDavid]]
+|| Interference
+|| 14:26
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"|'''3rd'''
+|| EDM
+|| [[Derek Ryan (ice hockey)|Derek Ryan]]
+|| High-sticking
+|| 06:15
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Kevin Stenlund]]
+|| Tripping
+|| 11:30
+|| 2:00
+|-style="text-align:center;"
+|| FLA
+|| [[Ryan Lomberg]]
+|| Misconduct
+|| 19:51
+|| 10:00
+|-style="text-align:center;"
+|| EDM
+|| Ryan McLeod
+|| Misconduct
+|| 19:51
+|| 10:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="OilersForce7"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||2 ||11 ||8 ||21
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||11 ||4 ||6 ||21
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|date1=June 24
+|team1=Florida Panthers
+|team2=Edmonton Oilers
+|homeright=yes
+|stadium1=[[Amerant Bank Arena]]
+|score1=1–2
+|won1=1
+|recap1=www.nhl.com/news/edmonton-oilers-florida-panthers-game-7-recap-june-24
+}}
+[[File:Sam Reinhart - Buffalo Sabres.jpg|thumb|right|upright=.8|[[Sam Reinhart]] (pictured with the [[Buffalo Sabres]]) scored the Cup-winning goal in game seven.]]
+In game seven, the Panthers began the scoring when forward [[Evan Rodrigues]] shot toward the goal, with [[Carter Verhaeghe]] deflecting the puck past Oilers [[goaltender]] [[Stuart Skinner]].<ref>{{cite web|url=https://www.nhl.com/video/edm-fla-verhaeghe-scores-goal-against-stuart-skinner-6355630424112|title=Verhaeghe's opening tip-in goal|publisher=NHL Enterprises, L. P.|date=June 24, 2024|website=NHL.com|accessdate=June 24, 2024}}</ref> Oilers forward [[Mattias Janmark]] then tied the game, scoring on the breakaway after receiving a stretch pass from defenceman [[Cody Ceci]].<ref>{{cite web|url=https://www.nhl.com/oilers/video/edm-fla-janmark-scores-goal-against-sergei-bobrovsky-6355632586112|title=Janmark's breakaway goal|publisher=NHL Enterprises, L. P.|date=June 24, 2024|website=NHL.com|accessdate=June 24, 2024}}</ref> In the second period, after a narrow save by Bobrovsky, [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]] got the puck to Florida in the corner, Verhaeghe passed the puck to forward [[Sam Reinhart]], who fired a wrist shot past Skinner for a 2–1 lead.<ref>{{cite web|url=https://www.espn.com/video/clip/_/id/40425560|title=Sam Reinhart slots the second Florida goal|publisher=ESPN Enterprises, Inc.|date=June 24, 2024|website=ESPN.com|accessdate=June 24, 2024}}</ref> The Panthers defended their lead into the third period, with goaltender [[Sergei Bobrovsky]] stopping the remaining nine shots to win their first Stanley Cup.<ref name="Game7">{{cite web|url=https://www.nhl.com/news/edmonton-oilers-florida-panthers-game-7-recap-june-24|title=Panthers recover, defeat Oilers in Game 7 of Stanley Cup Final for 1st title|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=June 24, 2024|website=NHL.com|accessdate=June 24, 2024}}</ref>
+
+Panthers captain [[Aleksander Barkov]] became the first [[Finland|Finnish]]-born captain to win the Cup,<ref>{{cite web |last=Roarke |first=Shawn P. |date=June 25, 2024 |title=Barkov becomes 1st Finland-born NHL captain to win Stanley Cup |url=https://www.nhl.com/news/aleksander-barkov-first-finnish-born-nhl-captain-to-win-stanley-cup |access-date=July 14, 2024 |website=NHL.com |publisher=NHL Enterprises, L. P.}}</ref> while the Panthers became the first team to win game seven of the Final at home since the [[Carolina Hurricanes]] did so in [[2006 Stanley Cup Final|2006]], also against the Oilers.
+
+Oilers captain [[Connor McDavid]] was awarded the [[Conn Smythe Trophy]] as the [[most valuable player]] of the playoffs, becoming the first player since [[Jean-Sébastien Giguère|Jean-Sebastien Giguere]] in {{scfy|2003}} and the sixth overall to be awarded the Conn Smythe despite losing the Final. McDavid also joined [[Reggie Leach]] in {{scfy|1976}} as the only skaters to achieve this feat.<ref name="Game7"/><ref>{{Cite web|date=2024-06-24 |title=Edmonton Oilers' Connor McDavid wins Conn Smythe Trophy |url=https://www.tsn.ca/nhl/edmonton-oilers-connor-mcdavid-wins-conn-smythe-trophy-1.2139646 |access-date=2024-06-25 |website=TSN.ca |language=en-CA}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary<ref name="Game7"/>
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| FLA
+|| [[Carter Verhaeghe]] (11)
+|| [[Evan Rodrigues]] (8), [[Anton Lundell]] (14)
+|| 04:27
+|| 1–0 FLA
+|-style="text-align:center;"
+|| EDM
+|| [[Mattias Janmark]] (4)
+|| [[Cody Ceci]] (8)
+|| 06:44
+|| 1–1
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| FLA
+|| [[Sam Reinhart]] (10)
+|| Carter Verhaeghe (10), [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]] (2)
+|| 15:11
+|| 2–1 FLA
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| EDM
+|| [[Warren Foegele]]
+|| High-sticking
+|| 02:21
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| FLA
+|| [[Matthew Tkachuk]]
+|| Tripping
+|| 03:22
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| EDM
+|| [[Evan Bouchard]]
+|| High-sticking
+|| 03:23
+|| 2:00
+|}
+{| class="wikitable" style="width:20em;"
+|-
+! colspan="6"|Shots by period<ref name="Game7"/>
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|EDM}} ||6 ||9 ||9 ||24
+|-style="text-align:center;"
+| style="text-align:left;"|{{nowrap|FLA}} ||7 ||10 ||4 ||21
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Edmonton Oilers===
+[[File: Connor McDavid 2-FEB-2022.jpg |right|thumb|250px|[[Connor McDavid]] captained the Oilers to their eighth Final appearance and first since [[2006 Stanley Cup Final|2006]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''2''' 
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Evan|Bouchard}}
+| D
+| R
+| {{hs|24–114}}24
+| [[2018 NHL entry draft|2018]]
+| style="text-align:left;"|[[Oakville, Ontario]]
+| first
+|-
+| '''86''' 
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Philip|Broberg}}
+| D
+| L
+| {{hs|22–322}}22
+| [[2019 NHL entry draft|2019]]
+| style="text-align:left;"|[[Örebro|Orebro, Sweden]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Connor|Brown|dab=ice hockey}}
+| RW
+| R
+| {{hs|30–012}}30
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first
+|-
+| '''39'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Carrick}}
+| C
+| R
+| {{hs|32–320}}32
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cody|Ceci}}
+| D
+| R
+| {{hs|30–106}}30
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''73'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Vincent|Desharnais}}
+| D
+| R
+| {{hs|28–121}}28
+| [[2016 NHL entry draft|2016]]
+| style="text-align:left;"|[[Laval, Quebec]]
+| first
+|-
+| '''29'''
+| {{flagicon|GER}}
+! scope="row" style="text-align:left;"|{{sortname|Leon|Draisaitl}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|28–349}}28
+| [[2014 NHL entry draft|2014]]
+| style="text-align:left;"|[[Cologne|Cologne, Germany]]
+| first
+|-
+| '''14'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mattias|Ekholm}}
+| D
+| L
+| {{hs|34–004}}34
+| [[2022–23 NHL season|2023]]
+| style="text-align:left;"|[[Borlänge|Borlange, Sweden]]
+| second {{small|([[2017 Stanley Cup Final|2017]])}}<ref>{{cite web |title=Pittsburgh Penguins – Nashville Predators – June 11th, 2017 |url=https://www.nhl.com/gamecenter/nsh-vs-pit/2017/06/11/2016030416 |website=NHL.com |access-date=June 3, 2024 |date=June 11, 2017}}</ref>
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Warren|Foegele}}
+| LW
+| L
+| {{hs|28–292}}28
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Henrique}}
+| C
+| L
+| {{hs|34–150}}34
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Brantford|Brantford, Ontario]]
+| second {{small|([[2012 Stanley Cup Final|2012]])}}<ref>{{cite web |title=New Jersey Devils – Los Angeles Kings – June 11th, 2012 |url=https://www.nhl.com/gamecenter/lak-vs-njd/2012/06/11/2011030416 |website=NHL.com |access-date=June 3, 2024 |date=June 11, 2012}}</ref>
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dylan|Holloway}}
+| LW
+| L
+| {{hs|22–208}}22
+| [[2020 NHL entry draft|2020]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Hyman}}
+| LW
+| R
+| {{hs|32–038}}32
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''13'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mattias|Janmark}}
+| C
+| L
+| {{hs|31–136}}31
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Danderyd Municipality|Danderyd, Sweden]]
+| second {{small|([[2020 Stanley Cup Final|2020]])}}<ref name="2020SCF">{{cite web |url=https://www.nhl.com/gamecenter/dal-vs-tbl/2020/09/26/2019030415#game=2019030415,game_state=final,game_tab=stats |title=Dallas Stars – Tampa Bay Lightning – September 26, 2020 |website=NHL.com |access-date=June 2, 2024 |archive-date=September 23, 2022 |archive-url=https://web.archive.org/web/20220923192331/https://www.nhl.com/gamecenter/dal-vs-tbl/2020/09/26/2019030415#game=2019030415,game_state=final,game_tab=stats |url-status=live }}</ref>
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Evander|Kane}}
+| LW
+| L
+| {{hs|32–074}}32
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Vancouver|Vancouver, British Columbia]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Kulak}}
+| D
+| L
+| {{hs|30–047}}30
+| [[2021–22 NHL season|2022]]
+| style="text-align:left;"|[[Stony Plain, Alberta]]
+| second {{small|([[2021 Stanley Cup Final|2021]])}}<ref name="MTL2021">{{cite web |title=Montreal Canadiens – Tampa Bay Lightning – July 7th, 2021 |url=https://www.nhl.com/gamecenter/mtl-vs-tbl/2021/07/07/2020030415/recap |website=NHL.com |access-date=June 3, 2024 |date=July 7, 2021}}</ref>
+|-
+| '''97'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Connor|McDavid}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|27–112}}27
+| [[2015 NHL entry draft|2015]]
+| style="text-align:left;"|[[Richmond Hill, Ontario]]
+| first
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|McLeod}}
+| C
+| L
+| {{hs|24–312}}24
+| [[2018 NHL entry draft|2018]]
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| first
+|-
+| '''93'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Nugent-Hopkins}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|31–105}}31
+| [[2011 NHL entry draft|2011]]
+| style="text-align:left;"|[[Burnaby|Burnaby, British Columbia]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Darnell|Nurse}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|29–184}}29
+| [[2013 NHL entry draft|2013]]
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| first
+|-
+| '''90'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Perry}}
+| RW
+| R
+| {{hs|39–182}}39
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[New Liskeard, Ontario]]
+| fifth {{small|('''[[2007 Stanley Cup Final|2007]]''', [[2020 Stanley Cup Final|2020]], [[2021 Stanley Cup Final|2021]], [[2022 Stanley Cup Final|2022]])}}<ref>{{cite web |title=Ottawa Senators – Anaheim Ducks – June 6th, 2007 |url=https://www.nhl.com/gamecenter/ana-vs-ott/2007/06/06/2006030415/recap |website=NHL.com |access-date=June 3, 2024 |date=June 6, 2007}}</ref><ref name="2020SCF" /><ref name="MTL2021" /><ref>{{cite web |title=Colorado Avalanche – Tampa Bay Lightning – June 26th, 2022 |url=https://www.nhl.com/gamecenter/col-vs-tbl/2022/06/26/2021030416 |website=NHL.com |access-date=June 3, 2024 |date=June 26, 2022}}</ref>
+|- 
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Calvin|Pickard}}
+| G
+| L
+| {{hs|32–132}}32
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Moncton|Moncton, New Brunswick]]
+| first
+|-
+| '''10'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Derek|Ryan|dab=ice hockey}}
+| C
+| R
+| {{hs|37–201}}37
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[Spokane, Washington]]
+| first
+|-
+| '''74'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stuart|Skinner}}
+| G
+| L
+| {{hs|25–310}}25
+| [[2017 NHL entry draft|2017]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|}
+
+===Florida Panthers===
+[[File:Headshot of Aleksander Barkov.jpg|right|thumb|250px|[[Aleksander Barkov]] captained the Panthers to their second consecutive and third overall Final appearance.]]
+<ref>{{cite web|title=Florida Panthers Roster |url=https://www.nhl.com/panthers/roster |publisher=NHL Enterprises, L. P. |accessdate=June 2, 2024}}</ref>
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''16'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Aleksander|Barkov}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|28–114}}28
+| [[2013 NHL entry draft|2013]]
+| style="text-align:left;"|[[Tampere|Tampere, Finland]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023">{{cite web |title=Florida Panthers – Vegas Golden Knights – June 13th, 2023 |url=https://www.nhl.com/gamecenter/fla-vs-vgk/2023/06/13/2022030415 |website=NHL.com |access-date=June 13, 2023 |date=June 13, 2023}}</ref>
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Bennett|dab=ice hockey}}
+| C
+| L
+| {{hs|28–022}}28
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[East Gwillimbury|East Gwillimbury, Ontario]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''72'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Bobrovsky}}
+| G
+| L
+| {{hs|35–212}}35
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Novokuznetsk|Novokuznetsk, Soviet Union]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Cousins}}
+| C
+| L
+| {{hs|30–320}}30
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Belleville, Ontario]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Aaron|Ekblad}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{hs|28–106}}28
+| [[2014 NHL entry draft|2014]]
+| style="text-align:left;"|[[Windsor, Ontario]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''91'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Oliver|Ekman-Larsson}}
+| D
+| L
+| {{hs|32–221}}32
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Karlskrona|Karlskrona, Sweden]]
+| first
+|-
+| '''42'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Gustav|Forsling}}
+| D
+| L
+| {{hs|28–049}}28
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Linköping|Linköping, Sweden]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jonah|Gadjovich}}
+| LW
+| L
+| {{hs|27–108}}27
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Whitby, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''7'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Dmitry|Kulikov|dab=ice hockey}}
+| D
+| L
+| {{hs|33–204}}33
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Lipetsk|Lipetsk, Soviet Union]]
+| first
+|-
+| '''94'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Lomberg}}
+| LW
+| L
+| {{hs|29–192}}29
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Richmond Hill, Ontario]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Lorentz}}
+| C
+| L
+| {{hs|28–080}}28
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Anton|Lundell}}
+| C
+| L
+| {{hs|22–208}}22
+| [[2020 NHL entry draft|2020]]
+| style="text-align:left;"|[[Espoo|Espoo, Finland]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''27'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Eetu|Luostarinen}}
+| C
+| L
+| {{hs|25–278}}25
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Siilinjärvi|Siilinjärvi, Finland]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Josh|Mahura}}
+| D
+| L
+| {{hs|26–055}}26
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[St. Albert, Alberta]]
+| first {{small|(did not play)}}
+|-
+| '''77'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Niko|Mikkola}}
+| D
+| L
+| {{hs|28–076}}28
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Kiiminki|Kiiminki, Finland]]
+| first
+|-
+| '''62'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Montour}}
+| D
+| R
+| {{hs|30–034}}30
+| [[2020–21 NHL season|2021]]
+| style="text-align:left;"|[[Ohsweken, Ontario]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''8'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kyle|Okposo}}
+| RW
+| R
+| {{hs|36–047}}36
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| first
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sam|Reinhart}}
+| C
+| R
+| {{hs|28–112}}28
+| [[2021–22 NHL season|2021]]
+| style="text-align:left;"|[[North Vancouver (city)|North Vancouver, British Columbia]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Evan|Rodrigues}}
+| C
+| R
+| {{hs|30–212}}30
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Etobicoke|Etobicoke, Ontario]]
+| first
+|-
+| '''82'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Stenlund}}
+| C
+| R
+| {{hs|27–205}}27
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+| '''41'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Stolarz}}
+| G
+| L
+| {{hs|30–184}}30
+| [[2023–24 NHL season|2023]]
+| style="text-align:left;"|[[Edison, New Jersey]]
+| first
+|-
+| '''10'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Tarasenko}}
+| RW
+| R
+| {{hs|32–182}}32
+| [[2023–24 NHL season|2024]]
+| style="text-align:left;"|[[Yaroslavl|Yaroslavl, Soviet Union]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}<ref>{{Cite web|url=https://www.nhl.com/gamecenter/bos-vs-stl/2019/06/12/2018030417|title=St. Louis Blues – Boston Bruins – June 12th, 2019|website=NHL.com |access-date=June 2, 2024}}</ref>
+|-
+| '''19'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matthew|Tkachuk}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|26–132}}26
+| [[2022–23 NHL season|2022]]
+| style="text-align:left;"|[[Scottsdale, Arizona]]
+| second {{small|([[2023 Stanley Cup Final|2023]])}}<ref name="FLA2023" />
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carter|Verhaeghe}}
+| C
+| L
+| {{hs|28–301}}28
+| [[2020–21 NHL season|2020]]
+| style="text-align:left;"|[[Waterdown, Ontario]]
+| third {{small|('''[[2020 Stanley Cup Final|2020]]''', [[2023 Stanley Cup Final|2023]])}}<ref name="2020SCF" /><ref name="FLA2023" />
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Panthers captain Aleksander Barkov by [[NHL commissioner]] [[Gary Bettman]] following the Panthers' 2–1 win in game seven.
+
+The following Panthers players and staff had their names engraved on the Stanley Cup:<ref>{{cite web |last=Kulesa |first=Anna |url=https://www.nhl.com/news/florida-panthers-engraved-on-stanley-cup/ |title=Panthers' names engraved on Stanley Cup |website=NHL.com |date=July 13, 2024 |access-date=July 14, 2024 |archive-url=https://web.archive.org/web/20240714184728/https://www.nhl.com/news/florida-panthers-engraved-on-stanley-cup |archive-date=July 14, 2024}}</ref><ref>{{cite web |last=Horwat |first=Nick |url=https://www.si.com/onsi/breakaway/news-feed-page/posts/florida-panthers-names-engraved-stanley-cup |title=Panthers Names Engraved on Stanley Cup |website=[[SI.com]] |date=July 13, 2024 |access-date=July 14, 2024 |archive-url=https://web.archive.org/web/20240714185233/https://www.si.com/onsi/breakaway/news-feed-page/posts/florida-panthers-names-engraved-stanley-cup |archive-date=July 14, 2024}}</ref>
+
+'''2023–24 Florida Panthers'''
+{{Stanley Cup champion
+|defence=
+*5 [[Aaron Ekblad]] (A)
+*7 [[Dmitry Kulikov (ice hockey)|Dmitry Kulikov]]
+*28 [[Josh Mahura]] †
+*42 [[Gustav Forsling]]
+*62 [[Brandon Montour]]
+*77 [[Niko Mikkola]]
+*91 [[Oliver Ekman-Larsson]]
+|wingers=
+*8 [[Kyle Okposo]]
+*10 [[Vladimir Tarasenko]]
+*12 [[Jonah Gadjovich]] †
+*19 [[Matthew Tkachuk]] (A)
+*94 [[Ryan Lomberg]]
+|centres=
+*9 [[Sam Bennett (ice hockey)|Sam Bennett]]*
+*13 [[Sam Reinhart]]* 
+*15 [[Anton Lundell]]
+*16 [[Aleksander Barkov]] (Captain)
+*17 [[Evan Rodrigues]]*
+*18 [[Steven Lorentz]]*
+*21 [[Nick Cousins]]* 
+*23 [[Carter Verhaeghe]]*
+*27 [[Eetu Luostarinen]]*
+*82 [[Kevin Stenlund]]
+|goaltenders=
+*41 [[Anthony Stolarz]]
+*72 [[Sergei Bobrovsky]]
+|player-notes=
+* * Played both centre and wing.
+* † Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Vincent Viola]] (Owner/Chairman/Governor), Teresa Viola (Alternate Governor), John Viola (Alternate Governor), Michael Viola (Alternate Governor)
+* Travis Viola (Alternate Governor), [[Douglas Cifu|Doug Cifu]] (Vice Chairman/Alternate Governor), [[Bill Zito]] (President of Hockey Operations/General Manager/Alternate Governor), [[Paul Maurice]] (Head Coach)
+* John Congemi (Asst. Video Coach), Myles Fee (Asst. Coach), Jamie Kompon (Asst. Coach), [[Sylvain Lefebvre]] (Asst. Coach)
+* Teddy Richards (Head Equipment Manager), [[Tuomo Ruutu]] (Asst. Coach), [[Rob Tallas|Robb Tallas]] (Goaltending Coach), [[Rick Dudley]] (Senior Advisor to the General Manager)
+* [[Paul Fenton (ice hockey)|Paul Fenton]] (Senior Advisor to the General Manager), [[Patric Hörnqvist|Patric Hornqvist]] (Scouting and Development Consultant), [[Les Jackson (ice hockey)|Les Jackson]] (Senior Advisor to the General Manager), [[Gregory Campbell (ice hockey)|Gregory Campbell]] (Asst. General Manager)
+* [[Roberto Luongo]] (Special Advisor to the General Manager), Paul Krepelka (Senior Vice President, Hockey Operations), [[Sunny Mehta]] (Asst. General Manager/Head of Analytics), Brett Peterson (Asst. General Manager)
+* Dave DiNapoli (Head Athletic Trainer), Chris McLellan (Vice President of Sports Performance/Strength and Conditioning Coach), [[Braden Birch]] (Director of Hockey Operations & Salary Cap Management), [[Bryan McCabe]] (Director of Player Personnel)
+* Matt Caldwell (President/CEO/Alternate Governor)}}
+===Engraving notes===
+<!--Ordered by total GP in 2023-24, regular-season and playoffs. Criteria for automatic qualification are, per the NHL: playing in/dressing for at least one Stanley Cup Final game OR playing in/dressing for at least half of the championship team's regular season games.-->
+* #12 [[Jonah Gadjovich]] (LW) played in 39 regular season games for Florida. He was a healthy scratch for the entire playoffs. #28 [[Josh Mahura]] (D) played in 30 regular season games for Florida. He missed the entire playoffs due to injury. As they did not automatically qualify,{{efn|name=qualify}} Florida successfully requested an exemption to engrave their names.<ref>{{cite news|last=Dwork|first=David|date=June 29, 2025|title=Stanley Cup heading to Montreal, will soon have names of 2024-25 Florida Panthers engraved onto it|url=https://sports.yahoo.com/article/stanley-cup-heading-montreal-soon-053529207.html|publisher=The Hockey News|access-date=July 23, 2025}}</ref>
+* [[Sam Reinhart]] was engraved as his full first name of Samson, while [[Nick Cousins]] was engraved as his full first name of Nicholas.
+* [[Carter Verhaeghe]] became the first player to have his name engraved on the Stanley Cup with both teams from the State of Florida. His name is also on the Stanley Cup with [[Tampa Bay Lightning|Tampa Bay]] in {{scfy|2020}}.
+* Due to the high number of non-playing members, six training/equipment personnel had to be left off the Stanley Cup. They were included on the team picture and got Stanley Cup Rings: Brian Riedel (Asst. Athletic Trainer), Anthony Moore (Asst. Strength & Conditioning Coach), Thomas Anderson (Asst. Equipment Manager), Dakota King (Asst. Equipment Manager), Mike Valcy (Massage Therapist). Also left off were [[Shane Churla]] (Director, Amateur Scouting) and Tim Wittenauer (Director of Sports Performance and Rehabilitation). When Florida the Stanley Cup for the second straight year in {{scfy|2025}}, winning its second title; Riedel, Anderson, King, Valcy, Churla, and Wittenauer were included on the 2025 title engraving. Moore was not part of the 2025 team.<ref>{{cite web|last=Dwork|first=David|date=July 12, 2025|title=Names of Florida Panthers added to Stanley Cup for second straight year|url=https://ca.sports.yahoo.com/news/names-florida-panthers-added-stanley-163719812.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABzyQsEtOZpRj3FiBHCTq82khgxuWyhfA0mxPVKR28-mN9dYl76ePydMUJx_jOPyMAqyK6Gs5YAOgW12SzV_OtKJdCXSzDoDoWGGelZHS15gX-URrODm01CDQlGTIW6hepn-1ooXMLKBibEDHzwwAapbJ8Y8rNk4xpGcolQWqamf|publisher=The Hockey News|access-date=July 17, 2025}}</ref>
+* [[Roberto Luongo]]'s name engraved on the Stanley Cup for the first time. As a player, he was on the losing team in the Final in {{scfy|2011}}. He was also on the losing team in the Final as an executive in {{scfy|2023}}.<ref name="LuongoHornqvist">[https://www.si.com/onsi/breakaway/news-feed-page/posts/florida-panthers-names-engraved-stanley-cup Panthers Names Engraved on Stanley Cup]</ref> 
+* [[Patric Hornqvist]] had his name engraved on the Stanley Cup in {{scfy|2016}} and {{scfy|2017}} with [[Pittsburgh Penguins|Pittsburgh]] as a player. As a scouting and development consultant, his name was engraved with Florida in 2024.<ref name="LuongoHornqvist"/>
+* 53 total names were engraved on the Cup, rather than the standard 52. For unknown reasons, team president and CEO Matt Caldwell was engraved below the players, rather than with the executives and coaches.
+
+===Player notes===
+<!--Listed in order by NHL GP during the 2023–24 NHL season, then AHL GP only if no NHL GP.-->
+Eleven players on the roster during the Final were left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}}<ref>{{cite web |url=https://www.nhl.com/scores/htmlreports/20232024/RO030415.HTM|title=Roster Report, Edmonton Oilers vs. Florida Panthers – June 18, 2024 |website=NHL.com |date=May 6, 2024 |access-date=May 11, 2025}}</ref> None played in or dressed for any playoff games. They received championship rings.
+
+;Included in team picture
+* #26 [[Uvis Balinskis]] (D) – 26 regular season games
+* #2 [[Tobias Björnfot|Tobias Bjornfot]] (D) – 1 regular season game with Florida, 2 with [[Vegas Golden Knights|Vegas]], and 1 with [[Los Angeles Kings|Los Angeles]]
+* #30 [[Spencer Knight]] (G) – 0 regular season games, 45 with Charlotte of the AHL
+
+;Not in team picture
+* #67 [[Will Lockwood (ice hockey)|Will Lockwood]] (RW) – 26 regular season games
+* #25 [[Mackie Samoskevich]] (RW) – 7 regular season games
+* #24 [[Justin Sourdif]] (RW) – 3 regular season games
+* #35 [[Magnus Hellberg]] (G) – 0 regular season games with Florida, 3 with [[Pittsburgh Penguins|Pittsburgh]]
+* #44 [[Michael Benning|Mike Benning]] (D) – 0 regular season games, 72 with [[Charlotte Checkers|Charlotte]] of the [[American Hockey League|AHL]] 
+* #74 [[Rasmus Asplund]] (C) – 0 regular season games, 67 with Charlotte of the AHL
+* #36 [[Patrick Giles (ice hockey)|Patrick Giles]] (RW) – 0 regular season games, 66 with Charlotte of the AHL
+* #3 [[Matt Kiersted]] (D) –  0 regular season games, 57 with Charlotte of the AHL
+
+==Media rights==
+In Canada, this was the tenth consecutive Stanley Cup Final broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]], and [[TVA Sports]] in [[French language|French]].<ref name="schedule"/> The series was also streamed on [[Sportsnet+]], but was not available on [[CBC Gem]] like in previous years.<ref>{{cite web|url=https://cbchelp.cbc.ca/hc/en-ca/articles/25570328529435-Where-can-I-watch-the-NHL-playoffs|title=Where can I watch the NHL playoffs?|website=cbchelp.cbc.ca|access-date=May 30, 2024}}</ref>
+
+In the United States, the series was being televised on [[NHL on ABC|ABC]] and streamed on [[ESPN+]].<ref name="schedule"/> This was the third year of a seven-year deal in which ABC has the Final in even years and [[NHL on TNT|TNT]] has the series in odd years.<ref>{{Cite web |last=Bucholtz |first=Andrew |date=May 2, 2022 |title=First NHL playoffs under ESPN/Turner deal has all games set for big networks despite NBA |url=https://awfulannouncing.com/nhl/first-nhl-playoffs-espn-turner-big-networks-overflow.html |access-date=August 20, 2024 |website=Awful Announcing |language=en-US}}</ref><ref name=":1">{{Cite web |last=Shapiro |first=Sean |title=NHL Playoffs: Where and how to watch on TV and streaming platforms in the U.S. |url=https://www.nytimes.com/athletic/3281530/2022/05/02/nhl-playoffs-viewing-guide-where-and-how-to-watch-playoff-hockey-on-tv-and-streaming-platforms-in-the-u-s/ |access-date=August 20, 2024 |work=[[The Athletic]]|publisher=The Athletic Media Company |language=en|date=May 2, 2022}}</ref>
+
+For the first time, the Final were broadcast with commentary and analysis in [[American Sign Language]] for the benefit of the [[Deaf culture|Deaf community]] on both ESPN+ and Sportsnet+.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/40282701/stanley-cup-final-offer-american-sign-language-broadcast|title=Stanley Cup Final to offer American Sign Language broadcast|last=Wyshnyski|first=Greg|publisher=ESPN Enterprises Inc.|date=June 5, 2024|website=ESPN.com|accessdate=June 5, 2024}}</ref><ref>{{cite web|url=https://www.cbc.ca/sports/hockey/nhl/american-sign-language-stanley-cup-final-nhl-oilers-panthers-1.7225337|title=NHL 1st major sports league to broadcast games in American Sign Language|last=Whyno|first=Stephen|publisher=CBC/Radio-Canada|date=June 5, 2024|website=CBC.ca|accessdate=June 5, 2024}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.nhl.com/playoffs/2024/series-o-coverage Coverage from the NHL]
+{{s-start}}
+{{succession box | before = [[2023 Stanley Cup Final|Vegas Golden Knights<br />2023]] | title = [[List of Stanley Cup champions|Florida Panthers<br />Stanley Cup champions]] | years = 2024 | after = [[2025 Stanley Cup Final|Florida Panthers<br />2025]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Florida Panthers}}
+{{Edmonton Oilers}}
+{{2023–24 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on Sportsnet}}
+{{NHL on ABC}}
+}}
+{{Authority control}}
+
+[[Category:2020s in Edmonton]]
+[[Category:2023–24 NHL season|Stanley Cup Final]]
+[[Category:2024 in sports in Alberta|Stanley Cup Final]]
+[[Category:2024 in sports in Florida|Stanley Cup Final]]
+[[Category:2024 Stanley Cup| ]]
+[[Category:2024 in Broward County, Florida]]
+[[Category:Edmonton Oilers games]]
+[[Category:Florida Panthers games]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:Ice hockey competitions in Florida]]
+[[Category:June 2024 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2024 sports events in Canada|Stanley Cup Final]]
+[[Category:Sports competitions in Sunrise, Florida]]
+[[Category:Stanley Cup Finals]]

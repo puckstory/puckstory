@@ -1,0 +1,292 @@
+{{Short description|1976 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1976
+|image=
+|team1='''[[1975–76 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal
+|team1_captain=[[Yvan Cournoyer]]
+|team1_national_anthem = [[Roger Doucet]]
+|team1_coach=[[Scotty Bowman]]
+|team2=[[1975–76 Philadelphia Flyers season|Philadelphia Flyers]]
+|team2_short=Philadelphia
+|team2_coach=[[Fred Shero]]
+|team2_captain=[[Bobby Clarke]]
+|team2_national_anthem = [[Kate Smith]]
+|referees=[[Ron Wicks]] (1)<br/>Dave Newell (2)<br/>[[Wally Harris (referee)|Wally Harris]] (3)<br/>Lloyd Gilmour (4)
+|series_winner=[[Guy Lafleur]] (14:18, third)
+|dates=May 9–16, 1976
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2)
+|location2=[[Philadelphia]]: [[Spectrum (arena)|Spectrum]] (3, 4)
+|mvp=[[Reggie Leach]] (Flyers)
+|team1_1='''4'''
+|team1_2='''2'''
+|team1_3='''3'''
+|team1_4='''5'''
+|team1_tot=4
+|team2_1=3
+|team2_2=1
+|team2_3=2
+|team2_4=3
+|team2_tot=0
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL Network (1975 TV program)|NHL Network]] (national), [[WTXF-TV]] (Philadelphia)
+|net_announcers=(CBC) [[Danny Gallivan]] and [[Dick Irvin Jr.]]<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(NHLN) [[Marv Albert]] (1, 3–4), [[Ted Darling]] (2), [[Stan Mikita]] (1), [[Garry Unger]] (2), [[Chico Resch]] (3), and [[Curt Bennett]] (4)<br>(WTXF-TV) [[Don Earle]] and [[Gene Hart]]
+|hofers='''Canadiens:'''<br/>[[Yvan Cournoyer]] (1982)<br/>[[Ken Dryden]] (1983)<br/>[[Bob Gainey]] (1992)<br/>[[Guy Lafleur]] (1988)<br/>[[Guy Lapointe]] (1993)<br/>[[Jacques Lemaire]] (1984)<br/>[[Larry Robinson]] (1995)<br/>[[Serge Savard]] (1986)<br/>[[Steve Shutt]] (1993)<br/>'''Flyers:'''<br/>[[Bill Barber]] (1990)<br/>[[Bobby Clarke]] (1987)<br/>[[Bernie Parent]] (1984)<br/>'''Coaches:'''<br/>[[Scotty Bowman]] (1991)<br/>[[Fred Shero]] (2013)
+}}
+The '''1976 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1975–76 NHL season|1975–76 season]], and the culmination of the [[1976 Stanley Cup playoffs]]. It was contested by the two-time defending Stanley Cup champion [[1975–76 Philadelphia Flyers season|Philadelphia Flyers]], making their third consecutive finals appearance, and the [[1975–76 Montreal Canadiens season|Montreal Canadiens]]. This was the Canadiens first appearance in the Final since their Cup win in {{scfy|1973}}. The Canadiens swept the series to win their 19th Stanley Cup in franchise history, denying the Flyers a three-peat.
+
+This marked the first of what is currently six consecutive losses in the Cup Final for the Flyers, as they would lose in the Final again in [[1980 Stanley Cup Final|1980]],  [[1985 Stanley Cup Final|1985]],  [[1987 Stanley Cup Final|1987]], [[1997 Stanley Cup Final|1997]], and [[2010 Stanley Cup Final|2010]].
+
+==Paths to the Finals==
+Montreal defeated the [[Chicago Blackhawks|Chicago Black Hawks]] 4–0 and the [[New York Islanders]] 4–1 to advance to the final.
+
+Philadelphia defeated the [[Toronto Maple Leafs]] 4–3 and the [[Boston Bruins]] 4–1 to make it to the final.
+
+==Game summaries==
+[[Guy Lafleur]] scored the first two finals goals in his career, both game-winners.
+
+[[Reggie Leach]] scored four goals in the Finals, and nineteen times in total in the playoffs to win the [[Conn Smythe Trophy]] even though the Flyers lost the Cup to the Canadiens. He is one of the only two non-goaltenders in NHL history to be named MVP of the playoffs in an unsuccessful cause, and the third of only six as of today. His accomplishment followed [[Roger Crozier]] ([[Detroit Red Wings]], in {{scfy|1966}}) and [[Glenn Hall]] ([[St. Louis Blues]], {{scfy|1968}}) and preceded [[Ron Hextall]] (Philadelphia, {{scfy|1987}}), [[Jean-Sebastien Giguere]] ([[Anaheim Ducks|Mighty Ducks of Anaheim]], {{scfy|2003}}) and [[Connor McDavid]] ([[Edmonton Oilers]], {{scfy|2024}}).
+
+{{NHLPlayoffs
+|team1=Philadelphia Flyers
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Spectrum (arena)|The Spectrum]]
+
+|date1       =May 9
+|home1       =1
+|score1      =3–4
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/phi-vs-mtl/1976/05/09/1975030411#game=1975030411,game_state=final
+|1-1-1       =[[Reggie Leach]] (16) - 00:21<br>[[Ross Lonsberry]] (4) - 13:22
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =4:04 - [[Jimmy Roberts]] (3)<br>6:30 - [[Larry Robinson]] (3)
+|1-3-1       =[[Larry Goodenough]] (3) - ''pp'' - 5:17
+|1-3-2       =10:02 - [[Jacques Lemaire]] (2)<br>18:38 - [[Guy Lapointe]] (3)
+|goalie1-1   =[[Wayne Stephenson]]
+|goalie1-2   =[[Ken Dryden]]
+
+|date2       =May 11
+|home2       =1
+|score2      =1–2
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/phi-vs-mtl/1976/05/11/1975030412#game=1975030412,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =15:19 - ''sh'' - [[Jacques Lemaire]] (3)
+|2-3-1       =[[Dave Schultz (ice hockey)|Dave Schultz]] (2) - 17:35
+|2-3-2       =2:41 - [[Guy Lafleur]] (6)
+|goalie2-1   =[[Wayne Stephenson]]
+|goalie2-2   =[[Ken Dryden]]
+
+|date3       =May 13
+|home3       =2
+|score3      =3–2
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/mtl-vs-phi/1976/05/13/1975030413#game=1975030413,game_state=final
+|3-1-1       =8:40 - ''pp'' - [[Reggie Leach]] (17)<br>18:14 - Reggie Leach (18)
+|3-1-2       =[[Steve Shutt]] (5) - ''pp'' - 3:17
+|3-2-1       =''No scoring''
+|3-2-2       =Steve Shutt (6) - ''pp'' - 1:09
+|3-3-1       =''No scoring''
+|3-3-2       =[[Pierre Bouchard]] (1) - 9:16
+|goalie3-1   =[[Wayne Stephenson]]
+|goalie3-2   =[[Ken Dryden]]
+
+|date4       =May 16
+|home4       =2
+|score4      =5–3
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/mtl-vs-phi/1976/05/16/1975030414#game=1975030414,game_state=final
+|4-1-1       =00:40 - [[Reggie Leach]] (19)<br>18:20 - ''pp'' - [[Bill Barber]] (6)
+|4-1-2       =[[Steve Shutt]] (7) - ''pp'' - 5:35<br>[[Pierre Bouchard]] (2) - ''pp'' - 11:48
+|4-2-1       =13:59 - ''pp'' - [[Andre Dupont]] (2)
+|4-2-2       =[[Yvan Cournoyer]] (3) - ''pp'' - 19:49
+|4-3-1       =''No scoring''
+|4-3-2       =[[Guy Lafleur]] (7) - 14:18<br>[[Peter Mahovlich]] (4) - 15:16
+|goalie4-1   =[[Wayne Stephenson]]
+|goalie4-2   =[[Ken Dryden]]
+
+|series      =Montreal won series 4–0
+}}
+
+==Team rosters==
+===Montreal Canadiens===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Michel | last = Larocque | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 6 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Hull, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Bill | last = Nyrop | dab = | num = 2 | pos = D | nat = United States | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 23 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Washington, D.C.]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = John | last = Van Boxmeer | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1952 | birthmonth = 11 | birthday = 20 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Petrolia, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Guy | last = Lapointe | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 3 | birthday = 18 | acq = [[1968-69 NHL season|1969]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Jimmy | last = Roberts | dab = Jim Roberts (ice hockey, born 1940) | num = 6 | pos = RW | nat = Canada | s/g = R | birthyear = 1940 | birthmonth = 4 | birthday = 9 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Doug| last = Risebrough | dab = | num = 8 | pos = C | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 1 | birthday = 29 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Guelph, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Guy | last = Lafleur | dab = | num = 10 | pos = RW | nat = Canada | s/g = R | birthyear = 1951 | birthmonth = 9 | birthday = 20 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Thurso, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Yvon | last = Lambert | dab = | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 5 | birthday = 20 | acq = [[1971-72 NHL season|1971]] | birthplace = [[Drummondville, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Yvan | last = Cournoyer | dab = | num = 12 | pos = RW | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 11 | birthday = 22 | acq = [[1963-64 NHL season|1963]] | birthplace = [[Montreal, Quebec]] | cap = C | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Mario | last = Tremblay | dab = | num = 14 | pos = RW | nat = Canada | s/g = R | birthyear = 1956 | birthmonth = 11 | birthday = 22 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Alma, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Murray | last = Wilson | dab = | num = 17 | pos = LW | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 11 | birthday = 7 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Toronto, Canada]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Serge | last = Savard | dab = | num = 18 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 22 | acq = [[1966-67 NHL season|1966]] | birthplace = [[Landrienne, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Larry | last = Robinson | dab = | num = 19 | pos = D | nat = Canada | s/g = L | birthyear = 1951 | birthmonth = 6 | birthday = 2 | acq = [[1971 NHL Amateur Draft|1971]] | birthplace = [[Winchester, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Peter | last = Mahovlich | dab = | num = 20 | pos = C | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 10 | birthday = 10 | acq = [[1969-70 NHL season|1969]] | birthplace = [[Timmins, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Doug | last = Jarvis | dab = | num = 21 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 3 | birthday = 24 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Brantford, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Steve | last = Shutt | dab = | num = 22 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 1 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[North York, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Bob | last = Gainey | dab = | num = 23 | pos = LW | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 1 | birthday = 27 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Peterborough, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Don | last = Awrey | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 7 | birthday = 18 | acq = [[1974-75 NHL season|1975]] | birthplace = [[Kitchener, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Jacques | last = Lemaire | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 9 | birthday = 27 | acq = [[1967-68 NHL season|1967]] | birthplace = [[LaSalle, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Pierre | last = Bouchard | dab = | num = 26 | pos = D | nat = Canada | s/g = L | birthyear = 1948 | birthmonth = 2 | birthday = 20 | acq = [[1965 NHL Amateur Draft|1965]] | birthplace = [[Longueuil, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Rick | last = Chartraw | dab = | num = 27 | pos = D | nat = United States | s/g = R | birthyear = 1954 | birthmonth = 7 | birthday = 13 | acq = [[1974 NHL Amateur Draft|1974]] | birthplace = [[Caracas, Venezuela]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Ken | last = Dryden | dab = | num = 29 | pos = G | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 8 | birthday = 8 | acq = [[1964-65 NHL season|1964]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+|}
+
+===Philadelphia Flyers===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Bernie | last = Parent | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 4 | birthday = 3 | acq = [[1973–74 NHL season|1973]] | birthplace = [[Montreal|Montreal, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Tom | last = Bladon | dab = | num = 3 | pos = D | nat = Canada | s/g = R | birthyear = 1952 | birthmonth = 12 | birthday = 29 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Edmonton|Edmonton, Alberta]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Larry | last = Goodenough | dab = | num = 5 | pos = D | nat = Canada | s/g = R | birthyear = 1953 | birthmonth = 1 | birthday = 9 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto|Toronto, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Andre | last = Dupont | dab = André Dupont | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 7 | birthday = 27 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Trois-Rivières|Trois-Rivières, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Bill | last = Barber | dab = | num = 7 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 11 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Callander, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Dave | last = Schultz | dab = Dave Schultz (ice hockey) | num = 8 | pos = LW | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 14 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Waldheim, Saskatchewan]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Bob | last = Kelly | dab = Bob Kelly (ice hockey b. 1950) | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 25 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Oakville, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Mel | last = Bridgman | dab = | num = 10 | pos = C | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 4 | birthday = 28 | acq = [[1975 NHL Amateur Draft|1975]] | birthplace = [[Trenton, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Don | last = Saleski | dab = | num = 11 | pos = RW | nat = Canada | s/g = R | birthyear = 1949 | birthmonth = 11 | birthday = 10 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Moose Jaw|Moose Jaw, Saskatchewan]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Gary | last = Dornhoefer | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1943 | birthmonth = 2 | birthday = 2 | acq = [[1967 NHL Expansion Draft|1967]] | birthplace = [[Kitchener, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Joe | last = Watson | dab = Joe Watson (ice hockey) | num = 14 | pos = D | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 7 | birthday = 6 | acq = [[1967 NHL Expansion Draft|1967]] | birthplace = [[Smithers, British Columbia]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Terry | last = Crisp | dab = | num = 15 | pos = C | nat = Canada | s/g = L | birthyear = 1943 | birthmonth = 5 | birthday = 28 | acq = [[1972–73 NHL season|1973]] | birthplace = [[Parry Sound, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Bobby | last = Clarke | dab = | num = 16 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 8 | birthday = 13 | acq = [[1969 NHL Amateur Draft|1969]] | birthplace = [[Flin Flon|Flin Flon, Manitoba]] | cap = C | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Ross | last = Lonsberry | dab = | num = 18 | pos = LW | nat = Canada | s/g = L | birthyear = 1947 | birthmonth = 2 | birthday = 7 | acq = [[1971–72 NHL season|1972]] | birthplace = [[Watson, Saskatchewan]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Jim | last = Watson | dab = Jimmy Watson (ice hockey) | num = 20 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 8 | birthday = 19 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Smithers, British Columbia]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Terry | last = Murray | dab =  | num = 25 | pos = D | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 7 | birthday = 20 | acq = [[1975–76 NHL season|1975]] | birthplace = [[Shawville, Quebec]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Orest | last = Kindrachuk | dab = | num = 26 | pos = C | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 9 | birthday = 14 | acq = [[1972–73 NHL season|1972]] | birthplace = [[Nanton, Alberta]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Reggie | last = Leach | dab = | num = 27 | pos = RW | nat = Canada | s/g = R | birthyear = 1950 | birthmonth = 4 | birthday = 23 | acq = [[1974–75 NHL season|1974]] | birthplace = [[Riverton, Manitoba]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Jack | last = McIlhargey | dab = | num = 29 | pos = D | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 3 | birthday = 7 | acq = [[1974-75 NHL season|1975]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1976 | month = 5 | day = 9}}
+{{Ice hockey team player
+| first = Wayne | last = Stephenson | dab = | num = 35 | pos = G | nat = Canada | s/g = L | birthyear = 1945 | birthmonth = 1 | birthday = 29 | acq = [[1974–75 NHL season|1974]] | birthplace = [[Fort William, Ontario]] | cap = | year = 1976 | month = 5 | day = 9}}
+|}
+
+==Stanley Cup engraving==
+The 1976 Stanley Cup was presented to Canadiens captain Yvan Cournoyer by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 5–3 win over the Flyers in game four.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1975–76 Montreal Canadiens'''
+{{Stanley Cup champion|team=Montreal Canadiens |year=1973
+|centres=*8 [[Doug Risebrough]]
+*20 [[Peter Mahovlich]]
+*21 [[Doug Jarvis]]
+*25 [[Jacques Lemaire]]
+|defence=*2 [[Bill Nyrop]]
+*3 [[John van Boxmeer]]^
+*5 [[Guy Lapointe]]
+*18 [[Serge Savard]]
+*19 [[Larry Robinson]]
+*24 [[Don Awrey]]^
+*26 [[Pierre Bouchard]]
+*27 [[Rick Chartraw]]
+|goaltenders=*1 [[Michel Larocque]]
+*29 [[Ken Dryden]]
+|wingers=*6 [[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+*10 [[Guy Lafleur]]
+*11 [[Yvon Lambert]]
+*12 [[Yvan Cournoyer]] (Captain)
+*14 [[Mario Tremblay]]
+*17 [[Murray Wilson]]
+*22 [[Steve Shutt]]
+*23 [[Bob Gainey]]
+|non-players=
+*[[Jacques Courtois (ice hockey)|Jacques Courtois]] (President), [[Jean Beliveau]] (Vice President – Director of Cooperate Relations)
+*[[Peter Bronfman]] (Chairman/Owner), [[Edward Bronfman]] (Executive Director/Owner)
+*[[Sam Pollock]] (Vice President/General Manager), William [[Scotty Bowman]] (Head Coach)
+*[[Eddy Palchak]] (Trainer), Pierre Meilleur (Asst Trainer)
+*[[Claude Ruel]] (Director of Player Development)
+*[[Floyd Curry]] (Asst. General Manager), [[Ron Caron]]* (Asst. General Manager)
+|engraving-notes=
+* #24 [[Don Awrey]]^ (D) played in 72 regular-season games. #3 [[John van Boxmeer]]^ (D) played in 46 regular-season games. As neither player played in the playoffs, their names were not included on the Stanley Cup. The official rules say that players must play in the playoffs to be included on the Stanley Cup, but this rule was not followed very well. Players who played in the playoffs were often left off, and many players who did not play in the playoffs were still engraved on it. The NHL changed the rules to say that any player who played at least 40 games (half the regular-season game total) or more for the winning team, or one game in the Stanley Cup Final, must be included. However, Awrey and Van Boxmeer were not added to the cup for 1976. Awrey's name is on the Cup in 1970, 1972 with Boston. Van Boxmeer's name does not appear on the Stanley Cup.
+* Murray Wilson's name was misspelled in 1973, 1976, 1977 as MURRY WILSON, missing an "A". Murray Wilson was spelled correctly on the Stanley Cup in 1978. Wilson's name was also spelled correctly all 4 times on the Replica Cup.
+* Between 1976 and 1985, an "A" (alternate captain) was no longer marked on players' sweaters.  Only the [[Captain (ice hockey)|captain]] was marked with a "C."
+* American Rick Chartraw was born in Venezuela and was the first South American-born player to win the Stanley Cup. 
+}}
+
+==See also==
+* [[1975–76 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+{{external media|video1={{youTube|7n5F3di1Mu4|1976 Stanley Cup Final, Game 4}}}}
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+  before = [[1975 Stanley Cup Final|Philadelphia Flyers<br>1975]] |
+  after = [[1977 Stanley Cup Final|Montreal Canadiens<br>1977]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+  years = 1976|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|
+list1=
+{{Montreal Canadiens}}
+{{Philadelphia Flyers}}
+{{1975–76 NHL season by team}}
+{{Hockey Night in Canada}}
+{{The NHL Network (1975–79)}}
+}}
+
+[[Category:1975–76 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:May 1976 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1976 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:1976 in Montreal]]
+[[Category:1976 in Philadelphia]]
+[[Category:1976 in sports in Pennsylvania|Stanley Cup Final]]
+[[Category:1976 in sports in Quebec|Stanley Cup Final]]

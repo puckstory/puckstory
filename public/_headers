@@ -1,0 +1,9 @@
+# Response headers for Cloudflare Workers Static Assets (same format as Pages _headers).
+# The app is ONE self-contained HTML file: every script/style is inline and every asset is a data:
+# URI, so the CSP can deny all network sources outright - 'unsafe-inline' is required (and safe
+# here: the only HTML injection sink escapes its input, and nothing external can be loaded anyway).
+/*
+  Content-Security-Policy: default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data:; font-src data:; base-uri 'none'; form-action 'none'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()

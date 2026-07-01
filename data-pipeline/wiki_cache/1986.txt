@@ -1,0 +1,1867 @@
+{{Short description|1986 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 1986
+| image = 1986 Stanley Cup Flag.JPG
+| team1 = '''[[1985–86 Montreal Canadiens season|Montreal Canadiens]]'''
+| team1_short = Montreal 
+| team1_captain = [[Bob Gainey]]
+| team1_coach = [[Jean Perron]]
+| team2 = [[1985–86 Calgary Flames season|Calgary Flames]]
+| team2_short = Calgary 
+| team2_coach = [[Bob Johnson (ice hockey, born 1931)|Bob Johnson]]
+| team2_captain = [[Lanny McDonald]], [[Jim Peplinski]], [[Doug Risebrough]]
+| series_winner = [[Bobby Smith (ice hockey)|Bobby Smith]] (10:30, third)
+| hofers = '''Canadiens:'''<br />[[Guy Carbonneau]] (2019)<br />[[Chris Chelios]] (2013)<br />[[Bob Gainey]] (1992)<br />[[Larry Robinson]] (1995)<br />[[Patrick Roy]] (2006)<br />'''Flames:'''<br />[[Brett Hull]] (2009)<br />[[Al MacInnis]] (2007)<br />[[Lanny McDonald]] (1992)<br />[[Joe Mullen]] (2000)<br />[[Mike Vernon (ice hockey)|Mike Vernon]] (2023)<br />'''Coaches:'''<br />[[Bob Johnson (ice hockey, born 1931)|Bob Johnson]] (1992)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+| referees = [[Kerry Fraser]], [[Don Koharski]], [[Andy Van Hellemond]]
+| dates = May 16–24, 1986
+| location1 = [[Calgary]]: [[Olympic Saddledome]] (1, 2, 5)
+| location2 = [[Montreal]]: [[Montreal Forum]] (3, 4)
+| mvp = [[Patrick Roy]] (Canadiens)
+| team1_1 = 2
+| team1_2 = '''3'''*
+| team1_3 = '''5'''
+| team1_4 = '''1'''
+| team1_5 = '''4'''
+| team1_tot = 4
+| team2_1 = '''5'''
+| team2_2 = 2*
+| team2_3 = 3
+| team2_4 = 0
+| team2_5 = 3
+| team2_tot = 1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+| networks ='''Canada:'''<br />([[Canadian English|English]]): [[NHL on CTV|CTV]] (1–2), [[Hockey Night in Canada|CBC]] (3–5)<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on ESPN|ESPN]]
+| net_announcers =(CTV) [[Dan Kelly (sportscaster)|Dan Kelly]], [[Ron Reusch]], and [[Brad Park]]<br/>(CBC) [[Bob Cole (sportscaster)|Bob Cole]] (3–4), [[Don Wittman]] (5), [[Dick Irvin Jr.]], [[Mickey Redmond]] (3–4) and [[John Davidson (ice hockey)|John Davidson]] <br/>(SRC) [[Richard Garneau]], [[Gilles Tremblay (ice hockey)|Gilles Tremblay]], and [[Mario Tremblay]]<br/>(ESPN) [[Sam Rosen (sportscaster)|Sam Rosen]] (1–2), [[Ken Wilson (sportscaster)|Ken Wilson]] (3–5), [[Mickey Redmond]] (1–2, 5), [[Bill Clement]] (3–4)
+}}
+The '''1986 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1985–86 NHL season|1985–86 season]], and the culmination of the [[1986 Stanley Cup playoffs]]. It was contested between the [[Western Conference (NHL)|Campbell Conference]] champion [[1985–86 Calgary Flames season|Calgary Flames]] and the [[Eastern Conference (NHL)|Wales Conference]] champion [[1985–86 Montreal Canadiens season|Montreal Canadiens]]. The Canadiens won the best-of-seven series in five games to win their 23rd [[Stanley Cup]], and their 17th in their last 18 Finals appearances dating back to {{scfy|1956}}.
+
+It was the first all-Canadian Finals since Montreal lost to the [[Toronto Maple Leafs]] in {{scfy|1967}}, the last year of the [[Original Six]] era. This was the fifth of nine consecutive Finals contested by a team from [[Western Canada]], the fourth of eight contested by a team from [[Alberta]] (the [[Edmonton Oilers]] appeared in six, the Flames in two, the [[Vancouver Canucks]] in [[1982 Stanley Cup Final|one]]), and the third of five consecutive finals to end with the Cup presentation on Alberta ice (the Oilers won four, the Canadiens one). This was the only time between {{scfy|1980}} and {{scfy|1988}} that neither the Oilers (four wins) nor the [[New York Islanders]] (four wins) won the Stanley Cup.
+
+Although this was the first ever postseason meeting between the two teams, it was not the first Montreal–Calgary Finals. The first Finals between teams from Montreal and Calgary took place in {{scfy|1924}} when the Canadiens defeated the [[Western Canada Hockey League]] champion [[Calgary Tigers]]. The Canadiens and Flames met again in a rematch in {{scfy|1989}}, with Calgary winning in six games.
+
+The Finals reverted to the 2-2-1-1-1 format after implementing the 2-3-2 format in {{scfy|1984}}.<ref>{{cite news |url=https://www.newspapers.com/clip/49231310/1984-nhl-playoff-format-2-3-2/ |title=Playoff format changes made |date=September 23, 1983 |newspaper=The Ottawa Citizen|access-date=June 24, 2024|agency=United Press International |location=Ottawa, Ontario |page=40 |via=Newspapers.com}}</ref>
+
+==Paths to the Finals==
+{{see also|1986 Stanley Cup playoffs|1985–86 Calgary Flames season|1985–86 Montreal Canadiens season}}
+Calgary defeated the [[Winnipeg Jets (1972–96)|Winnipeg Jets]] 3–0, the defending champion and [[Battle of Alberta|in-province rival]] [[Edmonton Oilers]] 4–3, and the [[St. Louis Blues]] 4–3 to advance to the final.
+
+Montreal defeated [[Bruins–Canadiens rivalry|rival]] [[Boston Bruins]] 3–0, the [[Hartford Whalers]] 4–3, and the [[New York Rangers]] 4–1 to make it to the final.
+
+==Game summaries==
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Calgary Flames
+|stadium1=[[Olympic Saddledome]]
+|date1       =May 16
+|score1      =2–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-cgy/1986/05/16/1985030411#game=1985030411,game_state=final
+}}
+In game one, [[Jim Peplinski]] recorded three points, and [[Mike Vernon (ice hockey)|Mike Vernon]] held strong in net for Calgary, making 22 saves in a 5–2 victory over Montreal to take a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | MTL
+|align=center | [[Mats Näslund|Mats Naslund]] (6) – ''pp''
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]] (7) and [[Larry Robinson]] (11)
+|align=center | 06:04
+|align=center | 1–0 MTL
+|-
+|align=center | CGY
+|align=center | [[John Tonelli]] (6)
+|align=center | [[Al MacInnis]] (12) and [[Dan Quinn (ice hockey)|Dan Quinn]] (4)
+|align=center | 12:08
+|align=center | 1–1
+|-
+|align=center | CGY
+|align=center | [[Jim Peplinski]] (5)
+|align=center | [[Paul Baxter]] (1) and [[Joel Otto]] (8)
+|align=center | 19:11
+|align=center | 2–1 CGY
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="4"| '''3rd''' 
+|align=center | CGY
+|align=center | Dan Quinn (8) – ''sh''
+|align=center | ''Unassisted''
+|align=center | 02:14
+|align=center | 3–1 CGY
+|-
+|align=center | CGY
+|align=center |[[Lanny McDonald]] (10)
+|align=center | [[Nick Fotiu]] (1) and Jim Peplinski (7)
+|align=center | 03:33
+|align=center | 4–1 CGY
+|-
+|align=center | MTL
+|align=center | [[Chris Chelios]] (2)
+|align=center | [[David Maley]] (2) and Mats Naslund (8)
+|align=center | 17:56
+|align=center | 4–2 CGY
+|-
+|align=center | CGY
+|align=center | [[Doug Risebrough]] (8) – ''en''
+|align=center | Jim Peplinski (8)
+|align=center | 19:35
+|align=center | 5–2 CGY
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="10"| '''1st'''
+|align=center | CGY
+|align=center | [[Robin Bartel]]
+|align=center | Misconduct
+|align=center | 03:35
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | [[Mike McPhee]]
+|align=center | Hooking
+|align=center | 03:35
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Joe Mullen]]
+|align=center | Interference
+|align=center | 04:14
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Paul Baxter
+|align=center | Charging
+|align=center | 10:16
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Larry Robinson
+|align=center | Holding
+|align=center | 11:57
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Lanny McDonald
+|align=center | Roughing
+|align=center | 15:10
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Craig Ludwig]]
+|align=center | Elbowing
+|align=center | 15:10
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Roughing
+|align=center | 17:36
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Chris Nilan]]
+|align=center | Roughing
+|align=center | 17:36
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Patrick Roy]]
+|align=center | Misconduct
+|align=center | 19:11
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="12"| '''2nd'''
+|align=center | CGY
+|align=center | [[Håkan Loob|Hakan Loob]]
+|align=center | Roughing
+|align=center | 02:51
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Bobby Smith
+|align=center | Roughing
+|align=center | 02:51
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | High-sticking
+|align=center | 04:57
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Nick Fotiu
+|align=center | Interference
+|align=center | 09:54
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Jamie Macoun]]
+|align=center | Roughing
+|align=center | 18:03
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | David Maley
+|align=center | Roughing
+|align=center | 18:03
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Craig Ludwig
+|align=center | Roughing
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Chris Nilan
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Chris Nilan
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | CGY
+|align=center | [[Steve Bozek]]
+|align=center | Cross-checking
+|align=center | 01:04
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Paul Reinhart]]
+|align=center | Roughing
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Guy Carbonneau]]
+|align=center | Roughing
+|align=center | 03:43
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | Holding
+|align=center | 06:16
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Brian Skrudland]]
+|align=center | Tripping
+|align=center | 14:43
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 10 || align=center | 9 || align=center | 5 || align=center | 24
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 13 || align=center | 7 || align=center | 10 || align=center | 30
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Calgary Flames
+|stadium1=[[Olympic Saddledome]]
+|date1       =May 18
+|score1      =3–2
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-cgy/1986/05/18/1985030412
+}}
+After Calgary took a 2–0 lead in game two, Montreal tied the game early in the third period, and [[Brian Skrudland]] scored the game–winning goal just nine seconds into overtime to tie the series for Montreal. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | CGY
+|align=center | [[John Tonelli]] (7)
+|align=center | [[Joe Mullen]] (7) and [[Dan Quinn (ice hockey)|Dan Quinn]] (5)
+|align=center | 09:06
+|align=center | 1–0 CGY
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Paul Reinhart]] (5)
+|align=center | [[Lanny McDonald]] (7) and [[Håkan Loob|Hakan Loob]] (9)
+|align=center | 00:15
+|align=center | 2–0 CGY
+|-
+|align=center | MTL
+|align=center | [[Gaston Gingras]] (1)
+|align=center | ''Unassisted''
+|align=center | 03:45
+|align=center | 2–1 CGY
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | MTL
+|align=center | David Maley (1)
+|align=center | [[Guy Carbonneau]] (3) and [[Chris Chelios]] (7)
+|align=center | 03:30
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="1"| '''OT'''
+|align=center | MTL
+|align=center | [[Brian Skrudland]] (1)
+|align=center | [[Mike McPhee]] (3) and [[Mike Lalor]] (1)
+|align=center | 00:09
+|align=center | 3–2 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="11"| '''1st'''
+|align=center | CGY
+|align=center | [[Al MacInnis]]
+|align=center | Holding
+|align=center | 02:22
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Mike McPhee
+|align=center | Misconduct
+|align=center | 06:08
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[Jamie Macoun]]
+|align=center | Roughing
+|align=center | 09:19
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Brian Skrudland
+|align=center | Elbowing
+|align=center | 09:19
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Fighting – major
+|align=center | 10:25
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Jim Peplinski]]
+|align=center | Roughing
+|align=center | 10:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Chris Nilan]]
+|align=center | Fighting – major
+|align=center | 10:25
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | [[Bob Gainey]]
+|align=center | Roughing
+|align=center | 10:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Brian Skrudland
+|align=center | High-sticking
+|align=center | 15:47
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Guy Carbonneau
+|align=center | Roughing
+|align=center | 16:12
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]]
+|align=center | Interference
+|align=center | 19:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | CGY
+|align=center | [[Joel Otto]]
+|align=center | Interference
+|align=center | 01:07
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Craig Ludwig]]
+|align=center | Holding
+|align=center | 04:41
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Neil Sheehy]]
+|align=center | Cross-checking
+|align=center | 11:31
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Al MacInnis
+|align=center | Hooking
+|align=center | 17:01
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | MTL
+|align=center | Craig Ludwig
+|align=center | Holding
+|align=center | 01:11
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Joe Mullen
+|align=center | Tripping
+|align=center | 08:24
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Neil Sheehy
+|align=center | Misconduct
+|align=center | 10:50
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | [[John Kordic]]
+|align=center | Misconduct
+|align=center | 10:50
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | Roughing
+|align=center | 18:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Guy Carbonneau
+|align=center | Roughing
+|align=center | 18:30
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''OT''' 
+| colspan="5"|''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 14 || align=center | 12 || align=center | 8 || align=center | 1 || align=center | 35
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 8 || align=center | 9 || align=center | 5 || align=center | 0 || align=center | 22
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=Calgary Flames
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =May 20
+|score1      =3–5
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/cgy-vs-mtl/1986/05/20/1985030413
+}}
+The Canadiens scored four goals in the first period of game three, with [[Mats Näslund|Mats Naslund]] scoring twice, including the game winner. The game also saw multiple fights and misconducts, and both clubs accumulated for a total of 126 penalty minutes. The Canadiens went on to win the game 5–3, giving them a 2–1 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | CGY
+|align=center | [[Joe Mullen]] (11) – ''pp''
+|align=center | [[Joel Otto]] (9) and [[Håkan Loob|Hakan Loob]] (10)
+|align=center | 05:45
+|align=center | 1–0 CGY
+|-
+|align=center | MTL
+|align=center | [[Mats Näslund|Mats Naslund]] (7)
+|align=center | [[Larry Robinson]] (9) and [[Bobby Smith (ice hockey)|Bobby Smith]] (8)
+|align=center | 06:50
+|align=center | 1–1
+|-
+|align=center | CGY
+|align=center | Joel Otto (5) – ''pp''
+|align=center | [[Al MacInnis]] (13) and [[Paul Reinhart]] (13) (13)
+|align=center | 17:59
+|align=center | 2–1 CGY
+|-
+|align=center | MTL
+|align=center | Bobby Smith (6)
+|align=center | Larry Robinson (13) and Mats Naslund (9)
+|align=center | 18:25
+|align=center | 2–2
+|-
+|align=center | MTL
+|align=center | Mats Naslund (8) – ''pp''
+|align=center | [[Ryan Walter]] (1) and [[Chris Chelios]] (8)
+|align=center | 19:17
+|align=center | 3–2 MTL
+|-
+|align=center | MTL
+|align=center | [[Bob Gainey]] (5)
+|align=center | [[Guy Carbonneau]] (4) and Chris Chelios (9)
+|align=center | 19:33
+|align=center | 4–2 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Lanny McDonald]] (11) – ''pp''
+|align=center | [[Dan Quinn (ice hockey)|Dan Quinn]] (6) and Al MacInnis (14)
+|align=center | 07:13
+|align=center | 4–3 MTL
+|-
+|align=center | MTL
+|align=center | [[Kjell Dahlin]] (2)
+|align=center | Gaston Gingras (3) and Guy Carbonneau (5)
+|align=center | 19:22
+|align=center | 5–3 MTL
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="16"| '''1st'''
+|align=center | MTL
+|align=center | [[Craig Ludwig]]
+|align=center | High-sticking
+|align=center | 02:18
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Mike Lalor]]
+|align=center | Roughing
+|align=center | 04:21
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[Terry Johnson (ice hockey)|Terry Johnson]]
+|align=center | Misconduct
+|align=center | 06:32
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Dan Quinn
+|align=center | Hooking
+|align=center | 07:30
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Guy Carbonneau
+|align=center | Roughing
+|align=center | 11:20
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Dan Quinn
+|align=center | Roughing
+|align=center | 13:04
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Brian Skrudland]]
+|align=center | Roughing
+|align=center | 13:04
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Lemieux]]
+|align=center | Roughing
+|align=center | 16:41
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Robin Bartel]]
+|align=center | Holding
+|align=center | 19:09
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Neil Sheehy]]
+|align=center | Fighting – major
+|align=center | 19:39
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Neil Sheehy
+|align=center | Misconduct
+|align=center | 19:39
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Lanny McDonald
+|align=center | High-sticking
+|align=center | 19:39
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Jim Peplinski]]
+|align=center | Charging
+|align=center | 19:39
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Craig Ludwig
+|align=center | Holding
+|align=center | 19:39
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Chris Nilan]]
+|align=center | Fighting – major
+|align=center | 19:39
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Chris Nilan
+|align=center | Misconduct
+|align=center | 19:39
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="12"| '''2nd'''
+|align=center | MTL
+|align=center | Brian Skrudland 
+|align=center | High-sticking
+|align=center | 05:35
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Fighting – major
+|align=center | 08:02
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | [[John Kordic]]
+|align=center | Fighting – major
+|align=center | 08:02
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | High-sticking
+|align=center | 09:04
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Al MacInnis
+|align=center | Roughing
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Ryan Walter
+|align=center | Roughing
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | Roughing
+|align=center | 18:32
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | Misconduct
+|align=center | 18:32
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Joel Otto
+|align=center | Misconduct
+|align=center | 18:32
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | Chris Nilan
+|align=center | Roughing
+|align=center | 18:32
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Chris Nilan
+|align=center | Misconduct
+|align=center | 18:32
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | Brian Skrudland
+|align=center | Misconduct
+|align=center | 18:32
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | CGY
+|align=center | Al MacInnis
+|align=center | High-sticking
+|align=center | 17:11
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 10 || align=center | 9 || align=center | 7 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 16 || align=center | 8 || align=center | 5 || align=center | 29
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=Calgary Flames
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|date1       =May 22
+|score1      =0–1
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/cgy-vs-mtl/1986/05/22/1985030414
+}}
+Game four remained scoreless until [[Claude Lemieux]] scored with 9:50 remaining in regulation, and [[Patrick Roy]] stopped all 15 shots he faced to record his first career playoff shutout, giving the Canadiens a 1–0 victory, and a commanding 3–1 series lead. The game ended in a bench-clearing brawl, during which Claude Lemieux bit the finger of [[Jim Peplinski]]. In response, Peplinski said following the incident, "I didn't know they allowed cannibalism in the NHL."<ref>{{cite web |last1=Fleming |first1=David |title=The tooth hurts: NHL's unsavory history of biting |url=https://www.espn.com/nhl/story/_/id/13013333/nhl-2015-stanley-cup-playoffs-andrew-shaw-carries-unsavory-biting-tradition-flem-file |website=ESPN.com |access-date=May 29, 2026 |date=June 4, 2015}}</ref> Both teams combined for a total of 176 penalty minutes; the most combined penalty minutes ever recorded in a Stanley Cup Final game.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''3rd'''
+| style="text-align:center;"| MTL
+| style="text-align:center;"| [[Claude Lemieux]] (10)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 09:50
+| style="text-align:center;"| 1–0 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="8"| '''1st'''
+|align=center | CGY
+|align=center | [[Terry Johnson (ice hockey)|Terry Johnson]]
+|align=center | Roughing
+|align=center | 01:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Chris Chelios]]
+|align=center | Roughing
+|align=center | 01:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Mike McPhee]]
+|align=center | Roughing
+|align=center | 01:31
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Perry Berezan]]
+|align=center | Hooking
+|align=center | 06:13
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Neil Sheehy]]
+|align=center | Roughing – double minor
+|align=center | 08:25
+|align=center | 4:00
+|-
+|align=center | MTL
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]]
+|align=center | Roughing – double minor
+|align=center | 08:25
+|align=center | 4:00
+|-
+|align=center | CGY
+|align=center | Perry Berezan
+|align=center | Slashing
+|align=center | 19:34
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Claude Lemieux
+|align=center | Slashing
+|align=center | 19:34
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Steve Bozek]]
+|align=center | Holding
+|align=center | 07:55
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Mike Eaves]]
+|align=center | Holding
+|align=center | 15:23
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="21"| '''3rd'''
+|align=center | MTL
+|align=center | Mike McPhee
+|align=center | Misconduct
+|align=center | 17:38
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Steve Bozek
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Steve Bozek
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[John Tonelli]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | John Tonelli
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[Paul Baxter]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Paul Baxter
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[Jim Peplinski]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Jim Peplinski
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | [[Doug Risebrough]]
+|align=center | High-sticking
+|align=center | 20:00
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Guy Carbonneau]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Guy Carbonneau
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | [[Chris Chelios]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Chris Chelios
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | [[Mike Lalor]]
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Mike Lalor
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | Claude Lemieux
+|align=center | Fighting – major
+|align=center | 20:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | Claude Lemieux
+|align=center | Misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | Claude Lemieux
+|align=center | Game misconduct
+|align=center | 20:00
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 7 || align=center | 2 || align=center | 6 || align=center | 15
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 6 || align=center | 8 || align=center | 10 || align=center | 24
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Calgary Flames
+|stadium1=[[Olympic Saddledome]]
+|date1       =May 24
+|score1      =4–3
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/mtl-vs-cgy/1986/05/24/1985030415
+}}
+In game five, Montreal defeated Calgary at the Olympic Saddledome by a score of 4-3 to clinch the series 4-1, winning their 23rd Stanley Cup. Patrick Roy, who made 30 saves in the victory, was awarded the [[Conn Smythe Trophy]] as playoffs MVP. At just 20 years old, Roy became the youngest player in NHL history to receive the award. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Gaston Gingras]] (2) – ''pp''
+|align=center | [[Claude Lemieux]] (5) and [[Mats Näslund|Mats Naslund]] (10)
+|align=center | 06:53
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | CGY
+|align=center | [[Steve Bozek]] (1) 
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]] (3) and [[Jim Peplinski]] (9)
+|align=center | 07:17
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Brian Skrudland]] (2) 
+|align=center | [[Mike McPhee]] (4) and Claude Lemieux (6)
+|align=center | 10:49
+|align=center | 2–1 MTL
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | MTL
+|align=center | [[Rick Green (ice hockey)|Rick Green]] (1)
+|align=center | [[David Maley]] (3) and [[Mike Lalor]] (2)
+|align=center | 10:11
+|align=center | 3–1 MTL
+|-
+|align=center | MTL
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]] (7)
+|align=center | Mats Naslund (11)
+|align=center | 10:30
+|align=center | 4–1 MTL
+|-
+|align=center | CGY
+|align=center | Steve Bozek (2)
+|align=center | [[Jamie Macoun]] (6)
+|align=center | 16:46
+|align=center | 4–2 MTL
+|-
+|align=center | CGY
+|align=center | [[Joe Mullen]] (12)
+|align=center | [[Dan Quinn (ice hockey)|Dan Quinn]] (7) and [[Al MacInnis]] (15)
+|align=center | 19:14
+|align=center | 4–3 MTL
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | CGY
+|align=center | [[Nick Fotiu]]
+|align=center | Roughing
+|align=center | 02:43
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Lanny McDonald]]
+|align=center | Hooking
+|align=center | 05:53
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Brian Skrudland
+|align=center | High-sticking
+|align=center | 07:15
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | [[Doug Risebrough]]
+|align=center | Misconduct
+|align=center | 15:21
+|align=center | 10:00
+|-
+|align=center | MTL
+|align=center | [[Brian Skrudland]]
+|align=center | Misconduct
+|align=center | 15:21
+|align=center | 10:00
+|-
+|align=center | CGY
+|align=center | Nick Fotiu
+|align=center | Slashing
+|align=center | 18:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MTL
+|align=center | Mike Lalor
+|align=center | Roughing
+|align=center | 01:28
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Chris Chelios]]
+|align=center | Slashing
+|align=center | 03:26
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Nick Fotiu
+|align=center | High-sticking
+|align=center | 14:40
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | CGY
+|align=center | Nick Fotiu
+|align=center | Roughing
+|align=center | 06:31
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Craig Ludwig]]
+|align=center | Roughing
+|align=center | 06:31
+|align=center | 2:00
+|-
+|align=center | CGY
+|align=center | Tim Hunter
+|align=center | High-sticking
+|align=center | 13:01
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Claude Lemieux 
+|align=center | Interference
+|align=center | 15:21
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 12 || align=center | 10 || align=center | 11 || align=center | 33
+|-
+| style="text-align:left;"| {{nowrap|Calgary}} || align=center | 7 || align=center | 12 || align=center | 14 || align=center | 33
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Calgary Flames===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Robin|Bartel}}
+| D
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Drake, Saskatchewan]]
+| first
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Baxter}}
+| D
+| R
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Winnipeg, Manitoba]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Perry|Berezan}}
+| C
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Bozek}}
+| LW
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Kelowna, British Columbia]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Bradley|dab=ice hockey, born 1965}}
+| C
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Yves|Courteau}}
+| RW
+| R
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Montreal]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Eaves}}
+| C
+| R
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Denver, Colorado]]
+| first
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Fotiu}}
+| LW
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Staten Island, New York]]
+| second {{small|({{scfy|1979}})}}
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brett|Hull|dab=}}
+| RW
+| R
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Belleville, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Hunter|dab=ice hockey}}
+| RW
+| R
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Calgary, Alberta]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Terry|Johnson|dab=ice hockey}}
+| D
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Calgary, Alberta]]
+| first
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rejean|Lemelin|Réjean Lemelin}}
+| G
+| L
+| {{NHL Year|1978}}
+| style="text-align:left;"|[[Quebec City, Quebec]]
+| first
+|-
+| '''12'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Hakan|Loob|Håkan Loob}}
+| RW
+| R
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Visby|Visby, Sweden]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Al|MacInnis}}
+| D
+| R
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Inverness, Nova Scotia]]
+| first
+|-
+|-
+| '''34'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Macoun}}
+| D
+| L
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Newmarket, Ontario]]
+| first
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lanny|McDonald}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Hanna, Alberta]]
+| first
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Mullen}}
+| RW
+| R
+| {{NHL Year|1985}}
+| style="text-align:left;"|New York
+| first 
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Otto}}
+| C
+| R
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Elk River, Minnesota]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|Patterson|dab=ice hockey}}
+| LW
+| R
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Rexdale, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jim|Peplinski}} – '''[[Captain (ice hockey)|C]]'''
+| RW
+| R
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Renfrew, Ontario]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dan|Quinn|dab=ice hockey}}
+| C
+| L
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Ottawa, Ontario]]
+| first
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Reinhart}}
+| D
+| L
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Kitchener, Ontario]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Risebrough}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Guelph, Ontario]]
+| fifth {{small|('''{{scfy|1976}}''', '''{{scfy|1977}}''', '''{{scfy|1978}}''', '''{{scfy|1979}}''')}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gary|Roberts|dab=ice hockey}}
+| LW
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[North York|North York, Ontario]]
+| first
+|-
+| '''5'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Neil|Sheehy}}
+| D
+| R
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Fort Frances, Ontario]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Gary|Suter}}
+| D
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Madison, Wisconsin]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Tonelli}}
+| LW
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| sixth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}})}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Vernon|dab=ice hockey}}
+| G
+| L
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Calgary, Alberta]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carey|Wilson|dab=ice hockey}}
+| C
+| R
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Winnipeg, Manitoba]]
+| first
+|}
+
+===Montreal Canadiens===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Serge|Boisvert}}
+| RW
+| R
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Drummondville, Quebec]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Guy|Carbonneau}}
+| C
+| R
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Sept-Îles, Quebec]]
+| first
+|-
+| '''24'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Chelios}}
+| D
+| R
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Chicago]]
+| first
+|-
+| '''20'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Kjell|Dahlin}}
+| RW
+| L
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Timrå|Timrå, Sweden]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Lucien|DeBlois}}
+| RW
+| R
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Joliette, Quebec]]
+| second {{small|({{scfy|1979}})}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Gainey}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| L
+| [[1973 NHL Entry Draft|1973]]
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| fifth {{small|('''{{scfy|1976}}''', '''{{scfy|1977}}''', '''{{scfy|1978}}''', '''{{scfy|1979}}''')}}
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gaston|Gingras}}
+| D
+| L
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Témiscaming, Quebec]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Rick|Green|dab=ice hockey}}
+| D
+| L
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Belleville, Ontario]]
+| first
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Kordic}}
+| RW
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tom|Kurvers}}
+| D
+| L
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Minneapolis, Minnesota]]
+| first
+|-
+| '''38'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Lalor}}
+| D
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Buffalo, New York]]
+| first
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Claude|Lemieux}}
+| RW
+| R
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[Buckingham, Quebec]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|Ludwig}}
+| D
+| L
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Rhinelander, Wisconsin]]
+| first
+|-
+| '''8'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|David|Maley}}
+| LW
+| L
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Beaver Dam, Wisconsin]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|McPhee}}
+| LW
+| L
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Sydney, Nova Scotia]]
+| first
+|-
+| '''26'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mats|Naslund}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Timrå|Timrå, Sweden]]
+| first
+|-
+| '''30'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Chris|Nilan}}
+| RW
+| R
+| [[1978 NHL Entry Draft|1978]]
+| style="text-align:left;"|[[Boston, Massachusetts]]
+| first
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Richer|Stéphane Richer (ice hockey forward)|Stéphane Richer}}
+| RW
+| R
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Ripon, Quebec]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Robinson}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[1971 NHL Entry Draft|1971]]
+| style="text-align:left;"|[[Winchester, Ontario]]
+| sixth {{small|('''{{scfy|1973}}''', '''{{scfy|1976}}''', '''{{scfy|1977}}''', '''{{scfy|1978}}''', '''{{scfy|1979}}''')}}
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Rooney}}
+| LW
+| L
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Canton, Massachusetts]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Roy}}
+| G
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Quebec City, Quebec]]
+| first
+|-
+| '''39'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Skrudland}}
+| C
+| L
+| {{NHL Year|1985}}
+| style="text-align:left;"|[[Peace River, Alberta]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bobby|Smith|dab=ice hockey}}
+| C
+| L
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[North Sydney, Nova Scotia]]
+| second {{small|({{scfy|1981}})}}
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Soetaert}}
+| G
+| L
+| {{NHL Year|1984}}
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| first
+|-
+| '''25'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Svoboda}}
+| D
+| L
+| [[1984 NHL Entry Draft|1984]]
+| style="text-align:left;"|[[Most (city)|Most, Czechoslovakia]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mario|Tremblay}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| R
+| [[1974 NHL amateur draft|1974]]
+| style="text-align:left;"|[[Alma, Quebec]]
+| fifth ({{small|'''{{scfy|1976}}''', '''{{scfy|1977}}''', '''{{scfy|1978}}''', '''{{scfy|1979}}'''}})
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Walter}}
+| LW
+| L
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[New Westminster, British Columbia]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 1986 Stanley Cup was presented to Canadiens captain Bob Gainey by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Canadiens 4–3 win over the Flames in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1985–86 Montreal Canadiens'''
+{{Stanley Cup champion|
+centres=*15 [[Bobby Smith (ice hockey)|Bobby Smith]]
+*21 [[Guy Carbonneau]]
+*27 [[Lucien DeBlois]]
+*35 [[Mike McPhee]]
+*39 [[Brian Skrudland]]*
+|wingers=*8 [[David Maley]]
+*11 [[Ryan Walter]]
+*12 [[Serge Boisvert]]*
+*14 [[Mario Tremblay]] (A)
+*20 [[Kjell Dahlin]]
+*23 [[Bob Gainey]] (Captain)
+*26 [[Mats Naslund]] (A)
+*28 [[Steve Rooney]]
+*30 [[Chris Nilan]]
+*32 [[Claude Lemieux]]
+*44 [[Stéphane Richer (ice hockey forward)|Stephane Richer]]*
+|defence=*5 [[Rick Green (ice hockey)|Rick Green]]
+*17 [[Craig Ludwig]]
+*18 [[Tom Kurvers]]
+*19 [[Larry Robinson]] (A)
+*24 [[Chris Chelios]]
+*25 [[Petr Svoboda]]
+*29 [[Gaston Gingras]]*
+*31 [[John Kordic]]*
+*38 [[Mike Lalor]]*
+|goaltenders=*1 [[Doug Soetaert]]
+*33 [[Patrick Roy]]*
+|non-players=
+*[[Ronald Corey]] (President), [[Serge Savard]]* (Vice President/General Manager)
+*[[Jean Perron]] (Head Coach), [[Jacques Laperrière|Jacques Laperriere]] (Ass't Coach)
+*[[Jean Béliveau|Jean Beliveau]] (Sr. Vice President-Director of Cooperate Affairs), François-Xavier Seigneur (Vice President-Marketing), Fred Steer(Vice President-Finance-Administration)
+*[[Jacques Lemaire]] (Ass't General Manager/director of player personnel), [[André Boudrias|Andre Boudrias]] (Ass't General Manager/Director of Scouting), [[Claude Ruel]] (Director of Player Development)
+*Yvon Belanger (Athletic Therapist), Gaetan Lefebvre (Ass't Athletic Therapist)
+*[[Eddy Palchak]] (Trainer), Sylvain Toupin (Ass't Trainer)
+|player-notes=
+* * Won the Calder Cup as American Hockey League (AHL) Championship in 1985 with [[Sherbrooke Canadiens]].
+|engraving-notes=
+* Tom Kurvers missed the end of the regular season and all of the playoffs injured. His name was included on the Stanley Cup because he played 62 regular-season games for Montreal.
+* Mario Tremblay played only 56 regular-season games. He missed the rest of the season and all the playoffs due to injury. Tremblay still played enough games to qualify for his name to be on the Stanley Cup.
+* Four names were not engraved on the Stanley Cup but were included in the team picture. #37 [[Steve Penney (ice hockey)|Steve Penney]] was dressed for 30 games and played 18. #36 [[Sergio Momesso]] played 24 regular-season games. Both players missed the rest of the season injured. They were not given an injury exemption and were included on the Stanley Cup.
+* #22 [[Randy Bucyk]] played 17 regular-season games and two playoff games, and did not play in the Final. He did not qualify to appear on the Stanley Cup.
+* Morgan McCammon was included on the Cup with Montreal in 1979 as a Director. It is a tradition that the name of the Chairman of the Board is engraved on the Stanley Cup, but Montreal did not submit McCammon's for engraving on the Stanley Cup, but gave him a second Stanley Cup ring.
+* Sr. Vice President of Operations Gerry Gundman was also left off the Stanley Cup.
+* Starting in the 1985–86 season, each NHL team was required to list two alternate captains (along with the team captain) for each game. Some teams may have more than two alternates, but only two can be marked with an 'A' per game.
+* The Montreal Canadiens played 10 rookies on their squad during the Playoffs: Stephane Richer, Brian Skrudland, Mike Lalor, Patrick Roy, Steve Rooney, John Kordic, Claude Lemieux, David Maley, Kjell Dahlin and Randy Bucyk. Three other rookies played in the regular season but not during the Playoffs: Sergio Momesso, Shayne Corson and Dominic Campedelli. In addition, the Canadiens only made 1 trade from Kent Carlson (played 2 games for Montreal) to St. Louis for Graham Herring (never played in the NHL), and 5th round pic on January 31, 1986. All other teams' lineup changes were through their minor league team, AHL [[Sherbrooke Canadiens]].
+* Serge Boisvert, Randy Bucyk, Gaston Gingras, John Kordic, Mike Lalor, Stephane Richer, Brian Skrudland, Patrick Roy, and Serge Savard (Manager) won the Calder Cup with the Sherbrooke Canadiens in 1985 and the Stanley Cup with the Montreal Canadiens in 1986. Ric Nattress also won the Calder Cup in 1985. He would win the Stanley Cup with the Calgary Flames in 1989.
+* Jean Perron was the 12th NHL rookie coach to win the Stanley Cup. Perron was also the last rookie coach to win the Stanley Cup, who coached the winning team for the whole season. (See [[2009 Stanley Cup Final]] for the last rookie coach to win the Stanley Cup.)
+|
+}}
+
+==Riot==
+Some 5,000 jubilant Montreal fans celebrating the Canadiens' Stanley Cup win over the Calgary Flames rampaged through the city's downtown, causing over {{CAD|1 million}} worth of damage.<ref>[https://nationalpost.com/Riots+black+Montreal/464332/story.html nationalpost.com]{{dead link|date=October 2025|bot=medic}}{{cbignore|bot=medic}} </ref>
+
+==Broadcasting==
+In Canada, this was the second and final year that the English-language rights of the Cup Finals were shared between [[Hockey Night in Canada|CBC]] and [[NHL on CTV|CTV]]. For games one and two, CBC only had the rights to air them locally in Montreal and Calgary, while CTV broadcast them to the rest of the country. CBC then had the exclusive rights to televise games three, four, and five nationally. Had the series gone to a seventh game, then both CBC and CTV would have simultaneously televised it while using their separate production facilities and crews. After the season, CTV pulled the plug on their two-year-long venture with the NHL, and their rights package was eventually given to the [[NHL on Global|Global-Canwest consortium]].
+
+This was the first of three consecutive seasons that [[ESPN National Hockey Night|ESPN]] televised the Stanley Cup Final in the United States.
+
+==See also==
+* [[List of Stanley Cup champions]]
+* [[1985–86 NHL season]]
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+*{{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|location=Bolton, Ont|publisher=Fenn Pub|pages=12, 50|isbn=978-1-55168-261-7}}
+{{s-start}}
+{{succession box |
+  before = [[1985 Stanley Cup Final|Edmonton Oilers<br />1985]] |
+  after = [[1987 Stanley Cup Final|Edmonton Oilers<br />1987]] |
+  title = [[List of Stanley Cup champions|Montreal Canadiens<br />Stanley Cup champions]] |
+  years = 1986|
+}}
+{{s-end}}
+
+==Notes==
+{{reflist}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Montreal Canadiens}}
+{{Calgary Flames}}
+{{1985–86 NHL season by team}}
+{{Hockey Night in Canada}}
+{{ESPN National Hockey Night}}
+{{NHL on CTV}}
+}}
+
+[[Category:1986 Stanley Cup| ]]
+[[Category:1985–86 NHL season|Stanley]]
+[[Category:Calgary Flames games]]
+[[Category:Montreal Canadiens games]]
+[[Category:Stanley Cup Finals]]
+[[Category:May 1986 sports events in Canada|Stanley Cup Final]]
+[[Category:1986 in Montreal]]
+[[Category:1986 in sports in Quebec]]
+[[Category:1986 in sports in Alberta|Stanley Cup Final]]
+[[Category:1980s in Calgary]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:Ice hockey competitions in Calgary]]

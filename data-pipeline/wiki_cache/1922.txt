@@ -1,0 +1,207 @@
+{{Short description|1922 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1922
+|format=best-of-five
+|team1='''[[1921–22 Toronto St. Patricks season|Toronto St. Patricks]]''' (NHL)
+|team1_1=3
+|team1_2='''2'''*
+|team1_3=0
+|team1_4='''6'''
+|team1_5='''5'''
+|team1_tot=3
+|team2=[[Vancouver Millionaires]] (PCHA)
+|team2_1='''4'''
+|team2_2=1*
+|team2_3='''3'''
+|team2_4=0
+|team2_5=1
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|coaches=Toronto: [[George O'Donoghue]]<br>Vancouver: [[Frank Patrick (hockey)|Frank Patrick]]
+|dates= March 17–28, 1922
+|location1=[[Toronto]]: [[Arena Gardens]]
+|series_winner=[[Babe Dye]] (4:20, first)
+|hofers='''St. Patricks:'''<br/>[[Harry Cameron]] (1963)<br/>[[Babe Dye]] (1970)<br/>[[Eddie Gerard]] (1945)<br/>[[Reg Noble]] (1962)<br/>'''Millionaires:'''<br/>[[Jack Adams]] (1959)<br/>[[Hughie Lehman]] (1958)<br/>[[Mickey MacKay]] (1952)<br/>'''Coaches:'''<br/>[[Frank Patrick (ice hockey)|Frank Patrick]] (1950)
+}}
+The '''1922 Stanley Cup Final''' was contested by the [[National Hockey League]] (NHL) champion [[1921–22 Toronto St. Patricks season|Toronto St. Patricks]] and the [[Pacific Coast Hockey Association]] (PCHA) champion [[Vancouver Millionaires]]. The St. Pats defeated Vancouver three games to two in the best-of-five game series to win their only [[Stanley Cup]] as the St. Pats.<ref>Predecessor club 'Torontos' and descendent club 'Toronto Maple Leafs' would win Stanley Cups.</ref>
+
+This was the last Stanley Cup Final contested by a team from Vancouver until the [[1982 Stanley Cup Final]]. All games were held at [[Arena Gardens]] in Toronto.
+
+==Paths to the Finals==
+{{main|1922 Stanley Cup playoffs}}
+Vancouver finished second overall in the [[1921–22 PCHA season|1921–22 PCHA regular season]] standings with a 12–12 record. However, they then went on to defeat the 12–11–1 first place [[Seattle Metropolitans]] in the PCHA championship series, winning both games by 1–0.
+
+Meanwhile, the [[1921–22 NHL season]] was capped with the 13–10–1 second place St. Patricks defeating the 14–8–2 first place [[Ottawa Senators (original)|Ottawa Senators]], 5–4, in the two-game total goals NHL championship series.
+
+After defeating the WCHL's Regina Capitals in the preliminary series, the PCHA's Vancouver Millionaires travelled to Toronto for the Final.
+
+==Game summaries==
+A fifth and deciding game five was necessary in this series to determine who would win the Cup. After Vancouver won game one, 4–3, [[Babe Dye]] scored 4:50 into overtime of game two to give Toronto a 2–1 win.It was in this game that Toronto fans got to see the penalty shot for the first time as Vancouver defenceman Art Duncan tripped Babe Dye from behind. Dye did not score on the shot. Vancouver won game three 3-0 and defenceman [[Harry Cameron]] suffered a separated shoulder and Toronto asked [[Frank Patrick (ice hockey)|Frank Patrick]] for the use of Ottawa defenceman [[Eddie Gerard]] and Patrick permitted it. The St. Patricks tied the series in game four, 6–0, as [[John Ross Roach]] became the first rookie goaltender to record a Stanley Cup shutout. After this game, Patrick ruled Gerard ineligible. A sellout crowd jammed the Arena Gardens for game five. The game belonged to Toronto as Dye scored four goals in a 5–1 victory to clinch the Cup. Harry Cameron played despite his injury and mixed it up with [[Alf Skinner]] of Vancouver for which both players were banished with minor penalties for roughing. [[Reg Noble]] played a very good defensive game for Toronto.
+
+For the series, Dye scored nine of the St. Pats' 16 goals, while Roach  posted a 1.80 goals-against average.
+
+{{NHLPlayoffs
+|team1=Toronto St. Patricks
+|team2=Vancouver Millionaires
+|stadium2=[[Mutual Street Arena]]
+|stadium1=[[Denman Arena]]
+
+|date1       =March 17
+|home1       =2
+|score1      =4–3
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/vmi-vs-tsp/1922/03/17/1921030211
+|1-1-1       =01:07 – [[Babe Dye]] (3)<br>10:30 – [[Ken Randall]] (2)
+|1-1-2       =[[Jack Adams]] (1) – 02:30<br>Jack Adams (2) – 05:30<br>[[Mickey MacKay]] (1) – 14:30
+|1-2-1       =08:00 – Babe Dye (4)
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =Jack Adams (3) – 16:30
+|goalie1-1   =[[John Ross Roach]]
+|goalie1-2   =[[Hugh Lehman]]
+
+|date2       =March 21
+|home2       =2
+|score2      =1–2
+|ot2         =1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/vmi-vs-tsp/1922/03/21/1921030212
+|2-1-1       =''No scoring''
+|2-1-2       =[[Jack Adams]] (4) – 13:00
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =01:45 – [[Corb Denneny]] (2)
+|2-3-2       =''No scoring''
+|2-4-1       =04:50 – [[Babe Dye]] (5)
+|2-4-2       =''No scoring''
+|goalie2-1   =[[John Ross Roach]]
+|goalie2-2   =[[Hugh Lehman]]
+
+|date3       =March 23
+|score3      =3–0
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/vmi-vs-tsp/1922/03/23/1921030213
+|3-1-1       =''No scoring''
+|3-1-2       =[[Lloyd Cook]] (1) – 15:00
+|3-2-1       =''No scoring''
+|3-2-2       =[[Jack Adams]] (5) – 04:00
+|3-3-1       =''No scoring''
+|3-3-2       =[[Eddie Oatman]] (1) – 18:00
+|goalie3-1   =[[John Ross Roach]]
+|goalie3-2   =[[Hugh Lehman]]
+
+|date4       =March 25
+|score4      =0–6
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/vmi-vs-tsp/1922/03/25/1921030214
+|4-1-1       =12:00 – [[Lloyd Andrews (ice hockey)|Lloyd Andrews]] (1)<br>15:00 - [[Babe Dye]] (6)
+|4-1-2       =''No scoring''
+|4-2-1       =06:00 – Babe Dye (7)<br>10:00 – Lloyd Andrews (2)<br>18:00 – [[Corb Denneny]] (3)
+|4-2-2       =''No scoring''
+|4-3-1       =17:00 – [[Rod Smylie]] (1)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[John Ross Roach]]
+|goalie4-2   =[[Hugh Lehman]]
+
+|date5       =March 28
+|home5       =2
+|score5      =1–5
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/vmi-vs-tsp/1922/03/28/1921030215
+|5-1-1       =03:00 – [[Babe Dye]] (8)<br>04:20 – Babe Dye (9)
+|5-1-2       =''No scoring''
+|5-2-1       =07:00 – [[Corb Denneny]] (4)
+|5-2-2       =''No scoring''
+|5-3-1       =01:15 – Babe Dye (10)<br>08:15 – Babe Dye (11)
+|5-3-2       =[[Jack Adams]] (6) – 18:15
+|goalie5-1   =[[John Ross Roach]]
+|goalie5-2   =[[Hugh Lehman]]
+
+|series = Toronto won series 3–2
+}}
+
+==Stanley Cup engraving==
+
+The 1922 Stanley Cup was presented by the trophy's trustee [[William Foran]]. The St. Patricks never did engrave their name on the Cup for their championship season.
+
+It was not until the trophy was redesigned in 1948 that the words "1922 Toronto St. Patricks" was put onto its then-new collar.
+
+The following St. Patricks players and staff were members of the Stanley Cup winning team.
+
+'''1921–22 Toronto St. Patricks'''
+{{Stanley Cup champion 
+|goaltenders=*1 [[John Ross Roach]]
+*1 [[Ivan Mitchell]] (injured)&
+*William Teale (Spare)@
+|defence=
+*2 [[Harry Cameron]]
+*3 [[Ted Stackhouse]]
+*4 [[Bill "Red" Stuart]]
+*2 [[Eddie Gerard]]&†
+*9-10-11 [[George Smith (ice hockey)|Grafton "Glenn" Smith]]&
+|centres=*8 [[Reg Noble]](Captain)
+*5 [[Corb Denneny]]‡ 
+*6 [[Ken Randall]]‡
+|wingers=*9 [[Lloyd Andrews (ice hockey)|Lloyd Andrews]]
+*7 [[Cecil "Babe" Dye]]
+*10 [[Rod Smylie]]
+*9 [[Pat Nolan (ice hockey)|Pat Nolan]]&
+*12 [[Stan Jackson]]&
+|player-notes=
+*† borrowed for one game in the Stanley Cup Final from Ottawa
+*&-missing from the team picture.
+*‡ Corb Denneny & Ken Randall each played one game as a Rover in the Stanley Cup Final
+*@- included on the team picture, but never played in the NHL.
+|non-players=
+* [[Charlie Querrie]] (President/Manager)
+*[[George O'Donoghue]] (Business Manager/Coach) 
+*Willy Pop (Trainer)
+*Harry McIlroy (Asst. Trainer)
+*-Note-*(This was the last season that rover position was used in the Stanley Cup Final). 
+At the start of the 1922-23 season, PCHA and WCHL agreed to have an interlocking regular season schedule, and PCHA dropped the Rover position. The alternating games in the finals with or without the rover position was not necessary anymore. All Stanley Cup playoff games since have been played with 6 players on each side. 
+|engraving-notes=
+For reasons unknown, the St. Pats did not engrave their name on the Cup for their 1922 championship. It was not until the trophy was redesigned in 1948 that the words "1922 Toronto St. Pats" was put onto its then-new collar in 1948.
+George O'Donoghue was 2nd NHL rookie coach to win the Stanley Cup
+[[File:1922 Stanley Cup.png|300px|right]]
+}}
+
+==See also==
+* [[1921–22 NHL season]]
+* [[1921–22 PCHA season]]
+* [[1921-22 WCHL season]]
+
+==References==
+;Bibliography
+*{{cite book |title=The Official National Hockey League Stanley Cup Centennial Book |editor=Dan Diamond |year=1992 |publisher=Firefly Books |isbn=1-895565-15-4 |pages=53–54}}
+*{{cite book |title=Total Stanley Cup |publisher=Dan Diamond & Associates |last=NHL |year=2000}}
+*{{cite book |title=Lord Stanley's Cup |last=Podnieks |first=Andrew |author2=Hockey Hall of Fame |year=2004 |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box
+|before = [[1921 Stanley Cup Final|Ottawa Senators<br>1921]]
+|after = [[1923 Stanley Cup Final|Ottawa Senators<br>1923]]
+|title = [[Toronto St. Patricks]]<br>[[List of Stanley Cup champions|Stanley Cup champions]]
+|years = 1922
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Toronto Maple Leafs}}
+{{1921–22 NHL season by team}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1921–22 in Canadian ice hockey|Stanley]]
+[[Category:1921–22 PCHA season|Stan]]
+[[Category:1921–22 NHL season|Stan]]
+[[Category:Vancouver Millionaires games|1922]]
+[[Category:Toronto St. Patricks|Stan]]
+[[Category:1922 Stanley Cup| ]]
+[[Category:March 1922 sports events in Canada]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1922 in Ontario]]
+[[Category:1920s in Toronto]]

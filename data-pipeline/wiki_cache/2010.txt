@@ -1,0 +1,1585 @@
+{{short description|2010 ice hockey championship series}}
+{{use mdy dates|date=January 2014}}
+{{Infobox Stanley Cup Final
+|year = 2010
+|image = 2010 Stanley Cup Final logo.svg
+|team1 = [[2009–10 Philadelphia Flyers season|Philadelphia Flyers]]
+|team1_1 =5
+|team1_2 =1
+|team1_3 ='''4'''*
+|team1_4 ='''5'''
+|team1_5 =4
+|team1_6 =3*
+|team1_tot =2
+|team1_short = Philadelphia
+|team1_coach = [[Peter Laviolette]]
+|team1_captain = [[Mike Richards (ice hockey)|Mike Richards]]
+|team1_national_anthem=[[Lauren Hart (American pop singer)|Lauren Hart]] and [[Kate Smith]]
+|team2='''[[2009–10 Chicago Blackhawks season|Chicago Blackhawks]]'''
+|team2_1='''6'''
+|team2_2='''2'''
+|team2_3=3*
+|team2_4=3
+|team2_5='''7'''
+|team2_6='''4'''*
+|team2_tot=4
+|team2_short=Chicago
+|team2_coach=[[Joel Quenneville]]
+|team2_captain=[[Jonathan Toews]]
+|team2_national_anthem=[[Jim Cornelison]]
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|referees=[[Bill McCreary (referee)|Bill McCreary]] (1, 3, 5)<br>[[Dan O'Halloran]] (1, 3, 5)<br>[[Kelly Sutherland]] (2, 4, 6)<br>[[Stephen Walkom]] (2, 4, 6)
+|dates=May 29 – June 9, 2010
+|location1=[[Philadelphia]]: [[Wachovia Center (Philadelphia)|Wachovia Center]] (3, 4, 6)
+|location2=[[Chicago]]: [[United Center]] (1, 2, 5)
+|mvp= [[Jonathan Toews]] (Blackhawks)
+|series_winner=[[Patrick Kane]] (4:06, OT)
+|hofers='''Blackhawks:'''<br/>[[Marián Hossa|Marian Hossa]] (2020) <br/>[[Duncan Keith]] (2025)<br/>'''Flyers:'''<br/>[[Chris Pronger]] (2015)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1–2, 5–6), [[NHL on Versus|Versus]] (3–4) 
+|net_announcers=(CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br/>(RDS) [[Pierre Houde]] and [[Benoit Brunet]]<br/>(NBC/Versus) [[Mike Emrick]] and [[Eddie Olczyk]]<br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+}}
+The '''2010 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2009–10 NHL season|2009–10 season]], and the culmination of the [[2010 Stanley Cup playoffs]]. It was contested between the [[Western Conference (NHL)|Western Conference]] champion [[2009–10 Chicago Blackhawks season|Chicago Blackhawks]] and the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2009–10 Philadelphia Flyers season|Philadelphia Flyers]]. It was Chicago's 11th appearance in the Finals and their first since {{scfy|1992}}, a loss to the [[Pittsburgh Penguins]]. It was Philadelphia's eighth appearance in the Finals and their first since {{scfy|1997}}, a loss to the [[Detroit Red Wings]]. Chicago defeated Philadelphia four games to two to win their fourth Stanley Cup in franchise history,<ref name="schedule">{{cite web|url=http://www.nhl.com/ice/news.htm?id=530012|title=NHL.com – 2010 Stanley Cup Final Schedule|publisher=NHL Enterprises, L. P.|date=May 24, 2010|accessdate=May 24, 2010}}</ref> and their first since {{scfy|1961}},<ref name="Philadelphia"/> ending the [[List of NHL franchise post-season droughts|longest active Stanley Cup drought]].
+
+The Blackhawks became the fourth major Chicago sports team to win a championship since 1984, joining the [[1985 Chicago Bears season|1985 Chicago Bears]], the [[Chicago Bulls]] [[Dynasty (sports)|dynasty]] of the 1990s, and the [[2005 Chicago White Sox season|2005 Chicago White Sox]].<ref name=ChicagoChampionships/> The [[2016 Chicago Cubs season|2016 Chicago Cubs]] would complete the cycle of all Chicago sports teams winning at least one championship in 30 years. Blackhawks captain [[Jonathan Toews]] was awarded the [[Conn Smythe Trophy]] as the Most Valuable Player of the 2010 playoffs, and was the first Blackhawks player to receive this honor. He and teammates [[Duncan Keith]] and [[Brent Seabrook]] won the Olympic gold medal with Team Canada at the [[2010 Winter Olympics]], adding the three players to the list of [[Ken Morrow]] ({{scfy|1980}}) and [[Steve Yzerman]] and [[Brendan Shanahan]] (both {{scfy|2002}}), as well as [[Drew Doughty]] and [[Jeff Carter]] (both {{scfy|2014}}), as the only players to accomplish this double in the same year.<ref>{{cite news|publisher=CBC/Radio-Canada|title=Blackhawks end 49-year Stanley Cup drought|date=June 10, 2010|url=https://www.cbc.ca/sports/hockey/nhl/blackhawks-end-49-year-stanley-cup-drought-1.876810|website=CBC.ca|first=Tim|last=Wharnsby|accessdate=June 16, 2023}}</ref> Having played for Team USA at the Olympics, [[Patrick Kane]] joined [[Chris Chelios]] and [[Brett Hull]] (both 2002) as having won both the Olympic silver medal and Stanley Cup in the same year.<ref name=Impact/> Jonathan Toews also became the 24th player and the seventh Canadian to become a member of the [[Triple Gold Club]] having won an Olympic gold medal, an [[International Ice Hockey Federation|IIHF]] World Championship Gold Medal, and the Stanley Cup.
+
+==Paths to the Final== 
+This was the third straight Finals in which the Western Conference team was an [[Original Six]] team that won the [[Central Division (NHL)|Central Division]] and the Eastern Conference team was an [[Atlantic Division (NHL)|Atlantic Division]] team from the state of [[Pennsylvania]]. The Red Wings and Penguins played each other in the Stanley Cup Final in {{scfy|2008}} and {{scfy|2009}}.
+
+The Blackhawks and Flyers had previously met in the 1971 playoffs; the Blackhawks defeated the Flyers in four games.
+
+===Chicago Blackhawks=== 
+{{Main|2009–10 Chicago Blackhawks season}}
+{{Multiple image|total_width = 400
+| align             = right
+| direction         = horizontal
+| image1            = Lions at the Art Institute, June 2010 (4788393843).jpg
+| caption1          = Northern sculpture
+| image2            = Mighty Lion Hawk I (4691710685) (1).jpg
+| caption2          = Southern sculpture
+| footer          = [[Lions (Kemeys)|The lion sculptures]] outside of the [[Art Institute of Chicago]] decorated to celebrate the Chicago Blackhawks' postseason
+}}
+
+The Chicago Blackhawks finished the regular season as the Central Division champions with 112 points. This was the 14th division title in franchise history for Chicago, but the first since {{NHL Year|1992}} when it was called the [[Norris Division]]. As the second seed in the Western Conference playoffs, the Blackhawks defeated the seventh seed [[Nashville Predators]] and the third seed [[Vancouver Canucks]] in six games each, and then swept the first seed [[San Jose Sharks]] in the Western Conference Final to advance to the Finals for the first time since {{scfy|1992}}.
+
+Chicago's [[Marián Hossa|Marian Hossa]] is the first player in NHL history to appear in three straight Stanley Cup Final with three different teams. He previously made the Final with the Pittsburgh Penguins in 2008 and with the Detroit Red Wings in 2009. Along with Hossa, the other half of Chicago's preseason acquisition from Detroit, [[Tomáš Kopecký|Tomas Kopecky]], was also playing in his third straight Stanley Cup Final.
+
+===Philadelphia Flyers===
+{{Main|2009–10 Philadelphia Flyers season}}
+The Philadelphia Flyers earned the seventh seed in the Eastern Conference playoffs after finishing the regular season with 88 points, and winning the tiebreaker over the [[Montreal Canadiens]], with more wins (41 to 39). The Flyers were the last team to qualify for the [[2010 Stanley Cup playoffs]]. Their [[Cinderella (sports)|Cinderella]] march to the Finals began on the final day of the regular season when they met the New York Rangers in a winner-take-all match-up for the final playoff spot. Philadelphia defeated their [[Flyers–Rangers rivalry|Atlantic Division rival]]s 2–1 in a [[shootout]], the first do-or-die shootout for a playoff spot in NHL history.<ref>{{cite news|title=Playoff Payoff; Giroux's shoot-out goal puts Flyers in postseason|date=April 12, 2010|first=Sam|last=Carchidi|newspaper=The Philadelphia Inquirer|page=E1}}</ref>
+
+In the first round of the playoffs, the Flyers upset the second seed [[Devils–Flyers rivalry|divisional rival]] [[New Jersey Devils]] in five games. In the second round, against the sixth-seeded [[Boston Bruins]], Philadelphia became the third NHL team to win a seven-game series after being down three games to none (the others being the [[1941–42 Toronto Maple Leafs season|1942 Toronto Maple Leafs]] and the [[1974–75 New York Islanders season|1975 New York Islanders]]). In addition, in game seven of that series, the Flyers rallied from a three goals to none deficit to win the game and series, 4–3.
+
+In the Eastern Conference Final, the Flyers eliminated the Canadiens in five games to advance to the Stanley Cup Final for the first time since {{scfy|1997}}.<ref name=Philadelphia>{{cite news|title=Two cities that could use a CUP|date=June 2, 2010|first=Ken|last=Warren|newspaper=Ottawa Citizen|page=B3}}</ref> They were also the first team to reach the Finals with less than 90 points in the regular season since the Vancouver Canucks in {{scfy|1994}}, when they had 85. It also gave the city of [[Sports in Philadelphia|Philadelphia]] the distinction of being the first city to have all its teams play in each of the four professional sports leagues title rounds since 2000,<ref>{{cite news|title=Uniquely Successful; In this decade, all 4 pro teams reached finals|date=May 26, 2010|first=Frank|last=Fitzpatrick|newspaper=Philadelphia Inquirer|page=C1|quote=Among those cities with teams in the four major sports (not including metropolitan regions), only Philadelphia has reached championship rounds in all four in the new millennium.}}</ref> following the [[Philadelphia 76ers|76ers]] in the [[2001 NBA Finals]], the [[Philadelphia Eagles|Eagles]] in [[Super Bowl XXXIX]] after the {{nfly|2004}} season, and the [[Philadelphia Phillies|Phillies]] in back-to-back World Series in {{wsy|2008}} and {{wsy|2009}}, winning in 2008 to bring the city of Philadelphia a championship after 25 years.<ref name="Philadelphia" /> The Flyers attempted to win the Stanley Cup for the first time since winning back-to-back Stanley Cups in {{scfy|1974}} and {{scfy|1975}}.<ref name="Philadelphia"/>
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|team2=Chicago Blackhawks
+|team1=Philadelphia Flyers
+|stadium1=[[United Center]]
+|date1=May 29
+|score1=5–6
+|recap1=www.nhl.com/schedule/playoff-series/2010/series-o/flyers-vs-blackhawks
+|won1=2
+}}
+
+The Chicago Blackhawks won the first game by a score of 6–5 on the strength of two goals by [[Troy Brouwer]]. Throughout the game, the two teams traded goals with neither team having a lead greater than one. The Flyers opened the scoring at 6:38 of the first period on a goal by [[Ville Leino]] that deflected off the face of [[Niklas Hjalmarsson]]. The Blackhawks responded with two quick goals, one of which was shorthanded, to take the lead. The lead would not last long, however, as the Flyers would counter with two goals of their own to re-take the lead 3–2 after the first period. [[Patrick Sharp]] scored 1:11 into the second period to tie the game once again. Both teams would trade goals once again and tie the game at five after the second period. [[Michael Leighton]] was replaced by [[Brian Boucher]] after allowing the fifth Chicago goal. In the third period, Tomas Kopecky scored what would eventually prove to be the game winner at 8:25. [[Antti Niemi (ice hockey)|Antti Niemi]] finished the game with 27 saves on 32 shots while Leighton saved 15 out of 20 shots. Boucher stopped 11 of 12 shots faced in relief of Leighton.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;"
+| rowspan="5"| '''1st'''
+|| PHI
+|| [[Ville Leino]] (5)
+|| [[Daniel Brière|Daniel Briere]] (10) and [[Chris Pronger]] (11)
+|| 6:38
+|| 1–0 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Troy Brouwer]] (3)
+|| [[Marián Hossa|Marian Hossa]] (10) and [[Brent Sopel]] (4)
+|| 7:46
+|| 1–1
+|-style="text-align:center;
+|| CHI
+|| [[Dave Bolland]] (6) – ''sh''
+|| ''None''
+|| 11:50
+|| 2–1 CHI
+|-style="text-align:center;
+|| PHI
+|| [[Scott Hartnell]] (4) – ''pp''
+|| Daniel Briere (11) and Chris Pronger (12)
+|| 16:37
+|| 2–2
+|-style="text-align:center;
+|| PHI
+|| Daniel Briere (10)
+|| Ville Leino (9) and Scott Hartnell (6)
+|| 19:33
+|| 3–2 PHI
+|-style="text-align:center;
+| rowspan="5"| '''2nd'''
+|| CHI
+|| [[Patrick Sharp]] (8)
+|| Troy Brouwer (2) and [[Niklas Hjalmarsson]] (5)
+|| 1:11
+|| 3–3
+|-style="text-align:center;
+|| PHI
+|| [[Blair Betts]] (1)
+|| [[Arron Asham]] (3) and [[Darroll Powe]] (1)
+|| 7:20
+|| 4–3 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Kris Versteeg]] (5)
+|| [[Tomáš Kopecký|Tomas Kopecky]] (2) and [[Duncan Keith]] (10)
+|| 9:31
+|| 4–4
+|-style="text-align:center;
+|| CHI
+|| Troy Brouwer (4)
+|| [[Marián Hossa|Marian Hossa]] (11) and Niklas Hjalmarsson (6)
+|| 15:18
+|| 5–4 CHI
+|-style="text-align:center;
+|| PHI
+|| Arron Asham (4)
+|| Daniel Briere (12) and Scott Hartnell (7)
+|| 18:49
+|| 5–5
+|-style="text-align:center;
+|rowspan="1"| '''3rd'''
+|| CHI
+|| Tomas Kopecky (4)
+|| [[Kris Versteeg]] (6) and [[Dave Bolland]] (6)
+|| 8:25
+|| 6–5 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+|rowspan="3"| '''1st'''
+|| CHI
+|| [[Ben Eager]]
+|| Cross-checking
+|| 3:26
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Patrick Kane]]
+|| Slashing
+|| 9:58
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Brian Campbell]]
+|| High-sticking
+|| 15:51
+|| 2:00
+|-style="text-align:center;
+| rowspan="1"| '''2nd'''
+|| CHI
+|| [[Adam Burish]]
+|| Boarding
+|| 4:59
+|| 2:00
+|-style="text-align:center;
+|| '''3rd'''
+|colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 17 || 9 || 6 || 32
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 9 || 15 || 8 || 32
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team2=Chicago Blackhawks
+|team1=Philadelphia Flyers
+|stadium1=[[United Center]]
+|date1=May 31
+|score1=1–2
+|recap1=www.nhl.com/gamecenter/phi-vs-chi/2010/05/31/2009030412
+|won1=2
+}}
+
+The Blackhawks took game two of the best-of-seven series by a score of 2–1, thus giving them a 2–0 series lead heading into games three and four in Philadelphia. In contrast to game one, game two was a low-scoring affair with much tighter defense displayed by both teams. Neither team would score in the opening frame as the game entered the first intermission scoreless. It was not until late in the second period that Chicago managed to get the ice breaker with a goal from Marian Hossa. The Blackhawks quickly added another goal just 28 seconds later on a wrist shot by [[Ben Eager]]. The Flyers would eventually reply in the third period on a power play goal by [[Simon Gagné|Simon Gagne]] but it would not be enough. Both goaltenders were much stronger as Antti Niemi stopped 32 of 33 shots for the Blackhawks while Michael Leighton rebounded with 24 stops on 26 shots.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;
+|| '''1st'''
+| colspan="5"| ''None''
+|-style="text-align:center;
+| rowspan="2"| '''2nd'''
+|| CHI
+|| [[Marián Hossa|Marian Hossa]] (3)
+|| [[Troy Brouwer]] (3) and [[Patrick Sharp]] (10)
+|| 17:09
+|| 1–0 CHI
+|-style="text-align:center;
+|| CHI
+|| [[Ben Eager]] (1)
+|| [[Dustin Byfuglien]] (3)
+|| 17:37
+|| 2–0 CHI
+|-style="text-align:center;
+|| '''3rd'''
+|| PHI
+|| [[Simon Gagné|Simon Gagne]] (8) – ''pp''
+|| [[Mike Richards (ice hockey)|Mike Richards]] (16) and [[Jeff Carter]] (2)
+|| 5:20
+|| 2–1 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+| rowspan="5"| '''1st'''
+|| CHI
+|| [[Kris Versteeg]]
+|| Interference
+|| 7:26
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Blair Betts]]
+|| Cross-checking
+|| 14:48
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Tomáš Kopecký|Tomas Kopecky]]
+|| Elbowing
+|| 17:27
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Daniel Carcillo]]
+|| Unsportsmanlike conduct
+|| 17:27
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| Mike Richards
+|| Elbowing
+|| 17:27
+|| 2:00
+|-style="text-align:center;
+| rowspan="2"| '''2nd'''
+|align=center | PHI
+|| Mike Richards
+|| Hooking
+|| 5:08
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| Troy Brouwer
+|| Roughing
+|| 19:24
+|| 2:00
+|-style="text-align:center;
+| rowspan="1"| '''3rd'''
+|| CHI
+|| Patrick Sharp
+|| Tripping
+|| 3:21
+|| 2:00
+|-style="text-align:center;
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 3 || 15 || 15 || 33
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 9 || 13 || 4 || 26
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team2=Philadelphia Flyers
+|team1=Chicago Blackhawks
+|stadium1=[[Wachovia Center (Philadelphia)|Wachovia Center]]
+|date1=June 2
+|score1=3–4
+|recap1=www.nhl.com/gamecenter/chi-vs-phi/2010/06/02/2009030413
+|won1=2
+|ot1=1
+}}
+
+The Flyers won game three in overtime, 4–3, to pull within two games to one in the series. [[Daniel Brière|Daniel Briere]] opened the scoring for Philadelphia with a power play goal at 14:58 of the first period. [[Duncan Keith]] tied the game at 1–1 early in the second period, and both teams added another goal to leave the score at 2–2 entering the third period. [[Patrick Kane]] scored with 17:10 remaining in the game to give the Blackhawks their first lead, but Ville Leino responded with the tying goal 20 seconds later. In overtime, shortly after a review determined that a shot by Gagne was not a goal, [[Claude Giroux]] scored the game-winner at 5:59 of the extra period.<ref>{{cite news|title=Giroux plays OT hero as Flyers get on board in Cup finals|work=ESPN|agency=Associated Press|date=June 2, 2010|url=https://www.espn.com/nhl/recap?gameId=300602015|access-date=June 16, 2010| archive-url= https://web.archive.org/web/20100607094434/http://espn.go.com/nhl/recap?gameId=300602015| archive-date= June 7, 2010 | url-status= dead}}</ref> This was the first time since [[1987 Stanley Cup Final|1987]] that the Flyers had won a game in the Stanley Cup Final.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;
+|rowspan="1"| '''1st'''
+|| PHI
+|| [[Daniel Brière|Daniel Briere]] (11) – ''pp''
+|| [[Scott Hartnell]] (8) and [[Braydon Coburn]] (3)
+|| 14:58
+|| 1–0 PHI
+|-style="text-align:center;
+| rowspan="3"| '''2nd'''
+|| CHI
+|| [[Duncan Keith]] (2)
+|| [[Patrick Kane]] (14) and [[Marián Hossa|Marian Hossa]] (12)
+|| 2:49
+|| 1–1
+|-style="text-align:center;
+|| PHI
+|| Scott Hartnell (5) – ''pp''
+|| [[Chris Pronger]] (13) and [[Claude Giroux]] (10)
+|| 9:55
+|| 2–1 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Brent Sopel]] (1)
+|| [[John Madden (ice hockey)|John Madden]] (1)
+|| 17:52
+|| 2–2
+|-style="text-align:center;
+| rowspan="2"| '''3rd'''
+|| CHI
+|| Patrick Kane (8)
+|| [[Jonathan Toews]] (20) and [[Ben Eager]] (2)
+|| 2:50
+|| 3–2 CHI
+|-style="text-align:center;
+|| PHI
+|| [[Ville Leino]] (6)
+|| Claude Giroux (11) and [[Matt Carle]] (11)
+|| 3:10
+|| 3–3
+|-style="text-align:center;
+|| '''OT'''
+|| PHI
+|| Claude Giroux (9)
+|| Matt Carle (12) and Daniel Briere (13)
+|| 5:59
+|| 4–3 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+| rowspan="3"| '''1st'''
+|| CHI
+|| Marian Hossa
+|| Slashing
+|| 13:54
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Daniel Carcillo]]
+|| Charging
+|| 18:05
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Dustin Byfuglien]]
+|| Roughing
+|| 20:00
+|| 2:00
+|-style="text-align:center;
+| rowspan="3"| '''2nd'''
+|| PHI
+|| Chris Pronger
+|| High-sticking
+|| 3:36
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| Dustin Byfuglien
+|| Slashing
+|| 9:31
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Michael Leighton]] (Served by Ville Leino)
+|| Delay of game
+|| 14:59
+|| 2:00
+|-style="text-align:center;
+|| '''3rd'''
+| colspan="5"| ''None''
+|-style="text-align:center;
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 9 || 12 || 4 || 2 || 27
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 9 || 7 || 15 || 1 || 32
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team2=Philadelphia Flyers
+|team1=Chicago Blackhawks
+|stadium1=[[Wachovia Center (Philadelphia)|Wachovia Center]]
+|date1=June 4
+|score1=3–5
+|won1=2
+|recap1=www.nhl.com/gamecenter/chi-vs-phi/2010/06/04/2009030414
+}}
+
+The Flyers evened the series at two games apiece by winning game four, 5–3. The Flyers took the lead 4:35 into the game on a [[Mike Richards (ice hockey)|Mike Richards]] power play goal. [[Matt Carle]] extended their lead to 2–0 at 14:48 of the first period. Sharp cut Philadelphia's lead in half with 1:28 left in the period, but Giroux restored the Flyers' two-goal advantage 51 seconds later. Following a scoreless second period, Leino gave Philadelphia a three-goal lead 6:43 into the third period. [[Dave Bolland]] (on a power play) and [[Brian Campbell]] scored later in the third to leave Chicago trailing 4–3 with 4:10 remaining. However, [[Jeff Carter]] scored an empty-net goal with 25 seconds left to clinch the Flyers' victory.<ref>{{cite news|title=Flyers hold off Blackhawks' late charge to tie Stanley Cup finals at 2|work=ESPN|agency=Associated Press|date=June 4, 2010|url=https://www.espn.com/nhl/recap?gameId=300604015|access-date=June 16, 2010| archive-url= https://web.archive.org/web/20100607094439/http://espn.go.com/nhl/recap?gameId=300604015| archive-date= June 7, 2010 | url-status= dead}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;
+| rowspan="4"| '''1st'''
+|| PHI
+|| [[Mike Richards (ice hockey)|Mike Richards]] (7) – ''pp''
+|| ''Unassisted''
+|| 4:35
+|| 1–0 PHI
+|-style="text-align:center;
+|| PHI
+|| [[Matt Carle]] (1)
+|| ''Unassisted''
+|| 14:48
+|| 2–0 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Patrick Sharp]] (9)
+|| [[Duncan Keith]] (11)
+|| 18:32
+|| 2–1 PHI
+|-style="text-align:center;
+|| PHI
+|| [[Claude Giroux]] (10)
+|| [[Kimmo Timonen]] (9) and [[Scott Hartnell]] (9)
+|| 19:23
+|| 3–1 PHI
+|-style="text-align:center;
+|| '''2nd'''
+| colspan="5"| ''None''
+|-style="text-align:center;
+| rowspan="4"| '''3rd'''
+|| PHI
+|| [[Ville Leino]] (7)
+|| [[Daniel Brière|Daniel Briere]] (14) and [[James van Riemsdyk]] (3)
+|| 6:43
+|| 4–1 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Dave Bolland]] (7) – ''pp''
+|| Duncan Keith (12) and [[Patrick Kane]] (15)
+|| 12:01
+|| 4–2 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Brian Campbell]] (1)
+|| [[Andrew Ladd]] (2) and Duncan Keith (13)
+|| 15:50
+|| 4–3 PHI
+|-style="text-align:center;
+|| PHI
+|| [[Jeff Carter]] (5) – ''en''
+|| ''Unassisted''
+|| 19:35
+|| 5–3 PHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+| rowspan="3"| '''1st'''
+|| CHI
+|| [[Andrew Ladd]]
+|| Interference
+|| 0:35
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Tomáš Kopecký|Tomas Kopecky]]
+|| High-sticking
+|| 4:30
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Kimmo Timonen]]
+|| Hooking
+|| 8:16
+|| 2:00
+|-style="text-align:center;
+|rowspan="4"| '''2nd'''
+|| CHI
+|| Dave Bolland
+|| High-sticking
+|| 1:27
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Patrick Sharp]]
+|| Slashing
+|| 12:53
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Nick Boynton]]
+|| Slashing
+|| 18:22
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Scott Hartnell]]
+|| Cross-checking
+|| 18:22
+|| 2:00
+|-style="text-align:center;
+| rowspan="4"| '''3rd'''
+|| CHI
+|| [[Brent Seabrook]]
+|| Cross-checking
+|| 8:03
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| Scott Hartnell
+|| Unsportsmanlike conduct
+|| 10:46
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Braydon Coburn]]
+|| Holding
+|| 11:49
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Kris Versteeg]]
+|| Slashing
+|| 19:42
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 11 || 13 || 10 || 34
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 8 || 10 || 13 || 31
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team2=Chicago Blackhawks
+|team1=Philadelphia Flyers
+|stadium1=[[United Center]]
+|date1=June 6
+|score1=4–7
+|recap1=www.nhl.com/gamecenter/phi-vs-chi/2010/06/06/2009030415
+|won1=2
+}}
+
+The Blackhawks took a 3–2 lead in the series with a 7–4 victory in game five. At 12:17 of the first period, [[Brent Seabrook]] scored on a power play to give Chicago the lead. Within the next six minutes, the Blackhawks tripled their advantage, adding goals by Bolland and [[Kris Versteeg]] to make the score 3–0. At the start of the second period, the Flyers again took Leighton out of the game, replacing him with Boucher. Four goals were scored in the second period—two by each team—and the Blackhawks entered the third period with a 5–2 lead. [[James van Riemsdyk]] pulled Philadelphia within two goals at 6:36 of the third. Sharp made the score 6–3 with 3:52 remaining, but Gagne answered for the Flyers 1:16 later. Thirty-one seconds after Gagne's goal, [[Dustin Byfuglien]] tallied an empty-net goal—his second goal of the game—which concluded the scoring. Flyers' [[alternate captain]] [[Chris Pronger]] was on the ice for six of Chicago's goals and was in the penalty box on the seventh. Discounting the [[power play (sport)|power play]] goal, Pronger finished -5 on the game.<ref>{{cite news|title=Byfuglien leads offensive outburst as Blackhawks push Flyers to brink in Cup finals|work=ESPN|agency=Associated Press|date=June 6, 2010|url=https://www.espn.com/nhl/recap?gameId=300606004|archive-url=https://web.archive.org/web/20180823041914/http://www.espn.com/nhl/recap?gameId=300606004|url-status=dead|archive-date=August 23, 2018|access-date=June 16, 2010}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;
+| rowspan="3"| '''1st'''
+|| CHI
+|| [[Brent Seabrook]] (4) – ''pp''
+|| [[Kris Versteeg]] (7) and [[Troy Brouwer]] (4)
+|| 12:17
+|| 1–0 CHI
+|-style="text-align:center;
+|| CHI
+|| [[Dave Bolland]] (8)
+|| [[Brent Sopel]] (5) and [[Dustin Byfuglien]] (4)
+|| 15:26
+|| 2–0 CHI
+|-style="text-align:center;
+|| CHI
+|| Kris Versteeg (6)
+|| Brent Seabrook (7) and Dustin Byfuglien (5)
+|| 18:15
+|| 3–0 CHI
+|-style="text-align:center;
+| rowspan="4"| '''2nd'''
+|| PHI
+|| [[Scott Hartnell]] (6)
+|| [[Ville Leino]] (10) and [[Daniel Brière|Daniel Briere]] (15)
+|| 0:32
+|| 3–1 CHI
+|-style="text-align:center;
+|| CHI
+|| [[Patrick Kane]] (9)
+|| [[Andrew Ladd]] (3) and [[Patrick Sharp]] (11)
+|| 3:13
+|| 4–1 CHI
+|-style="text-align:center;
+|| PHI
+|| [[Kimmo Timonen]] (1)
+|| Daniel Briere (16) and Ville Leino (11)
+|| 4:38
+|| 4–2 CHI
+|-style="text-align:center;
+|| CHI
+|| Dustin Byfuglien (9) – ''pp''
+|| [[Jonathan Toews]] (21) and [[Duncan Keith]] (14)
+|| 15:45
+|| 5–2 CHI
+|-style="text-align:center;
+| rowspan="4"| '''3rd'''
+|| PHI
+|| [[James van Riemsdyk]] (3)
+|| [[Lukáš Krajíček|Lukas Krajicek]] (2) and Kimmo Timonen (10)
+|| 6:36
+|| 5–3 CHI
+|-style="text-align:center;
+|| CHI
+|| Patrick Sharp (10)
+|| Patrick Kane (16)
+|| 16:08
+|| 6–3 CHI
+|-style="text-align:center;
+|| PHI
+|| [[Simon Gagné|Simon Gagne]] (9)
+|| [[Ville Leino]] (12)
+|| 17:24
+|| 6–4 CHI
+|-style="text-align:center;
+|| CHI
+|| Dustin Byfuglien (10) – ''en''
+|| Kris Versteeg (8) and Dave Bolland (7)
+|| 17:55
+|| 7–4 CHI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+| rowspan="3"| '''1st'''
+|| PHI
+|| Lukas Krajicek
+|| Cross checking
+|| 2:50
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| Dave Bolland
+|| Cross checking
+|| 9:15
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Scott Hartnell]]
+|| High-sticking
+|| 11:16
+|| 2:00
+|-style="text-align:center;
+| rowspan="3"| '''2nd'''
+|| PHI
+|| Scott Hartnell
+|| Elbowing
+|| 7:19
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| Brent Seabrook
+|| Closing hand on puck
+|| 9:51
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Chris Pronger]]
+|| Hooking
+|| 15:18
+|| 2:00
+|-style="text-align:center;
+|| '''3rd'''
+|| CHI
+|| Kris Versteeg
+|| Slashing
+|| 4:59
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 7 || 10 || 10 || 27
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 13 || 8 || 7 || 28
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team2=Philadelphia Flyers
+|team1=Chicago Blackhawks
+|stadium1=[[Wachovia Center (Philadelphia)|Wachovia Center]]
+|date1=June 9
+|score1=4–3
+|won1=1
+|ot1=1
+|recap1=www.nhl.com/gamecenter/chi-vs-phi/2010/06/09/2009030416
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=rZxwMyDA27o Game 6 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+The sixth game required overtime, as the score was tied 3–3 at the end of the third period. Patrick Kane of the Chicago Blackhawks scored the Cup-winning goal at 4:06 into the overtime period, a shot in which the puck crossed the goal line and then got stuck underneath the padding in the back of the net. Several observers, including most of the players, announcers, and all the officials initially lost sight of the puck. Only Kane and Patrick Sharp started to celebrate immediately, soon followed by the rest of the Blackhawks. It was only after a video review that the goal was officially awarded.
+
+Jonathan Toews won the Conn Smythe Trophy as playoff MVP. It was the first [[List of Stanley Cup Final overtime series winners|Cup to be won in overtime]] since {{scfy|2000}}.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;
+| rowspan="2"| '''1st'''
+|| CHI
+|| [[Dustin Byfuglien]] (11) – ''pp''
+|| [[Jonathan Toews]] (22) and [[Patrick Kane]] (17)
+|| 16:49
+|| 1–0 CHI
+|-style="text-align:center;
+|| PHI
+|| [[Scott Hartnell]] (7) – ''pp''
+|| [[Daniel Brière|Daniel Briere]] (17) and [[Chris Pronger]] (14)
+|| 19:33
+|| 1–1
+|-style="text-align:center;
+| rowspan="3"| '''2nd'''
+|| PHI
+|| Daniel Briere (12)
+|| [[Ville Leino]] (13) and [[Lukáš Krajíček|Lukas Krajicek]] (3)
+|| 8:00
+|| 2–1 PHI
+|-style="text-align:center;
+|| CHI
+|| [[Patrick Sharp]] (11)
+|| [[Dave Bolland]] (8) and [[Duncan Keith]] (15)
+|| 9:58
+|| 2–2
+|-style="text-align:center;
+|| CHI
+|| [[Andrew Ladd]] (3)
+|| [[Niklas Hjalmarsson]] (7) and Patrick Kane (18)
+|| 17:43
+|| 3–2 CHI
+|-style="text-align:center;
+| rowspan="1"| '''3rd'''
+|| PHI
+|| Scott Hartnell (8)
+|| Ville Leino (14) and Daniel Briere (18)
+|| 16:01
+|| 3–3
+|-style="text-align:center;
+|rowspan="1"| '''OT'''
+|| CHI
+|| Patrick Kane (10)
+|| [[Brian Campbell]] (4)
+|| 4:06
+|| 4–3 CHI
+|-style="text-align:center;
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;
+| rowspan="5"| '''1st'''
+|| PHI
+|| Chris Pronger
+|| Holding
+|| 8:42
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Brent Sopel]]
+|| Interference
+|| 13:28
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| Chris Pronger
+|| High-sticking
+|| 16:29
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Brent Seabrook]]
+|| Elbowing
+|| 16:59
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Brent Sopel]]
+|| Interference
+|| 19:07
+|| 2:00
+|-style="text-align:center;
+| rowspan="4"| '''2nd'''
+|| PHI
+|| Scott Hartnell
+|| High-sticking
+|| 1:56
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| [[Braydon Coburn]]
+|| Cross checking
+|| 8:09
+|| 2:00
+|-style="text-align:center;
+|| CHI
+|| [[Marián Hossa|Marian Hossa]]
+|| Goaltender interference
+|| 9:29
+|| 2:00
+|-style="text-align:center;
+|| PHI
+|| Daniel Briere
+|| Cross checking
+|| 18:32
+|| 2:00
+|-style="text-align:center;
+|| '''3rd'''
+| colspan="5"| ''None''
+|-style="text-align:center;
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-style="text-align:center;
+| style="text-align:left;"| CHI || 17 || 10 || 12 || 2 || 41
+|-style="text-align:center;
+| style="text-align:left;"| PHI || 7 || 6 || 9 || 2 || 24
+|}
+
+==Officials==
+*Referees:<ref name="Referees">{{cite web|url=http://www.nhl.com/ice/news.htm?id=530504|title=NHL names officials for Stanley Cup Final|date=May 26, 2010|work=NHL.com|access-date=May 31, 2010}}</ref> [[Bill McCreary (referee)|Bill McCreary]], [[Dan O'Halloran]], [[Kelly Sutherland]], [[Stephen Walkom]]
+*Linesmen:<ref name="Referees"/> [[Greg Devorski]], [[Steve Miller (linesman)|Steve Miller]], [[Jean Morin (ice hockey)|Jean Morin]], [[Pierre Racicot]]
+
+==Television==
+In Canada, the series was televised in English on [[Hockey Night in Canada|CBC]] and in French on the cable network [[LNH à RDS|RDS]]. In the United States, [[NHL on NBC|NBC]] broadcast games one, two, five, and six, while [[NHL on Versus|Versus]] televised games three and four.<ref name="schedule"/> In Europe, [[Viasat Sport]] broadcast the televised finals in [[Sweden]], [[Finland]], [[Norway]], [[Denmark]], and the [[Baltic States]] ([[Latvia]], [[Lithuania]], and [[Estonia]]), through five regional divisions of Viasat Sport.<ref>{{cite web |url=http://www.viasatsport.se/hockey/champions-hockey-league/viasat-hockey-saender-nhl |title=Viasat Hockey sänder NHL &#124; Viasat Sport |publisher=Viasatsport.se |access-date=June 7, 2010 |archive-date=September 7, 2009 |archive-url=https://web.archive.org/web/20090907081908/http://www.viasatsport.se/hockey/champions-hockey-league/viasat-hockey-saender-nhl |url-status=dead }}</ref> Its sister channel [[Viasat Sport East]] broadcast in the [[Russian language]] to the European and [[Eurasia]]n countries of Russia, [[Belarus]], [[Georgia (country)|Georgia]], [[Moldova]], [[Kazakhstan]], [[Ukraine]], [[Armenia]], [[Kyrgyzstan]], and [[Uzbekistan]].<ref>{{cite web|url=http://www.viasat-channels.tv/channel/viasat_sport/ |title=Телеканал Viasat Sport – Каналы Viasat в Украине |publisher=Viasat-channels.tv |access-date=June 7, 2010}}</ref>
+
+===Ratings===
+Game one produced the best overnight rating in the United States for a game one since the 1999 Final. The 2.8 overnight rating and six share was a 12-percent increase from the first game of the 2009 Final between the Pittsburgh Penguins and Detroit Red Wings.<ref>{{cite web|last=Lepore|first=Steve|title=NBC Scores Best Game 1 Rating in 11 Years|url=http://puckthemedia.wordpress.com/2010/05/30/nbc-scores-best-game-1-rating-in-11-years/|publisher=Puck The Media|date=May 30, 2010|access-date=May 30, 2010}}</ref> Meanwhile, in Canada, game one was viewed by {{Nowrap|3.164 million}} people on CBC.<ref>{{cite web|last=Lepore |first=Steve |title=Game 1 Draws 3 Million to CBC |url=http://puckthemedia.wordpress.com/2010/06/01/game-1-draws-3-million-to-cbc/ |publisher=Puck The Media |access-date=June 1, 2010 |date=June 1, 2010 |archive-url=https://web.archive.org/web/20100605215012/http://puckthemedia.wordpress.com/2010/06/01/game-1-draws-3-million-to-cbc/ |archive-date=June 5, 2010 |url-status=live |df=mdy }}</ref>
+
+Game two of the series, on [[Memorial Day]], earned a 4.1 rating.<ref name=Ratings/> The number of viewers increased as the game averaged approximately {{Nowrap|six million}} viewers with a peak of {{Nowrap|6.940 million}} at {{Nowrap|10:30 pm}} [[Eastern Time Zone|ET]].<ref>{{cite web|last=Gorman|first=Bill|title=TV Ratings Monday: NHL Stanley Cup Final Edges Bachelorette & True Beauty|url=http://tvbythenumbers.com/2010/06/01/tv-ratings-monday/52789|publisher=TV by the Numbers|access-date=June 1, 2010|date=June 1, 2010|archive-url=https://web.archive.org/web/20100603210738/http://tvbythenumbers.com/2010/06/01/tv-ratings-monday/52789|archive-date=June 3, 2010|url-status=dead}}</ref> According to NBC, this is the highest game two since at least the 1975 Final because data prior to then is unavailable. Game two also saw a 21-percent increase over 2009's second game.<ref>{{cite web|last=Lepore |first=Steve |title=NBC Sports: Game 2 Ratings Best Since At Least 1975 |url=http://puckthemedia.wordpress.com/2010/06/01/nbc-sports-game-2-ratings-best-since-at-least-1975/ |publisher=Puck The Media |access-date=June 1, 2010 |date=June 1, 2010 |archive-url=https://web.archive.org/web/20100605215022/http://puckthemedia.wordpress.com/2010/06/01/nbc-sports-game-2-ratings-best-since-at-least-1975/ |archive-date=June 5, 2010 |url-status=live }}</ref> In local markets game two drew a 25.1 rating and 39 share in Chicago along with an 18.5 rating and 28 share in Philadelphia.<ref>{{cite news|last=Rosenthal|first=Phil|title=Blackhawks TV: Chicago ratings surge with Stanley Cup finals Game 2 victory|url=http://newsblogs.chicagotribune.com/towerticker/2010/06/blackhawks-tv-chicago-ratings-surge-with-game-2-victory.html|publisher=Chicago Tribune|access-date=June 1, 2010|date=June 1, 2010| archive-url= https://web.archive.org/web/20100603202411/http://newsblogs.chicagotribune.com/towerticker/2010/06/blackhawks-tv-chicago-ratings-surge-with-game-2-victory.html| archive-date= June 3, 2010 | url-status= live}}</ref>
+
+Game three returned to cable on Versus where it received a 2.0 rating and {{Nowrap|3.6 million}} viewers.<ref name=Ratings/> The broadcast peaked at {{Nowrap|5.1 million}} viewers at {{Nowrap|10:30 pm}} ET. It ranked as the highest rated and most viewed program in the history of Versus.<ref name=Ratings/> It also ranked as the highest-rated and most-viewed Stanley Cup Final game on cable television since {{scfy|2002}}.<ref name=Ratings/>
+
+Game four saw a decline of 9% from the 2009 Final between the Penguins and the Red Wings as just {{Nowrap|3.1 million}} viewers tuned into the game.<ref>{{cite web|last=Lepore|first=Steve|title=VERSUS Slumps to 3.1 Million For Game 4|url=http://puckthemedia.wordpress.com/2010/06/08/versus-slumps-to-3-1-million-for-game-4/|publisher=Puck The Media|date=June 8, 2010|accessdate=December 12, 2010}}</ref>
+
+With the series returning to broadcast television on NBC, the ratings trend rebounded and improved over the 2009 Final ratings trend. Game five's prime time portion of the broadcast received a 3.3 final rating and averaged {{Nowrap|5.8 million}} viewers, an increase of 38% in the ratings and 32% in viewers over the 2009 Final.<ref>{{cite web|last=Lepore|first=Steve|title=Final Numbers For Game 5|url=http://puckthemedia.wordpress.com/2010/06/08/final-numbers-for-game-5/|publisher=Puck The Media|date=June 8, 2010|accessdate= December 12, 2010}}</ref> Locally, the Chicago market received a 26.0 rating while Philadelphia had a 19.7 rating. The average for the three NBC broadcasts rose to {{Nowrap|5.4 million}} viewers, an increase of 800,000 compared to 2009.<ref>{{cite web|last=Lepore|first=Steve|title=Game 5 Nears 6 Million Viewers, Up Big From 2009|url=http://puckthemedia.wordpress.com/2010/06/07/game-5-nears-6-million-viewers-up-big-from-2009/|publisher=Puck The Media|access-date=June 7, 2010|date=June 7, 2010}}</ref> This increase came despite going head to head with the [[2010 NBA Finals]].
+
+Game six was the most-watched NHL game since game six in 1974, drawing a 4.7 rating and 8 share, up 38 percent vs. 3.4/6 for game six in 2009.<ref name=Ratings/><ref name=Game6>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl-draws-highest-tv-ratings-in-36-years-1.871825|title=NHL draws highest TV ratings in 36 years|date=June 10, 2010|access-date=June 10, 2010|author=Canadian Press|work=CBC Sports| archive-url= https://web.archive.org/web/20100614053514/http://www.cbc.ca/sports/hockey/story/2010/06/10/sp-stanleycup-ratings.html| archive-date= June 14, 2010 | url-status= live}}</ref> The top two markets were Chicago, with a 32.8/50 and Philadelphia, 26.8/38.<ref>{{cite web|url=http://prohockeytalk.nbcsports.com/2010/06/2010-stanley-cup-finals-game-6-highest-rated-nhl-game-since-1974.php|title=2010 Stanley Cup Final Game 6 highest rated NHL game since 1974|work=NBC Sports|first=Brandon|last=Worley|date=June 10, 2010|access-date=June 10, 2010| archive-url= https://web.archive.org/web/20100613222151/http://prohockeytalk.nbcsports.com/2010/06/2010-stanley-cup-finals-game-6-highest-rated-nhl-game-since-1974.php| archive-date= June 13, 2010 | url-status= live}}</ref> In Canada, game six was the most-watched all-American Stanley Cup Final game on the CBC, with 4.077 million viewers.<ref name=Ratings/><ref name=Game6/> The Final averaged 3.107 million viewers, up 44 percent from 2009.<ref name=Ratings>{{cite web|url=http://www.nhl.com/ice/news.htm?id=531630 |title=Stanley Cup Playoffs attract largest audience ever |date=June 14, 2010 |work=NHL.com |access-date=December 12, 2010  |archive-url=https://web.archive.org/web/20101203164219/http://www.nhl.com/ice/news.htm?id=531630 |archive-date=December 3, 2010 |url-status=live |df=mdy }}</ref><ref name=Game6/>
+
+==Impact and aftermath==
+
+===Blackhawks===
+[[File:Chicago Grant Park night pano.jpg|thumb|center|800px|Chicago skyline with the [[333 South Wabash|CNA Center]] showing the [[Chicago Blackhawks]]' logo, the [[Willis Tower]]'s spires lit in red, the [[Smurfit-Stone Building]] saying Go Hawks and the [[Blue Cross Blue Shield Tower]] saying Hawks win the night after the Chicago Blackhawks won the Stanley Cup, viewed from the [[Petrillo Music Shell]] lawn in [[Grant Park (Chicago)|Grant Park]].]]
+The win was the Blackhawks' first championship since {{scfy|1961}}. It gave the city of Chicago the distinction of being the first city to have at least a championship in each of the four major professional sports since 1985.<ref name=ChicagoChampionships>{{cite news|quote=The White Sox honored the Bears, Bulls, Blackhawks and themselves Friday in a pregame ceremony, billing Chicago as the only city to win all four major championships in the last 25 years.|title=Off-field issues not bothering team; WHITE SOX 9, YANKEES 4|date=August 28, 2010|first=Dave|last=Van Wyck|newspaper=Chicago Tribune|page=3}}</ref> It also vaulted Toews into the Triple Gold Club, winning the [[Ice hockey at the 2010 Winter Olympics|Olympic gold medal in Vancouver earlier in 2010]] and an [[2007 IIHF World Championship|IIHF World Championship Gold medal in 2007]]. Toews and defencemen Duncan Keith and Brent Seabrook also became the fourth, fifth, and sixth players to win Olympic Gold and the Stanley Cup in the same year.<ref name=Impact>{{cite news|url=https://www.nytimes.com/2010/06/10/sports/hockey/10flyers.html?_r=1&fta=y&pagewanted=print|title=Blackhawks Win First Stanley Cup in 49 Years|date=June 9, 2010|first=Jeff Z.|last=Klein|newspaper=New York Times|page=B11|access-date=October 8, 2010}}</ref> With Chicago's win, the [[Toronto Maple Leafs]] are now the only Original Six team not to win the Stanley Cup or play in the Finals since the [[1967 NHL expansion|1967 expansion]]; their most recent Finals appearance is [[1967 Stanley Cup Final|1967]].
+
+The day after the Blackhawks won the Stanley Cup, Chicago Mayor [[Richard M. Daley]] issued a proclamation declaring June 11 Chicago Blackhawks Day in the city of Chicago.<ref name=Proclamation>{{cite news|title=Chicago celebrates Blackhawks' Stanley Cup win|date=June 12, 2010|first=Carla K.|last=Johnson|agency=Associated Press}}</ref> That day, an estimated two million Chicagoans attended the Blackhawks Stanley Cup parade, more than the estimated 1.75 million who attended the parade for the [[Chicago White Sox]]'s [[2005 World Series]] championship, and more than the rallies at [[Grant Park (Chicago)|Grant Park]] for any of the [[Chicago Bulls]]' NBA championships.<ref name="Proclamation"/><ref>{{cite web|url=http://nbcsports.msnbc.com/id/37654557/ns/sports-player_news/|date=June 12, 2010|title=Estimated 2 million attend Cup parade|work=NBC Sports|access-date=December 12, 2010 <!--DASHBot-->|archive-url=https://web.archive.org/web/20100716072813/http://nbcsports.msnbc.com/id/37654557/ns/sports-player_news|archive-date=July 16, 2010|url-status=dead}}</ref> The Blackhawks' celebration also overshadowed the [[Cubs–White Sox rivalry|series between the White Sox and Chicago Cubs]] taking place around the same time.<ref>{{cite web|url=https://www.espn.com/espn/print?id=5274235&type=story|title=Hawks distract from bad baseball|date=June 11, 2010|first=Jon|last=Greenberg|work=ESPNChicago.com|access-date=December 12, 2010}}</ref> However, White Sox manager [[Ozzie Guillén]] said that the parade the White Sox had was far bigger than the Blackhawks'.<ref>{{cite web|url=https://www.espn.com/espn/print?id=5284206&type=story|title=Guillen: Sox parade bigger than Hawks'|date=June 14, 2010|first=Bruce|last=Levine|work=ESPNChicago.com|quote=Guillen insisted that the Sox's parade after they won the 2005 World Series eclipsed the Hawks' celebration on Friday. 'Way bigger. Ours was better,' Guillen said. 'We had people all the way from the ballpark ([[U.S. Cellular Field]]) to downtown. They didn't have that. Ours was bigger, no doubt.'|accessdate= June 16, 2023}}</ref> Daley presented the proclamation to the team at the celebratory parade and rally.<ref name=Proclamation/>
+
+[[President of the United States|US President]] [[Barack Obama]], a former [[United States Senate|US Senator]] from [[Illinois]] and Chicago resident, phoned Joel Quennville to congratulate his team and to invite them to the [[White House]]. Obama joked that he now had "bragging rights" over [[Vice President of the United States|Vice President]] [[Joe Biden]], a Flyers fan.<ref>{{cite news|url=http://blogs.suntimes.com/sweet/2010/06/obama_phones_congratulations_t.html|title=Obama phones congratulations to Blackhawks Coach Quenneville; team invited to White House|date=June 10, 2010|first=Lynn|last=Sweet|work=Chicago Sun-Times|access-date=December 12, 2010 |archive-url=https://web.archive.org/web/20100614064340/http://blogs.suntimes.com/sweet/2010/06/obama_phones_congratulations_t.html|archive-date=June 14, 2010|url-status=dead|df=mdy-all}}</ref>
+
+===Flyers===
+The loss by the Flyers was the sixth straight Finals series they lost, tying them with the [[1932–33 Toronto Maple Leafs season|1933]]–[[1939–40 Toronto Maple Leafs season|40 Toronto Maple Leafs]] and the [[1955–56 Detroit Red Wings season|1956]]–[[1994–95 Detroit Red Wings season|95 Detroit Red Wings]] for most consecutive Finals lost.<ref name=Impact/>
+
+===The missing Cup-winning puck===
+Since the Cup-winning puck got stuck underneath the padding in the back of the net to end game six, there was controversy and speculation as to its whereabouts. Amid the confusion involving the video review and the subsequent celebrations, the Cup-winning puck got lost. Because it ended the Blackhawks' then-record for the longest active Cup drought, it was considered a valuable piece of sport memorabilia. So much so, a Chicago-based restaurant offered a $50,000 reward for it, and the [[Federal Bureau of Investigation|FBI]] was called in to investigate the case.<ref name="ESPN_Missing_Puck">{{cite web|url=https://www.espn.com/espn/eticket/story?page=110421/missingpuck&redirected=true |title=Outside the Lines: Where is the Puck? |first=Wayne |last=Drehs |publisher=ESPN |date=April 21, 2011 |access-date=May 2, 2011 |archive-url=https://web.archive.org/web/20110430034016/http://sports.espn.go.com/espn/eticket/story?page=110421%2Fmissingpuck |archive-date=April 30, 2011 |url-status=live }}</ref>
+
+Video and pictures taken from the game indicated that linesman Steve Miller was the first person who took the puck after the game-winning goal was scored, but he denied knowing where it eventually went.<ref name="ESPN_Missing_Puck"/> As a result of an [[ESPN]] story about the controversy on April 21, 2011, the league relieved Miller of his [[2011 Stanley Cup playoffs|2011 postseason]] duties for more than a week, citing that the controversy was a potential distraction during the playoffs.<ref name="ESPN_Miller">{{cite web|url=https://www.espn.com/chicago/nhl/news/story?id=6452071| title=Linesman to resume playoff duties|first=Wayne|last=Drehs|publisher=ESPN Interactive, Inc.|date=April 30, 2011|accessdate=June 16, 2023}}</ref> In reinstating Miller, the league said it stood by him and his story.<ref name="ESPN_Miller"/>
+
+==Controversy==
+Controversy came throughout the first four games between the Blackhawks and Flyer defenceman [[Chris Pronger]]. Chicago complained that Pronger had gotten away with rough play that they felt was beyond the rules. The Blackhawks argued that even when they responded with the same actions that Pronger was being allowed to get away with, that they would instead be given a penalty. The Blackhawks set up a meeting with the NHL to make a complaint about Pronger's play.<ref>{{cite web|url=https://www.nhl.com/blackhawks/news/hawks-must-deal-with-prongers-physical-game/c-531094|title=Hawks must deal with Pronger's physical game|publisher=NHL Enterprises, L. P.|date=June 6, 2010|website=NHL.com|accessdate=June 16, 2023}}</ref>
+
+Pronger had been noticed by the media and the NHL at the end of games one and two of the series as he picked up and left with the game puck at the conclusion of the games. When asked, Pronger replied that he had thrown the pucks in the garbage.<ref>{{cite web|url=http://www.pressofatlanticcity.com/sports/article_f90caade-6df4-11df-af13-001cc4c03286.html|title=Pronger draws attention for puck thefts after first two games - pressofAtlanticCity.com: Sports|last=Mazda|first=Jason|publisher=Press of Atlantic City|website=PressofAtlanticCity.com|date=June 2, 2010|accessdate=January 13, 2014}}</ref>
+
+==Team rosters==
+
+===Chicago Blackhawks===
+[[File:Jonathan Toews.JPG|thumb|right|200px|[[Jonathan Toews]] captained the Blackhawks to the first championship in [[1961 Stanley Cup Final|49 years]]]]
+{| style="text-align:center;"
+|- style="background:#ddd;"
+! style="width:3em" | #
+! style="width:3em" | [[Nationality|Nat]]
+! style="width:11em; text-align:left" | Player
+! style="width:5em" | Position
+! style="width:5em" | Hand
+! style="width:6em" | Acquired
+! style="width:17em" | Place of birth
+! style="width:15em" | Finals appearance
+|- style="background:#eee;"
+| '''29'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Bryan Bickell]]
+| LW
+| L
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Bowmanville|Bowmanville, Ontario]]
+| first
+|- style="background:#eee;"
+| '''36'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Dave Bolland]]
+| C
+| R
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Etobicoke|Etobicoke, Ontario]]
+| first
+|- style="background:#eee;"
+| '''24'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Nick Boynton]]
+| D
+| R
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Nobleton, Ontario]]
+| first
+|- style="background:#eee;"
+| '''22'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Troy Brouwer]]
+| RW
+| R
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Vancouver|Vancouver, British Columbia]]
+| first
+|- style="background:#eee;"
+| '''37'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Adam Burish]]
+| RW
+| R
+| [[2002 NHL Entry Draft|2002]]
+| style="text-align:left;"| [[Madison, Wisconsin]]
+| first
+|- style="background:#eee;"
+| '''33'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Dustin Byfuglien]] 
+| LW
+| R
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[Minneapolis|Minneapolis, Minnesota]]
+| first
+|- style="background:#eee;"
+| '''51'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Brian Campbell]]
+| D
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Strathroy-Caradoc|Strathroy, Ontario]]
+| first
+|- style="background:#eee;"
+| '''55'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Ben Eager]]
+| LW
+| L
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Ottawa|Ottawa, Ontario]]
+| first
+|- style="background:#eee;"
+| '''46'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Colin Fraser (ice hockey)|Colin Fraser]]
+| C
+| L
+| [[2003–04 NHL season|2004]]
+| style="text-align:left;"| [[Sicamous|Sicamous, British Columbia]]
+| first
+|- style="background:#eee;"
+| '''6'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Jordan Hendry]]
+| D
+| L
+| [[2005–06 NHL season|2005]]
+| style="text-align:left;"| [[Nokomis, Saskatchewan]]
+| first
+|- style="background:#eee;"
+| '''4'''
+| {{flagicon|SWE}}
+| style="text-align:left;"| [[Niklas Hjalmarsson]]
+| D
+| L
+| [[2005 NHL Entry Draft|2005]]
+| style="text-align:left;"| [[Eksjö|Eksjö, Sweden]]
+| first
+|- style="background:#eee;"
+| '''81'''
+| {{flagicon|SVK}}
+| style="text-align:left;"| [[Marián Hossa|Marian Hossa]]
+| RW
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Stará Ľubovňa|Stara Ľubovna, Czechoslovakia]]
+| third {{small|([[2008 Stanley Cup Final|2008]], [[2009 Stanley Cup Final|2009]])}}
+|- style="background:#eee;"
+| '''39'''
+| {{flagicon|FRA}}
+| style="text-align:left;"| [[Cristobal Huet]]
+| G
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Saint-Martin-d'Hères|Saint-Martin-d'Hères, France]]
+| first
+|- style="background:#eee;"
+| '''88'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Patrick Kane]]
+| RW
+| L
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"| [[Buffalo, New York]]
+| first
+|- style="background:#eee;"
+| '''2'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Duncan Keith]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[2002 NHL Entry Draft|2002]]
+| style="text-align:left;"| [[Winnipeg|Winnipeg, Manitoba]]
+| first
+|- style="background:#eee;"
+| '''82'''
+| {{flagicon|SVK}}
+| style="text-align:left;"| [[Tomáš Kopecký|Tomas Kopecky]]
+| RW
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Ilava|Ilava, Czechoslovakia]]
+| third {{small|('''[[2008 Stanley Cup Final|2008]]'''; did not play, [[2009 Stanley Cup Final|2009]])}}
+|- style="background:#eee;"
+| '''16'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Andrew Ladd]]
+| LW
+| L
+| [[2007–08 NHL season|2008]]
+| style="text-align:left;"| [[Maple Ridge, British Columbia]]
+| second {{small|('''[[2006 Stanley Cup Final|2006]]''')}}
+|- style="background:#eee;"
+| '''11'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[John Madden (ice hockey)|John Madden]]
+| C
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Barrie|Barrie, Ontario]]
+| fourth {{small|('''[[2000 Stanley Cup Final|2000]]''', [[2001 Stanley Cup Final|2001]], '''[[2003 Stanley Cup Final|2003]]''')}}
+|- style="background:#eee;"
+| '''31'''
+| {{flagicon|FIN}}
+| style="text-align:left;"| [[Antti Niemi (ice hockey)|Antti Niemi]]
+| G
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Vantaa|Vantaa, Finland]]
+| first
+|- style="background:#eee;"
+| '''7'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Brent Seabrook]]
+| D
+| R
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[Richmond, British Columbia]]
+| first
+|- style="background:#eee;"
+| '''10'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Patrick Sharp]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| [[2005–06 NHL season|2005]]
+| style="text-align:left;"| [[Thunder Bay|Thunder Bay, Ontario]]
+| first
+|- style="background:#eee;"
+| '''5'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Brent Sopel]]
+| D
+| R
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Calgary|Calgary, Alberta]]
+| first
+|- style="background:#eee;"
+| '''19'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Jonathan Toews]] – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"| [[Winnipeg|Winnipeg, Manitoba]]
+| first
+|- style="background:#eee;"
+| '''32'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Kris Versteeg]]
+| LW
+| R
+| [[2006–07 NHL season|2007]]
+| style="text-align:left;"| [[Lethbridge|Lethbridge, Alberta]]
+| first
+|}
+
+===Philadelphia Flyers===
+[[File:Mike Richards 2010-03-27.JPG|thumb|right|200px|[[Mike Richards (ice hockey)|Mike Richards]] captained the Flyers to their first Stanley Cup Final appearance since [[1997 Stanley Cup Final|1997]]]]
+{| style="text-align:center;"
+|- style="background:#ddd;"
+! style="width:3em" | #
+! style="width:3em" | [[Nationality|Nat]]
+! style="width:11em; text-align:left" | Player
+! style="width:5em" | Position
+! style="width:5em" | Hand
+! style="width:6em" | Acquired
+! style="width:17em" | Place of birth
+! style="width:15em" | Finals appearance
+
+|- style="background:#eee;"
+| '''45'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Arron Asham]]
+| RW
+| R
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Portage la Prairie|Portage la Prairie, Manitoba]]
+| first
+|- style="background:#eee;"
+| '''3'''
+| {{flagicon|LAT}}
+| style="text-align:left;"| [[Oskars Bārtulis|Oskars Bartulis]]
+| D
+| L
+| [[2005 NHL Entry Draft|2005]]
+| style="text-align:left;"| [[Ogre, Latvia|Ogre, Soviet Union]]
+| first
+|- style="background:#eee;"
+| '''11'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Blair Betts]]
+| C
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Edmonton|Edmonton, Alberta]]
+| first
+|- style="background:#eee;"
+| '''33'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Brian Boucher]] 
+| G
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Woonsocket, Rhode Island]]
+| first
+|- style="background:#eee;"
+| '''48'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Daniel Brière|Daniel Briere]]
+| C
+| R
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Gatineau|Gatineau, Quebec]]
+| first
+|- style="background:#eee;"
+| '''13'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Daniel Carcillo]]
+| LW
+| L
+| [[2008–09 NHL season|2009]]
+| style="text-align:left;"| [[King City, Ontario]]
+| first
+|- style="background:#eee;"
+| '''25'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Matt Carle]]
+| D
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Anchorage, Alaska]]
+| first
+|- style="background:#eee;"
+| '''17'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Jeff Carter]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[London, Ontario]]
+| first
+|- style="background:#eee;"
+| '''5'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Braydon Coburn]]
+| D
+| L
+| [[2006–07 NHL season|2007]]
+| style="text-align:left;"| [[Calgary|Calgary, Alberta]]
+| first
+|- style="background:#eee;"
+| '''29'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Ray|Emery}}
+| G
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| second {{small|([[2007 Stanley Cup Final|2007]])}}
+|- style="background:#eee;"
+| '''12'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Simon Gagné|Simon Gagne]]
+| LW
+| L
+| [[1998 NHL Entry Draft|1998]]
+| style="text-align:left;"| [[Sainte-Foy, Quebec City|Sainte-Foy, Quebec]]
+| first
+|- style="background:#eee;"
+| '''28'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Claude Giroux]]
+| RW
+| R
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"| [[Hearst, Ontario]]
+| first
+|- style="background:#eee;"
+| '''19'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Scott Hartnell]]
+| LW
+| L
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Regina, Saskatchewan]]
+| first
+|- style="background:#eee;"
+| '''2'''
+| {{flagicon|CZE}}
+| style="text-align:left;"| [[Lukáš Krajíček|Lukas Krajicek]]
+| D
+| L
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Prostějov|Prostějov, Czechoslovakia]]
+| first
+|- style="background:#eee;"
+| '''14'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Ian Laperrière|Ian Laperriere]]
+| RW
+| R
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Montreal|Montreal, Quebec]]
+| first
+|- style="background:#eee;"
+| '''49'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Michael Leighton]]
+| G
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Petrolia, Ontario]]
+| first
+|- style="background:#eee;"
+| '''22'''
+| {{flagicon|FIN}}
+| style="text-align:left;"| [[Ville Leino]]
+| LW
+| L
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Savonlinna|Savonlinna, Finland]]
+| second {{small|([[2009 Stanley Cup Final|2009]])}}
+|- style="background:#eee;"
+| '''77'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Ryan Parent]]
+| D
+| L
+| [[2006–07 NHL season|2007]]
+| style="text-align:left;"| [[Prince Albert, Saskatchewan]]
+| first
+|- style="background:#eee;"
+| '''36'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Darroll Powe]]
+| C
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Kanata, Ontario]]
+| first
+|- style="background:#eee;"
+| '''20'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Chris Pronger]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Dryden, Ontario]]
+| third {{small|([[2006 Stanley Cup Final|2006]], '''[[2007 Stanley Cup Final|2007]]''')}}
+|- style="background:#eee;"
+| '''18'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Mike Richards (ice hockey)|Mike Richards]] – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[Kenora|Kenora, Ontario]]
+| first
+|- style="background:#eee;"
+| '''44'''
+| {{flagicon|FIN}}
+| style="text-align:left;"| [[Kimmo Timonen]] – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Kuopio|Kuopio, Finland]]
+| first
+|- style="background:#eee;"
+| '''21'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[James van Riemsdyk]]
+| LW
+| L
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"| [[Middletown Township, New Jersey|Middletown, New Jersey]]
+| first
+|}
+
+==Stanley Cup engraving==
+The 2010 Stanley Cup was presented to Blackhawks captain Jonathan Toews by [[NHL Commissioner]] [[Gary Bettman]] following the Blackhawks' 4–3 overtime win over the Flyers in game six.
+
+The following Blackhawks players and staff had their names engraved on the Stanley Cup
+
+'''2009–10 Chicago Blackhawks'''
+{{Stanley Cup champion|
+defence=*2 [[Duncan Keith]] (A)
+*4 [[Niklas Hjalmarsson]]
+*5 [[Brent Sopel]]
+*6 [[Jordan Hendry]]
+*7 [[Brent Seabrook]]
+*24 [[Nick Boynton]]
+*51 [[Brian Campbell]]
+|wingers= *16 [[Andrew Ladd]]
+*22 [[Troy Brouwer]]
+*32 [[Kris Versteeg]]
+*33 [[Dustin Byfuglien]]
+*37 [[Adam Burish]]*
+*55 [[Ben Eager]]
+*81 [[Marián Hossa|Marian Hossa]]
+*82 [[Tomáš Kopecký|Tomas Kopecky]]
+*88 [[Patrick Kane]]
+|centres=*10 [[Patrick Sharp]]* (A)
+*11 [[John Madden (ice hockey)|John Madden]]
+*19 [[Jonathan Toews]] (Captain)
+*36 [[Dave Bolland]]
+*46 [[Colin Fraser (ice hockey)|Colin Fraser]] †
+|goaltenders=
+*31 [[Antti Niemi (ice hockey)|Antti Niemi]]
+*39 [[Cristobal Huet]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+|non-players=
+*W. Rockwell [[Rocky Wirtz]] (chairman/owner/governor), [[John McDonough (sports executive)|John McDonough]] (president), Jay Blunk (sr. vice president – business operations)
+*[[Stan Bowman]] (general manager), Al MacIsaac (sr. director, hockey administration – assistant to the president)
+*[[Kevin Cheveldayoff]] (assistant general manager), William [[Scotty Bowman]] (sr. advisor, hockey operations)
+*[[Dale Tallon]] (assistant general manager), [[Joel Quenneville]] (head coach), [[Mike Haviland]] (assistant coach)
+*[[John Torchetti]] (assistant coach), [[Stéphane Waite|Stephane Waite]] (goaltending coach), Mike Gapski (athletic trainer), Troy Parchman (equipment manager)
+*Jeff Thomas (assistant athletic trainer), Clint Reif (assistant equipment manager), Pawel Prylinski (massage therapist), Jim Heintzelman (equipment assistant)
+*Paul Goodman (strength & conditioning coach), Paul Vincent (skating coach), [[Marc Bergevin]] (director – player personnel), crossed out name of Brad Aldrich (video coach)
+*Mark Kelley (director – amateur scouting), [[Norm Maciver]] (director – player development), Michael Dumas (chief amateur scout), [[Ron Anderson (ice hockey, born 1950)|Ron Anderson]] (director – player recruitment)
+*Tony Ommen (director – team service), Mark Bernard (general manager – minor league affiliations), Dr. Michael Terry (head team physician)
+*Scotty Bowman won the Stanley Cup with his fourth team; Montreal, Pittsburgh, Detroit and Chicago. The only other people with wins with four  teams are [[Jack Marshall (ice hockey)|Jack Marshall]], Harry [[Hap Holmes]], [[Tommy Gorman]] and [[Al Arbour]]. This was also his 12th Stanley Cup win, tying him with Sam Pollock for second most times; only [[Jean Béliveau|Jean Beliveau]] with his name on the Stanley Cup 17 times has more.}}
+
+===Engraving notes===
+* Brad Aldrich (Video Coach) was initially engraved on the Stanley Cup in 2010. Following a 2021 investigation into [[2009–10 Chicago Blackhawks season#Sexual abuse scandal|allegations that he sexually assaulted]] prospect [[Kyle Beach]], among others, Aldrich's name was marked out with X's on the trophy by request of the team.<ref>{{cite news|url=https://apnews.com/article/nhl-sports-hockey-chicago-chicago-blackhawks-acb2cb2d1c56e1caf965e3aa370f97cd|title=Hall of Fame covers Brad Aldrich's name on Stanley Cup|first=Jay|last=Cohen|work=Associated Press|date=November 3, 2021|access-date=November 3, 2021}}</ref>
+* #36 Dave Bolland, played 39 games in the regular season due to injury then played in every playoff game. Qualified to have name on Cup for playing every game in every round including all in the finals.
+* #37 Adam Burish, only played 13 games in the regular season due to a preseason injury and played 15 in the playoffs, including the first three games in the finals. He qualified to have name engraved on Cup for playing in the finals.
+* #46 Colin Fraser, played 70 games in the regular season and three games in the playoffs, (none in the finals, all three games were in round one). He qualified to have name on the Cup for meeting the minimum 41 regular season game requirement.
+* Kris Versteeg's name was misspelled KRIS VERTSEEG with the "S" and "T" transposed. The engraver was able to correct the mistake.<ref>{{cite web|url=https://nhl.nbcsports.com/2010/09/28/kris-versteeg-goes-down-in-history-again-this-time-for-misspelled-name-on-stanley-cup/|title=Kris Versteeg goes down in history again, this time for misspelled name on Stanley Cup|last=Yerdon|first=Joe|publisher=NBC Universal|date=September 28, 2010|website=NHL.NBCSports.com|accessdate=June 16, 2023}}</ref>
+
+===Left off the Stanley Cup===
+* Chicago did not request an exemption to engrave the names of ten players who did not qualify (41 regular season games or one Finals game). Only Bryan Bickell played in the playoffs.<ref name="roster">[https://www.nhl.com/gamecenter/chi-vs-phi/2010/06/09/2009030416]</ref><ref>[https://www.espn.com/chicago/nhl/news/story?id=5633966 Bryan Bickell takes omission in stride]</ref>
+
+;Included in team picture
+* #29 [[Bryan Bickell]], (LW) – played 16 regular season games and four playoff games for Chicago (three in the first round and one in the second round). The NHL refused Chicago's request to include Bickell's name on the Stanley Cup since he did not play in final two rounds of the playoffs and spent most of the regular season in the minors. Bickell played 65 regular season games for [[Rockford IceHogs|Rockford]] of the [[American Hockey League|AHL]]. He was however, included in the team picture and got a personal day with the Stanley Cup over the summer.
+
+;Not in team picture
+* #8 [[Kim Johnsson]] (D) – played 60 games, 52 for Minnesota and 8 for Chicago, missing the last 14 games and all the playoffs due a concussion late in the season. Chicago chose not to submit his name for engraving because he spent most of the season with Minnesota. Due his concussion, Johnsson never played in the NHL again.
+* #20 [[Jack Skille]] (RW) – 6 regular season games, 63 for Rockford of the AHL
+* #28 [[Jake Dowell]] (C) – 3 regular season games, 78 for Rockford of the AHL
+* #50 [[Corey Crawford]] (G) – 1 regular season game, 43 for Rockford of the AHL
+* #34 [[Jassen Cullimore]] (D) – 0 regular season games, 59 for Rockford of the AHL
+* #30 [[Hannu Toivonen]] (G) – 0 regular season games, 26 for the Peoria Rivermen of the AHL, 5 for Rockford of the AHL
+* #44 [[Danny Richmond]] (D) – 0 regular season games, 54 for Peoria of the AHL, 15 for Rockford of the AHL
+* #42 [[Shawn Lalonde]] (D) – 0 regular season games, 58 for Belleville of the OHL, 8 for Rockford of the AHL
+* #12 [[Kyle Beach]] (C) – 0 regular season games, 68 for Spokane of the WHL, 4 for Rockford of the AHL
+* #56 [[Brian Connelly]] (D) – 0 regular season games, 78 for Rockford of the AHL
+* Six Ambassadors were also included on the Official Stanley Cup Picture - Ab MacDonald, Denis Savard, Glenn Hall, Bobby Hull, Stan Mikita, Tony Esposito. - All 6 members along with 13 more scouts, and other players, and non-players were awarded Stanley Cup Rings.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.nhl.com/cup/round4/index.html?int 2010 Stanley Cup Final NHL official site]{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[https://www.tsn.ca/nhl/feature/?id=24726 2010 Stanley Cup Final at TSN]
+*[https://web.archive.org/web/20100528093728/http://espn.go.com/nhl/playoffs/2010/matchup/_/teams/blackhawks-flyers 2010 Stanley Cup Final at ESPN]
+{{S-start}}
+{{Succession box | before = [[2009 Stanley Cup Final|Pittsburgh Penguins<br>2009]] | title = [[List of Stanley Cup champions|Chicago Blackhawks<br>Stanley Cup champions]] | years = 2010 | after = [[2011 Stanley Cup Final|Boston Bruins<br>2011]] |
+}}
+{{S-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Chicago Blackhawks}}
+{{Philadelphia Flyers}}
+{{2009–10 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on NBC}}
+{{NHL on RDS}}
+}}
+
+[[Category:2009–10 NHL season|Stanley Cup Final]]
+[[Category:2010 Stanley Cup| ]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Philadelphia Flyers games]]
+[[Category:Stanley Cup Finals]]
+[[Category:May 2010 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2010 sports events in the United States|Stanley Cup Final]]
+[[Category:2010 in Chicago]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:Ice hockey competitions in Philadelphia]]
+[[Category:2010 in Philadelphia|Stanley Cup Final]]
+[[Category:Events at United Center]]

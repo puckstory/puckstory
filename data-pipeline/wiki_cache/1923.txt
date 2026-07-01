@@ -1,0 +1,215 @@
+{{Short description|1923 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1923
+|dates=March 29–31, 1923
+|team1='''[[1922–23 Ottawa Senators season|Ottawa Senators]]''' (NHL)
+|team2=[[Edmonton Eskimos (ice hockey)|Edmonton Eskimos]] (WCHL)
+|format=best-of-three
+|team1_1='''2'''*
+|team2_1=1*
+|team1_2='''1'''
+|team2_2=0
+|team1_tot=2
+|team2_tot=0
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Vancouver]]: [[Denman Arena]]
+|series_winner=[[Punch Broadbent]] (11:23, first)
+|hofers='''Senators:'''<br />[[Clint Benedict]] (1965)<br />[[Georges Boucher]] (1960)<br />[[Punch Broadbent]] (1962)<br />[[King Clancy]] (1958)<br />[[Jack Darragh]] (1962)<br />[[Cy Denneny]] (1959)<br />[[Eddie Gerard]] (1945)<br />[[Frank Nighbor]] (1947)<br />'''Eskimos:'''<br />[[Duke Keats]] (1958)<br />[[Bullet Joe Simpson]] (1963)
+|coaches=Ottawa: [[Pete Green (ice hockey)|Pete Green]]<br />Edmonton: Ken McKenzie
+|captains=Ottawa: [[Eddie Gerard]]<br />Edmonton: [[Duke Keats]]
+}}
+The '''1923 Stanley Cup Final''' was contested by the NHL champion [[1922–23 Ottawa Senators season|Ottawa Senators]] and the WCHL champion [[Edmonton Eskimos (ice hockey)|Edmonton Eskimos]]. The previous WCHL-PCHA playoff format was abandoned, and the Ottawa Senators now had to play first the PCHA champion [[Vancouver Millionaires|Vancouver Maroons]], followed by the WCHL champion Edmonton Eskimos in the Finals.
+
+This was the last Finals series until the [[1983 Stanley Cup Final]] to be contested by a team from Edmonton. Both games were played in Vancouver, making this the last Finals until 2020 played entirely at a neutral site (the [[1924 Stanley Cup Final|1924]] and [[1925 Stanley Cup Final|1925]] Final series each featured one neutral site game).
+
+==Paths to the Finals==
+{{main|1923 Stanley Cup playoffs}}
+In the NHL playoff, the Senators defeated the Montreal Canadiens in a 2-game total-goal series by a close 3–2 score in the series. Billy Coutu
+charged Cy Denneny and Sprague Cleghorn butt-ended Lionel Hitchman in the first game and the Canadiens manager Leo Dandurand suspended both players for their actions. Odie Cleghorn and Didier Pitre did well in
+the two players place, but Ottawa won the series.
+
+Ottawa brought Montreal Canadiens right wing [[Billy Boucher]] west with
+them in hopes that they could use him, but [[Frank Patrick (ice hockey)|Frank Patrick]] ruled
+that the undermanned Senators could not use him.
+
+The playoff format of the previous year where the PCHA champion met the WCHL champion prior to playing the NHL champion was abandoned. Therefore, for this year, the PCHA champions were given the chance to play the NHL champion in a best-of-three series. The injury-riddled Senators then defeated Vancouver three games to one in the semi-finals.
+
+===Bracket===
+{{5TeamBracket-3 leagues
+| RD1-legs = 2
+| RD2-legs = 5
+| RD3-legs = 3
+| aggregate = y
+
+| RD1=League championships
+| RD2=Stanley Cup semifinals
+| RD3='''Stanley Cup Final'''
+| RD1-seed1='''P1'''
+| RD1-team1='''Vancouver Maroons'''
+| RD1-score1-1='''3'''
+| RD1-score1-2=2
+| RD1-seed2=P2
+| RD1-team2=Victoria Cougars
+| RD1-score2-1=0
+| RD1-score2-2='''3'''
+| RD1-score1-agg='''5'''
+| RD1-score2-agg=3
+| RD1-seed3='''N1'''
+| RD1-team3='''Ottawa Senators'''
+| RD1-score3-1='''2'''
+| RD1-score3-2=1
+| RD1-seed4=N2
+| RD1-team4=Montreal Canadiens
+| RD1-score4-1=0
+| RD1-score4-2='''2'''
+| RD1-score3-agg='''3'''
+| RD1-score4-agg=2
+
+| RD2-seed1=PC
+| RD2-team1=Vancouver Maroons
+| RD2-score1-1=0
+| RD2-score1-2='''4'''
+| RD2-score1-3=2
+| RD2-score1-4=1
+| RD2-score1-5=–
+| RD2-seed2='''NC'''
+| RD2-team2='''Ottawa Senators'''
+| RD2-score2-1='''1'''
+| RD2-score2-2=1
+| RD2-score2-3='''3'''
+| RD2-score2-4='''5'''
+| RD2-score2-5=–
+| RD2-score1-agg=1
+| RD2-score2-agg='''3'''
+
+| RD3-seed1=WC
+| RD3-team1=Edmonton Eskimos
+| RD3-score1-1=1
+| RD3-score1-2=0
+| RD3-score1-3=–
+| RD3-seed2='''NC'''
+| RD3-team2='''Ottawa Senators'''
+| RD3-score2-1='''2'''*
+| RD3-score2-2='''2'''
+| RD3-score2-3=–
+| RD3-score1-agg=0
+| RD3-score2-agg='''2'''
+}}
+<small>Note: * denotes overtime period(s)</small>
+
+==Game summaries==
+In the first game, Edmonton was leading 1–0, on a goal by [[Crutchy Morrison]], before the ailing [[Lionel Hitchman]] scored in the third period to tie the game. [[Duke Keats]] of Edmonton was awarded a penalty shot during the game, but failed to score. [[Cy Denneny]], despite suffering from
+a concussion, scored after two minutes of overtime to win the game for the Senators.<ref>{{cite news |work=The Globe |date=March 30, 1923 |title=Ottawa Beat Eskimos in Overtime Game, 2–1 |page=8}}</ref>
+
+In the second game, the Senators got a first-period goal from [[Punch Broadbent|Harry Broadbent]] and made it stand to the end of the game, playing six-man defence. The shots were recorded; 21, 14 and 13 for a total of 48 by the Senators, and 25, 18, and 25 for a total of 68 by Edmonton.<ref>{{cite news |work=The Globe |date=April 2, 1923 |page=12 |title=Ottawa Retains Canadian Title; Many handicaps overcome by best professional team in existence}}</ref> Several players could not play the whole game, including [[Eddie Gerard]] and [[Georges Boucher]]. [[Lionel Hitchman]] played the game with his broken nose in a plaster. [[Harry Helman]] played despite a cut to his face from [[Frank Nighbor]]'s skates, incurred in practice. Cy Denneny had been cut in the leg by the skate of Vancouver's [[Smokey Harris]].<ref>{{cite news |work=The Globe |date=April 3, 1923 |page=8 |title=How Ottawa Overcame Numerous Handicaps }}</ref> 'Super-sub' [[King Clancy]] took a turn in all positions, including goal for Clint Benedict in the third period for two minutes when Benedict was serving a penalty. At the time goalies had to serve their own penalties. This is only time that a player played all six positions in a Stanley Cup Final game.<ref>{{cite book |last=Conner|first=Floyd|title=Hockey's Most Wanted: The Top 10 Book of Wicked Slapshots, Bruising Goons, and Ice Oddities|publisher=Brassey's|year=2002|isbn=978-1-57488-364-0|url=https://books.google.com/books?id=RhckeJ5LuNUC&q=%22King+Clancy%22+%22six+positions%22&pg=PA162}}</ref>
+
+{{NHLPlayoffs
+|team1=Edmonton Eskimos
+|team2=Ottawa Senators
+|stadium2=[[Denman Arena]]
+|stadium1=[[The Arena]]
+
+|date1       =March 29
+|home1       =2
+|score1      =2–1
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/sen-vs-ede/1923/03/29/1922030311#game=1922030311,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =10:05 - [[John Morrison (ice hockey b. 1895)|John Morrison]] (1)
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =[[Lionel Hitchman]] (1) - 13:04
+|1-4-1       =''No scoring''
+|1-4-2       =[[Cy Denneny]] (3) - 2:08
+|goalie1-1   =[[Hal Winkler]]
+|goalie1-2   =[[Clint Benedict]]
+
+|date2       =March 31
+|home2       =2
+|score2      =1–0
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/sen-vs-ede/1923/03/31/1922030312#game=1922030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =[[Punch Broadbent]] (6) - ''pp'' - 11:23
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Hal Winkler]]
+|goalie2-2   =[[Clint Benedict]]
+
+|series = Ottawa won series 2–0
+}}
+
+==Stanley Cup engraving==
+The 1923 Stanley Cup was presented by the trophy's trustee [[William Foran]]. The Senators never did engrave their name on the Cup for their championship season.
+
+It was not until the trophy was redesigned in 1948 that the words "1923 Ottawa Senators" was put onto its then-new collar.
+
+The following Senators players and staff were members of the Stanley Cup winning team.
+
+'''1922–23 Ottawa Senators'''
+{{Stanley Cup champion|
+defence=
+* 2 Frank [[King Clancy]]
+* 3 [[Lionel Hitchman]]
+* 4 George [[Buck Boucher]]
+* 5 [[Eddie Gerard]] (Captain)^
+|centres=*9 [[Frank Nighbor]]
+|wingers=*6 [[Jack Darragh]]
+* 7 Harry [[Punch Broadbent]]
+* 8 [[Cy Denneny]]
+* 10 [[Harry Helman]]
+|goaltenders=*1 [[Clint Benedict]]
+|non-players=*Edwin [[Ted Dey]] (President/Owner)
+* [[Tommy Gorman]] (Manager/Secretary/Owner)
+* [[Pete Green (ice hockey)|Pete Green]] (Coach)
+* Frank Dolan (Trainer)
+* [[Frank Ahearn]], (Hon. President/Owner)&
+^-Also played Wing
+&-Missing from team picture
+|engraving-notes=The Senators never did engrave their name on the Cup for their 1923 championship. It was not until the trophy was redesigned in 1948 that the words "1923 Ottawa Senators" was put onto its then-new collar.
+}}
+
+==See also==
+* [[1922–23 NHL season]]
+* [[1922–23 Ottawa Senators season]]
+* [[1922–23 PCHA season]]
+* [[Pacific Coast Hockey Association]]
+* [[Western Canada Hockey League]]
+
+==References==
+* {{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | page=[https://archive.org/details/totalstanleycupo0000unse/page/51 51] | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse/page/51 }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+* {{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+ before = [[1922 Stanley Cup Final|Toronto St. Pats<br>1922]] |
+ after = [[1924 Stanley Cup Final|Montreal Canadiens<br>1924]] |
+ title = [[Ottawa Senators (original)|Ottawa Senators]]<br>[[List of Stanley Cup champions|Stanley Cup champions]] |
+ years = 1923|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{1922–23 NHL season by team}}
+{{Ottawa Senators (original)}}
+
+[[Category:1923 Stanley Cup| ]]
+[[Category:Stanley Cup Finals]]
+[[Category:1922–23 in Canadian ice hockey|Stanley]]
+[[Category:1922–23 NHL season|Stan]]
+[[Category:Western Canada Hockey League postseason]]
+[[Category:Ottawa Senators (original) games]]
+[[Category:Edmonton Eskimos (ice hockey)|Stan]]
+[[Category:March 1923 sports events in Canada]]
+[[Category:Ice hockey competitions in Ottawa]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:1923 in Ontario]]
+[[Category:1920s in Ottawa]]

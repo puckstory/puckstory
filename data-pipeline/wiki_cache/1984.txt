@@ -1,0 +1,1712 @@
+{{Short description|1984 ice hockey championship series}}
+{{more citations needed|date=December 2016}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1984
+|image=1984 NHL Stanley Cup Playoffs.png
+|image_size=280px
+|caption=
+|team1='''[[1983–84 Edmonton Oilers season|Edmonton Oilers]]'''
+|team1_short=Edmonton
+|team1_captain=[[Wayne Gretzky]]
+|team1_national_anthem = [[Paul Lorieau]]
+|team1_coach=[[Glen Sather]]
+|team2=[[1983–84 New York Islanders season|New York Islanders]]
+|team2_short=New York
+|team2_coach=[[Al Arbour]]
+|team2_captain=[[Denis Potvin]]
+|team2_national_anthem = Unknown
+|referees=[[Andy Van Hellemond]], Dave Newell, [[Bryan Lewis]]
+|series_winner=[[Ken Linseman]] (0:38, second)
+|hofers='''Oilers:'''<br/>[[Glenn Anderson]] (2008)<br/>[[Paul Coffey]] (2004)<br/>[[Grant Fuhr]] (2003)<br/>[[Wayne Gretzky]] (1999)<br/>[[Jari Kurri]] (2001)<br/>[[Kevin Lowe]] (2020)<br/>[[Mark Messier]] (2007)<br/>'''Islanders:'''<br/>[[Mike Bossy]] (1991)<br/>[[Clark Gillies]] (2002)<br/>[[Pat LaFontaine]] (2003)<br/>[[Denis Potvin]] (1991)<br/>[[Billy Smith (ice hockey)|Billy Smith]] (1993)<br/>[[Bryan Trottier]] (1997)<br/>'''Coaches:'''<br/>[[Al Arbour]] (1996)<br/>[[Glen Sather]] (1997)<br/>'''Officials:'''<br/>[[Andy Van Hellemond]] (1999)
+|dates=May 10–19, 1984
+|location1=[[Edmonton]]: ([[Northlands Coliseum]] (3, 4, 5)
+|location2=[[Uniondale, New York|Uniondale]]: ([[Nassau Veterans Memorial Coliseum]] (1, 2)
+|mvp=[[Mark Messier]] (Oilers)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on USA|USA Network]]<br />(New York City area): [[SportsChannel New York]] (1–2), [[WWOR-TV|WOR]] (3–5) 
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Dick Irvin Jr.]], [[Mickey Redmond]] (1–2), and [[Gary Dornhoefer]] (3–5)<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(USA Network) [[Dan Kelly (sportscaster)|Dan Kelly]] and [[Gary Green (ice hockey)|Gary Green]]<br/>(SCNY/WOR) [[Jiggs McDonald]] and [[Ed Westfall]]
+|team1_1='''1'''
+|team1_2=1
+|team1_3='''7'''
+|team1_4='''7'''
+|team1_5='''5'''
+|team1_tot=4
+|team2_1=0
+|team2_2='''6'''
+|team2_3=2
+|team2_4=2
+|team2_5=2
+|team2_tot=1
+}}
+The '''1984 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1983–84 NHL season|1983–84 season]], and the culmination of the [[1984 Stanley Cup playoffs]]. It was contested between the defending [[Campbell Conference]] champion [[1983–84 Edmonton Oilers season|Edmonton Oilers]] and the defending [[Wales Conference]] and four-time defending Stanley Cup champion [[1983–84 New York Islanders season|New York Islanders]]. The upstart Oilers defeated the four-time defending champion Islanders to win their first Stanley Cup in franchise history, becoming the third post-1967 expansion team and first former [[World Hockey Association]] team to win the Cup, and also the first team based west of [[Chicago]] to win the Cup since the [[Western Canada Hockey League|WCHL]]'s [[Victoria Cougars]] became the last non-NHL team to win it in {{scfy|1925}}.
+
+In the [[1983 Stanley Cup Final|previous year's Stanley Cup Final]], the Islanders had swept the Oilers in four straight games. The teams met again in 1984, with the Islanders seeking their fifth consecutive Stanley Cup championship. While both teams had improved on their regular season records from the previous season, Edmonton had progressed more and finished with the best record in the NHL for the first time in their short history. However, it was New York who received home-ice advantage, as they had in {{scfy|1982}} since the rules in place since 1982 dictated that home-ice advantage 
+went to the conference that won the coin toss and in 1984 because the Wales Conference had more points in head-to-head play against the Campbell Conference. It was also the first time that the Finals was played under a 2–3–2 format.<ref>{{cite news |url=https://www.newspapers.com/clip/49231310/1984-nhl-playoff-format-2-3-2/ |title=Playoff format changes made |date=September 23, 1983 |newspaper=The Ottawa Citizen|access-date=June 24, 2024|agency=United Press International |location=Ottawa, Ontario |page=40 |via=Newspapers.com}}</ref> This was the third time during the era that the team with the worse record received a home-ice advantage, the other two being the [[1968 Stanley Cup Final|1968]] and [[1970 Stanley Cup Final|1970]]. Home-ice advantage reverted to the team with the better record for the [[1985 Stanley Cup Final|following Finals]], and the Finals reverted to the former 2–2–1–1–1 format in [[1986 Stanley Cup Final|the Finals after that]].
+
+This was the fifth straight Finals of teams that joined the NHL in [[1967 NHL expansion|1967]] or later. {{As of|2021}}, the Islanders' four consecutive Cup wins ({{scfy|1980}}, {{scfy|1981}}, {{scfy|1982}}, 1983) and their appearance in the 1984 Cup Finals is an NHL record of 19 consecutive playoff series wins that currently stands unbroken. The 1984 Finals was the third of nine consecutive Finals contested by a team from Western Canada, second of eight contested by a team from [[Alberta]] (the Oilers appeared in six, the [[Calgary Flames]] in two, the [[Vancouver Canucks]] in [[1982 Stanley Cup Final|one]]), and the first of five consecutive Finals to end with the Cup presentation on Alberta ice (the Oilers won four times at home, the [[Montreal Canadiens]] once in Calgary).
+
+The Oilers became the fastest Canadian-based expansion team to win a major sports title by winning a title in only their fifth NHL season. The feat was eclipsed in 2016 by the [[Ottawa Redblacks]], who [[104th Grey Cup|won the Grey Cup]] in their third CFL season.<ref>{{Cite web |last=Ralph |first=Dan |date=November 27, 2016 |title=Ottawa Redblacks win upset victory at Grey Cup |url=https://www.ctvnews.ca/sports/article/ottawa-redblacks-win-upset-victory-at-grey-cup/ |access-date=April 25, 2024 |website=CTVNews |language=en}}</ref>
+
+To date, this is the last time the Islanders have appeared in the Stanley Cup Final, and they currently hold the second longest Finals appearance drought in the league at 40 years, the longest of any American-based team. The only team with a longer Finals appearance drought are the [[Toronto Maple Leafs]], who last made the Finals in [[1967 Stanley Cup Final|1967]].
+
+==Paths to the Finals==
+{{further|1984 Stanley Cup playoffs}}
+{{See also|1983–84 Edmonton Oilers season|1983–84 New York Islanders season}}
+Edmonton defeated the [[Winnipeg Jets (1972–96)|Winnipeg Jets]] 3–0, the [[Calgary Flames]] 4–3 and the [[Minnesota North Stars]] 4–0 to reach the Finals.
+
+New York defeated the [[New York Rangers]] 3–2, the [[Washington Capitals]] 4–1, and the [[Montreal Canadiens]] 4–2 to reach the Finals.
+
+==Game summaries==
+'''NOTE:''' In [[1981&ndash;82 NHL season|1981]], the NHL realigned it conferences and divisions according to geographical regions. Along with this, it was decided to play the Stanley Cup Final in a 2-3-2 format, with home ice advantage being awarded to the division with the better aggregate record in interdivisional games. This format would be used until [[1985 Stanley Cup Final|1985]], after which the Final would go back to a 2-2-1-1-1 format, with home ice going to the team with the better regular season record. 
+
+===Game one===
+{{NHLPlayoffs
+|team1=Edmonton Oilers
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 10
+|score1      =1–0
+|won1        =1
+|recap1     =https://www.nhl.com/gamecenter/edm-vs-nyi/1984/05/10/1983030411#game=1983030411,game_state=final
+}}
+[[Grant Fuhr]] shut out the Islanders in the first game, on the Islanders home ice, stopping 34 shots, and [[Kevin McClelland]] scoring the game's only goal early in the third period.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''3rd'''
+| style="text-align:center;"| EDM
+| style="text-align:center;"| [[Kevin McClelland]] (3)
+| style="text-align:center;"| [[Pat Hughes (ice hockey)|Pat Hughes]] (9) and [[Dave Hunter]] (5)
+| style="text-align:center;"| 01:55
+| style="text-align:center;"| 1–0 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | EDM
+|align=center | [[Kevin Lowe]]
+|align=center | Tripping
+|align=center | 08:40
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]]
+|align=center | Hooking
+|align=center | 11:34
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Elbowing
+|align=center | 14:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Tripping
+|align=center | 14:51
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Roughing
+|align=center | 15:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | EDM
+|align=center | Dave Hunter
+|align=center | Holding
+|align=center | 09:06
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Dineen]]
+|align=center | Holding
+|align=center | 11:52
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | Cross-checking
+|align=center | 14:37
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Tomas Jonsson]]
+|align=center | Holding
+|align=center | 15:52
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 10 || align=center | 12 || align=center | 16 || align=center | 38
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 14 || align=center | 12 || align=center | 8 || align=center | 34
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1=Edmonton Oilers
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 10
+|score1      =1–6
+|won1        =2
+|recap1     = https://www.nhl.com/gamecenter/edm-vs-nyi/1984/05/12/1983030412
+}}
+The Islanders won game two 6–1, with [[Clark Gillies]] recording a hat trick and [[Bryan Trottier]] recording 2 goals and an assist.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (7)
+|align=center | [[Mike Bossy]] (8) and [[Paul Boutilier]] (6)
+|align=center | 00:53
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Greg Gilbert]] (5) – ''pp''
+|align=center | [[Pat LaFontaine]] (6) and [[Stefan Persson (ice hockey)|Stefan Persson]] (5)
+|align=center | 05:48
+|align=center | 2–0 NYI
+|-
+|align=center | EDM
+|align=center | [[Randy Gregg (ice hockey)|Randy Gregg]] (3)
+|align=center | [[Kevin McClelland]] (5)
+|align=center | 15:06
+|align=center | 2–1 NYI
+|-
+|align=center | NYI
+|align=center | [[Clark Gillies]] (8)
+|align=center | [[Anders Kallur]] (2)
+|align=center | 18:31
+|align=center | 3–1 NYI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Bryan Trottier (8)
+|align=center | [[Brent Sutter]] (8) and [[Patrick Flatley]] (4)
+|align=center | 04:52
+|align=center | 4–1 NYI
+|-
+|align=center | NYI
+|align=center | Clark Gillies (9) – ''pp''
+|align=center | [[Denis Potvin]] (5) and Mike Bossy (9)
+|align=center | 16:48
+|align=center | 5–1 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYI
+|align=center | Clark Gillies (10)
+|align=center | Bryan Trottier (9) and Paul Boutilier (7)
+|align=center | 17:08
+|align=center | 6–1 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="15"| '''1st'''
+|align=center | EDM
+|align=center | [[Glenn Anderson]]
+|align=center | High-sticking
+|align=center | 00:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[John Tonelli]]
+|align=center | High-sticking
+|align=center | 00:09
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Charlie Huddy]]
+|align=center | Hooking
+|align=center | 04:14
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Pat Hughes (ice hockey)|Pat Hughes]]
+|align=center | Slashing
+|align=center | 06:29
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Roughing
+|align=center | 06:29
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Slashing
+|align=center | 06:29
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Pat Hughes
+|align=center | High-sticking
+|align=center | 08:51
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Brent Sutter
+|align=center | Holding
+|align=center | 09:12
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Don Jackson
+|align=center | High-sticking
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Greg Gilbert 
+|align=center | High-sticking
+|align=center | 12:11
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Tomas Jonsson]]
+|align=center | Hooking
+|align=center | 12:52
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Cross-checking
+|align=center | 15:42
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Fighting – major
+|align=center | 15:42
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Elbowing
+|align=center | 15:42
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Fighting
+|align=center | 15:42
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Tomas Jonsson
+|align=center | Hooking
+|align=center | 05:37
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | High-sticking
+|align=center | 16:05
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="16"| '''3rd'''
+|align=center | EDM
+|align=center | [[Mark Messier]]
+|align=center | High-sticking
+|align=center | 06:52
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Mark Messier
+|align=center | Fighting – major
+|align=center | 06:52
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Gord Dineen]]
+|align=center | Charging
+|align=center | 06:52
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Gord Dineen
+|align=center | Fighting – major
+|align=center | 06:52
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | [[Wayne Gretzky]]
+|align=center | Hooking
+|align=center | 08:30
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Semenko]]
+|align=center | Roughing
+|align=center | 15:16
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Ken Linseman]]
+|align=center | Roughing
+|align=center | 17:25
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Ken Linseman
+|align=center | Fighting – major
+|align=center | 17:25
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Ken Linseman
+|align=center | Misconduct
+|align=center | 17:25
+|align=center | 10:00
+|-
+|align=center | EDM
+|align=center | [[Dave Lumley]]
+|align=center | Fighting – major
+|align=center | 17:25
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Dave Lumley
+|align=center | Game misconduct
+|align=center | 17:25
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | Gord Dineen
+|align=center | Fighting – major
+|align=center | 17:25
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Gord Dineen
+|align=center | Game misconduct
+|align=center | 17:25
+|align=center | 10:00
+|-
+|align=center | NYI
+|align=center | Greg Gilbert
+|align=center | Roughing – double minor
+|align=center | 17:25
+|align=center | 4:00
+|-
+|align=center | NYI
+|align=center | Greg Gilbert
+|align=center | Fighting – major
+|align=center | 17:25
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Greg Gilbert
+|align=center | Game misconduct
+|align=center | 17:25
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 12 || align=center | 6 || align=center | 5 || align=center | 23
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 12 || align=center | 9 || align=center | 5 || align=center | 26
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Edmonton Oilers
+|stadium1=[[Northlands Coliseum]]
+|date1       =May 15
+|score1      =2–7
+|won1        =2
+|recap1     = https://www.nhl.com/gamecenter/nyi-vs-edm/1984/05/15/1983030413
+}}
+In game three, the Islanders had a 2–1 lead in the second period, but [[Mark Messier]] scored on an individual effort to tie the game.<ref>{{YouTube|id=2WYK3jE6JZA|title=Mark Messier 1 on 2 vs. Islanders}}</ref> They proceeded to beat the Islanders 7–2.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NYI
+|align=center | [[Clark Gillies]] (11)
+|align=center | [[Patrick Flatley]] (5) and [[Brent Sutter]] (10)
+|align=center | 01:32
+|align=center | 1–0 NYI
+|-
+|align=center | EDM
+|align=center | [[Kevin Lowe]] (3)
+|align=center | [[Glenn Anderson]] (9) and [[Willy Lindström|Willy Lindstrom]] (5)
+|align=center | 13:49
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYI
+|align=center | Clark Gillies (12) – ''pp''
+|align=center | [[Bryan Trottier]] (6) and [[Mike Bossy]] (10)
+|align=center | 02:54
+|align=center | 2–1 NYI
+|-
+|align=center | EDM
+|align=center | [[Mark Messier]] (6)
+|align=center | [[Lee Fogolin]] (4)
+|align=center | 08:38
+|align=center | 2–2
+|-
+|align=center | EDM
+|align=center | Glenn Anderson (6)
+|align=center | Charlie Huddy (7) and Wayne Gretzky (20)
+|align=center | 19:12
+|align=center | 3–2 EDM
+|-
+|align=center | EDM
+|align=center | [[Paul Coffey]] (7)
+|align=center | [[Pat Hughes (ice hockey)|Pat Hughes]] (10) and [[Ken Linseman]] (4)
+|align=center | 19:29
+|align=center | 4–2 EDM
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | EDM
+|align=center | Mark Messier (7)
+|align=center | [[Kevin McClelland]] (6) and [[Charlie Huddy]] (8)
+|align=center | 05:32
+|align=center | 5–2 EDM
+|-
+|align=center | EDM
+|align=center | Kevin McClelland (4)
+|align=center | [[Dave Lumley]] (5)
+|align=center | 05:52
+|align=center | 6–2 EDM
+|-
+|align=center | EDM
+|align=center | [[Dave Semenko]] (5)
+|align=center | [[Jari Kurri]] (10) and Wayne Gretzky (21)
+|align=center | 09:41
+|align=center | 7–2 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="12"| '''1st'''
+|align=center | EDM
+|align=center | Ken Linseman
+|align=center | High-sticking
+|align=center | 02:27
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | High-sticking
+|align=center | 02:27
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Brent Sutter
+|align=center | Hooking
+|align=center | 06:30
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | Interference
+|align=center | 08:49
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Tomas Jonsson]]
+|align=center | Interference
+|align=center | 10:59
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Lee Fogolin
+|align=center | Holding
+|align=center | 14:32
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Randy Gregg (ice hockey)|Randy Gregg]]
+|align=center | Roughing
+|align=center | 15:16
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Don Jackson (ice hockey)|Don Jackson]]
+|align=center | Fighting – major
+|align=center | 15:16
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Patrick Flatley
+|align=center | Roughing – double minor
+|align=center | 15:16
+|align=center | 4:00
+|-
+|align=center | NYI
+|align=center | [[Greg Gilbert]]
+|align=center | Fighting – major
+|align=center | 15:16
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Ken Linseman
+|align=center | High-sticking
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[John Tonelli]]
+|align=center | High-sticking
+|align=center | 17:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="9"| '''2nd'''
+|align=center | EDM
+|align=center | [[Dave Hunter]]
+|align=center | Elbowing
+|align=center | 01:55
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Brent Sutter
+|align=center | Holding
+|align=center | 03:34
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Jaroslav Pouzar]]
+|align=center | Tripping
+|align=center | 10:00
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Jaroslav Pouzar
+|align=center | Roughing
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Roughing
+|align=center | 14:22
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Lee Fogolin
+|align=center | High-sticking
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Lee Fogolin
+|align=center | Roughing
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | High-sticking
+|align=center | 17:53
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Roughing
+|align=center | 17:53
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | EDM
+|align=center | Jaroslav Pouzar
+|align=center | High-sticking
+|align=center | 06:16
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | Tripping
+|align=center | 06:56
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Glenn Anderson
+|align=center | High-sticking
+|align=center | 14:19
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Ken Morrow]]
+|align=center | High-sticking
+|align=center | 14:19
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Kevin McClelland
+|align=center | High-sticking
+|align=center | 19:37
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Roland Melanson
+|align=center | High-sticking
+|align=center | 19:37
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10 || align=center | 8 || align=center | 7 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 11 || align=center | 12 || align=center | 17 || align=center | 40
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Edmonton Oilers
+|stadium1=[[Northlands Coliseum]]
+|date1       =May 17
+|score1      =2–7
+|won1        =2
+|recap1     = https://www.nhl.com/gamecenter/nyi-vs-edm/1984/05/17/1983030414
+}}
+Grant Fuhr was injured in game three, so [[Andy Moog]] had to replace him. The Oilers won game four by the same score, with [[Wayne Gretzky]] and [[Willy Lindström|Willy Lindstrom]] both scoring two goals.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | EDM
+|align=center | [[Wayne Gretzky]] (10)
+|align=center | [[Dave Semenko]] (4) and [[Jari Kurri]] (11)
+|align=center | 01:53
+|align=center | 1–0 EDM
+|-
+|align=center | EDM
+|align=center | [[Willy Lindström|Willy Lindstrom]] (4)
+|align=center | [[Glenn Anderson]] (10)
+|align=center | 03:22
+|align=center | 2–0 EDM
+|-
+|align=center | NYI
+|align=center | [[Brent Sutter]] (4)
+|align=center | [[Greg Gilbert]] (7) and [[Ken Morrow]] (2)
+|align=center | 14:03
+|align=center | 2–1 EDM
+|-
+|align=center | EDM
+|align=center | [[Mark Messier]] (8)
+|align=center | ''Unassisted''
+|align=center | 17:54
+|align=center | 3–1 EDM
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | EDM
+|align=center | Willy Lindstrom (5) – ''pp''
+|align=center | Paul Coffey (13) and [[Mark Messier]] (18)
+|align=center | 05:21
+|align=center | 4–1 EDM
+|-
+|align=center | EDM
+|align=center | Pat Conacher (1)
+|align=center | [[Pat Hughes (ice hockey)|Pat Hughes]] (11)
+|align=center | 06:58
+|align=center | 5–1 EDM
+|-
+|align=center | EDM
+|align=center | Paul Coffey (8)
+|align=center | Jari Kurri (12) and Dave Semenko (5)
+|align=center | 10:52
+|align=center | 6–1 EDM
+|-
+|align=center | NYI
+|align=center | [[Patrick Flatley]] (9)
+|align=center | [[Clark Gillies]] (5) and [[Stefan Persson (ice hockey)|Stefan Persson]] (6)
+|align=center | 19:44
+|align=center | 6–2 EDM
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | EDM
+|align=center | Wayne Gretzky (11)
+|align=center | ''Unassisted''
+|align=center | 14:01
+|align=center | 7–2 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="9"| '''1st'''
+|align=center | NYI
+|align=center | [[Bob Nystrom]]
+|align=center | High-sticking
+|align=center | 04:41
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Lumley]]
+|align=center | Elbowing
+|align=center | 13:40
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]]
+|align=center | Roughing
+|align=center | 13:40
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | High-sticking – major
+|align=center | 15:43
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | Wayne Gretzky
+|align=center | Unsportsmanlike conduct
+|align=center | 17:31
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | Jari Kurri
+|align=center | High-sticking
+|align=center | 17:31
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Ken Morrow
+|align=center | Cross-checking
+|align=center | 17:31
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin Lowe]]
+|align=center | Holding
+|align=center | 18:25
+|align=center | 5:00
+|-
+|align=center | EDM
+|align=center | [[Ken Linseman]]
+|align=center | High-sticking – major
+|align=center | 18:51
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYI
+|align=center | Bobby Nystrom
+|align=center | Hooking
+|align=center | 04:47
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Kevin McClelland]]
+|align=center | Fighting – major
+|align=center | 13:47
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Roughing
+|align=center | 13:47
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Fighting – major
+|align=center | 13:47
+|align=center | 5:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | EDM
+|align=center | Charlie Huddy
+|align=center | Slashing
+|align=center | 06:36
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 7 || align=center | 7 || align=center | 7 || align=center | 21
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 16 || align=center | 10 || align=center | 12 || align=center | 38
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Edmonton Oilers
+|stadium1=[[Northlands Coliseum]]
+|date1       =May 19
+|score1      =2–5
+|won1        =2
+|recap1     = https://www.nhl.com/gamecenter/nyi-vs-edm/1984/05/19/1983030415
+}}
+The Oilers then won game five by the score of 5–2 thanks to Gretzky's two first-period goals, and two Duane Sutter penalties. They became the first former WHA team, and the first team from Edmonton, to win the Stanley Cup. Mark Messier was awarded with the Conn Smythe Trophy as playoff MVP.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | EDM
+|align=center | [[Wayne Gretzky]] (12)
+|align=center | [[Jari Kurri]] (13)
+|align=center | 12:08
+|align=center | 1–0 EDM
+|-
+|align=center | EDM
+|align=center | Wayne Gretzky (13)
+|align=center | Jari Kurri (14)
+|align=center | 17:26
+|align=center | 2–0 EDM
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | EDM
+|align=center | [[Ken Linseman]] (10) – ''pp''
+|align=center | [[Charlie Huddy]] (9) and Wayne Gretzky (22)
+|align=center | 00:38
+|align=center | 3–0 EDM
+|-
+|align=center | EDM
+|align=center | Jari Kurri (14) – ''pp''
+|align=center | [[Paul Coffey]] (14) and [[Glenn Anderson]] (11)
+|align=center | 04:59
+|align=center | 4–0 EDM
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | NYI
+|align=center | [[Pat LaFontaine]] (2)
+|align=center | [[Patrick Flatley]] (6) and [[Clark Gillies]] (6)
+|align=center | 00:13
+|align=center | 4–1 EDM
+|-
+|align=center | NYI
+|align=center | Pat LaFontaine (3)
+|align=center | Clark Gillies (7)
+|align=center | 00:35
+|align=center | 4–2 EDM
+|-
+|align=center | EDM
+|align=center | [[Dave Lumley]] (2) – ''en''
+|align=center | ''Unassisted''
+|align=center | 19:47
+|align=center | 5–2 EDM
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | EDM 
+|align=center | Bench (served by [[Willy Lindström|Willy Lindstrom]])
+|align=center | Too many men on the ice
+|align=center | 00:47
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Patrick Flatley
+|align=center | Elbowing
+|align=center | 04:09
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Stefan Persson (ice hockey)|Stefan Persson]]
+|align=center | High-sticking
+|align=center | 07:43
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Duane Sutter]]
+|align=center | Roughing
+|align=center | 18:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Duane Sutter
+|align=center | Hooking
+|align=center | 04:19
+|align=center | 2:00
+|-
+|align=center | EDM
+|align=center | [[Dave Semenko]]
+|align=center | High-sticking
+|align=center | 10:22
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYI
+|align=center | Patrick Flatley
+|align=center | Interference
+|align=center | 16:45
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 8 || align=center | 6 || align=center | 11 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|Edmonton}} || align=center | 9 || align=center | 5 || align=center | 9 || align=center | 23
+|}
+
+==Broadcasting==
+The series aired on [[Hockey Night in Canada|CBC]] in Canada and on the [[NHL on USA|USA Network]] in the United States. CBC's broadcast team consisted of [[Bob Cole (sportscaster)|Bob Cole]], [[Dick Irvin Jr.]], and [[Gary Dornhoefer]]. USA's national coverage was blacked out in the New York area due to the local rights to Islanders games in that TV market, with [[MSG Plus|SportsChannel New York]] airing games one and two, and [[WWOR-TV|WOR]] televising the other three games.
+
+==Team rosters==
+
+===Edmonton Oilers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glenn|Anderson}}
+| RW
+| L
+| {{hs|23–202}}23
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Vancouver, British Columbia]]
+| second {{small|({{scfy|1983}})}}
+|-
+<!--| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Rick|Chartraw}}
+| D
+| R
+| {{hs|29–271}}29
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Caracas|Caracas, Venezuela]]
+| fifth {{small|('''{{scfy|1976}}''', '''{{scfy|1977}}''', '''{{scfy|1978}}''', '''{{scfy|1979}}''', did not play)}}-->
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Conacher}}
+| C
+| L
+| {{hs|25–051}}25
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Coffey}}
+| D
+| L
+| {{hs|22–161}}22
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Weston, Toronto|Weston, Ontario]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Lee|Fogolin}}
+| D
+| R
+| {{hs|29–127}}29
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Chicago|Chicago, Illinois]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Grant|Fuhr}}
+| G
+| R
+| {{hs|21–052}}21
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Spruce Grove, Alberta]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Randy|Gregg|Randy Gregg (ice hockey)}}
+| D
+| L
+| {{hs|28–219}}28
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''99'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Gretzky}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|23–046}}23
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Brantford, Ontario]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Charlie|Huddy}}
+| D
+| L
+| {{hs|24–272}}24
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|Hughes|dab=ice hockey}}
+| RW
+| R
+| {{hs|29–025}}29
+| {{NHL Year|1980}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| third {{small|('''{{scfy|1979}}''', {{scfy|1983}})}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Hunter}}
+| LW
+| L
+| {{hs|26–011}}26
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Petrolia, Ontario]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Don|Jackson|dab=ice hockey}}
+| D
+| L
+| {{hs|27–192}}27
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''17'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Jari|Kurri}}
+| RW
+| R
+| {{hs|24–031}}24
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Helsinki, Finland]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''19'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Willy|Lindstrom|Willy Lindström}}
+| RW
+| L
+| {{hs|33–055}}33
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Grums Municipality|Grums, Sweden]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Linseman}}
+| C
+| L
+| {{hs|25–081}}25
+| {{NHL Year|1982}}
+| style="text-align:left;"|[[Kingston, Ontario]]
+| third {{small|({{scfy|1980}}, {{scfy|1983}})}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Lowe}}
+| D
+| L
+| {{hs|25–071}}25
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Lachute, Quebec]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Lumley}}
+| RW
+| R
+| {{hs|29–191}}29
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|McClelland}}
+| C
+| R
+| {{hs|21–084}}21
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Oshawa, Ontario]]
+| first
+|-
+<!--| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Larry|Melnyk}}
+| D
+| L
+| {{hs|24–061}}24
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first {{small|(did not play)}}-->
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Messier}}
+| C
+| L
+| {{hs|23–058}}23
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Edmonton, Alberta]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andy|Moog}}
+| G
+| L
+| {{hs|24–168}}24
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Penticton, British Columbia]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''10'''
+| {{flagicon|TCH}}
+! scope="row" style="text-align:left;"|{{sortname|Jaroslav|Pouzar}}
+| LW
+| L
+| {{hs|32–123}}32
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Čakov (České Budějovice District)|Cakov, Czechoslovakia]]
+| second {{small|({{scfy|1983}})}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Semenko}}
+| LW
+| L
+| {{hs|26–071}}26
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| second {{small|({{scfy|1983}})}}
+|-
+<!--| '''25'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Raimo|Summanen}}
+| LW
+| L
+| {{hs|22–032}}22
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Jyväskylä|Jyvaskyla, Finland]]
+| first {{small|(did not play)}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Zanier}}
+| G
+| L
+| {{hs|21–082}}21
+| {{NHL Year|1983}}
+| style="text-align:left;"|[[Trail, British Columbia]]
+| first {{small|(did not play)}}-->
+|}
+
+===New York Islanders===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Bossy}}
+| RW
+| R
+| {{hs|27–122}}27
+| [[1977 NHL Entry Draft|1977]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Bourne}}
+| LW
+| L
+| {{hs|29–162}}29
+| {{NHL Year|1974}}
+| style="text-align:left;"|[[Kindersley|Kindersley, Saskatchewan]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', did not play)}}
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Paul|Boutilier}}
+| D
+| L
+| {{hs|21–033}}21
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Sydney, Nova Scotia]]
+| second {{small|('''{{scfy|1983}}''')}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Billy|Carroll}}
+| C
+| L
+| {{hs|25–119}}25
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| fourth {{small|('''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gord|Dineen}}
+| D
+| R
+| {{hs|21–072}}21
+| [[1981 NHL Entry Draft|1981]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Flatley}}
+| RW
+| R
+| {{hs|20–103}}20
+| [[1982 NHL Entry Draft|1982]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Gilbert}}
+| LW
+| L
+| {{hs|22–122}}22
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| third {{small|('''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Clark|Gillies}}
+| LW
+| L
+| {{hs|30–077}}30
+| [[1974 NHL Entry Draft|1974]]
+| style="text-align:left;"|[[Moose Jaw|Moose Jaw, Saskatchewan]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Butch|Goring}}
+| C
+| L
+| {{hs|34–122}}34
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''20'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mats|Hallin}}
+| LW
+| L
+| {{hs|26–039}}26
+| {{NHL Year|1981}}
+| style="text-align:left;"|[[Åkers styckebruk|Akers styckebruk, Sweden]]
+| second {{small|('''{{scfy|1983}}''')}}
+|-
+| '''3'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Tomas|Jonsson}}
+| D
+| R
+| {{hs|24–041}}24
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Falun|Falun, Sweden]]
+| third {{small|('''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''28'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Anders|Kallur}}
+| RW
+| L
+| {{hs|31–276}}31
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Ludvika|Ludvika, Sweden]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Pat|LaFontaine}}
+| C
+| R
+| {{hs|19–222}}19
+| [[1983 NHL Entry Draft|1983]]
+| style="text-align:left;"|[[St. Louis|St. Louis, Missouri]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gord|Lane}}
+| D
+| L
+| {{hs|31–031}}31
+| {{NHL Year|1979}}
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', did not play)}}
+|-
+| '''26'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Langevin}}
+| D
+| L
+| {{hs|30–031}}30
+| [[1974 NHL Entry Draft|1974]]
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Roland|Melanson}}
+| G
+| L
+| {{hs|23–062}}23
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Shediac|Shediac, New Brunswick]]
+| fourth {{small|('''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Wayne|Merrick}}
+| C
+| L
+| {{hs|32–042}}32
+| {{NHL Year|1977}}
+| style="text-align:left;"|[[Sarnia|Sarnia, Ontario]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''', did not play)}}
+|-
+| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ken|Morrow}}
+| D
+| R
+| {{hs|27–217}}27
+| [[1976 NHL Entry Draft|1976]]
+| style="text-align:left;"|[[Flint, Michigan]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''23'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Bob|Nystrom}}
+| RW
+| R
+| {{hs|31–210}}31
+| [[1972 NHL Entry Draft|1972]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''7'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Stefan|Persson|dab=ice hockey}}
+| D
+| L
+| {{hs|29–022}}29
+| [[1974 NHL Entry Draft|1974]]
+| style="text-align:left;"|[[Bjurholm|Bjurholm, Sweden]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Denis|Potvin}} – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| {{hs|30–129}}30
+| [[1973 NHL Entry Draft|1973]]
+| style="text-align:left;"|[[Vanier, Ontario]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Billy|Smith|dab=ice hockey}}
+| G
+| L
+| {{hs|33–121}}33
+| {{NHL Year|1972}}
+| style="text-align:left;"|[[Perth, Ontario]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brent|Sutter}}
+| C
+| R
+| {{hs|21–081}}21
+| [[1980 NHL Entry Draft|1980]]
+| style="text-align:left;"|[[Viking, Alberta]]
+| third {{small|('''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Duane|Sutter}}
+| RW
+| R
+| {{hs|24–316}}24
+| [[1979 NHL Entry Draft|1979]]
+| style="text-align:left;"|[[Viking, Alberta]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|Tonelli}}
+| LW
+| L
+| {{hs|27–023}}27
+| [[1977 NHL Entry Draft|1977]]
+| style="text-align:left;"|[[Hamilton, Ontario]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryan|Trottier}}
+| C
+| L
+| {{hs|27–271}}27
+| [[1974 NHL Entry Draft|1974]]
+| style="text-align:left;"|[[Val Marie|Val Marie, Saskatchewan]]
+| fifth {{small|('''{{scfy|1980}}''', '''{{scfy|1981}}''', '''{{scfy|1982}}''', '''{{scfy|1983}}''')}}
+|}
+
+==Stanley Cup engraving==
+The 1984 Stanley Cup was presented to Oilers captain Wayne Gretzky by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Oilers 5–2 win over the Islanders in game five.
+
+The following Oilers players and staff had their names engraved on the Stanley Cup:
+
+'''1983–84 Edmonton Oilers'''
+{{Stanley Cup champion|team=Edmonton Oilers |year=1984 |
+centres=*11 [[Mark Messier]]*
+*13 [[Ken Linseman]]
+*15 [[Pat Conacher]]*
+*24 [[Kevin McClelland]]
+*99 [[Wayne Gretzky]] (Captain)
+|wingers=* 9 [[Glenn Anderson]]
+*10 [[Jaroslav Pouzar]]
+*12 [[Dave Hunter]]
+*16 [[Pat Hughes (ice hockey)|Pat Hughes]]
+*17 [[Jari Kurri]]
+*19 [[Willy Lindström|Willy Lindstrom]]
+*20 [[Dave Lumley]]
+*27 [[Dave Semenko]]
+|defence=*2 [[Lee Fogolin]] Jr.
+*4 [[Kevin Lowe]]
+*7 [[Paul Coffey]]
+*21 [[Randy Gregg (ice hockey)|Randy Gregg]]
+*22 [[Charlie Huddy]]
+*29 [[Don Jackson (ice hockey)|Don Jackson]]
+|goaltenders=
+*31 [[Grant Fuhr]]
+*35 [[Andy Moog]]
+*33 [[Mike Zanier]]^
+|player-notes=
+* * Played both centre and wing.
+|non-players=
+*[[Peter Pocklington]] (Owner), [[Glen Sather]] (President/General Manager/Head Coach), [[Bruce MacGregor]] (Asst General Manager)
+*[[John Muckler]] (Asst. Coach), Edward [[Ted Green]] (Asst. Coach), [[Barry Fraser]] (Director of Player Personnel/Chief Scout)
+*Peter Millar (Athletic Therapist), Barrie Stafford (Trainer), Lyle Kulchisky (Asst Trainer)
+
+===Non-team personnel===
+* Crossed out name of Basil Pocklington (Peter Pocklington's father){{ref|A|[A]}}}}
+===Engraving notes===
+* #17 [[Jari Kurri]] (RW) was the first Finnish-born-trained player to win the Stanley Cup.
+* #31 [[Grant Fuhr]] (G) was the first black player to win the Stanley Cup.
+* #10 [[Jaroslav Pouzar]] (LW) was the first Czechoslovak-born player to win the Stanley Cup.
+* <sup>{{note|A|[A]}}</sup> Basil Pocklington, father of Oilers owner [[Peter Pocklington]], was initially engraved on the Stanley Cup. He was not directly associated with the team. The NHL subsequently marked out Basil's name on the trophy with X's. A new ring for the Cup was created in 1993, with winners from 1979 to 1991, but Basil Pocklington's name was not on it. When the Cup returned to the [[Hockey Hall of Fame]], the abandoned ring had been damaged and could not be put back on the [[Stanley Cup]]. The Hockey Hall of Fame had Basil Pocklington's name put on the newly created Stanley Cup ring, then XXX'd out his name again. He was now listed beside his son Peter Pocklington, Owner. On the original rings, he was listed on a line between Peter Pocklington and Glen Sather. Basil's name was not added to the replica Stanley Cup also created in 1993. This is the main way people can tell the difference between the Presentation Stanley Cup and the Replica Stanley Cup. See [[2004 Stanley Cup Final]] for the other way to tell the cups apart. Basil Pocklington was the only name that was XXX'd out until November 2021, when the Hall of Fame struck the name of 2009–10 [[2010 Stanley Cup Final|Chicago Blackhawks]] video coach Brad Aldrich due to [[Kyle Beach#Sexual assault allegations against former Blackhawks video coach|sexual assault allegations during that season]].<ref>{{Cite web|date=2021-11-03|title=Hall of Fame covers Brad Aldrich's name on Stanley Cup|url=https://apnews.com/article/nhl-sports-hockey-chicago-chicago-blackhawks-acb2cb2d1c56e1caf965e3aa370f97cd|access-date=2021-11-06|website=AP NEWS|language=en}}</ref>
+* On the new ring, EDMONTON was misspelt "DDMONTON". An "E" was stamped twice over the first "D" to correct the mistake.
+
+===Player notes===
+* Each team was required to play 20 players out of a 24-man roster. The Oilers engraved 21 players' names on the Cup, leaving off four players who were dressed in the playoffs. All four players left off the Stanley Cup were awarded a Stanley Cup ring and are included on the team picture.
+** #33 [[Mike Zanier]]^ (G) – was dressed for two games in the final. He qualified to be engraved on the Stanley Cup. Edmonton did not include his name because he had not played in the NHL. The only NHL season for Zanier was 3 games in 1985 with the Oilers.
+** #6 [[Rick Chartraw]] (D) – played four games for the NY Rangers, 24 for Edmonton, and one playoff game, spending half of the regular season playing in the minors. (He is on the Stanley Cup with Montreal 1976-77-78-79.)
+** #28 [[Larry Melnyk]] (D) – played six playoff games (4 in the Conference Finals), but spent the regular season playing in the minors.
+** #25 [[Raimo Summanen]] – (LW) played two games in the regular season and five playoff games. He spent most of the regular season playing in Europe.
+
+==See also==
+* [[List of Stanley Cup champions]]
+* [[1983–84 NHL season]]
+
+==References==
+{{external media|video1={{youTube|Y8WsrejQ4qo|1984 Islanders vs. Oilers, Stanley Cup Final, Game 5}}}}
+;Inline citations
+<references/>
+
+;Bibliography
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+ before = [[1983 Stanley Cup Final|New York Islanders<br>1983]] |
+ after = [[1985 Stanley Cup Final|Edmonton Oilers<br>1985]] |
+ title = [[List of Stanley Cup champions|Edmonton Oilers<br>Stanley Cup champions]] |
+ years = 1984|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Edmonton Oilers}}
+{{New York Islanders}}
+{{1983–84 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on USA}}
+}}
+
+[[Category:1984 Stanley Cup| ]]
+[[Category:1983–84 NHL season|Stanley]]
+[[Category:Stanley Cup Finals]]
+[[Category:Edmonton Oilers games]]
+[[Category:New York Islanders games]]
+[[Category:May 1984 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1984 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:1980s in Edmonton|Stanley Cup Final, 1984]]
+[[Category:Ice hockey competitions in New York (state)]]
+[[Category:1984 in sports in New York (state)|Stanley Cup Final]]
+[[Category:1984 in sports in Alberta|Stanley Cup Final]]
+[[Category:1984 in Canadian sports|Stanley Cup Final]]

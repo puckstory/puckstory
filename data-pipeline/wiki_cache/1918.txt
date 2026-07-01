@@ -1,0 +1,326 @@
+{{Short description|1918 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|year=1918
+|team2=[[Vancouver Millionaires]] (PCHA)
+|team2_short=Vancouver 
+|team1='''[[1917–18 Toronto Hockey Club season|Toronto]]''' (NHL)
+|team1_short=Toronto
+|format=best-of-five
+|team2_1=3
+|team1_1='''5'''
+|team2_2='''6'''
+|team1_2=4
+|team2_3=3
+|team1_3='''6'''
+|team2_4='''8'''
+|team1_4=1
+|team2_5=1
+|team1_5='''2'''
+|team2_tot=2
+|team1_tot=3
+|dates=March 20–30, 1918
+|location1=[[Toronto]]: [[Arena Gardens]]
+|team1_coach=[[Dick Carroll]]
+|team2_coach=[[Frank Patrick (ice hockey)|Frank Patrick]]
+|series_winner=[[Corb Denneny]] (10:30, third)
+|hofers='''Toronto:'''<br/>[[Jack Adams]] (1959)<br/>[[Harry Cameron]] (1963)<br/>[[Rusty Crawford]] (1963)<br/>[[Hap Holmes]] (1972)<br/>[[Reg Noble]] (1962)<br/>'''Millionaires:'''<br/>[[Si Griffis]] (1950)<br/>[[Hughie Lehman]] (1958)<br/>[[Mickey MacKay]] (1952)<br/>[[Barney Stanley]] (1963)<br/>[[Cyclone Taylor]] (1947)<br/>'''Coaches:'''<br/>[[Frank Patrick (ice hockey)|Frank Patrick]] (1950)
+}}
+The '''1918 Stanley Cup Final''' was contested by the [[National Hockey League]] (NHL) champion [[1917–18 Toronto Hockey Club season|Toronto]] and the [[Pacific Coast Hockey Association]] (PCHA) champion [[Vancouver Millionaires]]. In a series held entirely in Toronto, the Toronto team won the series by three games to two in the best-of-five game series to win the [[Stanley Cup]].<ref>{{Cite web|title=Schedule {{!}} Mar 20, 1918 ET|url=https://www.nhl.com/schedule|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref> It was the first series contested by the new NHL and subsequently the first Stanley Cup win by the team that is now the [[Toronto Maple Leafs]]. This was the first major professional sports championship ever won by a [[Toronto]]-based team.
+
+==Paths to the Final==
+{{Main|1917–18 NHL season|1917–18 PCHA season}}
+
+[[File:Vancouver Millionaires 1917 1918.jpg|thumb|left|The [[Vancouver Millionaires]] during the [[1917–18 PCHA season]].]]
+Prior to the [[1917–18 NHL season|1917–18 season]], the [[National Hockey Association]] (NHA) had suspended operations as the result of a power play to oust [[Toronto Blueshirts]] owner [[Eddie Livingstone]]. The remaining clubs then met in November 1917 to form the NHL, using the same constitution and playing rules of the NHA. The NHL took the NHA's place in competing for the Cup in a playoff series with the Pacific Coast Hockey Association.<ref>{{Cite web|title=Stanley Cup Champions 1918-1929|url=https://www.nhl.com/news/nhl-stanley-cup-champions-1918-1929/c-288144788|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref>
+
+The Toronto NHL players were assigned from the Toronto NHA franchise, and played for a 'temporary' Toronto NHL franchise, operated by the Toronto Arena owners. This is why it is often retroactively called the 'Arenas' although no hockey club with the official name "Arenas" existed until after the 1917–18 season. The team at the time used no nickname; it was often referred to at the time as the "Blueshirts", the nickname of the NHA franchise, as it was announced by the NHA that the franchise had been sold, although Eddie Livingstone had not agreed to this as he wanted to resume his franchise or be compensated under his terms.<ref>{{cite book |title=Deceptions and Doublecross |last=Holzman |first=Morey |year=2002}}</ref>
+
+Toronto won the second half of the split regular season, while the [[Montreal Canadiens]] won the first half. Toronto then won the NHL title by defeating the Canadiens in a two-game, total-goals series, 10–7.
+
+Meanwhile, Vancouver finished the [[1917–18 PCHA season|1917–18 PCHA regular season]] in second place with a 9–9 record behind the 11–7 [[Seattle Metropolitans]]. However, Vancouver beat Seattle in that league's two-game, total-goals finals, 3–2, with a 1–0 game two victory.
+
+===Bracket===
+{{4TeamBracket
+| sets = 2/5
+| aggregate = y
+| team-width = 160
+| RD1=League Championships
+| RD1-seed1=N1
+| RD1-team1=Montreal Canadiens
+| RD1-score1-1=3
+| RD1-score1-2='''4'''
+| RD1-seed2='''N2'''
+| RD1-team2='''Toronto'''
+| RD1-score2-1='''7'''
+| RD1-score2-2=3
+| RD1-score1-agg=7
+| RD1-score2-agg='''10'''
+| RD1-seed3=P1
+| RD1-team3=Seattle Metropolitans
+| RD1-score3-1=2
+| RD1-score3-2=0
+| RD1-seed4='''P2'''
+| RD1-team4='''Vancouver Millionaires'''
+| RD1-score4-1=2
+| RD1-score4-2='''1'''
+| RD1-score3-agg=2
+| RD1-score4-agg='''3'''
+
+| RD2='''Stanley Cup Final'''
+| RD2-seed1='''NC'''
+| RD2-team1='''Toronto'''
+| RD2-score1-1='''5'''
+| RD2-score1-2=4
+| RD2-score1-3='''6'''
+| RD2-score1-4=1
+| RD2-score1-5='''2'''
+| RD2-seed2=PC
+| RD2-team2=Vancouver Millionaires
+| RD2-score2-1=3
+| RD2-score2-2='''6'''
+| RD2-score2-3=3
+| RD2-score2-4='''8'''
+| RD2-score2-5=1
+| RD2-score1-agg='''3'''
+| RD2-score2-agg=2
+}}
+
+==Game summaries==
+As with the three previous NHA-PCHA Cup Final series, the series alternated between the NHL champion and the PCHA champion each year, while the differing rules for the leagues alternated each game. This meant that all of the games for the 1918 championship series were played at Toronto's [[Arena Gardens]].
+
+Two of the major differences between the two leagues' rules proved to be a major factor in the series. The PCHA allowed forward passing (adopted in the 1913–14 season) and played with seven players per side; the NHL did not adopt forward passing until the following season, and only played with six players. In every game, the winner was the one playing under its league's rules. The Torontos won games one and three with victories of 5–3 and 6–3, and the Millionaires recorded 6–4 and 8–1 wins in games two and four. Because game five was played under NHL rules, it helped Toronto's [[Corbett Denneny]] to score the series-winning goal in a 2–1 victory. The Torontos outscored the Millionaires by a combined total of 13–7 in the three games played under NHL rules. Conversely, Vancouver recorded a 14–5 margin in the games under PCHA rules.
+
+Toronto goaltender [[Hap Holmes]] recorded a 4.20 goals-against average during the series, while [[Alf Skinner]] led Toronto with eight goals. [[Cyclone Taylor]] scored nine goals for Vancouver.
+
+{{NHLPlayoffs
+|team1=Vancouver Millionaires
+|team2=Toronto Hockey Club
+|stadium2=[[Arena Gardens]]<!--Not their actual arena, all games were played in one location-->
+|stadium1=[[Arena Gardens]]
+
+|date1       =March 20
+|score1      =3–5
+|won1        =2
+|recap1      =www.flyershistory.com/cgi-bin/ppoboxscore.cgi?O19180003
+|1-1-1       =16:00 – [[Cyclone Taylor]] (1)<br>17:00 – Cyclone Taylor (2)
+|1-1-2       =[[Reg Noble]] (2) – 08:00<br>[[Harry Meeking]] (4) – 10:00<br>Reg Noble (3) – 11:00<br>[[Alf Skinner]] (1) – 19:50
+|1-2-1       =10:00 – [[Mickey MacKay]] (1)
+|1-2-2       =Alf Skinner (2) – 13:00
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[Hugh Lehman]]
+|goalie1-2   =[[Hap Holmes]]
+
+|date2       =March 23
+|score2      =4–6
+|home2       =2
+|won2        =1
+|recap2      =www.flyershistory.com/cgi-bin/ppoboxscore.cgi?O19180004
+|2-1-1       =18:00 – [[Cyclone Taylor]] (3)
+|2-1-2       =[[Alf Skinner]] (3) – 17:00
+|2-2-1       =02:00 – Cyclone Taylor (4)<br>06:00 – [[Mickey MacKay]] (2)<br>14:00 – Mickey MacKay (3)
+|2-2-2       =[[Harry Cameron]] (2) 16:00
+|2-3-1       =06:00 – [[Si Griffis]] (1)<br>10:00 – Mickey MacKay (3)
+|2-3-2       =Alf Skinner (4) – 08:00<br>Alf Skinner (5) – 16:00
+|goalie2-1   =[[Hugh Lehman]]
+|goalie2-2   =[[Hap Holmes]]
+
+|date3       =March 26
+|score3      =3–6
+|home3       =1
+|won3        =2
+|recap3      =www.flyershistory.com/cgi-bin/ppoboxscore.cgi?O19180005
+|3-1-1       =''No scoring''
+|3-1-2       =05:00 – [[Harry Cameron]] (3)<br>08:00 – [[Alf Skinner]] (6)<br>13:00 – [[Corb Denneny]] (1)
+|3-2-1       =[[Ran McDonald]] (1) – ''pp'' – 06:00<br>[[Cyclone Taylor]] (5) – 16:00
+|3-2-2       =11:00 – Harry Cameron (4)<br>14:00 – Corb Denneny (2)
+|3-3-1       =Cyclone Taylor (6) – 03:00
+|3-3-2       =13:00 – Alf Skinner (7)
+|goalie3-1   =[[Hugh Lehman]]
+|goalie3-2   =[[Hap Holmes]]
+
+|date4       =March 28
+|score4      =1–8
+|won4        =1
+|recap4      =www.flyershistory.com/cgi-bin/ppoboxscore.cgi?O19180006
+|4-1-1       =05:00 – [[Cyclone Taylor]] (7)
+|4-1-2       =''No scoring''
+|4-2-1       =04:00 – [[Barney Stanley]] (1)<br>11:06 – [[Mickey MacKay]] (5)<br>13:06 – Barney Stanley (2)
+|4-2-2       =[[Ken Randall]] (1) – 04:26
+|4-3-1       =06:00 – Cyclone Taylor (8)<br>13:00 – ''pp'' – [[Lloyd Cook]] (1)<br>13:45 – ''pp'' – Ran MacDonald (2)<br>15:00 – ''pp'' – Lloyd Cook (2)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Hugh Lehman]]
+|goalie4-2   =[[Hap Holmes]]
+
+|date5       =March 30
+|score5      =1–2
+|won5        =2
+|recap5      =www.flyershistory.com/cgi-bin/ppoboxscore.cgi?O19180007
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =''No scoring''
+|5-2-2       =''No scoring''
+|5-3-1       =[[Cyclone Taylor]] (9) – 09:30
+|5-3-2       =00:30 – [[Alf Skinner]] (8)<br>10:30 – [[Corb Denneny]] (3)
+|goalie5-1   =[[Hugh Lehman]]
+|goalie5-2   =[[Hap Holmes]]
+
+|series = Toronto won series 3–2
+}}
+
+==Player stats==
+[[File:Cyclone Taylor Vancouver.jpg|thumb|right|[[Cyclone Taylor]] of Vancouver scored nine goals during the series, the most of any player.]]
+{|class="wikitable"
+!Toronto
+!GP
+!G
+!A
+!PTS
+! PIM
+|-
+|[[Alf Skinner]]   ||5|| 8|| 2|| 10|| 18
+|-
+|[[Harry Mummery]] ||5 ||0 ||6 ||6 ||21
+|-
+|[[Harry Cameron]] ||5 ||3 ||1 ||4 ||12
+|-
+|[[Corb Denneny]]  ||5 ||3 ||1 ||4 ||0
+|-
+|[[Reg Noble]]     ||5 ||2 ||1 ||3 ||12
+|-
+|[[Harry Meeking]] ||5 ||1 ||2 ||3 ||18
+|-
+|[[Ken Randall]]   ||5 ||1 ||0 ||1 ||21
+|-
+|}
+
+{|class="wikitable"
+!Goaltender
+!GP
+!W
+!L
+!Min
+!GA
+!SO
+!Avg
+|-
+| [[Hap Holmes]] ||5 ||3 ||2 ||300 ||21 ||0 ||4.20
+|-
+|}
+
+{|class="wikitable"
+!Vancouver
+!GP
+!G
+!A
+!PTS
+! PIM
+|-
+| [[Mickey MacKay]]  ||5 ||5 ||5 ||10 ||12
+|-
+| [[Cyclone Taylor]] ||5 ||9 ||0 ||9 ||15
+|-
+| [[Ran McDonald]]  ||5 ||2 ||2 ||4 ||9
+|-
+| [[Lloyd Cook]]     ||5 ||2 ||0 ||2 ||12
+|-
+| [[Barney Stanley]] ||5 ||2 ||0 ||2 ||6
+|-
+| [[Si Griffis]]     ||5 ||1 ||0 ||1 ||9
+|-
+| [[Leo Cook]]       ||5 ||0 ||0 ||0 ||6
+|-
+| [[Speed Moynes]]   ||5 ||0 ||0 ||0 ||6
+|-
+|}
+
+{|class="wikitable"
+!Goaltender
+!GP
+!W
+!L
+!Min
+!GA
+!SO
+!Avg
+|-
+| [[Hugh Lehman]] ||5 ||2 ||3 ||300 ||18 ||0 ||3.60
+|-
+|}
+
+==Stanley Cup engraving==
+The 1918 Stanley Cup was presented by the trophy's trustee [[William Foran]]. Toronto never did engrave their name on the Cup for their championship season.
+
+It was not until the trophy was redesigned in 1948 that the words "1918 Toronto Arenas" was put onto its then-new collar.
+
+The following Toronto players and staff were members of the Stanley Cup winning team.
+
+[[File:Toronto Arenas.jpg|thumb|right|315px|1917–18 season Toronto Arenas. Top row, from left: [[Rusty Crawford]], [[Harry Meeking]], [[Ken Randall]], [[Corbett Denneny]], [[Harry Cameron]]. Middle row, from left: [[Dick Carroll]], [[Jack Adams]], [[Charles Querrie]], [[Alf Skinner]], [[Frank Carroll (ice hockey)|Frank Carroll]]. Bottom row, from left: [[Harry Mummery]], [[Hap Holmes|Harry "Hap" Holmes]], [[Reg Noble]].]]
+
+'''1917–18 Toronto Arenas'''
+{{Stanley Cup champion
+|goaltenders=*31-1 Harry [[Hap Holmes]]
+|defence=*2 [[Harry Cameron]]
+*3 [[Ken Randall]]‡ (captain)
+*11-7 [[Harry Mummery]]
+|centres=*4 [[Reg Noble]]‡ 
+*5 [[Corb Denneny]]
+*9 [[Jack Adams]]
+|wingers=*6 [[Alf Skinner|Alf "Dutch" Skinner]]
+*8 [[Rusty Crawford]]
+*7 [[Jack Coughlin (ice hockey)|Jack Coughlin]]†
+*10 [[Harry Meeking]]
+*12 [[Jack Marks (ice hockey)|Jack Marks]]†
+|non-players=
+*[[Charlie Querrie]] (President/Manager), [[Dick Carroll]] (Coach)
+*[[Frank Carroll (ice hockey)|Frank Carroll]] (Trainer)
+‡ Played rover position in the Stanley Cup Final<br/>† Missing from team picture.
+|engraving-notes=
+Although the Vancouver team was not the winner of the series, the Vancouver club had the words "Vancouver/Defeated Seattle/1917–18/Score 1–0" engraved on the Cup after winning the PCHA championship over the Metropolitans, who won the [[1916 Stanley Cup Final|previous year's Cup Final]]. This was consistent with the practice at that time of the trophy being officially passed on to the winner of the league championship of the previous Cup champion's league.
+
+The Toronto club never did engrave their name on the Cup to memorialize their series victory over Vancouver. At the time, the NHL club was in a dispute with the owner of the NHA Toronto franchise holder over the Stanley Cup revenues. In 1948, the NHL engraved "1918 Toronto Arenas" on the Cup.<ref>{{harvnb|Holzman|Nieforth|2002|p=197}}</ref>
+
+Dick Carroll was not only the first NHL coach to win the Stanley Cup in his first NHL season, but he was also a rookie coach.
+}}
+
+==References==
+===Citations===
+{{reflist|20em}}
+
+===Bibliography===
+*{{cite web | url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1917-18 | title=1917–18 Stanley Cup Winner: Toronto Arenas | publisher=[[Hockey Hall of Fame]] | access-date=2010-10-16}}
+*{{cite web | url=http://www.hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm | title=hockeyleaguehistory.com – Pacific Coast Hockey Association | access-date=2006-07-03| archive-url= https://web.archive.org/web/20060703172648/http://hockeyleaguehistory.com/Pacific_Coast_Hockey_Association%20_1911.htm| archive-date= 3 July 2006  | url-status= live}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+*{{cite book | editor=Dan Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=49–50}}
+* {{Citation|last=Duff|first=Bob|year=2017|title=The First Season: 1917–18 and the Birth of the NHL|publisher=Biblioasis|location=Windsor, Ontario|isbn=978-1-771961-84-4}}
+* {{Citation|last1=Holzman|first1=Morey|last2=Nieforth|first2=Joseph|title=Deceptions and Doublecross: How the NHL Conquered Hockey|year=2002|publisher=Dundurn Press|location=Toronto|isbn=1-55002-413-2}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 50| author-link2=Hockey Hall of Fame }}
+
+==See also==
+* [[1917–18 NHL season]]
+* [[1917–18 PCHA season]]
+
+{{s-start}}
+{{succession box |
+  before = [[1917 Stanley Cup Final|Seattle Metropolitans<br>1917]] |
+  after = [[1919 Stanley Cup Final|(no champion for 1919)]] |
+  title = [[List of Stanley Cup champions|Toronto<br>Stanley Cup champions]] |
+  years = 1918|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Toronto Maple Leafs}}
+{{1917–18 NHL season by team}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:1917–18 NHL season|Stanley Cup]]
+[[Category:1917–18 PCHA season|Stan]]
+[[Category:Toronto Arenas|St]]
+[[Category:Vancouver Millionaires games|1918]]
+[[Category:March 1918 sports events in Canada]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:1910s in Toronto]]
+[[Category:1918 in Ontario]]

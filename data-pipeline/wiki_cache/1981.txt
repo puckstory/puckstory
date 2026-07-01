@@ -1,0 +1,1203 @@
+{{Short description|1981 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1981
+|image=
+|team1='''[[1980–81 New York Islanders season|New York Islanders]]'''
+|team1_short=New York
+|team1_captain=[[Denis Potvin]]
+|team1_coach=[[Al Arbour]]
+|team2=[[1980–81 Minnesota North Stars season|Minnesota North Stars]]
+|team2_short=Minnesota
+|team2_coach=[[Glen Sonmor]]
+|team2_captain=[[Paul Shmyr]]
+|referees=[[Bryan Lewis]], Dave Newell, [[Andy Van Hellemond]]
+|series_winner=[[Wayne Merrick]] (5:37, first)
+|hofers='''Islanders:'''<br/>[[Mike Bossy]] (1991)<br/>[[Clark Gillies]] (2002)<br/>[[Denis Potvin]] (1991)<br/>[[Billy Smith (ice hockey)|Billy Smith]] (1993)<br/>[[Bryan Trottier]] (1997)<br/>'''North Stars:'''<br/>[[Dino Ciccarelli]] (2010)<br/>'''Coaches:'''<br/>[[Al Arbour]] (1996)<br/>'''Officials:'''<br/> [[John D'Amico (ice hockey)|John D'Amico]] (1993)<br/>[[Ray Scapinello]] (2008)<br/>[[Andy Van Hellemond]] (1999)
+|dates=May 12–21, 1981
+|location1=[[Uniondale, New York|Uniondale]]: [[Nassau Veterans Memorial Coliseum]] (1, 2, 5)
+|location2=[[Bloomington, Minnesota|Bloomington]]: [[Met Center]] (3, 4)
+|mvp=[[Butch Goring]] (Islanders)
+|networks='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on USA|USA Network]]<br />(New York City area): [[SportsChannel New York]] (1–2, 5), [[WWOR-TV|WOR]] (3–4)<br />(Minnesota area): [[KMSP-TV|KMSP]]
+|net_announcers=(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Mickey Redmond]], and [[Gary Dornhoefer]]<br/>(SRC) [[Rene Lecavalier]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(USA) ''Simulcast of CBC feed''<br/>(SCNY) [[Jiggs McDonald]] and [[Ed Westfall]]<br/>(WOR) Jiggs McDonald (game 3), [[Tim Ryan (sportscaster)|Tim Ryan]] 
+(game 4), and [[Ed Westfall]]<br/>(KMSP) [[Bob Kurtz (sportscaster)|Bob Kurtz]] and [[Tom Reid (ice hockey)|Tom Reid]] 
+|team1_1='''6'''
+|team1_2='''6'''
+|team1_3='''7'''
+|team1_4=2
+|team1_5='''5'''
+|team1_tot=4
+|team2_1=3
+|team2_2=3
+|team2_3=5
+|team2_4='''4'''
+|team2_5=1
+|team2_tot=1
+}}
+The '''1981 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1980–81 NHL season|1980–81 season]], and the culmination of the [[1981 Stanley Cup playoffs]]. It was contested by the [[1980–81 Minnesota North Stars season|Minnesota North Stars]], making their first Finals appearance, and the defending champion [[1980–81 New York Islanders season|New York Islanders]], in their second Finals appearance. The Islanders would win the best-of-seven series, four games to one, to win their second [[Stanley Cup]] championship. This would be the last all-American Finals until {{scfy|1991}}, when the North Stars faced the [[Pittsburgh Penguins]]. [[Butch Goring]] won the [[Conn Smythe Trophy]] as Most Valuable Player in the playoffs.
+
+==Paths to the Finals==
+{{further|1981 Stanley Cup playoffs}}
+{{see also|1980–81 Minnesota North Stars season|1980–81 New York Islanders season}}
+Minnesota defeated the [[Boston Bruins]] 3–0, the [[Buffalo Sabres]] 4–1 and the [[Calgary Flames]] 4–2 to advance to the Final.
+
+New York defeated the [[Toronto Maple Leafs]] 3–0, the [[Edmonton Oilers]] 4–2, and the [[New York Rangers]] 4–0 to reach the Final.
+
+==Game summaries==
+[[Dino Ciccarelli]] of the North Stars set a rookie record (since tied by [[Ville Leino]] in {{scfy|2010}}), scoring twenty-one points (14 goals and seven assists) during the year's playoffs. The Islanders' much deeper lineup, however, won the day.
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=New York Islanders
+|stadium2=[[Met Center]]
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 12
+|score1      =3–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mns-vs-nyi/1981/05/12/1980030411#game=1980030411,game_state=final,game_tab=boxscore
+}}
+[[Anders Kallur]] and [[Wayne Merrick]] each scored twice for New York in game one, giving them a 6–3 victory and a 1–0 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NYI
+|align=center | [[Anders Kallur]] (3)
+|align=center | [[Dave Langevin]] (2) and [[Butch Goring]] (9)
+|align=center | 02:54
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Bryan Trottier]] (10) – ''sh''
+|align=center | [[Billy Carroll]] (7)
+|align=center | 14:38
+|align=center | 2–0 NYI
+|-
+|align=center | NYI
+|align=center | Anders Kallur (4) – ''sh''
+|align=center | Bryan Trottier (14)
+|align=center | 15:25
+|align=center | 3–0 NYI
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | NYI
+|align=center | Billy Carroll (3)
+|align=center | [[Duane Sutter]] (1) and [[Bobby Nystrom]] (5)
+|align=center | 09:58
+|align=center | 4–0 NYI
+|-
+|align=center | MNS
+|align=center | [[Kent-Erik Andersson]] (2)
+|align=center | [[Dino Ciccarelli]] (6)
+|align=center | 13:04
+|align=center | 4–1 NYI
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | NYI
+|align=center | [[Wayne Merrick]] (4)
+|align=center | ''Unassisted''
+|align=center | 00:58
+|align=center | 5–1 NYI
+|-
+|align=center | MNS
+|align=center | [[Steve Payne (ice hockey)|Steve Payne]] (13) – ''pp''
+|align=center | [[Craig Hartsburg]] (7) and [[Bobby Smith (ice hockey)|Bobby Smith]] (15)
+|align=center | 03:08
+|align=center | 5–2 NYI
+|-
+|align=center | NYI
+|align=center | Wayne Merrick (5)
+|align=center | Dave Langevin (3) and [[John Tonelli]] (4)
+|align=center | 13:15
+|align=center | 6–2 NYI
+|-
+|align=center | MNS
+|align=center | Dino Ciccarelli (12)
+|align=center | [[Tom McCarthy (ice hockey, born 1960)|Tom McCarthy]] (3)
+|align=center | 15:14
+|align=center | 6–3 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | MNS
+|align=center | [[Brad Maxwell]]
+|align=center | High-sticking
+|align=center | 06:44
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Bourne]]
+|align=center | Spearing – major
+|align=center | 11:12
+|align=center | 5:00
+|-
+|align=center | MNS
+|align=center | Tom McCarthy
+|align=center | Slashing
+|align=center | 19:45
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | MNS
+|align=center | [[Greg Smith (ice hockey)|Greg Smith]]
+|align=center | Interference
+|align=center | 06:06
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | High-sticking
+|align=center | 14:13
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Bryan Trottier
+|align=center | Tripping
+|align=center | 17:29
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Cross-checking
+|align=center | 02:39
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Roughing
+|align=center | 18:09
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 8 || align=center | 8 || align=center | 10 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10 || align=center | 10 || align=center | 3 || align=center | 23
+|}
+
+===Game two===
+
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=New York Islanders
+|stadium2=[[Met Center]]
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 14
+|score1      =3–6
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/mns-vs-nyi/1981/05/14/1980030412
+}}
+In a virtual repeat of game one, [[Denis Potvin]] and [[Mike Bossy]] both scored two goals and the Islanders won 6–3 over the North Stars again.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | MNS
+|align=center | [[Dino Ciccarelli]] (13) – ''pp''
+|align=center | [[Craig Hartsburg]] (10) and [[Steve Christoff]] (7)
+|align=center | 02:54
+|align=center | 1–0 MNS
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (14) – ''pp''
+|align=center | [[Mike McEwen (ice hockey)|Mike McEwen]] (8) and [[Denis Potvin]] (14)
+|align=center | 04:33
+|align=center | 1–1
+|-
+|align=center | NYI
+|align=center | [[Bobby Nystrom]] (5)
+|align=center | [[Wayne Merrick]] (8) and [[John Tonelli]] (5)
+|align=center | 14:39
+|align=center | 2–1 NYI
+|-
+|align=center | NYI
+|align=center | Denis Potvin (7)
+|align=center | Wayne Merrick (9)
+|align=center | 17:48
+|align=center | 3–1 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | MNS
+|align=center | [[Brad Palmer]] (8)
+|align=center | [[Neal Broten]] (7) and [[Greg Smith (ice hockey)|Greg Smith]] (5)
+|align=center | 09:15
+|align=center | 3–2 NYI
+|-
+| style="text-align:center;" rowspan="4"| '''3rd'''
+|align=center | MNS
+|align=center | [[Steve Payne (ice hockey)|Steve Payne]] (14)
+|align=center | [[Tim Young (ice hockey)|Tim Young]] (12) and [[Gordie Roberts]] (5)
+|align=center | 00:30
+|align=center | 3–3
+|-
+|align=center | NYI
+|align=center | Denis Potvin (8) – ''pp''
+|align=center | [[Butch Goring]] (10)
+|align=center | 08:00
+|align=center | 4–3 NYI
+|-
+|align=center | NYI
+|align=center | [[Ken Morrow]] (3)
+|align=center | Denis Potvin (15) and Wayne Merrick (10)
+|align=center | 11:57
+|align=center | 5–3 NYI
+|-
+|align=center | NYI
+|align=center | Mike Bossy (15)
+|align=center | [[Bryan Trottier]] (15) and [[Bob Bourne]] (5)
+|align=center | 16:22
+|align=center | 6–3 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="9"| '''1st'''
+|align=center | NYI
+|align=center | [[Anders Kallur]]
+|align=center | Holding
+|align=center | 01:31
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Hooking
+|align=center | 11:12
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Fred Barrett (ice hockey)|Fred Barrett]]
+|align=center | Holding
+|align=center | 04:08
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Holding
+|align=center | 04:53
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Al MacAdam]]
+|align=center | High-sticking
+|align=center | 05:04
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Ken Morrow
+|align=center | High-sticking
+|align=center | 05:04
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Dave Langevin
+|align=center | Elbowing
+|align=center | 11:01
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Fred Barrett
+|align=center | Roughing
+|align=center | 19:15
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Bourne]]
+|align=center | Roughing
+|align=center | 19:15
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | Roughing
+|align=center | 10:26
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="12"| '''3rd'''
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Tripping
+|align=center | 03:39
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Neal Broten
+|align=center | Hooking
+|align=center | 06:22
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Fred Barrett
+|align=center | High-sticking
+|align=center | 07:01
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | High-sticking
+|align=center | 07:01
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Tripping
+|align=center | 12:58
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Closing hand on puck
+|align=center | 13:31
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dino Ciccarelli
+|align=center | Roughing
+|align=center | 16:44
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dino Ciccarelli 
+|align=center | Misconduct
+|align=center | 16:44
+|align=center | 10:00
+|-
+|align=center | MNS
+|align=center | Brad Maxwell
+|align=center | Fighting – major
+|align=center | 16:44
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Bob Bourne
+|align=center | Fighting – major
+|align=center | 16:44
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Roughing
+|align=center | 16:44
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | Misconduct
+|align=center | 16:44
+|align=center | 10:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 9 || align=center | 11 || align=center | 8 || align=center | 28
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 11 || align=center | 11 || align=center | 16 || align=center | 38
+|}
+
+===Game three===
+
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Minnesota North Stars
+|stadium1=[[Met Center]]
+|date1       =May 17
+|score1      =7–5
+|won1        =1
+|recap1      =https://www.nhl.com/gamecenter/nyi-vs-mns/1981/05/17/1980030413
+}}
+In a back and forth game three, [[Butch Goring]] recorded a hat trick and [[Mike Bossy]] recorded 4 points after the North Stars had taken a 3–1 after the first period. The Islanders went on to win the game 7–5, giving them a commanding 3–0 lead in the series.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | MNS
+|align=center | [[Steve Christoff]] (7) – ''pp''
+|align=center | [[Craig Hartsburg]] (11) and [[Dino Ciccarelli]] (7)
+|align=center | 03:25
+|align=center | 1–0 MNS
+|-
+|align=center | MNS
+|align=center | [[Steve Payne (ice hockey)|Steve Payne]] (15)
+|align=center | [[Tim Young (ice hockey)|Tim Young]] (13) and Al MacAdam (8)
+|align=center | 14:09
+|align=center | 2–0 MNS
+|-
+|align=center | NYI
+|align=center | [[Mike Bossy]] (16)
+|align=center | [[Clark Gillies]] (7)
+|align=center | 14:47
+|align=center | 2–1 MNS
+|-
+|align=center | MNS
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]] (7) – ''pp''
+|align=center | [[Craig Hartsburg]] (12) and Steve Payne (11)
+|align=center | 16:30
+|align=center | 3–1 MNS
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NYI
+|align=center | [[Bob Nystrom]] (6)
+|align=center | [[John Tonelli]] (6) and [[Wayne Merrick]] (11)
+|align=center | 04:10
+|align=center | 3–2 NYI
+|-
+|align=center | NYI
+|align=center | [[Butch Goring]] (6) – ''pp''
+|align=center | [[Denis Potvin]] (16) and Mike Bossy (15)
+|align=center | 07:16
+|align=center | 3–3 
+|-
+|align=center | NYI
+|align=center | Butch Goring (7)
+|align=center | Clark Gillies (8)
+|align=center | 11:51
+|align=center | 4–3 NYI
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | MNS
+|align=center | Steve Payne (16)
+|align=center | Tim Young (14) and Steve Christoff (8)
+|align=center | 01:11
+|align=center | 4–4 
+|-
+|align=center | NYI
+|align=center | Mike Bossy (17)
+|align=center | [[Bryan Trottier]] (16)
+|align=center | 02:05
+|align=center | 5–4 NYI
+|-
+|align=center | NYI
+|align=center | Butch Goring (8)
+|align=center | [[Billy Carroll]] (8) and Denis Potvin (17)
+|align=center | 06:34
+|align=center | 6–4 NYI
+|-
+|align=center | MNS
+|align=center | Dino Ciccarelli (14)
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]] (16)
+|align=center | 13:35
+|align=center | 6–5 NYI
+|-
+|align=center | NYI
+|align=center | Bryan Trottier (11) – ''en''
+|align=center | Mike Bossy (16) and Wayne Merrick (12)
+|align=center | 19:16
+|align=center | 7–5 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="8"| '''1st'''
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Interference
+|align=center | 02:10
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Tom Younghans]]
+|align=center | Interference
+|align=center | 03:55
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Steve Payne
+|align=center | Holding
+|align=center | 06:37
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Tom Younghans
+|align=center | Roughing
+|align=center | 07:05
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Roughing
+|align=center | 07:05
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Hooking
+|align=center | 07:19
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Boarding
+|align=center | 11:26
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Interference
+|align=center | 15:20
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | MNS
+|align=center | Bobby Smith
+|align=center | Tripping
+|align=center | 05:39
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Greg Smith (ice hockey)|Greg Smith]]
+|align=center | Interference
+|align=center | 05:56
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | High-sticking
+|align=center | 05:56
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies
+|align=center | Interference
+|align=center | 09:40
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Bryan Trottier
+|align=center | Tripping
+|align=center | 16:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Mike McEwen (ice hockey)|Mike McEwen]]
+|align=center | Hooking
+|align=center | 18:25
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | Tripping
+|align=center | 04:15
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 11 || align=center | 8 || align=center | 10 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 8 || align=center | 7 || align=center | 13 || align=center | 28
+|}
+
+===Game four===
+
+{{NHLPlayoffs
+|team1=New York Islanders
+|team2=Minnesota North Stars
+|stadium1=[[Met Center]]
+|date1       =May 19
+|score1      =2–4
+|won1        =2
+|recap1      =https://www.nhl.com/gamecenter/nyi-vs-mns/1981/05/19/1980030414
+}}
+[[Steve Payne (ice hockey)|Steve Payne]] scored the game winning goal in the third period of game four, and [[Don Beaupré|Don Beaupre]] made 33 saves to give Minnesota a 4–2 to thrive off elimination. 
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NYI
+|align=center | [[Gord Lane]] (1)
+|align=center | Mike Bossy (17) and [[Bryan Trottier]] (17)
+|align=center | 03:47
+|align=center | 1–0 NYI
+|-
+|align=center | MNS
+|align=center | [[Craig Hartsburg]] (3) – ''pp''
+|align=center | [[Bobby Smith (ice hockey)|Bobby Smith]] (17) and [[Brad Maxwell]] (8)
+|align=center | 11:34
+|align=center | 1–1
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | MNS
+|align=center | [[Al MacAdam]] (9)
+|align=center | [[Steve Payne (ice hockey)|Steve Payne]] (12) and Brad Maxwell (9)
+|align=center | 05:15
+|align=center | 2–1 MNS
+|-
+|align=center | NYI
+|align=center | [[Mike McEwen (ice hockey)|Mike McEwen]] (5) – ''pp''
+|align=center | [[John Tonelli]] (7) and [[Anders Kallur]] (2)
+|align=center | 07:37
+|align=center | 2–2
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MNS
+|align=center | Steve Payne (17)
+|align=center | Brad Maxwell (12) and Al MacAdam (9)
+|align=center | 12:26
+|align=center | 3–2 MNS
+|-
+|align=center | MNS
+|align=center | Bobby Smith (8) – ''pp''
+|align=center | Al MacAdam (10) and Brad Maxwell (11)
+|align=center | 18:12
+|align=center | 4–2 MNS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="6"| '''1st'''
+|align=center | NYI
+|align=center | [[Clark Gillies]]
+|align=center | Slashing
+|align=center | 01:00
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Craig Hartsburg]]
+|align=center | Slashing
+|align=center | 04:00
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Dave Langevin]]
+|align=center | Cross-checking
+|align=center | 10:03
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Gordie Roberts]]
+|align=center | Hooking
+|align=center | 12:23
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Clark Gillies 
+|align=center | Roughing
+|align=center | 13:44
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Curt Giles]]
+|align=center | Tripping
+|align=center | 16:21
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="7"| '''2nd'''
+|align=center | NYI
+|align=center | [[Bob Nystrom]]
+|align=center | Charging
+|align=center | 03:12
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Brad Palmer]]
+|align=center | Cross-checking
+|align=center | 05:47
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Denis Potvin]]
+|align=center | Elbowing
+|align=center | 09:13
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Dino Ciccarelli]]
+|align=center | Cross-checking
+|align=center | 11:30
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Dino Ciccarelli
+|align=center | Fighting – major
+|align=center | 11:30
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | [[Bob Lorimer]]
+|align=center | Fighting – major
+|align=center | 11:30
+|align=center | 5:00
+|-
+|align=center | NYI
+|align=center | Dave Langevin
+|align=center | Tripping
+|align=center | 14:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | NYI
+|align=center | Anders Kallur
+|align=center | Tripping
+|align=center | 06:17
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Denis Potvin
+|align=center | Holding
+|align=center | 16:39
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 12 || align=center | 12 || align=center | 11 || align=center | 35
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 13 || align=center | 10 || align=center | 11 || align=center | 34
+|}
+
+===Game five===
+
+{{NHLPlayoffs
+|team1=Minnesota North Stars
+|team2=New York Islanders
+|stadium1=[[Nassau Coliseum]]
+|date1       =May 21
+|score1      =1–5
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mns-vs-nyi/1981/05/12/1980030411#game=1980030411,game_state=final,game_tab=boxscore
+}}
+In game five, [[Billy Smith (ice hockey)|Billy Smith]] made 24 saves in a 5–1 victory for New York to win the series and help them win their second consecutive Stanley Cup. [[Butch Goring]], who recorded two goals during the game, was awarded the [[Conn Smythe Trophy]] as playoffs MVP.  
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="4"| '''1st'''
+|align=center | NYI
+|align=center | [[Butch Goring]] (9) – ''pp''
+|align=center | [[Bob Bourne]] (6)
+|align=center | 05:12
+|align=center | 1–0 NYI
+|-
+|align=center | NYI
+|align=center | [[Wayne Merrick]] (6)
+|align=center | [[John Tonelli]] (8) and [[Bob Nystrom]] (6)
+|align=center | 05:37
+|align=center | 2–0 NYI
+|-
+|align=center | NYI
+|align=center | Butch Goring (10)
+|align=center | [[Clark Gillies]] (9) and [[Mike Bossy]] (18)
+|align=center | 10:03
+|align=center | 3–0 NYI
+|-
+|align=center | MNS
+|align=center | [[Steve Christoff]] (8)
+|align=center | ''Unassisted''
+|align=center | 16:06
+|align=center | 3–1 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''2nd'''
+|align=center | NYI
+|align=center | Bob Bourne (4)
+|align=center | [[Billy Carroll]] (9) and [[Anders Kallur]] (3)
+|align=center | 19:12
+|align=center | 4–1 NYI
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYI
+|align=center | [[Mike McEwen (ice hockey)|Mike McEwen]] (6)
+|align=center | [[Bryan Trottier]] (18)
+|align=center | 17:06
+|align=center | 5–1 NYI
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="3"| '''1st'''
+|align=center | NYI
+|align=center | Bob Nystrom
+|align=center | Slashing
+|align=center | 00:56
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Brad Palmer]]
+|align=center | Holding
+|align=center | 03:52
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Bob Lorimer]]
+|align=center | Slashing
+|align=center | 19:00
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | MNS
+|align=center | [[Paul Shmyr]]
+|align=center | Elbowing
+|align=center | 07:33
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Greg Smith (ice hockey)|Greg Smith]]
+|align=center | Cross-checking
+|align=center | 14:43
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | [[Kevin Maxwell (ice hockey)|Kevin Maxwell]]
+|align=center | Roughing
+|align=center | 19:55
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Gord Lane]]
+|align=center | Roughing
+|align=center | 19:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | NYI
+|align=center | Bob Lorimer
+|align=center | Holding
+|align=center | 03:47
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Brad Maxwell
+|align=center | Slashing
+|align=center | 07:57
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | John Tonelli
+|align=center | Slashing
+|align=center | 07:57
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | Gord Lane
+|align=center | High-sticking
+|align=center | 11:48
+|align=center | 2:00
+|-
+|align=center | MNS
+|align=center | Kevin Maxwell 
+|align=center | Slashing
+|align=center | 16:42
+|align=center | 2:00
+|-
+|align=center | NYI
+|align=center | [[Billy Smith (ice hockey)|Billy Smith]]
+|align=center | Slashing
+|align=center | 16:42
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Minnesota}} || align=center | 15 || align=center | 4 || align=center | 6 || align=center | 25
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10 || align=center | 16 || align=center | 7 || align=center | 33
+|}
+
+==Broadcasting==
+The series aired on [[Hockey Night in Canada|CBC]] in Canada. In the United States, this was the first of five seasons that the Cup Finals aired on the [[NHL on USA|USA Network]]. For the 1981 Finals only, USA simulcast the CBC feed instead of producing their own coverage. However, USA's national coverage was [[Blackout (broadcasting)|blacked out]] in the New York metro and Minnesota area due to the local rights to their respective teams in that markets. In the New York area, [[MSG Sportsnet|SportsChannel New York]] aired three games at the [[Nassau Coliseum|Nassau Veterans Memorial Coliseum]], and [[WWOR-TV|WOR]] televised two games in [[Met Center|Bloomington, Minnesota]] while [[KMSP-TV|KMSP]] aired every game of the series in the Minnesota area.
+
+==Team rosters==
+
+===Minnesota North Stars===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Curt | last = Giles | dab = | num = 2 | pos = D | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 11 | birthday = 30 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[The Pas, Manitoba]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Fred | last = Barrett | dab = Fred Barrett (ice hockey) | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 1 | birthday = 26 | acq = [[1970 NHL Amateur Draft|1970]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Craig | last = Hartsburg | dab = | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1959 | birthmonth = 6 | birthday = 29 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Stratford, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Brad | last = Maxwell | dab = | num = 5 | pos = D | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 7 | birthday = 8 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Brandon, Manitoba]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Paul | last = Shmyr | dab = | num = 6 | pos = D | nat = Canada | s/g = L | birthyear = 1946 | birthmonth = 1 | birthday = 18 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Cudworth, Saskatchewan]] | cap = C | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Neal | last = Broten | dab = | num = 7 | pos = C | nat = USA | s/g = L | birthyear = 1959 | birthmonth = 11 | birthday = 29 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Roseau, Minnesota]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Kent-Erik | last = Andersson | dab = | num = 8 | pos = RW | nat = Sweden | s/g = R | birthyear = 1951 | birthmonth = 5 | birthday = 24 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Örebro, Sweden]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Kevin | last = Maxwell | dab = Kevin Maxwell (ice hockey) | num = 9 | pos = C | nat = Canada | s/g = R | birthyear = 1959 | birthmonth = 11 | birthday = 29 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Edmonton, Alberta]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Gordie | last = Roberts | dab = | num = 10 | pos = D | nat = USA | s/g = L | birthyear = 1957 | birthmonth = 10 | birthday = 2 | acq = [[1980-81 NHL season|1980]] | birthplace = [[Detroit, Michigan]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Tom | last = McCarthy | dab = Tom McCarthy (ice hockey, born 1960) | num = 11 | pos = LW | nat = Canada | s/g = L | birthyear = 1960 | birthmonth = 7 | birthday = 31 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Brad | last = Palmer | dab = | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1961 | birthmonth = 9 | birthday = 14 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Duncan, British Columbia]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Bobby | last = Smith | dab = Bobby Smith (ice hockey) | num = 15 | pos = C | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 2 | birthday = 12 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[North Sydney, Nova Scotia]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Mike | last = Polich | dab =  | num = 16 | pos = LW | nat = USA | s/g = L | birthyear = 1952 | birthmonth = 12 | birthday = 19 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Hibbing, Minnesota]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Tim | last = Young | dab = Tim Young (ice hockey) | num = 17 | pos = C | nat = Canada | s/g = R | birthyear = 1955 | birthmonth = 2 | birthday = 22 | acq = [[1975-76 NHL season|1975]] | birthplace = [[Scarborough, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Dino | last = Ciccarelli | dab = | num = 20 | pos = RW | nat = Canada | s/g = R | birthyear = 1960 | birthmonth = 2 | birthday = 8 | acq = [[1980-81 NHL season|1980]] | birthplace = [[Sarnia, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Jack | last = Carlson | dab = Jack Carlson (ice hockey) | num = 21 | pos = LW | nat = USA | s/g = L | birthyear = 1954 | birthmonth = 8 | birthday = 23 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Virginia, Minnesota]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Greg | last = Smith | dab = Greg Smith (ice hockey) | num = 23 | pos = D | nat = Canada | s/g = L | birthyear = 1955 | birthmonth = 7 | birthday = 18 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Ponoka, Alberta]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Al | last = MacAdam | dab = | num = 25 | pos = RW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 3 | birthday = 16 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Charlottetown, Prince Edward Island]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Steve | last = Payne | dab = Steve Payne (ice hockey) | num = 26 | pos = LW | nat = Canada | s/g = L | birthyear = 1958 | birthmonth = 8 | birthday = 16 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Gilles | last = Meloche | dab = | num = 27 | pos = G | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 7 | birthday = 12 | acq = [[1978-79 NHL season|1978]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Steve | last = Christoff | dab = | num = 28 | pos = C | nat = USA | s/g = R | birthyear = 1958 | birthmonth = 1 | birthday = 23 | acq = [[1978 NHL Amateur Draft|1978]] | birthplace = [[Springfield, Illinois]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Tom | last = Younghans | dab = | num = 29 | pos = RW | nat = USA | s/g = R | birthyear = 1953 | birthmonth = 1 | birthday = 22 | acq = [[1976-77 NHL season|1976]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Ken | last = Solheim | dab =  | num = 31 | pos = LW | nat = Canada | s/g = L | birthyear = 1961 | birthmonth = 3 | birthday = 27 | acq = [[1980-81 NHL season|1981]] | birthplace = [[Hythe, Alberta]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Don | last = Beaupre | dab = | num = 33 | pos = G | nat = Canada | s/g = L | birthyear = 1961 | birthmonth = 9 | birthday = 19 | acq = [[1980 NHL Entry Draft|1980]] | birthplace = [[Waterloo, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+|}
+
+===New York Islanders===
+{{Ice hockey team roster}}
+{{Ice hockey team player
+| first = Roland | last = Melanson | dab = | num = 1 | pos = G | nat = Canada | s/g = L | birthyear = 1960 | birthmonth = 6 | birthday = 28 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Moncton, New Brunswick]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Jean | last = Potvin | dab = | num = 3 | pos = D | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 3 | birthday = 25 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Ottawa, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Bob | last = Lorimer | dab =  | num = 4 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 8 | birthday = 25 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Denis | last = Potvin | dab = | num = 5 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 10 | birthday = 29 | acq = [[1973 NHL Amateur Draft|1973]] | birthplace = [[Vanier, Ontario]] | cap = C | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Ken | last = Morrow | dab = | num = 6 | pos = D | nat = USA | s/g = R | birthyear = 1956 | birthmonth = 10 | birthday = 17 | acq = [[1976 NHL Amateur Draft|1976]] | birthplace = [[Davison, Michigan]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Stefan | last = Persson | dab = Stefan Persson (ice hockey) | num = 7 | pos = D | nat = Sweden | s/g = L | birthyear = 1954 | birthmonth = 12 | birthday = 22 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Bjurholm|Bjurholm, Sweden]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Garry | last = Howatt | dab = | num = 8 | pos = LW | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 9 | birthday = 26 | acq = [[1972 NHL Amateur Draft|1972]] | birthplace = [[Grand Centre, Alberta]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Clark | last = Gillies | dab = | num = 9 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 4 | birthday = 7 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Moose Jaw, Saskatchewan]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Wayne | last = Merrick | dab = | num = 11 | pos = C | nat = Canada | s/g = L | birthyear = 1952 | birthmonth = 4 | birthday = 23 | acq = [[1977-78 NHL season|1977]] | birthplace = [[Sarnia, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Duane | last = Sutter | dab = | num = 12 | pos = RW | nat = Canada | s/g = R | birthyear = 1960 | birthmonth = 3 | birthday = 16 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Viking, Alberta]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Bob | last = Bourne | dab = | num = 14 | pos = LW | nat = Canada | s/g = L | birthyear = 1954 | birthmonth = 6 | birthday = 21 | acq = [[1974-75 NHL season|1974]] | birthplace = [[Kindersley, Saskatchewan]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Mike | last = McEwen | dab = Mike McEwen (ice hockey) | num = 16 | pos = D | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 8 | birthday = 10 | acq = [[1980-81 NHL season|1981]] | birthplace = [[Hornepayne, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Bryan | last = Trottier | dab = | num = 19 | pos = C | nat = Canada | s/g = L | birthyear = 1956 | birthmonth = 7 | birthday = 17 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Val Marie, Saskatchewan]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Mike | last = Bossy | dab = | num = 22 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 1 | birthday = 22 | acq = [[1977 NHL Entry Draft|1977]] | birthplace = [[Montreal, Quebec]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Bob | last = Nystrom | dab = | num = 23 | pos = RW | nat = Sweden | s/g = R | birthyear = 1952 | birthmonth = 10 | birthday = 10 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Stockholm, Sweden]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Gord | last = Lane | dab = | num = 24 | pos = D | nat = Canada | s/g = L | birthyear = 1953 | birthmonth = 3 | birthday = 31 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Brandon, Manitoba]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Billy | last = Carroll | dab = | num = 25 | pos = C | nat = Canada | s/g = L | birthyear = 1959 | birthmonth = 1 | birthday = 19 | acq = [[1979 NHL Entry Draft|1979]] | birthplace = [[Toronto, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Dave | last = Langevin | dab = | num = 26 | pos = D | nat = USA | s/g = L | birthyear = 1954 | birthmonth = 5 | birthday = 15 | acq = [[1974 NHL amateur draft|1974]] | birthplace = [[Saint Paul, Minnesota]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = John | last = Tonelli | dab = | num = 27 | pos = LW | nat = Canada | s/g = L | birthyear = 1957 | birthmonth = 3 | birthday = 23 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Hamilton, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Anders | last = Kallur | dab = | num = 28 | pos = RW | nat = Sweden | s/g = L | birthyear = 1952 | birthmonth = 7 | birthday = 6 | acq = [[1979-80 NHL season|1979]] | birthplace = [[Ludvika|Ludvika, Sweden]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Hector | last = Marini | dab = | num = 29 | pos = RW | nat = Canada | s/g = R | birthyear = 1957 | birthmonth = 1 | birthday = 27 | acq = [[1977 NHL amateur draft|1977]] | birthplace = [[Timmins, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Billy | last = Smith | dab = Billy Smith (ice hockey) | num = 31 | pos = G | nat = Canada | s/g = L | birthyear = 1950 | birthmonth = 12 | birthday = 12 | acq = [[1972-73 NHL season|1972]] | birthplace = [[Perth, Ontario]] | cap = | year = 1981 | month = 5 | day = 12}}
+{{Ice hockey team player
+| first = Butch | last = Goring | dab = | num = 91 | pos = C | nat = Canada | s/g = L | birthyear = 1949 | birthmonth = 10 | birthday = 22 | acq = [[1979-80 NHL season|1980]] | birthplace = [[St. Boniface, Manitoba]] | cap = | year = 1981 | month = 5 | day = 12}}
+|}
+
+==Stanley Cup engraving==
+The 1981 Stanley Cup was presented to Islanders captain Denis Potvin by [[NHL Commissioner|NHL President]] [[John Ziegler Jr.|John Ziegler]] following the Islanders 5–1 win over the North Stars in game five.
+
+The following Islanders players and staff had their names engraved on the Stanley Cup
+
+'''1980–81 New York Islanders'''
+{{Stanley Cup champion
+|centres=*11 [[Wayne Merrick]]
+*14 [[Bob Bourne]]
+*19 [[Bryan Trottier]]
+*25 [[Billy Carroll]]*
+*91 [[Butch Goring]]
+|defence=*5 [[Denis Potvin]] (Captain)
+*3 [[Jean Potvin]] †
+*4 [[Bob Lorimer]]
+*6 [[Ken Morrow]]
+*7 [[Stefan Persson (ice hockey)|Stefan Persson]]
+*16 [[Mike McEwen (ice hockey)|Mike McEwen]]
+*24 [[Gord Lane]]
+*26 [[Dave Langevin]]
+|goaltenders=*1 [[Roland Melanson]]
+*31 [[Billy Smith (ice hockey)|Billy Smith]]
+|wingers=*8 [[Garry Howatt]]
+*9 [[Clark Gillies]]
+*12 [[Duane Sutter]]
+*22 [[Mike Bossy]]
+*23 [[Bob Nystrom]]
+*27 [[John Tonelli]]
+*28 [[Anders Kallur]]
+*29 [[Hector Marini]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play in Finals. Name engraved on Stanley Cup despite not officially qualifying.{{ref|A|[A]}}
+|non-players=
+*[[John Pickett (businessman)|John Pickett]] (Chairman/Owner)
+*[[Bill Torrey]] (President/General Manager)
+*[[Al Arbour]] (Head Coach), 10 [[Lorne Henning]] (playing-Ass't Coach)
+*[[Jim Devellano]] (Chief Scout), [[Gerry Ehman]] (Western Scout)
+*Harry Boyd (Scout), Mario Saraceno (Scout)
+* Ron Waske (Trainer), Jim Pickard (Asst. Trainer)
+|engraving-notes=
+* <sup>{{note|A|[A]}}</sup> #3 [[Jean Potvin]] (D) – 18 games regular season games and did not dress in the playoffs. He spent the rest of year as a broadcaster. Potvin's name was put on the cup in 1981, even though he did not officially qualify.
+* #10 [[Lorne Henning]] (C) – played nine regular season and one playoff game.  He was the last playing-coach to win the Stanley Cup.
+* A new ring was created in 1993 for the winners from 1979 to 1991. New York Islanders was misspelled. NEW YORK ILANDERS missing the first "S".  Name was spelled correctly on the Replica Cup also created in 1993.
+}}
+
+==Aftermath==
+The Islanders successfully returned to the Finals [[1982 Stanley Cup Final|the following year]]. This time, they played the [[Vancouver Canucks]] and swept them to capture their third consecutive Stanley Cup championship.
+
+The North Stars, however, lost in the first round to the [[Chicago Blackhawks]], 3–1. The North Stars would not return to the Stanley Cup Final again until [[1991 Stanley Cup Final|1991]], when they were defeated by the [[Pittsburgh Penguins]], in six games.
+
+==See also==
+* [[List of Stanley Cup champions]]
+* [[1980–81 NHL season]]
+
+==References==
+* {{cite book|title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+{{s-start}}
+{{succession box |
+  before = [[1980 Stanley Cup Final|New York Islanders<br>1980]] |
+  after = [[1982 Stanley Cup Final|New York Islanders<br>1982]] |
+  title = [[List of Stanley Cup champions|New York Islanders<br>Stanley Cup champions]] |
+  years = 1981|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New York Islanders}}
+{{Minnesota North Stars}}
+{{1980–81 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on USA}}
+}}
+
+[[Category:1981 Stanley Cup| ]]
+[[Category:1980–81 NHL season|Stanley]]
+[[Category:Stanley Cup Finals]]
+[[Category:Minnesota North Stars|Stan]]
+[[Category:New York Islanders games]]
+[[Category:May 1981 sports events in the United States]]
+[[Category:Ice hockey competitions in Minnesota]]
+[[Category:1981 in sports in Minnesota]]
+[[Category:Ice hockey competitions in New York (state)]]
+[[Category:1982 in sports in New York (state)]]

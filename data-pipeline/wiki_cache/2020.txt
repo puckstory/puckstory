@@ -1,0 +1,1655 @@
+{{short description|2020 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=December 2020}}
+{{Infobox Stanley Cup Final
+| year = 2020
+| image = 2020 Stanley Cup Final.png
+| team1 = [[2019–20 Dallas Stars season|Dallas Stars]]
+| team2 = '''[[2019–20 Tampa Bay Lightning season|Tampa Bay Lightning]]'''
+| team1_1 = '''4'''
+| team2_1 = 1
+| team1_2 = 2
+| team2_2 = '''3'''
+| team1_3 = 2
+| team2_3 = '''5'''
+| team1_4 = 4*
+| team2_4 = '''5'''*
+| team1_5 = '''3'''**
+| team2_5 = 2**
+| team1_6 = 0
+| team2_6 = '''2'''
+| team1_tot = 2
+| team2_tot = 4
+| location1 = [[Edmonton]]: [[Rogers Place]]
+| team1_coach = [[Rick Bowness]] (interim)
+| team2_coach = [[Jon Cooper (ice hockey)|Jon Cooper]]
+| team1_short = Dallas
+| team2_short = Tampa Bay
+| team1_captain = [[Jamie Benn]]
+| team2_captain = [[Steven Stamkos]]
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+| referees = [[Francis Charron]] (1, 4)<br>[[Steve Kozari]] (2, 5)<br>[[Wes McCauley]] (1, 3, 6)<br>[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (3, 5)<br>[[Kelly Sutherland]] (2, 4, 6)
+| dates = September 19–28, 2020
+| mvp = [[Victor Hedman]] (Lightning)
+| series_winner = [[Brayden Point]] (12:23, first)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]/[[NHL on Sportsnet|Sportsnet]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–6), [[NHL on NBC|NBCSN]] (2–3)
+| net_announcers = (CBC/SN) [[Jim Hughson]] and [[Craig Simpson]]<br/>(TVA) Felix Seguin and [[Patrick Lalime]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], [[Brian Boucher]], and [[Pierre McGuire]]
+}}
+[[File:Rogers Place, Edmonton, June 6, 2024.jpg|thumb|right|Due to the [[COVID-19 pandemic in North America|COVID-19 pandemic]], the entire series was held at [[Rogers Place]] in [[Edmonton]].]]
+The '''2020 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2019–20 NHL season|2019–20 season]] and the culmination of the [[2020 Stanley Cup playoffs]]. This series was between the [[Eastern Conference (NHL)|Eastern Conference]] champion [[2019–20 Tampa Bay Lightning season|Tampa Bay Lightning]] and the [[Western Conference (NHL)|Western Conference]] champion [[2019–20 Dallas Stars season|Dallas Stars]]. The Lightning won the [[best-of-seven playoff|best-of-seven series]], four games to two, for their second championship in franchise history. The Lightning had home-ice advantage in the series with the better regular season record. The series began on September 19 and concluded on September 28. Due to the [[COVID-19 pandemic in North America|COVID-19 pandemic]], the entire series was played [[Behind closed doors (sport)|behind closed doors]] at [[Rogers Place]] in [[Edmonton]]. The pandemic resulted in the league suspending the regular season on March 12, 2020, and then scheduling a special 24-team playoff format to be held in two neutral "hub cities" ([[Edmonton]] and [[Toronto]]) that began on August 1.<ref name="new schedule">{{cite web|url=https://www.sportsnet.ca/hockey/nhl/nhl-announces-tentative-dates-return-play-compressed-off-season/|title=NHL announces tentative dates for return to play, compressed off-season|first=Chris|last=Johnston|work=Sportsnet|date=July 10, 2020|access-date=July 10, 2020}}</ref> Thus it became the first Stanley Cup Final to be played in the month of September.
+
+This was the first Stanley Cup Final since {{scfy|1925}} to be played entirely outside the [[Eastern Time Zone]], the first since {{scfy|1928}} to be played entirely in one location, the first since {{scfy|1989}} to be played entirely in Canada, and the first since {{scfy|2011}} to have the Stanley Cup awarded in a Canadian arena. This was the first Stanley Cup Final since {{scfy|1950}} to feature a neutral site game and the first Stanley Cup Final to feature two teams from the [[Sun Belt|American Sun Belt]] ([[Texas]] and [[Florida]]).
+
+The [[2019–20 Dallas Stars season|Dallas Stars]] set the record for most playoff games played by a team in a single postseason at 27 games.
+
+==Paths to the Final==
+
+===Return to play===
+{{Main|2019–20 NHL season#Return to play with modified playoff format|label 1=2020 Return to play|2020 Stanley Cup playoffs}}
+On March 11, 2020, the [[World Health Organization]] declared [[COVID-19 pandemic|COVID-19 to be a pandemic]], and later that day, the [[National Basketball Association]] [[Suspension of the 2019–20 NBA season|suspended all games]] after players tested positive for the virus. One day later, the NHL announced that the 2019–20 season had been paused indefinitely.<ref name="NHL pause">{{cite web |title=NHL pauses regular season because of coronavirus|url=https://www.nhl.com/news/nhl-coronavirus-status/c-316155530|website=NHL.com|access-date=March 12, 2020|date=March 12, 2020}}</ref> On May 22, the league and the [[National Hockey League Players' Association|NHLPA]] agreed on a basic framework to stage a 24-team playoff tournament [[Behind closed doors (sport)|behind closed doors]], conducted in two neutral "hub" cities to help protect teams from the virus. The details of the plan were announced publicly on May 26. The seeds would be based on each club's points percentage when the season paused on March 12, effectively scrapping the remainder of the regular season. In the opening round of the 24-team playoff format, the top four teams in each conference played each other in a separate seeding round-robin to determine the seeding in the first round. The eight lower seeded teams in each conference played in the qualifying round, a best-of-five series to advance to the next round. The first round through to the Cup Final remained as best-of-seven series.<ref>{{cite news|title=NHLPA authorizes further negotiations on 24-team return to play format|url=https://www.sportsnet.ca/hockey/nhl/nhlpa-executive-board-approves-nhls-proposed-return-play-format/|work=Sportsnet|date=May 22, 2020|access-date=May 23, 2020}}</ref> On July 10, along with the ratification of an extension to the collective bargaining agreement, the [[National Hockey League|NHL]] and the [[National Hockey League Players' Association|NHLPA]] formally agreed to begin the playoffs on August 1 (concluding no later than early October), with games being hosted by [[Edmonton]] (Western Conference early rounds, conference finals, and Stanley Cup Final) and [[Toronto]] (Eastern Conference early rounds).<ref>{{Cite web|url=https://www.sportsnet.ca/hockey/nhl/nhl-nhlpa-vote-accept-cba-return-play-plan-protocols/|title=NHL is back in business with ratification of CBA, return-to-play plan|website=Sportsnet|publisher=Rogers Sports & Media|date=July 10, 2020|access-date=July 11, 2020}}</ref><ref>{{Cite web|title=NHL, NHLPA ratify CBA extension through 2025-26 season|url=https://www.nhl.com/news/nhl-nhlpa-ratify-cba-extension-through-2025-26-season/c-317377214|date=July 10, 2020|access-date=July 11, 2020|website=NHL.com}}</ref> U.S. cities were also considered, but were passed over after several U.S. states experienced a spike in COVID-19 cases in late June.<ref>{{Cite web|last=Kaplan|first=Emily|title=NHL eyeing Toronto, Edmonton as hub cities for season restart|url=https://www.espn.com/nhl/story/_/id/29392649/nhl-eyeing-toronto-edmonton-hub-cities-season-restart|date=July 1, 2020|access-date=July 19, 2020|website=ESPN.com|publisher=[[ESPN Inc.]]}}</ref><ref>{{Cite web|url=https://www.thestar.com/sports/hockey/opinion/2020/07/01/how-did-toronto-and-edmonton-beat-out-las-vegas-as-nhl-hub-cities-its-all-about-the-odds.html|title=How did Toronto and Edmonton beat out Las Vegas as NHL hub cities? It's all about the odds|date=July 1, 2020|access-date=July 19, 2020|newspaper=Toronto Star}}</ref>
+
+===Dallas Stars===
+{{Main|2019–20 Dallas Stars season}}
+This was the franchise's fifth appearance in the Final. They won the Stanley Cup in [[1999 Stanley Cup Final|1999]] before losing the Final in [[2000 Stanley Cup Final|2000]]. They also made two appearances as the [[Minnesota North Stars]] in [[1981 Stanley Cup Final|1981]] and [[1991 Stanley Cup Final|1991]].
+
+During the offseason, Dallas signed forwards [[Corey Perry]] and [[Joe Pavelski]] as well as defenceman [[Andrej Sekera]] in free agency.<ref>{{Cite web|date=July 1, 2019|title=Stars sign winger Corey Perry to one-year contract|url=https://www.sportsnet.ca/hockey/nhl/stars-sign-winger-corey-perry-one-year-contract/|access-date=September 25, 2020|website=Sportsnet}}</ref><ref>{{Cite web|date=July 1, 2019|title=Stars sign veteran forward Joe Pavelski to three-year deal|url=https://www.sportsnet.ca/hockey/nhl/stars-sign-veteran-forward-joe-pavelski-three-year-deal/|access-date=September 25, 2020|website=Sportsnet}}</ref><ref>{{Cite web|last=Mair|first=Tyler|date=July 1, 2019|title=Dallas Signs Andrej Sekera To One-Year, $1.5 Million Contract|url=https://www.defendingbigd.com/2019/7/1/20677246/dallas-stars-andrej-sekera-free-agency-signing-1-year-1-5-million-defense-depth-edmonton-oilers|access-date=September 25, 2020|website=Defending Big D}}</ref> The team also re-signed defenceman [[Taylor Fedun]] and forward [[Jason Dickinson]].<ref>{{cite web |url=https://www.nhl.com/stars/news/dallas-stars-sign-defenseman-taylor-fedun-to-2-year-2-way-contract/c-308097032 |title=Stars sign defenseman Taylor Fedun to 2-year, 2-way contract |publisher=Dallas Star |date=June 27, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/stars/news/dallas-stars-sign-center-jason-dickinson-to-2-year-contract/c-308239052 |title=Stars sign center Jason Dickinson to 2-year contract |publisher=Dallas Star |date=July 11, 2019}}</ref> The team made no trades during the regular season.
+
+On December 10, 2019, head coach [[Jim Montgomery (ice hockey)|Jim Montgomery]] was dismissed due to "unprofessional conduct inconsistent with the core values and beliefs" of both the team and the league, and was replaced by [[Rick Bowness]].<ref>{{cite web |title=Jim Montgomery dismissed as head coach of Stars |url=https://www.nhl.com/stars/news/jim-montgomery-dismissed-as-head-coach-of-dallas-stars/c-312388186 |website=NHL.com |access-date=September 15, 2020 |date=December 10, 2019}}</ref> Before joining the Stars organization, Bowness had served as associate coach with the Lightning from 2013 to 2018.<ref>{{cite news |last1=Mooney |first1=Roger |title=Lightning part ways with assistant coaches Rick Bowness, Brad Lauer |url=https://www.tampabay.com/blogs/lightning/2018/05/31/report-lightning-may-part-ways-with-associate-coach-rick-bowness/ |work=[[Tampa Bay Times]] |date=May 31, 2018 |access-date=September 18, 2020 }}</ref>
+
+When the regular season was suspended on March 12, 2020, the Stars had a 37–24–8 record and a .594 points percentage to finish third in the Central Division and fourth in the Western Conference. After play resumed in the hubs, Dallas placed third in the round robin.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-st-louis-blues-game-recap/c-317515640|title=Stars defeat Blues in round-robin, secure No. 3 seed in West|last=Sadowski|first=Rick|publisher=NHL Enterprises, L. P.|date=August 9, 2020|website=NHL.com|access-date=August 9, 2020}}</ref> The Stars then defeated the [[2019–20 Calgary Flames season|Calgary Flames]] in six games in the first round,<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-calgary-flames-game-6-recap/c-318569758|title=Stars use big rally to eliminate Flames in Game 6 of Western First Round|last=Vickers|first=Aaron|publisher=NHL Enterprises, L. P.|date=August 20, 2020|website=NHL.com|access-date=August 20, 2020}}</ref> the [[2019–20 Colorado Avalanche season|Colorado Avalanche]] in seven games in the second round,<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-colorado-avalanche-game-7-recap/c-318859210|title=Stars top Avalanche in Game 7, advance to Western Conference Final|last=Satriano|first=David|publisher=NHL Enterprises, L. P.|date=September 4, 2020|website=NHL.com|access-date=September 4, 2020}}</ref> and the [[2019–20 Vegas Golden Knights season|Vegas Golden Knights]] in five games in the Western Conference finals.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-vegas-golden-knights-game-5-recap/c-318994290|title=Stars defeat Golden Knights in OT in Game 5, reach Stanley Cup Final|last=Satriano|first=David|publisher=NHL Enterprises, L. P.|date=September 14, 2020|website=NHL.com|access-date=September 14, 2020}}</ref>
+
+===Tampa Bay Lightning===
+{{Main|2019–20 Tampa Bay Lightning season}}
+This was the Tampa Bay Lightning's third appearance in the Final. They won the Stanley Cup in [[2004 Stanley Cup Final|2004]] before losing the Final in [[2015 Stanley Cup Final|2015]].
+
+During the offseason, Backup goaltender [[Louis Domingue]] was dealt to the [[New Jersey Devils]] for a conditional seventh-round draft pick in [[2021 NHL Entry Draft|2021]]. Defenseman [[Anton Strålman|Anton Stralman]] left the team in free agency after five seasons and signed a three-year contract with the inne-state rival [[Florida Panthers]]. Right winger [[Ryan Callahan]]'s career was effectively ended when he was diagnosed with a degenerative back disease.<ref>{{cite web| url = https://www.cbssports.com/nhl/news/former-rangers-captain-ryan-callahan-diagnosed-with-degenerative-back-disease/ | title = Former Rangers captain Ryan Callahan diagnosed with degenerative back disease | work = [[CBS Sports]] | date =June 20, 2019 | access-date =September 29, 2020}}</ref> Defenseman [[Daniel Girardi|Dan Girardi]] went unsigned over the summer and eventually announced his retirement from playing hockey effective immediately after his two-year contract he signed in 2017.<ref>{{cite web| url = https://www.cbc.ca/sports/hockey/nhl/dan-girardi-retirement-1.5291473 | title = Former Lightning, Rangers d-man Dan Girardi retires as NHL's blocked shots leader | publisher = [[CBC News]] | date = September 20, 2019 | accessdate = September 20, 2019}}</ref> To make up for these losses, Tampa Bay signed goaltender [[Curtis McElhinney]], defencemen [[Luke Schenn]], [[Luke Witkowski]], and [[Kevin Shattenkirk]], and forward [[Patrick Maroon]] during free agency.<ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-goaltender-curtis-mcelhinney-to-two-year-contract/c-308150274 |title=Lightning sign goaltender Curtis McElhinney to two-year contract |publisher=Tampa Bay Lightning |date=July 1, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-luke-schenn/c-308140762 |title=Lightning sign defenseman Luke Schenn |publisher=Tampa Bay Lightning |date=July 1, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-luke-witkowski-to-two-year-contract/c-308154016 |title=Lightning sign defenseman Luke Witkowski to two-year contract |publisher=Tampa Bay Lightning |date=July 1, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-defenseman-kevin-shattenkirk-to-one-year-contract/c-308437904 |title=Lightning sign defenseman Kevin Shattenkirk to one-year contract |publisher=Tampa Bay Lightning |date=August 5, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-free-agent-forward-pat-maroon-for-one-year/c-308651564 |title=Lightning sign free agent forward Pat Maroon for one year |publisher=Tampa Bay Lightning |date=August 24, 2019}}</ref> Tampa Bay also re-signed goaltender [[Andrei Vasilevskiy]] and forwards [[Cédric Paquette|Cedric Paquette]] and [[Brayden Point]].<ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-goaltender-andrei-vasilevskiy-to-8-year-extension/c-308373676 |title=Lightning sign goaltender Andrei Vasilevskiy to 8-year extension |publisher=Tampa Bay Lightning |date=July 29, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-cedric-paquette-to-two-year-contract/c-308196660 |title=Lightning re-sign forward Cedric Paquette to two-year contract |publisher=Tampa Bay Lightning |date=July 5, 2019}}</ref><ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-re-sign-forward-brayden-point-to-three-year-contract/c-309399624 |title=Lightning re-sign forward Brayden Point to three-year contract |publisher=Tampa Bay Lightning |date=September 23, 2019}}</ref> During the regular season, the Lightning traded for forwards [[Blake Coleman]] and [[Barclay Goodrow]].<ref>{{Cite web|date=February 16, 2020|title=Lightning acquire Blake Coleman from Devils for Nolan Foote, first-round pick|url=https://www.sportsnet.ca/hockey/nhl/lightning-acquire-blake-coleman-devils-nolan-foote-first-round-pick/|access-date=September 25, 2020|website=[[Sportsnet]]|publisher=Rogers Media}}</ref><ref>{{Cite web|date=February 24, 2020|title=Lightning acquire Goodrow from Sharks|url=https://www.tsn.ca/san-jose-sharks-tampa-bay-lightning-working-on-barclay-goodrow-trade-1.1447932|access-date=September 25, 2020|website=TSN}}</ref> They also signed [[Zach Bogosian]] whose contract had been terminated by the [[Buffalo Sabres]] during the season.<ref>{{cite web |url=https://www.nhl.com/lightning/news/tampa-bay-lightning-sign-free-agent-defenseman-zach-bogosian/c-315451670 |title=Lightning sign free agent defenseman Zach Bogosian |publisher=Tampa Bay Lightning |date=February 23, 2020}}</ref> During Phase 2 of the Return to Play plan, captain Steven Stamkos injured himself while skating, and subsequently missed the round robin and the first three rounds of the playoffs for the Lightning.<ref>{{cite web |url=https://www.nhl.com/news/tampa-bay-lightning-steven-stamkos-injury-status/c-317385566 |title=Stamkos injured in Phase 2, expected to play for Lightning in Qualifiers |last=Benjamin |first=Amalie |publisher=nhl.com |date=July 13, 2020}}</ref>
+
+When the regular season was suspended on March 12, the Lightning had a 42–21–6 record and a .657 points percentage to finish second in both the [[Atlantic Division (NHL)|Atlantic Division]] and the Eastern Conference. After play resumed in the hubs, Tampa Bay placed second in the round robin.<ref>{{cite web|url=https://www.nhl.com/news/philadelphia-flyers-tampa-bay-lightning-game-recap/c-317515972|title=Flyers defeat Lightning in round-robin, win Eastern Conference top seed|last=Crosby|first=Wes|publisher=NHL Enterprises, L. P.|date=August 8, 2020|website=NHL.com|access-date=August 9, 2020}}</ref> The Lightning then defeated the [[2019–20 Columbus Blue Jackets season|Columbus Blue Jackets]] in the first round, including winning game one of the series that became the fourth longest game in NHL history, and the [[Presidents' Trophy]]-winning [[2019–20 Boston Bruins season|Boston Bruins]] in the second round in five games respectively.<ref>{{cite web|url=https://www.nhl.com/news/columbus-blue-jackets-tampa-bay-lightning-game-5-recap/c-318555658|title=Lightning top Blue Jackets in overtime in Game 5, win Eastern First Round|last=Farrell|first=Sean|publisher=NHL Enterprises, L. P.|date=August 19, 2020|website=NHL.com|access-date=August 19, 2020}}</ref><ref>{{cite web|url=https://www.nhl.com/news/boston-bruins-tampa-bay-lightning-game-5-recap/c-318713388|title=Lightning eliminate Bruins in 2OT of Game 5, advance to Eastern Final|last=Crosby|first=Wes|publisher=NHL Enterprises, L. P.|date=August 31, 2020|website=NHL.com|access-date=August 31, 2020}}</ref> The Lightning then eliminated the [[2019–20 New York Islanders season|New York Islanders]] in the Eastern Conference finals in six games.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-new-york-islanders-game-6-recap/c-318993980|title=Lightning defeat Islanders in OT in Game 6, advance to Cup Final|last=Crosby|first=Wes|publisher=NHL Enterprises, L. P.|date=September 17, 2020|website=NHL.com|access-date=September 17, 2020}}</ref>
+
+==Game summaries==
+:''Note: The numbers in parentheses represent each player's total goals or assists to that point of the entire playoffs.''
+
+===Game one===
+{{NHLPlayoffs
+|date1=September 19
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|homeright=yes
+|stadium1=[[Rogers Place]]
+|score1=4–1
+|won1=2
+|recap1=www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-1-recap/c-319086578
+}}
+[[File:Anton Khudobin.jpg|thumb|right|upright=.8|[[Anton Khudobin]], shown with Providence, stopped 35 of 36 shots in game one.]]
+In the first period of game one, neither team produced many shots, yet each scored a goal. The first goal came from Stars defenceman [[Joel Hanley]] who took an open pass from [[Roope Hintz]]. Tampa Bay equalized the score on left winger [[Yanni Gourde]]'s skate deflection. In the second period, both teams produced more shots, however, Dallas was up by two at the end of the period. [[Jamie Oleksiak]] fired a wrist shot which rebounded back to him which he then shot it over Lightning goalie [[Andrei Vasilevskiy]] to make it 2–1. The Stars' third goal started in their own end with [[Esa Lindell]] passing to [[Joel Kiviranta]]. Kiviranta then skated through centre, firing a shot that was blocked, but picked up the rebound to put it past Vasilevskiy for a 3–1 lead. In the third period, the Stars played more defensively, putting up only two shots compared to the Lightning who fired twenty-two shots at [[Anton Khudobin]]. The Stars held their ground for the remaining 20 minutes, and [[Jason Dickinson]]'s empty-net goal sealed a 4–1 victory for Dallas.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-1-recap/c-319086578|title=Stars defeat Lightning in Game 1 of Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=September 19, 2020|website=NHL.com|access-date=September 19, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2"|'''1st'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Joel Hanley]] (1)
+| style="text-align:center;"| [[Roope Hintz]] (10)
+| style="text-align:center;"| 05:40
+| style="text-align:center;"| 1–0 DAL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Yanni Gourde]] (6)
+| style="text-align:center;"| [[Blake Coleman]] (7), [[Barclay Goodrow]] (5)
+| style="text-align:center;"| 12:32
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;" rowspan="2"|'''2nd'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Jamie Oleksiak]] (5)
+| style="text-align:center;"| [[Alexander Radulov]] (7), [[Miro Heiskanen]] (18)
+| style="text-align:center;"| 12:30
+| style="text-align:center;"| 2–1 DAL
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Joel Kiviranta]] (5)
+| style="text-align:center;"| [[Esa Lindell]] (6), [[John Klingberg]] (14)
+| style="text-align:center;"| 19:32
+| style="text-align:center;"| 3–1 DAL
+|-
+| style="text-align:center;" rowspan="1"|'''3rd'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Jason Dickinson]] (1) – ''en''
+| style="text-align:center;"| [[Blake Comeau]] (5), [[Mattias Janmark]] (6)
+| style="text-align:center;"| 18:42
+| style="text-align:center;"| 4–1 DAL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="2"|'''1st'''
+|| TBL
+|| [[Patrick Maroon]]
+|| Roughing
+|| 08:08
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Jamie Oleksiak
+|| Roughing
+|| 08:08
+|| 2:00
+|- style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| TBL
+|| Blake Coleman
+|| Slashing
+|| 01:09
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Blake Coleman
+|| Hooking
+|| 06:54
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Patrick Maroon
+|| Misconduct
+|| 20:00
+|| 10:00
+|- style="text-align:center;"
+| rowspan="3" | '''3rd'''
+|| DAL
+|| John Klingberg
+|| Hooking
+|| 04:52
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Blake Comeau
+|| Delay of game (puck over glass)
+|| 09:08
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Tyler Seguin]]
+|| Tripping
+|| 12:56
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|5 || style="text-align:center;"|13 || style="text-align:center;"|2 || style="text-align:center;"|20
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|4 || style="text-align:center;"|10 ||= style="text-align:center;"|22 || style="text-align:center;"|36
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1=September 21
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|homeright=yes
+|stadium1=Rogers Place
+|score1=2–3
+|won1=1
+|recap1=www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-2-recap/c-319085378
+}}
+[[File:Victor Hedman - Blues vs Lightning (2).jpg|thumb|right|[[Victor Hedman]] recorded two assists on the power-play in Game 2.]]
+In game two, the Lightning struck three times in the first period. Twice on the power-play, [[Victor Hedman]] and [[Nikita Kucherov]] set up both goal-scorers. The first came from a tic-tac-toe pass to [[Brayden Point]] firing it past Stars goalie [[Anton Khudobin]]. The second goal was another set-up pass; this time Kucherov fed it through the middle where [[Ondřej Palát|Ondrej Palat]] made it 2–0. The Lightning made it 3–0 when the Stars fumbled the puck in their own zone and [[Anthony Cirelli]] gave it to [[Kevin Shattenkirk]], whose shot at the blue line deflected off of [[Esa Lindell]] and past Khudobin. In the second period, the Stars shot eighteen times at [[Andrei Vasilevskiy]] and caught a break on the power-play. During Palat's slashing penalty, [[John Klingberg]]'s shot deflected off of fellow Stars forward [[Joe Pavelski]] to cut the score to 3–1. Later in the period, a hit on Stars player [[Blake Comeau]] caused a skirmish to erupt, with Dallas players [[Corey Perry]] and Klingberg against [[Cédric Paquette|Cedric Paquette]] and Hedman respectively. All players received simultaneous roughing penalties. In the third period, the Stars made it 3–2 when [[Mattias Janmark]]'s shot snuck past Vasilevskiy. The Lightning kept their offense going in the final 20 minutes, pouring twelve shots on Khudobin, holding off the Stars, and ending the game 3–2 to tie the series 1–1.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-2-recap/c-319085378|title=Lightning hold off Stars in Game 2, even Stanley Cup Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=September 21, 2020|website=NHL.com|access-date=September 21, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Brayden Point]] (10) – ''pp''
+| style="text-align:center;"| [[Nikita Kucherov]] (21), [[Victor Hedman]] (7)
+| style="text-align:center;"| 11:23
+| style="text-align:center;"| 1–0 TBL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Ondřej Palát|Ondrej Palat]] (9) – ''pp''
+| style="text-align:center;"| Nikita Kucherov (22), Victor Hedman (8)
+| style="text-align:center;"| 14:22
+| style="text-align:center;"| 2–0 TBL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Kevin Shattenkirk]] (2)
+| style="text-align:center;"| [[Blake Coleman]] (8), [[Anthony Cirelli]] (4)
+| style="text-align:center;"| 15:16
+| style="text-align:center;"| 3–0 TBL
+|-
+| style="text-align:center;" rowspan="1"|'''2nd'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Joe Pavelski]] (10) – ''pp''
+| style="text-align:center;"| [[John Klingberg]] (15), [[Alexander Radulov]] (8)
+| style="text-align:center;"| 14:43
+| style="text-align:center;"| 3–1 TBL
+|-
+| style="text-align:center;" rowspan="1"|'''3rd'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Mattias Janmark]] (1)
+| style="text-align:center;"| John Klingberg (16), Alexander Radulov (9)
+| style="text-align:center;"| 05:27
+| style="text-align:center;"| 3–2 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="4"|'''1st'''
+|| DAL
+|| Mattias Janmark
+|| High-sticking
+|| 03:20
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Joe Pavelski
+|| Tripping
+|| 10:58
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Jamie Oleksiak]]
+|| Holding
+|| 13:11
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Ondrej Palat
+|| Interference
+|| 18:59
+|| 2:00
+|- style="text-align:center;"
+| rowspan="9"|'''2nd'''
+|| DAL
+|| [[Blake Comeau]]
+|| Interference
+|| 02:02
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Nikita Kucherov
+|| Tripping
+|| 03:47
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Yanni Gourde
+|| Cross checking
+|| 06:26
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Ondrej Palat
+|| Slashing
+|| 14:38
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Corey Perry]]
+|| Roughing
+|| 16:58
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Patrick Maroon
+|| Goaltender interference
+|| 16:58
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Victor Hedman
+|| Roughing
+|| 16:58
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Cédric Paquette|Cedric Paquette]]
+|| Roughing
+|| 16:58
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| John Klingberg
+|| Roughing
+|| 16:58
+|| 2:00
+|- style="text-align:center;"
+||'''3rd'''
+| colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|6 || style="text-align:center;"|18 || style="text-align:center;"|5 || style="text-align:center;"|29
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|14 || style="text-align:center;"|5 ||= style="text-align:center;"|12 || style="text-align:center;"|31
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1=September 23
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|stadium1=Rogers Place
+|score1=5–2
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-3-recap/c-319086074
+}}
+[[File:Steven Stamkos.JPG|thumb|right|upright=.8|[[Steven Stamkos]], who returned to the Lightning lineup in Game 3, scored his first goal of the playoffs.]]
+In game three, Dallas put the heat on [[Andrei Vasilevskiy]] in the first period. However, among their sixteen shots, only one goal was successfully scored compared to the Lightning's two. Tampa Bay's first came from a misplay by [[Miro Heiskanen]] giving [[Nikita Kucherov]] a breakaway, sniping the puck past [[Anton Khudobin]]. Their second goal came from their captain [[Steven Stamkos]] returning from injury for his first game since being injured on February 25. After a rush by the Stars was stopped in the offensive zone, [[Victor Hedman]] passed the puck to Stamkos, who was racing on the right side, upon which he fired his shot over Khudobin's blocker to make it 2–0. It was Stamkos's only shot on goal of the series (and of the entire postseason), as he did not take to the ice again following the end of the first period. The Stars' lone goal of the period came short-handed when a shot by [[Roope Hintz]] was stopped by Vasilevskiy. The rebound of that save went back to Hintz in the left corner who then passed to an open [[Jason Dickinson]], whose shot got through Vasilevskiy to make it 2–1.
+
+The Lightning had a more dominant approach in the second period, scoring three times with 21 shots on goal. The first goal came following [[Alexander Radulov]]'s hooking penalty which carried over from the first period. After a puck battle behind the net, [[Anthony Cirelli]], who was falling down on the play, passed to Hedman who shot the puck under Khudobin's stick into the net. Tampa Bay's fourth goal arrived when the Stars began a line change and a 3-on-1 developed with Kucherov leading the rush and [[Brayden Point]] scoring the goal. The Lightning continued their offensive zone coverage towards the end of the period and in the final minute-and-a-half, Point fired a shot that rebounded to [[Ondřej Palát|Ondrej Palat]], who put it into the net for a 5–1 lead. Dallas then pulled Khudobin before the third period, replacing him with [[rookie]] [[Jake Oettinger]]. The Stars, showing some frustration, began roughing the Lightning on three occasions: the first with [[Mattias Janmark]] and Palat; then both [[Jamie Benn]] and [[Jan Rutta]], who had a skirmish after the play, both earning misconducts as a result; and an errant cross-check at 18:05 by [[Joe Pavelski]] on [[Cédric Paquette|Cedric Paquette]], which caused a ruckus with both teams. Heiskanen's goal gave the Stars some life in the third period, but Tampa Bay's defense kept the Stars at bay, winning the game 5–2 and taking a 2–1 series lead.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-3-recap/c-319086074|title=Stamkos, Lightning defeat Stars in Game 3 of Stanley Cup Final, take lead|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=September 23, 2020|website=NHL.com|access-date=September 23, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Nikita Kucherov]] (7)
+| style="text-align:center;"| ''Unassisted''
+| style="text-align:center;"| 05:33
+| style="text-align:center;"| 1–0 TBL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Steven Stamkos]] (1)
+| style="text-align:center;"| [[Victor Hedman]] (9), [[Jan Rutta]] (1)
+| style="text-align:center;"| 06:58
+| style="text-align:center;"| 2–0 TBL
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Jason Dickinson]] (2) – ''sh''
+| style="text-align:center;"| [[Roope Hintz]] (11)
+| style="text-align:center;"| 11:19
+| style="text-align:center;"| 2–1 TBL
+|-
+| style="text-align:center;" rowspan="3"|'''2nd'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| Victor Hedman (10) – ''pp''
+| style="text-align:center;"| [[Anthony Cirelli]] (5), [[Ondřej Palát|Ondrej Palat]] (6)
+| style="text-align:center;"| 00:54
+| style="text-align:center;"| 3–1 TBL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Brayden Point]] (11)
+| style="text-align:center;"| Nikita Kucherov (23), Victor Hedman (10)
+| style="text-align:center;"| 12:02
+| style="text-align:center;"| 4–1 TBL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| Ondrej Palat (10)
+| style="text-align:center;"| Brayden Point (17), [[Kevin Shattenkirk]] (9)
+| style="text-align:center;"| 18:55
+| style="text-align:center;"| 5–1 TBL
+|-
+| style="text-align:center;" rowspan="1"|'''3rd'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Miro Heiskanen]] (6)
+| style="text-align:center;"| [[Joe Pavelski]] (6), [[Andrew Cogliano]] (2)
+| style="text-align:center;"| 06:49
+| style="text-align:center;"| 5–2 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| TBL
+|| [[Erik Černák|Erik Cernak]]
+|| Tripping
+|| 08:13
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Joel Kiviranta]]
+|| Interference
+|| 09:34
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Alexander Radulov]]
+|| Hooking
+|| 19:37
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| DAL
+|| Alexander Radulov
+|| Hooking
+|| 04:31
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Yanni Gourde]]
+|| Interference
+|| 12:43
+|| 2:00
+|- style="text-align:center;"
+| rowspan="14" | '''3rd'''
+|| TBL
+|| Ondrej Palat
+|| Roughing
+|| 02:58
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Mattias Janmark]]
+|| Roughing
+|| 02:58
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Jamie Benn]]
+|| Roughing
+|| 03:38
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Jan Rutta
+|| Roughing
+|| 03:38
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Jamie Benn
+|| Misconduct
+|| 03:38
+|| 10:00
+|- style="text-align:center;"
+|| TBL
+|| Jan Rutta
+|| Misconduct
+|| 03:38
+|| 10:00
+|- style="text-align:center;"
+|| TBL
+|| Kevin Shattenkirk
+|| Slashing
+|| 09:30
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Mikhail Sergachev]]
+|| Tripping
+|| 12:41
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Joe Pavelski
+|| Roughing
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Joe Pavelski
+|| Cross checking
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Cédric Paquette|Cedric Paquette]]
+|| Roughing
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Barclay Goodrow]]
+|| Roughing
+|| 18:05
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Patrick Maroon]]
+|| Misconduct
+|| 18:05
+|| 10:00
+|- style="text-align:center;"
+|| DAL
+|| Jason Dickinson
+|| Roughing
+|| 18:05
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|8 || style="text-align:center;"|21 || style="text-align:center;"|3 || style="text-align:center;"|32
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|16 || style="text-align:center;"|4 ||= style="text-align:center;"|4 || style="text-align:center;"|24
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1=September 25
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|stadium1=Rogers Place
+|score1=5–4
+|ot1=1
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-4-recap/c-319086076
+}}
+[[File:Kevin Shattenkirk St. Louis.jpg|thumb|right|upright=.8|[[Kevin Shattenkirk]], shown with St. Louis, scored the game-winning goal in overtime of Game 4.]]
+The Tampa Bay Lightning overcame a 2–0 deficit in game four. In the first period, [[John Klingberg]] gave the Stars their first goal of the game subsequently on their first shot. The Stars gained a 2–0 lead when [[Jamie Benn]] set up [[Joe Pavelski]], whose wrist shot got under [[Andrei Vasilevskiy]]. Tampa Bay got on the board with 33 seconds remaining in the period. The play began when defenceman [[Kevin Shattenkirk]], from behind the Lightning net, gave an outstretched pass to [[Ondřej Palát|Ondrej Palat]], who then passed across to the right boards to find a solitary [[Brayden Point]]. He maneuvered around [[Anton Khudobin]], going to his backhand to score. Point then tied the game early in the second period, on the power-play. During the Stars' penalty, [[Alex Killorn]] made a pass to the front, but the puck deflected off of [[Andrej Sekera]]'s skate into the air, which Point then batted it into the net. The Stars soon regained the lead when [[Tyler Seguin]]'s pass around Vasilevskiy got picked up by [[Corey Perry]] who, although tied up by [[Cédric Paquette|Cedric Paquette]], allowed the puck to trickle in off his stick. The Lightning tied the game up again when [[Andrew Cogliano]] got caught for hooking and on the ensuing Tampa Bay power-play, [[Mikhail Sergachev]] set up [[Nikita Kucherov]] for a one-timer, but the puck deflected off of [[Esa Lindell]] to [[Yanni Gourde]] who shot it past Khudobin. In the third period, Killorn put the Lightning up 4–3 when he went out around the net and shot at the top corner behind Khudobin. Pavelski tied the game 4–4 after picking up the rebound of Seguin's shot and then launching the puck at Vasilevskiy which deflected off of Shattenkirk into the net. Into overtime, Benn pushed down [[Tyler Johnson (ice hockey)|Tyler Johnson]]; controversially, he was called for tripping. While on the ensuing power-play, [[Patrick Maroon]] won an offensive zone face-off, sending it back to [[Victor Hedman]]. Hedman then passed it to Shattenkirk, whose shot at a sharp angle went over Khudobin's right pad for the game-winning goal and a 3–1 series lead.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-4-recap/c-319086076|title=Lightning defeat Stars in OT in Game 4 of Stanley Cup Final, extend lead|last=Satriano|first=David|publisher=NHL Enterprises, L. P.|date=September 25, 2020|website=NHL.com|access-date=September 25, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3"|'''1st'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[John Klingberg]] (4)
+| style="text-align:center;"| [[Esa Lindell]] (7)
+| style="text-align:center;"| 07:17
+| style="text-align:center;"| 1–0 DAL
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Joe Pavelski]] (11)
+| style="text-align:center;"| [[Jamie Benn]] (11), [[Alexander Radulov]] (10)
+| style="text-align:center;"| 18:28
+| style="text-align:center;"| 2–0 DAL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Brayden Point]] (12)
+| style="text-align:center;"| [[Ondřej Palát|Ondrej Palat]] (7), [[Kevin Shattenkirk]] (10)
+| style="text-align:center;"| 19:27
+| style="text-align:center;"| 2–1 DAL
+|-
+| style="text-align:center;" rowspan="3"|'''2nd'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| Brayden Point (13) – ''pp''
+| style="text-align:center;"| [[Alex Killorn]] (5), [[Nikita Kucherov]] (24)
+| style="text-align:center;"| 02:08
+| style="text-align:center;"| 2–2
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Corey Perry]] (3)
+| style="text-align:center;"| [[Tyler Seguin]] (7), [[Mattias Janmark]] (7)
+| style="text-align:center;"| 08:26
+| style="text-align:center;"| 3–2 DAL
+|-
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Yanni Gourde]] (7) – ''pp''
+| style="text-align:center;"| Nikita Kucherov (25), [[Mikhail Sergachev]] (6)
+| style="text-align:center;"| 18:54
+| style="text-align:center;"| 3–3
+|-
+| style="text-align:center;" rowspan="2"|'''3rd'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Alex Killorn]] (5)
+| style="text-align:center;"| Mikhail Sergachev (7), [[Anthony Cirelli]] (6)
+| style="text-align:center;"| 06:41
+| style="text-align:center;"| 4–3 TBL
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| Joe Pavelski (12)
+| style="text-align:center;"| Tyler Seguin (8), [[Miro Heiskanen]] (19)
+| style="text-align:center;"| 11:35
+| style="text-align:center;"| 4–4
+|-
+| style="text-align:center;" rowspan="1"|'''OT'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| Kevin Shattenkirk (3) – ''pp''
+| style="text-align:center;"| [[Victor Hedman]] (11), [[Patrick Maroon]] (4)
+| style="text-align:center;"| 06:34
+| style="text-align:center;"| 5–4 TBL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| DAL
+|| [[Jamie Oleksiak]]
+|| Hooking
+|| 13:52
+|| 2:00
+|- style="text-align:center;"
+| rowspan="3"|'''2nd'''
+|| DAL
+|| Jamie Oleksiak
+|| Tripping
+|| 01:38
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| [[Erik Černák|Erik Cernak]]
+|| Holding
+|| 11:10
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Andrew Cogliano]]
+|| Hooking
+|| 17:34
+|| 2:00
+|- style="text-align:center;"
+| rowspan="3"|'''3rd'''
+|| TBL
+|| Patrick Maroon
+|| Holding
+|| 09:16
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Corey Perry
+|| Interference
+|| 19:31
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Brayden Point
+|| Embellishment
+|| 19:31
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''OT'''
+|| TBL
+|| Mikhail Sergachev
+|| Holding
+|| 00:37
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| Jamie Benn
+|| Tripping
+|| 05:10
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="6"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|8 || style="text-align:center;"|15 || style="text-align:center;"|8 || style="text-align:center;"|4 || style="text-align:center;"|35
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|3 || style="text-align:center;"|14 ||= style="text-align:center;"|11 || style="text-align:center;"|2 || style="text-align:center;"|30
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1=September 26
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|homeright=yes
+|stadium1=Rogers Place
+|score1=3–2
+|ot1=2
+|won1=2
+|recap1=www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-5-recap/c-319086196
+}}
+[[File:Corey Perry 2016.jpg|thumb|right|upright=0.8|[[Corey Perry]], shown with Anaheim, scored twice, including the game-winning goal in double overtime of Game 5.]]
+[[Corey Perry]] opened the scoring in the first period of game five. [[Jamie Oleksiak]] passed to [[Tyler Seguin]], who then dropped it for Perry to score the initial goal for Dallas. In the second period, the Lightning struck back when [[Nikita Kucherov]] passed to [[Ondřej Palát|Ondrej Palat]] and he skated past the Dallas defencemen and goaltender [[Anton Khudobin]] with a backhand to tie the game 1–1. The Lightning kept putting the pressure on the Stars for the remainder of the second period, firing away 13 shots. In the third period, [[Mikhail Sergachev]]'s blast from the point gave the Lightning a 2–1 lead. The Stars tied the game 2–2 when [[Miro Heiskanen]]'s shot from the point rebounded to [[Joe Pavelski]], who put it past [[Andrei Vasilevskiy]] to break the record held by [[Joe Mullen]] for most career playoff goals scored by a US-born player. The two teams remained tied after the fact heading into overtime. In the first overtime, Dallas put up two shots compared to Tampa Bay's seven, but no goals were scored and the game continued on to double overtime. At 9:23 of the second overtime, Perry picked up a rebound from Seguin's shot and slid the puck past Vasilevskiy to give the Stars the game 3–2, forcing a sixth game.<ref>{{cite web|url=https://www.nhl.com/news/dallas-stars-tampa-bay-lightning-game-5-recap/c-319086196|title=Stars stay alive, defeat Lightning in 2OT in Game 5 of Cup Final|last=Satriano|first=David|publisher=NHL Enterprises, L. P.|date=September 26, 2020|website=NHL.com|access-date=September 27, 2020}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1"|'''1st'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Corey Perry]] (4)
+| style="text-align:center;"| [[Tyler Seguin]] (9), [[Jamie Oleksiak]] (4)
+| style="text-align:center;"| 17:52
+| style="text-align:center;"| 1–0 DAL
+|-
+| style="text-align:center;" rowspan="1"|'''2nd''' 
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Ondřej Palát|Ondrej Palat]] (11)
+| style="text-align:center;"| [[Nikita Kucherov]] (26), [[Brayden Point]] (18)
+| style="text-align:center;"| 04:37
+| style="text-align:center;"| 1–1
+|-
+| style="text-align:center;" rowspan="2"|'''3rd'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Mikhail Sergachev]] (3)
+| style="text-align:center;"| Brayden Point (19)
+| style="text-align:center;"| 03:38
+| style="text-align:center;"| 2–1 TBL
+|-
+| style="text-align:center;"| DAL
+| style="text-align:center;"| [[Joe Pavelski]] (13)
+| style="text-align:center;"| [[Miro Heiskanen]] (20), Tyler Seguin (10)
+| style="text-align:center;"| 13:15
+| style="text-align:center;"| 2–2
+|- style="text-align:center;"
+| rowspan="1" |'''OT'''
+| colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="1"|'''2OT'''
+| style="text-align:center;"| DAL
+| style="text-align:center;"| Corey Perry (5)
+| style="text-align:center;"| [[John Klingberg]] (17), Tyler Seguin (11)
+| style="text-align:center;"| 09:23
+| style="text-align:center;"| 3–2 DAL
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| DAL
+|| Tyler Seguin
+|| High-sticking
+|| 04:19
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''2nd'''
+|| TBL
+|| [[Carter Verhaeghe]]
+|| Slashing
+|| 12:33
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| TBL
+|| [[Erik Černák|Erik Cernak]]
+|| High-sticking
+|| 11:06
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1" |'''OT'''
+| colspan="5"|''None''
+|- style="text-align:center;"
+| rowspan="1" |'''2OT'''
+| colspan="5"|''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="7"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|OT
+! style="width:3em;"|2OT
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|8 || style="text-align:center;"|6 || style="text-align:center;"|13 || style="text-align:center;"|2 || style="text-align:center;"|4 || style="text-align:center;"|33
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|10 || style="text-align:center;"|13 || style="text-align:center;"|7 || style="text-align:center;"|7 || style="text-align:center;"|4 || style="text-align:center;"|41
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1=September 28
+|team1=Tampa Bay Lightning
+|team2=Dallas Stars
+|stadium1=Rogers Place
+|score1=2–0
+|won1=1
+|recap1=www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-6-recap/c-319086198
+}}
+[[File:Andrei Vasilevskiy - Tampa Bay Lightning.jpg|thumb|right|upright=.8|[[Andrei Vasilevskiy]] earned his first career playoff shutout to clinch the [[Stanley Cup]] for the Lightning in Game 6.]]
+In game six, the Lightning took a 1–0 lead in the first period. After [[John Klingberg]] was penalized for tripping, Brayden Point fired a wrist shot that flew past [[Anton Khudobin]] after following the rebound of his own initial shot. Tampa Bay gained a 2–0 lead in the second period when a Stars turnover to [[Patrick Maroon]] got to [[Cédric Paquette|Cedric Paquette]], who set up [[Blake Coleman]] for a one-timer. The Stars remained scoreless for the rest of the game, but they had a close chance in the second period when [[Joel Kiviranta]]'s shot was stopped by [[Andrei Vasilevskiy]] with his skate. Although had a goal been scored, it would have been disallowed as [[Corey Perry]] was penalized for goaltender interference on the play. The Lightning held Dallas to just eight shots in the first two periods combined. Vasilevskiy continued his shutout in the third period, stopping all 22 shots by Dallas, earning his first playoff shutout. With a 2–0 victory, the Tampa Bay Lightning won their second Stanley Cup. Lightning defenceman [[Victor Hedman]] was given the [[Conn Smythe Trophy]] as the most valuable player of the playoffs.<ref>{{cite web|url=https://www.nhl.com/news/tampa-bay-lightning-dallas-stars-game-6-recap/c-319086198|title=Lightning win Stanley Cup, defeat Stars in Game 6 of Final|last=Rosen|first=Dan|publisher=NHL Enterprises, L. P.|date=September 28, 2020|website=NHL.com|access-date=September 28, 2020}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1"|'''1st'''
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Brayden Point]] (14) – ''pp''
+| style="text-align:center;"| [[Nikita Kucherov]] (27), [[Victor Hedman]] (12)
+| style="text-align:center;"| 12:23
+| style="text-align:center;"| 1–0 TBL
+|-
+| style="text-align:center;" rowspan="1"|'''2nd''' 
+| style="text-align:center;"| TBL
+| style="text-align:center;"| [[Blake Coleman]] (5)
+| style="text-align:center;"| [[Cédric Paquette|Cedric Paquette]] (3), [[Patrick Maroon]] (5)
+| style="text-align:center;"| 07:01
+| style="text-align:center;"| 2–0 TBL
+|- style="text-align:center;"
+| rowspan="1" |'''3rd'''
+| colspan="5"|''None''
+|-
+! colspan="6"|Penalty summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Player
+! style="width:35%;"|Penalty
+! style="width:7%;"|Time
+! style="width:11%;"|PIM
+|- style="text-align:center;"
+| rowspan="3"|'''1st'''
+|| DAL
+|| [[Andrew Cogliano]]
+|| Tripping
+|| 06:32
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[John Klingberg]]
+|| Tripping
+|| 11:58
+|| 2:00
+|- style="text-align:center;"
+|| TBL
+|| Victor Hedman
+|| Interference
+|| 18:36
+|| 2:00
+|- style="text-align:center;"
+| rowspan="2"|'''2nd'''
+|| TBL
+|| [[Ryan McDonagh]]
+|| Interference
+|| 08:02
+|| 2:00
+|- style="text-align:center;"
+|| DAL
+|| [[Corey Perry]]
+|| Goaltender interference
+|| 09:22
+|| 2:00
+|- style="text-align:center;"
+| rowspan="1"|'''3rd'''
+|| TBL
+|| Ryan McDonagh
+|| Tripping
+|| 15:27
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan="7"|Shots by period
+|-
+! style="width:8em; text-align:left;"|Team
+! style="width:3em;"|1
+! style="width:3em;"|2
+! style="width:3em;"|3
+! style="width:3em;"|Total
+|-
+| style="text-align:left;"|{{nowrap|TBL}} || style="text-align:center;"|11 || style="text-align:center;"|10 || style="text-align:center;"|8 || style="text-align:center;"|29
+|-
+| style="text-align:left;"|{{nowrap|DAL}} || style="text-align:center;"|4 || style="text-align:center;"|4 || style="text-align:center;"|14 || style="text-align:center;"|22
+|}
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Final appearance" column signify that the player won the Stanley Cup in the given year.<ref>{{cite web |last1=NHL Public Relations |title=NHL releases rosters for Stanley Cup Qualifiers |url=https://www.nhl.com/news/nhl-rosters-stanley-cup-qualifiers-2020/c-317638524 |publisher=NHL |access-date=30 September 2020 |page=26 July 2020}}</ref>
+
+===Dallas Stars===
+[[File:Jamie_Benn - Dallas_Stars.jpg|right|thumb|[[Jamie Benn]] [[Captain (ice hockey)|captained]] the Stars to their fifth Stanley Cup Final appearance in franchise history and first since [[2000 Stanley Cup Final|2000]].]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Benn}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| L
+| {{hs|31-057}}31
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"|[[Victoria, British Columbia]]
+| first
+|-
+| '''30'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ben|Bishop}}
+| G
+| L
+| {{hs|33–224}}33
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[Denver|Denver, Colorado]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''17'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Caamano}}
+| RW
+| L
+| {{hs|22–019}}22
+| [[2016 NHL Entry Draft|2016]]
+| style="text-align:left;"|[[Ancaster, Ontario]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andrew|Cogliano}}
+| LW
+| L
+| {{hs|33–092}}33
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Blake|Comeau}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| W
+| R
+| {{hs|34–177}}34
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Meadow Lake, Saskatchewan]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Dickinson}}
+| C/LW
+| L
+| {{hs|25–074}}25
+| [[2013 NHL Entry Draft|2013]]
+| style="text-align:left;"|[[Georgetown, Ontario]]
+| first
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Justin|Dowling}}
+| C
+| L
+| {{hs|29–362}}29
+| [[2013–14 NHL season|2013]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''12'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Radek|Faksa}}
+| C
+| L
+| {{hs|26–214}}26
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Vítkov (Opava District)|Vítkov, Czech Republic]]
+| first
+|-
+| '''42'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Taylor|Fedun}}
+| D
+| R
+| {{hs|32–104}}32
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''34'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Denis|Gurianov}}
+| LW
+| L
+| {{hs|23–105}}23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Tolyatti|Togliatti, Russia]]
+| first
+|-
+| '''39'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Hanley}}
+| D
+| L
+| {{hs|29–098}}29
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Keswick, Ontario]]
+| first
+|-
+| '''4'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Miro|Heiskanen}}
+| D
+| L
+| {{hs|21–058}}21
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Espoo|Espoo, Finland]]
+| first
+|-
+| '''24'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Roope|Hintz}}
+| LW/C
+| L
+| {{hs|23–194}}23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Tampere|Tampere, Finland]]
+| first
+|-
+| '''13'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mattias|Janmark}}
+| LW
+| L
+| {{hs|27–204}}27
+| [[2014–15 NHL season|2015]]
+| style="text-align:left;"|[[Danderyd Municipality|Danderyd, Sweden]]
+| first
+|-
+| '''28'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Stephen|Johns|dab=ice hockey}}
+| D
+| R
+| {{hs|28–149}}28
+| [[2015–16 NHL season|2015]]
+| style="text-align:left;"|[[Ellwood City, Pennsylvania]]
+| first
+|-
+| '''35'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Anton|Khudobin}}
+| G
+| L
+| {{hs|34–129}}34
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Oskemen|Ust-Kamenogorsk, Soviet Union]]
+| second {{small|([[2013 Stanley Cup Final|2013]])}}
+|-
+| '''25'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Joel|Kiviranta}}
+| LW
+| L
+| {{hs|24–162}}24
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Vantaa|Vantaa, Finland]]
+| first
+|-
+| '''3'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|John|Klingberg}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| {{hs|28–001}}28
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"|[[Lerum|Lerum, Sweden]]
+| first
+|-
+| '''23'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Esa|Lindell}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|26–152}}26
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Helsinki|Helsinki, Finland]]
+| first
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|Oettinger}}
+| G
+| L
+| {{hs|21–218}}21
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Lakeville, Minnesota]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jamie|Oleksiak}}
+| D
+| L
+| {{hs|27–198}}27
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Pavelski}}
+| RW/C
+| R
+| {{hs|36–063}}36
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Plover, Wisconsin]]
+| second {{small|([[2016 Stanley Cup Final|2016]])}}
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Corey|Perry}}
+| RW
+| R
+| {{hs|35–132}}35
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[New Liskeard, Ontario]]
+| second {{small|('''[[2007 Stanley Cup Final|2007]]''')}}
+|-
+| '''45'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Roman|Polak}}
+| D
+| R
+| {{hs|34–153}}34
+| [[2018–19 NHL season|2018]]
+| style="text-align:left;"|[[Ostrava]], [[Czechoslovakia]]
+| second {{small|([[2016 Stanley Cup Final|2016]])}}
+|-
+| '''47'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Radulov}} 
+| RW
+| L
+| {{hs|34–071}}34
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Nizhny Tagil|Nizhny Tagil, Soviet Union]]
+| first
+<!-- |-
+| '''21'''
+|{{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jason|Robertson|dab=ice hockey}}
+| LW
+| L
+| 21
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Arcadia, California]]
+| first -->
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Seguin}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| R
+| {{hs|28–220}}28
+| [[2013–14 NHL season|2013]]
+| style="text-align:left;"|[[Brampton|Brampton, Ontario]]
+| third {{small|('''[[2011 Stanley Cup Final|2011]]''', [[2013 Stanley Cup Final|2013]])}}
+|-
+| '''5'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Andrej|Sekera}}
+| D
+| L
+| {{hs|34–098}}34
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Bojnice|Bojnice, Czechoslovakia]]
+| first
+|}
+
+===Tampa Bay Lightning===
+[[File:Steve Stamkos - Tampa Bay Lightning.jpg|right|thumb|250px|Lightning captain [[Steven Stamkos]] did not play in the first three rounds of the [[2020 Stanley Cup playoffs]] as a result of a lower-body injury sustained in July,<ref>{{cite web |url=https://www.sportsnet.ca/hockey/nhl/lightnings-stamkos-limited-camp-due-new-lower-body-injury/ |title=Lightning's Stamkos to be limited in camp due to new lower-body injury |date=July 11, 2020 |work=Sportsnet |access-date=September 18, 2020}}</ref> but, in his absence, the Lightning went on to their third Stanley Cup Final appearance in franchise history and first since [[2015 Stanley Cup Final|2015]]. He played his only game of the series and the playoffs in game three of the Final and scored the second goal of the game.]]
+
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Age
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Final appearance
+|-
+| '''24'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Bogosian}}
+| D
+| R
+| {{hs|30-064}}30
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Massena, New York]]
+| first
+|-
+| '''81'''
+| {{flagicon|SVK}}
+! scope="row" style="text-align:left;"|{{sortname|Erik|Cernak|Erik Černák}}
+| D
+| R
+| {{hs|23–110}}23
+| [[2016–17 NHL season|2017]]
+| style="text-align:left;"|[[Košice|Košice, Slovakia]]
+| first
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Anthony|Cirelli}}
+| C
+| L
+| {{hs|23–064}}23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Woodbridge, Ontario]]
+| first
+|-
+| '''55'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Braydon|Coburn}}
+| D
+| L
+| {{hs|35–203}}35
+| [[2014–15 NHL season|2015]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| third {{small|([[2010 Stanley Cup Final|2010]], [[2015 Stanley Cup Final|2015]])}}
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Blake|Coleman}}
+| C
+| L
+| {{hs|28–297}}28
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Plano, Texas]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Barclay|Goodrow}}
+| C/RW
+| L
+| {{hs|27–202}}27
+| [[2019–20 NHL season|2020]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| second {{small|([[2016 Stanley Cup Final|2016]])}}
+|-
+| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Yanni|Gourde}}
+| LW
+| L
+| {{hs|28–280}}28
+| [[2013–14 NHL season|2014]]
+| style="text-align:left;"|[[Saint-Narcisse-de-Beaurivage, Quebec|Saint-Narcisse, Quebec]]
+| first
+|-
+| '''77'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Victor|Hedman}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|29–275}}29
+| [[2009 NHL Entry Draft|2009]]
+| style="text-align:left;"|[[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Johnson|dab=ice hockey}}
+| C
+| R
+| {{hs|30–049}}30
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"|[[Spokane, Washington]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+<!--|-
+| '''7'''
+|{{flagicon|CAN}}
+! scope="row" style="text-align:left;"|[[Mathieu Joseph]]
+| RW
+| L
+| 23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Chambly, Quebec]]
+| first-->
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Alex|Killorn}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C/LW
+| L
+| {{hs|31–004}}31
+| [[2007 NHL Entry Draft|2007]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''86'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Nikita|Kucherov}}
+| RW
+| L
+| {{hs|27–092}}27
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Maykop|Maykop, Russia]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''14'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Maroon}}
+| LW
+| L
+| {{hs|32–146}}32
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[St. Louis|St. Louis, Missouri]]
+| second {{small|('''[[2019 Stanley Cup Final|2019]]''')}}
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|McDonagh}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{hs|31–096}}31
+| [[2017–18 NHL season|2018]]
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| second {{small|([[2014 Stanley Cup Final|2014]])}}
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Curtis|McElhinney}}
+| G
+| L
+| {{hs|37–116}}37
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''18'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Ondrej|Palat|Ondřej Palát}}
+| LW
+| L
+| {{hs|29–175}}29
+| [[2011 NHL Entry Draft|2011]]
+| style="text-align:left;"|[[Frýdek-Místek|Frýdek-Místek, Czechoslovakia]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cedric|Paquette|Cédric Paquette}}
+| C
+| L
+| {{hs|27–036}}27
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Gaspé, Quebec]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''21'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brayden|Point}}
+| C
+| R
+| {{hs|24–187}}24
+| [[2014 NHL Entry Draft|2014]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''44'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jan|Rutta}}
+| D
+| R
+| {{hs|30–049}}30
+| [[2018–19 NHL season|2019]]
+| style="text-align:left;"|[[Písek|Písek, Czechoslovakia]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Luke|Schenn}}
+| D
+| R
+| {{hs|30–046}}30
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Saskatoon|Saskatoon, Saskatchewan]]
+| first
+|-
+| '''98'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Mikhail|Sergachev}}
+| D
+| L
+| {{hs|22–084}}22
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Nizhnekamsk|Nizhmekamsk, Russia]]
+| first
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Shattenkirk}}
+| D
+| R
+| {{hs|31–234}}31
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[New Rochelle, New York]]
+| first
+|-
+| '''91'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Stamkos}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| {{hs|30–223}}30
+| [[2008 NHL Entry Draft|2008]]
+| style="text-align:left;"|[[Markham, Ontario]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''67'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mitchell|Stephens|dab=ice hockey}}
+| C
+| R
+| {{hs|23–226}}23
+| [[2015 NHL Entry Draft|2015]]
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| first
+|-
+| '''88'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Andrei|Vasilevskiy}}
+| G
+| L
+| {{hs|26–054}}26
+| [[2012 NHL Entry Draft|2012]]
+| style="text-align:left;"|[[Tyumen|Tyumen, Russia]]
+| second {{small|([[2015 Stanley Cup Final|2015]])}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Carter|Verhaeghe}}
+| LW
+| L
+| {{hs|25–034}}25
+| [[2017–18 NHL season|2017]]
+| style="text-align:left;"|[[Waterdown, Ontario]]
+| first
+|-
+| '''92'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Volkov|dab=ice hockey}}
+| LW
+| L
+| {{hs|23–059}}23
+| [[2017 NHL Entry Draft|2017]]
+| style="text-align:left;"|[[Moscow|Moscow, Russia]]
+| first
+<!-- |-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Wedgewood}}
+| G
+| L
+| {{hs|28–036}}28
+| [[2019–20 NHL season|2019]]
+| style="text-align:left;"|[[Brampton|Brampton, Ontario]]
+| first -->
+|}
+
+==Stanley Cup engraving==
+The Stanley Cup was presented to Lightning captain Steven Stamkos by [[NHL commissioner]] [[Gary Bettman]] following the Lightning's 2–0 win in game six.
+
+The following Lightning players and staff qualified to have their names engraved on the Stanley Cup:
+<ref>{{cite news |title=Lightning see names engraved on Stanley Cup for first time|url=https://www.nhl.com/news/tampa-bay-lightning-names-engraved-on-stanley-cup/c-319560024 |access-date=1 November 2020 |work=NHL.com |date=1 November 2020}}</ref>
+
+'''2019–20 Tampa Bay Lightning'''
+{{Stanley Cup champion
+|defence=*2 [[Luke Schenn]]
+*22 [[Kevin Shattenkirk]]
+*24 [[Zach Bogosian]]
+*27 [[Ryan McDonagh]] (A)
+*44 [[Jan Rutta]]
+*55 [[Braydon Coburn]] †
+*77 [[Victor Hedman]] (A)
+*81 [[Erik Černák|Erik Cernak]]
+*98 [[Mikhail Sergachev]]
+|wingers=*7 [[Mathieu Joseph]] †
+*14 [[Patrick Maroon|Pat Maroon]]
+*18 [[Ondřej Palát|Ondrej Palat]]
+*86 [[Nikita Kucherov]]
+*92 [[Alexander Volkov (ice hockey)|Alexander Volkov]]
+|centres=*9 [[Tyler Johnson (ice hockey)|Tyler Johnson]]*
+*13 [[Cédric Paquette|Cedric Paquette]]
+*17 [[Alex Killorn]]* (A)
+*19 [[Barclay Goodrow]]*
+*20 [[Blake Coleman]]*
+*21 [[Brayden Point]]
+*23 [[Carter Verhaeghe]]*
+*37 [[Yanni Gourde]]
+*67 [[Mitchell Stephens (ice hockey)|Mitchell Stephens]]*
+*71 [[Anthony Cirelli]]
+*91 [[Steven Stamkos]]* (Captain)
+|goaltenders=*88 [[Andrei Vasilevskiy]]
+*35 [[Curtis McElhinney]]
+|player-notes=
+* * Played both centre and wing.
+* † Automatically qualified for engraving despite shortened season,{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}} but did not play or dress in the Final.
+|non-players=
+* [[Jeffrey Vinik]] (Chairman/Owner/Governor), [[Steve Griggs]] (Chief Executive Officer/Alt. Governor), [[Julien BriseBois]] (Vice President/General Manager/Alt. Governor), 
+* Allen Murray (Asst General Manager-Director of Amateur Scouting), [[Jamie Pushor]] (Asst. General Manager-Director of Player Personnel), [[Stacy Roest]] (Asst. General Manager-Director of Player Development), [[Mathieu Darche]] (Director of Hockey Operations), 
+*[[Jon Cooper (ice hockey)|Jon Cooper]] (Head Coach), [[Jeff Halpern]] (Asst. Coach), [[Derek Lalonde]] (Asst. Coach),
+*[[Todd Richards (ice hockey)|Todd Richards]] (Asst. Coach), Frantz Jean (Goaltending Coach), Brian Garlock (Video Coordinator),
+*Nigel Kirwan (Video Coach)‡, Mark Lambert (Director of High Performance/Strength Coach), Tom Mulligan (Athletic Trainer)‡,
+*Mike Poirier (Asst. Athletic Trainer), Ray Thill (Equipment Manager)‡, Rob Kennedy (Asst. Equipment Manager), 
+*Jason Berger (Asst. Equipment Manager), Christian Rivas (Massage Therapist) Brandon Rodgers (Physical Therapist, Asst. Strength & Conditioning Coach),
+*Ryan Belec (Sr. Director of Team Services)‡, Liz Sylvia Kokoharsky (Director of Hockey Administration), Michael Peterson (Director of Hockey Analytics)
+* ‡ Name engraved on the Stanley Cup with Tampa Bay in both {{scfy|2004}} and 2020.}}
+===Engraving notes===
+* #55 [[Braydon Coburn]] (D) played in 40 regular season and 3 playoff games. #7 [[Mathieu Joseph]] (RW) played in 37 regular season games, but none in the playoffs. Both were healthy scratches for the entire Final. Due to the shortened season, two players automatically qualified to have their names engraved on the Stanley Cup despite playing in fewer games than what would usually be required.{{efn|name=qualify}}
+* [[Patrick Maroon]] became the third player in the expansion era to win back-to-back Stanley Cups with two different teams. Maroon won with [[2018–19 St. Louis Blues season|St. Louis]] in [[2019 Stanley Cup Final|2019]] and Tampa Bay in 2020. The only two other players who have won back to back cups with two different teams since 1967–68 are [[Claude Lemieux]], who won in [[1995 Stanley Cup Final|1995]] with [[New Jersey Devils|New Jersey]] and in [[1996 Stanley Cup Final|1996]] with [[Colorado Avalanche|Colorado]]; and [[Cory Stillman]], who won in [[2004 Stanley Cup Final|2004]] with [[2003–04 Tampa Bay Lightning season|Tampa Bay]] and in [[2006 Stanley Cup Final|2006]] with [[Carolina Hurricanes|Carolina]] (the 2004–05 season was not played due to the [[2004–05 NHL lockout|lockout]]). Additionally, Maroon's first name was listed simply as “Pat” on the 2020 engraving, after being listed as “Patrick” the prior year.
+* In {{scfy|2024}}, when the [[Florida Panthers]] won their first Stanley Cup, [[Carter Verhaeghe]] became the first player to win a Stanley Cup with both teams from the state of Florida.
+* #29 [[Scott Wedgewood]] (G – 0 regular season games, 20 for [[Syracuse Crunch|Syracuse]] of the [[American Hockey League|AHL]]). He did not play in or dress for any playoff games (he was a healthy scratch). He was the only player on the roster during the Final to be left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}}<ref>[https://www.nhl.com/scores/htmlreports/20192020/RO030416.HTM Playing Roster]</ref> He was included in the team picture.
+
+==Television and radio==
+In Canada, the series was broadcast by [[NHL on Sportsnet|Sportsnet]] and [[CBC Television]] in [[English language|English]], and [[TVA Sports]] in [[French language|French]]. In the United States, the Final series were split between [[NBC]] (Games one, and four through six) and [[NBCSN]] (Games two and three). The NHL initially had plans to produce broadcasts for each game using a skeleton crew on-site, such as cameramen and producers, and then each media partners' commentators on both TV and radio were to call the games remotely.<ref>{{cite web|title=NHL media remain in flux while awaiting finalized coverage plans ahead of restart|url=https://www.cbc.ca/sports/hockey/nhl/nhl-playoffs-media-coverage-1.5627840|last=Morris|first=Jim|website=CBC|date=June 26, 2020|access-date=June 29, 2020}}</ref> The league then allowed both Sportsnet and NBC commentators into the hubs.<ref name="RTP FAQ">{{Cite web|title=Return to Play FAQ|url=https://media.nhl.com/public/news/14036|date=July 28, 2020|access-date=August 2, 2020|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref>
+
+As he had been doing throughout the playoffs, 74-year-old NBC lead play-by-play commentator [[Mike Emrick|Mike "Doc" Emrick]] called the Cup Final off of monitors from his home studio in [[Metro Detroit]], citing his advanced age as a potential risk for severe illness from COVID-19.<ref>{{cite web|title=Doc Emrick will call Islanders-Lightning series starting in Game 4|url=https://www.newsday.com/sports/columnists/neil-best/doc-emrick-islanders-p72487|archive-url=https://web.archive.org/web/20200913094124/https://www.newsday.com/sports/columnists/neil-best/doc-emrick-islanders-1.49132489|url-status=live|archive-date=September 13, 2020|last=Best|first=Neil|website=Newsday|date=September 9, 2020|access-date=September 11, 2020}}</ref> These were the final games that Emrick called; he announced his retirement on October 19, 2020.<ref name="Doc Emrick retires">{{Cite web|title=Legendary NHL broadcaster Mike 'Doc' Emrick announces his retirement|url=https://www.cnn.com/2020/10/19/us/doc-emrick-retirement-nhl-spt-trnd/index.html|date=October 19, 2020|access-date=October 19, 2020|website=cnn.com|publisher=CNN}}</ref>
+
+This also ended up the last Cup Final called by 63-year-old CBC/Sportsnet lead play-by-play commentator [[Jim Hughson]]. As the COVID-19 pandemic continued into the [[2020–21 NHL season|2020–21 season]], Hughson reduced his schedule to only work national [[Vancouver Canucks]] home games.<ref name="ProvinceJan15">{{Cite news|last=Johnston|first=Patrick|date=January 15, 2021|title=Canucks Notebook: Höglander keeps late sister in his heart, broadcasters stick close to home|url=https://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-notebook-hoglander-keeps-late-sister-in-his-heart-broadcasters-stick-close-to-home|work=TheProvince.com|access-date=January 21, 2021|archive-url=https://web.archive.org/web/20210115011011/https://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-notebook-hoglander-keeps-late-sister-in-his-heart-broadcasters-stick-close-to-home|archive-date=January 15, 2021|url-status=live}}</ref> He would later announce his retirement in September 2021.<ref>{{Cite web|title=Hall of Fame broadcaster Jim Hughson announces retirement|url=https://www.nytimes.com/athletic/4198599/2021/09/21/hall-of-fame-broadcaster-jim-hughson-announces-retirement/|work=The Athletic|date=September 21, 2021}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nhl.com/stanley-cup-playoffs/2020/lightning-vs-stars-series-o 2020 Stanley Cup Final at NHL.com]
+
+{{s-start}}
+{{succession box | before = [[2019 Stanley Cup Final|St. Louis Blues<br />2019]] | title = [[List of Stanley Cup champions|Tampa Bay Lightning<br />Stanley Cup champions]] | years = 2020 | after = [[2021 Stanley Cup Final|Tampa Bay Lightning<br />2021]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Tampa Bay Lightning}}
+{{Dallas Stars}}
+{{2019–20 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on Sportsnet}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2020 Stanley Cup| ]]
+[[Category:2019–20 NHL season]]
+[[Category:Stanley Cup Finals]]
+[[Category:September 2020 sports events in Canada|Stanley Cup Final]]
+[[Category:Ice hockey events postponed due to the COVID-19 pandemic|Stanley Cup Final]]
+[[Category:Dallas Stars games]]
+[[Category:Ice hockey competitions in Edmonton]]
+[[Category:Tampa Bay Lightning games]]
+[[Category:2020s in Edmonton]]

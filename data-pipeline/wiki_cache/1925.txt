@@ -1,0 +1,172 @@
+{{Short description|1925 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Finals
+|year=1925
+|dates=March 21–30, 1925
+|team1='''[[Victoria Cougars]]''' (WCHL)
+|team2=[[1924–25 Montreal Canadiens season|Montreal Canadiens]] (NHL)
+|format=best-of-five
+|team1_1='''5'''
+|team2_1=2
+|team1_2='''3'''
+|team2_2=1
+|team1_3=2
+|team2_3='''4'''
+|team1_4='''6'''
+|team2_4=1
+|team1_tot=3
+|team2_tot=1
+|location1=[[Victoria, British Columbia|Victoria]]: [[Patrick Arena]] (1, 3, 4)
+|location2=[[Vancouver, British Columbia|Vancouver]]: [[Denman Arena]] (2)
+|series_winner=[[Gizzy Hart]] (1:35, second)
+|hofers='''Cougars:'''<br/>[[Frank Foyston]] (1958)<br/>[[Frank Fredrickson]] (1958)<br/>[[Hap Holmes]] (1972)<br/>[[Jack Walker (ice hockey)|Jack Walker]] (1960)<br/>'''Canadiens:'''<br/>[[Sprague Cleghorn]] (1958)<br/>[[Aurèle Joliat|Aurele Joliat]] (1947)<br/>[[Sylvio Mantha]] (1960)<br/>[[Howie Morenz]] (1945)<br/>[[Georges Vézina|Georges Vezina]] (1945)<br/>'''Coaches:'''<br/>[[Léo Dandurand|Leo Dandurand]] (1963)<br/>[[Lester Patrick]] (1947, player)
+|coaches=Montreal: [[Leo Dandurand]]<br/>Victoria: [[Lester Patrick]]
+|captains=Montreal: [[Sprague Cleghorn]]<br /> Victoria: [[Clem Loughlin]]
+}}
+The '''1925 Stanley Cup Final''' saw the [[Western Canada Hockey League]] (WCHL) champion [[Victoria Cougars]] defeat the [[National Hockey League]] (NHL) champion [[1924–25 Montreal Canadiens season|Montreal Canadiens]] three games to one in a best-of-five game series. The Canadiens were substitute NHL representatives, as the final series to decide the NHL champion was not played.
+
+The Cougars were the last non-NHL team to win the Cup as the WCHL (renamed the Western Hockey League for the [[1925–26 WHL season|1925–26 season]]) folded after [[1926 Stanley Cup Finals|1926]], leaving the Stanley Cup to become the NHL's ''de facto'' championship trophy.  The Cougars would also be the last team based west of [[Chicago]] to win the Cup until the [[Edmonton Oilers]] won the trophy in [[1984 Stanley Cup Finals|1984]]. These were also the last Stanley Cup Finals games to be played in Western Canada until the [[Vancouver Canucks]] qualified for the [[1982 Stanley Cup Finals|1982 Finals]]. Games one, three, and four were held in Victoria. Game two, held in Vancouver, was the last neutral site game in Stanley Cup Finals history that did not involve the [[New York Rangers]] until the [[2020 Stanley Cup Finals]].
+
+==Path to the Finals==
+{{Main|1924–25 NHL season|1924–25 WCHL season}}
+
+Prior to the season, the [[Pacific Coast Hockey Association]] (PCHA) folded and two of its teams, the Cougars and the [[Vancouver Maroons]] joined the WCHL. Victoria finished the [[1924–25 WCHL season|1924–25 WCHL regular season]] in third place, but eventually upset the [[Calgary Tigers]] in the two-game total goals WCHL championship series by a combined score of 3–1.
+
+Meanwhile, the Canadiens also finished the [[1924–25 NHL season|NHL regular season]] in third place. In the NHL playoffs, Montreal went on to beat the second place [[Toronto St. Patricks]], 5–2, in a two-game total goals series. The winner of that series was to go on and play the first place [[Hamilton Tigers]]. However, the Tigers were suspended after Hamilton players staged a [[Strike action|strike]] in an attempt to receive more compensation because the league extended the regular season from 24 to 30 games. As a result, the Canadiens were declared the 1924–25 NHL champions.
+
+==Game summaries==
+With the demise of the PCHA, the Stanley Cup playoffs reverted to a single best-of-five series to determine the champion. However, the Cup Finals still annually rotated between the east and the west, and thus all of the games in the 1925 Finals were played on the West Coast. Games one, three, and four were played at the 4,200 seat [[Patrick Arena]] in Victoria; game two was played at the [[Denman Arena]] in Vancouver.<ref>{{cite news |newspaper=Montreal Gazette |url=https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19250319&printsec=frontpage |title=First Game Saturday |date=March 19, 1925 |page=14 |access-date=September 16, 2010}}</ref> The decision to use the larger Denman Arena (10,500 seats) for game two was based on the huge demand for tickets.<ref>[https://web.archive.org/web/20081024202544/http://www.salmonkings.com/the-team/hockey-history/victoria.html "Colorful Canadiens"] Victoria Hockey History. Retrieved 2010-09-16</ref> The Cougars jumped to a two games to none series lead with 5–2 and 3–1 victories, but the Canadiens won game three, 4–2. In game four, [[Gizzy Hart]] scored the game-winning goal in Victoria's 6–1 win to clinch the Cup.<ref>[https://news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=19250331&printsec=frontpage “Canadiens Leave Stanley Cup With Victoria Cougars”] The Montreal Gazette newspaper – March 31, 1925, page 14. Retrieved 2010-09-16</ref>
+
+Cougars goaltender [[Hap Holmes]] recorded a 2.00 goal-against average for the series. [[Jack Walker (ice hockey)|Jack Walker]] led Victoria in goals with four, while [[Frank Fredrickson]] scored three. Overall, eight different player combining for the Cougars' 16 goals.
+
+{{NHLPlayoffs
+|team1=Victoria Cougars
+|team2=Montreal Canadiens
+|stadium2=[[Patrick Arena]]
+|altstadium2 =[[Denman Arena]]
+
+|date1       =March 21
+|home1       =2
+|score1      =2–5
+|won1        =1
+|recap1      = www.nhl.com/gamecenter/mtl-vs-vic/1925/03/21/1924030311#game=1924030311,game_state=final
+|1-1-1       =3:50 - [[Jack Walker]] (1)<br/>11:55 - [[Haldor Halderson]] (1)
+|1-1-2       =''No scoring''
+|1-2-1       =3:22 - Jack Walker (2)
+|1-2-2       =''No scoring''
+|1-3-1       =3:22 - [[Gord Fraser (ice hockey)|Gord Fraser]] (1)<br/>14:06 - Gord Fraser (2)
+|1-3-2       =[[Billy Coutu]] (1) - 13:38<br/>[[Howie Morenz]] (4) - 19:06
+|goalie1-1   =[[Hap Holmes]]
+|goalie1-2   =[[Georges Vezina]]
+
+|date2       =March 23
+|home2       =2
+|score2      =1–3
+|won2        =1
+|recap2      = www.nhl.com/gamecenter/mtl-vs-vic/1925/03/23/1924030312#game=1924030312,game_state=final
+|2-1-1       =8:15 - [[Jack Walker (ice hockey)|Jack Walker]] (3)<br/>15:40 - [[Frank Fredrickson]] (1)
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =[[Aurele Joliat]] (1) - 1:18
+|2-3-1       =8:52 - Jack Walker (4)
+|2-3-2       =''No scoring''
+|goalie2-1   =[[Hap Holmes]]
+|goalie2-2   =[[Georges Vezina]]
+
+|date3       =March 27
+|home3       =2
+|score3      =4–2
+|won3        =2
+|recap3      = www.nhl.com/gamecenter/mtl-vs-vic/1925/03/27/1924030313#game=1924030313,game_state=final
+|3-1-1       =9:00 - [[Jocko Anderson]] (1)
+|3-1-2       =[[Howie Morenz]] (5) - 4:32
+|3-2-1       =''No scoring''
+|3-2-2       =''No scoring''
+|3-3-1       =1:49 - [[Gizzy Hart]] (1)
+|3-3-2       =[[Aurele Joliat]] (2) - 5:50<br/>Howie Morenz (6) - 7:30<br/>Howie Morenz (7) - 18:52
+|goalie3-1   =[[Hap Holmes]]
+|goalie3-2   =[[Georges Vezina]]
+
+|date4       =March 30
+|home4       =2
+|score4      =1–6
+|won4        =1
+|recap4      = www.nhl.com/gamecenter/mtl-vs-vic/1925/03/30/1924030314#game=1924030314,game_state=final
+|4-1-1       =5:05 - [[Frank Fredrickson]] (2)
+|4-1-2       =''No scoring''
+|4-2-1       =1:35 - [[Gizzy Hart]] (2)<br/>16:25 - [[Haldor Halderson]] (2)<br/>00:00 - Frank Foyston (1)
+|4-2-2       =[[Billy Boucher]] (2) - 11:38
+|4-3-1       =7:05 - Frank Fredrickson (3)<br/>16:31 - [[Clem Loughlin]] (1)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[Hap Holmes]]
+|goalie4-2   =[[Georges Vezina]]
+
+|series = Victoria won series 3–1
+}}
+
+==Stanley Cup engraving==
+The 1925 Stanley Cup was presented to Cougars captain Clem Loughlin by the trophy's trustee [[William Foran]], following the Cougars 6–1 win over the Canadiens in game four.
+
+The following Cougars players and staff had their names engraved on the Stanley Cup
+
+'''1924–25 Victoria Cougars'''
+{{Stanley Cup champion|
+goaltenders=*1 Harry [[Hap Holmes]] 
+|defence=*2 [[Clem Loughlin]] (Captain)
+*9 [[Gord Fraser (ice hockey)|Gord Fraser]]
+* 11 "Slim" [[Haldor Halderson]] 
+|wingers=*10 [[Frank Fredrickson]]
+*4 [[Frank Foyston]]
+*6 [[Wally Elmer]]
+*5 Harold [[Gizzy Hart]]
+*8 [[Harry Meeking]] 
+*7 [[Jack Walker (ice hockey)|Jack Walker]]  
+|centres=* 3 John [[Jocko Anderson]] 
+|non-players=
+*[[Lester Patrick]] (Owner-President/Manager-Coach) 
+*Larry Brunnell (Trainer)&
+
+&-name is missing from the Stanley Cup.
+|engraving-notes=
+*After the series win, a new angled ring with the words "Won/By/'Cougars' Victoria, B.C. 1925" was added between the original bowl of the Cup and the original first ring of the base.  All players and the manager were included on the new ring, but trainer Larry Brunnell was left off.
+*Victoria players Frank Fredrickson and Haldor Halderson became the first players to win both an Olympic gold medal and the Stanley Cup. Fredrickson and Halderson had been members of the [[Winnipeg Falcons]] who won gold at the [[1920 Olympic Games]].{{sfn|Zweig|2012|p=255}}
+}}
+
+==See also==
+*[[1924–25 NHL season]]
+*[[1924–25 WCHL season]]
+
+==References==
+*{{cite web | url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/SilverwareTrophyWinner.jsp?tro=STC&year=1924-25 | title=1924–25 Stanley Cup Winner: Victoria Cougars | publisher=[[Hockey Hall of Fame]] | access-date=2010-05-26}}
+*{{cite book | last=Podnieks | first=Andrew |author2=Hockey Hall of Fame | title=Lord Stanley's Cup | year=2004 | publisher=Triumph Books| isbn=1-55168-261-3 | pages=12, 57| author-link2=Hockey Hall of Fame }}
+*{{cite book | editor=Dan Diamond | title=The Official National Hockey League Stanley Cup Centennial Book | year=1992 | publisher=Firefly Books| isbn=1-895565-15-4 | pages=58–59}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+  before = [[1924 Stanley Cup Finals|Montreal Canadiens<br>1924]] |
+  after = [[1926 Stanley Cup Finals|Montreal Maroons<br>1926]] |
+  title = [[Victoria Cougars]]<br>[[List of Stanley Cup champions|Stanley Cup champions]] |
+  years = 1925|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Canadiens}}
+{{1924–25 NHL season by team}}
+
+[[Category:1924–25 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Montreal Canadiens games]]
+[[Category:Western Canada Hockey League postseason]]
+[[Category:1924–25 in Canadian ice hockey|Stanley]]
+[[Category:March 1925 sports events in Canada]]
+[[Category:Sports competitions in Victoria, British Columbia]]
+[[Category:20th century in Victoria, British Columbia]]
+[[Category:Ice hockey competitions in Vancouver]]
+[[Category:1920s in Vancouver]]
+[[Category:1925 in British Columbia]]

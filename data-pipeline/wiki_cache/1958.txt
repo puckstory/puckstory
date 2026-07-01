@@ -1,0 +1,337 @@
+{{Short description|1958 ice hockey championship series}}
+{{No footnotes|date=February 2024}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1958
+|team1='''[[1957–58 Montreal Canadiens season|Montreal Canadiens]]'''
+|team1_short=Montreal 
+|team1_captain=[[Maurice Richard]]
+|team1_coach=[[Toe Blake]]
+|team2=[[1957–58 Boston Bruins season|Boston Bruins]]
+|team2_short=Boston 
+|team2_captain=[[Fernie Flaman]]
+|team2_coach=[[Milt Schmidt]]
+|team1_1='''2'''
+|team1_2=2
+|team1_3='''3'''
+|team1_4=1
+|team1_5='''3'''*
+|team1_6='''5'''
+|team1_tot=4
+|team2_1=1
+|team2_2='''5'''
+|team2_3=0
+|team2_4='''3'''
+|team2_5=2*
+|team2_6=3
+|team2_tot=2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 8–20, 1958
+|location1=[[Montreal]]: [[Montreal Forum]] (1, 2, 5)
+|location2=[[Boston]]: [[Boston Garden]] (3, 4, 6)
+|series_winner=[[Bernie Geoffrion]] (19:26, second)
+|hofers='''Canadiens:'''<br/>[[Jean Béliveau|Jean Beliveau]] (1972)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Dickie Moore (ice hockey)|Dickie Moore]] (1974)<br/>[[Bert Olmstead]] (1985)<br/>[[Jacques Plante]] (1978)<br/>[[Henri Richard]] (1979)<br/>[[Maurice Richard]] (1961)<br/>'''Bruins:'''<br/>[[Leo Boivin]] (1986)<br/>[[Johnny Bucyk]] (1981)<br/>[[Fernie Flaman]] (1990)<br/>[[Harry Lumley (ice hockey)|Harry Lumley]] (1980)<br/>[[Allan Stanley]] (1981)<br/>'''Coaches:'''<br/>[[Toe Blake]] (1966, player)<br/>[[Milt Schmidt]] (1961, player)
+}}
+
+The '''1958 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1957–58 NHL season|1957–58 season]], and the culmination of the [[1958 Stanley Cup playoffs]]. It was contested between the two-time defending champion [[1957–58 Montreal Canadiens season|Montreal Canadiens]] and the [[1957–58 Boston Bruins season|Boston Bruins]] in a rematch of the [[1957 Stanley Cup Final|1957 Finals]]. The Canadiens, who were appearing in the Finals for the eighth consecutive year, defeated the Bruins in six games for their third straight Cup victory and tenth in the team's history. The Canadiens became the second team in NHL history to [[three-peat]] as Stanley Cup champions, joining their archrival [[Toronto Maple Leafs]].
+
+==Paths to the Finals==
+Montreal defeated the [[Detroit Red Wings]] 4–0, and Boston defeated the [[New York Rangers]] 4–2, to reach the Finals.
+
+==Game summaries==
+Montreal captain [[Maurice Richard]] led the playoff goal-scoring race with 11. In Game 5, he notched his sixth career playoff overtime goal (three of which occurred in this and previous Stanley Cup Finals).
+
+===Game one===
+
+{{NHLPlayoffs
+|team1=Boston Bruins
+|team2=Montreal Canadiens
+|stadium1=[[Montreal Forum]]
+|stadium2=[[Boston Garden]]
+|date1       =April 8
+|home1       =1
+|score1      =1–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/bos-vs-mtl/1958/04/08/1957030211#game=1957030211,game_state=final
+}}
+[[Bernie Geoffrion]] scored a power-play goal in the first period to open the scoring in game one, but [[Allan Stanley]] scored on a power-play to tie the game. [[Dickie Moore (ice hockey)|Dickie Moore]] would score the game winning goal on a power-play with 6:04 remaining in the second, and [[Jacques Plante]] would perform well, making 28 saves, and the Canadiens won the game by a score of 2–1 to take a 1–0 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="1"| '''1st'''
+|align=center | MTL
+|align=center | [[Bernie Geoffrion]] (2) – ''pp''
+|align=center | [[Donnie Marshall]] (2) and [[Doug Harvey (ice hockey)|Doug Harvey]] (5)
+|align=center | 12:24
+|align=center | 1–0 MTL
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | BOS
+|align=center | [[Allan Stanley]] (1) – ''pp''
+|align=center | [[Don McKenney]] (8) and [[Fleming MacKell]] (11)
+|align=center | 05:54
+|align=center | 1–1
+|-
+|align=center | MTL
+|align=center | [[Dickie Moore (ice hockey)|Dickie Moore]] (2) – ''pp''
+|align=center | [[Jean Béliveau|Jean Beliveau]] (5) and [[Maurice Richard]] (4)
+|align=center | 13:52
+|align=center | 2–1 MTL
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="13"| '''1st'''
+|align=center | BOS
+|align=center | [[Leo Labine]]
+|align=center | High-sticking
+|align=center | 00:55
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Fernie Flaman]]
+|align=center | Hooking 
+|align=center | 03:03
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Hooking
+|align=center | 04:00
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Fernie Flaman
+|align=center | Roughing
+|align=center | 05:17
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Claude Provost]]
+|align=center | Roughing
+|align=center | 05:17
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Allan Stanley
+|align=center | Tripping
+|align=center | 07:08
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Maurice Richard
+|align=center | Slashing
+|align=center | 07:31
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center |[[Leo Boivin]]
+|align=center | Fighting – major
+|align=center | 08:00
+|align=center | 5:00
+|-
+|align=center | MTL
+|align=center | [[Henri Richard]]
+|align=center | Fighting – major
+|align=center | 08:00
+|align=center | 5:00
+|-
+|align=center | BOS
+|align=center | Bench (served by [[Larry Regan]])
+|align=center | Too many men on the ice
+|align=center | 11:44
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Charging
+|align=center | 13:18
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Leo Labine
+|align=center | Roughing
+|align=center | 16:47
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[André Pronovost|Andre Pronovost]]
+|align=center | Roughing
+|align=center | 16:47
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | MTL
+|align=center | Jean Beliveau
+|align=center | Tripping
+|align=center | 04:25
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Doug Harvey
+|align=center | Interference
+|align=center | 06:25
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | [[Doug Mohns]]
+|align=center | Interference
+|align=center | 06:45
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | [[Dollard St. Laurent]]
+|align=center | Tripping
+|align=center | 09:46
+|align=center | 2:00
+|-
+|align=center | BOS
+|align=center | Leo Labine 
+|align=center | Tripping
+|align=center | 12:45
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Doug Harvey
+|align=center | Interference
+|align=center | 19:33
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | MTL
+|align=center | Henri Richard
+|align=center | Holding
+|align=center | 16:47
+|align=center | 2:00
+|-
+|align=center | MTL
+|align=center | Fleming MacKell
+|align=center | Hooking
+|align=center | 17:25
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Boston}} || align=center | 12 || align=center | 8 || align=center | 9 || align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Montreal}} || align=center | 16 || align=center | 12 || align=center | 16 || align=center | 44
+|}
+
+==Stanley Cup engraving==
+The 1958 Stanley Cup was presented to Canadiens captain Maurice Richard by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Canadiens 5–3 win over the Bruins in game six.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1957–58 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Jacques Plante]]
+*1 [[Charlie Hodge (ice hockey)|Charlie Hodge]] (Sub)
+*1 [[Gerry McNeil]] (Spare-did not play)
+|defence=*2 [[Doug Harvey (ice hockey)|Doug Harvey]] (A)
+*10 [[Tom Johnson (ice hockey)|Tom Johnson]] (A)
+*11 [[Bob Turner (ice hockey)|Bob Turner]]
+*17 [[Jean-Guy Talbot]]
+*19 [[Dollard St. Laurent]]
+*21 [[Al Langlois]]
+|centres=*4 [[Jean Beliveau]]
+*8 [[Connie Broden]]
+*16 [[Henri Richard]]
+*20 [[Phil Goyette]]
+|wingers=*
+*5 [[Bernie Geoffrion]]
+*6 [[Floyd Curry]] (A)
+*9 [[Maurice Richard|Maurice "Rocket" Richard]] (Captain)
+*12 [[Dickie Moore (ice hockey)|Dickie Moore]]
+*14 [[Claude Provost]]
+*15 [[Bert Olmstead]]
+*18 [[Marcel Bonin]]
+*22 [[Donnie Marshall|Don Marshall]]
+*23 [[Andre Pronovost]]
+*24 Alvin [[Ab McDonald]]
+|non-players=
+*[[Hartland Molson]] (President/Owner) 
+*[[Frank Selke]] Sr. (Manager), [[Ken Reardon]] (Vice President) 
+*[[Toe Blake]] (Coach)
+*Hector Dubois (Trainer), Larry Aubut (Asst. Trainer)
+*Camile DesRoches^, [[Frank Selke Jr.]]^ (Publicity Directors)
+*^- on the team picture, but missing from the Stanley Cup.
+|
+}}
+
+== Engraving notes ==
+Every player whose name was engraved on the Stanley Cup in 1957 also appeared on the Cup in 1958, the only time this had occurred in NHL history for repeat champions. In addition, four players' names appeared on the Cup in 1958 that were not present in 1957: [[Charlie Hodge (ice hockey)|Charlie Hodge]], Ab MacDonald, Marcel Bonin and Albert Langlois. The only other change was in the name of the owner, as Hartland Molson had taken over the Canadiens from [[William Northey (ice hockey)|William Northey]] and [[Donat Raymond]]. Thirteen names on the 1958 Cup are those of members of [[Hockey Hall of Fame]]: players Jean Beliveau, Bernie Geoffrion, Doug Harvey, Tom Johnson, Dickie Moore, Bert Olmstead, Jacques Plante, Henri Richard and Maurice Richard, and non-players Hartland Molson, Ken Reardon, Frank Selke Sr. and Hector 'Toe' Blake.
+
+*In 1958 NHL decided to change the look the Stanley Cup again. The new-look Stanley Cup to be full in 1992 for the Stanley Cup 100th anniversary. The Stanley Cup bowl renamed the same with 1903 to 1906 winning teams listed on the bowl, along with Paddy Moran, Fred Taylor and several installs. Inside the bowl included both 1907 Kenora Thistles, 1907 Wanderers, plus 20 members of Wanderers. Also included are 9 members of 1915 Vancouver, BC and [[Punch Broadbent|Harry Broadbent]].
+*Underneath are 6 small rings or bands. They included teams winning members names from 1924 to 1927, and 1929. The winning team names only from 1893 to 1902, & 1909 to 1918, but missing 1908-10 Montreal Wanderers & 1911 Ottawa Senators but that ring included 3 non-winners. 1915 NHA Champion Ottawa, 1916 PCHA Champion Portland, 1918 PCHA Champion Vancouver 
+*A Shoulder sits between the smaller and larger rings. It includes all the Stanley Cup-winning team names from 1893 to 1992. This included the seven teams that did not put their team name on it and the unfinished 1919 Stanley Cup Final. (1908 Montreal Wanderers, 1910 Montreal Wanderers, 1911 Ottawa Senators, 1918 Toronto Arenas, 1919 No Decision Montreal Canadiens Seattle Metropolitans, 1920 Ottawa Senators, 1921 Ottawa Senators, 1922 Toronto St. Pats, and 1923 Ottawa Senators.)
+*There were five larger rings under the shoulder to included 13 winning seasons per ring. Ring one: 1928 to 1940, ring two: 1941 to 1953, ring three: 1954 to 1958 with more teams to be added to ring three (1957 Montreal Canadiens team were finally added in 1958). Ring three and ring four were blank. The last ring to be filled in 1992 for the Stanley Cup 100th anniversary. All the rings below the shoulder are now identical in size. The Cup remained the same height 34 1/4 inches and 35 1/2 pounds. 
+*1928 Boston Bruins team members were engraved twice (members missing from both engravings) on a smaller band with 1927 Ottawa Senators and on first of the large rings. 1915 Vancouver Millionaires team was listed three times. Once on the shoulder, Once on one of the smaller bands (rings), and inside the cup with team name and nine winning members.
+*_The new larger rings were not engraved the same as the previous rings. Some names were added, others missing, many first names/positions were spelt differently, and most spelling mistakes were fixed.
+*-Note the Stanley Cup has not changed size or shape since 1958. (See [[1992 Stanley Cup Final]] for the next change in the Stanley Cup engraving plates.)
+
+==See also==
+* [[1957–58 Boston Bruins season]]
+* [[1957–58 Montreal Canadiens season]]
+* [[1957–58 NHL season]]
+
+==References==
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+{{s-start}}
+{{succession box |
+ before = [[1957 Stanley Cup Final|Montreal Canadiens<br>1957]] |
+ after = [[1959 Stanley Cup Final|Montreal Canadiens<br>1959]] |
+ title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+ years = 1958|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes
+|list1=
+{{Montreal Canadiens}}
+{{Boston Bruins}}
+{{1957–58 NHL season by team}}
+{{Hockey Night in Canada}}
+}}
+
+[[Category:1957–58 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Montreal Canadiens games]]
+[[Category:April 1958 sports events in North America|Stanley Cup Finals]]
+[[Category:1950s in Montreal]]
+[[Category:1958 in Quebec|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1958 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1950s in Boston]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1958 in Canadian sports|Stanley Cup Finals]]

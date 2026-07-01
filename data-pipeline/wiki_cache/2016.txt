@@ -1,0 +1,1387 @@
+{{short description|2016 ice hockey championship series}}
+{{pp-move|small=yes}}
+
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year = 2016
+|image= 2016StanleyCupFinals.png
+|team1 = [[2015–16 San Jose Sharks season|San Jose Sharks]]
+|team1_1 = 2
+|team1_2 = 1*
+|team1_3 = '''3'''*
+|team1_4 = 1
+|team1_5 = '''4'''
+|team1_6 = 1
+|team1_tot= 2
+|team1_short = San Jose
+|team1_coach = [[Peter DeBoer]]
+|team1_captain = [[Joe Pavelski]]
+|team1_national_anthem = Annemarie Martin (3), [[Metallica]] (4),<ref>{{cite web|url=https://www.nhl.com/news/metallica-to-play-national-anthem-for-game-4/c-280895896|title=Metallica to play anthem before Game 4|date=2016-06-06|website=NHL.com|publisher=[[National Hockey League]]|access-date=2016-06-06}}</ref> [[Pat Monahan]] (6)<ref>{{cite web|url=https://www.nhl.com/news/trains-pat-monahan-to-sing-anthem-at-stanley-cup-final/c-280942248|title=Train's Pat Monahan to perform anthem for Game 6|date=2016-06-11|website=NHL.com|publisher=[[National Hockey League]]|access-date=2016-06-12}}</ref>
+|team2 = '''[[2015–16 Pittsburgh Penguins season|Pittsburgh Penguins]]'''
+|team2_1 = '''3'''
+|team2_2 = '''2'''*
+|team2_3 = 2*
+|team2_4 = '''3'''
+|team2_5 = 2
+|team2_6 = '''3'''
+|team2_tot= 4
+|team2_short = Pittsburgh
+|team2_coach = [[Mike Sullivan (ice hockey)|Mike Sullivan]]
+|team2_captain = [[Sidney Crosby]]
+|team2_national_anthem = [[Jeff Jimerson]]
+|table-note = <nowiki>*</nowiki> – Denotes overtime period(s)
+|referees = [[Wes McCauley]] (2, 4, 6)<br>[[Dan O'Halloran]] (1, 3, 5)<br>[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (1, 3, 5)<br>[[Kelly Sutherland]] (2, 4, 6)
+|dates = May 30 – June 12, 2016
+|location1 = [[San Jose, California|San Jose]]: [[SAP Center]] (3, 4, 6)
+|location2 = [[Pittsburgh]]: [[PPG Paints Arena|Consol Energy Center]] (1, 2, 5)
+|mvp = [[Sidney Crosby]] (Penguins)
+|series_winner = [[Kris Letang]] (7:46, second)
+|hofers = '''Sharks:'''<br/>[[Joe Thornton]] (2025)
+|networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[TVA Sports]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1, 4–6), [[NHL on NBC|NBCSN]] (2–3)
+|net_announcers =(CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br>(TVA) Felix Seguin and [[Patrick Lalime]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br>(NHL International) [[Steve Mears]] and [[Kevin Weekes]]<br>([[NBC Sports Radio]]) [[Kenny Albert]], [[Joe Micheletti]], and [[Darren Eliot]]
+}}
+The '''2016 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2015–16 NHL season|2015–16 season]], and the culmination of the [[2016 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion [[2015–16 Pittsburgh Penguins season|Pittsburgh Penguins]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2015–16 San Jose Sharks season|San Jose Sharks]] four games to two to win their fourth championship in franchise history. Penguins captain [[Sidney Crosby]] was awarded the [[Conn Smythe Trophy]] as the most valuable player of the playoffs.
+
+The Penguins finished with more points than the Sharks during the regular season, giving them home ice advantage in the series. The series began on May 30 and concluded on June 12.<ref name="FinalsSchedule">{{cite web|title=Stanley Cup Final schedule|url=https://www.nhl.com/news/nhl-playoffs-stanley-cup-final-schedule/c-280792580|website=NHL.com|publisher=NHL Enterprises, L. P.|date=May 26, 2016|access-date=May 26, 2016|location=[[New York City]]}}</ref> This was the first Finals since [[2007 Stanley Cup Final|2007]] to feature a team making their Finals debut. This was the first playoff meeting between teams from [[Pittsburgh]] and the [[San Francisco Bay Area|Bay Area]] since the Penguins swept the [[California Golden Seals|Oakland Seals]] in the [[1969–70 NHL season|1970 Stanley Cup Quarterfinals]].
+
+The Eastern Conference had home-ice advantage in consecutive seasons for the first time since the [[2004 Stanley Cup Final|2004]] and [[2006 Stanley Cup Final|2006]] Finals (the [[2004–05 NHL season|2004–05 season]], and consequently the 2005 Final, were not played due to a [[2004–05 NHL lockout|lockout]]).
+
+For the first time since 2006, a new scheduling format was instituted for the Finals. In previous years, the Finals were played on a Monday–Wednesday–Saturday scheme (with a few games being played on Friday). However, the league changed its scheduling to ensure an extra day off for both teams. The extra off day, along with the designated travel day, took place after games 2, 4, 5, and 6 in subsequent finals. This scheduling change was necessary as a result of the [[National Basketball Association]] (NBA) instituting a new scheduling format for its [[NBA Finals|championship series]] that went into effect beginning in [[2016 NBA Finals|2016]].<ref>{{cite web|date=October 19, 2021|title=Extra off days in NBA, NHL finals |url=https://www.sportingnews.com/us/nhl/news/nba-finals-stanley-cup-schedules-extra-off-days/13sui1ahk2oi815enbl6cdi7p3|publisher=Sporting News Holding Limited|accessdate=April 27, 2023|website=www.sportingnews.com|language=en-us}}</ref>
+
+==Paths to the Finals==
+
+===Pittsburgh Penguins===
+{{Main|2015–16 Pittsburgh Penguins season}}
+
+This was Pittsburgh's fifth Finals appearance, and first since winning the Cup in {{scfy|2009}}. The Penguins had made the playoffs every year since their win in 2009, but hadn't won a single game in the conference finals in that span.
+
+After losing to the [[New York Rangers|Rangers]] in the playoffs for the second consecutive year, the Penguins made waves during the 2015 offseason, trading for forwards [[Phil Kessel]] and [[Nick Bonino]], re-signing defenceman [[Olli Määttä|Olli Maatta]] and forward [[Bryan Rust]], and signing centres [[Matt Cullen]] and [[Eric Fehr]] in free agency. General manager [[Jim Rutherford]] fired head coach [[Mike Johnston (ice hockey)|Mike Johnston]] on December 12, 2015, after the team limped to a 15–10–3 start. Johnston was replaced with [[Wilkes-Barre/Scranton Penguins]] coach [[Mike Sullivan (ice hockey)|Mike Sullivan]], who went 33–16–5 over the remainder of the season. The Penguins made three major trades before the trade deadline, acquiring defencemen [[Trevor Daley]] and [[Justin Schultz]] and forward [[Carl Hagelin]]. After goalie [[Marc-André Fleury|Marc-Andre Fleury]] suffered a concussion on April 2, the team turned to rookie [[Matt Murray (ice hockey, born 1994)|Matt Murray]] for the final week of the regular season and the majority of the playoffs.
+
+Pittsburgh finished with 104 points (48–26–8) in the regular season to finish second in the Metropolitan Division. Centre and team captain [[Sidney Crosby]] led the club in scoring during the regular season and finished third in the league with 85 points.
+
+In the playoffs, the Penguins eliminated the [[New York Rangers]] in five games after losing to them in 2014 and 2015, the [[Presidents' Trophy]]-winning [[Washington Capitals]] in six games, and the defending conference champion [[Tampa Bay Lightning]] in seven games.
+
+===San Jose Sharks===
+{{Main|2015–16 San Jose Sharks season}}
+This was San Jose's first Finals appearance in their 25-year history, becoming the first team to make their Finals debut since the [[2007 Stanley Cup Final|2006–07 Ottawa Senators]].
+
+During the offseason the Sharks hired former [[New Jersey Devils]] head coach [[Peter DeBoer]] to replace [[Todd McLellan]] and traded for former [[Los Angeles Kings|Kings]] backup goalie [[Martin Jones (ice hockey)|Martin Jones]]. San Jose also picked up defenceman [[Paul Martin (ice hockey)|Paul Martin]] and right wingers [[Joel Ward (ice hockey)|Joel Ward]] and [[Dainius Zubrus]] via free agency. Before the trade deadline, the Sharks acquired forward [[Nick Spaling]], defenceman [[Roman Polák|Roman Polak]], and goalie [[James Reimer]].
+
+San Jose earned 98 points (46–30–6) to finish third in the Pacific Division. Centre [[Joe Thornton]] led the club in scoring with 82 points, and finished tied for fourth in the league, followed closely by centre and team captain [[Joe Pavelski]] with 78 points and defenceman [[Brent Burns]] with 75 points.
+
+In the playoffs, San Jose avenged their [[2014 Stanley Cup playoffs|2014]] loss to the Kings, a series in which they blew a 3–0 series lead, by defeating Los Angeles in five games. San Jose also eliminated the [[Nashville Predators]] in seven games, winning every home game in the series, and the [[St. Louis Blues]] in the Conference Final in six games.
+
+==Game summaries==
+'' Number in parentheses represents the player's total goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|date1= May 30
+|team1= San Jose Sharks
+|team2= Pittsburgh Penguins
+|stadium1= [[Consol Energy Center]]
+|score1= 2–3
+|won1= 2
+|recap1=www.nhl.com/news/sharks-penguins-game-1-recap/c-280843036?tid=280014400
+}}
+[[File:Nick Bonino 2016-04-07 1.JPG|thumb|right|upright=.8|[[Nick Bonino]] scored the game-winning goal in game one.]]
+Game one remained scoreless until [[Bryan Rust]] and [[Conor Sheary]] scored a minute apart for the Penguins midway through the first period. San Jose came back in the second period with a power play goal by [[Tomáš Hertl|Tomas Hertl]] at 3:02 and the tying goal by [[Patrick Marleau]] at 18:12. Despite 18 third-period Pittsburgh shots directed towards Martin Jones, the score remained tied at two until very late in the game, when [[Kris Letang]] found [[Nick Bonino]] wide open in front of the net to give the Penguins the lead. The Penguins held off the Sharks in the final minutes to win 3–2.<ref>{{cite web|url=https://www.nhl.com/news/sharks-penguins-game-1-recap/c-280843036?tid=280014400|title=Penguins score late to win game one against Sharks|last=Crosby|first=Wes|publisher=NHL Enterprise, L.P|date=May 30, 2016|website=NHL.com|access-date=May 30, 2016|location=[[Pittsburgh]]}}</ref><ref>{{cite web|last=Graves|first=Will|title=Penguins edge Sharks 3-2 in Game 1 of Stanley Cup Final|url=http://bigstory.ap.org/article/59412689005f41058c1f254be7765e18/penguins-edge-sharks-3-2-game-1-stanley-cup-final|accessdate=May 31, 2016|publisher=The Associated Press|website=APNews.com|date=May 31, 2016|location=[[Pittsburgh]]}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | PIT
+|align=center | [[Bryan Rust]] (6)
+|align=center | [[Justin Schultz]] (3) and [[Chris Kunitz]] (7)
+|align=center | 12:46
+|align=center | 1–0 PIT
+|-
+|align=center | PIT
+|align=center | [[Conor Sheary]] (3)
+|align=center | [[Sidney Crosby]] (10) and [[Olli Määttä|Olli Maatta]] (5)
+|align=center | 13:48
+|align=center | 2–0 PIT
+|-
+| style="text-align:center;" rowspan="2| '''2nd''' 
+|align=center | SJ
+|align=center | [[Tomáš Hertl|Tomas Hertl]] (6)&nbsp;– ''pp''
+|align=center | [[Joonas Donskoi]] (5) and [[Brent Burns]] (15)
+|align=center | 3:02
+|align=center | 2–1 PIT
+|-
+|align=center | SJ
+|align=center | [[Patrick Marleau]] (5)
+|align=center | [[Brent Burns]] (16) and [[Logan Couture]] (17)
+|align=center | 18:12
+|align=center | 2–2
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | PIT
+|align=center | [[Nick Bonino]] (4)
+|align=center | [[Kris Letang]] (9) and [[Carl Hagelin]] (8)
+|align=center | 17:27
+|align=center | 3–2 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+|align=center | SJ
+|align=center | [[Dainius Zubrus]]
+|align=center | High-sticking
+|align=center | 8:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | PIT
+|align=center | [[Ian Cole]]
+|align=center | Hooking
+|align=center | 1:14
+|align=center | 2:00
+|-
+|align=center | SJ
+|align=center | [[Joe Pavelski]] 
+|align=center | Tripping
+|align=center | 18:52
+|align=center | 2:00
+|-
+|align=center | SJ
+|align=center | [[Joe Thornton]]
+|align=center | Roughing
+|align=center | 18:52
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Evgeni Malkin]]
+|align=center | Slashing
+|align=center | 18:52
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2" | '''3rd'''
+|align=center | SJ
+|align=center | [[Patrick Marleau]]
+|align=center | Illegal check to head
+|align=center | 4:47
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ben Lovejoy]]
+|align=center | Hooking
+|align=center | 17:51
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 4 || align=center | 13 || align=center | 9 || align=center | 26
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 15 || align=center | 8 || align=center | 18 || align=center | 41
+|}
+
+===Game two===
+{{NHLPlayoffs
+|date1= June 1
+|team1= San Jose Sharks
+|team2= Pittsburgh Penguins
+|stadium1= [[Consol Energy Center]]
+|score1= 1–2
+|ot1= 1
+|won1= 2
+|recap1= www.nhl.com/news/penguins-sharks-game-2-recap-stanley-cup-final/c-280861242
+}}
+[[File:Conor_Sheary_2016-04-28_1.JPG|thumb|right|upright=.8|[[Conor Sheary]] scored the game-winning goal in overtime of game two.]]
+Game two began with a scoreless first period which featured 11 Penguins shots and only six from the Sharks. Midway through the second period, a series of San Jose miscues led to a Pittsburgh goal. After [[Roman Polák|Roman Polak]] nearly gave the puck away to [[Phil Kessel]], [[Brenden Dillon]] was stripped by [[Carl Hagelin]], who gave it to [[Nick Bonino]] for a tip-in by Kessel. The Sharks tied the game late in the third on a goal by [[Justin Braun (ice hockey)|Justin Braun]], which sent the game into overtime. Early in overtime, a quick shot by [[Conor Sheary]] beat [[Martin Jones (ice hockey)|Martin Jones]] to give the Penguins a 2–1 win and 2–0 series lead.<ref>{{cite web|last=Crosby|first=Wes|title=Penguins win Game 2 against Sharks in overtime|url=https://www.nhl.com/news/penguins-sharks-game-2-recap-stanley-cup-final/c-280861242?tid=280014400|publisher=NHL Enterprise, L.P.|date=June 1, 2016|website=NHL.com|accessdate=June 1, 2016|location=Pittsburgh}}</ref><ref>{{cite web|last=Graves|first=Will|title=Penguins edge Sharks 2-1, take 2-0 lead in Stanley Cup Final|url=http://bigstory.ap.org/article/cc927227b5eb4f82826f7f692e7e2cae/penguins-edge-sharks-2-1-ot-take-2-0-lead-cup-final|accessdate=June 2, 2016|publisher=The Associated Press|website=APNews.com|date=June 2, 2016|location=[[Pittsburgh]]}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- 
+| style="text-align:center;" | '''1st'''
+| colspan="5" align=center | ''None''
+|-
+| style="text-align:center;" | '''2nd''' 
+|align=center | PIT
+|align=center | [[Phil Kessel]] (10)
+|align=center | [[Nick Bonino]] (13) and [[Carl Hagelin]] (9)
+|align=center | 8:20
+|align=center | 1–0 PIT
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | SJ
+|align=center | [[Justin Braun (ice hockey)|Justin Braun]] (1)
+|align=center | [[Logan Couture]] (18) and [[Joel Ward (ice hockey)|Joel Ward]] (6)
+|align=center | 15:55
+|align=center | 1–1
+|-
+| style="text-align:center;" | '''OT'''
+|align=center | PIT
+|align=center | [[Conor Sheary]] (4)
+|align=center | [[Kris Letang]] (10) and [[Sidney Crosby]] (11)
+|align=center | 2:35
+|align=center | 2–1 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+|align=center | SJ
+|align=center | [[Paul Martin (ice hockey)|Paul Martin]]
+|align=center | Delay of game (puck over glass)
+|align=center | 12:09
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | SJ
+|align=center | Paul Martin
+|align=center | High-sticking
+|align=center | 8:50
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ian Cole]]
+|align=center | Interference
+|align=center | 18:49
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+|- style="text-align:center;"
+|| '''OT'''
+|colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 6 || align=center | 5 || align=center | 9 || align=center | 2 || align=center | 22
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 11 || align=center | 12 || align=center | 6 || align=center | 1 || align=center | 30
+|}
+
+===Game three===
+{{NHLPlayoffs
+|date1= June 4
+|team1= Pittsburgh Penguins
+|team2= San Jose Sharks
+|stadium1= [[SAP Center]]
+|score1= 2–3
+|ot1= 1
+|won1= 2
+|recap1= www.nhl.com/news/penguins-sharks-stanley-cup-final-game-3-recap/c-280888004
+}}
+[[File:Joonas_Donskoi_Sharks.jpg|thumb|right|upright=.8|[[Joonas Donskoi]] scored the game-winning goal in overtime of game three.]]
+[[Ben Lovejoy]] started off the scoring in game three at 5:29 of the first period, when his point shot deflected in off Roman Polak. The Sharks tied it at 9:34 on a [[Justin Braun (ice hockey)|Justin Braun]] goal. Midway through the second period, the Penguins took the lead back when [[Patric Hörnqvist|Patric Hornqvist]] tipped in another Lovejoy point shot. In the third period, Nick Bonino high-sticked Joe Thornton, and in the dying seconds of the four-minute power play, [[Joel Ward (ice hockey)|Joel Ward]] fired a slap shot past [[Matt Murray (ice hockey, born 1994)|Matt Murray]] to tie the game. In overtime, [[Joonas Donskoi]] roofed a tough-angle shot over Murray's shoulder for the game winner.<ref>{{cite web|url=https://www.nhl.com/news/penguins-sharks-stanley-cup-final-game-3-recap/c-280888004|title=Sharks win Game 3 in OT, first of Cup Final|last=Gilmore|first=Eric|publisher=NHL Enterprise, L.P.|date=June 4, 2016|website=NHL.com|accessdate=June 4, 2016|location=[[San Jose, California|San Jose]]}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | PIT
+|align=center | [[Ben Lovejoy]] (2)
+|align=center | ''Unassisted''
+|align=center | 5:29
+|align=center | 1–0 PIT
+|-
+|align=center | SJ
+|align=center | [[Justin Braun (ice hockey)|Justin Braun]] (2)
+|align=center | [[Joe Thornton]] (16) and [[Marc-Édouard Vlasic|Marc-Edouard Vlasic]] (11)
+|align=center | 9:34
+|align=center | 1–1
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|align=center | PIT
+|align=center | [[Patric Hörnqvist|Patric Hornqvist]] (8)
+|align=center | [[Ben Lovejoy]] (4) and [[Olli Määttä|Olli Maatta]] (6)
+|align=center | 19:07
+|align=center | 2–1 PIT
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | SJ
+|align=center | [[Joel Ward (ice hockey)|Joel Ward]] (7)
+|align=center | [[Joonas Donskoi]] (6) and [[Joe Thornton]] (17)
+|align=center | 8:48
+|align=center | 2–2
+|-
+| style="text-align:center;" | '''OT'''
+|align=center | SJ
+|align=center | [[Joonas Donskoi]] (6)
+|align=center | [[Chris Tierney (ice hockey)|Chris Tierney]] (3)
+|align=center | 12:18
+|align=center | 3–2 SJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+|align=center | SJ
+|align=center | Joel Ward
+|align=center | High-sticking
+|align=center | 2:58
+|align=center | 2:00
+|-
+| style="text-align:center;"| '''2nd'''
+|align=center | PIT
+|align=center | [[Carl Hagelin]]
+|align=center | Tripping
+|align=center | 10:39
+|align=center | 2:00
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | PIT
+|align=center | [[Nick Bonino]]
+|align=center | High-sticking – double minor
+|align=center | 4:48
+|align=center | 4:00
+|-
+|- style="text-align:center;"
+|| '''OT'''
+|colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 14 || align=center | 6 || align=center | 13 || align=center | 9 || align=center | 42
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 6 || align=center | 9 || align=center | 7 || align=center | 4 || align=center | 26
+|}
+
+===Game four===
+{{NHLPlayoffs
+|date1= June 6
+|team1= Pittsburgh Penguins
+|team2= San Jose Sharks
+|stadium1= [[SAP Center]]
+|score1= 3–1
+|won1= 1
+|recap1= www.nhl.com/news/penguins-win-stanley-cup-final-game-4/c-280902276
+}}
+[[File:Matt_Murray_2016-04-28_1.JPG|thumb|right|upright|[[Matt Murray (ice hockey, born 1994)|Matt Murray]] saved 23 of 24 shots faced in game four.]]
+At 7:36 of the first period, Phil Kessel took advantage of a poor Sharks line change and fired a shot that rebounded off Martin Jones and directly to [[Ian Cole]], who scored his first playoff goal. This marked the seventh consecutive game in which the Penguins had scored first. In the second period, Sharks forward [[Melker Karlsson]] was called for interference against [[Eric Fehr]], and on the ensuing power play, [[Evgeni Malkin]] tipped in a Kessel shot for the Penguins' second goal. During the third period, Karlsson scored to cut the deficit to one, but the Penguins regained a two-goal lead with 2:02 left when [[Eric Fehr]] beat Jones on a breakaway.<ref>{{cite web|url=https://www.nhl.com/news/penguins-win-stanley-cup-final-game-4/c-280902276|title=Penguins win Game 4, one victory from Stanley Cup|last=Roarke|first=Shawn P.|publisher=NHL Enterprise, L.P.|date=June 6, 2016|website=NHL.com|accessdate=June 6, 2016|location=San Jose}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" | '''1st'''
+|align=center | PIT
+|align=center | [[Ian Cole]] (1)
+|align=center | [[Phil Kessel]] (10) and [[Evgeni Malkin]] (12)
+|align=center | 7:36
+|align=center | 1–0 PIT
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|align=center | PIT
+|align=center | [[Evgeni Malkin]] (5) - ''pp''
+|align=center | Phil Kessel (11) and [[Kris Letang]] (11)
+|align=center | 2:37
+|align=center | 2–0 PIT
+|-
+| style="text-align:center;" rowspan="2"| '''3rd'''
+|align=center | SJ
+|align=center | [[Melker Karlsson]] (4)
+|align=center | [[Chris Tierney (ice hockey)|Chris Tierney]] (4) and [[Brenden Dillon]] (1)
+|align=center | 8:07
+|align=center | 2–1 PIT
+|-
+|align=center | PIT
+|align=center | [[Eric Fehr]] (3)
+|align=center | [[Carl Hagelin]] (10) and [[Olli Määttä|Olli Maatta]] (7)
+|align=center | 17:58
+|align=center | 3–1 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | SJ
+|align=center | [[Marc-Édouard Vlasic|Marc-Edouard Vlasic]]
+|align=center | Interference
+|align=center | 11:37
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Ben Lovejoy]]
+|align=center | Holding the stick
+|align=center | 14:45
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | SJ
+|align=center | Melker Karlsson
+|align=center | Interference
+|align=center | 2:28
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Bryan Rust]]
+|align=center | Hooking
+|align=center | 17:33
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5" |''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 6 || align=center | 7 || align=center | 7 || align=center | 20
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 8 || align=center | 4 || align=center | 12 || align=center | 24
+|}
+
+===Game five===
+{{NHLPlayoffs
+|date1= June 9
+|team1= San Jose Sharks
+|team2= Pittsburgh Penguins
+|stadium1= [[Consol Energy Center]]
+|score1= 4–2
+|won1= 1
+|recap1= www.nhl.com/news/sharks-penguins-stanley-cup-final-game-5-recap/c-280926468
+}}
+[[File:Logan_Couture_2016.jpg|thumb|right|upright|[[Logan Couture]] scored three points in game five, adding to his playoff-leading 30-point campaign.]]
+Game five started with four goals scored in the first 5:06 of the game. [[Brent Burns]] gave the Sharks their first lead of the Finals at 1:04, slipping it past Murray on the right post. San Jose scored again at 2:53, when [[Logan Couture]] deflected in a shot from [[Justin Braun (ice hockey)|Justin Braun]]. Less than two minutes later, Sharks forward [[Dainius Zubrus]] got called for delay of game after shooting the puck over the glass. On the ensuing power play, a Malkin shot deflected off Braun's skate and past Jones, cutting the deficit to 2–1. Less than a minute later, [[Brenden Dillon]] gave away the puck to [[Nick Bonino]], who took a shot that was deflected in by [[Carl Hagelin]]. Later in the first period, during a Pittsburgh power play, a [[Phil Kessel]] wrist shot bounced off both posts but stayed out. Later in the period, Dillon passed down low for Couture who sauced a backhand pass to Karlsson, who scored to regain the lead for the Sharks. San Jose took just 15 shots in the second and third period combined, but Jones withstood a massive 46 shots from the Penguins to stave off elimination. [[Joe Pavelski]] provided an empty-net goal to force a sixth game.<ref>{{cite web|url=https://www.nhl.com/news/sharks-penguins-stanley-cup-final-game-5-recap/c-280926468|title=Sharks win Game 5, keep Penguins from Stanley Cup|last=Crosby|first=Wes|publisher=NHL Enterprise, L.P|date=June 9, 2016|website=NHL.com|accessdate=June 9, 2016|location=Pittsburgh}}</ref>
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | SJ
+|align=center | [[Brent Burns]] (7)
+|align=center | [[Melker Karlsson]] (2) and [[Logan Couture]] (19)
+|align=center | 1:04
+|align=center | 1–0 SJ
+|-
+|align=center | SJ
+|align=center | Logan Couture (9)
+|align=center | [[Justin Braun (ice hockey)|Justin Braun]] (5)
+|align=center | 2:53
+|align=center | 2–0 SJ
+|-
+|align=center | PIT
+|align=center | [[Evgeni Malkin]] (6) – ''pp''
+|align=center | [[Phil Kessel]] (12) and [[Kris Letang]] (12)
+|align=center | 4:44
+|align=center | 2–1 SJ
+|-
+|align=center | PIT
+|align=center | [[Carl Hagelin]] (6)
+|align=center | [[Nick Bonino]] (14)
+|align=center | 5:06
+|align=center | 2–2
+|-
+|align=center | SJ
+|align=center | Melker Karlsson (5)
+|align=center | Logan Couture (20) and [[Brenden Dillon]] (2)
+|align=center | 14:47
+|align=center | 3–2 SJ
+|-
+|- style="text-align:center;"
+|| '''2nd''' 
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" | '''3rd'''
+|align=center | SJ
+|align=center | [[Joe Pavelski]] (14) – ''en''
+|align=center | [[Joe Thornton]] (18)
+|align=center | 18:40
+|align=center | 4–2 SJ
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | SJ
+|align=center | [[Danius Zubrus]]
+|align=center | Delay of game (puck over glass)
+|align=center | 4:21
+|align=center | 2:00
+|-
+|align=center | SJ
+|align=center | Brent Burns
+|align=center | High-sticking
+|align=center | 8:18
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | PIT
+|align=center | Bench (served by Phil Kessel)
+|align=center | Too many men on the ice
+|align=center | 5:58
+|align=center | 2:00
+|-
+|align=center | SJ
+|align=center | Melker Karlsson
+|align=center | Slashing
+|align=center | 10:30
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+|align=center | PIT
+|align=center | Carl Hagelin
+|align=center | Hooking
+|align=center | 14:04
+|align=center | 2:00
+|-
+|align=center | PIT
+|align=center | [[Sidney Crosby]]
+|align=center | Roughing
+|align=center | 19:56
+|align=center | 2:00
+|-
+|align=center | SJ
+|align=center | Melker Karlsson
+|align=center | Roughing
+|align=center | 19:56
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 7 || align=center | 8 || align=center | 7 || align=center | 22
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 15 || align=center | 17 || align=center | 14 || align=center | 46
+|}
+
+===Game six===
+{{NHLPlayoffs
+|date1= June 12
+|team1= Pittsburgh Penguins
+|team2= San Jose Sharks
+|stadium1= [[SAP Center]]
+|score1 = 3–1
+|won1 = 1
+|recap1= www.nhl.com/news/penguins-win-stanley-cup/c-280948494
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=LHgMLRpkLZ4 Game 6 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+[[File:Kris_Letang_2017-06-11_1.jpg|thumb|right|upright=.8|[[Kris Letang]] scored the [[Stanley Cup]]-clinching goal in game six.]]
+A power play drive from [[Brian Dumoulin]] started the scoring early in game six. During the first intermission, a tribute to [[Gordie Howe]] was played, as he died on June 10. San Jose tied it up in the second period when Logan Couture took a pass from Melker Karlsson and fired a shot past Murray. Just over a minute later, Pittsburgh regained the lead when a shot by [[Kris Letang]] ricocheted off Martin Jones and in. Despite facing elimination on home ice, the Sharks managed only two shots on goal in the third period, and an empty-net goal from Patric Hornqvist sealed the win for Pittsburgh. The Penguins won the fourth Stanley Cup in franchise history, clinching all four on the road.<ref name="NHL game 6 summary">{{cite web|url=https://www.nhl.com/news/penguins-win-stanley-cup/c-280948494?tid=280838292|title=Penguins win Stanley Cup, defeat Sharks in Game 6|publisher=NHL Enterprises, L. P.|date=June 12, 2016|accessdate=June 13, 2016|author=Gilmore, Eric}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-
+| style="text-align:center;"| '''1st'''
+| align=center | PIT
+| align=center | [[Brian Dumoulin]] (2) – ''pp''
+| align=center | [[Justin Schultz]] (4) and [[Chris Kunitz]] (8)
+| align=center | 8:16
+| align=center | 1–0 PIT
+|-
+| style="text-align:center;" rowspan="2"| '''2nd''' 
+| align=center | SJ
+| align=center | [[Logan Couture]] (10)
+| align=center | [[Melker Karlsson]] (3) and [[Brent Burns]] (17)
+| align=center | 6:27
+| align=center | 1–1
+|-
+| align=center | PIT
+| align=center | [[Kris Letang]] (3)
+| align=center | [[Sidney Crosby]] (12) and [[Conor Sheary]] (6)
+| align=center | 7:46
+| align=center | 2–1 PIT
+|-
+| style="text-align:center;" | '''3rd'''
+| align=center | PIT
+| align=center | [[Patric Hörnqvist|Patric Hornqvist]] (9) – ''en''
+| align=center | [[Sidney Crosby]] (13)
+| align=center | 18:58
+| align=center | 3–1 PIT
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;"| '''1st'''
+| align=center | SJ
+| align=center | [[Dainius Zubrus]]
+| align=center | Tripping
+| align=center | 7:50
+| align=center | 2:00
+|-
+|- style="text-align:center;" 
+| '''2nd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="3"| '''3rd'''
+| align=center | PIT
+| align=center | Conor Sheary
+| align=center | Hooking
+| align=center | 5:26
+| align=center | 2:00
+|-
+| align=center | SJ
+| align=center | Brent Burns
+| align=center | Slashing
+| align=center | 11:02
+| align=center | 2:00
+|-
+| align=center | PIT
+| align=center | [[Eric Fehr]]
+| align=center | High-sticking
+| align=center | 19:50
+| align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Pittsburgh}} || align=center | 9 || align=center |11 || align=center | 7 || align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|San Jose}} || align=center | 4 || align=center | 13 || align=center | 2 || align=center | 19
+|}
+
+==Team rosters==
+===Pittsburgh Penguins===
+[[File:Crosby2.jpg|thumb|right|300px|[[Sidney Crosby]] captained the Penguins to their second Stanley Cup championship and third Finals appearance in nine seasons]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+|- style="background:#eeeeee; text-align:center"
+| '''19'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Beau|Bennett}}
+| RW
+| R
+| {{hs|24–182}}24
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Gardena, California]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''13'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Nick|Bonino}}
+| C
+| L
+| {{hs|28–037}}28
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Hartford, Connecticut]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''28'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ian|Cole}}
+| D
+| L
+| {{hs|27–096}}27
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Ann Arbor, Michigan]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''87'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Sidney|Crosby}}&nbsp;– '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{hs|28–294}}28
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Cole Harbour, Nova Scotia]]
+| align="left" | third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''7'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Matt|Cullen}}
+| C
+| L
+| {{hs|39–207}}39
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Virginia, Minnesota]]
+| align="left" | second {{small|('''[[2006 Stanley Cup Final|2006]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''6'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Trevor|Daley}}
+| D
+| L
+| {{hs|32–231}}32
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Toronto|Toronto, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''8'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Brian|Dumoulin}}
+| D
+| L
+| {{hs|24–264}}24
+| [[2012–13 NHL season|2012]]
+| align="left" | [[Biddeford, Maine]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''16'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Eric|Fehr}}
+| C/RW
+| R
+| {{hs|30–263}}30
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Winkler, Manitoba]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''29'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Marc-Andre|Fleury|Marc-André Fleury}}
+| G
+| L
+| {{hs|31–181}}31
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[Sorel-Tracy|Sorel-Tracy, Quebec]]
+| align="left" | third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''62'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Carl|Hagelin}}
+| LW
+| L
+| {{hs|27–278}}27
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Södertälje|Södertälje, Sweden]]
+| align="left" | second {{small|([[2014 Stanley Cup Final|2014]])}}
+|- style="background:#eeeeee; text-align:center"
+| '''72'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Patric|Hornqvist|Patric Hörnqvist}}
+| RW
+| R
+| {{hs|29–147}}27
+| [[2014–15 NHL season|2014]]
+| align="left" | [[Sollentuna Municipality|Sollentuna, Sweden]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''81'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Phil|Kessel}}
+| RW
+| R
+| {{hs|28–238}}28
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Madison, Wisconsin]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''34'''
+| {{flagicon|GER}}
+| align="left" | {{sortname|Tom|Kuhnhackl|Tom Kühnhackl}}
+| LW
+| L
+| {{hs|24–127}}24
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Landshut|Landshut, Germany]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''14'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chris|Kunitz}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{hs|36–244}}36
+| [[2008–09 NHL season|2009]]
+| align="left" | [[Regina, Saskatchewan]]
+| align="left" | third {{small|('''[[2007 Stanley Cup Final|2007]]''', '''[[2009 Stanley Cup Final|2009]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''58'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Kris|Letang}}
+| D
+| R
+| {{hs|29–033}}29
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Montreal|Montreal, Quebec]]
+| align="left" | third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''12'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Ben|Lovejoy}}
+| D
+| R
+| {{hs|32–097}}32
+| [[2014–15 NHL season|2015]]
+| align="left" | [[Concord, New Hampshire]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''3'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Olli|Maatta|Olli Määttä}}
+| D
+| L
+| {{hs|21–279}}21
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Jyväskylä|Jyväskylä, Finland]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''71'''
+| {{flagicon|RUS}}
+| align="left" | {{sortname|Evgeni|Malkin}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|29–301}}29
+| [[2004 NHL Entry Draft|2004]]
+| align="left" | [[Magnitogorsk|Magnitogorsk, Soviet Union]]
+| align="left" | third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''30'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Matt|Murray|dab=ice hockey, born 1994}}
+| G
+| L
+| {{hs|22–002}}22
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Thunder Bay|Thunder Bay, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''51'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Derrick|Pouliot}}
+| D
+| L
+| {{hs|22–132}}22
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Estevan|Estevan, Saskatchewan]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''17'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Bryan|Rust}}
+| RW
+| R
+| {{hs|24–016}}24
+| [[2010 NHL Entry Draft|2010]]
+| align="left" | [[Pontiac, Michigan]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''4'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Justin|Schultz}}
+| D
+| R
+| {{hs|25–326}}25
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Kelowna|Kelowna, British Columbia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''43'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Conor|Sheary}}
+| LW
+| L
+| {{hs|23–354}}23
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Melrose, Massachusetts]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''40'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Oskar|Sundqvist}}
+| C/RW
+| R
+| {{hs|22–065}}22
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Boden, Sweden]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''37'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Jeff|Zatkoff}}
+| G
+| L
+| {{hs|28–353}}28
+| [[2011–12 NHL season|2012]]
+| align="left" | [[Detroit|Detroit, Michigan]]
+| align="left" | first
+|}
+
+===San Jose Sharks===
+[[File:Joe_Pavelski.jpg|thumb|right|250px|[[Joe Pavelski]] captained the Sharks to their first [[Stanley Cup Final]] appearance in franchise history.]]
+{| class="sortable wikitable"
+|-style="text-align:center;"
+|- style="background:#dddddd;"
+! | #
+! | [[Nationality|Nat]]
+! | Player
+! | Position
+! | Hand
+! | Age
+! | Acquired
+! class="unsortable" | Place of birth
+! class="unsortable" | Finals appearance
+|- style="background:#eeeeee; text-align:center"
+| '''61'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Justin|Braun|dab=ice hockey}}
+| D
+| R
+| {{hs|29–106}}29
+| [[2007 NHL Entry Draft|2007]]
+| align="left" | [[Saint Paul, Minnesota|St. Paul, Minnesota]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''88'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brent|Burns}}
+| D
+| R
+| {{hs|31–078}}31
+| [[2011–12 NHL season|2011]]
+| align="left" | [[Barrie|Barrie, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''39'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Logan|Couture}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|27–059}}27
+| [[2007 NHL Entry Draft|2007]]
+| align="left" | [[Guelph|Guelph, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''4'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Brenden|Dillon}}
+| D
+| L
+| {{hs|25–195}}25
+| [[2014–15 NHL season|2014]]
+| align="left" | [[New Westminster|New Westminster, British Columbia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''27'''
+| {{flagicon|FIN}}
+| align="left" | {{sortname|Joonas|Donskoi}}
+| RW
+| R
+| {{hs|24–043}}24
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Raahe|Raahe, Finland]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''89'''
+| {{flagicon|CAN}}
+| scope="row" style="text-align:left;"|{{sortname|Barclay|Goodrow}}
+| RW
+| L
+| {{hs|23–107}}23
+| [[2014–15 NHL season|2014]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''48'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Tomas|Hertl|Tomáš Hertl}}
+| LW
+| L
+| {{hs|22–196}}22
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Prague|Prague, Czech Republic]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''31'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Martin|Jones|dab=ice hockey}}
+| G
+| L
+| {{hs|26–137}}26
+| [[2014–15 NHL season|2015]]
+| align="left" | [[North Vancouver (city)|North Vancouver, British Columbia]]
+| align="left" | second {{small|('''[[2014 Stanley Cup Final|2014]]''')}}
+|- style="background:#eeeeee; text-align:center"
+| '''68'''
+| {{flagicon|SWE}}
+| align="left" | {{sortname|Melker|Karlsson}}
+| C/RW
+| R
+| {{hs|25–313}}25
+| [[2013–14 NHL season|2014]]
+| align="left" | [[Lycksele|Lycksele, Sweden]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''12'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Patrick|Marleau}}
+| LW
+| L
+| {{hs|36–254}}36
+| [[1997 NHL Entry Draft|1997]]
+| align="left" | [[Swift Current|Swift Current, Saskatchewan]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''7'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Paul|Martin|dab=ice hockey}}
+| D
+| L
+| {{hs|35–082}}35
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Elk River, Minnesota]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''83'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Matt|Nieto}}
+| LW
+| L
+| {{hs|23–203}}23
+| [[2011 NHL Entry Draft|2011]]
+| align="left" | [[Long Beach, California]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''8'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Joe|Pavelski}}&nbsp;– '''[[Captain (ice hockey)|C]]'''
+| C/RW
+| R
+| {{hs|31–320}}31
+| [[2003 NHL Entry Draft|2003]]
+| align="left" | [[Plover, Wisconsin]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''46'''
+| {{flagicon|CZE}}
+| align="left" | {{sortname|Roman|Polak|Roman Polák}}
+| D
+| R
+| {{hs|30–028}}30
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Ostrava|Ostrava, Czechoslovakia]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''34'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|James|Reimer}}
+| G
+| L
+| {{hs|28–072}}28
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Morweena, Manitoba]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''16'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Nick|Spaling}}
+| C
+| L
+| {{hs|27–250}}27
+| [[2015–16 NHL season|2016]]
+| align="left" | [[Palmerston, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''19'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Joe|Thornton}}&nbsp;– '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| {{hs|36–329}}36
+| [[2005–06 NHL season|2005]]
+| align="left" | [[London, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''50'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Chris|Tierney|dab=ice hockey}}
+| C
+| L
+| {{hs|21–330}}21
+| [[2012 NHL Entry Draft|2012]]
+| align="left" | [[Keswick, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''44'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Marc-Edouard|Vlasic|Marc-Édouard Vlasic}}
+| D
+| L
+| {{hs|29–057}}29
+| [[2005 NHL Entry Draft|2005]]
+| align="left" | [[Montreal|Montreal, Quebec]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''42'''
+| {{flagicon|CAN}}
+| align="left" | {{sortname|Joel|Ward|dab=ice hockey}}
+| RW
+| R
+| {{hs|35–176}}35
+| [[2015–16 NHL season|2015]]
+| align="left" | [[North York|North York, Ontario]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''57'''
+| {{flagicon|USA}}
+| align="left" | {{sortname|Tommy|Wingels}}
+| RW/C
+| R
+| {{hs|28–044}}28
+| [[2008 NHL Entry Draft|2008]]
+| align="left" | [[Evanston, Illinois]]
+| align="left" | first
+|- style="background:#eeeeee; text-align:center"
+| '''9'''
+| {{flagicon|LTU}}
+| align="left" | {{sortname|Dainius|Zubrus}}
+| C/RW
+| L
+| {{hs|37–345}}37
+| [[2015–16 NHL season|2015]]
+| align="left" | [[Elektrėnai|Elektrėnai, Soviet Union]]
+| align="left" | third {{small|([[1997 Stanley Cup Final|1997]], [[2012 Stanley Cup Final|2012]])}}
+|}
+
+==Stanley Cup engraving==
+[[File:San Jose Sharks and Pittsburgh Penguins shaking hands.jpg|thumb|250px|The Penguins and the Sharks shaking hands after Game 6]]
+The 2016 Stanley Cup was presented to Penguins captain Sidney Crosby by [[NHL Commissioner]] [[Gary Bettman]] following the Penguins' 3–1 win over the Sharks in Game 6.
+
+The following Penguins players and staff had their names engraved on the Stanley Cup
+
+'''2015–16 Pittsburgh Penguins'''
+{{Stanley Cup champion
+|defence=
+*3 [[Olli Määttä|Olli Maatta]]
+*4 [[Justin Schultz]]
+*6 [[Trevor Daley]]
+*8 [[Brian Dumoulin]]
+*12 [[Ben Lovejoy]]
+*28 [[Ian Cole]]
+*58 [[Kris Letang]]
+|wingers= 
+*9 [[Pascal Dupuis]] ‡
+*14 [[Chris Kunitz]] (A)
+*17 [[Bryan Rust]]
+*34 [[Tom Kühnhackl|Tom Kuhnhackl]]
+*43 [[Conor Sheary]]
+*62 [[Carl Hagelin]]
+*72 [[Patric Hörnqvist|Patric Hornqvist]]
+*81 [[Phil Kessel]]
+|centres=
+*7 [[Matt Cullen]] 
+*11 [[Kevin Porter (ice hockey)|Kevin Porter]] †
+*13 [[Nick Bonino]]
+*16 [[Eric Fehr]]*
+*71 [[Evgeni Malkin]] (A)
+*87 [[Sidney Crosby]] (Captain)
+|goaltenders=
+*29 [[Marc-André Fleury|Marc-Andre Fleury]]
+*30 [[Matt Murray (ice hockey, born 1994)|Matt Murray]]
+*37 [[Jeff Zatkoff]] †
+|player-notes=
+* * Played both centre and wing.
+* † Did not play in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Mario Lemieux]] (Chairman/Co-Owner/Alt. Governor),[[Ronald Burkle]] (Co-Owner/Alt. Governor), William Kassling (Co-Owner/Alt. Governor),
+* [[David Morehouse]] (President/Governor), Travis Williams (Chief Operating Officer/Alt. Governor), [[Jim Rutherford]] (Exe. Vice President/General Manager), 
+* [[Jason Botterill]] (Asst. General Manager), [[Bill Guerin]] (Asst. General Manager), Jason Karmanos (Vice President of Hockey Operations), 
+* [[Mark Recchi]] (Player Development Coach), [[Mike Sullivan (ice hockey)|Mike Sullivan]] (Head Coach), [[Jacques Martin (ice hockey)|Jacques Martin]] (Asst. Coach),
+* [[Rick Tocchet]] (Asst. Coach), [[Mike Bales]] (Goaltending Coach), Andy Saucier (Video Coach), 
+* Dr. Dharmesh Vyas (Head Team Physician), Chris Stewart (Athletic Trainer), Curtis Bell (Asst. Athletic Trainer),
+* Patrick Steidle (Asst. Athletic Trainer), Andy O'Brien (Director of Sport Science & Performance), Alex Trinca (Strength & Conditioning Coach),
+* Dana Heinze (Equipment Manager), Ted Richards (Asst. Equipment Manager), Jon Taglianetti (Asst. Equipment Manager), 
+* Jim Britt (Director of Team Operations), Dan MacKinnon (Director of Player Personnel), [[Randy Sexton]] (Director of Amateur Scouting), Derek Clancey (Director of Pro Scouting).}}
+===Engraving notes===
+* #9 [[Pascal Dupuis]] (RW) only played 18 games and forced to retire on Dec. 8 because of several blood clots – given an injury exemption and included on the Stanley Cup.
+* [[Mario Lemieux]] is the only one to have his name engraved on the Stanley Cup for their titles in {{scfy|1991}}, {{scfy|1992}}, {{scfy|2009}} and 2016.
+* Pittsburgh broke the [[1937–38 Chicago Black Hawks season|1938 Chicago Black Hawks]]' record of eight with ten U.S.-born players on a Stanley Cup winning team: Nick Bonino, Ian Cole, Matt Cullen, Brian Dumoulin, Phil Kessel, Ben Lovejoy, Kevin Porter, Bryan Rust, Conor Sheary, and Jeff Zatkoff. An 11th American, Beau Bennett was not included on the cup.
+* Pittsburgh included the head team physician for the first time on the Stanley Cup. In 1991, 1992, and 2009 Dr. Charles Burke was not engraved on the Stanley Cup.
+
+===Player notes===
+* Twelve players on the roster did not have their names engraved on the Stanley Cup due to not qualifying.<ref>[https://www.nhl.com/scores/htmlreports/20152016/RO030416.HTM Playing Roster]</ref> All players listed below received Stanley Cup rings.
+;Included in the team picture, but left off the Stanley Cup
+* #19 [[Beau Bennett]] (RW) – played 33 regular-season games and one playoff game. Bennett missed 48 regular-season games and 15 playoff games due to injury, including the entire Cup Finals, but did play one game in the Conference Finals. No injury exemption was requested.
+* #51 [[Derrick Pouliot]] (D) – played 22 regular season and two playoff games – did not qualify
+* #40 [[Oskar Sundqvist]] (C) – played 18 regular season and two playoff games – did not qualify 
+* #23 [[Scott Wilson (ice hockey)|Scott Wilson]] (LW) – played 24 regular season games – did not qualify
+* #35  [[Tristan Jarry]] (G) – dressed for the first two playoff games, due to Matt Murray, and Marc-Andre Fleury being injured – did not qualify
+
+;Not on Stanley Cup or team picture
+* #41 [[Daniel Sprong]] (RW) – 18 regular season games and none in the playoffs
+* #49 [[Dominik Simon]] (C) – 3 regular season games and none in the playoffs
+* #22 [[Kael Mouillierat]] (LW) – 2 regular season games and none in the playoffs
+* #45 [[Josh Archibald]] (RW) – 1 regular season game and none in the playoffs
+* #39 [[Jean-Sébastien Dea]] (C) – did not play in the regular season or playoffs
+* #44 [[Tim Erixon]] (D) – did not play in the regular season or playoffs
+* #65 [[Steve Oleksy]] (D) – did not play in the regular season or playoffs
+* [[Sergei Gonchar]] (Defense Coach), Danny Kroll (Asst. Equipment Manager)
+* Gilles Meloche was the goaltending coach for Pittsburgh's Cup wins in 1991, 1992, and 2009. His role was changed to Special Assignment Scout, so his name was left off the Stanley Cup in 2016. However, he was awarded his fourth Stanley Cup ring. Other scouts left off the Cup but got rings were pro scouts Al Santili and Ryan Bowness, amateur scouts Colin Alexander, Scott Bell, Brain Fitzgerald, Luc Gauthier, Frank Golden, Jay Heinbuck, Wayne Meier, Ron Pyette, Casey Torres, and Warren Young, and European scouts Patrick Alivin, Petri Pakaslahi, and Tommy Westlund. Many other members of Pittsburgh's staff were also left off the Cup but still received championship rings.
+
+==Television and radio==
+In the U.S., the Final was split between [[NBC]] and [[NBCSN]]. NBCSN aired two games of the series while NBC aired the other five (if necessary).<ref>{{cite press release|url=http://nbcsportsgrouppressbox.com/2016/04/06/dont-miss-a-moment-nbc-sports-group-to-present-every-stanley-cup-playoff-game-for-fifth-consecutive-season/| title=NBC Sports Group to present every Stanley Cup playoff game for fifth consecutive year|publisher=[[NBC Sports]]|date=April 6, 2016|access-date=April 8, 2016|location=[[Stamford, Connecticut]]}}</ref> On May 27, NBC Sports announced that if the series was tied at 1–1 entering game three, then it would have aired on NBC and game four televised on NBCSN. However, if one team led 2–0 (as this eventually happened; Pittsburgh led 2-0), game three moved to NBCSN and then game four on NBC.<ref>{{cite web|title=NBC Sports switches TV schedule for Stanley Cup Final|url=https://www.si.com/nhl/2016/05/27/ap-hkn-stanley-cup-final-tv-schedule|access-date=May 28, 2016|website=[[Sports Illustrated]]|publisher=[[Time Inc.]]|date=May 27, 2016|location=[[New York City]]}}</ref> The games were broadcast nationally on radio via the [[NBC Sports Radio]] network.<ref>{{cite news|last=Thomas|first=Ian|title=NBC Sports Radio Named Terrestrial Partner For '16 Stanley Cup Final|url=http://www.sportsbusinessdaily.com/Daily/Morning-Buzz/2016/05/03/radio.aspx|access-date=May 5, 2016|work=Sports Business Journal|publisher=[[American City Business Journals]]|date=May 3, 2016}}</ref>
+
+In Canada, the series aired on [[CBC Television]] (through ''[[Hockey Night in Canada]]'', as produced by [[NHL on Sportsnet|Sportsnet]] through a brokerage agreement) in [[English language|English]],<ref>{{cite press release|url=http://media.sportsnet.ca/2016/05/the-final-stage-is-set-sportsnet-announces-2016-stanley-cup-final-broadcast-schedule/| title=The Final Stage is Set: Sportsnet Announces 2016 Stanley Cup Final Broadcast Schedule|publisher=[[Sportsnet]]|date=May 26, 2016|access-date=May 30, 2016|location=[[Toronto]]}}</ref> and [[TVA Sports]] in [[French language|French]].<ref name="FinalsSchedule" />
+
+Beginning with this series, the NHL revised the schedule of the Stanley Cup Final. From 2006 to 2015, the Finals typically followed a Monday–Wednesday–Saturday format. However, the NHL decided to alter the format so as to give teams an extra day off upon traveling from one city to another. These two-day layovers took place after Games 2, 4, 5, and 6. The [[National Basketball Association]]'s [[NBA Finals|championship series]] followed a similar format beginning that year as well to avoid head-to-head competition against the NHL's Cup Finals.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+* {{Official website|https://www.nhl.com/stanley-cup-playoffs/2016/penguins-vs-sharks-series-o}}
+
+{{s-start}}
+{{succession box | before = [[2015 Stanley Cup Final|Chicago Blackhawks<br />2015]] | title = [[List of Stanley Cup champions|Pittsburgh Penguins<br />Stanley Cup champions]] | years = 2016 | after = [[2017 Stanley Cup Final|Pittsburgh Penguins<br />2017]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Pittsburgh Penguins}}
+{{San Jose Sharks}}
+{{2015–16 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+}}
+
+<!--Please do ''not'' remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+
+[[Category:2015–16 NHL season|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+[[Category:2016 Stanley Cup| ]]
+[[Category:San Jose Sharks games]]
+[[Category:Pittsburgh Penguins games]]
+[[Category:2016 in sports in California|Stanley Cup Final]]
+[[Category:2016 in sports in Pennsylvania|Stanley Cup Final]]
+[[Category:May 2016 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2016 sports events in the United States|Stanley Cup Final]]
+[[Category:Sports competitions in San Jose, California]]
+[[Category:Ice hockey competitions in Pittsburgh]]
+[[Category:2016 in Pittsburgh]]
+[[Category:Ice hockey competitions in California]]
+[[Category:2010s in San Jose, California]]

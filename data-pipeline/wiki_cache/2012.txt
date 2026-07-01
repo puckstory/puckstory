@@ -1,0 +1,1742 @@
+{{short description|2012 ice hockey championship series}}
+{{pp-move|small=yes}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox Stanley Cup Final
+|year = 2012
+|image = 2012 Stanley Cup Final.png
+|team1 = '''[[2011–12 Los Angeles Kings season|Los Angeles Kings]]'''
+|team1_1 = '''2'''*
+|team1_2 = '''2'''*
+|team1_3 = '''4''' 
+|team1_4 = 1
+|team1_5 = 1
+|team1_6 = '''6'''
+|team1_tot= 4
+|team1_short = Los Angeles
+|team1_coach = [[Darryl Sutter]]
+|team1_captain = [[Dustin Brown (ice hockey)|Dustin Brown]]
+|team1_national_anthem = [[Pia Toscano]]
+|team2 = [[2011–12 New Jersey Devils season|New Jersey Devils]]
+|team2_1 = 1*
+|team2_2 = 1*
+|team2_3 = 0
+|team2_4 = '''3'''
+|team2_5 = '''2'''
+|team2_6 = 1
+|team2_tot = 2
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|team2_short = New Jersey 
+|team2_coach = [[Peter DeBoer]]
+|team2_captain = [[Zach Parise]]
+|team2_national_anthem = [[Arlette Roxburgh]]
+|referees = [[Dan O'Halloran]] (1, 3, 5)<br/> [[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (2, 4, 6)<br/> [[Chris Rooney]] (2, 4, 6)<br/> [[Brad Watson (ice hockey)|Brad Watson]] (1, 3, 5)
+|dates =May 30 – June 11, 2012
+|location1 = [[Los Angeles]]: [[Staples Center]] (3, 4, 6)
+|location2 = [[Newark, New Jersey|Newark]]: [[Prudential Center]] (1, 2, 5)
+|mvp = [[Jonathan Quick]] (Kings)
+|series_winner = [[Jeff Carter]] (12:45, first)
+|hofers = '''Devils:'''<br/>[[Martin Brodeur]] (2018)
+|networks ='''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1–2, 5–6), [[NHL on NBC|NBCSN]] (3–4)
+|net_announcers = (CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br/>(RDS) [[Pierre Houde]] and [[Marc Denis]]<br/>(NBC/NBCSN) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+}}
+The '''2012 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2011–12 NHL season|2011–12 season]], and the culmination of the [[2012 Stanley Cup playoffs]]. The [[Western Conference (NHL)|Western Conference]] playoff champion [[2011–12 Los Angeles Kings season|Los Angeles Kings]] defeated the [[Eastern Conference (NHL)|Eastern Conference]] playoff champion [[2011–12 New Jersey Devils season|New Jersey Devils]] four games to two, capturing the first Stanley Cup title in the team's 45-year history, dealing the Devils just their second Stanley Cup Final defeat in five tries and first since {{scfy|2001}}. Kings goaltender [[Jonathan Quick]] was awarded the [[Conn Smythe Trophy]] as the Most Valuable Player of the playoffs.
+
+The Los Angeles Kings made their second appearance in the Final in franchise history, they lost in their previous appearance to the [[Montreal Canadiens]] in five games in {{scfy|1993}}.<ref>{{cite news |last=Crouse |first=Karen |title=Getting a Hockey Education During the 1993 Finals |url=http://slapshot.blogs.nytimes.com/2012/05/28/getting-a-hockey-education-during-the-1993-finals/ |newspaper=The New York Times |access-date=June 9, 2012 |date=May 28, 2012}}</ref> The New Jersey Devils last appeared in {{scfy|2003}}, when they defeated the then-[[Anaheim Ducks|Mighty Ducks of Anaheim]] in seven games to win their third Stanley Cup title.<ref>{{cite news|last=Sielski|first=Mike|title=The Devils May Be Forced to Change|url=https://www.wsj.com/articles/SB10001424052702303665904577450752323851644?mod=googlenews_wsj|newspaper=Wall Street Journal|access-date=June 9, 2012|date=June 6, 2012}}</ref> It was the first championship series since [[2007 Stanley Cup Final|2007]] whose Stanley Cup-clinching game was played on the winning team's home ice.
+
+The Eastern Conference winner had home ice advantage for the first time since {{scfy|2006}}, since the Devils had a better regular season record than the Kings. The Devils finished the regular season as the sixth seed in the Eastern Conference, making them the lowest-seeded team to have home-ice advantage in the Stanley Cup Final, a record previously held by the Devils when they won the Cup as a fourth seed in {{scfy|2000}}. With the Devils entering the playoffs as the ninth seed of the sixteen playoff teams by regular season record (no division titles) and the Kings as the thirteenth, their combined seed of twenty-two was the second highest of any playoff matchup (only trailing the [[1991 Stanley Cup Final|1991 Cup Final]] with twenty-three), and it was the first playoff matchup with no team seeded better than ninth. The Kings became the first eighth-seeded team in North American sports history to win a championship, as well as the only eighth-seeded team to win the Stanley Cup to date.<ref>{{cite news |url=https://www.latimes.com/archives/la-xpm-2012-jun-11-la-sp-elliott-kings-cup-20120612-story.html|title=L.A.'s new royalty, Kings turn tumult into Stanley Cup triumph|date=June 12, 2012|newspaper=The Los Angeles Times|access-date=June 12, 2012|first=Helene|last=Elliott|page=A1|author-link=Helene Elliott}}</ref><ref>{{cite magazine|url=http://sportsillustrated.cnn.com/2012/writers/michael_farber/06/11/kings.stanley.cup.devils/|title=Crown the Kings: Los Angeles caps unlikely run with first Stanley Cup|date=June 12, 2012|magazine=Sports Illustrated|access-date=June 12, 2012|first=Michael|last=Farber|archive-date=June 16, 2012|archive-url=https://web.archive.org/web/20120616121016/http://sportsillustrated.cnn.com/2012/writers/michael_farber/06/11/kings.stanley.cup.devils/|url-status=dead}}</ref>
+
+==Paths to the Final==
+
+===Los Angeles Kings===
+{{further|2011–12 Los Angeles Kings season}}
+The Los Angeles Kings historically had not fared well in the postseason, having only progressed beyond the second round of the playoffs once in franchise history. There were some highlights in franchise history, such as a dramatic seven-game series loss to the heavily favoured Boston Bruins in 1976, the upset of the top seeded Edmonton Oilers (including the game three [[Miracle on Manchester]]) in 1982, a comeback from a 3–1 series deficit to beat the defending Stanley Cup champion Oilers in 1989, and an upset of a second-seeded [[Detroit Red Wings]] team in [[2001 Stanley Cup playoffs|2001]] often referred to as the "Frenzy on Figueroa."<ref>{{Cite web|url=https://www.nhl.com/kings/news/an-oral-history-of-the-frenzy-on-figueroa-316756016|title=An Oral History of the Frenzy on Figueroa|publisher=National Hockey League |date=April 30, 2020|access-date=June 28, 2024}}</ref> The first time that they advanced to the Western Conference Final was in {{scfy|1993}}, where the Kings defeated the [[Toronto Maple Leafs]] in seven games to reach their first Cup Final in franchise history, where they lost to the [[Montreal Canadiens]] in five games. From 1994 to 2011 the Kings won just one playoff series in 2001 against the aforementioned Red Wings team and coming back from a 3–1 deficit to push the eventual Stanley Cup champion [[Colorado Avalanche]] to seven games.
+
+The Kings started the regular season at 13–12–4 before firing head coach [[Terry Murray]] on December 12, 2011. [[John Stevens (ice hockey)|John Stevens]] served as interim coach before the team hired [[Darryl Sutter]] on December 20. Under Sutter, the Kings finished the season at 95 points. The Kings lost their final two regular season games to fall from first place in the Pacific Division (and the #3 seed in the West) to third place in the division and eighth in the conference. The Kings won only 40 out 82 games, and with 95 points became the first losing record team to finish the season with more than 90 points.
+
+The Kings then went on to become the second team to eliminate the first, second and third seeds from the playoffs in the same postseason (and the first team to do so in that order), after the [[2003–04 Calgary Flames season|2003–04 Calgary Flames]], also coached by Darryl Sutter, eliminating the back-to-back [[Presidents' Trophy]]-winning [[Vancouver Canucks]] in five games, the second-seeded [[St. Louis Blues]] in a four game sweep, and the third-seeded [[Phoenix Coyotes]] in five games. In addition, the Kings went a perfect 8–0 on the road in these playoff games and the first team to go undefeated while en route to the Final.<ref>{{cite web|url=https://www.nbclosangeles.com/news/local/los-angeles-kings-phoenix-coyotes-game-5-stanley-cup-western-conference-finals/1923168/ |title=Kings Beat Coyotes 4-3|date=May 22, 2012|access-date=June 12, 2023|first=Jason|last=Kandel|publisher=NBC Los Angeles}}</ref>
+
+[[File:2012 Stanley Cup Parade 01.jpg|thumb|right|275px|The Kings' 2012 Stanley Cup victory parade in downtown Los Angeles.]]
+The Kings became the second eighth seed to reach the Final, following the [[Edmonton Oilers]] in {{scfy|2006}} (the Oilers lost out to the [[Carolina Hurricanes]] in seven games). Kings players [[Jarret Stoll]] and [[Matt Greene]] were part of that Oilers team in 2006, while teammate [[Justin Williams]] played for the Cup-winning Hurricanes.<ref>{{cite web |last=Hammond|first=Rich|title=Six years later, Greene and Stoll are back|url=https://www.nhl.com/kings/news/six-years-later-greene-and-stoll-are-back/c-632807|publisher=National Hockey League|access-date=June 12, 2023|date=May 25, 2012}}</ref>
+
+===New Jersey Devils===
+{{further|2011–12 New Jersey Devils season}}
+The Devils started the season having missed the playoffs in the 2010–11 season for the first time since 1995–96 season, breaking a 13-year consecutive postseason appearance streak. This was the Devils' first season under head coach [[Peter DeBoer]], who replaced the retiring [[Jacques Lemaire]] during the offseason. Under DeBoer, New Jersey finished the regular season with 102 points, but ended up with the sixth seed in the Eastern Conference playoffs.
+
+The Devils eliminated DeBoer's former team, the Southeast division-winning [[Florida Panthers]], in seven games, and two of their [[Atlantic Division (NHL)|division rival]]s, first the fifth-seeded [[Philadelphia Flyers]] in five games, and the first-seeded [[New York Rangers]] in six games.
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|team1= Los Angeles Kings
+|team2= New Jersey Devils
+|stadium1= [[Prudential Center]]
+|date1= May 30
+|score1= 2–1
+|ot1=1
+|won1=1
+|recap1 = www.nhl.com/gamecenter/lak-vs-njd/2012/05/30/2011030411
+}}
+
+Los Angeles scored first on [[Colin Fraser (ice hockey)|Colin Fraser]]'s goal at 9:56 of the first period. The Kings then held the Devils without a shot on goal for the first 14 minutes of the second period, but could not increase their lead.<ref>{{cite news|url=https://www.latimes.com/sports/la-xpm-2012-may-30-la-sp-sn-stanley-cup-final-kings-defeat-devils-21-20120530-story.html |title=Kings' Fraser strikes first with his first playoff goal|last=Foster|first=Chris|newspaper=Los Angeles Times|date=May 31, 2012|page=V3|access-date=June 12, 2023}}</ref> The Devils tied the game at 18:48 of the second period when [[Anton Volchenkov]]'s shot bounced off of Kings defenceman [[Slava Voynov]] and into the Los Angeles net.<ref>{{cite news|url=https://www.latimes.com/sports/la-xpm-2012-may-30-la-sp-elliott-kings-devils-20120531-story.html |title=Anze Kopitar in right place at the right time for Kings|last=Elliott|first=Helene|newspaper=Los Angeles Times|date=May 31, 2012|page=V1|author-link=Helene Elliott |access-date=June 12, 2023}}</ref> At 3:58 of the third period, a Devils goal was waved off when [[Zach Parise]] illegally pushed the puck with his hand over the Kings goal line. [[Anže Kopitar|Anze Kopitar]] beat [[Martin Brodeur]] on a breakaway goal 8:13 into overtime to give the Kings a 2–1 win in game one.
+
+With the win, the Kings became the first team to win their first nine road games in a single postseason.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| rowspan="1"| '''1st'''
+|| LAK
+|| [[Colin Fraser (ice hockey)|Colin Fraser]] (1)
+|| [[Jordan Nolan]] (1)
+|| 09:56
+|| 1–0 LAK
+|- style="text-align:center;"
+| rowspan="1"| '''2nd'''
+|| NJD
+|| [[Anton Volchenkov]] (1)
+|| [[Patrik Eliáš|Patrik Elias]] (3) and [[David Clarkson (ice hockey)|David Clarkson]] (8)
+|| 18:48
+|| 1–1
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| rowspan="1"| '''OT'''
+|| LAK
+|| [[Anže Kopitar|Anze Kopitar]] (7)
+|| [[Justin Williams]] (10) and [[Drew Doughty]] (9)
+|| 08:13
+|| 2–1 LAK
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;" 
+| rowspan="1"| '''1st'''
+|| LAK
+|| [[Dustin Brown (ice hockey)|Dustin Brown]]
+|| Goaltender interference
+|| 12:19
+|| 2:00
+|-style="text-align:center;" 
+|rowspan="2" | '''2nd'''
+|| LAK
+|| [[Jarret Stoll]]
+|| Tripping
+|| 08:31
+|| 2:00
+|-style="text-align:center;" 
+|| NJD
+|| [[Dainius Zubrus]]
+|| Elbowing
+|| 13:23
+|| 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|-
+|- style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 5 || 9 || 8 || 3 || 25
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 5 || 4 || 7 || 2 || 18
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1= Los Angeles Kings
+|team2= New Jersey Devils
+|stadium1= [[Prudential Center]]
+|date1= June 2
+|score1= 2–1
+|ot1=1
+|won1=1
+|recap1 = www.nhl.com/gamecenter/lak-vs-njd/2012/06/02/2011030412
+}}
+
+The Kings extended their 2012 playoff road winning streak to ten with another 2–1 overtime victory. This time, it was [[Jeff Carter]] who scored at 13:42 of the extra period. After Carter's initial shot from the right side was stopped, he then went around the net to grab the puck on the other side and then made a shot through traffic that beat Martin Brodeur. Los Angeles scored first on [[Drew Doughty]]'s unassisted goal at 7:49 of the first period. The Devils tied the game at 2:59 of the third period when [[Ryan Carter]] deflected [[Marek Židlický|Marek Zidlicky]]'s shot into the Kings' net. Neither team could take advantage of their power plays, nor on a 4-on-4 late in the third period. Both teams had more shots than game one; Jonathan Quick made 32 out of 33 saves, while Brodeur made 30 out of 32.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| rowspan="1"| '''1st'''
+|| LAK
+|| [[Drew Doughty]] (3)
+|| ''Unassisted''
+|| 07:49
+|| 1–0 LAK
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| rowspan="1"| '''3rd'''
+|| NJD
+|| [[Ryan Carter]] (5)
+|| [[Marek Židlický|Marek Zidlicky]] (8) and [[Steve Bernier]] (5)
+|| 02:59
+|| 1–1
+|- style="text-align:center;"
+| rowspan="1"| '''OT'''
+|| LAK
+|| [[Jeff Carter]] (5)
+|| [[Dustin Penner]] (8) and [[Alec Martinez]] (2)
+|| 13:42
+|| 2–1 LAK
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="2" | '''1st'''
+|| LAK
+|| [[Matt Greene]]
+|| Cross Checking
+|| 02:54
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Willie Mitchell (ice hockey)|Willie Mitchell]]
+|| Cross-checking
+|| 07:56
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2" | '''2nd'''
+|| NJD
+|| [[Andy Greene]]
+|| Tripping
+|| 09:29
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Dwight King]]
+|| High-sticking
+|| 13:38
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2" | '''3rd'''
+|| NJD
+|| [[Dainius Zubrus]]
+|| Interference
+|| 16:55
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| Drew Doughty
+|| Hooking
+|| 17:46
+|| 2:00
+|-style="text-align:center;"
+|| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 6 || 9 || 6 || 11 || 32
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 11 || 9 || 10 || 3 || 33
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1= New Jersey Devils
+|team2= Los Angeles Kings
+|stadium1= [[Staples Center]]
+|date1= June 4
+|score1= 0–4
+|won1=2
+|recap1 = www.nhl.com/gamecenter/njd-vs-lak/2012/06/04/2011030413
+}}
+
+Los Angeles scored four goals, and [[Jonathan Quick]] stopped all 22 New Jersey shots, as the Kings defeated the Devils 4–0. The Kings' first goal at 5:58 of the second period was controversial. Dwight King's original shot against [[Martin Brodeur]] was stopped, but King kept on swiping the puck until [[Alec Martinez]] finally pushed it across the goal line. Brodeur argued that he had the puck covered up just before Martinez's shot, but the officials did not blow the play dead and the goal stood.> The Kings' scored their second goal at 15:07 of the third period when [[Justin Williams]] sent a pass near the boards to [[Dustin Brown (ice hockey)|Dustin Brown]], who then passed to [[Anže Kopitar|Anze Kopitar]] on the other side, who then lifted the puck over Brodeur. In the third period, two New Jersey penalties led to two Los Angeles power play goals. Meanwhile, New Jersey could not score off of Los Angeles' five penalties during the game, including [[Jeff Carter]]'s high-sticking double-minor in the first period that led to a Devils 5 on 3 for about a minute.
+
+This contest also saw the return of Kings' left winger [[Simon Gagné|Simon Gagne]], who had been out of the Los Angeles lineup since December 26, 2011, due to a [[head injury]]. Gagne, who played in the Stanley Cup Final for the second time in three years, took [[Brad Richardson]]'s spot in the lineup. In [[2010 Stanley Cup Final|2010]], Gagne, along with current Kings teammates Mike Richards and Jeff Carter, were members of the [[Philadelphia Flyers]] that lost to the [[Chicago Blackhawks]] in six games.
+
+With the win, the Kings became the first team in NHL history to take a 3–0 series lead in all four rounds of the playoffs.<ref>{{cite web|url=http://www.nhl.com/ice/blogpost.htm?id=9985&navid=DL%7CNHL%7Chome |title=Kings make history, poised to make more|date=June 4, 2012|access-date=June 5, 2012|first=John|last=Kreiser|publisher=National Hockey League}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|rowspan="2" | '''2nd'''
+|| LAK
+|| [[Alec Martinez]] (1)
+|| [[Dwight King]] (1) and [[Trevor Lewis]] (6)
+|| 05:40
+|| 1–0 LAK
+|- style="text-align:center;"
+|| LAK
+|| [[Anže Kopitar|Anze Kopitar]] (8)
+|| [[Dustin Brown (ice hockey)|Dustin Brown]] (10) and [[Justin Williams]] (11)
+|| 15:07
+|| 2–0 LAK
+|- style="text-align:center;"
+| rowspan="2" | '''3rd'''
+|| LAK
+|| [[Jeff Carter]] (6) – ''pp''
+|| [[Mike Richards (ice hockey)|Mike Richards]] (8) and [[Willie Mitchell (ice hockey)|Willie Mitchell]] (2)
+|| 04:15
+|| 3–0 LAK
+|- style="text-align:center;"
+|| LAK
+|| Justin Williams (3) – ''pp''
+|| [[Drew Doughty]] (10) and Anze Kopitar (10) 
+|| 06:47
+|| 4–0 LAK
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+|rowspan="3" | '''1st'''
+|| LAK
+|| Mike Richards
+|| Elbowing
+|| 14:35
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| Jeff Carter
+|| High-sticking – double minor
+|| 15:36
+|| 4:00
+|-style="text-align:center;"
+|| NJD
+|| [[Marek Židlický|Marek Zidlicky]]
+|| Tripping
+|| 16:57
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3" | '''2nd'''
+|| LAK
+|| Anze Kopitar
+|| Holding
+|| 06:16
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Dustin Penner]]
+|| Goaltender Intererence
+|| 09:41
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Simon Gagné|Simon Gagne]]
+|| Slashing
+|| 18:30
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2" | '''3rd'''
+|| NJD
+|| [[Mark Fayne]]
+|| Cross Checking
+|| 03:29
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| Marek Zidlicky
+|| High-sticking
+|| 05:30
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 7 || 9 || 6 || 22
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 6 || 9 || 6 || 21
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1= New Jersey Devils
+|team2= Los Angeles Kings
+|stadium1= [[Staples Center]]
+|date1= June 6
+|score1= 3–1
+|won1=1
+|recap1 = www.nhl.com/gamecenter/njd-vs-lak/2012/06/06/2011030414
+}}
+
+New Jersey avoided being swept for the first time in team history when [[Adam Henrique]] scored at 15:29 of the third period to break a 1–1 tie, and [[Ilya Kovalchuk]] added an empty-netter with 19.1 seconds left, defeating the Kings 3–1, and forcing a fifth game. This marked the third time in this playoffs that the Kings failed to close out a series in game four after winning the first three games. The game remained scoreless until 7:56 of the third period when [[Patrik Eliáš|Patrik Elias]] shot a rebound into the Los Angeles net, giving New Jersey their first lead of the series. This lead was cut short a minute later, as [[David Clarkson (ice hockey)|David Clarkson]] was called for boarding at 8:52, and four seconds later [[Drew Doughty]] tied the game with a power play goal for the Kings. With the loss, the Kings failed to match the record set by the [[Edmonton Oilers]], who was the last team to lose only two games in their [[1988 Stanley Cup playoffs|1988]] championship run with at least 16 required games played in a four-round format.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+| rowspan="4" | '''3rd'''
+|| NJD
+|| [[Patrik Eliáš|Patrik Elias]] (5)
+|| [[Bryce Salvador]] (9) and [[Dainius Zubrus]] (7)
+|| 07:56
+|| 1–0 NJD
+|- style="text-align:center;"
+|| LAK
+|| [[Drew Doughty]] (4) – ''pp''
+|| [[Mike Richards (ice hockey)|Mike Richards]] (9) and [[Anže Kopitar|Anze Kopitar]] (11)
+|| 08:56
+|| 1–1
+|- style="text-align:center;"
+|| NJD
+|| [[Adam Henrique]] (4)
+|| [[David Clarkson (ice hockey)|David Clarkson]] (9) and [[Alexei Ponikarovsky]] (6)
+|| 15:29
+|| 2–1 NJD
+|- style="text-align:center;"
+|| NJD
+|| [[Ilya Kovalchuk]] (8) – ''en''
+|| ''Unassisted''
+|| 19:40
+|| 3–1 NJD
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="4" | '''1st'''
+|| NJD
+|| [[Zach Parise]]
+|| Tripping
+|| 03:02
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Jarret Stoll]]
+|| Hooking
+|| 05:53
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Dustin Brown (ice hockey)|Dustin Brown]]
+|| Tripping
+|| 07:58
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| [[Bryce Salvador]]
+|| Interference
+|| 19:15
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1" | '''2nd'''
+|| NJD
+|| Bryce Salvador
+|| Interference
+|| 08:19
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2" | '''3rd'''
+|| NJD
+|| [[David Clarkson (ice hockey)|David Clarkson]]
+|| Boarding
+|| 08:52
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Willie Mitchell (ice hockey)|Willie Mitchell]]
+|| High-sticking
+|| 17:10
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 8 || 3 || 12 || 23
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 7 || 7 || 8 || 22
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1= Los Angeles Kings
+|team2= New Jersey Devils
+|stadium1= [[Prudential Center]]
+|date1= June 9
+|score1= 1–2
+|won1=2
+|recap1 = www.nhl.com/gamecenter/lak-vs-njd/2012/06/09/2011030415
+}}
+
+The Devils gave the Kings their only playoff road loss with a 2–1 victory, ending their 10-game road-winning streak, and became the first club since the [[Detroit Red Wings]] in {{scfy|1945}} to come back from a 3–0 deficit in the Cup Final to force a game six. New Jersey scored first at 12:45 of the first period, their first power play goal of the series, after Jonathan Quick misplayed the puck and [[Zach Parise]] found an open net on the other side before the Los Angeles goalie could recover. The Kings tied the game at 3:26 of the second when [[Justin Williams]] took a pass from [[Matt Greene]], skated into the New Jersey zone and beat Martin Brodeur. But the Devils took the lead for good at 9:05 of the second when [[Bryce Salvador]]'s shot deflected off of Kings defenceman [[Slava Voynov]] into the Los Angeles net. [[Jarret Stoll]]'s goal at 11:16 of the second period, which would have tied the game, was waved off because he shot it with a high-stick. The Devils later held on for the final minute of the game on a 4-on-4 and the Kings pulling their goalie for the extra attacker on what became essentially a 5-on-4 advantage.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| rowspan="1" | '''1st'''
+|| NJD
+|| [[Zach Parise]] (8) - ''pp''
+|| ''Unassisted''
+|| 12:45
+|| 1–0 NJD
+|- style="text-align:center;"
+| rowspan="2" | '''2nd'''
+|| LAK
+|| [[Justin Williams]] (4)
+|| [[Matt Greene]] (4)
+|| 03:26
+|| 1–1
+|- style="text-align:center;"
+|| NJD
+|| [[Bryce Salvador]] (4)
+|| [[Alexei Ponikarovsky]] (7) and [[Mark Fayne]] (4)
+|| 09:05
+|| 2–1 NJD
+|- style="text-align:center;"
+|| '''3rd'''
+| colspan="5"| ''None''
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="1" | '''1st'''
+|| LAK
+|| [[Willie Mitchell (ice hockey)|Willie Mitchell]]
+|| Interference
+|| 11:00
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2" | '''2nd'''
+|| NJD
+|| [[Mark Fayne]]
+|| Delay of game – Puck over glass
+|| 09:33
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| Bryce Salvador
+|| High-sticking
+|| 18:38
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3" | '''3rd'''
+|| LAK
+|| [[Dustin Brown (ice hockey)|Dustin Brown]]
+|| Holding the stick
+|| 05:51
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| [[Dustin Penner]]
+|| Roughing
+|| 18:24
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| [[Alexei Ponikarovsky]]
+|| Roughing
+|| 18:24
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 7 || 9 || 9 || 26
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 4 || 12 || 3 || 19
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1= New Jersey Devils
+|team2= Los Angeles Kings
+|stadium1= [[Staples Center]]
+|date1= June 11
+|score1= 1–6
+|won1=2
+|recap1 = www.nhl.com/gamecenter/njd-vs-lak/2012/06/11/2011030416
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=w31wertUAgI Game 6 Full replay] (NBC's feed) on the NHL's official YouTube channel
+}}
+[[File:Shaking Hands (7476650304).jpg|thumb|Kings and Devils players shake hands at the end of the game.]]
+The Kings defeated the Devils 6–1 to win their first Stanley Cup in team history. This was the most lopsided Cup-clinching game since {{scfy|1991}}, when the [[Pittsburgh Penguins]] won Game 6 by beating the [[Minnesota North Stars]] 8–0. At 10:10 of the first period, New Jersey's [[Steve Bernier]] was assessed a major boarding penalty and a game misconduct on a hit to Los Angeles' [[Rob Scuderi]]. The Kings then put the game out of reach by scoring three goals on the ensuing five-minute power play (when a major penalty is assessed, the full five-minute penalty must be served)—the first by [[Dustin Brown (ice hockey)|Dustin Brown]], the second by [[Jeff Carter]], and the third by [[Trevor Lewis]].
+
+Carter then beat Martin Brodeur to score his second goal of the game at 1:50 of the second period after [[Anton Volchenkov]] collided with a linesman while trying to defend Brown, who was carrying the puck into the New Jersey Zone. Unimpeded after Volchenkov was screened from the play, Brown easily got the pass off to Carter.<ref name=Game6>{{cite web|url=http://www.nhl.com/ice/recap.htm?id=2011030416|title=Kings rout Devils 6-1 to win first Cup|date=June 11, 2012|access-date=June 11, 2012 |first=Corey|last=Masisak|publisher=National Hockey League}}</ref> [[Adam Henrique]] got the Devils' lone goal at 18:45 of the second period after getting the rebound off of a shot by [[Petr Sýkora|Petr Sykora]]. Lewis added an empty net goal at 16:15 of the third period after Brodeur was pulled for an extra attacker. With Brodeur back in the net, [[Matt Greene]] scored the Kings' sixth goal of the game 15 seconds later.
+
+Regarding Bernier's game-changing penalty, Rich Chere of ''[[The Star-Ledger]]'' wrote that it was "the most devastating call in the Stanley Cup Final since the illegal curve on [[Marty McSorley]]'s stick in {{scfy|1993}}".<ref>{{cite web|title=Stanley Cup Final: One major penalty leaves Devils in despair and Kings as champions |url=http://www.nj.com/devils/index.ssf/2012/06/stanley_cup_finals_one_major_p.html|publisher=Advanced Local Media |first=Rich|last=Chere|date=June 11, 2012|access-date=June 12, 2023}}</ref> Several Devils fans and other observers believed that there was inconsistency with the officials' calls, and that they missed a couple of calls on the Kings at the time of that hit, such as one [[Jarret Stoll]] made on the Devils' [[Stephen Gionta]].<ref>{{cite web|title=Video: Steve Bernier's game-changing hit|url=https://nhl.nbcsports.com/2012/06/11/video-steve-berniers-game-changing-hit/|publisher=NBC Sports |date=June 11, 2012|access-date=June 12, 2023|quote=Plenty of Devils fans and other observers assert that referees missed another call or two on the Kings around the time of that hit. (Peter DeBoer was upset about a Jarret Stoll hit on Stephen Gionta, for example.)}}</ref> With the win, the Kings became only the second California-based NHL team to win the Stanley Cup, following the [[Anaheim Ducks]], who beat Ottawa in {{scfy|2007}}, the 12th expansion team to win it, and the second-to-last of the surviving 1967 expansion teams to do so (in 2019, the [[St. Louis Blues]] became the last remaining franchise from the 1967 expansion to win the Cup). The Kings also became the first eighth-seeded team in North American sports history to win a championship in the four major North American sports leagues.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+| rowspan="3" | '''1st'''
+|| LAK
+|| [[Dustin Brown (ice hockey)|Dustin Brown]] (8) - ''pp''
+|| [[Drew Doughty]] (11) and [[Mike Richards (ice hockey)|Mike Richards]] (10)
+|| 11:03
+|| 1–0 LAK
+|- style="text-align:center;"
+|| LAK
+|| [[Jeff Carter]] (7) - ''pp''
+|| Dustin Brown (11) and Mike Richards (11)
+|| 12:45
+|| 2–0 LAK
+|- style="text-align:center;"
+|| LAK
+|| [[Trevor Lewis]] (2) - ''pp''
+|| [[Dwight King]] (2) and Drew Doughty (12)
+|| 15:01
+|| 3–0 LAK
+|- style="text-align:center;"
+| rowspan="2" | '''2nd'''
+|| LAK
+|| Jeff Carter (8)
+|| Dustin Brown (12) and [[Anže Kopitar|Anze Kopitar]] (12)
+|| 01:30
+|| 4–0 LAK
+|- style="text-align:center;"
+|| NJD
+|| [[Adam Henrique]] (5)
+|| [[Petr Sýkora|Petr Sykora]] (3) and [[Alexei Ponikarovsky]] (8)
+|| 18:45
+|| 4–1 LAK
+|- style="text-align:center;"
+| rowspan="2" | '''3rd'''
+|| LAK
+|| Trevor Lewis (3) - ''en''
+|| Dwight King (3) and [[Jarret Stoll]] (3)
+|| 16:15
+|| 5–1 LAK
+|- style="text-align:center;"
+|| LAK
+|| [[Matt Greene]] (2) 
+|| Unassisted
+|| 16:30
+|| 6–1 LAK
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="3" | '''1st'''
+|| NJD
+|| [[Anton Volchenkov]]
+|| Hooking
+|| 03:01
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| [[Steve Bernier]] (Served by Petr Sykora)
+|| Boarding – major
+|| 10:10
+|| 5:00
+|-style="text-align:center;"
+|| NJD
+|| Steve Bernier
+|| Game misconduct
+|| 10:10
+|| 10:00
+|-style="text-align:center;"
+| rowspan="5" | '''2nd'''
+|| NJD
+|| [[Bryce Salvador]]
+|| High-sticking – double minor
+|| 06:00
+|| 4:00
+|-style="text-align:center;"
+|| NJD
+|| [[Ryan Carter]] (Served by Petr Sykora)
+|| Roughing
+|| 14:23
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| Ryan Carter
+|| Misconduct
+|| 14:23
+|| 10:00
+|-style="text-align:center;"
+|| NJD
+|| [[David Clarkson (ice hockey)|David Clarkson]]
+|| Misconduct
+|| 18:19
+|| 10:00
+|-style="text-align:center;"
+|| LAK
+|| [[Dustin Penner]] 
+|| Roughing
+|| 19:43
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4" | '''3rd'''
+|| LAK
+|| Dustin Brown (Served by [[Justin Williams]])
+|| Roughing
+|| 06:55
+|| 2:00 
+|-style="text-align:center;"
+|| NJD
+|| Petr Sykora
+|| Roughing
+|| 06:55
+|| 2:00
+|-style="text-align:center;"
+|| LAK
+|| Dustin Brown 
+|| Charging
+|| 06:55
+|| 2:00
+|-style="text-align:center;"
+|| NJD
+|| [[Marek Židlický|Marek Zidlicky]] 
+|| Tripping
+|| 08:06
+|| 2:00 
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| NJD || 4 || 6 || 8 || 18
+|-style="text-align:center;"
+| style="text-align:left;"| LAK || 13 || 8 || 3 || 24
+|}
+
+==Notes==
+The 2012 Stanley Cup Final marked the first time two American-born captains faced off in the championship series of the NHL as [[Dustin Brown (ice hockey)|Dustin Brown]] of Los Angeles battled against [[Zach Parise]] of New Jersey. This scenario ensured a second time in league history of an American-born captain leading his team to the Stanley Cup championship. [[Derian Hatcher]] of the [[Dallas Stars]] was the first American-born captain to do so, leading his team over the [[Buffalo Sabres]] in {{scfy|1999}}.
+
+This Final series guaranteed the lowest-seeded Stanley Cup champion in history. New Jersey, as a fifth seed, won the Stanley Cup in {{scfy|1995}}.<ref>{{cite web|last=Dadoun|first=Ryan|title=Kings or Devils will be the lowest seed ever to win Cup |url=https://nhl.nbcsports.com/2012/05/26/kings-or-devils-will-be-the-lowest-seed-ever-to-win-cup/|publisher=NBC Sports |access-date=June 12, 2023|date=May 26, 2012}}</ref> With the Kings' victory, they became the first team ever to win the Stanley Cup as the eighth seed. They are also the second team to win the Stanley Cup without having home ice advantage in any of the four rounds of the playoffs, after the Devils in 1995.<ref>{{Cite web |last=Beacham |first=Greg |date=June 12, 2012 |title=Stanley Cup: Kings crowned champions with Game 6 rout |url=https://www.jacksonville.com/story/sports/nhl/2012/06/12/stanley-cup-kings-crowned-champions-game-6-rout/15864029007/ |access-date=2025-06-23 |website=The Florida Times-Union |language=en-US}}</ref>
+
+The Kings are the fourth consecutive team to win the Stanley Cup after [[2011 NHL Premiere|opening the season in Europe]] as part of the [[List of international games played by NHL teams|NHL Premiere Series]]. Previous NHL Premiere participants ([[2008–09 Pittsburgh Penguins season|Pittsburgh]] in {{scfy|2009}}, [[2009–10 Chicago Blackhawks season|Chicago]] in {{scfy|2010}}, [[2010–11 Boston Bruins season|Boston]] in {{scfy|2011}}) went on to win the Cup.<ref>{{cite web|last=Halford|first=Mike|title=Kings latest to prove starting in Europe is a good thing — for Cup aspirations, that is|url=https://nhl.nbcsports.com/2012/05/28/kings-latest-to-prove-starting-in-europe-is-a-good-thing-for-cup-aspirations-that-is/|publisher=NBC Sports|access-date=June 12, 2023|date=May 28, 2012}}</ref>
+
+Jonathan Quick became the third American [[Conn Smythe Trophy]] winner, following previous winners [[Brian Leetch]] ({{scfy|1994}}) and [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] (2011).<ref>{{cite news|url=https://www.reuters.com/assets/print?aid=USBRE85B03O20120612|title=Kings goalie Quick snares playoffs MVP award|date=June 12, 2012 |publisher=Reuters |access-date=June 12, 2012 |first=Julian|last=Linden}}</ref><ref>{{cite web|url=https://www.espn.com/los-angeles/story/_/id/8040055/victory-vindication-dean-lombardi-jeff-carter-mike-richards|title=Vindication sweet for former Flyers|date=June 12, 2012|access-date=June 12, 2023|first=Pierre|last=LeBrun|publisher=ESPN}}</ref>
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Los Angeles Kings===
+[[File:Dustin Brown (25993630263).jpg|thumb|right|200px|[[Dustin Brown (ice hockey)|Dustin Brown]] captained the Kings to the first championship in franchise history]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|-
+! #
+! [[Nationality|Nat]]
+! Player<ref name="roster">{{cite web |title=Playing Roster |url=https://www.nhl.com/scores/htmlreports/20112012/RO030416.HTM |publisher=National Hockey League |access-date=June 12, 2025 |date=June 11, 2012}}</ref><!--<ref name="notengraved"/>-->
+! Position
+! Hand
+! Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+<!--| '''64'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andy|Andreoff}}
+| LW
+| L
+| [[2011 NHL entry draft|2011]]
+| style="text-align:left;"|[[Pickering, Ontario]]
+| first
+|-
+| '''62'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Justin|Azevedo}}
+| C
+| R
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[St. Thomas, Ontario]]
+| first-->
+|-
+| '''45'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Bernier}}
+| G
+| L
+| [[2006 NHL entry draft|2006]]
+| style="text-align:left;"|[[Laval, Quebec]]
+| first
+|-
+| '''23'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Dustin|Brown|dab=ice hockey}} – '''[[Captain (ice hockey)|C]]'''
+| RW/LW
+| R
+| [[2003 NHL entry draft|2003]]
+| style="text-align:left;"|[[Ithaca, New York]]
+| first
+|-
+<!--| '''81'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Andrew|Campbell|dab=ice hockey}}
+| D
+| L
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Caledonia, Ontario]]
+| first-->
+|-
+| '''77'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Carter}}
+| C/RW
+| R
+| [[2011–12 NHL season|2012]]
+| style="text-align:left;"|[[London, Ontario]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|-
+| '''13'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kyle|Clifford}}
+| LW
+| R
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Ayr, Ontario]]
+| first
+|-
+<!--| '''67'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Marc-Andre|Cliche}}
+| C
+| R
+| [[2006-07 NHL season|2007]]
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn-Noranda, Quebec]]
+| first
+|-
+| '''56'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Richard|Clune}}
+| LW
+| L
+| [[2008-09 NHL season|2008]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first-->
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Drew|Doughty}}
+| D
+| R
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[London, Ontario]]
+| first
+|-
+| '''44'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Davis|Drewiske}}
+| D
+| L
+| [[2008-09 NHL season|2008]]
+| style="text-align:left;"|[[Hudson, Wisconsin]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Colin|Fraser|dab=ice hockey}}
+| C
+| L
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[Sicamous, British Columbia]]
+| second {{small|('''[[2010 Stanley Cup Final|2010]]''')}}
+|-
+| '''12'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Simon|Gagne|Simon Gagné}}
+| LW
+| L
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[Sainte-Foy, Quebec City|Sainte-Foy, Quebec]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matt|Greene}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| R
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"|[[Grand Ledge, Michigan]]
+| second {{small|([[2006 Stanley Cup Final|2006]])}}
+|-
+<!--| '''37'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Thomas|Hickey|dab=ice hockey}}
+| D
+| L
+| [[2007 NHL entry draft|2007]]
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''31'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Jones|dab=ice hockey}}
+| G
+| R
+| [[2008-09 NHL season|2009]]
+| style="text-align:left;"|[[North Vancouver (city)|North Vancouver, British Columbia]]
+| first-->
+|-
+| '''74'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dwight|King}}
+| LW
+| L
+| [[2007 NHL entry draft|2007]]
+| style="text-align:left;"|[[Meadow Lake, Saskatchewan]]
+| first
+|-
+| '''11'''
+| {{flagicon|SVN}}
+! scope="row" style="text-align:left;"|{{sortname|Anze|Kopitar|Anže Kopitar}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| C
+| L
+| [[2005 NHL entry draft|2005]]
+| style="text-align:left;"|[[Jesenice, Jesenice|Jesenice, Yugoslavia]]
+| first
+|-
+| '''22'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Trevor|Lewis}}
+| C/RW
+| R
+| [[2006 NHL entry draft|2006]]
+| style="text-align:left;"|[[Salt Lake City|Salt Lake City, Utah]]
+| first
+|-
+<!--| '''48'''
+| {{flagicon|RUS}}
+! scope="row" style"text-align:left;"|{{sortname|Andrei|Loktionov}}
+| C
+| L
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Voskresensk|Voskresensk, Soviet Union]]
+| first-->
+|-
+| '''27'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Alec|Martinez}}
+| D
+| L
+| [[2007 NHL entry draft|2007]]
+| style="text-align:left;"|[[Rochester Hills, Michigan]]
+| first
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Willie|Mitchell|dab=ice hockey}}
+| D
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[Port McNeill, British Columbia]]
+| first
+|-
+<!--| '''59'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Patrick|Mullen|dab=ice hockey}}
+| D
+| R
+| [[2008-09 NHL season|2009]]
+| style="text-align:left|[[Pittsburgh|Pittsburgh, Pennsylvania]]
+| first
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jake|Muzzin}}
+| D
+| L
+| [[2009-10 NHL season|2010]]
+| style="text-align:left|[[Woodstock, Ontario]]
+| first-->
+|-
+| '''71'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jordan|Nolan}}
+| C/RW
+| L
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Garden River First Nation|Garden River, Ontario]]
+| first
+|-
+<!--| '''21'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Scott|Parse}}
+| RW
+| R
+| [[2004 NHL entry draft|2004]]
+| style="text-align:left;"|[[Kalamazoo, Michigan]]
+| first-->
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dustin|Penner}}
+| LW
+| L
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"|[[Winkler, Manitoba]]
+| second {{small|('''[[2007 Stanley Cup Final|2007]]''')}}
+|-
+| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jonathan|Quick}}
+| G
+| L
+| [[2005 NHL entry draft|2005]]
+| style="text-align:left;"|[[Milford, Connecticut]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Richards|dab=ice hockey}}
+| C
+| L
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[Kenora|Kenora, Ontario]]
+| second {{small|([[2010 Stanley Cup Final|2010]])}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Richardson}}
+| RW/LW/C
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"|[[Belleville, Ontario]]
+| first
+|-
+| '''7'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Rob|Scuderi}}
+| D
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"|[[Syosset, New York]]
+| third {{small|([[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jarret|Stoll}}
+| C
+| R
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"|[[Melville, Saskatchewan]]
+| second {{small|([[2006 Stanley Cup Final|2006]])}}
+|-
+<!--| '''73'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tyler|Toffoli}}
+| RW
+| R
+| [[2010 NHL entry draft|2010]]
+| style="text-align:left;"|[[Scarborough, Ontario]]
+| first
+|-
+| '''57'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Linden|Vey}}
+| RW
+| R
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Wakaw, Saskatchewan]]
+| first-->
+|-
+| '''26'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Slava|Voynov}}
+| D
+| R
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Chelyabinsk|Chelyabinsk, Soviet Union]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Westgarth}}
+| RW
+| R
+| [[2006-07 NHL season|2007]]
+| style="text-align:left;"|[[Amherstburg, Ontario]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Justin|Williams}}
+| RW
+| R
+| [[2008–09 NHL season|2009]]
+| style="text-align:left;"|[[Cobourg, Ontario]]
+| second {{small|('''[[2006 Stanley Cup Final|2006]]''')}}
+|}
+
+===New Jersey Devils===
+[[File:Zach Parise-NJ-crop.jpg|thumb|right|200px|[[Zach Parise]] captained the Devils to their first Stanley Cup Final appearance since their [[2003 Stanley Cup Final|2003 victory]]]]
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|-
+! #
+! [[Nationality|Nat]]
+! Player<ref name="roster"/>
+! Position
+! Hand
+! Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matt|Anderson|dab=ice hockey}}
+| C
+| R
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[West Islip, New York]]
+| first-->
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Bernier}}
+| RW
+| R
+| [[2011–12 NHL season|2012]]
+| style="text-align:left;"|[[Quebec City|Quebec City, Quebec]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Boulton}}
+| LW
+| L
+| [[2011-12 NHL season|2011]]
+| style="text-align:left;"|[[Halifax, Nova Scotia]]
+| first {{small|(did not play)}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Brodeur}}
+| G
+| L
+| [[1990 NHL entry draft|1990]]
+| style="text-align:left;"|[[Montreal|Montreal, Quebec]]
+| fifth {{small|('''[[1995 Stanley Cup Final|1995]]''', '''[[2000 Stanley Cup Final|2000]]''', [[2001 Stanley Cup Final|2001]], '''[[2003 Stanley Cup Final|2003]]''')}}
+|-
+<!--| '''–'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brandon|Burlon}}
+| D
+| L
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Quebec City|Nobleton, Ontario]]
+| first-->
+|-
+| '''20'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Ryan|Carter}}
+| C
+| L
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[White Bear Lake, Minnesota]]
+| second {{small|('''[[2007 Stanley Cup Final|2007]]''')}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|David|Clarkson|dab=ice hockey}}
+| RW
+| R
+| [[2005–06 NHL season|2005]]
+| style="text-align:left;"|[[Toronto|Toronto, Ontario]]
+| first
+|-
+<!--| '''–'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Matthew|Corrente|Matt Corrente}}
+| D
+| R
+| [[2006 NHL entry draft|2006]]
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| first-->
+|-
+| '''26'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Patrik|Elias|Patrik Eliáš}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW/C
+| L
+| [[1994 NHL entry draft|1994]]
+| style="text-align:left;"|[[Třebíč|Třebíč, Czechoslovakia]]
+| fourth {{small|('''[[2000 Stanley Cup Final|2000]]''', [[2001 Stanley Cup Final|2001]], '''[[2003 Stanley Cup Final|2003]]''')}}
+|-
+| '''29'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Fayne}}
+| D
+| R
+| [[2005 NHL entry draft|2005]]
+| style="text-align:left;"|[[Nashua, New Hampshire]]
+| first
+|-
+<!--| '''31'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Frazee}}
+| G
+| R
+| [[2005 NHL entry draft|2005]]
+| style="text-align:left;"|[[Edina, Minnesota]]
+| first
+|-
+| '''42'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Eric|Gelinas|Éric Gélinas}}
+| D
+| L
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Vanier, Ontario]]
+| N/A-->
+|-
+| '''11'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Stephen|Gionta}}
+| RW/C
+| R
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[Rochester, New York]]
+| first
+|-
+| '''6'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Andy|Greene}}
+| D
+| L
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"|[[Trenton, Michigan]]
+| first
+|-
+| '''10'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Peter|Harrold}}
+| D
+| R
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[Kirtland Hills, Ohio]]
+| first
+|-
+| '''1'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Johan|Hedberg}}
+| G
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[Leksand|Leksand, Sweden]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Henrique}}
+| C
+| L
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Brantford|Brantford, Ontario]]
+| first
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Hoeffel}}
+| LW
+| L
+| [[2007 NHL entry draft|2007]]
+| style="text-align:left;"|[[North Oaks, Minnesota]]
+| first-->
+|-
+| '''25'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Cam|Janssen}}
+| RW
+| R
+| [[2002 NHL entry draft|2002]]
+| style="text-align:left;"|[[St. Louis, Missouri]]
+| first {{small|(did not play)}}
+|-
+| '''16'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Jacob|Josefson}}
+| C
+| L
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Dan|Kelly|dab=ice hockey}}
+| D
+| L
+| [[2009-10 NHL season|2010]]
+| style="text-align:left;"|[[Morrisonville, New York]]
+| first
+|-
+| '''35'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Keith|Kinkaid}}
+| G
+| L
+| [[2010-11 NHL season|2011]]
+| style="text-align:left;"|[[Farmingville, New York]]
+| first-->
+|-
+| '''17'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Ilya|Kovalchuk}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| W
+| R
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"|[[Tver|Kalinin, Soviet Union]]
+| first
+|-
+| '''5'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Larsson}}
+| D
+| R
+| [[2011 NHL entry draft|2011]]
+| style="text-align:left;"|[[Skellefteå|Skellefteå, Sweden]]
+| first
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Leach|dab=ice hockey}}
+| D
+| L
+| [[2010-11 NHL season|2011]]
+| style="text-align:left;"|[[Syracuse, New York]]
+| first-->
+|-
+<!--| '''–'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brad|Mills|Bradley Mills}}
+| C
+| R
+| [[2009-10 NHL season|2009]]
+| style="text-align:left;"|[[Terrace, British Columbia]]
+| first-->
+|-
+| '''9'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Zach|Parise}} – '''[[Captain (ice hockey)|C]]'''
+| LW
+| L
+| [[2003 NHL entry draft|2003]]
+| style="text-align:left;"|[[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''12'''
+| {{flagicon|UKR}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Ponikarovsky}}
+| LW
+| L
+| [[2011–12 NHL season|2012]]
+| style="text-align:left;"|[[Kyiv|Kyiv, Soviet Union]]
+| first
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Bryce|Salvador}}
+| D
+| L
+| [[2007–08 NHL season|2008]]
+| style="text-align:left;"|[[Brandon, Manitoba]]
+| first
+|-
+<!--| '''21'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Sestito}}
+| C
+| L
+| [[2009-10 NHL season|2009]]
+| style="text-align:left;"|[[Rome, New York]]
+| first-->
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Sislo|Mike Sislo}}
+| RW
+| R
+| [[2010-11 NHL season|2011]]
+| style="text-align:left;"|[[Superior, Wisconsin]]
+| first-->
+|-
+| '''15'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Petr|Sykora|Petr Sýkora}}
+| W
+| L
+| [[2011–12 NHL season|2011]]
+| style="text-align:left;"|[[Plzeň|Plzeň, Czechoslovakia]]
+| sixth {{small|('''[[2000 Stanley Cup Final|2000]]''', [[2001 Stanley Cup Final|2001]], [[2003 Stanley Cup Final|2003]], [[2008 Stanley Cup Final|2008]], '''[[2009 Stanley Cup Final|2009]]''')}}
+|-
+| '''7'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Henrik|Tallinder}}
+| D
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first
+|-
+<!--| '''32'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Matt|Taormina}}
+| D
+| L
+| [[2009-10 NHL season|2010]]
+| style="text-align:left;"|[[Washington Township, Macomb County, Michigan|Washington Township, Michigan]]
+| first-->
+|-
+| '''–'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Mattias|Tedenby}}
+| LW
+| L
+| [[2008 NHL entry draft|2008]]
+| style="text-align:left;"|[[Vetlanda|Vetlanda, Sweden]]
+| first {{small|(did not play)}}
+|-
+<!--| '''33'''
+| {{flagicon|SWE}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Urbom}}
+| D
+| L
+| [[2009 NHL entry draft|2009]]
+| style="text-align:left;"|[[Stockholm|Stockholm, Sweden]]
+| first-->
+|-
+| '''28'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Anton|Volchenkov}}
+| D
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| second {{small|([[2007 Stanley Cup Final|2007]])}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Travis|Zajac}}
+| C
+| R
+| [[2004 NHL entry draft|2004]]
+| style="text-align:left;"|[[Winnipeg|Winnipeg, Manitoba]]
+| first
+|-
+<!--| '''–'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Steven|Zalewski}}
+| C
+| L
+| [[2010-11 NHL season|2011]]
+| style="text-align:left;"|[[New Hartford, New York]]
+| first
+|-
+| '''–'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Vladimir|Zharkov}}
+| RW
+| L
+| [[2006 NHL entry draft|2006]]
+| style="text-align:left;"|[[Elektrostal|Elektrostal, Soviet Union]]
+| first-->
+|-
+| '''2'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Marek|Zidlicky|Marek Židlický}}
+| D
+| R
+| [[2011–12 NHL season|2012]]
+| style="text-align:left;"|[[Most (city)|Most, Czechoslovakia]]
+| first
+|-
+| '''8'''
+| {{flagicon|LTU}}
+! scope="row" style="text-align:left;"|{{sortname|Dainius|Zubrus}}
+| C/RW
+| L
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"|[[Elektrėnai|Elektrėnai, Soviet Union]]
+| second {{small|([[1997 Stanley Cup Final|1997]])}}
+|}
+
+==Stanley Cup engraving==
+The 2012 Stanley Cup was presented to Los Angeles Kings captain Dustin Brown by [[NHL Commissioner]] [[Gary Bettman]], following the Kings 6–1 win over the New Jersey Devils in the sixth game of the Final.
+
+The following Kings players and staff had their names engraved on the Stanley Cup
+
+'''2011–12 Los Angeles Kings'''
+{{Stanley Cup champion
+|defence=
+*2 [[Matt Greene]] (A)
+*7 [[Rob Scuderi]]
+*8 [[Drew Doughty]]
+*26 [[Slava Voynov]]
+*27 [[Alec Martinez]]
+*33 [[Willie Mitchell (ice hockey)|Willie Mitchell]]
+*44 [[Davis Drewiske]] ‡
+|wingers=
+*12 [[Simon Gagné|Simon Gagne]]
+*13 [[Kyle Clifford]] †
+*14 [[Justin Williams]]
+*15 [[Brad Richardson]]*
+*19 [[Kevin Westgarth]] ‡
+*23 [[Dustin Brown (ice hockey)|Dustin Brown]] (Captain)
+*25 [[Dustin Penner]]
+*74 [[Dwight King]]
+|centres=
+*10 [[Mike Richards (ice hockey)|Mike Richards]]
+*11 [[Anže Kopitar|Anze Kopitar]] (A)
+*22 [[Trevor Lewis]]*
+*24 [[Colin Fraser (ice hockey)|Colin Fraser]]
+*28 [[Jarret Stoll]]
+*71 [[Jordan Nolan]]*
+*77 [[Jeff Carter]]*
+|goaltenders=*32 [[Jonathan Quick]]
+*45 [[Jonathan Bernier]]
+|player-notes=
+* * Played both centre and wing.
+* † Did not play or dress in the Final.
+* ‡ Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Philip Anschutz]] (owner/alt. governor), Nancy Anschutz (minority owner), [[Tim Leiweke]] (governor), [[Edward P. Roski]] Jr. (co-owner)§
+* Daniel Beckerman (chief financial officer), Ted Fikre (chief legal & development officer), [[Dean Lombardi]] (president/general manager/alt. governor), [[Luc Robitaille]] (president of business operations/atl. governor)
+* [[Ron Hextall]] (vice-president/assistant general manager), Jeff Solomon (vice-president of hockey operations & legal affairs), [[Darryl Sutter]] (head coach), [[John Stevens (ice hockey)|John Stevens]] (assistant coach)
+* [[Jamie Kompon]] (assistant coach), [[Bill Ranford]] (goaltending coach), Chris McGowan (chief operating officer), Michael Altieri (vice-president communications & broadcasting)
+* [[Jack Ferreira]] (special assistant general manager), [[Mike O'Connell]] (pro development & special assignment executive), [[Nelson Emerson]] (player development executive), Rob Laird (senior pro scout)
+* Michael Futa (co-amateur scouting director), Mark Yannetti (co-amateur scouting director), Lee Callans (scouting coordinator)
+* Marshall Dickerson (director of team operations), Ryan Colville (video coordinator), Darren Granger (head equipment manager)
+* Chris Kingsley (medical trainer), Dana C. Bryson (assistant equipment manager), Myles Hirayama (assistant athletic trainer)
+* § Name not included in list sent to engraver, but name still engraved on the Stanley Cup.{{efn|name=notonengravinglist|Edward P. Roski Jr. (co-owner) did not make the list sent to the engraver. However, when the Cup came back from the engraver, his name was on it. The engraver included 53 names – one more than the normal limit.<ref name="52oncup">{{cite web |last1=Elliott |first1=Helene |title=Kings to have 52 names engraved on the Stanley Cup |url=https://www.latimes.com/sports/la-xpm-2012-sep-21-la-sp-sn-kings-stanley-cup-engraving-20120921-story.html |website=Los Angeles Times |access-date=June 12, 2025 |date=September 21, 2012}}</ref>}}}}
+
+===Engraving notes===
+<!--Ordered by total GP in 2011–12, regular-season and playoffs. Criteria for automatic qualification are, per the NHL: playing in/dressing for at least one Stanley Cup Final game OR playing in/dressing for at least half of the winning team's regular season games.-->
+* #19 [[Kevin Westgarth]] (RW) played in 25 regular season games. He missed the rest of the season due to a wrist injury. #44 [[Davis Drewiske]] (D) played in 9 regular season games. He was a healthy scratch for most of the season. Both spent the entire season with Los Angeles and did not play in the playoffs. As they did not automatically qualify,{{efn|name=qualify}} Los Angeles successfully requested an exemption to engrave their names.<ref name="52oncup"/>
+* [[Mike Richards (ice hockey)|Mike Richards]] was engraved as his full name of Michael.
+* 53 names were engraved on the Stanley Cup instead of the standard 52.<ref name="52oncup"/>
+* Denver Wilson (assistant equipment manager), Chris Pikosky (massage therapist), and [[Bernie Nicholls]] (Coaching Consultant); were left off the Stanley Cup engraving, but included in the team picture.
+* [[Terry Murray]] was the head coach of the Kings for the first 29 games of the 2011–12 season, and then remained with the team as a scout for the rest of the season. The Kings organization requested permission to include his name on the Cup, but the NHL denied the request. Not in the team picture, but was given a Stanley Cup ring.
+* The Kings also gave Stanley Cup rings to retired players [[Rogie Vachon]] and [[Marcel Dionne]].
+
+===Player notes===
+<!--Listed in order by NHL games played during the 2011–12 NHL season, then AHL if no NHL games, then other league if no AHL games.-->
+* Thirteen players on the roster during the Final were left off the Stanley Cup engraving due to not qualifying.{{efn|name=qualify}}<ref name="notengraved">{{cite web|last1=Wyshynski|first1=Greg |title=Which Los Angeles Kings didn't make Stanley Cup engraving cut?|url=https://sports.yahoo.com/blogs/puck-daddy/los-angeles-kings-didn-t-stanley-cup-engraving-012038392--nhl.html|website=Yahoo Sports|access-date=June 12, 2025 |date=September 22, 2012}}</ref><ref name="roster"/> Only [[Andrei Loktionov]] played in the playoffs. [[Scott Parse]] was injured. The rest were healthy scratches for the entire playoffs.
+
+;Included in the team picture
+* #48 [[Andrei Loktionov]] (C) – 39 regular season games and 2 playoff games
+* #21 [[Scott Parse]] (RW) – 9 regular season games. He missed most of the season due to injuries, including the entire playoffs. He was the only player left off the Stanley Cup engraving who spent the entire season with Los Angeles.
+* #67 [[Marc-André Cliche|Marc-Andre Cliche]] (C) – 0 regular season games, 72 for Manchester of the AHL
+* #6 [[Jake Muzzin]] (D) – 0 regular season games, 71 for Manchester of the AHL
+* #31 [[Martin Jones (ice hockey)|Martin Jones]] (G) – 0 regular season games, 41 for Manchester of the AHL
+
+;Not in the team picture
+* #81 [[Andrew Campbell (ice hockey)|Andrew Campbell]] (D) – 76 regular season games for Manchester of the AHL
+* #37 [[Thomas Hickey (ice hockey)|Thomas Hickey]] (D) – 76 regular season games for Manchester of the AHL
+* #57 [[Linden Vey]] (RW/C) – 74 regular season games for Manchester of the AHL
+* #59 [[Patrick Mullen (ice hockey)|Patrick Mullen]] (D) – 69 regular season games for Manchester of the AHL
+* #73 [[Tyler Toffoli]] (RW) – 65 regular season games for [[Ottawa 67's|Ottawa]] of the [[Ontario Hockey League|OHL]]
+* #62 [[Justin Azevedo]] (C) – 63 regular season games for Manchester of the AHL
+* #56 [[Richard Clune]] (LW) – 56 regular season games for Manchester of the AHL
+* #64 [[Andy Andreoff]] (C) – 5 regular season games for Manchester of the AHL
+
+==Officials==
+The following officials were chosen for the Stanley Cup Final:<ref>{{cite web |url=http://www.nhlofficials.com/press5.asp |title=Stanley Cup Final Officials |work=National Hockey LeagueOfficials.com |access-date=May 28, 2012 |date=May 28, 2012 |archive-url=https://web.archive.org/web/20140515012849/http://www.nhlofficials.com/press5.asp |archive-date=May 15, 2014 |url-status=dead |df=mdy-all }}</ref>
+*Referees: [[Dan O'Halloran]], [[Dan O'Rourke (ice hockey)|Dan O'Rourke]], [[Chris Rooney]], [[Brad Watson (ice hockey)|Brad Watson]]
+*Linesmen: [[Derek Amell]], [[Jean Morin (ice hockey)|Jean Morin]], [[Pierre Racicot]], [[Jonny Murray]]
+
+==Television==
+In Canada, the series was televised in English on [[Hockey Night in Canada|CBC]] and in French on the cable network [[NHL on RDS|RDS]]. In the United States, [[NHL on NBC|NBC]] broadcast the first two and the final two games, while the [[NBC Sports Network]] televised games three and four.<ref name="2012 Stanley Cup Final to start Wednesday, May 30">{{cite web|title=2012 Stanley Cup Final to start Wednesday, May 30th|url=http://www.nhl.com/ice/news.htm?id=632441|publisher=National Hockey League|access-date=May 22, 2012}}</ref>
+
+The 2012 Final rated poorly in comparison to the four most recent Stanley Cup Final on United States television. The first four games were marred by low ratings; had the series ended in four games, this series would have produced the lowest television ratings ever for a championship series of any [[Major professional sports leagues in the United States and Canada|major league sport]]. However, game five and game six produced somewhat higher ratings than the first four games, which gave the 2012 Final a slightly higher rating than the {{scfy|2007}} Final (which was on par with the {{scfy|2006}} Final); the 2007 Final therefore remains the lowest-rated championship series in American television history.
+{| class="wikitable" style="text-align:center;" border="1"
+|-
+! Game !! American audience<br>(in millions) !! Canadian audience <br> (in millions)
+|-
+! 1
+| 2.90<ref name="ratings1">{{cite web |url=http://tvbythenumbers.zap2it.com/2012/06/07/updated-what-if-they-held-an-nhl-stanley-cup-final-and-nobody-watched/137284/|archive-url=https://web.archive.org/web/20120610012017/http://tvbythenumbers.zap2it.com/2012/06/07/updated-what-if-they-held-an-nhl-stanley-cup-final-and-nobody-watched/137284/|url-status=dead|archive-date=June 10, 2012|title=Updated: What If They Held An NHL Stanley Cup Final And Nobody Watched?|website=TVbytheNumbers |date=June 7, 2012 |access-date=June 9, 2012 |last=Gorman |first=Bill}}</ref>
+| 2.13<ref name="canrating">{{cite web |url=http://tvfeedsmyfamily.blogspot.ca/2012/06/brioux-report-rookie-listener-back.html |title=The Brioux Report: Rookie, Listener back strong |last=Brioux |first=Bill |date=June 7, 2012 |website=TV Feeds My Family |access-date=June 12, 2012 |archive-url=https://web.archive.org/web/20120613201241/http://tvfeedsmyfamily.blogspot.ca/2012/06/brioux-report-rookie-listener-back.html |archive-date=June 13, 2012 |url-status=dead |df=mdy-all }}</ref>
+|-
+! 2
+| 2.94<ref name="ratings1"/>
+| 2.57<ref name="canrating"/>
+|-
+! 3
+| 1.74<ref name="ratings1"/>
+| 2.16<ref name="canrating2">{{cite web |url=http://tvfeedsmyfamily.blogspot.ca/2012/06/brioux-report-kings-become-canadas-team.html |title=The Brioux Report: The Brioux Report: Kings become Canada's team |last=Brioux |first=Bill |date=June 13, 2012 |website=TV Feeds My Family |access-date=June 25, 2012 |archive-url=https://web.archive.org/web/20160303182402/http://tvfeedsmyfamily.blogspot.ca/2012/06/brioux-report-kings-become-canadas-team.html |archive-date=March 3, 2016 |url-status=dead |df=mdy-all }}</ref>
+|-
+! 4
+| 2.07<ref name="ratings1"/>
+| 3.01<ref name="canrating2"/>
+|-
+! 5
+| 3.33<ref name="ratings1"/>
+| 3.11<ref name="canrating2"/>
+|-
+!6
+| 4.93<ref name="ratings1"/>
+| 3.13<ref>{{cite web|url=http://bbm.ca/_documents/top_30_tv_programs_english/2012/nat06112012.pdf |title=Top Programs – Total Canada (English) June 11 – June 17, 2012 |work=BBM Canada |access-date=June 25, 2012 }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+;Inline citations
+{{reflist}}
+
+;Bibliography
+*{{cite web |url=http://www.nhl.com/ice/news.htm?id=633927 |title=Recapping Kings' rampage to the Stanley Cup |date=June 11, 2012 |access-date=June 13, 2012 |first=Adam |last=Kimelman |publisher=National Hockey League}}
+
+==External links==
+{{Commons category}}
+* [https://web.archive.org/web/20120530070017/http://www.nhl.com/ice/series.htm?season=20112012&series=O 2012 Stanley Cup Final Official Site]
+* [https://archive.today/20130124095950/http://espn.go.com/nhl/playoffs/2012/matchup/_/teams/devils-kings 2012 Stanley Cup Final at ESPN]
+
+{{s-start}}
+{{succession box | before = [[2011 Stanley Cup Final|Boston Bruins<br />2011]] | title = [[List of Stanley Cup champions|Los Angeles Kings<br />Stanley Cup champions]] | years = 2012 | after = [[2013 Stanley Cup Final|Chicago Blackhawks<br />2013]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Los Angeles Kings}}
+{{New Jersey Devils}}
+{{2011–12 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on RDS}}
+}}
+
+[[Category:2011–12 NHL season]]
+[[Category:2012 Stanley Cup| ]]
+[[Category:Los Angeles Kings games]]
+[[Category:New Jersey Devils games|Stanley Cup Final]]
+[[Category:Stanley Cup Finals]]
+<!--Please do NOT remove the "s" because category names are generally always plural for that type of category, see [[Wikipedia:Category names]]-->
+[[Category:Ice hockey competitions in Los Angeles]]
+[[Category:Sports competitions in Newark, New Jersey]]
+[[Category:2010s in Newark, New Jersey]]
+[[Category:May 2012 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2012 sports events in the United States|Stanley Cup Final]]
+[[Category:2012 in sports in Los Angeles|Stanley Cup Final]]
+[[Category:2012 in sports in New Jersey|Stanley Cup Final]]
+[[Category:Ice hockey competitions in New Jersey]]

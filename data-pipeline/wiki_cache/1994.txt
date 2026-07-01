@@ -1,0 +1,1916 @@
+{{Short description|1994 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+| year = 1994
+| image = 1994stanleycupfinals.png
+| team1 = '''[[1993–94 New York Rangers season|New York Rangers]]'''
+| team1_short = New York
+| team1_captain = [[Mark Messier]]
+| team1_coach = [[Mike Keenan]]
+| team2 = [[1993–94 Vancouver Canucks season|Vancouver Canucks]]
+| team2_short = Vancouver
+| team2_coach = [[Pat Quinn (ice hockey)|Pat Quinn]]
+| team2_captain = [[Trevor Linden]]
+| referees = [[Terry Gregson]] (1, 4, 7)<br>[[Bill McCreary (referee)|Bill McCreary]] (2, 6)<br/>[[Andy Van Hellemond]] (3, 5)
+| team1_national_anthem = [[John Amirante]]
+| team2_national_anthem = Richard Loney (3)<br>John Reynolds (4, 6)
+| series_winner = Mark Messier (13:29, second)<ref name="Messier watches 1994 Stanley Cup win">{{YouTube|title=Messier watches 1994 Stanley Cup win|id=jofMeeKP_4g}}</ref>
+| hofers = '''Rangers:'''<br/>[[Glenn Anderson]] (2008)<br/>[[Brian Leetch]] (2009)<br/>[[Kevin Lowe]] (2020)<br/>[[Mark Messier]] (2007)<br/>[[Sergei Zubov]] (2019)<br/>'''Canucks:'''<br/>[[Pavel Bure]] (2012)<br/>'''Coaches:'''<br/>[[Pat Quinn (ice hockey)|Pat Quinn]] (2016)<br/>'''Officials:'''<br/>[[Bill McCreary (referee)|Bill McCreary]] (2014)<br/>[[Ray Scapinello]] (2008)<br/>[[Andy Van Hellemond]] (1999)
+| dates = May 31 – June 14, 1994
+| location1 = New York City: [[Madison Square Garden]] (1, 2, 5, 7)
+| location2 = [[Vancouver]]: [[Pacific Coliseum]] (3, 4, 6)
+| mvp = [[Brian Leetch]] (Rangers)
+| team1_1 = 2*
+| team1_2 = '''3'''
+| team1_3 = '''5'''
+| team1_4 = '''4'''
+| team1_5 = 3
+| team1_6 = 1
+| team1_7 = '''3'''
+| team1_tot = 4
+| team2_1 = '''3'''*
+| team2_2 = 1
+| team2_3 = 1
+| team2_4 = 2
+| team2_5 = '''6'''
+| team2_6 = '''4'''
+| team2_7 = 2
+| team2_tot = 3
+| table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+| networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[La Soirée du hockey|SRC]]<br />'''United States:'''<br />(National): [[NHL on ESPN|ESPN]]<br />(New York City area): [[MSG Network]] (1–3, 6–7), [[MSG Network|MSG II]] (4–5)
+| net_announcers =(CBC) [[Bob Cole (sportscaster)|Bob Cole]], [[Harry Neale]], and [[Dick Irvin Jr.]]<br/>(SRC) [[Claude Quenneville]] and [[Gilles Tremblay (ice hockey)|Gilles Tremblay]]<br/>(ESPN) [[Gary Thorne]] and [[Bill Clement]]<br/>(MSG/MSGII) [[Sam Rosen (sportscaster)|Sam Rosen]] and [[John Davidson (ice hockey)|John Davidson]]
+}}
+The '''1994 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[1993–94 NHL season|1993–94 season]], and the culmination of the [[1994 Stanley Cup playoffs]]. It was contested between the [[Eastern Conference (NHL)|Eastern Conference]] champion [[1993–94 New York Rangers season|New York Rangers]] and [[Western Conference (NHL)|Western Conference]] champion [[1993–94 Vancouver Canucks season|Vancouver Canucks]]. The Canucks were making the club's second Finals appearance, their first coming during their [[Cinderella (sports)|Cinderella]] run of {{scfy|1982}}, and the Rangers were making their tenth appearance, their first since {{scfy|1979}}. The Rangers, despite losing a 3–1 series lead, ended their then [[List of NHL franchise post-season droughts#Stanley Cup droughts 2|record]] [[Curse of 1940|54-year championship drought]] with a victory in Game 7 to claim the long-awaited [[Stanley Cup]]. It was their fourth championship in franchise history.
+
+The ''[[Hockey Night in Canada]]'' broadcast of the deciding game seven attracted an average Canadian audience of 4.957 million viewers, making it the most watched [[CBC Sports]] program in history to that time.<ref name="CBCViewership"/><ref>{{cite news|title=Despite Some Critics, CBC Enjoys Praise and More Than Six million Olympics Viewers|last=McKay|first=John|agency=Canadian Press|date=February 22, 2002|quote=The [[Ice hockey at the 2002 Winter Olympics – Women's tournament|women's gold medal game]] was a huge ratings hit, drawing...4.54 million...The CBC says its highest rated sports program was Game 7 of the 1994 Stanley Cup between the New York Rangers and Vancouver Canucks. That averaged 4.97 million.}}</ref> The next Stanley Cup Final with games played in Canada was in {{scfy|2004}}, and the next to go the full seven games was in {{scfy|2001}}.
+
+The Rangers' victory marked the start of what is currently 32 consecutive Stanley Cup championships for American-based teams, as the most recent Canadian team to win the Stanley Cup is the [[Montreal Canadiens]], who did so in {{scfy|1993}}.
+
+==Paths to the Finals==
+{{See also|1994 Stanley Cup playoffs|1993–94 New York Rangers season|1993–94 Vancouver Canucks season}}
+
+===Vancouver Canucks===
+The Canucks entered the playoffs seeded seventh in the Western Conference, and overcame a three-games-to-one deficit against the second-seeded [[Calgary Flames]], winning the final three games in [[Overtime (ice hockey)|overtime]] with Game 7 ending in double overtime as [[Pavel Bure]] scored the winning goal on a breakaway to [[Upset (competition)|upset]] the Flames.<ref>{{cite news|title=Canucks conquer Falmes in OT|date=May 1, 1994|agency=Canadian Press|newspaper=Toronto Star|page=B5}}</ref><ref>{{cite news|title=YEEEE-HAH!: Pavel buries Flames in double overtime|date=May 1, 1994|first=Jim|last=Jamieson|newspaper=Vancouver Province|page=A72}}</ref> They then upset the fourth-seeded [[Dallas Stars]] in the second round in five games. In the Conference Finals, the Canucks upset the third-seeded [[Toronto Maple Leafs]] in five games to capture their second Western Conference title.<ref>{{cite news|title=Final-ly: Canucks make Stanley Cup after thriller|last=Strachan|first=Alex|newspaper=Vancouver Sun|date=May 25, 1994|page=A1}}</ref><ref>{{cite news|title=Canucks advance to Cup final: Adams scores winner in double overtime to sink Maple Leafs|last=MacIntyre|first=Ian|newspaper=Vancouver Sun|date=May 25, 1994|page=D1}}</ref> This was the Canucks’ first appearance in the Stanley Cup Final since [[1982 Stanley Cup Final|1982]], where they were previously swept by the Rangers’ cross-town rivals in the [[New York Islanders]].
+
+===New York Rangers===
+The Rangers entered the playoffs with [[Presidents' Trophy|the league's best record]], then swept their [[Battle of New York (ice hockey)|New York-area rival]] [[New York Islanders]] and then beat the [[Washington Capitals]] in five games,<ref name="Morrison-Page106">{{harvnb|Morrison|2008|p=106}}</ref> before falling behind three games to two in the Eastern Conference Finals against their [[Devils–Rangers rivalry|Hudson River rival]]s, [[New Jersey Devils]].<ref name="Morrison-Page106"/> They then won Game 6 by a 4–2 score after team captain Mark Messier publicly guaranteed a victory and then scored a third-period hat trick.<ref>{{harvnb|Morrison|2008|pp=106, 137}}</ref><ref>{{harvnb|McKinley|2012|pages=231–233}}</ref> The Rangers then won Game 7 by a 2–1 score on [[Stéphane Matteau]]'s goal in double overtime, prompting the call of "Matteau, Matteau, Matteau!" by Rangers radio announcer [[Howie Rose]].<ref name="Morrison-Page106"/><ref>{{cite web|url=http://www.msg.com/tv/network-talent/howie-rose|title=Howie Rose|work=MSG.com|publisher=Madison Square Garden, LP|access-date=March 28, 2011|archive-url=https://web.archive.org/web/20110101173659/http://www.msg.com/tv/network-talent/howie-rose|archive-date=January 1, 2011|url-status=dead}}</ref> It was Matteau's second double overtime goal of the series.<ref>{{cite news|title=2 Overtimes Later, It's a Final and It's the Rangers|last=LaPointe|first=Joe|newspaper=New York Times|date=May 28, 1994|page=27|url=https://www.nytimes.com/1994/05/28/sports/hockey-2-overtimes-later-it-s-a-final-and-it-s-the-rangers.html?pagewanted=print&src=pm|access-date=June 5, 2011}}</ref>
+
+==Game summaries==
+This series brought together two assistant coaches who were teammates on the other [[1981–82 Vancouver Canucks season|Canucks team]] to reach the Finals: Rangers assistant coach [[Colin Campbell (ice hockey executive)|Colin Campbell]] and Canucks assistant coach [[Stan Smyl]], who served as team captain then, as [[Kevin McCarthy (ice hockey)|Kevin McCarthy]] was injured.<ref name="1982Canucks"/>
+
+It was the second straight Finals that featured a former [[Edmonton Oilers]] captain trying to become the first person to win a Stanley Cup as captain on two different teams. The [[1993 Stanley Cup Final|previous year]], [[Wayne Gretzky]], who captained the Oilers to the first four of their five Stanley Cups in the 1980s, captained the [[Los Angeles Kings]] to the finals, which they lost to the [[Montreal Canadiens]].<ref>{{harvnb|Morrison|2008|pp=131, 145}}</ref> Here, it was Mark Messier of the Rangers, who captained the Oilers to the last of their five, in {{scfy|1990}}.<ref>{{harvnb|Cole|2004|pp=120, 134&ndash;137}}</ref>
+
+The Rangers players had a decided edge in Finals experience, with seven players from the 1990 Oilers,<ref name="StephenCole"/> including Messier, [[Glenn Anderson]], [[Jeff Beukeboom]], [[Adam Graves]], [[Kevin Lowe]], [[Craig MacTavish]], and [[Esa Tikkanen]]. One 1990 Oiler, [[Martin Gelinas]], was playing for the Canucks. Overall, the Rangers had eleven players with previous Finals appearances, compared to the Canucks' five. In addition, three of the Rangers (Messier, Anderson, and Lowe) were each making their seventh appearance in the Stanley Cup Final (each having made their first six with Edmonton).
+
+With the Rangers having 112 points in the regular-season standing and the Canucks 85, the 27-point difference was the largest point differential between two teams in the Stanley Cup Final since 1982, when there was a 41-point difference between the New York Islanders (118) and the Canucks (77).<ref name="1982Canucks">{{cite news|title=1982 Canucks were unlikeliest of heroes|last=Olson|first=Arv|newspaper=The Vancouver Sun|date=June 1, 1994|page=E3}}</ref><ref>{{cite news|quote=The 27-point differential is the greatest, ironically, between Stanley Cup finalists since the last time the Canucks made the trip to this mega-city 12 springs ago.|title=Paper rout for Rangers|date=May 31, 1994|first=Jim|last=Jamieson|newspaper=Vancouver Province|page=A54}}</ref>
+
+===Game one===
+{{NHLPlayoffs
+ |team1 = Vancouver Canucks
+ |team2 = New York Rangers
+ |stadium1 = [[Madison Square Garden]]
+ |date1 = May 31
+ |score1 = 3–2
+ |ot1=1
+|recap1=www.nhl.com/gamecenter/van-vs-nyr/1994/05/31/1993030411#game=1993030411,game_state=final
+ |won1 = 1
+}}
+The Rangers scored early and led 2–1 late in the third period before Martin Gélinas tied the game with 1:00 to play in regulation time.<ref name="Game1">{{cite news|title=Canucks Take Stanley Cup Opener in OT|last=Sell|first=Dave|newspaper=The Washington Post|date=June 1, 1994|page=F01|quote=The Rangers lost the first game of their Eastern Conference finals against New Jersey in much the same fashion. In both cases, they controlled play, took leads, then lost leads…Martin Gelinas scored for a 2–2 tie with 60 seconds left in regulation.}}</ref> It was the third time in eight games that the Rangers had surrendered a last-minute tying goal.<ref name="Game1"/> The Rangers were all over the Canucks in overtime, but goaltender [[Kirk McLean]] made 52 saves on the night. In the last minute of the first overtime, [[Brian Leetch]] hit the crossbar at one end, and the Canucks went down to score the winner at the other on an odd-man rush by [[Greg Adams (ice hockey, born 1963)|Greg Adams]], as the Rangers, once again, lost a series opener at home in overtime.<ref name="Morrison-Page106"/>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;"|'''1st'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Steve Larmer]] (6)
+| style="text-align:center;"|[[Alexei Kovalev]] (10) and [[Brian Leetch]] (18)
+| style="text-align:center;"|03:32
+| style="text-align:center;"|1–0 NYR 
+|-
+| style="text-align:center;" rowspan="1" |'''2nd'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;" rowspan="3" |'''3rd'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Bret Hedican]] (1)
+| style="text-align:center;"|[[Greg Adams (ice hockey, born 1963)|Greg Adams]] (7) and [[Jyrki Lumme]] (8)
+| style="text-align:center;"|05:45
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|Alexei Kovalev (6)
+| style="text-align:center;"|Brian Leetch (19) and [[Sergei Zubov]] (10)
+| style="text-align:center;"|08:29
+| style="text-align:center;"|2–1 NYR
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Martin Gélinas|Martin Gelinas]] (5)
+| style="text-align:center;"|[[Cliff Ronning]] (5) and [[Sergio Momesso]] (4)
+| style="text-align:center;"|19:00
+| style="text-align:center;"|2–2 
+|-
+| style="text-align:center;"|'''OT'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|Greg Adams (6)
+| style="text-align:center;"|Cliff Ronning (6)  and [[Pavel Bure]] (11)
+| style="text-align:center;"|19:26
+| style="text-align:center;"|3–2 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | NYR
+|align=center | [[Jay Wells]]
+|align=center | Cross-checking
+|align=center | 01:47
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Trevor Linden]]
+|align=center | Tripping
+|align=center | 02:27
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[John McIntyre (ice hockey)|John McIntyre]]
+|align=center | Roughing
+|align=center | 08:50
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Murray Craven]]
+|align=center | Slashing
+|align=center | 10:35
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Jeff Beukeboom]]
+|align=center | Interference
+|align=center | 15:54
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''2nd'''
+|align=center | NYR
+|align=center | [[Mark Messier]]
+|align=center | Hooking
+|align=center | 00:20
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Doug Lidster]]
+|align=center | Tripping
+|align=center | 08:49
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Kevin Lowe]]
+|align=center | Roughing
+|align=center | 08:50
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Geoff Courtnall]]
+|align=center | Interference
+|align=center | 13:18
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Sergio Momesso
+|align=center | Goaltender interference
+|align=center | 16:15
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Jeff Beukeboom
+|align=center | High-sticking
+|align=center | 19:34 
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd'''
+|colspan="5"| ''None''
+|-
+| style="text-align:center;" rowspan="2"| '''OT'''
+|align=center | NYR
+|align=center | [[Greg Gilbert]]
+|align=center | Roughing
+|align=center | 09:31
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Sergio Momesso
+|align=center | Roughing
+|align=center | 09:31
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 10 || align=center | 5 || align=center | 7|| align=center | 9|| align=center | 31
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 15|| align=center | 9|| align=center | 13 || align=center | 17|| align=center | 54
+|}
+
+===Game two===
+{{NHLPlayoffs
+ |team1 = Vancouver Canucks
+ |team2 = New York Rangers
+ |stadium1 = [[Madison Square Garden]]
+ |date1 = June 2
+|recap1=www.nhl.com/gamecenter/van-vs-nyr/1994/06/02/1993030412#game=1993030412,game_state=final 
+|score1 = 1–3
+ |won1 = 2
+}}
+The Rangers evened the series with a 3–1 victory before the series shifted west.<ref>{{cite news|title=Cup final tied heading to Vancouver|last=Fisher|first=Red|newspaper=The Montreal Gazette|date=June 3, 1994|page=D1|author-link=Red Fisher (journalist)}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2" |'''1st'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Doug Lidster]] (1)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|06:22
+| style="text-align:center;"|1–0 NYR
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Sergio Momesso]] (3)
+| style="text-align:center;"|[[Cliff Ronning]] (7) and [[Bret Hedican]] (4)
+| style="text-align:center;"|14:04
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|'''2nd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Glenn Anderson]] (2)
+| style="text-align:center;"|[[Mark Messier]] (14)
+| style="text-align:center;"|11:42 
+| style="text-align:center;"|2–1 NYR
+|-
+| style="text-align:center;"|'''3rd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Brian Leetch]] (7)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|19:55
+| style="text-align:center;"|3–1 NYR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="5"| '''1st'''
+|align=center | VAN
+|align=center | [[Murray Craven]]
+|align=center | Tripping
+|align=center | 02:03
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Doug Lidster
+|align=center | Interference
+|align=center | 07:44
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Roughing
+|align=center | 10:21
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tim Hunter
+|align=center | Misconduct
+|align=center | 15:26
+|align=center | 10:00
+|-
+|align=center | NYR
+|align=center | Glenn Anderson
+|align=center | Interference
+|align=center | 16:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''2nd'''
+|align=center | VAN
+|align=center | [[Jeff Brown (ice hockey, born 1966)|Jeff Brown]]
+|align=center | Hooking
+|align=center | 00:20
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Stéphane Matteau|Stephane Matteau]]
+|align=center | Holding
+|align=center | 06:12
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Adam Graves]]
+|align=center | Tripping
+|align=center | 10:35
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Shawn Antoski]]
+|align=center | Roughing
+|align=center | 13:58
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Esa Tikkanen]]
+|align=center | Goaltender interference
+|align=center | 17:08
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="5"| '''3rd'''
+|align=center | NYR
+|align=center | Doug Lidster
+|align=center | Interference
+|align=center | 01:43
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Alexei Kovalev]]
+|align=center | High-sticking
+|align=center | 04:32
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Gerald Diduck]]
+|align=center | High-sticking
+|align=center | 04:32
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Stephane Matteau
+|align=center | Roughing
+|align=center | 15:29
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Jeff Brown
+|align=center | Roughing
+|align=center | 15:29
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 10 || align=center | 6 || align=center | 13|| align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 14|| align=center | 13|| align=center | 13 || align=center | 40
+|}
+
+===Game three===
+{{NHLPlayoffs
+ |team1 = New York Rangers
+ |team2 = Vancouver Canucks
+ |stadium1 = [[Pacific Coliseum]]
+ |date1 = June 4
+|recap1=www.nhl.com/gamecenter/nyr-vs-van/1994/06/04/1993030413#game=1993030413,game_state=final
+ |score1 = 5–1
+ |won1 = 1
+}}
+The Canucks came storming out in front of their home fans and Pavel Bure scored on his first shift to give them the early lead. But late in the period, with the score tied 1–1, Bure hit [[Jay Wells]] in the face with his stick and cut him, leading to a major penalty and Bure's expulsion from the game. Alexei Kovalev scored a breakaway shorthanded goal, which was featured on the cover of ''[[NHL 95]]''. Glenn Anderson scored on the ensuing power-play and the Rangers then cruised to a 5–1 victory.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="3" |'''1st'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Pavel Bure]] (14)
+| style="text-align:center;"|[[Trevor Linden]] (12) and [[Greg Adams (ice hockey, born 1963)|Greg Adams]] (8)
+| style="text-align:center;"|01:03
+| style="text-align:center;"|1–0 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Brian Leetch]] (8)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|13:39
+| style="text-align:center;"|1–1
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Glenn Anderson]] (3)
+| style="text-align:center;"|Sergei Nemchinov (4) and [[Jeff Beukeboom]] (5)
+| style="text-align:center;"|19:19
+| style="text-align:center;"|2–1 NYR
+|-
+| style="text-align:center;"|'''2nd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Brian Leetch]] (9)
+| style="text-align:center;"|[[Esa Tikkanen]] (4) and Jeff Beukeboom (6)
+| style="text-align:center;"|18:32
+| style="text-align:center;"|3–1 NYR
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Steve Larmer]] (7)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|00:25
+| style="text-align:center;"|4–1 NYR
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Alexei Kovalev]] (7) – ''pp''
+| style="text-align:center;"|[[Adam Graves]] (5) and [[Mark Messier]] (15)
+| style="text-align:center;"|13:03
+| style="text-align:center;"|5–1 NYR
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="12"| '''1st'''
+|align=center | NYR
+|align=center | [[Jay Wells]]
+|align=center | Cross-checking
+|align=center | 02:54
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Glenn Anderson
+|align=center | Roughing
+|align=center | 05:42
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Charging
+|align=center | 05:42
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Jyrki Lumme]]
+|align=center | Holding
+|align=center | 09:57
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Craig MacTavish]]
+|align=center | Holding
+|align=center | 15:04
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Brian Leetch
+|align=center | Tripping
+|align=center | 17:56
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Kevin Lowe]]
+|align=center | High-sticking
+|align=center | 18:12
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Roughing
+|align=center | 18:12
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Sergio Momesso]]
+|align=center | Roughing
+|align=center | 18:12
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Cliff Ronning]]
+|align=center | High-sticking
+|align=center | 18:12
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Pavel Bure
+|align=center | High-sticking – major
+|align=center | 18:12
+|align=center | 5:00
+|-
+|align=center | VAN
+|align=center | Pavel Bure
+|align=center | Game misconduct
+|align=center | 18:12
+|align=center | 10:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | NYR
+|align=center | Kevin Lowe
+|align=center | Roughing
+|align=center | 05:34
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Roughing
+|align=center | 16:28
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Shawn Antoski
+|align=center | Roughing
+|align=center | 16:28
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="8"| '''3rd'''
+|align=center | NYR
+|align=center | Esa Tikkanen
+|align=center | Hooking
+|align=center | 03:13
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Bret Hedican]]
+|align=center | Holding
+|align=center | 05:34
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[John McIntyre (ice hockey)|John McIntyre]]
+|align=center | Holding
+|align=center | 07:58
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Craig MacTavish]]
+|align=center | Holding
+|align=center | 09:46
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Sergio Momesso
+|align=center | Cross-checking
+|align=center | 11:42
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Martin Gélinas|Martin Gelinas]]
+|align=center | Roughing 
+|align=center | 16:35
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Shawn Antoski
+|align=center | Cross-checking
+|align=center | 19:19
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Shawn Antoski
+|align=center | Roughing
+|align=center | 19:19
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 11 || align=center | 5 || align=center | 9|| align=center | 25 
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 9|| align=center | 10|| align=center | 6 || align=center | 25
+|}
+
+===Game four===
+{{NHLPlayoffs
+ |team1 = New York Rangers
+ |team2 = Vancouver Canucks
+ |stadium1 = [[Pacific Coliseum]]
+ |date1 = June 7
+|recap1=www.nhl.com/gamecenter/nyr-vs-van/1994/06/07/1993030414#game=1993030414,game_state=final
+ |score1 = 4–2
+ |won1 = 1
+}}
+In the fourth game, the Canucks again jumped out to an early lead, this time 2–0, before [[Mike Richter]] and Brian Leetch took over the game. Richter made some key saves to keep the game within reach, including one on a [[Penalty shot (ice hockey)|penalty shot]] against Pavel Bure, and Leetch picked up a goal and three assists as the Rangers won 4–2 to take a commanding 3–1 series lead.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="2" |'''1st'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Trevor Linden]] (10) - ''pp''
+| style="text-align:center;"|[[Jyrki Lumme]] (9) and [[Jeff Brown (ice hockey, born 1966)|Jeff Brown]] (9)
+| style="text-align:center;"|13:25
+| style="text-align:center;"|1–0 VAN
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Cliff Ronning]] (5)
+| style="text-align:center;"|[[Pavel Bure]] (12) and [[Murray Craven]] (8)
+| style="text-align:center;"|16:19
+| style="text-align:center;"|2–0 VAN 
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Brian Leetch]] (10)
+| style="text-align:center;"|[[Craig MacTavish]] (4) and [[Greg Gilbert]] (3)
+| style="text-align:center;"|04:03
+| style="text-align:center;"|2–1 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Sergei Zubov]] (5) – ''pp''
+| style="text-align:center;"|[[Mark Messier]] (16) and Brian Leetch (20)
+| style="text-align:center;"|19:44
+| style="text-align:center;"|2–2 
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Alexei Kovalev]] (8) – ''pp''
+| style="text-align:center;"|Brian Leetch (21) and Sergei Zubov (11)
+| style="text-align:center;"|15:05
+| style="text-align:center;"|3–2 NYR
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Steve Larmer]] (8)
+| style="text-align:center;"|Sergei Zubov (12) and Brian Leetch (22)
+| style="text-align:center;"|17:56
+| style="text-align:center;"|4–2 NYR 
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="7"| '''1st'''
+|align=center | VAN
+|align=center | [[Geoff Courtnall]]
+|align=center | Elbowing
+|align=center | 03:11
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Jeff Beukeboom]]
+|align=center | High-sticking
+|align=center | 06:35
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Adam Graves]]
+|align=center | Holding
+|align=center | 13:02
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Boarding – major
+|align=center | 14:17
+|align=center | 5:00
+|-
+|align=center | VAN
+|align=center | Trevor Linden
+|align=center | Holding the stick
+|align=center | 15:07
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Geoff Courtnall
+|align=center | Interference
+|align=center | 17:54
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Esa Tikkanen]]
+|align=center | Roughing
+|align=center | 18:45
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="4"| '''2nd'''
+|align=center | NYR
+|align=center | [[Doug Lidster]]
+|align=center | Holding
+|align=center | 01:13
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Jeff Brown
+|align=center | Tripping
+|align=center | 07:19
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Doug Lidster
+|align=center | Holding
+|align=center | 16:58
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Greg Adams (ice hockey, born 1963)|Greg Adams]]
+|align=center | Boarding
+|align=center | 18:55
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="6"| '''3rd'''
+|align=center | NYR
+|align=center | Bench (served by [[Joe Kocur]])
+|align=center | Too many men on the ice
+|align=center | 03:53
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Jyrki Lumme]]
+|align=center | Holding
+|align=center | 04:48
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Esa Tikkanen]]
+|align=center | Roughing
+|align=center | 10:42
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Gerald Diduck]]
+|align=center | Roughing
+|align=center | 10:42
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Slashing
+|align=center | 11:29
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Martin Gélinas|Martin Gelinas]]
+|align=center | Roughing
+|align=center | 14:31
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 8|| align=center | 8 || align=center | 11|| align=center | 27
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 8|| align=center | 12|| align=center | 10 || align=center | 30
+|}
+
+===Game five===
+{{NHLPlayoffs
+ |team1 = Vancouver Canucks
+ |team2 = New York Rangers
+ |stadium1 = [[Madison Square Garden]]
+ |date1 = June 9
+|recap1=www.nhl.com/gamecenter/van-vs-nyr/1994/06/09/1993030415#game=1993030415,game_state=final
+ |score1 = 6–3
+ |won1 = 1
+}}
+Most who entered Madison Square Garden for the fifth game thought they were going to see the Rangers win the Cup that night. New York had already set the date for a victory parade.<ref name="StephenCole">{{harvnb|Cole|2004|p=128}}</ref> However, the celebration plans got ahead of the work at hand. After a scoreless first period, Jeff Brown opened the scoring eight minutes into the second period. Vancouver added onto their lead to make with goals in the first two minutes of the third period before the Rangers responded with three goals of their own to lend hope with eleven minutes to play. However, the tie lasted all of 29 seconds before [[Dave Babych]] gave Vancouver the lead again to start a run of three unanswered goals for the Canucks to send the series back to Vancouver.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;" rowspan="1" |'''1st'''
+| style="text-align:center;" colspan="5"|''None''
+|-
+| style="text-align:center;"|'''2nd'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Jeff Brown (ice hockey, born 1966)|Jeff Brown]] (4)
+| style="text-align:center;"|[[Cliff Ronning]] (8) and [[Shawn Antoski]] (1)
+| style="text-align:center;"|08:10
+| style="text-align:center;"|1–0 VAN
+|-
+| style="text-align:center;" rowspan="8" |'''3rd'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Geoff Courtnall]] (6)
+| style="text-align:center;"|[[Nathan LaFayette]] (5) and [[Bret Hedican]] (5)
+| style="text-align:center;"|00:26
+| style="text-align:center;"|2–0 VAN 
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Pavel Bure]] (15)
+| style="text-align:center;"|[[Murray Craven]] (9)
+| style="text-align:center;"|02:48
+| style="text-align:center;"|3–0 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Doug Lidster]] (2)
+| style="text-align:center;"|[[Alexei Kovalev]] (11)
+| style="text-align:center;"|03:27
+| style="text-align:center;"|3–1 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Steve Larmer]] (9)
+| style="text-align:center;"|[[Stéphane Matteau|Stephane Matteau]] (3) and [[Sergei Nemchinov]] (5)
+| style="text-align:center;"|06:20
+| style="text-align:center;"|3–2 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Mark Messier]] (11)
+| style="text-align:center;"|[[Glenn Anderson]] (3) and [[Adam Graves]] (6)
+| style="text-align:center;"|09:02
+| style="text-align:center;"|3–3  
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Dave Babych]] (3)
+| style="text-align:center;"|Pavel Bure (13)
+| style="text-align:center;"|09:31
+| style="text-align:center;"|4–3 VAN
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|Geoff Courtnall (7)
+| style="text-align:center;"|Nathan LaFayette (6) and [[Jyrki Lumme]] (10)
+| style="text-align:center;"|12:20
+| style="text-align:center;"|5–3 VAN
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|Pavel Bure (16)
+| style="text-align:center;"|Cliff Ronning (9) and Bret Hedican (6)
+| style="text-align:center;"|13:04
+| style="text-align:center;"|6–3 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="14"| '''1st'''
+|align=center | VAN
+|align=center | [[Tim Hunter (ice hockey)|Tim Hunter]]
+|align=center | Elbowing
+|align=center | 00:49
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Jeff Beukeboom]]
+|align=center | Instigator
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Jeff Beukeboom
+|align=center | Fighting – major
+|align=center | 10:06
+|align=center | 5:00
+|-
+|align=center | NYR
+|align=center | Jeff Beukeboom
+|align=center | Game misconduct
+|align=center | 10:06
+|align=center | 10:00
+|-
+|align=center | NYR
+|align=center | Stephane Matteau
+|align=center | Roughing
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Jay Wells]]
+|align=center | High-sticking
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Sergio Momesso]]
+|align=center | Slashing
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Sergio Momesso
+|align=center | Fighting – major
+|align=center | 10:06
+|align=center | 5:00
+|-
+|align=center | VAN
+|align=center | Cliff Ronning
+|align=center | Roughing
+|align=center | 10:06
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Jay Wells
+|align=center | Roughing
+|align=center | 13:20
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Tim Hunter 
+|align=center | Roughing
+|align=center | 13:20
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Steve Larmer
+|align=center | Holding
+|align=center | 17:20
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Cliff Ronning
+|align=center | Holding
+|align=center | 17:20
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Sergei Nemchinov
+|align=center | Elbowing
+|align=center | 19:32
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="2"| '''2nd'''
+|align=center | VAN
+|align=center | Geoff Courtnall
+|align=center | Elbowing – major
+|align=center | 10:13
+|align=center | 5:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Hooking
+|align=center | 18:19
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="1"| '''3rd'''
+|align=center | NYR
+|align=center | [[Joey Kocur]]
+|align=center | Slashing
+|align=center | 18:41
+|align=center | 2:00
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 12|| align=center | 8|| align=center | 17 || align=center | 37
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 10|| align=center | 13 || align=center | 15|| align=center | 38
+|}
+
+===Game six===
+{{NHLPlayoffs
+ |team1 = New York Rangers
+ |team2 = Vancouver Canucks
+ |stadium1 = [[Pacific Coliseum]]
+ |date1 = June 11
+ |score1 = 1–4
+|recap1=www.nhl.com/gamecenter/nyr-vs-van/1994/06/11/1993030416#game=1993030416,game_state=final
+ |won1 = 2
+}}
+The Canucks fired 14 shots at Mike Richter in the first period and led 1–0 on a [[Jeff Brown (ice hockey, born 1966)|Jeff Brown]] bullet from the point. The score was 2–1 after two periods before another Brown goal gave the Canucks a 3–1 third-period lead. The Rangers had a [[Glenn Anderson]] goal be overturned on video replay. Late in the third, [[Geoff Courtnall]] appeared to score for the Canucks, but the play continued and the Rangers scored to temporarily make the score 3–2. But, in the ensuing video review, it was confirmed that Courtnall had indeed scored his second goal of the game to clinch the game for the Canucks and force a seventh game, the first in the finals since [[1987 Stanley Cup Final|1987]].<ref>{{cite web|url=https://www.espn.co.uk/blog/new-york/rangers/post/_/id/3540/remembering-94-games-5-and-6|website=ESPN.com|title=Remembering '94: Games 5 and 6|first=Mark|last=Simon|date=June 9, 2014}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan="6"|Scoring summary
+|-
+! style="width:12%;"|Period
+! style="width:7%;"|Team
+! style="width:28%;"|Goal
+! style="width:35%;"|Assist(s)
+! style="width:7%;"|Time
+! style="width:11%;"|Score
+|-
+| style="text-align:center;"|'''1st'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Jeff Brown (ice hockey, born 1966)|Jeff Brown]] (5) – ''pp''
+| style="text-align:center;"|[[Trevor Linden]] (13)
+| style="text-align:center;"|09:42
+| style="text-align:center;"|1–0 VAN
+|-
+| style="text-align:center;" rowspan="2" |'''2nd'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|[[Geoff Courtnall]] (8)
+| style="text-align:center;"|[[Jyrki Lumme]] (11) and [[Pavel Bure]] (14)
+| style="text-align:center;"|12:29
+| style="text-align:center;"|2–0 VAN
+|-
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Alexei Kovalev]] (9) – ''pp''
+| style="text-align:center;"|[[Mark Messier]] (17) and [[Brian Leetch]] (23)
+| style="text-align:center;"|14:42
+| style="text-align:center;"|2–1 VAN
+|-
+| style="text-align:center;" rowspan="2" |'''3rd'''
+| style="text-align:center;"|VAN
+| style="text-align:center;"|Jeff Brown (6)
+| style="text-align:center;"|''Unassisted''
+| style="text-align:center;"|08:35
+| style="text-align:center;"|3–1 VAN
+|-
+| style="text-align:center;"|VAN
+| style="text-align:center;"|Geoff Courtnall (9)
+| style="text-align:center;"|Nathan LaFayette (7) and [[Gerald Diduck]] (7)
+| style="text-align:center;"|18:28
+| style="text-align:center;"|4–1 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| Penalty
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-
+| style="text-align:center;" rowspan="2"| '''1st'''
+|align=center | NYR
+|align=center | [[Jeff Beukeboom]]
+|align=center | Elbowing
+|align=center | 03:02
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Brian Leetch
+|align=center | Interference
+|align=center | 09:39
+|align=center | 2:00
+|-
+| style="text-align:center;" rowspan="3"| '''2nd'''
+|align=center | VAN
+|align=center | [[Sergio Momesso]]
+|align=center | Interference
+|align=center | 02:26
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Gerald Diduck
+|align=center | Tripping
+|align=center | 07:27
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[John McIntyre (ice hockey)|John McIntyre]]
+|align=center | Interference
+|align=center | 13:23
+|align=center | 2:00
+|-
+|- style="text-align:center;"
+|| '''3rd''' 
+|colspan="5"| ''None''
+|-
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3 
+! style="width:3em;" | Total
+|-
+| style="text-align:left;"| {{nowrap|New York}} || align=center | 7|| align=center | 12|| align=center | 10|| align=center | 29
+|-
+| style="text-align:left;"| {{nowrap|Vancouver}} || align=center | 16 || align=center | 8 || align=center | 7|| align=center | 31
+|}
+
+===Game seven===
+{{NHLPlayoffs
+ |team1 = Vancouver Canucks
+ |team2 = New York Rangers
+ |stadium1 = [[Madison Square Garden]]
+ |date1 = June 14
+ |score1 = 2–3
+|recap1=www.nhl.com/gamecenter/van-vs-nyr/1994/06/14/1993030417#game=1993030417,game_state=final
+ |won1 = 2
+}}
+For the second time since {{scfy|1971}} and the tenth time overall, the Finals went to seven games. Rangers coach [[Mike Keenan]] became the first person to be a head coach in game sevens of the Stanley Cup Final for two different teams. Keenan had coached the [[Philadelphia Flyers]] in {{scfy|1987}} when they lost to the Edmonton Oilers.<ref name="Game7">{{harvnb|Morrison|2008|p=109}}</ref> [[Mike Babcock]] would join him in this feat in {{scfy|2009}} while with the [[Detroit Red Wings]], having been with the [[Mighty Ducks of Anaheim]] when they lost to the New Jersey Devils in {{scfy|2003}} (the home team won all seven games of the series).<ref name="Babcock">{{cite news|quote=The Penguins…beat the defending champion Detroit Red Wings 2-1…in Game 7 and win the Stanley Cup for the third time…In 2003…the last series in which the home team won all seven games…the Mighty Ducks team that lost then was coached by current Red Wings bench boss Mike Babcock.|title=Penguin power: Pittsburgh motors away from Detroit with the silver Cup|first=Ira|last=Podell|agency=Associated Press|newspaper=Salt Lake Deseret News|date=June 13, 2009|page=D1}}</ref>
+
+The game at Madison Square Garden was an "electric affair"<ref name="StephenCole"/> with the Rangers jumping to an early 2–0 lead at the 15-minute mark after scoring twice within four minutes on goals by [[Brian Leetch]] and [[Adam Graves]]. However, Canucks captain [[Trevor Linden]] silenced the home crowd with a short-handed goal early in the second period to make it 2–1. Mark Messier restored order for the home crowd with a power play goal, only to have Linden make it close again. After that, it was "hectic, jittery hockey," [[Nathan LaFayette]] "frightened all Manhattan wobbling a loose puck" off the post behind Mike Richter with six minutes left.<ref name="StephenCole"/> There were three face-offs in the Rangers' zone in the final 37 seconds, the last coming with 1.6 seconds on the clock.<ref>{{harvnb|McKinley|2012|page=234}}</ref>
+
+Mark Messier provided two of the most memorable images of that Stanley Cup Final that would become iconic images to the Rangers and their fans: first, jumping up and down excitedly as ticker tape fell, then, showing incredible emotion as he accepted the Stanley Cup from NHL Commissioner [[Gary Bettman]], as he became the first (and as of today, the only) player to captain two different teams to the Stanley Cup.<ref>{{harvnb|McKinley|2012|pages=234–235}}</ref> At the time Messier was credited for the game-winning goal earning him the tongue-in-cheek nickname of "Mr. June";<ref>{{cite news|last=Barron|first=James|title=New Yorkers Bury the Rangers' Curse in a Sea of Confetti|newspaper=The New York Times|date=June 18, 1994|page=28|author-link=James Barron (journalist)|url=https://www.nytimes.com/1994/06/18/nyregion/new-yorkers-bury-the-rangers-curse-in-a-sea-of-confetti.html?pagewanted=1&pagewanted=print}}</ref> however, Messier admitted in 2017 that the game-winning goal was likely scored by [[Brian Noonan]].<ref name="Messier watches 1994 Stanley Cup win"/>
+
+{| width="90%" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! width="12%" | Period
+! width="7%" | Team
+! width="28%" | Goal
+! width="35%" | Assist(s)
+! width="7%" | Time
+! width="11%" | Score
+|-
+| style="text-align:center;" rowspan="2"|'''1st'''
+| style="text-align:center;"|NYR
+| style="text-align:center;"|[[Brian Leetch]] (11)
+| style="text-align:center;"|[[Sergei Zubov]] (13) and [[Mark Messier]] (18)
+| style="text-align:center;"| 11:02
+| style="text-align:center;" | 1–0 NYR
+|-
+| style="text-align:center;"| NYR
+| style="text-align:center;"|[[Adam Graves]] (10) – ''pp''
+| style="text-align:center;"|[[Alexei Kovalev]] (12) and Sergei Zubov (14)
+| style="text-align:center;"| 14:45
+| style="text-align:center;"| 2–0 NYR
+|-
+| align=center rowspan=2 | '''2nd'''
+| style="text-align:center;"| VAN
+| style="text-align:center;"| [[Trevor Linden]] (11) – ''sh''
+| style="text-align:center;"| [[Brian Glynn]] (3) and [[Pavel Bure]] (15)
+| style="text-align:center;"| 05:21
+| style="text-align:center;"| 2–1 NYR
+|-
+| style="text-align:center;"| NYR
+| style="text-align:center;"| Mark Messier (12) – ''pp''
+| style="text-align:center;"| Adam Graves (7) and [[Brian Noonan]] (7)
+| style="text-align:center;"| 13:29
+| style="text-align:center;"| 3–1 NYR
+|-
+| style="text-align:center;"| '''3rd'''
+| style="text-align:center;"| VAN
+| style="text-align:center;"| Trevor Linden (12) – ''pp''
+| style="text-align:center;"| [[Geoff Courtnall]] (10) and [[Cliff Ronning]] (10)
+| style="text-align:center;"| 04:50
+| style="text-align:center;"| 3–2 NYR
+|-
+! colspan=6 | Penalty summary
+|-
+! width="12%" | Period
+! width="7%" | Team
+! width="28%" | Player
+! width="35%" | [[Penalty (ice hockey)|Penalty]]
+! width="7%" | Time
+! width="11%" | PIM
+|-
+| align=center rowspan=3 | '''1st'''
+|align=center | VAN
+|align=center | [[Jyrki Lumme]]
+|align=center | Cross-checking
+|align=center | 14:03
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Bret Hedican]]
+|align=center | Roughing
+|align=center | 18:50
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Esa Tikkanen]]
+|align=center | Roughing
+|align=center | 18:50
+|align=center | 2:00
+|-
+| align=center rowspan=3 | '''2nd'''
+|align=center | VAN
+|align=center | [[Jeff Brown (ice hockey, born 1966)|Jeff Brown]]
+|align=center | Interference
+|align=center | 04:38
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | [[Dave Babych]]
+|align=center | Tripping
+|align=center | 12:46
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | Mark Messier
+|align=center | Hooking
+|align=center | 16:39
+|align=center | 2:00
+|-
+| align=center rowspan=3 | '''3rd'''
+|align=center | NYR
+|align=center | Esa Tikkanen
+|align=center | Hooking
+|align=center | 04:16
+|align=center | 2:00
+|-
+|align=center | NYR
+|align=center | [[Craig MacTavish]]
+|align=center | Roughing
+|align=center | 10:55
+|align=center | 2:00
+|-
+|align=center | VAN
+|align=center | Trevor Linden
+|align=center | Roughing
+|align=center | 10:55
+|align=center | 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;"         | 1
+! style="width:3em;"         | 2
+! style="width:3em;"         | 3
+! style="width:3em;"         | Total
+|-
+| align="left" | Vancouver || align=center | 9 || align=center | 12 || align=center | 9 || align=center | 30
+|-
+| align="left" | New York || align=center | 12 || align=center | 14 || align=center | 9 || align=center | 35
+|}
+
+==Television==
+In Canada, the series was televised in English on the CBC and in French on [[La Soirée du hockey|SRC]]. In the United States, the series was broadcast on [[ESPN National Hockey Night|ESPN]] outside of the New York City market. The local rightsholder, [[MSG Network]] broadcast games one, two, three, six, and seven on its main channel, and games four and five on its secondary MSG 2 channel, due to conflicts with the [[1994 New York Yankees season|Yankees schedule]].<ref>{{cite news|title=No Champagne Thoughts Yet Rangers looking to stay focused on one period at a time in their possible clincher against Canucks|first=Jim|last=Smith|last2=Zipay|first2=Steve|newspaper=Newsday|date=June 9, 1994|page=A90|quote=Game (5)...will be on MSGII...Yankees-Blue Jays game...airs...on MSG.}}</ref><ref>{{cite news|title=Today's Radio/TV|newspaper=The New York Times|date=June 7, 1994|page=B8}}</ref><ref>{{cite news|title=Today's Radio/TV|newspaper=The New York Times|date=June 9, 1994|page=B18}}</ref>
+
+This was the last Cup Finals in which the regional rights holders of the participating U.S. teams produced local telecasts of their respective games.<ref name="Kalinsky"/> This was also the last Cup Finals to air exclusively on a cable network until {{scfy|2023}}, when [[NHL on TNT|TNT]] aired the Finals for the first time ever. Under the American TV contracts that would take effect beginning next season, there would be exclusive national coverage of the Cup Finals, split between [[NHL on Fox|Fox Sports]] and ESPN.
+
+ESPN also sent its broadcasts to a record 120 countries, for a potential audience of 285 million.<ref>{{cite news|title=Rangers Bask on Highest Plateau|date=June 15, 1994|first=James|last=Christie|newspaper=The Globe and Mail|page=C8}}</ref> MSG Network broadcaster [[Al Trautwig]] said that the Rangers themselves contributed to those numbers in putting the first Russian names on the Stanley Cup: [[Alexander Karpovtsev]], [[Alexei Kovalev]], [[Sergei Nemchinov]], and [[Sergei Zubov]], giving a huge European audience, including those watching on the brand-new television screens across the former Soviet Union, a Stanley Cup story to remember.<ref name="Kalinsky">{{cite book|page=[https://archive.org/details/gardenofdreamsma0000unse/page/171 171]|title=Garden of Dreams|first=George|last=Kalinsky|year=2004|publisher=Stewart, Tabori, & Chang|location=New York|isbn=1-58479-343-0|author-link=George Kalinsky|url=https://archive.org/details/gardenofdreamsma0000unse/page/171}}</ref><ref name="Russians"/>
+
+===Ratings===
+In the United States, game seven was the highest-rated hockey game on cable. ESPN's broadcast drew a 5.2 rating.<ref name="Ratings"/> However, in New York, the ESPN blackout meant MSG Network's broadcast drew 16.2 rating, a record for the network.<ref name="Kalinsky"/><ref name="Ratings"/> The two networks combined yielded a 6.9 rating.<ref name="Ratings">{{cite news|url=https://www.nytimes.com/1994/06/16/sports/game-7-a-cable-ratings-high.html?pagewanted=1&pagewanted=print|title=Game 7 a Cable-Ratings High|date=June 16, 1994|newspaper=New York Times|page=B12}}</ref>
+
+With an average Canadian audience of 4.957 million viewers, game seven was the [[List of most watched television broadcasts|most watched]] CBC Sports program<ref name="CBCViewership"/> until the 10.6 million viewers for the [[Ice hockey at the 2002 Winter Olympics – Men's tournament|men's ice hockey gold medal game]] between [[Canada men's national ice hockey team|Canada]] and the [[United States men's national ice hockey team|United States]] at the [[2002 Winter Olympics]], when Canada won its first Olympic ice hockey gold medal since the [[1952 Winter Olympics]].<ref>{{cite news|title=Lucky Loonie Stunt Pays Off|date=February 26, 2002|first=Shawn|last=Ohler|newspaper=The Calgary Herald|page=A1|quote=A record-busting average of 8.7&nbsp;million Canadians watched on television as the men's hockey team snatched gold from the United States in Salt Lake City...The audience actually peaked at 10.6&nbsp;million, the CBC said...CBC says that prior to Sunday, its highest-rated sports show was Game 7 of the 1994 Stanley Cup between the New York Rangers and the Vancouver Canucks, which attracted an average of 4.97&nbsp;million viewers.}}</ref><ref name="CBCViewership">{{harvnb|McKinley|2012|pages=230, 263–267}}</ref> Bob Cole, who called both games,<ref name="MemorableGames">{{cite book|title=Hockey Night in Canada: Best of the Best|page=6|first=Scott|last=Morrison|location=Toronto|publisher=Key Porter Books|year=2010 |isbn=978-1-55470-316-6 }}</ref> said that game seven was one of his most memorable TV games.<ref name="MemorableGames"/><ref>{{cite news|title=Cole's Close Call|date=November 6, 1997|first=William|last=Houston|newspaper=The Globe and Mail|quote=Cole's three most memorable TV games: 1. Game 7 of the 1987 Stanley Cup Final (Edmonton 3, Philadelphia 1). The Oilers at their peak. 2. Game 3 of [[1996 World Cup of Hockey|1996 World Cup of Hockey Final]] (United States 5, Canada 2). 'I was devastated.' 3. Game 7, 1994 Stanley Cup Final (New York Rangers 3, Vancouver 2). 'A great series.'|page=S4}}</ref>
+
+==Team rosters==
+Bolded years under Finals appearance indicates a year the player won the Stanley Cup.
+
+===New York Rangers===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glenn|Healy}}
+| G
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Pickering, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''35'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Richter}}
+| G
+| L
+| [[1985 NHL Entry Draft|1985]]
+| style="text-align:left;"|[[Abington Township, Montgomery County, Pennsylvania|Abington, Pennsylvania]]
+| first
+|-
+| '''2'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Leetch}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| [[1986 NHL Entry Draft|1986]]
+| style="text-align:left;"|[[Corpus Christi, Texas]]
+| first 
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kevin|Lowe}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Lachute, Quebec]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Doug|Lidster}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Kamloops|Kamloops, British Columbia]]
+| first
+|-
+| '''21'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Zubov}}
+| D
+| R
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first
+|-
+|  '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{Sortname|Jeff|Beukeboom}}
+| D
+| R
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Ajax, Ontario]]
+| fourth {{small|('''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''24'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jay|Wells}}
+| D
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Paris, Ontario]]
+| first
+|-
+| '''25'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexander|Karpovtsev}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first 
+|-
+| '''9'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adam|Graves}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| second {{small|('''{{scfy|1990}}''')}}
+|-
+| '''10'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{sortname|Esa|Tikkanen}}
+| RW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Helsinki|Helsinki, Finland]]
+| fifth {{small|('''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''11'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mark|Messier}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''12'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Eddie|Olczyk}}
+| C
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Chicago|Chicago, Illinois]]
+| first {{small|(did not play)}}
+|-
+| '''13'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Sergei|Nemchinov}}
+| C
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Craig|MacTavish}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[London, Ontario]]
+| fourth {{small|('''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Hudson}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Guelph|Guelph, Ontario]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''16'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Noonan}}
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Boston|Boston, Massachusetts]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''17'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Gilbert}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Mississauga|Mississauga, Ontario]]
+| fifth {{small|('''{{scfy|1982}}''', '''{{scfy|1983}}''', {{scfy|1984}}, {{scfy|1992}})}}
+|-
+| '''18'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Hartman}}
+| LW
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Detroit|Detroit, Michigan]]
+| first {{small|(did not play)}}
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nick|Kypreos}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Toronto, Ontario]]
+| first
+|-
+| '''26'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Joe|Kocur}}
+| RW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Kelvington, Saskatchewan]]
+| first
+|-
+| '''27'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Alexei|Kovalev}}
+| RW
+| L
+| [[1991 NHL Entry Draft|1991]]
+| style="text-align:left;"|[[Tolyatti|Tolyatti, Soviet Union]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Steve|Larmer}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| RW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Peterborough, Ontario]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Stephane|Matteau|Stéphane Matteau}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Rouyn-Noranda|Rouyn-Noranda, Quebec]]
+| second {{small|({{scfy|1992}})}}
+|-
+| '''36'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Glenn|Anderson}}
+| RW/LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Vancouver, British Columbia]]
+| seventh {{small|({{scfy|1983}}, '''{{scfy|1984}}''', '''{{scfy|1985}}''', '''{{scfy|1987}}''', '''{{scfy|1988}}''', '''{{scfy|1990}}''')}}
+|}
+
+===Vancouver Canucks===
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|- style="background:#ddd;"
+! scope="col"|#
+! scope="col"|[[Nationality|Nat]]
+! scope="col"|Player
+! scope="col"|Position
+! scope="col"|Hand
+! scope="col"|Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''1'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kirk|McLean}}
+| G
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[North York, Ontario]]
+| first
+|-
+| '''35'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Kay|Whitmore}}
+| G
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Greater Sudbury|Sudbury, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''3'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Bret|Hedican}}
+| D
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Saint Paul, Minnesota]]
+| first 
+|-
+| '''4'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gerald|Diduck}}
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''5'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dana|Murzyn}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| D
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| second {{small|('''{{scfy|1989}}''', did not play)}}
+|-
+| '''6'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Adrien|Plavsic}}
+| D
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''21'''
+| {{flagicon|FIN}}
+! scope="row" style="text-align:left;"|{{Sortname|Jyrki|Lumme}}
+| D
+| L
+| {{NHL Year|1989}}
+| style="text-align:left;"|[[Tampere|Tampere, Finland]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jeff|Brown|Jeff Brown (ice hockey, born 1966)}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Ottawa|Ottawa, Ontario]]
+| first
+|-
+| '''24'''
+| {{flagicon|CZE}}
+! scope="row" style="text-align:left;"|{{sortname|Jiri|Slegr|Jiří Šlégr}}
+| D
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Jihlava|Jihlava, Czechoslovakia]]
+| first {{small|(did not play)}}
+|-
+| '''28'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Brian|Glynn|Brian Glynn (ice hockey)}}
+| D
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Iserlohn|Iserlohn, West Germany]]
+| first
+|-
+| '''44'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Dave|Babych}}
+| D
+| L
+| {{NHL Year|1991}}
+| style="text-align:left;"|[[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''7'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Cliff|Ronning}}
+| C
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Burnaby, British Columbia]]
+| first
+|-
+| '''8'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Greg|Adams|Greg Adams (ice hockey, born 1963)}}
+| LW
+| L
+| {{NHL Year|1987}}
+| style="text-align:left;"|[[Nelson, British Columbia]]
+| first
+|-
+| '''10'''
+| {{flagicon|RUS}}
+! scope="row" style="text-align:left;"|{{sortname|Pavel|Bure}}
+| RW
+| L
+| [[1989 NHL Entry Draft|1989]]
+| style="text-align:left;"|[[Moscow|Moscow, Soviet Union]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Geoff|Courtnall}}
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Victoria, British Columbia]]
+| second {{small|('''{{scfy|1988}}''')}}
+|-
+| '''15'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|John|McIntyre|John McIntyre (ice hockey)}}
+| C
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Ravenswood, Ontario]]
+| first
+|-
+| '''16'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Trevor|Linden}} – '''[[Captain (ice hockey)|C]]'''
+| C
+| R
+| [[1988 NHL Entry Draft|1988]]
+| style="text-align:left;"|[[Medicine Hat|Medicine Hat, Alberta]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+! scope="row" style="text-align:left;"|{{sortname|Jimmy|Carson}}
+| C
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Southfield, Michigan]]
+| second {{small|({{scfy|1993}}, did not play)}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Shawn|Antoski}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Brantford, Ontario]]
+| first
+|-
+| '''19'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Tim|Hunter|Tim Hunter (ice hockey)}}
+| RW
+| R
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Calgary|Calgary, Alberta]]
+| third {{small|({{scfy|1986}}, '''{{scfy|1989}}''')}}
+|-
+| '''20'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Jose|Charbonneau|José Charbonneau}}
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Ferme-Neuve, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''23'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Martin|Gelinas|Martin Gélinas}}
+| LW
+| L
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[Shawinigan|Shawinigan, Quebec]]
+| second {{small|('''{{scfy|1990}}''')}}
+|-
+| '''25'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Nathan|LaFayette}}
+| RW
+| R
+| {{NHL Year|1993}}
+| style="text-align:left;"|[[New Westminster, British Columbia]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Sergio|Momesso}} – '''[[Captain (ice hockey)#Alternate captains|A]]'''
+| LW
+| L
+| {{NHL Year|1990}}
+| style="text-align:left;"|[[Montreal, Quebec]]
+| first
+|-
+| '''29'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Gino|Odjick}}
+| LW
+| L
+| [[1990 NHL Entry Draft|1990]]
+| style="text-align:left;"|[[Maniwaki|Maniwaki, Quebec]]
+| first {{small|(did not play)}}
+|-
+| '''32'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Murray|Craven}}
+| C
+| L
+| {{NHL Year|1992}}
+| style="text-align:left;"|[[Medicine Hat|Medicine Hat, Alberta]]
+| third {{small|({{scfy|1985}}, {{scfy|1987}})}}
+|-
+| '''33'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Michael|Peca}}
+| C
+| R
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[Toronto, Ontario]]
+| first {{small|(did not play)}}
+|-
+| '''30'''
+| {{flagicon|CAN}}
+! scope="row" style="text-align:left;"|{{sortname|Mike|Fountain}}
+| G
+| L
+| [[1992 NHL Entry Draft|1992]]
+| style="text-align:left;"|[[North York, Ontario]]
+| first {{small|(did not play)}}
+|}
+
+==Stanley Cup engraving==
+The 1994 Stanley Cup was presented to Rangers captain Mark Messier by [[NHL Commissioner]] [[Gary Bettman]] following the Rangers 3–2 win over the Canucks in game seven.
+
+The following Rangers players and staff had their names engraved on the Stanley Cup.
+
+'''1993–94 New York Rangers'''
+{{Stanley Cup champion
+|centres=*11 [[Mark Messier]] (Captain)
+*12 [[Eddie Olczyk]]*
+*13 [[Sergei Nemchinov]]
+*14 [[Craig MacTavish]]
+*15 [[Mike Hudson]]
+*27 [[Alexei Kovalev]]
+|goaltenders=*30 [[Glenn Healy]]
+*35 [[Mike Richter]]
+|defence=*2 [[Brian Leetch]] (A)
+*4 [[Kevin Lowe]] (A)
+*6 [[Doug Lidster]]
+*21 [[Sergei Zubov]]
+*23 [[Jeff Beukeboom]]
+*24 [[Jay Wells]]
+*25 [[Alexander Karpovtsev]]
+|wingers=*9 [[Adam Graves]] (A)
+*10 [[Esa Tikkanen]]
+*16 [[Brian Noonan]]
+*17 [[Greg Gilbert]]
+*18 [[Mike Hartman]]*
+*19 [[Nick Kypreos]]
+*26 [[Joe Kocur]]
+*28 [[Steve Larmer]] (A)
+*32 [[Stéphane Matteau|Stephane Matteau]]
+*36 [[Glenn Anderson]]
+|player-notes=
+* * Did not officially qualify, but still engraved on the Stanley Cup.
+|non-players=
+*[[Neil Smith (ice hockey)|Neil Smith]] (President/General Manager/Governor). Robert Gutkowski (Alt. Governor)
+*[[Stanley R. Jaffe|Stanley Jaffe]] (Alt. Governor), Kenneth Munoz (Alt. Governor)
+*[[Larry Pleau]] (Asst. General Manager), [[Mike Keenan]] (Head Coach)
+*[[Colin Campbell (ice hockey executive)|Colin Campbell]] (Associate Coach), [[Dick Todd (ice hockey)|Dick Todd]] (Asst. Coach)
+*Matthew Loughran (Manager of Team Operations), Barry Watkins (Director of Communications)
+*Christer Rockstrom (Scout), Tony Feltrin (Scout)
+*Martin Madden (Scout), [[Herb Hammond]] (Scout), Darwin Bennett (Scout)
+*Dave Smith (Medical trainer), Joe Murphy (Equipment trainer)
+*Mike Folga (Equipment Manager), Bruce Lifrieri (Massage Therapist)}}
+
+===Engraving notes===
+* When the New York Rangers submitted the list of names for engraving, #12 [[Eddie Olczyk]] (C) and #18 [[Mike Hartman]] (LW) were included, although they fell short of the official requirements of 41 regular season games, or participation in the Finals. When the Stanley Cup was engraved, Olczyk and Hartman's names were omitted. (Olczyk had played 37 regular-season games and one game in the Eastern Conference Finals. Hartman had played 35 regular-season games and none in the playoffs.) Both players had spent the entire season with New York, and missed extensive time due to injury. At the Rangers' protest, the NHL added Olczyk and Hartman to the Cup. The NHL no longer adds missing names after the Cup has been engraved, though since 1994, it allows teams to petition for the inclusion of players who do not officially qualify.
+*Seven players who won the cup in 1994 were also with the Edmonton Oilers in 1990 when they won their fifth Cup: Mark Messier, Kevin Lowe, Glenn Anderson, Jeff Beukeboom, Adam Graves, Craig MacTavish and Esa Tikkanen. 
+*Greg Gilbert won the Stanley Cup with the New York Islanders in {{scfy|1982}} and {{scfy|1983}}, making him the only player in NHL history to earn Stanley Cup rings with both New York franchises.<ref>[https://burlingtoneagles.com/Articles/4964/Introducing_NLT_Service_Provider_Former_NHL_Player_Greg_Gilbert/ Introducing NLT Service Provider, Former NHL Player Greg Gilbert]</ref>
+*Alexander Karpovtsev, Alexei Kovalev, Sergei Nemchinov and Sergei Zubov became the first four Russian-trained players to have their names engraved on the Stanley Cup.<ref name="Russians">{{YouTube|id=y5uhiCeQdZo|title=First Russians win Cup – Because It's The Cup}}</ref>
+
+==See also==
+*[[List of Stanley Cup champions]]
+*[[1994 Vancouver Stanley Cup riot]]
+
+==References==
+;Inline citations
+{{Reflist|30em}}
+
+;Bibliography
+*{{cite book|last=Cole|first=Stephen|title=The Best of Hockey Night in Canada|year=2004|publisher=McArthur & Company|location=Toronto|isbn=1-55278-408-8}}
+*{{cite book|last=Diamond|first=Dan|title=Total Stanley Cup|year=2000|publisher=NHL|isbn=1-892129-07-8|url=https://archive.org/details/totalstanleycupo0000unse}}
+*{{cite book|last=McKinley|first=Michael|title=Hockey Night in Canada 60 Seasons|year=2012|publisher=Penguin Group|location=Toronto|isbn=978-0670066988}}
+*{{cite book|last=Morrison|first=Scott|title=Hockey Night in Canada: My Greatest Day|year=2008|publisher=Key Porter Books|location=Toronto|isbn=978-1-55470-086-8|author-link=Scott Morrison (journalist)|url=https://archive.org/details/mygreatestday50p0000morr}}
+*{{cite book|last=Podnieks|first=Andrew|author2=Hockey Hall of Fame|year=2004|title=Lord Stanley's Cup|publisher=Triumph Books|pages=12, 50|isbn=978-1-55168-261-7}}
+
+==External links==
+*[https://www.hockey-reference.com/playoffs/1994-new-york-rangers-vs-vancouver-canucks-stanley-cup-final.html Hockey-Reference]
+
+{{S-start}}
+{{succession box |
+  before = [[1993 Stanley Cup Final|Montreal Canadiens<br>1993]] |
+  after = [[1995 Stanley Cup Final|New Jersey Devils<br>1995]] |
+  title = [[List of Stanley Cup champions|New York Rangers<br>Stanley Cup champions]] |
+  years = 1994|
+}}
+{{S-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{New York Rangers}}
+{{Vancouver Canucks}}
+{{1993–94 NHL season by team}}
+{{Hockey Night in Canada}}
+{{ESPN National Hockey Night}}
+{{NHL Radio}}
+{{Sports Emmy Award for Outstanding Live Sports Special}}
+}}
+
+[[Category:1993–94 NHL season|Stanley Cup]]
+[[Category:New York Rangers games]]
+[[Category:Vancouver Canucks games]]
+[[Category:Stanley Cup Finals]]
+[[Category:1994 Stanley Cup|Finals]]
+[[Category:1994 in sports in New York City|Stanley Cup Final]]
+[[Category:1994 in British Columbia|Stanley Cup Final]]
+[[Category:1990s in Vancouver]]
+[[Category:1990s in Manhattan]]
+[[Category:May 1994 sports events in Canada|Stanley Cup Final]]
+[[Category:May 1994 sports events in the United States|Stanley Cup Final]]
+[[Category:June 1994 sports events in Canada|Stanley Cup Final]]
+[[Category:June 1994 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:Ice hockey competitions in Vancouver]]

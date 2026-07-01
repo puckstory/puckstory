@@ -1,0 +1,229 @@
+{{Short description|1924 ice hockey championship series}}
+{{Use Canadian English|date=March 2026}}
+{{Infobox Stanley Cup Final
+|image=Canadiens1924.jpg
+|caption= The Canadiens in a group photo after winning the Cup
+|year=1924
+|dates=March 22–25, 1924
+|team2=[[Calgary Tigers]] (WCHL)
+|team1='''[[1923–24 Montreal Canadiens season|Montreal Canadiens]]''' (NHL)
+|format=best-of-three
+|team1_1='''6'''
+|team2_1=1
+|team1_2='''3'''
+|team2_2=0
+|team1_tot=2
+|team2_tot=0
+|location1=[[Montreal]]: [[Mount Royal Arena]] (1)
+|location2=[[Ottawa]]: [[Ottawa Auditorium]] (2)
+|series_winner=[[Howie Morenz]] (4:55, first)
+|hofers='''Canadiens:'''<br/>[[Sprague Cleghorn]] (1958)<br/>[[Aurèle Joliat|Aurele Joliat]] (1947)<br/>[[Joe Malone (ice hockey)|Joe Malone]] (1950)<br/>[[Sylvio Mantha]] (1960)<br/>[[Howie Morenz]] (1945)<br/>[[Georges Vézina|Georges Vezina]] (1945)<br/>'''Tigers:'''<br/>[[Rusty Crawford]] (1963)<br/>[[Red Dutton]] (1958)<br/>[[Herb Gardiner]] (1958)<br/>[[Harry Oliver (ice hockey)|Harry Oliver]] (1967)<br/>'''Coaches:'''<br/>[[Léo Dandurand|Leo Dandurand]] (1963)
+|coaches=Montreal: [[Leo Dandurand]]<br />Calgary: [[Eddie Oatman]]
+|captains=Montreal: [[Sprague Cleghorn]]<br>Calgary: [[Red Dutton]]
+}}
+The '''1924 Stanley Cup Final''' saw the [[National Hockey League]] (NHL) champion [[1923–24 Montreal Canadiens season|Montreal Canadiens]] defeat the [[Western Canada Hockey League]] (WCHL) champion [[Calgary Tigers]] two games to none in the best-of-three-game series. It was Montreal's fourth appearance in the Finals and second championship.<ref>{{Cite web|title=Stanley Cup Champions 1918-1929|url=https://www.nhl.com/news/nhl-stanley-cup-champions-1918-1929/c-288144788|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref>
+
+This was the last Final until the [[1983 Stanley Cup Final]] to be contested by a team from Alberta and the last Final until [[1986 Stanley Cup Final|1986]] to be contested by a team from Calgary.
+
+==Paths to the Final==
+{{main|1924 Stanley Cup playoffs}}
+As in 1922, the PCHA champion met the WCHL champion in a playoff, with the winner to meet the NHL champion in the Final. That series was held in Vancouver, Calgary and Winnipeg. The NHL champion would have to play the loser to advance to the Final. Montreal first played the [[Vancouver Millionaires|Vancouver Maroons]], defeating them 2–0 in a best-of-three to advance to the Final.
+
+===Bracket===
+{{6TeamBracket-3 leagues
+| legs = 3
+| RD1-legs = 2
+| aggregate = y
+
+| RD1=League Championships
+| RD2=Stanley Cup Semifinals
+| RD3=Stanley Cup Semifinals
+| RD4='''Stanley Cup Final'''
+| RD1-seed1=P1
+| RD1-team1=Seattle Metropolitans
+| RD1-score1-1=2
+| RD1-score1-2=1
+| RD1-seed2='''P2'''
+| RD1-team2='''Vancouver Maroons'''
+| RD1-score2-1=2
+| RD1-score2-2='''2'''
+| RD1-score1-agg=3
+| RD1-score2-agg='''4'''
+
+| RD1-seed3='''W1'''
+| RD1-team3='''Calgary Tigers'''
+| RD1-score3-1=2
+| RD1-score3-2='''2'''
+| RD1-seed4=W2
+| RD1-team4=Regina Capitals
+| RD1-score4-1=2
+| RD1-score4-2=0
+| RD1-score3-agg='''4'''
+| RD1-score4-agg=2
+
+| RD1-seed5=N1
+| RD1-team5=Ottawa Senators
+| RD1-score5-1=0
+| RD1-score5-2=2
+| RD1-seed6='''N2'''
+| RD1-team6='''Montreal Canadiens'''
+| RD1-score6-1='''1'''
+| RD1-score6-2='''4'''
+| RD1-score5-agg=2
+| RD1-score6-agg='''5'''
+
+| RD2-seed1=PC
+| RD2-team1=Vancouver Maroons
+| RD2-score1-1='''3'''
+| RD2-score1-2=3
+| RD2-score1-3=1
+| RD2-seed2='''WC'''
+| RD2-team2='''Calgary Tigers'''
+| RD2-score2-1=1
+| RD2-score2-2='''6'''
+| RD2-score2-3='''3'''
+| RD2-score1-agg=1
+| RD2-score2-agg='''2'''
+
+| RD3-seed1=PC
+| RD3-team1=Vancouver Maroons
+| RD3-score1-1=2
+| RD3-score1-2=1
+| RD3-score1-3=–
+| RD3-seed2='''NC'''
+| RD3-team2='''Montreal Canadiens'''
+| RD3-score2-1='''3'''
+| RD3-score2-2='''2'''
+| RD3-score2-3=–
+| RD3-score1-agg=0
+| RD3-score2-agg='''2'''
+
+| RD4-seed1=WC
+| RD4-team1=Calgary Tigers
+| RD4-score1-1=1
+| RD4-score1-2=0
+| RD4-score1-3=–
+| RD4-seed2='''NC'''
+| RD4-team2='''Montreal Canadiens'''
+| RD4-score2-1='''6'''
+| RD4-score2-2='''3'''
+| RD4-score2-3=–
+| RD4-score1-agg=0
+| RD4-score2-agg='''2'''
+}}
+<small>Note: * denotes overtime period(s)</small>
+
+==Game summaries==
+The first game was played in Montreal's Mount Royal Arena on slushy natural ice caused by warmer than usual weather. The second game was moved to Ottawa, to take advantage of the artificial ice.{{sfn|Zweig|2012|p=257}}
+
+Rookie forward [[Howie Morenz]] scored a [[hat trick]] in game one and a further goal in game two to lead the Canadiens. Morenz also was leveled by Calgary defenceman [[Herb Gardiner]] in game two and suffered torn shoulder ligaments and a chipped collarbone. [[Red Dutton]] played a robust game for Calgary in a losing cause and Joliat
+and Billy Boucher were hard pressed to get scoring chances. [[Georges Vezina]] was brilliant in getting his 3-0 shutout victory that brought the Stanley Cup to Montreal for the first time in eight years.        
+
+{{NHLPlayoffs
+|team1=Calgary Tigers
+|team2=Montreal Canadiens
+|stadium2=[[Victoria Arena]]
+|stadium1=[[Mount Royal Arena]]
+
+|date1       =March 22
+|score1      =1–6
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/cat-vs-mtl/1924/03/22/1923030311#game=1923030311,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =19:10 – [[Howie Morenz]] (4)
+|1-2-1       =[[Herb Gardiner]] (1) – 19:30
+|1-2-2       =00:40 – Howie Morenz (5)<br>11:20 – [[Billy Boucher]] (5)<br>15:55 – Howie Morenz (6)
+|1-3-1       =''No scoring''
+|1-3-2       =03:40 – [[Aurele Joliat]] (3)<br>04:50 – [[Sprague Cleghorn]] (2)
+|goalie1-1   =[[Charlie Reid (ice hockey)|Charlie Reid]]
+|goalie1-2   =[[Georges Vezina]]
+
+|date2       =March 25
+|altstadium2 =[[Ottawa Auditorium]]
+|score2      =0–3
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/cat-vs-mtl/1924/03/25/1923030312#game=1923030312,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =04:55 – [[Howie Morenz]] (7)
+|2-2-1       =''No scoring''
+|2-2-2       =''No scoring''
+|2-3-1       =''No scoring''
+|2-3-2       =03:30 – [[Billy Boucher]] (6)<br>13:50 – [[Aurele Joliat]] (4)
+|goalie2-1   =[[Charlie Reid (ice hockey)|Charlie Reid]]
+|goalie2-2   =[[Georges Vezina]]
+
+|series = Montreal won series 2–0
+}}
+
+==Stanley Cup engraving==
+The 1924 Stanley Cup was presented by the trophy's trustee [[William Foran]] to the Canadiens at a banquet at the Windsor Hotel in Montreal on April 1, 1924.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+{{sfn |Zweig |2012 |p=257}}
+
+'''1923–24 Montreal Canadiens'''
+{{Stanley Cup champion|
+goaltenders=*1 [[Georges Vézina|Georges Vezina]]
+|defence=*2 [[Sprague Cleghorn]] (captain)
+*3 Wilfred [[Billy Coutu|Billy Coutu]] "Coulter"
+*6 Ogilvie [[Odie Cleghorn]] 
+*8 [[Sylvio Mantha]]
+|wingers=*4 [[Aurel Joliat]]
+*5-13 [[Billy Boucher]]
+*10 [[Billy Cameron]]
+*11 [[Robert Boucher (ice hockey)|Bobby Boucher]]
+|centres=*7 [[Howie Morenz]]
+*5-9 [[Billy Bell (ice hockey)|Billy Bell]]
+*9 [[Joe Malone (ice hockey)|Joe Malone]]&  
+|non-players=
+*Edward Dulfour (Trainer), 
+*Louis [[Athanase David]] (Executive Director)
+*[[Joseph Cattarinich]] (Vice President/Owner) 
+* [[Louis Letourneau|Hilarion A. "Louis" Letourneau]] (Director/Owner)
+*[[Leo Dandurand|Joseph Viateur "Leo" Dandurand]] (President/Owner/Manager-Coach)
+*Napoleon Norval (Secretary)
+*Edouard C. St. Pere, Harry Elliot, [[Cecil Hart]], Ferdinand Rinfeet (Directors)
+|all-notes=& not engraved on Cup.
+|engraving-notes=
+*Billy Coutu's last name was often missept Billy Couture.
+*After a ring was added to the original Stanley Cup in 1909, the winners were engraved on the ring until 1918 (except the 1910 Montreal Wanderers and 1911 Ottawa Senators). No new ring was added until after the 1924 victory, when the Canadiens added a new ring to the bottom.{{sfn |Zweig |2012 |p=257}}
+* On this new ring, the club had the majority of its members' names engraved on it with a letter punch. It became an annual tradition. Each Stanley Cup-winning team since 1924 has engraved its members' names on the Cup. The NHL controls the number of names allowed. 
+* Joe Malone, who had not played in the playoffs, was not included on the Cup, even though there was room. Malone retired from hockey mid-season. Only Bobby Boucher, Ed Dulfour, Leo Danduran, and Cecil Hart have their full first names engraved on the cup. All other members had their first names shortened. Montreal also included the three teams they defeated in the playoffs, Ottawa, Vancouver, Calgary, two straight games.
+* Charles Fortier used to be credited with playing one NHL game for Montreal.  He did not, but he did attend the Canadiens' 1923-24 training camp.  Since Frotier was never on the Montreal Canadiens roster, he is not a Stanley Cup winner in 1924.
+
+}}
+
+==See also==
+*[[1923–24 NHL season]]
+*[[1923–24 WCHL season]]
+*[[1923–24 Montreal Canadiens season]]
+
+==References==
+;Bibliography
+*{{cite book |last=Diamond |first=Dan |title=Total Stanley Cup |year=2000 |publisher=Total Sports Canada |isbn=978-1-892129-07-9 |pages=[https://archive.org/details/totalstanleycupo0000unse/page/51 51] |url-access=registration |url=https://archive.org/details/totalstanleycupo0000unse/page/51 }}
+*{{cite book |title=Lord Stanley's Cup |last=Podnieks |first=Andrew |author2=Hockey Hall of Fame |year=2004 |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box | before = [[1923 Stanley Cup Final|Ottawa Senators<br>1923]] | title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] | years = 1924 | after = [[1925 Stanley Cup Final|Victoria Cougars<br>1925]]}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Montreal Canadiens}}
+{{1923–24 NHL season by team}}
+
+[[Category:1923–24 NHL season|Stanley Cup]]
+[[Category:Montreal Canadiens games]]
+[[Category:Western Canada Hockey League postseason]]
+[[Category:1923–24 in Canadian ice hockey|Stanley]]
+[[Category:Stanley Cup Finals]]
+[[Category:March 1924 sports events in Canada|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Ottawa]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1924 in Ontario|Stanley Cup Final]]
+[[Category:1924 in Quebec|Stanley Cup Final]]
+[[Category:1920s in Ottawa]]
+[[Category:1920s in Montreal]]

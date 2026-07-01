@@ -1,0 +1,224 @@
+{{Short description|1951 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1951 
+|team1='''[[1950–51 Toronto Maple Leafs season|Toronto Maple Leafs]]'''
+|team1_short=Toronto 
+|team1_captain=[[Ted Kennedy (ice hockey)|Ted Kennedy]]
+|team1_coach=[[Joe Primeau]]
+|team1_1='''3'''*
+|team1_2=2*
+|team1_3='''2'''*
+|team1_4='''3'''*
+|team1_5='''3'''*
+|team1_tot=4
+|team2=[[1950–51 Montreal Canadiens season|Montreal Canadiens]]
+|team2_short=Montreal 
+|team2_captain=[[Émile Bouchard|Emile Bouchard]]
+|team2_coach=[[Dick Irvin]]
+|team2_1=2*
+|team2_2='''3'''*
+|team2_3=1*
+|team2_4=2*
+|team2_5=2*
+|team2_tot=1
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|dates=April 11–21, 1951
+|location1=[[Toronto]]: [[Maple Leaf Gardens]] (1, 2, 5)
+|location2=[[Montreal]]: [[Montreal Forum]] (3, 4)
+|series_winner=[[Bill Barilko]] (2:53, OT)
+|hofers='''Maple Leafs:'''<br/>[[Max Bentley]] (1966)<br/>[[Turk Broda]] (1967)<br/>[[Fernie Flaman]] (1990)<br/>[[Ted Kennedy (ice hockey)|Ted Kennedy]] (1966)<br/>[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1994)<br/>'''Canadiens:'''<br/>[[Émile Bouchard|Emile Bouchard]] (1966)<br/>[[Bernie Geoffrion]] (1972)<br/>[[Doug Harvey (ice hockey)|Doug Harvey]] (1973)<br/>[[Tom Johnson (ice hockey)|Tom Johnson]] (1970)<br/>[[Elmer Lach]] (1966)<br/>[[Bert Olmstead]] (1985)<br/>[[Maurice Richard]] (1961)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)<br/>[[Joe Primeau]] (1963, player)
+}}
+The '''1951 Stanley Cup Final''' was contested by the [[1950–51 Toronto Maple Leafs season|Toronto Maple Leafs]] and the [[1950–51 Montreal Canadiens season|Montreal Canadiens]]. The Maple Leafs won the series 4–1, with all five games going into overtime. It was the Toronto franchise's ninth [[Stanley Cup]] win and the last in a series of six wins starting in [[1942 Stanley Cup Finals|1942]]. It was the first appearance in a string of ten consecutive appearances by the Canadiens.
+
+==Paths to the Finals==
+Toronto defeated the [[Boston Bruins]] 4–1 to reach the Finals. Montreal defeated the defending champion [[Detroit Red Wings]] 4–2 to reach the Finals.
+
+==Game summaries==
+For the first, and as of today, only time in NHL playoff history, every game went into overtime in this series. [[Bill Barilko]] scored the Cup-winning overtime goal, his last goal in the NHL as he would die in a plane crash during the summer.<ref>{{cite news |last1=Campigotto |first1=Jesse |title=The hockey card Gord Downie stole from |url=https://www.cbc.ca/sports/the-buzzer-tragically-hip-bill-barilko-1.5652598 |access-date=28 May 2021 |work=CBC Sports |publisher=CBC |date=16 July 2020}}</ref>
+
+{{NHLPlayoffs
+|team1=Montreal Canadiens
+|team2=Toronto Maple Leafs
+|stadium1=[[Maple Leaf Gardens]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 11
+|home1       =1
+|score1      =2–3
+|ot1         =1
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/mtl-vs-tor/1951/04/11/1950030211#game=1950030211,game_state=final
+|1-1-1       =[[Maurice Richard]] (5) - 15:27
+|1-1-2       =00:15 - [[Sid Smith (ice hockey)|Sid Smith]] (3)<br>15:42 - [[Tod Sloan (ice hockey)|Tod Sloan]] (2)
+|1-2-1       =[[Paul Masnick]] (1) - 4:02
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =''No scoring''
+|1-4-2       =5:51 - Sid Smith (4)
+|goalie1-1   =[[Gerry McNeil]]
+|goalie1-2   =[[Turk Broda]]
+
+|date2       =April 14
+|home2       =1
+|score2      =3–2
+|ot2         =1
+|won2        =1
+|recap2      =www.nhl.com/gamecenter/mtl-vs-tor/1951/04/14/1950030212#game=1950030212,game_state=final
+|2-1-1       =[[Paul Masnick]] (2) - 3:44
+|2-1-2       =''No scoring''
+|2-2-1       =[[Billy Reay]] (3) - 9:24
+|2-2-2       =16:31 - ''pp'' - [[Sid Smith (ice hockey)|Sid Smith]] (5)
+|2-3-1       =''No scoring''
+|2-3-2       =8:16 - ''pp'' - [[Ted Kennedy (ice hockey)|Ted Kennedy]] (3)
+|2-4-1       =[[Maurice Richard]] (6) - 2:55
+|2-4-2       =''No scoring''
+|goalie2-1   =[[Gerry McNeil]]
+|goalie2-2   =[[Turk Broda]]
+
+|date3       =April 17
+|home3       =2
+|score3      =2–1
+|ot3         =1
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/tor-vs-mtl/1951/04/17/1950030213#game=1950030213,game_state=final
+|3-1-1       =2:18 - ''pp'' - [[Maurice Richard]] (7)
+|3-1-2       =''No scoring''
+|3-2-1       =''No scoring''
+|3-2-2       =[[Sid Smith (ice hockey)|Sid Smith]] (6) - ''pp'' - 5:58
+|3-3-1       =''No scoring''
+|3-3-2       =''No scoring''
+|3-4-1       =''No scoring''
+|3-4-2       =[[Ted Kennedy (ice hockey)|Ted Kennedy]] (4) - 4:47
+|goalie3-1   =[[Gerry McNeil]]
+|goalie3-2   =[[Al Rollins]]
+
+|date4       =April 19
+|home4       =2
+|score4      =3–2
+|ot4         =1
+|won4        =2
+|recap4      =www.nhl.com/gamecenter/tor-vs-mtl/1951/04/19/1950030214#game=1950030214,game_state=final
+|4-1-1       =14:41 - [[Maurice Richard]] (8)
+|4-1-2       =[[Sid Smith (ice hockey)|Sid Smith]] (7) - 00:38
+|4-2-1       =''No scoring''
+|4-2-2       =[[Howie Meeker]] (1) - 1:27
+|4-3-1       =13:49 - [[Elmer Lach]] (2)
+|4-3-2       =''No scoring''
+|4-4-1       =''No scoring''
+|4-4-2       =[[Harry Watson (ice hockey, born 1923)|Harry Watson]] (1) - 5:15
+|goalie4-1   =[[Gerry McNeil]]
+|goalie4-2   =[[Al Rollins]]
+
+|date5       =April 21
+|home5       =1
+|score5      =2–3
+|ot5         =1
+|won5        =2
+|recap5      =www.nhl.com/gamecenter/mtl-vs-tor/1951/04/21/1950030215#game=1950030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =[[Maurice Richard]] (9) - 8:56
+|5-2-2       =12:00 - [[Tod Sloan (ice hockey)|Tod Sloan]] (3)
+|5-3-1       =[[Paul Meger]] (1) - 4:47
+|5-3-2       =19:28 - Tod Sloan (4)
+|5-4-1       =''No scoring''
+|5-4-2       =2:53 - [[Bill Barilko]] (3)
+|goalie5-1   =[[Gerry McNeil]]
+|goalie5-2   =[[Al Rollins]]
+
+|series = Toronto won series 4–1
+}}
+
+==Stanley Cup engraving==
+The 1951 Stanley Cup was presented to Maple Leafs captain Ted Kennedy by [[NHL Commissioner|NHL President]] [[Clarence Campbell]] following the Maple Leafs 3–2 overtime win over the Canadiens in game five.
+
+The following Maple Leafs players and staff had their names engraved on the Stanley Cup
+
+'''1950–51 Toronto Maple Leafs'''
+{{Stanley Cup champion
+|goaltenders=*1 [[Turk Broda|Walter "Turk" Broda]]
+*23 [[Al Rollins]]
+|defence=*2 [[Jimmy Thomson (ice hockey b. 1927)|Jimmy Thomson]]
+*3 [[Gus Mortson]]
+*5 [[Bill Barilko]]
+*12 [[Fern Flaman]]
+*18 [[Bill Juzda]]
+*19 [[Hugh Bolton (ice hockey)|Hugh Bolton]] †
+|centres=*7 [[Max Bentley]] (A)
+*9 [[Ted Kennedy (ice hockey)|Ted Kennedy]] (Captain)
+*14 [[Cal Gardner]]
+*16 [[Fleming Mackell]]
+*20 [[John McCormack (ice hockey)|John McCormack]]*
+*25 [[Bob Hassard]] †
+|wingers=*4 [[Harry Watson (ice hockey b. 1923)|Harry Watson]] (A)
+*8 [[Joe Klukay]]
+*11 [[Howie Meeker]]
+*15 [[Tod Sloan (ice hockey)|Tod Sloan]]
+*21 [[Danny Lewicki]]
+*22 [[Ray Timgren]]
+*24 [[Sid Smith (ice hockey)|Sid Smith]]
+|non-players=
+* [[Conn Smythe]] (President/Manager/Owner),  Clarence [[Hap Day]] (Asst. Manager)
+*George McGillach (Vice President), John Murdoch (Vice President)
+*Ed Bickle (Director/Owner), [[Jack Bickell]] (Director/Owner) 
+* Tim Daly (Trainer), Ed Fitkin (Publicity Director)
+* Archie Campbell (Asst. Trainer), Tom Nayler (Asst. Trainer), George Walker (Chief Scout) 
+*[[Joe Primeau]] (Coach), [[W. A. H. MacBrien|William MacBrien]] (Chairman/Owner)  
+* Norman Delarue ‡, Robert Galloway ‡, Horance MacIntyre ‡ (Team Doctors)
+|engraving-notes=
+* * #20 [[John McCormack (ice hockey)|John McCormack]] (C) – played in 46 regular season games. He was sent to the minors midseason. His name was still engraved on the Stanley Cup.
+* † Two players who did not play in at least half of the regular season games had their names engraved on the Stanley Cup despite not officially qualifying.
+** #19 [[Hugh Bolton (ice hockey)|Hugh Bolton]] (D) – played in 13 regular season games
+** #25 [[Bob Hassard]] (C) – played in 12 regular season games
+* ‡ Included on the original ring in 1951. There was no room left for the 3 team doctors the way that the Toronto Maple Leafs 1951 members were engraved on the new ring during the 1957–58 season.
+*Joe Primeau was the 7th NHL rookie coach to win the Stanley Cup.
+* [[Joe Primeau]] (Coach), [[W. A. H. MacBrien|William MacBrien]] (Chairman/Owner) were listed last on the Stanley Cup. Tradition has them listed before the players.}}
+
+===Engraving mistakes===
+* Several mistakes happened in the engraving of the names:
+** Gus Mortson's last name was misspelled WORTSON with a "W" instead a "M".
+** Danny Lewicki's last name was misspelled LEWESKI, with two "E"s instead of two "I"s and an "S" instead of a "C".
+** Ted Kennedy's name was misspelled KENNEDYY with an extra "Y".  His position as Captain was also left off the Stanley Cup.
+** William A. H. MacBrien's last name was misspelled as McBrien, missing an "A"
+** Elwin "Al" Rollins' first name was misspelled ELVIN with a "V" instead of a "W".  The Rollins mistake was not corrected on the Replica Cup created in 1992–93.  The other 4 mistakes were corrected on the Replica Cup.
+
+===Members of Toronto Maple Leafs that won 4 cups in 5 years 1947, 1948, 1949, 1951 dynasty===
+* Bill Barilko, Turk Broda, Ted Kennedy §, Joe Klukay, Howie Meeker, Gus Mortson, Jimmy Thomson, Harry Watson (8 players),
+* Ed Bickle §, John Bickell §, Conn Smythe §, John Mordoch §, William MacBrien, Hap Day §, Tim Daly §, George Walker, Ed Finkin, Horance McIntre (10 non-players).
+
+§ also won the Stanley Cup in 1945.
+
+==See also==
+* [[1950–51 NHL season]]
+* [[Canadiens–Maple Leafs rivalry]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book|editor=Diamond, Dan |title=Total Stanley Cup|year=2000|publisher=NHL}}
+* {{cite book |author=Podnieks, Andrew |author2=Hockey Hall of Fame |year=2004 |title=Lord Stanley's Cup |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+*{{cite web | url=http://www.nhl.com/info/all-time-nhl-playoff-results|title=All-Time NHL Results}}
+
+{{s-start}}
+{{succession box | before = [[1950 Stanley Cup Finals|Detroit Red Wings<br>1950]] | title = [[List of Stanley Cup champions|Toronto Maple Leafs<br>Stanley Cup champions]] | years = 1951 | after = [[1952 Stanley Cup Finals|Detroit Red Wings<br>1952]]}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{Toronto Maple Leafs}}
+{{Montreal Canadiens}} 
+{{1950–51 NHL season by team}}
+
+[[Category:1951 Stanley Cup| ]]
+[[Category:1950–51 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:April 1951 sports events in Canada|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in Toronto]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1951 in Ontario|Stanley Cup Finals]]
+[[Category:1950s in Montreal]]
+[[Category:1951 in Quebec]]
+[[Category:1950s in Toronto]]
+[[Category:Canadiens–Maple Leafs rivalry|Stanley Cup Finals, 1951]]

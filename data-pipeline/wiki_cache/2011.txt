@@ -1,0 +1,1865 @@
+{{short description|2011 ice hockey championship series}}
+{{pp-move}}
+{{use mdy dates|date=June 2011}}
+{{Infobox Stanley Cup Final
+|year = 2011
+|image=2011 Stanley Cup Final logo.svg
+|team1 = '''[[2010–11 Boston Bruins season|Boston Bruins]]'''
+|team1_1 = 0
+|team1_2 = 2*
+|team1_3 = '''8'''
+|team1_4 = '''4'''
+|team1_5 = 0
+|team1_6 = '''5'''
+|team1_7 = '''4'''
+|team1_tot=4
+|team1_short = Boston
+|team1_coach = [[Claude Julien (ice hockey)|Claude Julien]]
+|team1_captain =[[Zdeno Chára|Zdeno Chara]]
+|team1_national_anthem = [[Rene Rancourt]]
+|team2 = [[2010–11 Vancouver Canucks season|Vancouver Canucks]]
+|team2_1 = '''1'''
+|team2_2 = '''3'''*
+|team2_3 = 1
+|team2_4 = 0
+|team2_5 = '''1'''
+|team2_6 = 2
+|team2_7 = 0
+|team2_tot = 3
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|team2_short = Vancouver
+|team2_coach = [[Alain Vigneault]]
+|team2_captain = [[Henrik Sedin]]
+|team2_national_anthem = [[Mark Donnelly]] ([[O Canada|Canadian]])<br/>Richard Loney ([[The Star-Spangled Banner|American]])
+|referees = [[Dan O'Halloran]] (2, 4, 6, 7)<br/>[[Dan O'Rourke (ice hockey)|Dan O'Rourke]] (1, 3, 5)<br/>[[Kelly Sutherland]] (2, 4, 6)<br/>[[Stephen Walkom]] (1, 3, 5, 7)
+|dates = June 1–15, 2011
+|location1 = [[Boston]]: [[TD Garden]] (3, 4, 6)
+|location2 = [[Vancouver]]: [[Rogers Arena]] (1, 2, 5, 7)
+|mvp = [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] (Bruins)
+|series_winner = [[Patrice Bergeron]] (14:37, first)
+|hofers = '''Bruins:'''<br/>[[Patrice Bergeron]] (2026)<br/>[[Zdeno Chára|Zdeno Chara]] (2025)<br/>[[Mark Recchi]] (2017)
+<br/>'''Canucks:'''<br/>[[Roberto Luongo]] (2022)<br/>[[Daniel Sedin]] (2022)<br/>[[Henrik Sedin]] (2022)
+|networks = '''Canada:'''<br />([[Canadian English|English]]): [[Hockey Night in Canada|CBC]]<br />([[Canadian French|French]]): [[LNH à RDS|RDS]]<br />'''United States:'''<br />([[American English|English]]): [[NHL on NBC|NBC]] (1–2, 5–7), [[NHL on Versus|Versus]] (3, 4)
+|net_announcers =(CBC) [[Jim Hughson]], [[Craig Simpson]], and [[Glenn Healy]]<br/>(RDS) [[Pierre Houde]] and [[Benoit Brunet]]<br/>(NBC/Versus) [[Mike Emrick]], [[Eddie Olczyk]], and [[Pierre McGuire]]<br/>(NHL International) [[Dave Strader]] and [[Joe Micheletti]]
+}}
+The '''2011 Stanley Cup Final''' was the [[Stanley Cup Final|championship series]] of the [[National Hockey League]]'s (NHL) [[2010–11 NHL season|2010–11 season]], and the culmination of the [[2011 Stanley Cup playoffs]]. The [[Eastern Conference (NHL)|Eastern Conference]] champion [[2010–11 Boston Bruins season|Boston Bruins]] defeated the [[Western Conference (NHL)|Western Conference]] champion [[2010–11 Vancouver Canucks season|Vancouver Canucks]] in seven games to win the Stanley Cup for the first time since [[1972 Stanley Cup Final|1972]]. Bruins goaltender [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] was awarded the [[Conn Smythe Trophy]] as the most valuable player of the playoffs.
+
+The Canucks had home ice advantage in the Final by winning the [[Presidents' Trophy]] as the team that finished with the best regular season record (117 points).<ref name="Canucks">{{cite news|title=Hail to all the Presidents' men; Canucks crank up the intensity to KO the Kings and clinch a trophy—but it's the Cup they want|last=MacIntyre|first=Iain|newspaper=Vancouver Sun|date=April 1, 2011|page=F1}}</ref> They were also the first Canadian team to have home ice advantage in the Final since the [[Montreal Canadiens]] had it in [[1993 Stanley Cup Final|1993]]. The Canucks were also the last Canadian team to reach the Finals until [[2021 Stanley Cup Final|2021]]. It was the furthest distance between two cities in NHL history for the Finals, at {{convert|4023|km|mi|abbr=off}}, until [[2024 Stanley Cup Final|2024]] and [[2025 Stanley Cup Final|2025]] as both were between the [[Florida Panthers]] and [[Edmonton Oilers]].<ref>{{cite web |last1=Zeglinski |first1=Robert |title=Here's the record travel distance for the Panthers and Oilers during the 2024 Stanley Cup Final |url=https://ftw.usatoday.com/2024/06/oilers-panthers-travel-distance-record-stanley-cup-final |website=For The Win |access-date=June 11, 2024 |date=June 4, 2024}}</ref>
+
+On June 1, 2011, NHL commissioner Gary Bettman made an announcement that [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]] would be stepping down as the league's head disciplinarian to be replaced by former player [[Brendan Shanahan]], though Campbell would continue in his job as director of hockey operations. [[Mike Murphy (ice hockey, born 1950)|Mike Murphy]], the NHL vice-president of hockey operations, had already been put in charge of disciplinary matters for the Finals, nonetheless there were concerns raised about Campbell's impartiality in handing out discipline since his son, [[Gregory Campbell (ice hockey)|Gregory]], was an active player on the Bruins.<ref>{{cite web|url=http://www.thehockeynews.com/articles/40583-Colin-Campbell-steps-down-as-NHL-disciplinarian-before-Stanley-Cup-final.html|title=Colin Campbell steps down as NHL disciplinarian before Stanley Cup final|date=June 1, 2011|accessdate=June 1, 2011|website=thehockeynews.com|publisher=Transcontinental G. P.|archive-url=https://web.archive.org/web/20140413131929/http://www.thehockeynews.com/articles/40583-Colin-Campbell-steps-down-as-NHL-disciplinarian-before-Stanley-Cup-final.html|archive-date=April 13, 2014|url-status=dead}}</ref>
+
+The series began on June 1 and ended on June 15.<ref name="Schedule">{{cite web|url=http://www.nhl.com/ice/news.htm?id=563806|title=2011 Stanley Cup Final Schedule|date=May 26, 2011|accessdate=May 26, 2011|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref> The games varied widely between those played in Vancouver and those in Boston. Prior to game seven, the Bruins scored two goals in three games played in Vancouver (games one, two, and five), against 17 scored in three games at Boston (games three, four, and six). On the other hand, while he posted two 1–0 shutouts in Vancouver (games one and five), Canucks goaltender [[Roberto Luongo]] was replaced with the backup [[Cory Schneider]] twice in three games (games four and six) in Boston.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=565776|title=Bizarre Stanley Cup final to be decided by one more game in Vancouver|date=June 14, 2011|website=NHL.com|publisher=NHL Enterprises, L. P.|accessdate=June 3, 2023}}</ref> The Bruins scored almost three times the number of total goals as the Canucks, (23–8 in the series), and scored as many goals in a single game (game three) as the Canucks did during the entire series, but the Canucks still won three games (games one, two, and five, respectively). The eight goals scored by Vancouver is the lowest number of goals scored by any team in a full seven-game series in NHL history. It was the fourth consecutive Stanley Cup Final in which the road team won the Stanley Cup.
+
+The Final marked the first time that two francophone Canadian head coaches, [[Claude Julien (ice hockey)|Claude Julien]] of Boston and [[Alain Vigneault]] of Vancouver had coached the opposing finalists. Both coaches also had nearly identical backgrounds. Both had grown up near [[Ottawa]], both had played together with the [[Salt Lake Golden Eagles]], both had coached the [[Hull Olympiques]] and [[Montreal Canadiens]] and both had won [[Jack Adams Trophy|Coach of the Year]] honours. The two were friends, but that changed for the Final. According to Julien, "To be able to get through all that and meet in the final is great. But right now, that's where it ends."{{sfn|Weekes|2012|p=82}}
+
+==Paths to the Finals==
+
+===Boston Bruins===
+{{Main|2010–11 Boston Bruins season}}
+The Bruins finished the regular season as the [[Northeast Division (NHL)|Northeast Division]] champion with 103 points, earning the third seed in the Eastern Conference. In their 33rd postseason meeting, Boston eliminated their bitter [[Bruins–Canadiens rivalry|rivals]], the sixth-seeded [[Montreal Canadiens]], in the first round of the playoffs in seven games.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/bruins-eliminate-habs-with-game-7-ot-win-1.1001520|title=Bruins eliminate Habs with Game 7 OT win|publisher=CBC/Radio-Canada|website=CBCSports.ca|date=April 27, 2011|access-date=April 28, 2011}}</ref> The Bruins went on to sweep the second-seeded [[Philadelphia Flyers]] in the second round, outscoring the Flyers 20–7 in the four games.<ref>{{cite web|url=https://bleacherreport.com/articles/692670-2011-nhl-playoffs-bruins-sweep-flyers-earn-eastern-conference-finals-spot|title=2011 NHL Playoffs: Boston Bruins Sweep Philadelphia Flyers|last=Ducey|first=Cory|publisher=Bleacher Report, Inc.|date=May 7, 2011|website=BleacherReport.com|accessdate=June 3, 2023}}</ref> Later, in the Eastern Conference Finals, Boston defeated the fifth-seeded [[Tampa Bay Lightning]] in seven games.<ref>{{cite web|url=https://www.espn.com/nhl/game/_/gameId/310527001|title=Nathan Horton's goal sends Bruins to first Stanley Cup finals since 1990|publisher=ESPN Enterprises, Inc.|date=May 28, 2011|website=ESPN.com|accessdate=June 3, 2023}}</ref>
+
+This was the eighteenth appearance in the Stanley Cup Final for the Bruins, and their first since {{scfy|1990}}, which they lost in five games to the [[Edmonton Oilers]]. It also allowed [[Sports in Boston|Boston]] to join [[Sports in the New York metropolitan area|New York City]] and [[Sports in Philadelphia|Philadelphia]] as being the only cities to have all their teams play in each of the four major North American professional sports leagues' title rounds since 2000, following the [[New England Patriots|Patriots]] in [[Super Bowl]]s [[Super Bowl XXXVI|XXXVI]] in 2002, [[Super Bowl XXXVIII|XXXVIII]] in 2004, [[Super Bowl XXXIX|XXXIX]] in 2005, and [[Super Bowl XLII|XLII]] in 2008. The [[Boston Red Sox|Red Sox]] winning [[World Series]] titles in {{wsy|2004}}, {{wsy|2007}}, and the [[Boston Celtics|Celtics]] in the [[NBA Finals]] in {{nbafy|2008}} and {{nbafy|2010}} and winning in 2008.<ref name="Boston">{{cite web|url=https://bleacherreport.com/articles/737429-bruins-win-the-stanley-cup-ranking-bostons-7-sports-championships-this-century|title=Bruins Win the Stanley Cup: Ranking Boston's 7 Sports Championships This Century|date=June 16, 2011|first=Craig|last=Hutchinson|website=BleacherReport.com|publisher=Bleacher Report, Inc.}}</ref>
+
+The Bruins won their sixth Cup championship, and their first one since defeating the [[New York Rangers]] in {{scfy|1972}} in six games, which made Boston the first city to have championships in each of the four leagues in the new millennium.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=566070|title=Bruins' Julien answers his critics|date=June 16, 2011|accessdate=June 16, 2011|first=Dhiren|last=Mahiban|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref>
+
+===Vancouver Canucks===
+{{Main|2010–11 Vancouver Canucks season}}
+The Canucks, in their 41st season, finished the regular season with the best record at 117 points, winning their first [[Presidents' Trophy]] in team history.<ref name="Canucks"/> In the first round of the playoffs, the Canucks met the [[Chicago Blackhawks]] for the third consecutive postseason, losing both previous series in six games in the second round. After Vancouver won the first three games, the eighth-seeded and defending Stanley Cup champion Blackhawks won the next three to force a seventh game. Vancouver won the seventh game in overtime on a goal by [[Alex Burrows]] to avoid becoming the fourth team in NHL history to lose a series after taking a 3–0 series lead.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/burrows-canucks-win-game-7-in-ot-1.1021995|title=Burrows, Canucks win Game 7 in OT|date=April 27, 2011|access-date=May 25, 2011|first=Tim|last=Wharnsby|website=CBCSports.ca|publisher=CBC/Radio-Canada}}</ref> The Canucks then eliminated the fifth-seeded [[Nashville Predators]] in six games during the conference semifinals, with each game in that series decided by just a single goal (with the exception of an empty net goal scored by Vancouver in Game 4).<ref>{{cite web|url=https://www.espn.com/nhl/recap/_/gameId/310505027|archive-url=https://web.archive.org/web/20230603202255/https://www.espn.com/nhl/recap/_/gameId/310505027|url-status=dead|archive-date=June 3, 2023|title=Ryan Kesler scores tiebreaker to help Canucks open 3-1 lead vs. Predators|publisher=ESPN Enterprises, Inc.|date=May 6, 2011|website=ESPN.com|accessdate=June 3, 2023}}</ref> Vancouver then went on to defeat the second-seeded [[San Jose Sharks]] in the Western Conference Finals in five games, winning the fifth game in overtime with [[Kevin Bieksa]] winning it for the Canucks.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/canucks-bound-for-stanley-cup-final-1.987894|title=Canucks bound for Stanley Cup final|date=May 25, 2011|access-date=May 25, 2011|first=Tim|last=Wharnsby|website=CBCSports.ca|publisher=CBC/Radio-Canada}}</ref>
+
+This was Vancouver's third appearance in the Stanley Cup Final. They appeared in the Finals against New York-based teams with the Islanders in {{scfy|1982}} and the Rangers in {{scfy|1994}} losing both series in four and seven games, respectively.<ref>{{harvnb|Cole|2004|page=107}}</ref> The most recent Canada-based NHL team to win the Stanley Cup was the Montreal Canadiens in {{scfy|1993}}. The Canucks were the first team from Canada to make it to the Finals since the [[Ottawa Senators]] in {{scfy|2007}}.<ref name="Ratings-Game1"/>
+
+With Vancouver hosting the [[2010 Winter Olympics]], the Canucks hoped to mirror the other two Olympic Games held in Canada in which the host city's NHL team won the Stanley Cup the subsequent year.<ref name="Olympics">{{cite web|url=http://www.nhl.com/ice/news.htm?id=564068&navid=mod-rr-headlines|title=Olympic history in Canucks' corner|date=May 28, 2011|access-date=May 29, 2011|work=NHL.com|publisher=NHL Enterprises, L. P.}}</ref> Montreal hosted the [[1976 Summer Olympics]] and the [[1977 Stanley Cup Final|following year]], the Canadiens won the Stanley Cup. The [[Calgary Flames]] won the Stanley Cup in {{scfy|1989}}, the previous year Calgary hosted the [[1988 Winter Olympics]].<ref name="Olympics"/><ref>{{cite web|title=Canucks have a chance to add Stanley Cup victory to a history of playoff losing|url=https://thehockeynews.com/news/canucks-have-a-chance-to-add-stanley-cup-victory-to-a-history-of-playoff-losing|publisher=The Hockey News, Roustan Media Ltd|date=April 10, 2011|accessdate=June 3, 2023|website=theHockeyNews.com|language=en}}</ref>
+
+With the loss, Vancouver became the third team to lose in the Finals after winning the Presidents' Trophy, after the Bruins in {{scfy|1990}} and the [[Detroit Red Wings]] in {{scfy|1995}}.
+
+==Triple Gold Club==
+Center [[Patrice Bergeron]] became the twenty-fifth player to enter the "[[Triple Gold Club]]", consisting of individuals who have won the Stanley Cup along with gold medals at the [[Ice hockey at the Olympic Games|Winter Olympics]], and [[Ice Hockey World Championships|World Championships]], as a result of the Bruins winning the series. Bergeron also won gold medals as a teammate of Vancouver Canucks' goaltender [[Roberto Luongo]] at the [[2004 IIHF World Championship|2004 Worlds]] and [[Ice hockey at the 2010 Winter Olympics|2010 Olympics]] with [[Canada men's national ice hockey team|Team Canada]]. Luongo – who also won the [[2003 IIHF World Championship|2003 Worlds]] – would have become the first goaltender ever to enter the "Triple Gold Club", had the Canucks won. Both Luongo and Bergeron later got a second Olympic gold in the [[Ice hockey at the 2014 Winter Olympics – Men's tournament|2014 Winter Olympics]].<ref>{{cite web|url=https://archive.nytimes.com/slapshot.blogs.nytimes.com/2010/11/30/global-puck-silver-or-gold-lining-forbrodeur/ |title=Global Puck: Silver (or Gold) Lining for Brodeur?|first=Andrew|last=Podnieks |website=[[The New York Times]]|date=November 30, 2010 |accessdate=June 3, 2023}}</ref>
+
+==Game summaries==
+:'' Number in parentheses represents the player's total in goals or assists to that point of the entire four rounds of the playoffs''
+
+===Game one===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Vancouver Canucks
+|stadium1= [[Rogers Arena]]
+|date1= June 1
+|score1= 0–1
+|won1= 2
+|recap1 = www.nhl.com/gamecenter/bos-vs-van/2011/06/01/2010030411
+}}
+
+[[Raffi Torres]]'s goal with 18.5 seconds left in regulation broke a scoreless tie to give the Canucks the victory. The entire game was seen as a duel between the two opposing goaltenders; both Vancouver's [[Roberto Luongo]] and Boston's [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] were [[Vezina Trophy]] finalists for the 2010–11 season. Thomas stopped 33 of 34 shots while Luongo made 36 saves for his third shutout of the 2011 playoffs. Both of Luongo's two previous shutouts of the 2011 playoffs had also occurred in a game one (a 2–0 victory against Chicago in the first round, and a 1–0 victory against Nashville in the second round). This was the first time since {{scfy|1984}} that the opening game of the Cup Finals was scoreless through two periods.<ref name="Game1recap">{{cite web|url=http://www.nhl.com/ice/recap.htm?id=2010030411|title=Late goal gives Canucks 1–0 win in Game 1|website=NHL.com|date=June 2, 2011|first=Dan|last=Rosen|publisher=NHL Enterprises, L. P.|accessdate=June 2, 2011}}</ref>
+
+Both teams killed off all penalties in the game, including a five-on-three power play Boston had in the second period, and a double minor high-sticking penalty called on Vancouver's [[Daniel Sedin]] in the first. At the end of the first period, Vancouver's [[Alex Burrows]] was called for a double minor roughing penalty on Boston's [[Patrice Bergeron]], while Bergeron also got a roughing minor. Replays showed that Burrows could have bit Bergeron's finger, but the evidence was inconclusive. Despite Bergeron's pleading to the referees, no additional penalty was assessed to Burrows.<ref name="Game1recap"/> However, despite biting being a suspendible offense, Burrows did not receive a suspension from the NHL on the grounds that no conclusive evidence that Burrows actually bit Bergeron could be found.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/burrows-won-t-be-suspended-by-nhl-1.1032225|title=Burrows won't be suspended by NHL|website=CBCSports.ca|publisher=CBC/Radio-Canada|date=June 2, 2011|access-date=June 2, 2011}}</ref><ref>{{cite web|url=https://www.si.com/nhl/2011/06/16/16-0nhls-season-of-mayhem |title=NHL's Season of Mayhem |website=si.com |publisher=Sports Illustrated |author=Si Staff |date=June 16, 2011 |access-date=October 27, 2024}}</ref><ref>{{cite web|url=https://www.nbcsports.com/nhl/news/video-milan-lucic-gets-the-final-say-in-taunting-alex-burrows |title=Video: Milan Lucic gets the final say in taunting Alex Burrows |website=nbcsports.com |publisher=NBC Sports |author=Joe Yerdon |date=June 6, 2011 |access-date=November 27, 2024}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|- style="text-align:center;"|
+| rowspan="1"|'''3rd'''
+|| VAN
+|[[Raffi Torres]] (3)
+|[[Jannik Hansen]] (5) and [[Ryan Kesler]] (12)
+|| 19:41
+|| 1–0 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|- style="text-align:center;"|
+| rowspan="6"| '''1st'''
+|| VAN
+||[[Daniel Sedin]]
+||High-sticking – double minor
+|| 04:03
+|| 4:00
+|-style="text-align:center;"
+|| BOS
+||[[Chris Kelly (ice hockey)|Chris Kelly]]
+||High-sticking
+|| 08:47
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+||[[Alex Burrows]]
+||Holding
+|| 10:18
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||[[Brad Marchand]]
+||Holding the stick
+|| 13:25
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||[[Patrice Bergeron]]
+||Roughing
+|| 20:00
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+||Alex Burrows (served by [[Raffi Torres]])
+||Roughing – double minor
+|| 20:00
+|| 4:00
+|-
+|- style="text-align:center;"|
+| rowspan="6"| '''2nd'''
+|| VAN
+||[[Kevin Bieksa]]
+||High-sticking
+|| 00:28
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||[[David Krejčí|David Krejci]]
+||Cross-checking
+|| 04:00
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||[[Dennis Seidenberg]]
+||Kneeing
+|| 09:28
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||[[Rich Peverley]]
+||Hooking
+|| 09:54
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+||Alex Burrows
+||Tripping
+|| 10:02
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+||Patrice Bergeron
+||Tripping
+|| 17:50
+|| 2:00
+|-style="text-align:center;"
+|| '''3rd'''
+| style="text-align:center;" colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} ||17 ||9 ||10 ||36
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} ||12 ||8 ||14 ||34
+|}
+
+===Game two===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Vancouver Canucks
+|stadium1= [[Rogers Arena]]
+|date1= June 4
+|score1= 2–3
+|won1= 2
+|ot1= 1
+|recap1= www.nhl.com/gamecenter/bos-vs-van/2011/06/04/2010030412
+}}
+In the second-fastest overtime in Stanley Cup Final history,<ref name="Game2recap">{{cite web|url=http://www.nhl.com/ice/recap.htm?id=2010030412|title=Burrows scores :11 into OT, Canucks lead 2–0|date=June 5, 2011|publisher=NHL Enterprises, L. P.|accessdate=June 5, 2011|first=Dave|last=Lozo|website=NHL.com}}</ref> [[Alex Burrows]] scored 11 seconds into the first overtime to give Vancouver a 3–2 win. Burrows faked a shot, causing Boston goalie [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] to move out of position, then skated around the net to put the puck into the empty net for the game-winning goal; Thomas was not able to recover his position. This was Burrows's second goal of the game. He opened the scoring with a goal in the first period during the final seconds of a power play. Boston responded with two goals in the second period, one by [[Milan Lucic]] and a power play goal by [[Mark Recchi]]. However, [[Daniel Sedin]] tied the score at 2–2 about midway through the third period.
+
+The game featured the return of Vancouver forward [[Manny Malhotra]], who had not played a game since March 16, when he suffered a severe eye injury after taking a puck to the face from a deflection by [[Colorado Avalanche]] defenseman [[Erik Johnson]].<ref>{{cite news|url=https://www.nytimes.com/2011/06/06/sports/hockey/malhotra-returns-from-injury-and-helps-buoy-team-to-win.html?ref=hockey&pagewanted=print|title=Malhotra Returns From Injury and Helps Buoy Team to Win|date=June 5, 2011|accessdate=June 5, 2011|first=Bob|last=Mackin|newspaper=New York Times}}</ref> Both Thomas and [[Roberto Luongo]] stopped 30 of 33 shots and 28 of 30 shots, respectively. With his second period goal, 43-year-old Recchi became the oldest player to score in the Cup Finals.<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=564854|title=Recchi becomes oldest goal-scorer in Final|date=June 4, 2011|accessdate=June 5, 2011|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref>
+
+Before the game, the Boston Red Sox baseball club moved their game against the [[Oakland Athletics]] at [[Fenway Park]] from 7:10&nbsp;p.m. EDT to 1:10&nbsp;p.m. EDT to allow for Bruins fans to watch the game.<ref>{{cite web|url=http://boston.redsox.mlb.com/news/article.jsp?ymd=20110531&content_id=19817160&notebook_id=19840356&vkey=notebook_bos&c_id=bos|title=Red Sox move start time of Saturday's game|first=Ian|last=Browne|work=RedSox.MLB.com|date=June 1, 2011|access-date=June 2, 2011|publisher=Major League Baseball|archive-url=https://web.archive.org/web/20121010212814/http://boston.redsox.mlb.com/news/article.jsp?ymd=20110531&content_id=19817160&notebook_id=19840356&vkey=notebook_bos&c_id=bos|archive-date=October 10, 2012|url-status=dead|df=mdy-all}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;"
+| rowspan="1"|'''1st'''
+|| VAN
+|| [[Alex Burrows]] (8) – ''pp''
+|| [[Chris Higgins (ice hockey)|Chris Higgins]] (4) and [[Sami Salo]] (2)
+|| 12:12
+|| 1–0 VAN
+|-style="text-align:center;"
+| rowspan="2"| '''2nd'''
+|| BOS
+|| [[Milan Lucic]] (4)
+|| [[Johnny Boychuk]] (4) and [[David Krejčí|David Krejci]] (8)
+||09:00
+||1–1
+|-style="text-align:center;"
+|| BOS
+|| [[Mark Recchi]] (3) – ''pp''
+|| [[Zdeno Chára|Zdeno Chara]] (4) and [[Patrice Bergeron]] (12)
+||11:35
+||2–1 BOS
+|-style="text-align:center;"
+| rowspan="1"| '''3rd'''
+|| VAN
+|| [[Daniel Sedin]] (9)
+|| Alex Burrows (8) and [[Alexander Edler]] (8)
+|| 09:37
+|| 2–2
+|-style="text-align:center;"
+| rowspan="1"| '''OT'''
+|| VAN
+|| Alex Burrows (9)
+|| Daniel Sedin (9) and Alexander Edler (9)
+|| 00:11
+|| 3–2 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="1"| '''1st'''
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Interference
+|| 10:24
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"| '''2nd'''
+|| VAN
+|| [[Kevin Bieksa]]
+|| Delay of game (puck over glass)
+|| 01:03
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Aaron Rome]]
+|| Holding
+|| 10:26
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Aaron Rome
+|| Interference
+|| 18:59
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"| '''3rd'''
+|| BOS
+|| [[Dennis Seidenberg]]
+|| Tripping
+|| 00:52
+|| 2:00
+|- style="text-align:center;"
+|rowspan="1"| '''OT'''
+| colspan="5"| ''None''
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=6 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | OT
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} ||11 ||14 ||5 ||0 || 30
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} ||11 ||10 ||11 || 1|| 33
+|}
+
+===Game three===
+{{NHLPlayoffs
+|team1= Vancouver Canucks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 6
+|score1= 1–8
+|won1= 2
+|recap1= www.nhl.com/gamecenter/van-vs-bos/2011/06/06/2010030413
+}}
+Boston scored four goals in the second period, and another four goals in the third, which resulted in an 8–1 rout.<ref name="Game3">{{cite web|url=http://www.nhl.com/ice/recap.htm?id=2010030413|title=Bruins play 'Boston hockey,' claw back into series|date=June 7, 2011|accessdate=June 7, 2011|first=Shawn P.|last=Roarke|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref> Mark Recchi scored two of them; [[Brad Marchand]] and [[Daniel Paille]] each scored shorthanded; and [[Andrew Ference]], [[David Krejčí|David Krejci]], [[Chris Kelly (ice hockey)|Chris Kelly]] and [[Michael Ryder]] each tallied one of the other four.<ref name="Game3"/> Tim Thomas stopped 40 out of 41 shots, only allowing a third period goal by [[Jannik Hansen]].<ref name="Game3"/>
+
+At 05:07 into the first period, Vancouver defenseman [[Aaron Rome]] received a major penalty for interference and a game misconduct for a blindside hit to the head of Boston forward [[Nathan Horton]].<ref name="Game3"/> Horton was taken off the ice on a stretcher and was then transported to a hospital for further observation and was later diagnosed with a severe concussion. However, the Bruins did not score on the ensuing five-minute power play. Following a disciplinary hearing on June 7, Rome was given a four-game suspension for the late hit which assured that he'd miss the remainder of the 2011 playoffs, the first multi-game suspension in the history of the Stanley Cup Final. Rome and the Canucks maintained that the play was a good hit that went bad, but the NHL determined that the hit came more than a second after Horton gave up the puck. The NHL considers a hit to be late if it comes more than half a second after a player gives up possession.<ref name="NHL-Romesuspended">{{cite web|url=http://www.nhl.com/ice/news.htm?id=565103|title=Rome suspended for four games for late hit|accessdate=June 7, 2011|date=June 7, 2011|first=Shawn P.|last=Roarke|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref><ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/canucks-rome-suspended-4-games-for-horton-hit-1.1036537|title=Canucks' Rome suspended 4 games for Horton hit|first=Tim|last=Wharnsby|publisher=CBC/Radio-Canada|website=CBCSports.ca|date=June 7, 2011|access-date=June 7, 2011}}</ref><ref>{{cite web|url=https://www.nytimes.com/2011/06/14/sports/hockey/fight-for-stanley-cup-comes-with-plenty-of-finger-pointing-and-name-calling.html |title=The Punches, Verbal as Much as Physical, Keep Coming |website=nytimes.com |publisher=New York Times |author=Jeff Z. Klein |date=June 13, 2011 |access-date=October 27, 2024}}</ref>
+
+In contrast to game two, which featured only 10 minutes of penalties for the entire game, game three had 145 total penalty minutes, the most in a Cup Final game since game two of the 1990 Finals. The 8–1 score was the biggest goal differential in the Stanley Cup Final since {{scfy|1996}}, when the [[Colorado Avalanche]] defeated the [[Florida Panthers]] in game two by the same score.
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="4"| '''2nd'''
+|| BOS
+|| [[Andrew Ference]] (3)
+|| [[Rich Peverley]] (7) and [[David Krejčí|David Krejci]] (9)
+|| 00:11
+|| 1–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Mark Recchi]] (4) – ''pp''
+|| [[Michael Ryder]] (7) and Andrew Ference (6)
+|| 04:22
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]] (7) – ''sh''
+|| ''Unassisted''
+|| 11:30
+|| 3–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[David Krejčí|David Krejci]] (11)
+|| Michael Ryder (8) and [[Zdeno Chára|Zdeno Chara]] (5)
+|| 15:47
+|| 4–0 BOS
+|-style="text-align:center;"
+| rowspan="5"| '''3rd'''
+|| BOS
+|| [[Daniel Paille]] (3) – ''sh''
+|| [[Johnny Boychuk]] (5)
+|| 11:38
+|| 5–0 BOS
+|-style="text-align:center;"
+|| VAN
+|| [[Jannik Hansen]] (3)
+|| [[Raffi Torres]] (3) and [[Maxim Lapierre]] (2)
+|| 13:53
+|| 5–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| Mark Recchi (5)
+|| Brad Marchand (7) and [[Patrice Bergeron]] (13)
+|| 17:39
+|| 6–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Chris Kelly (ice hockey)|Chris Kelly]] (5)
+|| Daniel Paille (3) and Zdeno Chara (6)
+|| 18:06
+|| 7–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| Michael Ryder (6) – ''pp''
+|| [[Tomáš Kaberle|Tomas Kaberle]] (9)
+|| 19:29
+|| 8–1 BOS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="3"| '''1st'''
+|| VAN
+|| [[Aaron Rome]] (served by [[Raffi Torres]])
+|| Interference – major
+|| 05:07
+|| 5:00
+|-style="text-align:center;"
+|| VAN
+|| Aaron Rome
+|| Game misconduct
+|| 05:07
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Adam McQuaid]]
+|| Delay of game (puck over glass)
+|| 11:41
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"| '''2nd'''
+|| VAN
+|| [[Jeff Tambellini]]
+|| Hooking
+|| 02:42
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Andrew Ference]]
+|| Tripping
+|| 06:22
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Milan Lucic]]
+|| Slashing
+|| 10:30
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Johnny Boychuk]]
+|| High-sticking – double minor
+|| 17:36
+|| 4:00
+|-style="text-align:center;"
+| rowspan="20"| '''3rd'''
+|| BOS
+|| [[Michael Ryder]]
+|| Roughing
+|| 02:50
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Unsportsmanlike conduct
+|| 03:33
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Alex Burrows]]
+|| Unsportsmanlike conduct
+|| 03:33
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Andrew Ference]]
+|| Misconduct
+|| 06:59
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Daniel Sedin]]
+|| Misconduct
+|| 06:59
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Shawn Thornton]] (served by [[Michael Ryder]])
+|| Roughing
+|| 07:58
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Shawn Thornton
+|| Misconduct
+|| 07:58
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Ryan Kesler]]
+|| Boarding
+|| 09:11
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Alex Burrows
+|| Slashing
+|| 11:16
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Alex Burrows
+|| Misconduct
+|| 11:16
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| Ryan Kesler
+|| Fighting – major
+|| 11:16
+|| 5:00
+|-style="text-align:center;"
+|| VAN
+|| Ryan Kesler
+|| Misconduct
+|| 11:16
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| Milan Lucic (served by Michael Ryder)
+|| Slashing
+|| 11:16
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Milan Lucic
+|| Roughing
+|| 11:16
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Milan Lucic
+|| Misconduct
+|| 11:16
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Dennis Seidenberg]]
+|| Fighting – major
+|| 11:16
+|| 5:00
+|-style="text-align:center;"
+|| BOS
+|| Dennis Seidenberg
+|| Misconduct
+|| 11:16
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| Andrew Ference
+|| Misconduct
+|| 17:51
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Kevin Bieksa]]
+|| Misconduct
+|| 17:51
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Raffi Torres]]
+|| Charging
+|| 18:53
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} || 12 || 16 || 13 || 41
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}}|| 7 || 14 || 17 || 38
+|}
+
+===Game four===
+{{NHLPlayoffs
+|team1= Vancouver Canucks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 8
+|score1= 0–4
+|won1= 2
+|recap1= www.nhl.com/gamecenter/van-vs-bos/2011/06/08/2010030414
+}}
+[[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] made 38 saves and [[Rich Peverley]] scored two goals as Boston shut out Vancouver, 4–0, to even the series. [[Roberto Luongo]], who stopped only 16 out of 20 shots, was replaced by backup goalie [[Cory Schneider]] after giving up the fourth Boston goal at 03:39 of the third period.<ref>{{cite web|url=https://www.nhl.com/gamecenter/bos-vs-van/2011/06/08/2010030414|title=Vancouver Canucks - Boston Bruins - June 8th, 2011|publisher=NHL Enterprises, L. P.|date=June 8, 2011|website=NHL.com|access-date=June 3, 2023}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;"
+| rowspan="1"| '''1st'''
+|| BOS
+|| [[Rich Peverley]] (3)
+|| [[David Krejčí|David Krejci]] (10) and [[Zdeno Chára|Zdeno Chara]] (7)
+|| 11:59
+|| 1–0 BOS
+|-style="text-align:center;"
+|rowspan="2"| '''2nd'''
+|| BOS
+|| [[Michael Ryder]] (7)
+|| [[Tyler Seguin]] (4) and [[Chris Kelly (ice hockey)|Chris Kelly]] (8)
+|| 11:11
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]] (8)
+|| [[Patrice Bergeron]] (14)
+|| 13:29
+|| 3–0 BOS
+|-style="text-align:center;"
+|rowspan="1"| '''3rd'''
+|| BOS
+|| Rich Peverley (4)
+|| [[Milan Lucic]] (7) and David Krejci (11)
+|| 03:39
+|| 4–0 BOS
+|-style="text-align:center;"
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="2"| '''1st'''
+|| BOS
+||[[Michael Ryder]]
+||Tripping
+|| 06:58
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]]
+|| Cross-checking
+|| 16:10
+|| 2:00
+|-style="text-align:center;"
+| rowspan="4"| '''2nd'''
+|| VAN
+|| [[Mason Raymond]]
+|| High-sticking
+|| 07:41
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Andrew Alberts]]
+|| Slashing
+|| 12:05
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Rich Peverley]]
+|| Cross-checking
+|| 12:05
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Johnny Boychuk]]
+|| Delay of game (puck over glass)
+|| 18:49
+|| 2:00
+|-style="text-align:center;"
+| rowspan="15"| '''3rd'''
+|| VAN
+|| [[Daniel Sedin]]
+|| Slashing
+|| 00:52
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Mark Recchi]]
+|| High-sticking
+|| 9:14
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Ryan Kesler]]
+|| Slashing
+|| 10:25
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Maxim Lapierre]]
+|| Slashing
+|| 14:35
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Brad Marchand (served by Tyler Seguin)
+|| Roughing
+|| 17:33
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Keith Ballard]]
+|| Roughing
+|| 17:33
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Brad Marchand
+|| Holding
+|| 17:33
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Brad Marchand
+|| Tripping
+|| 17:33
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Adam McQuaid]]
+|| Misconduct
+|| 17:33
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Alex Burrows]]
+|| Cross-checking
+|| 18:09
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Ryan Kesler
+|| Roughing
+|| 18:09
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Ryan Kesler
+|| Misconduct
+|| 18:09
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Roughing
+|| 18:09
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Zdeno Chara
+|| Misconduct
+|| 18:09
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] (served by [[Shawn Thornton]])
+|| Slashing
+|| 18:09
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} || 12 || 13 || 13 || 38
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} || 6 || 12 || 11 || 29
+|}
+
+===Game five===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Vancouver Canucks
+|stadium1= [[Rogers Arena]]
+|date1= June 10
+|score1= 0–1
+|won1= 2
+|recap1= www.nhl.com/gamecenter/bos-vs-van/2011/06/10/2010030415
+}}
+[[Roberto Luongo]] made 31 saves and [[Maxim Lapierre]] scored the game's only goal to give Vancouver a 3–2 series lead. This was the second 1–0 victory for Vancouver in the Finals; game one ended with the same score. Lapierre's goal came at 04:35 into the third period. [[Kevin Bieksa]]'s shot went wide and rebounded off the end boards to Lapierre on the other side of the net, who then beat [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] after the Boston goalie was unable to recover his position in time. Thomas made 24 saves in the loss.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/canucks-1-win-from-stanley-cup-title-1.1058899|title=Canucks 1 win from Stanley Cup title|first=Tim|last=Wharnsby|publisher=CBC/Radio-Canada|website=CBCSports.ca|date=June 10, 2011|access-date=June 11, 2011}}</ref>
+
+Luongo joined [[Frank McCool]] as the only goalie to have two 1–0 shutouts in the Stanley Cup Final; McCool's victories came 66 years earlier in {{scfy|1945}}.<ref>{{cite web|url=https://www.espn.com/blog/statsinfo/post/_/id/21033/luongo-closes-the-door-on-struggles|title=Luongo closes the door on struggles|date=June 11, 2011|accessdate=June 11, 2011|website=ESPN.com|publisher=ESPN Enterprises, Inc.}}</ref><ref>{{cite news|url=http://www.cbc.ca/sports/hockey/stanleycup2011/blog/2011/06/luongo-returns-to-victorious-path.html|title=Luongo returns to victorious path|date=June 11, 2011|accessdate=June 11, 2011|website=CBCSports.ca|first=Tim|last=Wharnsby|publisher=CBC/Radio-Canada}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="1"| '''3rd'''
+|| VAN
+|| [[Maxim Lapierre]] (2)
+|| [[Kevin Bieksa]] (5) and [[Raffi Torres]] (4)
+|| 04:35
+|| 1–0 VAN
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="5"| '''1st'''
+|| VAN
+|| [[Raffi Torres]]
+|| Tripping
+|| 01:39
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Henrik Sedin]]
+|| Interference
+|| 06:54
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Andrew Alberts]]
+|| Roughing
+|| 14:13
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Milan Lucic]]
+|| Tripping
+|| 19:27
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Alex Burrows]]
+|| Unsportsmanlike conduct
+|| 19:27
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"| '''2nd'''
+|| VAN
+|| [[Ryan Kesler]]
+|| Goaltender interference
+|| 04:18
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Adam McQuaid]]
+|| Holding
+|| 07:22
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Patrice Bergeron]]
+|| Holding
+|| 15:56
+|| 2:00
+|-style="text-align:center;"
+| rowspan="1"| '''3rd'''
+|| BOS
+|| [[Rich Peverley]]
+|| Tripping
+|| 12:09
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} || 12 || 9 || 10 || 31
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} || 6 || 12 || 7 || 25
+|}
+
+===Game six===
+{{NHLPlayoffs
+|team1= Vancouver Canucks
+|team2= Boston Bruins
+|stadium1= [[TD Garden]]
+|date1= June 13
+|score1= 2–5
+|won1= 2
+|recap1= www.nhl.com/gamecenter/van-vs-bos/2011/06/13/2010030416
+}}
+Boston defeated Vancouver 5–2 in [[TD Garden]] to prevent the Canucks from clinching their first Stanley Cup in franchise history and force a deciding seventh game, the 16th Game seven in Finals history. The Bruins scored four goals in a span of 4:14 in the first period, breaking the record for the quickest four goals tallied by one team in the Cup Finals.<ref name="Game6">{{cite web|url=https://www.nhl.com/gamecenter/bos-vs-van/2011/06/13/2010030416|title=Vancouver Canucks - Boston Bruins - June 13th, 2011|date=June 13, 2011|access-date=June 13, 2011|first=Dan|last=Rosen|website=NHL.com|publisher=NHL Enterprises, L. P.}}</ref> For the second time in the series, [[Roberto Luongo]] was replaced by backup goalie [[Cory Schneider]]; this came after Luongo gave up Boston's third goal at 08:35.
+
+Vancouver forward [[Mason Raymond]] suffered a fractured vertebra 20 seconds into the game on an awkward hit into the boards by Boston defenseman [[Johnny Boychuk]], and had to be taken to a hospital for treatment.<ref>{{cite news|url=https://www.theglobeandmail.com/sports/hockey/globe-on-hockey/boychuk-escapes-suspension-for-hit-on-raymond/article615148/|title=Boychuk escapes suspension for hit on Raymond|date=June 14, 2011|accessdate=June 14, 2011|first=James|last=Mirtle|newspaper=Globe and Mail}}</ref>
+
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;"
+| rowspan="4"| '''1st'''
+|| BOS
+|| [[Brad Marchand]] (9)
+|| [[Mark Recchi]] (6) and [[Dennis Seidenberg]] (8)
+|| 05:31
+|| 1–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Milan Lucic]] (5)
+|| [[Rich Peverley]] (8) and [[Johnny Boychuk]] (6)
+|| 06:06
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[Andrew Ference]] (4) – ''pp''
+|| [[Michael Ryder]] (9) and Mark Recchi (7)
+|| 08:35
+|| 3–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| Michael Ryder (8)
+|| [[Tomáš Kaberle|Tomas Kaberle]] (10)
+|| 09:45
+|| 4–0 BOS
+|- style="text-align:center;"
+|| '''2nd'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="3"| '''3rd'''
+|| VAN
+|| [[Henrik Sedin]] (3) – ''pp''
+|| [[Daniel Sedin]] (10) and [[Christian Ehrhoff]] (10)
+|| 00:22
+|| 4–1 BOS
+|-style="text-align:center;"
+|| BOS
+|| [[David Krejčí|David Krejci]] (12) – ''pp''
+|| Mark Recchi (8) and Tomas Kaberle (11)
+|| 06:59
+|| 5–1 BOS
+|-style="text-align:center;"
+|| VAN
+|| [[Maxim Lapierre]] (3)
+|| Daniel Sedin (11) and [[Jannik Hansen]] (4)
+|| 17:34
+|| 5–2 BOS
+|-
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|-style="text-align:center;"
+| rowspan="5"| '''1st'''
+|| VAN
+|| [[Henrik Sedin]]
+|| Unsportsmanlike conduct
+|| 00:56
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Interference
+|| 00:56
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Alexander Edler]]
+|| Boarding
+|| 07:55
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Ryan Kesler]]
+|| Holding
+|| 10:31
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| Bench (served by [[Raffi Torres]])
+|| Too many men on the ice
+|| 17:09
+|| 2:00
+|-style="text-align:center;"
+| rowspan="3"| '''2nd'''
+|| BOS
+|| [[Patrice Bergeron]]
+|| Goaltender interference
+|| 00:28
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Patrice Bergeron
+|| Interference
+|| 12:15
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Patrice Bergeron
+|| Elbowing
+|| 19:08
+|| 2:00
+|-style="text-align:center;"
+| rowspan="11"| '''3rd'''
+|| VAN
+|| Raffi Torres
+|| Tripping
+|| 05:23
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Andrew Alberts]]
+|| Cross-checking
+|| 06:11
+|| 2:00
+|-style="text-align:center;"
+|| VAN
+|| [[Alex Burrows]]
+|| Slashing
+|| 06:59
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Patrice Bergeron
+|| Cross-checking
+|| 06:59
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Mark Recchi]]
+|| Tripping
+|| 11:32
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Brad Marchand]] (served by [[David Krejčí|David Krejci]])
+|| Roughing
+|| 18:29
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| Brad Marchand
+|| Misconduct
+|| 18:29
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Shawn Thornton]]
+|| Misconduct
+|| 18:29
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Daniel Sedin]]
+|| Misconduct
+|| 18:29
+|| 10:00
+|-style="text-align:center;"
+|| VAN
+|| [[Maxim Lapierre]]
+|| Misconduct
+|| 18:29
+|| 10:00
+|-style="text-align:center;"
+|| BOS
+|| [[Dennis Seidenberg]]
+|| Cross-checking
+|| 19:03
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} || 11 || 11 || 16 || 38
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} || 19 || 8 || 13 || 40
+|}
+
+===Game seven===
+{{NHLPlayoffs
+|team1= Boston Bruins
+|team2= Vancouver Canucks
+|stadium1= [[Rogers Arena]]
+|date1= June 15
+|score1= 4–0
+|won1= 1
+|recap1= www.nhl.com/gamecenter/bos-vs-van/2011/06/15/2010030417
+}}
+{{external media
+| float = right
+| width = 258px
+| video1 = [https://www.youtube.com/watch?v=6tutYbr4l4o Game 7 Full replay] (NHL International's feed) on the NHL's official YouTube channel
+}}
+In Boston's first-ever Stanley Cup Final game seven, [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]] made 37 saves as Boston shut out Vancouver, 4–0, to win the Stanley Cup. [[Patrice Bergeron]] and [[Brad Marchand]] each scored two goals for Boston. Bergeron scored first at 14:37 in the first period, then had a shorthanded goal at 17:35 in the second. Marchand's first goal came at 12:13 of the second period; he then scored on an empty net late in the third. [[Roberto Luongo]] stopped 17 out of 20 shots in the loss.<ref>{{cite web|url=https://www.nhl.com/gamecenter/bos-vs-van/2011/06/15/2010030417#game=2010030417,game_state=final|title=Boston Bruins - Vancouver Canucks - June 15th, 2011|publisher=NHL Enterprises, L. P.|date=June 15, 2011|website=NHL.com|accessdate=June 3, 2023}}</ref><ref>{{cite web|url=https://www.prostockhockey.com/hockey-resources/stanley-cup-finals/2011/?srsltid=AfmBOoqsn_UQ9qSBT5R9ZlsIg5e02V_gtP4gjt-1mHoT02VWjtIckYPW |title=2011 Stanley Cup Final |website=prostockhockey.com |publisher=Pro Stock Hockey |author=Pro Stock Hockey |date=June 15, 2011 |access-date=March 11, 2025}}</ref> The game was the last of [[Mark Recchi]]'s 22-year NHL career; he announced his retirement immediately afterward, during the post-game celebration.
+{| style="width:100%;" class="wikitable"
+|-
+! colspan=6 | Scoring summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Goal
+! style="width:35%;"| Assist(s)
+! style="width:7%;"| Time
+! style="width:11%;"| Score
+|-style="text-align:center;"
+|| '''1st'''
+| style="text-align:center;" | BOS
+|| [[Patrice Bergeron]] (5)
+|| [[Brad Marchand]] (8)
+|| 14:37
+|| 1–0 BOS
+|-style="text-align:center;"
+| rowspan="2"| '''2nd'''
+|| BOS
+|| Brad Marchand (10)
+|| [[Dennis Seidenberg]] (9) and [[Mark Recchi]] (9)
+|| 12:13
+|| 2–0 BOS
+|-style="text-align:center;"
+|| BOS
+|| Patrice Bergeron (6) – ''sh''
+|| Dennis Seidenberg (10) and [[Gregory Campbell (ice hockey)|Gregory Campbell]] (3)
+|| 17:35
+|| 3–0 BOS
+|-style="text-align:center;"
+|| '''3rd'''
+|| BOS
+|| Brad Marchand (11) – ''en''
+|| ''Unassisted''
+|| 17:16
+|| 4–0 BOS
+|-style="text-align:center;"
+! colspan=6 | Penalty summary
+|-
+! style="width:12%;"| Period
+! style="width:7%;"| Team
+! style="width:28%;"| Player
+! style="width:35%;"| [[Penalty (ice hockey)|Penalty]]
+! style="width:7%;"| Time
+! style="width:11%;"| PIM
+|- style="text-align:center;"
+|| '''1st'''
+| colspan="5"| ''None''
+|-style="text-align:center;"
+| rowspan="1"| '''2nd'''
+|| BOS
+|| [[Zdeno Chára|Zdeno Chara]]
+|| Interference
+|| 16:07
+|| 2:00
+|-style="text-align:center;"
+| rowspan="2"| '''3rd'''
+|| VAN
+|| [[Jannik Hansen]]
+|| Interference
+|| 05:33
+|| 2:00
+|-style="text-align:center;"
+|| BOS
+|| [[Milan Lucic]]
+|| Hooking
+|| 11:34
+|| 2:00
+|}
+{| class="wikitable" style="width:20em; text-align:right;"
+|-
+! colspan=5 | Shots by period
+|-
+! style="width:8em; text-align:left;" | Team
+! style="width:3em;" | 1
+! style="width:3em;" | 2
+! style="width:3em;" | 3
+! style="width:3em;" | Total
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|BOS}} || 5 || 8 || 8 || 21
+|-style="text-align:center;"
+| style="text-align:left;"| {{nowrap|VAN}} || 8 || 13 || 16 || 37
+|}
+
+==Television==
+In Canada, the series was televised in English on [[Hockey Night in Canada|CBC]] and in French on the cable network [[LNH à RDS|RDS]].<ref name="Schedule"/> In the United States, [[NHL on NBC|NBC]] broadcast the first two and final three games, while Versus (now [[NBCSN]]) televised games three and four.<ref name="Schedule"/>
+
+===Ratings===
+Game one on NBC drew the best television ratings for a first game since game one of the [[1999 Stanley Cup Final]], drawing a 3.2 rating, up 14 percent from game one of the {{scfy|2010}} Finals.<ref name="Ratings-Game1">{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/hockey-night-in-canada-breaks-playoff-audience-record-1.1000621|title=Hockey Night in Canada breaks playoff audience record|date=June 2, 2011|access-date=June 3, 2011|agency=Associated Press|website=CBCSports.ca|publisher=CBC/Radio-Canada}}</ref> The rating was boosted by heavy interest in Boston's large market, which posted a 25.5/39, topping the 19.1/34 for game one of the [[2010 NBA Finals]] between the [[Celtics–Lakers rivalry|Boston Celtics and the Los Angeles Lakers]].<ref name="Ratings-Game1"/>
+
+In contrast, game two drew just 3.37 million viewers for NBC, making it the least-watched Stanley Cup Final broadcast on U.S. network television since game five in {{scfy|2007}}, which also was the last time a Canadian team (the [[Ottawa Senators]]) advanced to the Cup Finals.<ref name="Ratings-Game2">{{cite web|url=https://www.adweek.com/tvnewser/game-2-stanley-cup-final-ratings-take-a-slide/ |archive-url=https://archive.today/20130111044452/http://www.mediabistro.com/sportsnewser/game-2-stanley-cup-final-ratings-take-a-slide_b10162 |url-status=live |archive-date=January 11, 2013 |title=Game 2 Stanley Cup Final Ratings Take A Slide |first=Marcus |last=Vanderberg |date=June 5, 2011 |access-date=June 5, 2011 |publisher=Web Media Brands, Inc.}}</ref>
+
+Games six, five and one are the third, fourth, and fifth [[List of most-watched television broadcasts|most-watched]] [[CBC Sports]] programs with an average Canadian audience of 6.6 million, 6.1 million, and 5.6 million viewers respectively, after the men's ice hockey gold medal game between [[Canada men's national ice hockey team|Canada]] and the [[United States men's national ice hockey team|United States]] at the [[2002 Winter Olympics]].<ref>{{cite web|url=http://www.thecanadianpress.com/english/online/OnlineFullStory.aspx?filename=DOR-MNN-CP.73e96ef3e02d44a5a2f1f5a55065c4ba.CPKEY2008111306&newsitemid=7032637&languageid=1|title=Canucks-Bruins opening game of Stanley Cup final draws big TV ratings|date=June 2, 2011|access-date=June 2, 2011|publisher=The Canadian Press|archive-url=https://web.archive.org/web/20110716225735/http://www.thecanadianpress.com/english/online/OnlineFullStory.aspx?filename=DOR-MNN-CP.73e96ef3e02d44a5a2f1f5a55065c4ba.CPKEY2008111306&newsitemid=7032637&languageid=1|archive-date=July 16, 2011|url-status=dead|df=mdy-all}}</ref><ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/canucks-bruins-top-own-cbc-ratings-record-1.1103415|title=Canucks, Bruins top own CBC ratings record|date=June 13, 2011|access-date=June 14, 2011|website=CBCSports.ca|publisher=CBC/Radio-Canada}}</ref><ref>{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/game-6-of-cup-final-sets-new-ratings-mark-1.1098758|title=Game 6 of Cup final sets new ratings mark|date=June 14, 2011|access-date=June 15, 2011|website=CBCSports.ca|publisher=CBC/Radio-Canada}}</ref> Game seven was the highest rated game on both sides of the border. In Canada, it was second most-watched CBC Sports program, drawing an average of 8.76 million viewers and trailing only the men's gold medal game in [[ice hockey at the 2002 Winter Olympics]];<ref name="Game7Ratings">{{cite news|url=https://www.cbc.ca/sports/hockey/nhl/game-7-smashes-hockey-night-in-canada-record-1.1015705?cmp=fb-cbcsports|title=Game 7 smashes Hockey Night in Canada record|date=June 16, 2011|website=CBCSports.ca|publisher=CBC/Radio-Canada|access-date=June 16, 2011}}</ref> In the US, NBC's broadcast drew a 5.7 national overnight rating and a 10 share (numbers that equaled game seven of the [[2003 Stanley Cup Final]]),<ref name="Game7Ratings"/> a number later updated to 8.5 million viewers, making the game the most watched NHL broadcast in the US since 1973.<ref name="Game7Ratings"/> In the Boston market alone, the broadcast pulled in a 43.4 rating and a 64 share.<ref name="Game7Ratings"/>
+
+==Vancouver riots==
+{{main|2011 Vancouver Stanley Cup riot}}
+[[File:Crowds in downtown Vancouver watch Stanley Cup finals.jpg|thumb|Fans watching the finals in Vancouver]]
+The seventh and final game of the series attracted huge crowds on the streets of Vancouver who gathered to watch the game on outside monitors and cheer the home team on. Shortly before the game ended with the apparent loss for Vancouver, fires were set on [[Georgia Street|West Georgia Street]]. After the game ended, cars were set on fire and fighting broke out. Soon, a riot was in progress in downtown Vancouver, with police cars set on fire, shops looted and attendant destruction of property. The damage was expected to be greater than the [[1994 Stanley Cup riot|1994 Vancouver riots]] that occurred after Vancouver lost the Stanley Cup Final in seven games to the New York Rangers.
+
+==Officials==
+*Referees:<ref name="Referees">{{cite web|url=http://www.nhlofficials.com/display_news.asp?articleID=534|title=Finals Officials|date=May 30, 2011|work=National Hockey League Officials Association|access-date=May 30, 2011|archive-url=https://web.archive.org/web/20110826114225/http://www.nhlofficials.com/display_news.asp?articleID=534|archive-date=August 26, 2011|url-status=dead}}</ref> [[Dan O'Halloran]], [[Dan O'Rourke (ice hockey)|Dan O'Rourke]], [[Kelly Sutherland]], [[Stephen Walkom]]
+*Linesmen:<ref name="Referees"/> [[Steve Miller (ice hockey)|Steve Miller]], [[Jean Morin (ice hockey)|Jean Morin]], [[Pierre Racicot]], [[Jay Sharrers]]
+
+==Team rosters==
+Years indicated in '''boldface''' under the "Finals appearance" column signify that the player won the Stanley Cup in the given year.
+
+===Boston Bruins===
+[[File:Zdeno Chara - Boston Bruins 2012.jpg|right|thumb|250px|[[Zdeno Chára|Zdeno Chara]] [[Captain (ice hockey)|captained]] the Bruins to their first Stanley Cup championship in [[1972 Stanley Cup Final|39 years]]]] 
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|-
+! #
+! [[Nationality|Nat]]
+! Player
+! Position
+! Hand
+! Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''37'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Patrice Bergeron]] – '''[[Alternate captain|A]]'''
+| C
+| R
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[L'Ancienne-Lorette, Quebec]]
+| first
+|-
+| '''55'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Johnny Boychuk]]
+| D
+| R
+| [[2007-08 NHL season|2008]]
+| style="text-align:left;"| [[Edmonton|Edmonton, Alberta]]
+| first
+|-
+| '''11'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Gregory Campbell (ice hockey)|Gregory Campbell]]
+| C
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[London, Ontario]]
+| first
+|-
+| '''33'''
+| {{flagicon|SVK}}
+| style="text-align:left;"| [[Zdeno Chára|Zdeno Chara]] – '''[[Captain (ice hockey)|C]]'''
+| D
+| L
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"| [[Trenčín|Trenčín, Czechoslovakia]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Andrew Ference]] 
+| D
+| L
+| [[2006–07 NHL season|2007]]
+| style="text-align:left;"| [[Edmonton|Edmonton, Alberta]]
+| second {{small|([[2004 Stanley Cup Final|2004]])}}
+|-
+| '''18'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Nathan Horton]]
+| RW
+| R
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Welland|Welland, Ontario]]
+| first
+|-
+| '''12'''
+| {{flagicon|CZE}}
+| style="text-align:left;"| [[Tomáš Kaberle|Tomas Kaberle]]
+| D
+| L
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"| [[Rakovník|Rakovník, Czechoslovakia]]
+| first
+|-
+| '''47'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Steven Kampfer]]
+| D
+| R
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Ann Arbor, Michigan]]
+| first (did not play)
+|-
+| '''23'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Chris Kelly (ice hockey)|Chris Kelly]]
+| C
+| L
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"| [[Toronto|Toronto, Ontario]]
+| second {{small|([[2007 Stanley Cup Final|2007]])}}
+|-
+| '''46'''
+| {{flagicon|CZE}}
+| style="text-align:left;"| [[David Krejčí|David Krejci]]
+| C
+| R
+| [[2003–04 NHL season|2004]]
+| style="text-align:left;"| [[Šternberk|Šternberk, Czechoslovakia]]
+| first
+|-
+| '''17'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Milan Lucic]]
+| LW
+| L
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"| [[Vancouver|Vancouver, British Columbia]]
+| first
+|-
+| '''63'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Brad Marchand]]
+| LW
+| L
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"| [[Halifax, Nova Scotia]]
+| first
+|-
+| '''54'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Adam McQuaid]]
+| D
+| R
+| [[2006 NHL Entry Draft|2006]]
+| style="text-align:left;"| [[Charlottetown|Charlottetown, Prince Edward Island]]
+| first
+|-
+| '''20'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Daniel Paille]]
+| LW
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Welland|Welland, Ontario]]
+| first
+|-
+| '''49'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Rich Peverley]]
+| RW
+| R
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"| [[Guelph|Guelph, Ontario]]
+| first
+|-
+| '''40'''
+| {{flagicon|FIN}}
+| style="text-align:left;"| [[Tuukka Rask]]
+| G
+| L
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"| [[Savonlinna|Savonlinna, Finland]]
+| first
+|-
+| '''28'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Mark Recchi]] – '''[[Alternate captain|A]]'''
+| RW
+| L
+| [[2008–09 NHL season|2009]]
+| style="text-align:left;"| [[Kamloops|Kamloops, British Columbia]]
+| third {{small|('''[[1991 Stanley Cup Final|1991]]''', '''[[2006 Stanley Cup Final|2006]]''')}}
+|-
+| '''73'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Michael Ryder]]
+| RW
+| R
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Bonavista, Newfoundland and Labrador]]
+| first
+|-
+| '''91'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Marc Savard]]
+| C
+| L
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"| [[Ottawa|Ottawa, Ontario]]
+| first (did not play)
+|-
+| '''19'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Tyler Seguin]]
+| RW
+| R
+| [[2010 NHL Entry Draft|2010]]
+| style="text-align:left;"| [[Brampton|Brampton, Ontario]]
+| first
+|-
+| '''44'''
+| {{flagicon|GER}}
+| style="text-align:left;"| [[Dennis Seidenberg]]
+| D
+| L
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Villingen-Schwenningen|Villingen-Schwenningen, West Germany]]
+| first
+|-
+| '''30'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]]
+| G
+| L
+| [[2002–03 NHL season|2002]]
+| style="text-align:left;"| [[Flint, Michigan]]
+| first
+|-
+| '''22'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Shawn Thornton]]
+| RW
+| R
+| [[2007–08 NHL season|2007]]
+| style="text-align:left;"| [[Oshawa|Oshawa, Ontario]]
+| second {{small|('''[[2007 Stanley Cup Final|2007]]''')}}
+|}
+
+===Vancouver Canucks===
+[[File:Blackhawks vs Canucks 102010 - Henrik Sedin crop.jpg|right|thumb|250px|[[Henrik Sedin]] [[Captain (ice hockey)|captained]] the Canucks to their first Stanley Cup Final appearance since [[1994 Stanley Cup Final|1994]]]] 
+{| class="sortable wikitable plainrowheaders" style="text-align:center;"
+|-
+! #
+! [[Nationality|Nat]]
+! Player
+! Position
+! Hand
+! Acquired
+! scope="col" class="unsortable"|Place of birth
+! scope="col" class="unsortable"|Finals appearance
+|-
+| '''41'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Andrew Alberts]]
+| D
+| L
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Minneapolis|Minneapolis, Minnesota]]
+| first
+|-
+| '''4'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Keith Ballard]]
+| D
+| L
+| [[2010–11 NHL season|2010]] 
+| style="text-align:left;"| [[Baudette, Minnesota]] 
+| first
+|-
+| '''3'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Kevin Bieksa]] – '''[[Alternate captain|A]]'''
+| D
+| R
+| [[2001 NHL Entry Draft|2001]]
+| style="text-align:left;"| [[Grimsby, Ontario]]
+| first
+|-
+| '''49'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Alexandre Bolduc]]
+| C
+| L
+| [[2008–09 NHL season|2008]]
+| style="text-align:left;"| [[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''14'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Alex Burrows]]
+| LW
+| L
+| [[2005–06 NHL season|2005]]
+| style="text-align:left;"| [[Pincourt, Quebec]]
+| first
+|-
+| '''23'''
+| {{flagicon|SWE}}
+| style="text-align:left;"| [[Alexander Edler]]
+| D
+| L
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Östersund|Östersund, Sweden]]
+| first
+|-
+| '''5'''
+| {{flagicon|GER}}
+| style="text-align:left;"| [[Christian Ehrhoff]]
+| D
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Moers|Moers, West Germany]]
+| first
+|-
+| '''15'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Tanner Glass]]
+| LW
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Regina, Saskatchewan]]
+| first
+|-
+| '''2'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Dan Hamhuis]]
+| D
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Smithers, British Columbia]]
+| first
+|-
+| '''36'''
+| {{flagicon|DEN}}
+| style="text-align:left;"| [[Jannik Hansen]]
+| RW
+| R
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Herlev|Herlev, Denmark]]
+| first
+|-
+| '''20'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Chris Higgins (ice hockey)|Chris Higgins]]
+| LW
+| L
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"| [[Smithtown, New York]]
+| first
+|-
+| '''17'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Ryan Kesler]] – '''[[Alternate captain|A]]'''
+| C
+| R
+| [[2003 NHL Entry Draft|2003]]
+| style="text-align:left;"| [[Livonia, Michigan]]
+| first
+|-
+| '''40'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Maxim Lapierre]]
+| C
+| R
+| [[2010–11 NHL season|2011]]
+| style="text-align:left;"| [[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''1'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Roberto Luongo]]
+| G
+| L
+| [[2006–07 NHL season|2006]]
+| style="text-align:left;"| [[Montreal|Montreal, Quebec]]
+| first
+|-
+| '''27'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Manny Malhotra]] – '''[[Alternate captain|A]]'''
+| C
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Mississauga|Mississauga, Ontario]]
+| first
+|-
+| '''38'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Victor Oreskovich]]
+| RW
+| R
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Whitby, Ontario]]
+| first
+|-
+| '''21'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Mason Raymond]]
+| LW
+| L
+| [[2005 NHL Entry Draft|2005]]
+| style="text-align:left;"| [[Cochrane, Alberta]]
+| first
+|-
+| '''29'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Aaron Rome]]
+| D
+| L
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Brandon, Manitoba]] 
+| second {{small|('''[[2007 Stanley Cup Final|2007]]''')}}
+|-
+| '''37'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Rick Rypien]]
+| C
+| R
+| [[2005–06 NHL season|2005]]
+| style="text-align:left;"| [[Blairmore, Alberta]]
+| first (did not play)
+|-
+| '''6'''
+| {{flagicon|FIN}}
+| style="text-align:left;"| [[Sami Salo]]
+| D
+| R
+| [[2002–03 NHL season|2002]]
+| style="text-align:left;"| [[Turku|Turku, Finland]]
+| first
+|-
+| '''26'''
+| {{flagicon|SWE}}
+| style="text-align:left;"| [[Mikael Samuelsson]]
+| RW
+| R
+| [[2009–10 NHL season|2009]]
+| style="text-align:left;"| [[Mariefred|Mariefred, Sweden]]
+| third {{small|('''[[2008 Stanley Cup Final|2008]]''', [[2009 Stanley Cup Final|2009]])}}
+|-
+| '''35'''
+| {{flagicon|USA}}
+| style="text-align:left;"| [[Cory Schneider]]
+| G
+| L
+| [[2004 NHL Entry Draft|2004]]
+| style="text-align:left;"| [[Marblehead, Massachusetts]]
+| first
+|-
+| '''22'''
+| {{flagicon|SWE}}
+| style="text-align:left;"| [[Daniel Sedin]] – '''[[Alternate captain|A]]'''
+| LW
+| L
+| [[1999 NHL Entry Draft|1999]]
+| style="text-align:left;"| [[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| first
+|-
+| '''33'''
+| {{flagicon|SWE}}
+| style="text-align:left;"| [[Henrik Sedin]] – '''[[Captain (ice hockey)|C]]'''
+| C
+| L
+| [[1999 NHL Entry Draft|1999]]
+| style="text-align:left;"| [[Örnsköldsvik|Örnsköldsvik, Sweden]]
+| first
+|-
+| '''10'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Jeff Tambellini]]
+| LW
+| L
+| [[2010–11 NHL season|2010]]
+| style="text-align:left;"| [[Calgary|Calgary, Alberta]]
+| first
+|-
+| '''18'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Christopher Tanev]]
+| D
+| R
+| [[2009–10 NHL season|2010]]
+| style="text-align:left;"| [[Toronto|Toronto, Ontario]]
+| first
+|-
+| '''13'''
+| {{flagicon|CAN}}
+| style="text-align:left;"| [[Raffi Torres]]
+| LW
+| L
+| [[2010–11 NHL season|2010]] 
+| style="text-align:left;"| [[Toronto|Toronto, Ontario]]
+| second {{small|([[2006 Stanley Cup Final|2006]])}}
+|}
+
+==Stanley Cup engraving==
+[[File:Milan Lucic Stanley Cup celebration.jpg|thumb|Milan Lucic hoists the Stanley Cup after Game seven]]
+The 2011 Stanley Cup was presented to Boston Bruins' captain Zdeno Chara by [[NHL Commissioner]] [[Gary Bettman]] following the Bruins' 4–0 win over the Vancouver Canucks in the seventh game of the finals.
+
+The following Bruins players and staff had their names engraved on the Stanley Cup
+
+'''2010–11 Boston Bruins'''
+{{Stanley Cup champion|
+|defence=*12 [[Tomáš Kaberle|Tomas Kaberle]]
+*21 [[Andrew Ference]]
+*33 [[Zdeno Chára|Zdeno Chara]] (Captain)
+*44 [[Dennis Seidenberg]]
+*54 [[Adam McQuaid]]
+*55 [[Johnny Boychuk]]
+|wingers=*17 [[Milan Lucic]]
+*18 [[Nathan Horton]]
+*20 [[Daniel Paille]]
+*22 [[Shawn Thornton]]
+*28 [[Mark Recchi]] (A)
+*63 [[Brad Marchand]]
+*73 [[Michael Ryder]]
+|centres=*11 [[Gregory Campbell (ice hockey)|Gregory Campbell]]
+*19 [[Tyler Seguin]]*
+*23 [[Chris Kelly (ice hockey)|Chris Kelly]]*
+*37 [[Patrice Bergeron]] (A)
+*46 [[David Krejčí|David Krejci]]
+*49 [[Rich Peverley]]*
+*91 [[Marc Savard]] †
+|goaltenders=
+*30 [[Tim Thomas (ice hockey, born 1974)|Tim Thomas]]
+*40 [[Tuukka Rask]]
+|player-notes=
+* * Played both centre and wing.
+* † Exemption granted to engrave the name of a player who did not automatically qualify.{{efn|name=qualify|Automatic qualification for a player's name to be engraved on the Stanley Cup: Playing in (for a goaltender, dressing for) at least one Stanley Cup Final game or at least half of regular season games for the Stanley Cup winning team.}}
+|non-players=
+* [[Jeremy Jacobs]] Sr. (Chairman/Owner/Governor), Margaret Jacobs (Owner), Charles Jacobs (Owner/Alternate Governor), Jerry Jacobs Jr. (Alternate Governor/Owner) 
+* Louis Jacobs (Alternate Governor/Owner), [[Cam Neely]] (President/Alternate Governor), [[Peter Chiarelli (ice hockey)|Peter Chiarelli]] (General Manager/Alternate Governor), [[Jim Benning]] (Asst. General Manager)
+* [[Don Sweeney]] (Asst. General Manager), [[Claude Julien (ice hockey)|Claude Julien]] (Head Coach), [[Doug Jarvis]] (Asst. Coach), [[Geoff Ward (ice hockey)|Geoff Ward]] (Asst. Coach)
+* [[Doug Houda]] (Asst. Coach), [[Bob Essensa]] (Goaltending Coach), [[Harry Sinden]] (Senior Advisor), [[John Bucyk]] (Road Service Coordinator)
+* Scott Bradley (Director of Player Personnel), Wayne Smith (Director of Amateur Scouting), [[John Weisbrod]] (Director of Collegiate Scouting), [[Adam Creighton (ice hockey)|Adam Creighton]] (Scout),
+* [[Tom McVie]] (Scout), Dale Hamilton-Powers (Director of Administration), Matt Chmura (Director of Communications),
+* Don DelNegro (Athletic Trainer), John Whitesides (Strength-Conditioning Coach), Derek Repucci (Asst. Athletic Trainer/Massage Therapist), Keith Robinson (Equipment Manager),
+* Jim "Beets" Johnson (Asst. Equipment Manager), Scott Waugh (Physical Therapist)}}
+===Engraving notes===
+* #91 [[Marc Savard]] (C) – played 25 regular season games and no playoff games due to multiple concussions, but spent the entire season with the Bruins. The NHL granted the Bruins' request to have his name included on the Stanley Cup. Savard never played again in the NHL.
+* [[Patrice Bergeron]] was given permission to include both his father and mother's surnames and be listed as "Patrice Bergeron-Cleary."
+* Jeremy & Margaret Jacobs' last name was listed only once for both owners.
+* Jim Johnson (Asst. Equipment Manager) was given permission to include his nickname "Beets."
+
+===Included in the team picture, but left off the Stanley Cup===
+* #34 [[Shane Hnidy]] (D) –3 regular season games for Boston, and 3 playoff games for Boston
+* #47 [[Steven Kampfer]] (D) – played 38 regular season games for Boston and 22 games with the [[American Hockey League|AHL]]'s [[Providence Bruins]]
+* #38 [[Jordan Caron]] (RW) – 23 regular season games and none in the playoffs
+* #72 [[Jamie Arniel]] (C) – 1 regular season game with the Bruins ([[List of players who played only one game in the NHL|the only NHL game of his career]]) and spent the rest of the regular season with the [[Providence Bruins]] of the [[American Hockey League]] having played 78 games.
+* #43 [[Matt Bartkowski]] (D) – 6 regular season games and none in the playoffs
+* #34 [[Colby Cohen]] (D) – did not play in the regular season or playoffs
+* #35 [[Anton Khudobin]] (G) – did not play in the regular season or playoffs
+* #42 [[Trent Whitfield]] (C) – did not play in the regular season or playoffs
+* Eight players on the roster did not have their names engraved on the Stanley Cup due to not qualifying.{{efn|name=qualify}} The NHL declined the team's request to have the names of Hnidy and Kampfer engraved. Neither had played enough games for the Boston Bruins during the season.<ref>Haggerty, J. (September 28, 2011). [http://www.necn.com/09/28/11/Kampfer-coming-to-grips-with-Cup-absence/landing_sports.html?blockID=569058&feedID=3352 Kampfer coming to grips with Cup absence]. NECN.com. Retrieved on: 2-11-10-04.</ref> Boston added the two scouts who had been with the team the longest in their place. Boston did not ask for an exemption for the other six players on the roster who did not have their names engraved. These eight players were included in the team picture and awarded rings.<ref>[https://www.nhl.com/scores/htmlreports/20102011/RO030417.HTM Playing Roster]</ref>
+* Matt Falconer (Asst. Equipment Manager).
+* Seven scouts were left off the Stanley Cup (due to 52 name limit), but all were awarded Stanley Cup Rings. 
+* In total, the Bruins gave out a record 504 Stanley Cup rings, including non-team personnel such as ticket agents, the office staff, National Anthem singer [[Rene Rancourt]], commentators [[Jack Edwards (sportscaster)|Jack Edwards]] and [[Andy Brickley]], popcorn vendors and TD Garden security officers.<ref>{{cite web|title=Recchi, Bruins receive Cup rings |url=http://www.weei.com/sports/boston/this-just-in/21145216/recchi-bruins-receive-cup-rings |archive-url=https://web.archive.org/web/20120424132131/http://www.weei.com/sports/boston/this-just-in/21145216/recchi-bruins-receive-cup-rings |archive-date=April 24, 2012 |url-status=live |access-date=2013-06-18 |df=mdy}}</ref>
+
+==See also==
+{{Portal|Ice hockey|Sports|Canada}}
+* [[2011 Stanley Cup playoffs]]
+
+==Notes==
+{{notelist}}
+
+==References==
+;Inline citations
+{{reflist|2}}
+
+;Bibliography
+* {{cite book|last=Cole|first=Stephen|title=The Best of Hockey Night in Canada|year=2004|publisher=McArthur & Company|location=Toronto|isbn=1-55278-408-8}}
+* {{cite book|last=Morrison|first=Scott|title=Hockey Night in Canada: My Greatest Day|year=2008|publisher=Key Porter Books|location=Toronto|isbn=978-1-55470-086-8|author-link=Scott Morrison (journalist)|url-access=registration|url=https://archive.org/details/mygreatestday50p0000morr}}
+* {{cite book |last=Weekes |first=Don |title=Jaw-Dropping Hockey Trivia |year=2012 |publisher=Greystone Books |location=Vancouver, British Columbia |isbn=9781926812984}}
+
+==External links==
+* [https://www.nhl.com/cup/round4/index.html?int Official site]{{Dead link|date=August 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{s-start}}
+{{succession box | before = [[2010 Stanley Cup Final|Chicago Blackhawks<br />2010]] | title = [[List of Stanley Cup champions|Boston Bruins<br />Stanley Cup champions]] | years = 2011 | after = [[2012 Stanley Cup Final|Los Angeles Kings<br />2012]]}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Navboxes|list1=
+{{Boston Bruins}}
+{{Vancouver Canucks}}
+{{2010–11 NHL season by team}}
+{{Hockey Night in Canada}}
+{{NHL on NBC}}
+{{NHL on NBC}}
+{{NHL on RDS}}
+}}
+
+[[Category:Stanley Cup Finals]]
+[[Category:2010–11 NHL season]]
+[[Category:Vancouver Canucks games]]
+[[Category:Boston Bruins games]]
+[[Category:2011 Stanley Cup| ]]
+[[Category:June 2011 sports events in the United States|Stanley Cup Final]]
+[[Category:June 2011 sports events in Canada|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:Ice hockey competitions in Vancouver]]
+[[Category:2011 in sports in British Columbia|Stanley Cup Final]]
+[[Category:2011 in Boston|Stanley Cup Final]]
+[[Category:2011 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:2011 in Vancouver|Stanley Cup]]

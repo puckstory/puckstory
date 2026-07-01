@@ -1,0 +1,153 @@
+{{Short description|1929 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{More footnotes needed|date=March 2021}}
+{{Infobox Stanley Cup Final
+|year=1929
+|dates=March 28–29, 1929
+|team1='''[[1928–29 Boston Bruins season|Boston Bruins]]'''
+|team1_short=Boston
+|team2=[[1928–29 New York Rangers season|New York Rangers]]
+|team2_short=New York
+|format=best-of-three
+|team1_1='''2'''
+|team1_2='''2'''
+|team1_tot=2
+|team2_1=0
+|team2_2=1
+|team2_tot=0
+|team1_coach=[[Art Ross]]
+|team2_coach=[[Lester Patrick]]
+|team1_captain=[[Lionel Hitchman]]
+|team2_captain=[[Bill Cook]]
+|location1=[[Boston]]: [[Boston Garden]] (1)
+|location2=[[New York City]]: [[Madison Square Garden (1925)|Madison Square Garden]] (2)
+|hofers='''Bruins:'''<br/>[[Dit Clapper]] (1947)<br/>[[Cy Denneny]] (1959)<br/>[[Mickey MacKay]] (1952)<br/>[[Harry Oliver (ice hockey)|Harry Oliver]] (1967)<br/>[[Eddie Shore]] (1947)<br/>[[Tiny Thompson]] (1959)<br/>[[Cooney Weiland]] (1971)<br/>'''Rangers:'''<br/>[[Frank Boucher]] (1958)<br/>[[Bill Cook]] (1952)<br/>[[Bun Cook]] (1995)<br/>[[Ching Johnson]] (1958)<br/>'''Coaches:'''<br/>[[Lester Patrick]] (1947, player)<br/>[[Art Ross]] (1949, player)
+}}
+The '''1929 Stanley Cup Final''' was played by the defending champion [[1928–29 New York Rangers season|New York Rangers]] and the [[1928–29 Boston Bruins season|Boston Bruins]]. This was the first time in [[Stanley Cup Final]] history that two [[United States of America|American]]-based teams met in the Finals. Boston won the series to win its first championship.
+
+==Paths to the Finals==
+The playoffs were now between division finishers of each division, rather than a division champion from each division. The Boston Bruins knocked off the Montreal Canadiens, the New York Rangers beat the New York Americans, and the Toronto Maple Leafs beat the Detroit Cougars. The Rangers beat Toronto and then the Bruins won their first Stanley Cup defeating the Rangers. In the process, Boston became one of the few Cup winners in history to not lose a single game in the playoffs, and the last team until 1952 to win every playoff game they had.
+
+This was the third meeting between teams from [[Boston]] and [[New York City]] for a [[Major professional sports leagues in the United States and Canada|major professional sports]] championship. This previously occurred in two World Series ([[1912 World Series|1912]], [[1916 World Series|1916]]).<ref>{{Cite web|url=https://content.time.com/time/specials/packages/0,28757,2105715,00.html|title=Top 10 NYC-vs.-Boston Showdowns|last=Sifferlin|first=Alexandra|website=[[Time (magazine)|TIME]]|date=January 31, 2012|accessdate=March 4, 2026}}</ref>
+
+==Game summaries==
+The Final was a best-of-three series.
+
+Goalie Cecil "Tiny" Thompson backstopped the Bruins to consecutive wins and posted the third Stanley Cup shutout for a rookie.<ref>{{cite web|url=https://www.nhl.com/gamecenter/bos-vs-nyr/1929/03/28/1928030211|title=Boston Bruins - New York Rangers - Mar 28, 1929|publisher=NHL Enterprises, L. P.|website=NHL.com|access-date=June 17, 2024}}</ref> Game two was played at Madison Square Garden.
+
+Thompson faced his brother [[Paul Thompson (ice hockey, born 1906)|Paul Thompson]], a forward with the Rangers, in the Finals. It marked the first time a set of brothers faced each other in a goaltender-forward combination in Stanley Cup Final history. Tiny said of the matchup: "When I played goal for Boston against Paul (in) the final of 1929, he was just a rookie. It was really no contest."<ref>{{cite news |last=McEvoy |first=Colin |title=The Ultimate Sibling Rivalry: 8 Sets of Brothers Who Faced Off in Sports Championships |work=[[Biography (TV program)|Biography]] |date=February 9, 2023 |url=https://www.biography.com/athletes/a42805051/brothers-who-have-faced-off-in-championships |accessdate=February 12, 2023}}</ref>
+
+{{NHLPlayoffs
+|team2=Boston Bruins
+|team1=New York Rangers
+|stadium1=[[Boston Madison Square Garden]]
+|stadium2=[[Madison Square Garden III]]
+
+|date1       =March 28
+|home1       =1
+|score1      =0–2
+|won1        =2
+|recap1      =www.nhl.com/gamecenter/nyr-vs-bos/1929/03/28/1928030211#game=1928030211,game_state=final
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =2:00 - [[Dit Clapper]] (1)<br>10:00 - [[Dutch Gainor]] (2)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|goalie1-1   =[[John Ross Roach]]
+|goalie1-2   =[[Tiny Thompson]]
+
+|date2       =March 29
+|home2       =2
+|score2      =2–1
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/bos-vs-nyr/1929/03/29/1928030212#game=1928030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =[[Harry Oliver (ice hockey)|Harry Oliver]] (1) - 14:01
+|2-3-1       =6:48 - [[Butch Keeling]] (3)
+|2-3-2       =[[Bill Carson (ice hockey)|Bill Carson]] (2) - 18:02
+|goalie2-1   =[[John Ross Roach]]
+|goalie2-2   =[[Tiny Thompson]]
+
+|series = Boston won series 2–0
+}}
+
+==Stanley Cup engraving==
+The 1929 Stanley Cup was presented to Bruins captain Lionel Hitchman by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Bruins 2–1 win over the Rangers in game two.
+
+The following Bruins players and staff had their names engraved on the Stanley Cup
+
+'''1928–29 Boston Bruins'''
+{{Stanley Cup champion
+|goaltenders=* 1 Cecil [[Tiny Thompson]]
+|defence=*2 [[Eddie Shore]]
+*3 [[Lionel Hitchman]] (Captain)
+*4 [[Myles Lane]]
+*17/11 [[George Owen (ice hockey)|George Owen]]
+|centres=*7 [[Red Green (ice hockey)|Redvers "Red" Green]]
+*8 Norman [[Dutch Gainor]]
+*10 [[Eddie Rodden]]
+*14 Ralph [[Cooney Weiland]]
+*15 [[Bill Carson (ice hockey)|Bill "Doc" Carson]]
+|wingers=*5 Duncan [[Mickey MacKay]]
+*6 [[Percy Galbraith]]
+*15/7 [[Lloyd Klein (ice hockey)|Lloyd Klein]]
+*9 [[Harry Oliver (ice hockey)|Harry Oliver]]
+*12 Aubrey [[Dit Clapper]]
+*16 [[Cy Denneny]] (playing-Asst Coach)
+
+|non-players=
+*[[Charles Adams (ice hockey)|Charlie Adams]](President/Owner),
+* [[Art Ross]] (Manager-Coach)
+*Win Green (Trainer)
+*Ralph Burkard (Treasurer)†, [[Frank Ryan (sportscaster)|Frank Ryan]]* (Publicity Director)
+{{asterisk}} Name is listed on the team picture, but not engraved on the Stanley Cup in 1929.
+
+|engraving-notes=
+*When the Boston Bruins won the Stanley Cup in 1928–29, they decided to use the rest of the ring that the 1926–27 Ottawa Senators had put on the cup. There was not enough room to include all the official winning members. They had to leave off Red Green, [[Eddie Rodden]], and Lloyd Klein.  When the cup was redone during the 1957–58 season, Green, Rodden, and Klein were added to the cup.
+* Also included in 1957-58.
+* #1 Hal Winkler (who spent the whole season in the minors), 
+* #4 [[Eric Pettinger]](LW-traded to Toronto for George Owen), 
+*11 [[Frank Fredrickson]](C-traded to Pittsburgh Pirates for Mickey Mackay)
+Under NHL rules, none of the players qualified since they were part of another team when cup was won.
+*By mistake, Charles Adams (President/Owner) and George Owen (player) were left off the cup 2nd version, even though there was more than enough room to include them. 
+*From 1958 to 1993, the 1928–29 Boston Bruins were on the Stanley Cup in 2 different places. Once beside 1926–27 Ottawa, and others on the first larger ring with winners from 1927–28 to 1939–40. 
+*Cy Denneny's name was engraved twice on the larger ring, once as Cy Denneny Coach, and another time as C Denneny with the other players.
+* Rumour has it that the original ring of the 1928-29 Boston was melted down to make a trophy for Hector "Toe" Blake when he retired after winning his 8th Stanley Cup was Coach with Montreal (11th cup overall)
+}}
+
+==See also==
+*[[1928–29 NHL season]]
+
+==References & notes==
+*{{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+*{{cite book |title=Lord Stanley's Cup |last=Podnieks |first=Andrew |author2=Hockey Hall of Fame |year=2004 |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+ before = [[1928 Stanley Cup Final|New York Rangers<br>1928]] |
+ after = [[1930 Stanley Cup Final|Montreal Canadiens<br>1930]] |
+ title = [[List of Stanley Cup champions|Boston Bruins<br>Stanley Cup champions]] |
+ years = 1929|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Boston Bruins}}
+{{New York Rangers}}
+{{1928–29 NHL season by team}}
+
+[[Category:1928–29 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:New York Rangers games]]
+[[Category:March 1929 sports events in the United States|Stanley Cup Finals]]
+[[Category:Ice hockey competitions in New York City]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1929 in sports in New York City|Stanley Cup Finals]]
+[[Category:1920s in Boston]]
+[[Category:1929 in sports in Massachusetts|Stanley Cup Finals]]
+[[Category:1920s in Manhattan]]

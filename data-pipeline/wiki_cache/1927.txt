@@ -1,0 +1,199 @@
+{{Short description|1927 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1927
+|team1='''[[1926–27 Ottawa Senators season|Ottawa Senators]]'''
+|team1_1=0*
+|team1_2='''3'''
+|team1_3=1**
+|team1_4='''3'''
+|team1_tot=2
+|team2=[[1926–27 Boston Bruins season|Boston Bruins]]
+|team2_1=0*
+|team2_2=1
+|team2_3=1**
+|team2_4=1
+|team2_tot=0
+|table-note=<nowiki>*</nowiki> indicates (10-minute) periods of overtime.<br />Teams played to two wins, ignoring ties.
+|coaches=Ottawa: [[Dave Gill]]<br />Boston: [[Art Ross]]
+|format=best-of-three
+|dates=April 4–13, 1927
+|location1=[[Boston]]: [[Boston Arena]] (1, 2)
+|location2=[[Ottawa]]: [[Ottawa Auditorium]] (3, 4)
+|series_winner=[[Cy Denneny]] (7:30, second)
+|hofers='''Senators:'''<br/>[[Jack Adams]] (1959)<br/>[[Georges Boucher]] (1960)<br/>[[King Clancy]] (1958)<br/>[[Alec Connell]] (1958)<br/>[[Cy Denneny]] (1959)<br/>[[Frank Nighbor]] (1947)<br/>[[Hooley Smith]] (1972)<br/>'''Bruins:'''<br/>[[Sprague Cleghorn]] (1958)<br/>[[Frank Fredrickson]] (1958)<br/>[[Harry Oliver (ice hockey)|Harry Oliver]] (1967)<br/>[[Eddie Shore]] (1947)<br/>'''Coaches:'''<br/>[[Art Ross]] (1949, player)
+|captains=Ottawa: [[George Boucher]]<br />Boston: [[Sprague Cleghorn]]
+}}
+The '''1927 Stanley Cup Final''' was played by the [[1926–27 Ottawa Senators season|Ottawa Senators]] and the [[1926–27 Boston Bruins season|Boston Bruins]]. It was the first time the Cup was solely contested by [[National Hockey League]] teams, owing to the demise of the [[Western Canada Hockey League|Western Hockey League]] the [[1926 Stanley Cup Final|previous year]]. It was won by the Ottawa Senators, coached by [[Dave Gill]], over the Boston Bruins, coached by [[Art Ross]]. This was the Senators' fourth win since 1920, and eleventh overall, but it marked the end of the dynasty. The original Senators would not win another.<ref>{{Cite web|title=Schedule {{!}} Apr 7, 1927 ET|url=https://www.nhl.com/schedule|access-date=2021-08-06|website=NHL.com|language=en-US}}</ref>
+
+It would be the last time a team from Ottawa would play in the Final until the [[2007 Stanley Cup Final]], and the first Stanley Cup Final to have games played in both Canada and the United States.
+
+==Game summaries==
+The Stanley Cup Final was originally intended to be a best-of-three series. After the first game was declared a draw, NHL president [[Frank Calder]] ruled that the series would go no more than five games, with overtimes limited to 20 minutes. If the teams were tied after five games, the teams would share the championship.<ref name="postgame1"/><ref>{{cite news|title=Only Five Games In Any Event If Teams Are Tied|agency=[[Associated Press]]|date=April 8, 1927|newspaper=[[Ottawa Citizen]]|location=Ottawa, Ontario|page=1|url=https://www.newspapers.com/article/the-ottawa-citizen-gill-1927/141184158/}}; {{cite news|title=Only Five Games In Any Event If Teams Are Tied (Continued From Page One)|agency=[[Associated Press]]|date=April 8, 1927|newspaper=[[Ottawa Citizen]]|location=Ottawa, Ontario|page=4|url=https://www.newspapers.com/article/the-ottawa-citizen-gill-1927/141184229/}}</ref> In the end, the series went four games because of two ties. These were the last ties in Stanley Cup history, notwithstanding the unfinished 3–3 Stanley Cup Final match between Edmonton and Boston on May 24, 1988. Ottawa's [[Frank Nighbor]] was playing in his sixth Stanley Cup series, while Boston's [[Sprague Cleghorn]] and [[Billy Coutu]] were playing in their fifth Stanley Cup series.<ref>{{cite news |work=Ottawa Citizen |date=April 9, 1927 |title=Frank Nighbor is Veteran Of All Stanley Cup Players |page=12}}</ref>
+
+Rough play marred the series: in the final game, [[Lionel Hitchman]] and [[George Boucher]] were ejected for a wild fight which Ottawa police had to break up. [[Hooley Smith]] butt-ended Boston's [[Harry Oliver (ice hockey)|Harry Oliver]], and [[Eddie Shore]] fought with Smith in retaliation; both Smith and Shore were ejected. After the game, [[Billy Coutu]] assaulted referee Jerry Laflamme, tackled referee [[Billy Bell (ice hockey)|Billy Bell]] and started a bench-clearing brawl.<ref name="gaz-wild"/> Coutu was barred from the league for life, Smith was given a one-month suspension effective in the 1927–28 season, while Boucher, Hitchman and [[Jimmy Herbert]] were all fined.<ref>{{cite news |work=Montreal Gazette |date=April 15, 1927 |title=Coutu is Expelled by NHL Head For Striking Referee |page=14}}</ref>
+
+The April 13, 1927, game at the [[Ottawa Auditorium]] was the last Stanley Cup Final game in Ottawa until Game 3 of the 2007 Stanley Cup Final, which was played at [[Scotiabank Place]] between the [[Ottawa Senators|current Senators]] and the [[Anaheim Ducks]] on June 2, 2007. It is known that one fan, Russell Williams, attended both games, 80 years apart, with Ottawa winning both.<ref name="russell">{{cite web |url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070602/senators_070602?s_name=&no_ads= |archive-url=https://web.archive.org/web/20210921082433/https://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070602/senators_070602?s_name=&no_ads= |url-status=dead |archive-date=September 21, 2021 |title=Ottawa man nostalgically recalls Sens' last cup win |last=Cheadle |first=Bruce |publisher=ctv.ca |date=June 2, 2007|access-date=December 27, 2007}}</ref>
+
+===Game one===
+{{NHLPlayoffs
+|team1=Ottawa Senators
+|team2=Boston Bruins
+|stadium1=[[Boston Arena]]
+|date1=April 7
+|score1=0–0
+|ot1=1
+|recap1=www.nhl.com/gamecenter/sen-vs-bos/1927/04/07/1926030311
+|won1=
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =''No scoring''
+|1-4-2       =''No scoring''
+|1-5-1       =''No scoring''
+|1-5-2       =''No scoring''
+|goalie1-1   =[[Alec Connell]]
+|goalie1-2   =[[Hal Winkler]]
+}}
+
+The first game ended in a scoreless draw after two ten-minute overtime periods. In the overtime, the condition of the ice became unplayable and NHL President [[Frank Calder]] called the game. There were two disallowed goals, one by each team, and both disallowed by off-sides.<ref>{{cite news |work=Ottawa Citizen |title=Burly Bruins Baffled By Solid Ottawa Defence |date=April 8, 1927 |page=10}}</ref>
+
+Before the next game, Calder decided that the series would play to five games if necessary. If after the five games, the teams were tied, that the teams would share the Stanley Cup honours. Calder also ruled that overtimes would be limited to 20 minutes.<ref name="postgame1">{{cite news |work=Ottawa Citizen |title=Senators and Bruins Ready for Second Game Tonight, Pres. Calder Issues Ruling}}</ref>
+
+===Game two===
+{{NHLPlayoffs
+|team1=Ottawa Senators
+|team2=Boston Bruins
+|stadium1=[[Boston Arena]]
+|date1=April 9
+|score1=3–1
+|recap1=www.nhl.com/gamecenter/sen-vs-bos/1927/04/09/1926030312
+|won1=1
+|1-1-1       =''No scoring''
+|1-1-2       =[[King Clancy]] (1) - 6:37<br/>[[Frank Finnigan]] (2) - 11:23
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =16:45 - [[Harry Oliver (ice hockey)|Harry Oliver]] (3)
+|1-3-2       =[[Cy Denneny]] (2) - 19:55
+|goalie1-1   =[[Alec Connell]]
+|goalie1-2   =[[Hal Winkler]]
+}}
+In the second game, the Senators changed their tactics, going on the offensive. [[King Clancy]] and [[Cy Denneny]] scored in the first period for Ottawa. The Senators played a defensive game in the second period. In the third period, [[Harry Oliver (ice hockey)|Harry Oliver]] scored for the Bruins on a goal-mouth scramble to bring the Bruins within one. In the final minute, with the Bruins pressing, Denneny scored again to put the game beyond doubt.<ref>{{cite news |work=Ottawa Citizen |title=Scoring Twice in First P'd, Senators Beat Bostonians in Thrilling Contest by 3–1 |page=10 |date=April 11, 1927}}</ref>
+
+===Game three===
+{{NHLPlayoffs
+|team2=Ottawa Senators
+|team1=Boston Bruins
+|stadium1=[[Ottawa Auditorium]]
+|date1=April 11
+|score1=1–1
+|ot1=2
+|recap1=www.nhl.com/gamecenter/bos-vs-sen/1927/04/11/1926030313
+|won1=
+|1-1-1       =[[Jimmy Herberts]] (3) - 7:00
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =15:00 - [[Cy Denneny]] (3)
+|1-3-1       =''No scoring''
+|1-3-2       =''No scoring''
+|1-4-1       =''No scoring''
+|1-4-2       =''No scoring''
+|goalie1-1   =[[Hal Winkler]]
+|goalie1-2   =[[Alec Connell]]
+}}
+The series switched to Ottawa. The Bruins took the early lead. [[Jimmy Herbert|Jimmy "Sailor" Herbert]] broke in on a pass from Harry Oliver and beat Alex Connell in the Ottawa net at 7:14 of the first period. In the second, the Senators picked up the pace and Denneny scored at 15:15 on a pass from Clancy to tie the score. Neither team could break the tie in the third period or the two overtimes. The result meant that Ottawa could win the series with a win in game four, making game five unnecessary.<ref>{{cite news |work=Montreal Gazette |title=Boston Battled Ottawa Squad To 1–1 Overtime Draw |date=April 12, 1927 |page=16}}</ref>
+
+===Game four===
+{{NHLPlayoffs
+|team2=Ottawa Senators
+|team1=Boston Bruins
+|stadium1=[[Ottawa Auditorium]]
+|date1=April 13
+|score1=1–3
+|recap1=www.nhl.com/gamecenter/bos-vs-sen/1927/04/13/1926030314
+|won1=2
+|1-1-1       =''No scoring''
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =5:00 - [[Frank Finnigan]] (3)<br/>7:30 - [[Cy Denneny]] (4)
+|1-3-1       =[[Harry Oliver (ice hockey)|Harry Oliver]] (4) - 17:50
+|1-3-2       =11:00 - Cy Denneny (5)
+|goalie1-1   =[[Hal Winkler]]
+|goalie1-2   =[[Alec Connell]]
+}}
+The Senators decided to start two players who had been substitutes in the previous games, [[Frank Finnigan]] and [[Hec Kilrea]] and the moves were a success. The Senators came out on the offensive and took a 2–0 lead in the first period on goals by Finnigan and Denneny. Denneny scored again in the third period to put the Senators ahead 3–0. The game degenerated after that.  [[Lionel Hitchman]] and [[George Boucher]] fought, with [[Eddie Shore]] jumping in. Ottawa police jumped onto the ice to help the referees and Hitchman and Boucher were ejected. Oliver scored with six minutes to play. Ottawa's [[Hooley Smith]] butt-ended Oliver in the face with a minute to play. Shore jumped in to fight Smith and the two were ejected. After the game Coutu attacked referee Laflamme on his way to the dressing room.<ref name="gaz-wild">{{cite news |work=Montreal Gazette |title=Wild Scenes When Ottawa Trounced Boston Bruins, 3–1  |date=April 14, 1927 |page=16}}</ref>
+
+==Stanley Cup engraving==
+The 1927 Stanley Cup was presented to Senators captain George Boucher by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Senators 3–1 win over the Bruins in game four.
+
+The following Senators players and staff had their names engraved on the Stanley Cup
+
+[[File:Ottawa Hockey Club Champions 1927.jpg|thumb|250px|right|Team photograph. Trophies won: Stanley Cup, O'Brien Cup, Prince of Wales Trophy.]]
+With the win Hooley Smith became the fourth player to have won Olympic gold and the Stanley Cup. Smith had won the gold medal at the [[Ice hockey at the 1924 Winter Olympics|1924 Olympics]] with the [[Toronto Granites]].{{sfn|Zweig|2012|p=255}}
+
+'''1926–27 Ottawa Senators'''
+{{Stanley Cup champion|
+goaltenders=*1 [[Alex Connell]]
+|defence=
+*3 George [[Buck Boucher]] (Captain)
+*4 [[Alex Smith (ice hockey)|Alex Smith]]
+*9 Frank [[King Clancy]]
+*2 [[Edwin Gorman]]
+*14 [[Milt Halliday]]
+|wingers=
+*5 [[Cy Denneny]]
+*7 Reginald [[Hooley Smith]]
+*8 [[Frank Finnigan]]
+*10 [[Hec Kilrea]]
+|centres=
+*6 [[Frank Nighbor]]
+*11 [[Jack Adams]]
+|non-players=
+* [[Frank Ahearn]] (President/Owner)
+* Major T. W. McDonald (Vice President)
+* [[Dave Gill]] (Manager-Coach/Secretary-Treasurer)
+* Ed Gleeson (Trainer), Don Hughes (Asst. Trainer)
+Dave Gill was the third NHL rookie coach to win the Stanley Cup.
+Major T. W. McDonald's first name is unknown.
+}}
+
+==See also==
+*[[1926–27 NHL season]]
+
+==References==
+*{{cite book|title=Total Stanley Cup|publisher=Dan Diamond & Associates|last=NHL|year=2000}}
+*{{cite book |title=Lord Stanley's Cup |last=Podnieks |first=Andrew |author2=Hockey Hall of Fame |year=2004 |publisher=Triumph Books |isbn=978-1-55168-261-7}}
+* {{cite book |last1=Zweig |first1=Eric |year=2012 |title=Stanley Cup: 120 years of hockey supremacy |publisher=Firefly Books |isbn=978-1-77085-104-7 }}
+;Notes
+{{reflist}}
+
+{{s-start}}
+{{succession box |
+ before = [[1926 Stanley Cup Final|Montreal Maroons<br>1926]] |
+ after = [[1928 Stanley Cup Final|New York Rangers<br>1928]] |
+ title = [[List of Stanley Cup champions|Ottawa Senators<br>Stanley Cup champions]] |
+ years = 1927|
+}}
+{{s-end}}
+
+{{Stanley Cup Final}}
+{{Boston Bruins}}
+{{Ottawa Senators (original)}}
+{{1926–27 NHL season by team}}
+
+[[Category:1926–27 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Boston Bruins games]]
+[[Category:Ottawa Senators (original) games]]
+[[Category:1927 Stanley Cup| ]]
+[[Category:April 1927 sports events in the United States|Stanley Cup Final]]
+[[Category:Ice hockey competitions in Ottawa]]
+[[Category:Ice hockey competitions in Boston]]
+[[Category:1927 in sports in Massachusetts|Stanley Cup Final]]
+[[Category:1927 in Ontario|Stanley Cup Final]]
+[[Category:1920s in Boston]]
+[[Category:1920s in Ottawa]]
+[[Category:April 1927 sports events in Canada]]

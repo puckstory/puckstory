@@ -1,0 +1,199 @@
+{{Short description|1931 ice hockey championship series}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox Stanley Cup Final
+|year=1931
+|dates=April 3–14, 1931
+|team1=[[1930–31 Chicago Black Hawks season|Chicago Black Hawks]]
+|team1_short=Chicago
+|team1_coach=[[Dick Irvin]]
+|team1_captain=[[Ty Arbour]]
+|team2='''[[1930–31 Montreal Canadiens season|Montreal Canadiens]]'''
+|team2_short=Montreal
+|team2_captain=[[Sylvio Mantha]]
+|team2_coach=[[Cecil Hart]]
+|format=best-of-five
+|team1_1=1
+|team2_1='''2'''
+|team1_2='''2'''**
+|team2_2=1**
+|team1_3='''3'''***
+|team2_3=2***
+|team1_4=2
+|team2_4='''4'''
+|team1_5=0
+|team2_5='''2'''
+|team1_tot=2
+|team2_tot=3
+|table-note=<nowiki>*</nowiki> – Denotes overtime period(s)
+|location1=[[Chicago]]: [[Chicago Stadium]] (1, 2)
+|location2=[[Montreal]]: [[Montreal Forum]] (3–5)
+|series_winner=[[Johnny Gagnon]] (9:59, second)
+|hofers='''Canadiens:'''<br/>[[George Hainsworth]] (1961)<br/>[[Aurèle Joliat|Aurele Joliat]] (1947)<br/>[[Sylvio Mantha]] (1960)<br/>[[Howie Morenz]] (1945)<br/>'''Black Hawks:'''<br/>[[Charlie Gardiner (ice hockey)|Charlie Gardiner]] (1945)<br/>'''Coaches:'''<br/>[[Dick Irvin]] (1958, player)
+}}
+The '''1931 Stanley Cup Final''' was played between the [[1930–31 Montreal Canadiens season|Montreal Canadiens]] and the [[1930–31 Chicago Black Hawks season|Chicago Black Hawks]], making their first [[Stanley Cup]] Finals appearance. The [[1930 Stanley Cup Finals|defending champions]] Canadiens, won the series to become the second NHL team to win back-to-back championships. Former player and now coach, Chicago's [[Dick Irvin]], made his Finals coaching debut against the team he would later coach to three Stanley Cup titles.
+
+==Game summaries==
+Over 18,000 fans packed Chicago Stadium for game two to set a record for the largest attendance in hockey history to that time.{{citation needed|date=March 2021}} The triple-overtime game three of the series was (at the time) the longest game in Stanley Cup Finals history, and today remains the fourth-longest game in Stanley Cup Finals history at 113:50.{{citation needed|date=March 2021}}
+
+===Game five===
+For game five, [[Foster Hewitt]] came to Montreal to make the radio broadcast play-by-play and transmission lines carried his broadcast to radio stations across Canada Interest was so high that Montrealers in the thousands lined up for end zone and standing room tickets.{{citation needed|date=March 2021}} [[Johnny Gagnon]] opened the scoring in the second period and [[Howie Morenz]] scored an insurance goal in the third period. It ended a nine-game goalless streak for Morenz.<ref>Jenish (2008), p. 76.</ref>
+
+{{NHLPlayoffs
+|team2=Chicago Black Hawks
+|team1=Montreal Canadiens
+|stadium1=[[Chicago Stadium]]
+|stadium2=[[Montreal Forum]]
+
+|date1       =April 3
+|home1       =1
+|score1      =2–1
+|won1        =1
+|recap1      =bigmouthsports.com/wp-content/uploads/2014/10/1931-Stanley-Cup-Playoff-boxscores-MTL.pdf
+|1-1-1       =[[Georges Mantha]] (3) - 4:50
+|1-1-2       =''No scoring''
+|1-2-1       =''No scoring''
+|1-2-2       =''No scoring''
+|1-3-1       =[[Pit Lepine]] (2) - 2:20
+|1-3-2       =8:20 - [[Vic Ripley]] (2)
+|goalie1-1   =[[George Hainsworth]]
+|goalie1-2   =[[Charlie Gardiner (ice hockey)|Charlie Gardiner]]
+
+|date2       =April 5
+|home2       =1
+|score2      =1–2
+|ot2         =2
+|won2        =2
+|recap2      =www.nhl.com/gamecenter/mtl-vs-chi/1931/04/05/1930030212#game=1930030212,game_state=final
+|2-1-1       =''No scoring''
+|2-1-2       =''No scoring''
+|2-2-1       =''No scoring''
+|2-2-2       =11:45 - [[Stew Adams]] (2)
+|2-3-1       =[[Nick Wasnie]] (3) - 12:10
+|2-3-2       =''No scoring''
+|2-4-1       =''No scoring''
+|2-4-2       =4:50 - [[Johnny Gottselig]] (2)
+|goalie2-1   =[[George Hainsworth]]
+|goalie2-2   =[[Charlie Gardiner (ice hockey)|Charlie Gardiner]]
+
+|date3       =April 9
+|home3       =2
+|score3      =3–2
+|ot3         =3
+|won3        =2
+|recap3      =www.nhl.com/gamecenter/chi-vs-mtl/1931/04/09/1930030213#game=1930030213,game_state=final
+|3-1-1       =5:15 - [[Johnny Gagnon]] (3)
+|3-1-2       =''No scoring''
+|3-2-1       =7:29 - [[Georges Mantha]] (5)
+|3-2-2       =''No scoring''
+|3-3-1       =''No scoring''
+|3-3-2       =[[Mush March]] (3) - 16:20<br>[[Stew Adams]] (3) - 17:07
+|3-4-1       =''No scoring''
+|3-4-2       =[[Cy Wentworth]] (1) - 13:50
+|goalie3-1   =[[George Hainsworth]]
+|goalie3-2   =[[Charlie Gardiner (ice hockey)|Charlie Gardiner]]
+
+|date4       =April 11
+|home4       =2
+|score4      =2–4
+|won4        =1
+|recap4      =www.nhl.com/gamecenter/chi-vs-mtl/1931/04/11/1930030214#game=1930030214,game_state=final
+|4-1-1       =''No scoring''
+|4-1-2       =[[Johnny Gottselig]] (3) - 1:33<br>[[Ty Arbour]] (1) - 13:58
+|4-2-1       =4:34 - [[Johnny Gagnon]] (4)
+|4-2-2       =''No scoring''
+|4-3-1       =4:25 - Johnny Gagnon (5)<br>10:55 - [[Pit Lepine]] (3)<br>17:25 - Pit Lepine (4)
+|4-3-2       =''No scoring''
+|goalie4-1   =[[George Hainsworth]]
+|goalie4-2   =[[Charlie Gardiner (ice hockey)|Charlie Gardiner]]
+
+|date5       =April 14
+|home5       =2
+|score5      =0–2
+|won5        =1
+|recap5      =www.nhl.com/gamecenter/chi-vs-mtl/1931/04/14/1930030215#game=1930030215,game_state=final
+|5-1-1       =''No scoring''
+|5-1-2       =''No scoring''
+|5-2-1       =9:59 - [[Johnny Gagnon]] (6)
+|5-2-2       =''No scoring''
+|5-3-1       =15:27 - [[Howie Morenz]] (1)
+|5-3-2       =''No scoring''
+|goalie5-1   =[[George Hainsworth]]
+|goalie5-2   =[[Charlie Gardiner (ice hockey)|Charlie Gardiner]]
+
+|series = Montreal won series 3–2
+}}
+
+==Stanley Cup engraving==
+The 1931 Stanley Cup was presented to Canadiens captain Sylvio Mantha by [[NHL Commissioner|NHL President]] [[Frank Calder]] following the Canadiens 2–0 win over the Black Hawks in game five.
+
+The following Canadiens players and staff had their names engraved on the Stanley Cup
+
+'''1930–31 Montreal Canadiens'''
+{{Stanley Cup champion
+|goaltenders=*1 [[George Hainsworth]]
+|defence=*2 [[Sylvio Mantha]] (captain)
+*3 [[Marty Burke]]
+*5 [[Jean Pusie]]^
+*8 [[Albert Leduc]]
+*11 [[Art Lesieur]]
+*12 [[Georges Mantha]]
+|centres=*7 [[Howie Morenz]]
+* 9 Alfred [[Pit Lepine]]
+|wingers=*4 [[Aurel Joliat]]
+*5 [[Armand Mondou]]
+*6 [[Nick Wasnie]]
+*10 [[Wildor Larochelle]]
+*14 [[Johnny Gagnon]]
+*16 [[Gus Rivers]]
+|non-players=
+*Louis [[Athanase David]] (President), Edouard St. Pere (Vice President)
+*[[Joseph Cattarinich]] (Vice President/Owner), Amerdee Monte (Director)
+*[[Leo Dandurand|Joseph Viateur "Leo" Dandurand]] (Secretary/Owner), Alphonse Raymond (Director) 
+*[[Cecil Hart]] (Manager-Coach), Georges Richer (Treasurer)
+*Fernand Rinfeet (Director), Henry Gray (Director)
+*Jules Dugal (Business Manager), Dr. James Albert Corrigan (Team Physician)
+*Edward Dulfour (Trainer), Jim McKenna (Asst. Trainer)
+|engraving-notes=
+* #11 [[Bert McCaffrey]] (RW) played in 22 regular-season games, but none in the playoffs. #5 [[Jean Pusie]]^ (D) played in 6 regular-season games and 3 games in the Finals. Despite McCaffrey playing in at least half of the regular season games and Pusie playing in at least 1 Finals game, their names were left off the Stanley Cup engraving.
+* Officially, owner Leo Dandurand was the Manager of the [[Montreal Canadiens]] from 1921–22 to 1934–35. However, Cecil Hart was engraved on the [[Stanley Cup]] in 1930 and 1931, and he is listed on every team picture for those seasons as Manager. Leo Dandurand would later get his name on the Grey Cup as the President (owner) of Montreal Allouettes in [[37th Grey Cup|1949]]. This made Leo Dandurand the 4th person to win both the Stanley Cup and Grey Cup. (See [[Joe Miller (ice hockey)|Joe Miller]], [[Lionel Conacher]], [[Carl Voss]], [[Harold Ballard]], [[Norman Kwong]] & [[Wayne Gretzky]], other persons who won both the Grey Cup and Stanley Cup.)
+* [[Louis Letourneau|Hilarion A. "Louis" Letourneau]] (Owner/Director) gave up his position on the Board of Directors of the Montreal Canadiens after the 1930 Stanley Cup. He would sell his shares in 1932. So the name was not included on the 1931 Stanley Cup engraving. 
+}}
+
+==See also==
+*[[1930–31 NHL season]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last=Diamond | first=Dan | title=Total Stanley Cup | year=2000 | publisher=Total Sports Canada | location=Toronto | isbn=978-1-892129-07-9 | url-access=registration | url=https://archive.org/details/totalstanleycupo0000unse }}
+* {{cite book|last=Jenish |first=D'arcy |year=2008 |title=The Montreal Canadiens: 100 years of glory |isbn=978-0-385-66324-3|publisher=Doubleday Canada}}
+* Podnieks, Andrew; Hockey Hall of Fame (2004). ''Lord Stanley's Cup''. Bolton, Ont.: Fenn Pub. pp 12, 50. {{ISBN|978-1-55168-261-7}}
+
+{{s-start}}
+{{succession box |
+ before = [[1930 Stanley Cup Finals|Montreal Canadiens<br>1930]] |
+ after = [[1932 Stanley Cup Finals|Toronto Maple Leafs<br>1932]] |
+ title = [[List of Stanley Cup champions|Montreal Canadiens<br>Stanley Cup champions]] |
+ years = 1931|
+}}
+{{s-end}}
+
+{{Stanley Cup Finals}}
+{{1930–31 NHL season by team}}
+{{Chicago Blackhawks}}
+{{Montreal Canadiens}}
+
+[[Category:1930–31 NHL season|Stanley Cup]]
+[[Category:Stanley Cup Finals]]
+[[Category:Chicago Blackhawks games]]
+[[Category:Montreal Canadiens games]]
+[[Category:April 1931 sports events in the United States]]
+[[Category:Ice hockey competitions in Chicago]]
+[[Category:Ice hockey competitions in Montreal]]
+[[Category:1931 in sports in Illinois|Stan]]
+[[Category:1931 in Quebec]]
+[[Category:1931 in Chicago]]
+[[Category:1930s in Montreal]]
+[[Category:Events at Chicago Stadium]]
+[[Category:April 1931 sports events in Canada]]
