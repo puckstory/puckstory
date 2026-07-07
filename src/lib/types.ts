@@ -49,8 +49,8 @@ export interface GNode extends SimulationNodeDatum {
   vis: boolean
   rangeCupCount: number
   community: number
-  dynastyColor?: string // precomputed dynasty colour (blend of cluster colours for split players)
-  _tx?: number // layout target (its timeline grid cell, or the middle of its cups' cells); 0 in network mode
+  dynastyColor?: string // precomputed dynasty colour = the franchise colour a node won with (Cup-weighted blend of team colours for multi-team players)
+  _tx?: number // layout target (its timeline grid cell, or the middle of its cups' cells); 0 in network + hybrid (non-zero only in timeline)
   _ty?: number
   // cup
   year?: number
@@ -71,10 +71,11 @@ export interface GNode extends SimulationNodeDatum {
 export interface GLink extends SimulationLinkDatum<GNode> {
   source: GNode | string
   target: GNode | string
+  _teamCol?: string // the target Cup's franchise colour, precomputed once (dynasty edge colouring)
 }
 
 export type ColorMode = 'position' | 'dynasty'
-export type LayoutMode = 'network' | 'timeline'
+export type LayoutMode = 'network' | 'hybrid' | 'timeline'
 
 /** A closed year interval [start, end]. The era selection is a union of these. */
 export interface Era { start: number; end: number }

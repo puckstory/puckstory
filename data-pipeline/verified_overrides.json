@@ -1,5 +1,5 @@
 {
- "note": "Verified metadata that overrides/extends what the ETL parses from Wikipedia: runner-up names (as adjudicated) and Conn Smythe winners 1968+. resolve_build.py reads this file so a from-scratch rebuild does not depend on its own prior output. Also: engraving corrections verified against independent sources (band photos, player biographies, the engraving chronology) - excludeEngravings drops roster entries that were never actually engraved, renamePlayers fixes names no source supports.",
+ "note": "Verified metadata that overrides/extends what the ETL parses from Wikipedia: runner-up names (as adjudicated) and Conn Smythe winners 1965+ (the award's first year). resolve_build.py reads this file so a from-scratch rebuild does not depend on its own prior output. Also: engraving corrections verified against independent sources (band photos, player biographies, the engraving chronology) - excludeEngravings drops roster entries that were never actually engraved, renamePlayers fixes names no source supports.",
  "runnerUp": {
   "1915": "Ottawa Senators",
   "1916": "Portland Rosebuds",

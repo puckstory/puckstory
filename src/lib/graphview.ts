@@ -15,7 +15,7 @@ import { select } from 'd3-selection'
 import { zoom as d3zoom, zoomIdentity, type ZoomBehavior, type D3ZoomEvent } from 'd3-zoom'
 import type { GNode, GLink, ViewState, Era } from './types'
 import type { Model } from './model'
-import { inEras, eraBounds, mergeEras, communityRgb } from './model'
+import { inEras, eraBounds, mergeEras, teamRgb } from './model'
 import { draw, CUP_EXT } from './render'
 import { isCoarsePointer } from './env'
 
@@ -87,6 +87,22 @@ export class GraphView {
   private cut = false                 // cut mode: HIDE everything outside the selection's network (see setCut)
   private focusT = 0                    // eased focus amount (0 = nothing dimmed, 1 = full dim); animates the hover fade
   private lastFocus: Set<string> | null = null // retained focus set so the dim can ease back out after hover ends
+  // The highlight + focus sets change when the hover, selection, or chain changes, or when a filter pass
+  // flips a selected anchor's visibility (highlightSet drops hidden anchors) - not during a settle or a
+  // fade. Key them on a cheap signature of exactly those - filterGen covers the visibility case since
+  // applyFilters bumps it - so the frames in between reuse the cached sets instead of re-walking the
+  // adjacency and re-allocating. Any real input change re-keys, so the cache is never stale.
+  private focusSig = '\0'
+  private hsCache: Set<string> | null = null
+  private fiCache = new Set<string>()
+  private ensureFocusSets() {
+    let sig = (this.hover ? this.hover.id : '') + '|' + (this.chainSel ? 1 : 0) + '|' + this.filterGen + '|'
+    for (const id of this.selSet) sig += id + ','
+    if (sig === this.focusSig) return
+    this.focusSig = sig
+    this.hsCache = this.highlightSet()
+    this.fiCache = this.focusIds()
+  }
   private raf = 0                       // pending scheduled frame - every repaint coalesces through it
   private downX = 0; private downY = 0
   private zDownX = 0; private zDownY = 0 // pointer at the start of a d3-zoom gesture
@@ -136,16 +152,7 @@ export class GraphView {
     this.st = { ...state }
     this.cb = cb
 
-    // seed positions so the first frame isn't a blob
-    model.cups.forEach((n, i) => {
-      const a = (i / model.cups.length) * Math.PI * 2 - Math.PI / 2
-      n.x = Math.cos(a) * 360; n.y = Math.sin(a) * 360
-    })
-    model.nodes.filter((n) => n.type === 'player').forEach((n) => {
-      const first = model.nodeById.get('cup-' + n.cups![0].year)
-      const a = Math.random() * Math.PI * 2, rr = 70 + Math.random() * 170
-      n.x = (first?.x ?? 0) + Math.cos(a) * rr; n.y = (first?.y ?? 0) + Math.sin(a) * rr
-    })
+    this.seedRing() // seed positions so the first frame isn't a blob
 
     // The layout is a tiny physics simulation (d3-force) with four forces that run every "tick":
     //   charge  - every node gently pushes the others away, so the graph spreads out instead of piling up.
@@ -211,7 +218,8 @@ export class GraphView {
         if (!s || s.type === 'wheel') return
         const p = s.changedTouches?.[0] ?? s.touches?.[0] ?? s
         const cx = p.clientX ?? this.zDownX, cy = p.clientY ?? this.zDownY
-        if (Math.abs(cx - this.zDownX) + Math.abs(cy - this.zDownY) <= 4 && this.selSet.size) {
+        const stationary = Math.abs(cx - this.zDownX) + Math.abs(cy - this.zDownY) <= 4
+        if (stationary && this.selSet.size) {
           // In cut mode, a background tap is far more likely a misclick than an intent to tear
           // down a deliberately carved view (most of the canvas IS background there, and losing
           // the selection would end the cut with it). Exiting stays explicit: the lit scissors
@@ -219,6 +227,9 @@ export class GraphView {
           // out stays discoverable.
           if (this.cut) { this.cb.onHover?.(null, cx, cy); this.cb.onCutNudge?.(); return }
           this.chainSel = false; this.selSet.clear(); this.selectionChanged(); this.cb.onHover?.(null, cx, cy); this.computeStats(); this.schedule()
+        } else if (stationary && this.hover) {
+          // only inspecting (a tap-to-inspect during playback/cut, no selection): drop the highlight + card
+          this.hover = null; this.schedule(); this.cb.onHover?.(null, cx, cy)
         }
       })
     // wheel-zoom + drag-pan only; kill d3-zoom's default double-click-to-zoom, which otherwise
@@ -271,6 +282,20 @@ export class GraphView {
    *  re-columns to the new aspect.) Chrome show/hide deliberately does NOT use this - see
    *  anchorNextResize: the graph must not move when only the bar changes height. */
   reflow() { this.resize(); this.applyFilters(true, true) }
+  /** Seed a fresh Network-style ring: cups on an index ring, players scattered around their first Cup.
+   *  Used at construction and re-run whenever the layout switches (back) to Network, so the toggle
+   *  produces a genuinely fresh layout rather than relaxing the previous mode's blob. */
+  private seedRing() {
+    this.m.cups.forEach((n, i) => {
+      const a = (i / this.m.cups.length) * Math.PI * 2 - Math.PI / 2
+      n.x = Math.cos(a) * 360; n.y = Math.sin(a) * 360
+    })
+    this.m.nodes.filter((n) => n.type === 'player').forEach((n) => {
+      const first = this.m.nodeById.get('cup-' + n.cups![0].year)
+      const a = Math.random() * Math.PI * 2, rr = 70 + Math.random() * 170
+      n.x = (first?.x ?? 0) + Math.cos(a) * rr; n.y = (first?.y ?? 0) + Math.sin(a) * rr
+    })
+  }
 
   /** Arm the NEXT stage resize (within ~400ms) to keep the graph pinned to the SCREEN: the canvas
    *  box is re-measured, but the camera shifts by exactly how far the canvas moved, so nothing
@@ -289,11 +314,10 @@ export class GraphView {
     const light = lum > 150
     this.lightBg = light // player fills switch to the darkened position palette (render.ts)
     this.edgeRgb = light ? '92,104,128' : '150,170,205'
-    // Edge opacity by background: 0.18 on the dark themes (picked from side-by-side renders -
-    // the old 0.14 hairlines were near-invisible; paired with the 0.8px stroke in render.ts),
-    // lifted further where contrast is worst: dark edges on a light bg and light edges on a
-    // near-black (AMOLED) bg.
-    this.edgeAlpha = light ? 0.30 : (lum < 14 ? 0.25 : 0.18)
+    // Edge opacity by background: intensity chosen so the 0.8px lines read strongly without being
+    // thicker. 0.30 on the dark themes, lifted further where contrast is worst: dark edges on a light
+    // bg and light edges on a near-black (AMOLED) bg.
+    this.edgeAlpha = light ? 0.46 : (lum < 14 ? 0.40 : 0.30)
     this.nameFill = light ? '#33373f' : '#e8edf6'
     this.nameHalo = light ? `rgba(${bgRgb(c)},0.92)` : 'rgba(6,9,16,0.92)'
     // gold highlight edges vanish on light backgrounds, so use a dark slate there instead
@@ -322,6 +346,8 @@ export class GraphView {
     this.cb.onSelection?.([...this.selSet], this.cut, this.chainSel)
   }
   clearSelection() { this.chainSel = false; this.selSet.clear(); this.hover = null; this.selectionChanged(); this.computeStats(); this.schedule() }
+  /** Drop a transient inspect highlight when its card is dismissed (the tap-to-inspect path during playback/cut). */
+  dismissHover() { if (this.hover) { this.hover = null; this.schedule() } }
   setSelection(id: string | null) { this.chainSel = false; this.selSet = new Set(id ? [id] : []); this.selectionChanged(); this.computeStats(); this.schedule() }
   /** Add these node ids to the selection (on top of whatever is already selected) - the search
    *  dropdown uses this to add a player (one id) or a whole team (all its Cup ids), exactly as if
@@ -391,7 +417,7 @@ export class GraphView {
     this.suppressHoverId = null
     const years = this.m.cups.map((c) => c.year!).sort((a, b) => b - a)
     this.pb = { years, idx: 0, halfCup: true, dir: 1, speed: 1, playing: true, timer: 0 }
-    this.insetT = 64 // the transport docks over the stage top (top-right by default) - frame the show below it
+    this.insetPB = 84 // the transport docks bottom-centre - reserve a strip so the show frames ABOVE it (App refines this to the bar's real height)
     this.applyFilters(true, true)
     this.emitPb()
     this.armPb()
@@ -402,9 +428,13 @@ export class GraphView {
     if (!this.pb) return
     if (this.pb.timer) clearTimeout(this.pb.timer)
     this.pb = null
-    this.insetT = 0
+    this.insetPB = 0
+    const gen = this.filterGen
     this.cb.onPlayback?.(null)
-    if (reapply) this.applyFilters(true, true)
+    // App's ended handler restores the pre-show view synchronously (applySnap -> restoreView ->
+    // applyFilters + restart); a second identical pass here would re-walk every node and link
+    // and reheat the sim for nothing - only reapply if the callback did NOT already refilter
+    if (reapply && this.filterGen === gen) this.applyFilters(true, true)
   }
   playbackToggle() {
     if (!this.pb) return
@@ -420,6 +450,75 @@ export class GraphView {
     } else if (pb.timer) { clearTimeout(pb.timer); pb.timer = 0 }
     this.emitPb()
   }
+  /** The rewind/forward transport: play the reveals in a given direction, or - if that direction
+   *  is ALREADY the one playing - pause. dir 1 assembles (forward through the show), dir -1 peels
+   *  the reveals back. Pressing a direction that has nowhere left to go (forward at the fully
+   *  assembled end, back at the anchor) just points the arrow there and stays parked, rather than
+   *  silently turning around the way a single Play button has to. */
+  playbackPlayDir(dir: 1 | -1) {
+    const pb = this.pb
+    if (!pb) return
+    if (pb.playing && pb.dir === dir) { // clicking the lit direction pauses
+      pb.playing = false
+      if (pb.timer) { clearTimeout(pb.timer); pb.timer = 0 }
+      this.emitPb()
+      return
+    }
+    pb.dir = dir
+    // headroom in the requested direction? (mirror of stepPb's advance conditions)
+    const canGo = dir === 1
+      ? pb.halfCup || pb.idx < pb.years.length
+      : (pb.halfCup && pb.idx > 0) || pb.idx > 1
+    pb.playing = canGo
+    if (canGo) this.armPb()
+    else if (pb.timer) { clearTimeout(pb.timer); pb.timer = 0 }
+    this.emitPb()
+  }
+  /** A directional play button on the TIME axis: toward +1 plays toward NEWER years, -1 toward
+   *  OLDER. From a lone pivot (a fresh year-jump - one champion showing, parked) the first press
+   *  CHOOSES the exploration direction: rebuild the reveal order from the pivot toward those years
+   *  and play. Otherwise it's the running show - translate the time direction into this ordering's
+   *  assemble/peel dir and hand off to playbackPlayDir (same-direction press pauses, opposite one
+   *  reverses). Peeling that has already reached the anchor re-pivots and CONTINUES past it into
+   *  the other half of history (jump to 1999, play up, reverse: the show walks back down to 1999
+   *  and then keeps going into 1998, 1997, ... instead of parking on the pivot as a dead end).
+   *  This is what the ◀ / ▶ transport buttons call. */
+  playbackPlay(toward: 1 | -1) {
+    const pb = this.pb
+    if (!pb) return
+    if (pb.years.length === 1) { // lone pivot: the press picks which way to roll off it
+      const pivot = pb.years[0]
+      const all = this.m.cups.map((c) => c.year!)
+      const ys = all.filter((y) => (toward === 1 ? y >= pivot : y <= pivot)).sort((a, b) => (toward === 1 ? a - b : b - a))
+      if (ys.length < 2) return // pivot is the newest/oldest champion - nothing to roll toward this way; stay parked on it
+      pb.years = ys
+      pb.idx = 0; pb.halfCup = true; pb.dir = 1; pb.playing = true
+      this.applyFilters(true, true)
+      this.emitPb()
+      this.armPb()
+      return
+    }
+    const asc = pb.years[0] < pb.years[pb.years.length - 1] // ascending order == assembling toward newer
+    const dir = (asc ? toward : -toward) as 1 | -1
+    // Peel with NO headroom = the show sits on its anchor already. After a year-jump that anchor
+    // is a mid-century pivot, and this press asks to continue PAST it - so re-pivot on the anchor
+    // and roll off its other side, the exact mirror of the lone-pivot first press above. At the
+    // true ends of history the filter finds nothing to roll toward and the parked behavior stands.
+    if (dir === -1 && !((pb.halfCup && pb.idx > 0) || pb.idx > 1)) {
+      const pivot = pb.years[0]
+      const all = this.m.cups.map((c) => c.year!)
+      const ys = all.filter((y) => (toward === 1 ? y >= pivot : y <= pivot)).sort((a, b) => (toward === 1 ? a - b : b - a))
+      if (ys.length >= 2) {
+        pb.years = ys
+        pb.idx = 0; pb.halfCup = true; pb.dir = 1; pb.playing = true
+        this.applyFilters(true, true)
+        this.emitPb()
+        this.armPb()
+        return
+      }
+    }
+    this.playbackPlayDir(dir)
+  }
   /** Flip the direction and keep going - reversing mid-show plays the reveals back in the
    *  opposite order (and un-pauses, so flipping at either end resumes from there). */
   playbackDir() {
@@ -429,10 +528,13 @@ export class GraphView {
     this.emitPb()
   }
   /** Jump to the OTHER end of history and rebuild from there: a show running 2026-down restarts
-   *  at 1915 playing up the years, and vice versa. Lands on the anchor Cup alone, playing. */
+   *  at 1915 playing up the years, and vice versa. Lands on the anchor Cup alone, playing. Rebuilds
+   *  the FULL century in the flipped order (not just a reverse) so a prior year-jump that trimmed
+   *  the reveal list to one side can't shrink the anchor swap's range. */
   playbackFlip() {
     if (!this.pb) return
-    this.pb.years.reverse()
+    const asc = this.pb.years[0] < this.pb.years[this.pb.years.length - 1] // current order
+    this.pb.years = this.m.cups.map((c) => c.year!).sort((a, b) => (asc ? b - a : a - b)) // opposite, full range
     this.pb.idx = 0
     this.pb.halfCup = true
     this.pb.dir = 1
@@ -448,11 +550,34 @@ export class GraphView {
     if (this.pb.playing) this.armPb()
     this.emitPb()
   }
-  /** The transport is draggable: once the user moves it off the top strip, stop reserving the
-   *  top 64px in the camera fit (and start reserving it again if the bar comes back up). */
-  setPlaybackTopInset(px: number) {
-    if (!this.pb || px === this.insetT) return
-    this.insetT = Math.max(0, Math.round(px))
+  /** The bottom-docked transport reports its real height so the camera reserves exactly that strip
+   *  and frames the show cleanly above it. */
+  setPlaybackInset(px: number) {
+    const v = Math.max(0, Math.round(px))
+    if (!this.pb || v === this.insetPB) return
+    this.insetPB = v
+    this.fit()
+  }
+  /** Jump to a chosen year: park on that year's champion shown ALONE (snapped to the nearest Cup),
+   *  paused, with no direction chosen yet - the two play buttons then decide which way to explore
+   *  from this pivot (◀ back through older champions, ▶ on through newer ones). Picking 1999 lands
+   *  on Dallas alone; the user then presses ▶ to roll toward 2026 or ◀ toward 1915. playbackPlay
+   *  reads this lone pivot and rebuilds the reveal order from it in the direction pressed. */
+  playbackJumpToYear(year: number) {
+    const pb = this.pb
+    if (!pb) return
+    const all = this.m.cups.map((c) => c.year!)
+    const snapped = all.includes(year) // a lockout / off year snaps to the nearest champion
+      ? year
+      : all.reduce((b, y) => (Math.abs(y - year) < Math.abs(b - year) ? y : b), all[0])
+    pb.years = [snapped] // a lone pivot: shown alone, parked; the play buttons pick the direction
+    pb.idx = 0
+    pb.halfCup = true    // the champion alone (no roster yet), just like an opening beat
+    pb.dir = 1
+    pb.playing = false   // parked - the user picks ◀ or ▶ to start the show from here
+    if (pb.timer) { clearTimeout(pb.timer); pb.timer = 0 }
+    this.applyFilters(true, true)
+    this.emitPb()
   }
   private armPb() {
     if (!this.pb || !this.pb.playing) return
@@ -490,7 +615,10 @@ export class GraphView {
     } : null)
   }
   private insetB = 0 // stage-bottom pixels covered by the docked sheet - fits frame above it
-  private insetT = 0 // stage-top pixels covered by the playback transport - fits frame below it
+  private insetPB = 0 // stage-bottom pixels covered by the (bottom-docked) playback transport - fits frame above it
+  private filterGen = 0 // bumped by every applyFilters - stopPlayback uses it to skip a duplicate reapply
+  private hybridSig = '' // era signature the hybrid layout was last seeded for; re-seed only when it changes
+  private lastLayout = '' // last applied layoutMode; switching modes re-seeds the incoming one so the toggle refreshes
   /** Reserve space at the stage bottom (the open bottom sheet) so auto-fit and settle-tracking
    *  frame the content in the VISIBLE area instead of centring it underneath the sheet. */
   setBottomInset(px: number) { this.insetB = Math.max(0, Math.round(px)) }
@@ -516,23 +644,26 @@ export class GraphView {
   // Compute (but don't apply) the camera transform that frames all visible nodes with a tight
   // margin. Shared by fit() (instant) and the per-tick fit-tracking (seamless).
   private computeFit(): { x: number; y: number; k: number } | null {
-    const vis = this.m.nodes.filter((n) => n.vis)
-    if (!vis.length) return null
-    let a = 1e9, b = 1e9, c = -1e9, d = -1e9
-    for (const n of vis) {
+    // bounds over visible nodes, inlined (no intermediate .filter() array - this runs every settle tick)
+    let a = 1e9, b = 1e9, c = -1e9, d = -1e9, any = false
+    for (const n of this.m.nodes) {
+      if (!n.vis) continue
+      any = true
       // cups extend above/below their node centre (the tall glyph) - shared CUP_EXT box
       const lr = n.type === 'cup' ? n.r * CUP_EXT.halfW : n.r
       const up = n.type === 'cup' ? n.r * CUP_EXT.up : n.r
       const dn = n.type === 'cup' ? n.r * CUP_EXT.down : n.r
       a = Math.min(a, n.x! - lr); b = Math.min(b, n.y! - up); c = Math.max(c, n.x! + lr); d = Math.max(d, n.y! + dn)
     }
+    if (!any) return null
     // Tight margin so the graph fills the window rather than floating in a wide dark border;
-    // the cap lets small selections grow much larger before they stop scaling up. The bottom
-    // inset (an open docked sheet) shrinks the usable height so content frames above it.
-    const availH = Math.max(1, this.H - this.insetB - this.insetT)
+    // the cap lets small selections grow much larger before they stop scaling up. Both bottom
+    // insets (an open docked sheet, and the docked playback transport) shrink the usable height
+    // so content frames above them.
+    const availH = Math.max(1, this.H - this.insetB - this.insetPB)
     const w = Math.max(1, c - a), h = Math.max(1, d - b), pad = 36
     const k = Math.max(0.05, Math.min((this.W - pad * 2) / w, (availH - pad * 2) / h, 3.4))
-    const x = this.W / 2 - ((a + c) / 2) * k, y = this.insetT + availH / 2 - ((b + d) / 2) * k
+    const x = this.W / 2 - ((a + c) / 2) * k, y = availH / 2 - ((b + d) / 2) * k
     return { x, y, k }
   }
   fit() {
@@ -579,8 +710,12 @@ export class GraphView {
   /* ---------- filtering / sizing / layout ---------- */
   private inRange = (y: number) => inEras(y, this.st.eras)
   private applyFilters(restart: boolean, refit = false) {
+    this.filterGen++ // lets stopPlayback see that a callback already refiltered (skip its own)
     const { positions, multiOnly, layoutMode } = this.st
     const timeline = layoutMode === 'timeline'
+    const hybrid = layoutMode === 'hybrid' // network-like blob, but softly biased toward the timeline grid so time reads as a gradient
+    const layoutSwitched = layoutMode !== this.lastLayout // a mode toggle - re-seed the incoming layout so it visibly refreshes
+    this.lastLayout = layoutMode
     // playback needs to know who was ALREADY on screen, so entrances can be seeded (below)
     if (this.pb) for (const n of this.m.nodes) (n as unknown as { _pv?: boolean })._pv = n.vis
     // window aspect, clamped - reused by the timeline grid shape and the network force bias
@@ -682,54 +817,44 @@ export class GraphView {
       }
     }
     // Dynasty colours follow the VIEW exactly like node size does: re-blend each visible player
-    // over the Cups actually SHOWN (era + cut). Brad Richards inside the cap era wears the pure
-    // Blackhawks-community hue - not a career blend muddied by his out-of-view 2004 Lightning
+    // over the teams of the Cups actually SHOWN (era + cut). Brad Richards inside the cap era wears
+    // the pure Blackhawks colour - not a career blend muddied by his out-of-view 2004 Lightning
     // win. Hidden players keep their stale colour harmlessly (they aren't drawn).
     for (const n of this.m.nodes) {
       if (!n.vis || n.type !== 'player') continue
       let r = 0, g = 0, b = 0, tot = 0
       for (const c of n.cups!) {
-        const cn = this.m.nodeById.get('cup-' + c.year)
-        if (!cn?.vis) continue
-        const [cr, cg, cb] = communityRgb(cn.community)
+        if (!this.m.nodeById.get('cup-' + c.year)?.vis) continue
+        const [cr, cg, cb] = teamRgb(c.abbr)
         r += cr; g += cg; b += cb; tot++
       }
       if (tot) n.dynastyColor = `rgb(${Math.round(r / tot)},${Math.round(g / tot)},${Math.round(b / tot)})`
     }
-    // Pass 2 (timeline only): a WRAPPED grid. Champions are laid chronologically into a grid whose
-    // columns:rows match the window aspect, so the layout fills the frame in both axes (like the network
-    // blob) while reading left-to-right, top-to-bottom. Each cup is pinned to its cell; its players are
-    // soft-pulled to the centroid of their cups' cells, so the link force clusters them into a year-blob
-    // around the cup. Network leaves _tx/_ty at 0 and lets its centred forces shape one big blob.
+    // Pass 2. TIMELINE pins each cup to its chronological serpentine grid cell (timelineTargets) and
+    // each player to the centroid of its cups' cells -> crisp year-rows held there.
+    // HYBRID "pre-renders as Timeline, then clicks Network": it SEEDS x/y from that same grid but leaves
+    // _tx/_ty at 0, so the Network forces below take over and relax the chronological arrangement into an
+    // organic blob that still remembers where each era started. Re-seeded only when the era set changes
+    // or on (re)entry (see hybridSig below), not on a position/cut toggle; skipped during playback.
+    // Network leaves both position and _tx/_ty untouched here and lets its centred forces shape the blob.
+    // hybrid re-seeds from the timeline grid only when the ERA SET changes or on (re)entry - not on a
+    // position/cut/2+ toggle, which just hides nodes within the same layout. Leaving hybrid clears the
+    // signature so the next entry re-seeds.
+    if (!hybrid) this.hybridSig = ''
     if (timeline) {
-      const cups = this.m.cups.filter((c) => c.vis).sort((a, b) => a.year! - b.year!)
-      const Nc = Math.max(1, cups.length)
-      const C = Math.max(1, Math.round(Math.sqrt(aspect * Nc)))  // cols:rows ≈ window aspect
-      const R = Math.ceil(Nc / C)
-      // cell spacing from the densest roster so adjacent year-blobs don't collide
-      let maxRoster = 1
-      for (const c of cups) {
-        let m = 0
-        this.m.adj.get(c.id)?.forEach((id) => { const p = this.m.nodeById.get(id); if (p?.vis && p.type === 'player') m++ })
-        if (m > maxRoster) maxRoster = m
+      const pos = this.timelineTargets(aspect)
+      for (const n of this.m.nodes) { if (!n.vis) continue; const p = pos.get(n.id); if (p) { n._tx = p[0]; n._ty = p[1] } }
+    } else if (hybrid && !this.pb) {
+      const erasSig = this.st.eras.map((e) => e.start + '-' + e.end).join(',')
+      if (erasSig !== this.hybridSig) {
+        this.hybridSig = erasSig
+        const pos = this.timelineTargets(aspect)
+        for (const n of this.m.nodes) { if (!n.vis) continue; const p = pos.get(n.id); if (p) { n.x = p[0]; n.y = p[1] } }
       }
-      const S = Math.min(460, Math.max(150, Math.sqrt(maxRoster) * 50))
-      const cell = new Map<string, [number, number]>()
-      const lastRow = Nc - (R - 1) * C // count of cups in the final (possibly short) row
-      cups.forEach((c, i) => {
-        const row = Math.floor(i / C)
-        // full rows span C columns; centre the short final row on its own count so it sits centred
-        // under the grid instead of left-aligned with empty space to the right
-        const cols = row === R - 1 ? lastRow : C
-        const cx = (i - row * C - (cols - 1) / 2) * S, cy = (row - (R - 1) / 2) * S
-        cell.set(c.id, [cx, cy]); c._tx = cx; c._ty = cy
-      })
-      for (const n of this.m.nodes) {
-        if (!n.vis || n.type !== 'player') continue
-        let sx = 0, sy = 0, k = 0
-        for (const c of n.cups!) if (this.inRange(c.year)) { const cc = cell.get('cup-' + c.year); if (cc) { sx += cc[0]; sy += cc[1]; k++ } }
-        n._tx = k ? sx / k : 0; n._ty = k ? sy / k : 0
-      }
+    } else if (layoutSwitched && !this.pb) {
+      // switched (back) to Network: re-seed a fresh ring so the graph re-lays-out from scratch instead of
+      // just relaxing the previous mode's positions - the toggle visibly refreshes in both directions.
+      this.seedRing()
     }
     // restrict simulation + links to visible
     const active = this.m.nodes.filter((n) => n.vis)
@@ -742,16 +867,20 @@ export class GraphView {
     // keeps its strong year-pinned x pull.) Clamped so ultra-wide/tall windows don't over-stretch.
     // Timeline (wrapped grid): pin cups hard to their cell (both axes); pull players only softly toward
     // their cups' centroid so the link force does the clustering (a blob per year). Network: aspect-bias.
-    const tStrengthX = timeline ? 0.06 : 0.022 / aspect
-    const tStrengthY = timeline ? 0.06 : 0.022 * aspect // gentler centring so loose (single-Cup) satellites aren't packed as tight
+    // Hybrid: like Network but a looser centring (below) plus a stronger charge, so weakly-bound nodes
+    // (single-Cup satellites, thin cross-era links) drift apart while tight rosters stay clustered.
+    const tStrengthX = timeline ? 0.06 : hybrid ? 0.015 / aspect : 0.022 / aspect
+    const tStrengthY = timeline ? 0.06 : hybrid ? 0.015 * aspect : 0.022 * aspect // gentler centring so loose (single-Cup) satellites aren't packed as tight
     this.fx.strength((n) => (n.type === 'cup' && timeline ? 0.65 : tStrengthX))
     this.fy.strength((n) => (n.type === 'cup' && timeline ? 0.65 : tStrengthY))
+    // hybrid repels a bit harder so loose nodes spread out; the link springs still hold tight rosters together
+    ;(this.sim.force('charge') as any).strength((n: GNode) => -(24 + n.r * 4) * (hybrid ? 1.35 : 1))
     // (sim.nodes(active) above already re-initialised every force, collide included, so no manual
-    // re-init is needed here; d3's built-in fixed-seed randomness nudges nodes that land on the
-    // exact same spot apart the same way every run, so layouts stay repeatable.)
+    // re-init is needed here. Initial player positions are seeded with Math.random(), so the settled
+    // layout is not identical run-to-run.)
     this.computeStats()
     if (restart) {
-      // Both network and timeline animate the settle and let the camera ease to fit each tick (onTick),
+      // All three layouts (network, hybrid, timeline) animate the settle and let the camera ease to fit each tick (onTick),
       // so the reshape + re-framing are one continuous, perfectly smooth motion - no synchronous snap and
       // no main-thread freeze regardless of selection size. Sticky so a layout switch's pending refit
       // survives an intervening era/position change during the settle.
@@ -766,6 +895,40 @@ export class GraphView {
       this.sim.alpha(0.7).restart()
     } else this.schedule()
   }
+  /** Chronological serpentine ("boustrophedon") grid target for every visible node - the timeline
+   *  layout. Cups fill a grid whose columns:rows match the window aspect; even rows run left→right,
+   *  odd rows right→left, so each row starts directly below where the last ended (a continuous
+   *  snake, never a carriage-return jump). A player sits at the centroid of the cells of the
+   *  in-range Cups he won. Two callers in applyFilters: the timeline branch pins the returned
+   *  positions as _tx/_ty (crisp rows); the hybrid branch seeds them as node x/y (then relaxes). */
+  private timelineTargets(aspect: number): Map<string, [number, number]> {
+    const cups = this.m.cups.filter((c) => c.vis).sort((a, b) => a.year! - b.year!)
+    const Nc = Math.max(1, cups.length)
+    const C = Math.max(1, Math.round(Math.sqrt(aspect * Nc)))  // cols:rows ≈ window aspect
+    const R = Math.ceil(Nc / C)
+    // cell spacing from the densest roster so adjacent year-blobs don't collide
+    let maxRoster = 1
+    for (const c of cups) {
+      let m = 0
+      this.m.adj.get(c.id)?.forEach((id) => { const p = this.m.nodeById.get(id); if (p?.vis && p.type === 'player') m++ })
+      if (m > maxRoster) maxRoster = m
+    }
+    const S = Math.min(460, Math.max(150, Math.sqrt(maxRoster) * 50))
+    const pos = new Map<string, [number, number]>()
+    cups.forEach((c, i) => {
+      const row = Math.floor(i / C)
+      const idxInRow = i - row * C
+      const physCol = row % 2 === 0 ? idxInRow : (C - 1) - idxInRow // even L→R, odd R→L (the short last row aligns to the snake, so 1950 sits under 1949)
+      pos.set(c.id, [(physCol - (C - 1) / 2) * S, (row - (R - 1) / 2) * S])
+    })
+    for (const n of this.m.nodes) {
+      if (!n.vis || n.type !== 'player') continue
+      let sx = 0, sy = 0, k = 0
+      for (const c of n.cups!) if (this.inRange(c.year)) { const cc = pos.get('cup-' + c.year); if (cc) { sx += cc[0]; sy += cc[1]; k++ } }
+      pos.set(n.id, [k ? sx / k : 0, k ? sy / k : 0])
+    }
+    return pos
+  }
   private computeStats() {
     // one pass over players: count those with >=1 in-range Cup, by position, and multi-Cup.
     // During playback the pills track what has ASSEMBLED so far (n.vis / revealed counts),
@@ -777,7 +940,14 @@ export class GraphView {
       let rcc = 0
       if (this.pb) rcc = n.vis ? n.rangeCupCount : 0
       else for (const c of n.cups!) if (this.inRange(c.year)) rcc++
-      if (rcc >= 1) { players++; if (rcc >= 2) multi++; posCounts[n.group!]++ }
+      if (rcc >= 1) {
+        players++
+        if (rcc >= 2) multi++
+        // the F/D/G pills mirror the canvas: with "2+" on, only multi-Cup players count, exactly
+        // as applyFilters hides rcc<2. Playback overrides the multi filter (it shows every revealed
+        // player), so the assembling pills keep counting everyone during the show.
+        if (this.pb || !this.st.multiOnly || rcc >= 2) posCounts[n.group!]++
+      }
     }
     const champions = this.pb
       ? this.m.cups.filter((c) => c.vis).length
@@ -821,11 +991,11 @@ export class GraphView {
   private nodeAt(clientX: number, clientY: number): GNode | null {
     const rect = this.canvas.getBoundingClientRect()
     const [wx, wy] = this.screenToWorld(clientX - rect.left, clientY - rect.top)
-    const tol = 4 / this.transform.k // 4 SCREEN pixels of click forgiveness, converted to world units so it doesn't grow when zoomed in
-    let best: GNode | null = null, bd = 1e9
+    const tol = (this.tapTipOnly ? 14 : 4) / this.transform.k // click forgiveness in SCREEN px - wider for a fingertip than a cursor - converted to world units so it doesn't grow when zoomed in
+    let best: GNode | null = null, bd2 = 1e18 // squared distance - avoids a sqrt per node on every pointermove
     for (const n of this.m.nodes) {
       if (!n.vis) continue
-      const dx = wx - n.x!, dy = wy - n.y!, dd = Math.hypot(dx, dy)
+      const dx = wx - n.x!, dy = wy - n.y!, dd2 = dx * dx + dy * dy
       // cups: hit-test the tall/narrow glyph as an ellipse (the shared CUP_EXT box, so the
       // clickable region matches what's drawn and the empty corners beside it stay pannable);
       // players: a plain circle.
@@ -834,9 +1004,9 @@ export class GraphView {
         const hw = n.r * CUP_EXT.halfW + tol, ry = (dy < 0 ? n.r * CUP_EXT.up : n.r * CUP_EXT.down) + tol
         inside = (dx * dx) / (hw * hw) + (dy * dy) / (ry * ry) <= 1
       } else {
-        inside = dd < n.r + tol
+        const rr = n.r + tol; inside = dd2 < rr * rr
       }
-      if (inside && dd < bd) { best = n; bd = dd }
+      if (inside && dd2 < bd2) { best = n; bd2 = dd2 }
     }
     return best
   }
@@ -1060,6 +1230,9 @@ export class GraphView {
           // selection made mid-show would dim the whole assembly once its node is unrevealed,
           // and would record undo steps / rewrite the URL while the show runs.
           if (this.pb || (this.cut && this.tapTipOnly)) {
+            // inspect-only (no select), but light up the node's network like a desktop hover would, so
+            // a tap during playback/cut gives the same on-canvas feedback instead of a flat card
+            this.hover = n; this.schedule()
             this.cb.onHover?.(n, e.clientX, e.clientY)
           } else {
             this.toggleSelect(n)
@@ -1089,6 +1262,7 @@ export class GraphView {
     if (wasClick && this.pressNode) {
       const n = this.pressNode
       if (this.pb || (this.cut && this.tapTipOnly)) {
+        this.hover = n; this.schedule() // light up the inspected node's network (matches hover)
         this.cb.onHover?.(n, e.clientX, e.clientY)
       } else {
         this.toggleSelect(n)
@@ -1199,7 +1373,8 @@ export class GraphView {
     // a direct (synchronous) render satisfies any repaint already queued for the next frame -
     // consume it, or every resize paints the identical frame twice
     if (this.raf) { cancelAnimationFrame(this.raf); this.raf = 0 }
-    const hs = this.highlightSet()
+    this.ensureFocusSets()
+    const hs = this.hsCache
     if (hs) this.lastFocus = hs
     // ease focusT toward "is a focus active" so the dim fades in/out instead of snapping.
     const target = hs ? 1 : 0
@@ -1212,7 +1387,7 @@ export class GraphView {
       tx: this.transform.x, ty: this.transform.y, k: this.transform.k,
       W: this.W, H: this.H, dpr: this.dpr,
       hoverSet: drawSet,
-      focusIds: this.focusIds(),
+      focusIds: this.fiCache,
       focusT: this.focusT,
       colorMode: this.st.colorMode,
       communityColor: this.m.communityColor,

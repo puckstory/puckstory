@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest'
-import { buildModel, communityRgb } from '../src/lib/model'
+import { buildModel, teamRgb } from '../src/lib/model'
 import { GraphView } from '../src/lib/graphview'
 import type { ViewState, Era } from '../src/lib/types'
 
@@ -296,27 +296,27 @@ describe('chain cuts under era changes', () => {
  * shown, not the whole career.
  */
 describe('view-relative dynasty colours', () => {
-  it("a split player wears only the visible Cups' hue (Brad Richards: pure CHI blend in the cap era)", () => {
+  it("a split player wears only the visible Cups' team colour (Brad Richards: pure CHI in the cap era)", () => {
     const { gv, model } = fresh([{ start: 2006, end: 2026 }]) // 2004 TBL out of view
     const br = model.nodes.find((n) => n.type === 'player' && n.name === 'Brad Richards')!
     const chi = model.nodeById.get('cup-2015')!
-    const [r, g, b] = communityRgb(chi.community)
-    expect(br.dynastyColor).toBe(`rgb(${r},${g},${b})`) // exactly the 2015 CHI community, nothing else
-    // widening to include 2004 brings the blend back
+    const [r, g, b] = teamRgb(chi.abbr)
+    expect(br.dynastyColor).toBe(`rgb(${r},${g},${b})`) // exactly the 2015 CHI team colour, nothing else
+    // widening to include 2004 (his Lightning Cup) brings the two-team blend back
     gv.setState({ eras: [{ start: 1994, end: 2026 }] })
     expect(br.dynastyColor).not.toBe(`rgb(${r},${g},${b})`)
     gv.destroy()
   })
   it('a cut narrows the blend further: only the KEPT Cups colour the player', () => {
     const { gv, model } = fresh([{ start: 1980, end: 2004 }])
-    // Roy selected via his two MTL Cups: inside the cut his colour is the MTL-cluster blend only
+    // Roy selected via his two MTL Cups: inside the cut his colour is the MTL team colour only
     gv.selectNodes(['cup-1986', 'cup-1993'])
     gv.setCut(true)
     const roy = model.nodes.find((n) => n.type === 'player' && n.name === 'Patrick Roy')!
     const mtl86 = model.nodeById.get('cup-1986')!, mtl93 = model.nodeById.get('cup-1993')!
-    const [r1, g1, b1] = communityRgb(mtl86.community), [r2, g2, b2] = communityRgb(mtl93.community)
+    const [r1, g1, b1] = teamRgb(mtl86.abbr), [r2, g2, b2] = teamRgb(mtl93.abbr)
     const expected = `rgb(${Math.round((r1 + r2) / 2)},${Math.round((g1 + g2) / 2)},${Math.round((b1 + b2) / 2)})`
-    expect(roy.dynastyColor).toBe(expected) // the COL communities contribute nothing while cut away
+    expect(roy.dynastyColor).toBe(expected) // the COL Cups contribute nothing while cut away
     gv.destroy()
   })
 })

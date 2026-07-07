@@ -2,7 +2,7 @@
    app.css - all of the app's global styles.
 
    The colour THEMES (as [data-theme] CSS-variable blocks), the top-bar controls (pills, toggles,
-   swatches, the search box) and their phone accordion layout, the two tooltips (the rich
+   swatches, the search box) and their phone popover layout, the two tooltips (the rich
    node card - floating on desktop, a docked bottom sheet on touch - and the small button tooltip),
    and the canvas stage. The graph inside the canvas is painted in JS (render.ts); everything styled
    here is the chrome around it.
@@ -25,7 +25,7 @@
 
 /* ---------- themes (swap via [data-theme] on <html>) ---------- */
 /* :root holds a plain dark fallback (Catppuccin-derived, no longer a selectable theme) for the
-   instant before [data-theme] applies; the app's DEFAULT_THEME (theme.ts) is Solarized Light. */
+   instant before [data-theme] applies; the app's DEFAULT_THEME (theme.ts) is AMOLED (true black). */
 /* --muted values are each palette's secondary tone, nudged just enough toward the ink to clear
    WCAG AA 4.5:1 against --bg (the originals ranged 2.5-4:1 in most of the six themes).
    --focus is the keyboard focus-ring colour: the accent, except on the light themes where the
@@ -82,11 +82,18 @@ canvas.grabbing{ cursor:grabbing }
 
 /* ---------- persistent top bar ---------- */
 .topbar{ flex:0 0 auto; display:flex; flex-wrap:wrap; align-items:center; gap:6px 9px;
+  touch-action:manipulation; /* no double-tap-to-zoom on the menu (iOS) - taps stay taps */
   padding:6px 12px; background:var(--panel); border-bottom:1px solid var(--panel-border);
   z-index:10; backdrop-filter:blur(18px) saturate(150%); -webkit-backdrop-filter:blur(18px) saturate(150%);
   box-shadow:0 6px 24px rgba(0,0,0,.26), inset 0 1px 0 rgba(255,255,255,.06) }
 .topbar .divider{ width:1px; align-self:stretch; min-height:24px; background:var(--panel-border) }
 .topbar .grp{ display:flex; flex-wrap:wrap; align-items:center; gap:5px }
+/* Desktop/tablet: the era pills flow as INDIVIDUAL bar items rather than one atomic block, so at a
+   width where the whole six-pill group would drop to the next line (leaving a gap behind it) the pills
+   instead pack into that gap and wrap one at a time. display:contents dissolves the .grp box; the pills
+   become direct flex children of .topbar. The phone grid (bottom of file) re-boxes this as a 2-col grid
+   with higher specificity, so mobile is unaffected. .years stays grouped (From/To ride together). */
+.msec-eras .grp:not(.years){ display:contents }
 
 .tb-search{ width:168px; height:35px; padding:0 10px; border-radius:8px; border:1px solid var(--panel-border);
   background:var(--field); color:var(--ink); font-size:12.5px; outline:none }
@@ -99,7 +106,7 @@ canvas.grabbing{ cursor:grabbing }
   background-color:var(--bg); background-image:linear-gradient(var(--panel), var(--panel));
   border:1px solid var(--panel-border); border-radius:10px; padding:4px;
   box-shadow:0 14px 36px rgba(0,0,0,.42) }
-.tb-result{ display:flex; align-items:stretch; width:100%; border-radius:6px }
+.tb-result{ display:flex; align-items:stretch; width:100%; border-radius:6px; cursor:pointer } /* the whole row is the option (click picks); 6° is pointer-only chrome inside it */
 .tb-result:hover, .tb-result.active{ background:var(--chip-hi) } /* .active = arrow-key highlight */
 .tb-result .r-main{ flex:1 1 auto; min-width:0; display:flex; flex-direction:column; align-items:flex-start;
   gap:1px; padding:5px 9px; border:0; border-radius:6px; background:transparent; color:var(--ink);
@@ -169,8 +176,9 @@ canvas.grabbing{ cursor:grabbing }
 .seg button:first-child{ border-left:0 }
 .seg button.on{ background:var(--accent); color:#1a1405 } /* no weight change → segment width stays constant */
 .seg button:not(.on):hover{ background:var(--chip-hi) }
+.seg-ic{ width:17px; height:17px; display:none } /* layout icons: hidden on desktop (text shows); phones swap to them */
 
-/* Position/Dynasty over Network/Timeline - stacked, same width; 16px rows + 3px gap = 35px (matches From/To) */
+/* Position/Dynasty over Network/Hybrid/Timeline - stacked, same width; 16px rows + 3px gap = 35px (matches From/To) */
 .segstack{ display:flex; flex-direction:column; gap:3px }
 .segstack .seg{ height:16px }
 .segstack .seg button{ flex:1; padding:0 11px; display:flex; align-items:center; justify-content:center }
@@ -230,7 +238,10 @@ canvas.grabbing{ cursor:grabbing }
 /* accessible keyboard-only focus rings (--focus, not --accent: the light themes' pale accents
    measured 1.7-2.3:1 against their backgrounds - an effectively invisible ring) */
 .pill:focus-visible, .seg button:focus-visible, .reset:focus-visible, .ghost:focus-visible, .iconbtn:focus-visible,
-.swatch:focus-visible, .showchrome:focus-visible, .tb-search:focus-visible, .topbar .years input:focus-visible{
+.swatch:focus-visible, .showchrome:focus-visible, .tb-search:focus-visible, .topbar .years input:focus-visible,
+.msec-h:focus-visible, .pb-btn:focus-visible, .pb-year:focus-visible, .pb-year-edit:focus-visible,
+.tb-story:focus-visible, .tip-close:focus-visible,
+.tip-act:focus-visible, .ghlink:focus-visible{
   outline:2px solid var(--focus); outline-offset:2px;
 }
 
@@ -253,7 +264,7 @@ canvas.grabbing{ cursor:grabbing }
 .flashbar{ position:absolute; top:12px; left:50%; transform:translateX(-50%); z-index:14;
   max-width:min(92%, 560px); padding:7px 14px; border-radius:999px; pointer-events:none;
   background:var(--panel); border:1px solid var(--panel-border); color:var(--ink); font-size:12.5px;
-  text-align:center; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
+  text-align:center; white-space:normal; /* wrap long blurbs (e.g. the story pills) instead of truncating on a narrow phone */
   backdrop-filter:blur(14px) saturate(150%); -webkit-backdrop-filter:blur(14px) saturate(150%);
   box-shadow:0 8px 24px rgba(0,0,0,.25); animation:panelin .16s ease }
 @media (prefers-reduced-motion: reduce){ .flashbar{ animation:none } }
@@ -271,23 +282,32 @@ canvas.grabbing{ cursor:grabbing }
 .showchrome svg{ width:16px; height:16px; display:block }
 .showchrome:hover{ background:var(--chip-hi) }
 
-/* Playback transport ("A Brief History of Stanley") - docks top-right of the stage, and the
-   user can grab it anywhere that isn't a button (the dotted grip signals this) and drag it
-   wherever it blocks the least. The top bar (and the floating restore button) leave while the
-   show runs, so this is the only chrome. */
-.playbar{ position:absolute; top:calc(10px + env(safe-area-inset-top)); right:calc(12px + env(safe-area-inset-right));
-  z-index:15; display:flex; align-items:center; gap:4px; flex-wrap:wrap; justify-content:center;
-  max-width:calc(100% - 24px); /* with the top bar gone the stage reaches under the notch (viewport-fit=cover), so the transport gets the same safe-area offsets as .showchrome; the cap + wrap keep every control reachable on 320px-class screens */
+/* Playback transport ("A Brief History of Stanley") - fixed at the bottom-centre of the stage
+   (it can't be moved). The top bar (and the floating restore button) leave while the show runs,
+   so this is the only chrome. */
+.playbar{ position:absolute; left:50%; transform:translateX(-50%);
+  bottom:calc(14px + env(safe-area-inset-bottom));
+  z-index:15; display:flex; align-items:center; gap:4px; flex-wrap:nowrap; justify-content:center;
+  max-width:calc(100% - 8px); /* always ONE line - the coarse sizes below keep it fitting to ~320px screens */
   padding:5px 7px; border-radius:10px; background:var(--panel); border:1px solid var(--panel-border);
   backdrop-filter:blur(14px) saturate(150%); -webkit-backdrop-filter:blur(14px) saturate(150%);
-  box-shadow:0 8px 24px rgba(0,0,0,.22); cursor:grab; touch-action:none; user-select:none; -webkit-user-select:none }
-.playbar.dragging{ cursor:grabbing }
-.pb-grip{ width:10px; height:16px; flex:none; color:var(--muted) }
-.pb-year{ min-width:46px; text-align:center; font-size:14px; font-weight:700;
-  font-variant-numeric:tabular-nums; color:var(--ink) }
+  box-shadow:0 8px 24px rgba(0,0,0,.22); user-select:none; -webkit-user-select:none }
+/* the year doubles as a jump field: a button that reads the current year, and (once clicked) a
+   number input. The button carries a subtle chip-on-hover cue that it's actionable. */
+.pb-year{ min-width:52px; text-align:center; font-size:14px; font-weight:700;
+  font-variant-numeric:tabular-nums; color:var(--ink); font-family:inherit;
+  background:none; border:1px solid transparent; border-radius:7px; padding:3px 6px; cursor:pointer }
+.pb-year:hover{ background:var(--chip); border-color:var(--panel-border) }
+.pb-year-edit{ width:66px; cursor:text; background:var(--chip); border-color:var(--panel-border);
+  -moz-appearance:textfield }
+.pb-year-edit::-webkit-outer-spin-button,
+.pb-year-edit::-webkit-inner-spin-button{ -webkit-appearance:none; margin:0 } /* drop the native spinners */
 .pb-btn{ width:34px; height:30px; display:flex; align-items:center; justify-content:center; padding:0;
   border-radius:7px; border:1px solid var(--panel-border); background:var(--chip); color:var(--ink); cursor:pointer }
 .pb-btn:hover{ background:var(--chip-hi) }
+/* the lit direction (the way the show is currently playing) wears the accent, like the .pill.on
+   toggles - click it to pause. dark ink so the glyph reads on every theme's accent. */
+.pb-btn.pb-on, .pb-btn.pb-on:hover{ background:var(--accent); border-color:var(--accent); color:#1a1405 }
 .pb-btn svg{ width:15px; height:15px; display:block }
 .pb-speed{ font-size:12px; font-weight:700; min-width:38px }
 /* the jump button carries its destination year, so it sizes to its text (compound selector so
@@ -295,8 +315,10 @@ canvas.grabbing{ cursor:grabbing }
 .pb-btn.pb-jump{ width:auto; padding:0 8px; gap:4px; font-size:11.5px; font-weight:700 }
 .pb-btn.pb-jump svg{ width:11px; height:11px }
 @media (pointer: coarse){
-  .pb-btn{ width:42px; height:38px }
-  .playbar{ gap:5px }
+  .pb-btn{ width:40px; height:38px } /* 40, not 42, so the whole transport stays one line down to ~320px */
+  .pb-year{ min-height:38px; display:flex; align-items:center; justify-content:center } /* a finger-sized jump target */
+  .pb-year-edit{ height:38px }
+  .playbar{ gap:4px }
 }
 
 /* GitHub source link - sits in the top bar, just left of the minimize button; carries the
@@ -331,7 +353,13 @@ canvas.grabbing{ cursor:grabbing }
 .tip .t-name{ font-weight:700; font-size:13.5px; margin-bottom:3px }
 .tip .t-sub{ color:var(--muted); font-size:11.5px; margin-bottom:6px }
 .tip .t-cup{ display:flex; align-items:center; gap:7px; margin:2px 0 }
-.tip .sw{ width:9px; height:9px; border-radius:2px; flex:0 0 auto }
+.tip .sw{ width:9px; height:9px; border-radius:2px; flex:0 0 auto;
+  border:1px solid var(--panel-border) } /* the chip is the raw team colour on every theme - gold/silver vanish into the light panels without an outline */
+/* phones: the whole player card on ONE inline line ("Name · F · 2 Cups: 1991 PIT, 1992 PIT"), wrapping
+   only if the roster is long; each "year TEAM" stays intact across a wrap */
+.tip .t-solo{ font-size:12.5px; line-height:1.55 }
+.tip .t-solo b{ font-weight:700 }
+.tip .t-solo .tc{ white-space:nowrap }
 .tip .cs-icon{ width:10px; height:14px; flex:0 0 auto; color:#c0c4cc } /* Conn Smythe Trophy silhouette (silver, fixed across themes) */
 /* captain marker - a jersey-style block "C" glyph (drawn, so it's font-independent); white on the dark
    themes, dark grey on the light themes below (white would vanish on a light tooltip) */
@@ -366,7 +394,8 @@ canvas.grabbing{ cursor:grabbing }
    later) still wins on phones in portrait. */
 @media (pointer: coarse) {
   .tb-search{ width:220px; height:46px; font-size:16px } /* wider box for finger typing; 16px stops iOS Safari zooming in on focus */
-  .r-deg{ padding:10px 12px; font-size:13px; margin-right:6px }
+  .tb-result .r-main, .tb-story{ min-height:44px; justify-content:center } /* the dropdown is the primary touch path to a node - keep its rows finger-sized */
+  .r-deg{ padding:10px 12px; font-size:13px; margin-right:6px; min-height:44px; display:flex; align-items:center }
   .topbar .years input{ height:30px; font-size:16px; width:64px } /* 40px clipped 4-digit years at 16px */
   .topbar .posgrid .pill{ height:30px; font-size:12px }
   .segstack .seg{ height:30px }
@@ -394,48 +423,90 @@ canvas.grabbing{ cursor:grabbing }
     border-color:var(--accent); box-shadow:0 4px 14px rgba(0,0,0,.28) }
 }
 
-/* ---------- mobile / touch: a compact accordion menu ----------
-   The old always-on 5-row grid ate 31% of a Pixel 7 and 46% of a small phone. The bar now keeps
-   every submenu collapsed to a summary header (search row + three headers + the action row),
-   the era pills keep their full names, the toggles their full words, the years visible labels,
-   the icons captions, and the theme strip sits inline. The ▴ hide button (bottom-right) hands
-   the whole screen to the graph. Placed last so these overrides beat the base rules above on
-   source order. */
+/* ---------- mobile / touch: a compact bottom-docked menu ----------
+   On phones the bar docks at the BOTTOM in two rows: row 1 is search + the Filters / Eras submenu
+   headers, row 2 is the Theme icon-button + the icon actions + hide. Filters and Eras open as
+   upward popovers above their header; Theme's body opens the same way, above its icon-button. The ▾ hide button (bottom-
+   right) hands the whole screen to the graph. Placed last so these overrides beat the base rules
+   above on source order. */
+
+/* ---------- wide touch (landscape phones AND tablets) ----------
+   Coarse-pointer devices wider than the phone grid miss the <=640px layout and get the desktop top
+   bar with touch-sized controls, which otherwise wraps the action icons and swatches into ragged 3x2
+   blocks. Put each on a single row. `width > 640px` is the exact complement of the phone tier's
+   max-width:640px, so fractional viewport widths (Android DPR scaling) can't fall between the tiers.
+   The order remap matches the phone tier: the DOM order serves the desktop 3-column grid (undo above
+   redo), so a single flattened row must regroup by name or Undo/Redo end up split apart. */
+@media (pointer: coarse) and (width > 640px) {
+  .iconstack{ grid-template-columns:repeat(6, auto) } /* six action icons in one row, not a 3x2 block */
+  .iconstack .i-fit{ order:1 } .iconstack .i-link{ order:2 } .iconstack .i-reset{ order:3 }
+  .iconstack .i-cut{ order:4 } .iconstack .i-undo{ order:5 } .iconstack .i-redo{ order:6 }
+  .themegrid{ grid-template-columns:repeat(6, 1fr) }  /* six swatches in one row, not 3x2 */
+}
+/* ---------- true tablets (room in BOTH axes) ----------
+   Only here does the docked node card become a sized CORNER card instead of a full-width sheet: a
+   landscape phone (~412px tall) keeps the sheet - the .t-solo card is one line, so it costs almost
+   nothing there, while a 360px corner card would cover a third of the screen. Thresholds must stay
+   in lockstep with env.ts isCornerCard() (App keys card content + fit inset off the same probe). */
+@media (pointer: coarse) and (width > 640px) and (height > 500px) {
+  .tip.docked{ left:auto; right:12px; max-width:360px } /* a corner card, not a sheet stretched across the iPad */
+}
+
 @media (max-width: 640px) {
-  /*   search  search  search  search       the search row
-       hthe    hfil    hfil    hera         ONE row of submenu headers: Theme, Filters (double: longest summary), Eras
-       mbody   mbody   mbody   mbody        the open submenu's body - all three share this row
-       icons   icons   icons   hide         fit·link·reset·cut·undo·redo + hide, bottom-RIGHT (thumb reach) */
+  /* Two-line phone menu, docked at the BOTTOM (thumb reach):
+       search search search search filt  filt  eras  eras    row 1: search + the Filters / Eras submenus
+       theme  icons icons icons icons icons icons hide        row 2: Theme + fit·link·reset·cut·undo·redo + hide, all one icon-width
+     Every submenu (Filters, Eras, Theme) opens as an upward POPOVER above its own button - no row
+     ever grows, so the bar is a fixed two lines. */
+  .stage{ order:0 }
   .topbar{
+    order:1;
+    /* above the docked node card (.tip, z:20): the bar is a stacking context (backdrop-filter),
+       so its popovers + search dropdown paint at ITS level - at the base z:10 an open card
+       covered them. Stays under .uitip (30). Desktop keeps 10 (the cursor tip paints over the bar
+       on purpose there). */
+    z-index:25;
     display:grid; gap:6px; align-items:stretch;
-    grid-template-columns:repeat(4, minmax(0, 1fr));
+    grid-template-columns:repeat(8, minmax(0, 1fr));
     grid-template-areas:
-      "search search search search"
-      "hthe   hfil   hfil   hera"
-      "mbody  mbody  mbody  mbody"
-      "icons  icons  icons  hide";
-    padding:calc(6px + env(safe-area-inset-top)) calc(10px + env(safe-area-inset-right)) 8px calc(10px + env(safe-area-inset-left));
+      "search search search search filt   filt   eras   eras"
+      "theme  icons  icons  icons  icons  icons  icons  hide";
+    padding:8px calc(10px + env(safe-area-inset-right)) calc(8px + env(safe-area-inset-bottom)) calc(10px + env(safe-area-inset-left));
+    border-bottom:0; border-top:1px solid var(--panel-border);
+    box-shadow:0 -6px 24px rgba(0,0,0,.26), inset 0 1px 0 rgba(255,255,255,.06);
   }
   .topbar .divider{ display:none }
 
   /* search row */
   .tb-searchwrap{ grid-area:search }
   .tb-search{ width:100%; height:44px; font-size:16px } /* 16px stops iOS Safari zooming in on focus */
-  .tb-results{ width:100% }
+  /* the bar is at the bottom now, so the results open UPWARD over the graph, not down off-screen */
+  .tb-results{ width:100%; top:auto; bottom:calc(100% + 5px) }
   .tb-actions{ display:contents } /* the theme submenu and hide place themselves; GitHub stays desktop-only */
   .topbar .ghlink{ display:none }
   .ghost.icon{ grid-area:hide; width:auto; height:44px; padding:0 }
   .ghost.icon svg{ width:22px; height:22px }
 
-  /* accordion submenus: the three headers share ONE row (compact two-line buttons: title over a
-     live summary); the wrappers stay display:contents so headers and bodies land in their own
-     grid areas - every body maps to the same full-width mbody row, and at most one is open */
-  .msec-eras .msec-h{ grid-area:hera }
-  .msec-filt .msec-h{ grid-area:hfil }
-  .themewrap .msec-h{ grid-area:hthe }
-  .msec-b{ grid-area:mbody }
+  /* popover submenus (compact two-line buttons: title over a live summary). Each wrapper becomes its
+     OWN grid cell + positioning context, and its body opens as an upward POPOVER anchored above the
+     button (staying in its lane): Filters + Eras sit on row 1 beside search, Theme on row 2 beside the
+     icons. At most one is open. */
+  .msec-eras{ display:block; position:relative; grid-area:eras }
+  .msec-filt{ display:block; position:relative; grid-area:filt }
+  .themewrap{ display:block; position:relative; grid-area:theme }
+  .msec-eras.mopen .msec-b, .msec-filt.mopen .msec-b, .themewrap.mopen .msec-b{
+    display:flex; flex-direction:column; gap:6px; /* reveal (overrides .msec-b display:none below) */
+    position:absolute; bottom:calc(100% + 8px);
+    width:min(248px, calc(100vw - 88px)); z-index:20; padding:8px; border-radius:10px; /* -88 keeps the popover fully on-screen down to ~320px */
+    background:var(--panel); border:1px solid var(--panel-border);
+    box-shadow:0 8px 28px rgba(0,0,0,.3);
+    backdrop-filter:blur(16px) saturate(150%); -webkit-backdrop-filter:blur(16px) saturate(150%); }
+  /* Filters + Eras sit at the right edge, so their popover right-aligns to stay on-screen; Theme sits
+     at the far left, so its popover left-aligns. */
+  .msec-eras.mopen .msec-b, .msec-filt.mopen .msec-b{ right:0 }
+  .themewrap.mopen .msec-b{ left:0 }
   .msec-h{ display:grid; grid-template-columns:auto auto; justify-content:center; align-content:center;
-    column-gap:5px; row-gap:2px; width:100%; height:48px; padding:0 6px;
+    column-gap:5px; row-gap:2px; width:100%; height:44px; padding:0 6px; /* match the 44px icon buttons in the row */
     border-radius:6px; border:1px solid var(--panel-border); background:var(--chip); color:var(--ink);
     cursor:pointer; min-width:0 }
   .msec-h .mh-t{ grid-row:1; grid-column:1; font-weight:700; font-size:12px }
@@ -445,8 +516,13 @@ canvas.grabbing{ cursor:grabbing }
     color:var(--muted); font-size:9.5px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap }
   .msec.mopen .msec-h{ background:var(--chip-hi); border-color:var(--chip-brd) }
   .msec.mopen .msec-h .mh-c{ transform:rotate(180deg) }
-  .msec-b{ display:none }
-  .msec.mopen .msec-b{ display:flex; flex-direction:column; gap:6px; padding:2px 0 }
+  /* Theme sits on the ICON row, so it shrinks to one icon-width square matching Fit/Link: the chevron
+     becomes its glyph (top), "Theme" its caption (below), and the current-theme summary is dropped. */
+  .themewrap .msec-h{ display:flex; flex-direction:column; align-items:center; justify-content:center; gap:1px; padding:0 }
+  .themewrap .msec-h .mh-c{ order:-1; width:15px; height:15px; color:var(--ink) }
+  .themewrap .msec-h .mh-t{ font-size:9px; font-weight:600; line-height:1; letter-spacing:.03em }
+  .themewrap .msec-h .mh-s{ display:none }
+  .msec-b{ display:none } /* the open state (display:flex + popover box) lives in the popover rule above */
 
   /* eras: 2-col, most-recent-first, full name over range */
   .topbar .grp:not(.years):not(.posgrid){ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:5px }
@@ -472,13 +548,18 @@ canvas.grabbing{ cursor:grabbing }
   .topbar .posgrid{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); grid-template-rows:1fr 1fr; gap:5px }
   .topbar .posgrid .pill{ height:auto; min-height:44px; padding:0 6px }
 
-  /* the two toggles, full words. min-width:0 keeps the halves EQUAL (flex min-width:auto let the
+  /* the COLOUR toggle in full words (the layout toggle below collapses to three icons on phones, see
+     .seg-layout). min-width:0 keeps its two halves EQUAL (flex min-width:auto let the
      selected side hog the row and clip the other to "Dyna"/"Time"); this rule repeats the desktop
      selector (.segstack .seg button) exactly, so being later in the file is enough for the
      tighter padding to win. */
   .segstack{ display:grid; grid-template-columns:repeat(2, minmax(0,1fr)); gap:5px }
   .segstack .seg{ height:44px }
   .segstack .seg button{ min-width:0; font-size:10px; padding:0 1px; letter-spacing:-.01em }
+  /* layout toggle -> icons on phones (three modes won't fit as text in a half-row); aria-label keeps names */
+  .seg-layout .seg-tx{ display:none }
+  .seg-layout .seg-ic{ display:block; width:18px; height:18px }
+  .segstack .seg-layout button{ display:flex; align-items:center; justify-content:center; padding:0 }
 
   /* the action row (44px captioned buttons come from the shared touch-ish tier above); hide sits
      to its right, bottom corner. The DOM order serves the desktop 3-column grid, so `order`
@@ -488,10 +569,21 @@ canvas.grabbing{ cursor:grabbing }
   .iconstack .i-cut{ order:4 } .iconstack .i-undo{ order:5 } .iconstack .i-redo{ order:6 }
   .iconbtn{ width:auto }
 
-  /* theme submenu body: all six swatches in one row */
-  .themegrid{ display:grid; grid-template-columns:repeat(6, minmax(0,1fr)); gap:5px }
-  .swatch{ width:auto; height:30px }
+  /* theme submenu body: the swatches now live in a ~248px popover (not the old full-width row), so a
+     3x2 grid keeps each swatch a comfortable touch target instead of six tiny slivers */
+  .themegrid{ display:grid; grid-template-columns:repeat(3, minmax(0,1fr)); gap:6px }
+  .swatch{ width:auto; height:40px }
 
   .pill{ font-size:12px }
+
+  /* the bar is at the bottom, so both chevrons flip: Hide dismisses it DOWNWARD (▾), and the floating
+     "show controls" restore button points UP (▴) to bring it back - a reversed pair. It lands in the
+     EXACT spot the Hide button occupied (the menu's bottom-right padding: 10px right, 8px bottom), so
+     hiding and restoring toggle the same button in place. */
+  .ghost.icon svg, .showchrome svg{ transform:rotate(180deg) }
+  /* width tracks the Hide button's grid column exactly (one of 8 columns, minus the 7 gaps and the
+     l/r padding), so the two buttons are the same width as well as height at every screen size. */
+  .showchrome{ top:auto; bottom:calc(8px + env(safe-area-inset-bottom)); right:calc(10px + env(safe-area-inset-right));
+    width:calc((100vw - 62px - env(safe-area-inset-left) - env(safe-area-inset-right)) / 8) }
 
 }

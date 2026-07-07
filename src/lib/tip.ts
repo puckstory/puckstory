@@ -16,9 +16,9 @@ export function tip(node: HTMLElement, text: string) {
     document.body.appendChild(el)
     // reading the size makes the browser lay the tip out NOW, locking in the invisible
     // (opacity:0) start so the fade-in below animates; then place below the control and clamp to
-    // the viewport. Controls can live near the bottom edge (the playback transport is draggable
-    // anywhere), so a tip that would overflow flips ABOVE its control instead of rendering
-    // off-screen on a page that cannot scroll.
+    // the viewport. Controls can live near the bottom edge (the bottom-centred playback transport,
+    // the bottom mobile menu), so a tip that would overflow flips ABOVE its control instead of
+    // rendering off-screen on a page that cannot scroll.
     const r = node.getBoundingClientRect()
     const t = el.getBoundingClientRect()
     const left = Math.max(6, Math.min(r.left + r.width / 2 - t.width / 2, window.innerWidth - t.width - 6))

@@ -1,10 +1,14 @@
 import { test, expect, type Page } from '@playwright/test'
 
 // Collect hard failures on every page: any uncaught exception or console.error fails the test.
+// WebKit logs a console error for the viewport's `interactive-widget` key (an Android-only hint
+// it doesn't recognise and safely ignores) - that one is expected noise, not a failure.
 function watchErrors(page: Page): string[] {
   const errors: string[] = []
   page.on('pageerror', (e) => errors.push('pageerror: ' + e.message))
-  page.on('console', (m) => { if (m.type() === 'error') errors.push('console: ' + m.text()) })
+  page.on('console', (m) => {
+    if (m.type() === 'error' && !m.text().includes('interactive-widget')) errors.push('console: ' + m.text())
+  })
   return errors
 }
 
@@ -156,11 +160,13 @@ test('typing a From year deselects the era pills and lights the From/To block as
 
 test('theme switching updates the document theme and persists', async ({ page }) => {
   await go(page)
+  // AMOLED is the default (theme.ts DEFAULT_THEME), so switch AWAY from it to prove a real change
+  await expect(page.locator('html')).toHaveAttribute('data-theme', 'amoled')
   await openSec(page, 'Theme') // phones tuck the swatch strip into the Theme submenu
-  await page.getByLabel('AMOLED').click()
-  await expect(page.locator('html')).toHaveAttribute('data-theme', 'amoled')
+  await page.getByLabel('Solarized Light').click()
+  await expect(page.locator('html')).toHaveAttribute('data-theme', 'solarized-light')
   await go(page, page.url())
-  await expect(page.locator('html')).toHaveAttribute('data-theme', 'amoled')
+  await expect(page.locator('html')).toHaveAttribute('data-theme', 'solarized-light')
 })
 
 test('the CANVAS repaints its background on a theme switch (not just the DOM chrome)', async ({ page }) => {
@@ -170,11 +176,11 @@ test('the CANVAS repaints its background on a theme switch (not just the DOM chr
     const d = document.querySelector('canvas')!.getContext('2d')!.getImageData(0, 0, 1, 1).data
     return `${d[0]},${d[1]},${d[2]}`
   })
-  expect(await corner()).toBe('253,246,227') // Solarized Light #fdf6e3 (the default theme)
+  expect(await corner()).toBe('0,0,0')       // AMOLED true black (the default theme)
   await openSec(page, 'Theme')
-  await page.getByLabel('AMOLED').click()
+  await page.getByLabel('Solarized Light').click()
   await page.waitForTimeout(250) // a frame or two for the repaint
-  expect(await corner()).toBe('0,0,0')       // AMOLED true black
+  expect(await corner()).toBe('253,246,227') // Solarized Light #fdf6e3
 })
 
 test('guidance overlays name the empty states instead of leaving a blank canvas', async ({ page }) => {
@@ -207,7 +213,7 @@ test('sr-only text alternative and JSON-LD are baked with live dataset facts', a
   expect(ld).not.toContain('%%')
 })
 
-test('Stories: an empty focused search box offers curated views; picking one applies it as ONE action', async ({ page, hasTouch }) => {
+test('Stories: an empty focused search box offers curated views; picking one applies it as ONE action', async ({ page }) => {
   await go(page)
   await page.getByRole('combobox').click()
   await expect(page.locator('.tb-story').first()).toBeVisible()
@@ -215,16 +221,16 @@ test('Stories: an empty focused search box offers curated views; picking one app
   await expect(page).toHaveURL(/eras=2006-2026/)
   await expect(page).toHaveURL(/focus=cup-2010(%2C|,)cup-2013(%2C|,)cup-2015/)
   await expect(page).not.toHaveURL(/cut=/) // stories are SELECTIONS against the faded map, never cuts
-  // the result pill is desktop-only; phones let the story fill the screen unobstructed
-  if (hasTouch) await expect(page.locator('.flashbar')).toHaveCount(0)
-  else await expect(page.locator('.flashbar')).toContainText('three Cups in six years')
+  // the blurb pill now shows on every device (was desktop-only), wrapping on a narrow screen
+  await expect(page.locator('.flashbar')).toContainText('three Cups in six years')
   await page.getByLabel('Undo').click() // one story = one undo step, straight back to the start
   await expect(page).not.toHaveURL(/cut=/)
   await expect(page).not.toHaveURL(/focus=/)
 })
 
-test('A Brief History of Stanley: playback transport appears, marches back in time, reverses home', async ({ page }) => {
+test('A Brief History of Stanley: fixed transport marches back in time, plays home, ends restoring the pre-show view', async ({ page }) => {
   await go(page)
+  const preUrl = page.url() // the show is EPHEMERAL: ending it must return exactly here
   await page.getByRole('combobox').click()
   await page.getByRole('button', { name: /A Brief History of Stanley/ }).click()
   const bar = page.locator('.playbar')
@@ -234,41 +240,44 @@ test('A Brief History of Stanley: playback transport appears, marches back in ti
   // the show clears ALL other chrome away: no top bar, no floating restore button
   await expect(page.locator('.topbar')).toHaveCount(0)
   await expect(page.locator('.showchrome')).toHaveCount(0)
-  // the transport is grab-and-drag: pull it by its grip toward the bottom-left
-  const b0 = (await bar.boundingBox())!
-  await page.mouse.move(b0.x + 8, b0.y + b0.height / 2)
-  await page.mouse.down()
-  await page.mouse.move(b0.x - 150, b0.y + 250, { steps: 6 })
-  await page.mouse.up()
-  const b1 = (await bar.boundingBox())!
-  expect(b1.y).toBeGreaterThan(b0.y + 150)
-  expect(b1.x).toBeLessThan(b0.x)
   // the show marches back in time on its own (a beat every second)
   const y1 = parseInt((await bar.locator('.pb-year').textContent()) ?? '0')
   await expect
     .poll(async () => parseInt((await bar.locator('.pb-year').textContent()) ?? '0'), { timeout: 10_000 })
     .toBeLessThan(y1)
-  // pause parks the picture
+  // the lit direction button reads Pause; clicking it parks the picture
   await page.getByLabel('Pause', { exact: true }).click()
   const parked = (await bar.locator('.pb-year').textContent()) ?? ''
   await page.waitForTimeout(1400)
   await expect(bar.locator('.pb-year')).toHaveText(parked)
-  // reversing un-pauses and walks the reveals back until only the newest champion remains,
-  // where it parks itself (the toggle reads Play again)
-  await page.getByLabel('Reverse direction').click()
-  await expect(page.getByLabel('Play', { exact: true })).toBeVisible({ timeout: 15_000 })
-  await expect(bar.locator('.pb-year')).toHaveText('2026') // parked on the newest champion
+  // playing FORWARD walks the reveals back toward the newest champion and parks there
+  await page.getByLabel('Play forward toward newer years').click()
+  await expect(bar.locator('.pb-year')).toHaveText('2026', { timeout: 15_000 })
   // the anchor swap jumps to the opposite end of history and plays the other way: 1915, up
   await page.getByLabel(/^Jump to 1915/).click()
   await expect(bar.locator('.pb-year')).toHaveText('1915')
   await expect
     .poll(async () => parseInt((await bar.locator('.pb-year').textContent()) ?? '0'), { timeout: 10_000 })
     .toBeGreaterThan(1915)
-  // ending the show closes the panel and brings the top bar back; the view is all-eras
+  // ending the show closes the panel, brings the top bar back, and restores the pre-show view
+  // (the story leaves no trace - not in the URL, not as an undo step)
   await page.getByLabel('End playback').click()
   await expect(bar).toHaveCount(0)
   await expect(page.locator('.topbar')).toBeVisible()
-  await expect(page).toHaveURL(/eras=1915-1941/)
+  await expect.poll(() => page.url()).toBe(preUrl)
+})
+
+test('Cmd/Ctrl+Z during the show just ends it: the pre-show view returns, history is not popped', async ({ page }) => {
+  await go(page, '/?eras=1942-1967') // a distinctive pre-show view the restore must reproduce
+  await page.waitForTimeout(400)
+  const preUrl = page.url()
+  await page.getByRole('combobox').click()
+  await page.getByRole('button', { name: /A Brief History of Stanley/ }).click()
+  await expect(page.locator('.playbar')).toBeVisible()
+  await page.keyboard.press('ControlOrMeta+z')
+  await expect(page.locator('.playbar')).toHaveCount(0)
+  await expect(page.locator('.topbar')).toBeVisible()
+  await expect.poll(() => page.url()).toBe(preUrl)
 })
 
 test('Escape ends the show and restores the chrome', async ({ page }) => {
@@ -281,11 +290,13 @@ test('Escape ends the show and restores the chrome', async ({ page }) => {
   await expect(page.locator('.topbar')).toBeVisible()
 })
 
-test('Six Degrees: the 6° search button connects two players with a shareable chain', async ({ page, hasTouch }) => {
+test('Six Degrees: the 6° search button connects two players with a shareable chain', async ({ page }) => {
   await go(page)
   const box = page.getByRole('combobox')
   await box.fill('mario lemieux')
-  await page.getByLabel(/^Six Degrees - connect Mario Lemieux/).click()
+  // the 6° button is pointer-only chrome (aria-hidden; Shift+Enter is the keyboard path), so
+  // target it by class inside its labelled row rather than by accessible name
+  await page.locator('.tb-result', { hasText: 'Mario Lemieux' }).locator('.r-deg').click()
   await expect(box).toHaveAttribute('placeholder', /Connect Mario Lemieux to/)
   await box.fill('wayne gretzky')
   await box.press('Enter')
@@ -301,9 +312,8 @@ test('Six Degrees: the 6° search button connects two players with a shareable c
   await openSec(page, 'Eras')
   await expect(page.getByLabel(/^Cap,/)).toHaveAttribute('aria-pressed', 'true')
   await expect(page.getByLabel(/^Dynasties,/)).toHaveAttribute('aria-pressed', 'true')
-  // the result pill is desktop-only; phones see the lit chain itself as the feedback
-  if (hasTouch) await expect(page.locator('.flashbar')).toHaveCount(0)
-  else await expect(page.locator('.flashbar')).toContainText(/Mario Lemieux → .*connected through \d+ Cups? spanning \d+ years/)
+  // the connection pill now shows on every device (was desktop-only)
+  await expect(page.locator('.flashbar')).toContainText(/Mario Lemieux → .*connected through \d+ Cups? spanning \d+ years/)
   // the shared URL reproduces the whole chain, flag included
   const url = page.url()
   await go(page, url)
@@ -317,7 +327,7 @@ test('Six Degrees re-enables the filters a chain needs: position pills and the 2
   await go(page, '/?pos=FD&eras=1980-1993')
   const box = page.getByRole('combobox')
   await box.fill('patrick roy')
-  await page.getByLabel(/^Six Degrees - connect Patrick Roy/).click()
+  await page.locator('.tb-result', { hasText: 'Patrick Roy' }).locator('.r-deg').click()
   await box.fill('wayne gretzky')
   await box.press('Enter')
   await expect(page).toHaveURL(/chain=1/)
@@ -325,7 +335,7 @@ test('Six Degrees re-enables the filters a chain needs: position pills and the 2
   // a single-Cup endpoint under Multi-Cup - connecting must drop the 2+ filter
   await go(page, '/?multi=1')
   await box.fill('jordan binnington')
-  await page.getByLabel(/^Six Degrees - connect Jordan Binnington/).click()
+  await page.locator('.tb-result', { hasText: 'Jordan Binnington' }).locator('.r-deg').click()
   await box.fill('sidney crosby')
   await box.press('Enter')
   await expect(page).toHaveURL(/chain=1/)
@@ -336,7 +346,7 @@ test('Six Degrees with a TEAM endpoint: exact chain, contiguous eras pressed acr
   await go(page)
   const box = page.getByRole('combobox')
   await box.fill('seattle metropolitans')
-  await page.getByLabel(/^Six Degrees - connect Seattle Metropolitans/).click()
+  await page.locator('.tb-result', { hasText: 'Seattle Metropolitans' }).locator('.r-deg').click()
   await box.fill('wayne gretzky')
   await box.press('Enter')
   // the chain runs 1917 → 1980s: every era in between is pressed, plus the kept default Cap
@@ -449,6 +459,21 @@ test.describe('touch devices', () => {
     }
   })
 
+  test('an open submenu popover paints OVER the docked card, not under it', async ({ page }) => {
+    // in a cut taps inspect (never deselect), so the card reliably opens; go() restores the
+    // chrome that short landscape viewports boot without (the Eras header must exist)
+    await go(page, '/?focus=cup-2025&cut=1')
+    await page.waitForTimeout(2500)
+    // open the docked card, then a popover that rises into the card's territory
+    const cv = (await page.locator('canvas').boundingBox())!
+    await page.touchscreen.tap(cv.x + cv.width / 2, cv.y + cv.height / 2)
+    await expect(page.locator('.tip.docked')).toBeVisible()
+    await openSec(page, 'Eras')
+    // if the card covered the popover this click would fail with "intercepts pointer events"
+    await page.getByLabel(/^Original Six,/).click()
+    await expect(page.getByLabel(/^Original Six,/)).toHaveAttribute('aria-pressed', 'true')
+  })
+
   test('the node card docks as a bottom sheet instead of floating at the tap point', async ({ page }) => {
     await page.goto('/?focus=cup-2025&cut=1') // the cut cup settles at the canvas centre
     await page.waitForTimeout(2500)
@@ -468,7 +493,7 @@ test.describe('touch devices', () => {
     await expect(sheet).not.toBeVisible()
   })
 
-  test('the sheet is a compact label: no rosters, no team lists, no share on any card', async ({ page }) => {
+  test('the player sheet is ONE inline line: career cups listed in place, no rows, no share', async ({ page }) => {
     await page.goto('/?focus=cup-2025&cut=1')
     await page.waitForTimeout(2500)
     const cv = (await page.locator('canvas').boundingBox())!
@@ -476,13 +501,16 @@ test.describe('touch devices', () => {
     const sheet = page.locator('.tip.docked')
     await expect(sheet).toContainText('Florida Panthers')
     await expect(page.getByLabel('Share this card')).toHaveCount(0)
-    // a PLAYER card is name + position + career total - the per-Cup team list is desktop-only
+    // a PLAYER card collapses to a single .t-solo line - "Name · F · 2 Cups: 2011 BOS, 2025 FLA" -
+    // with the career total (no era/cut phrasing) and the cup list inline, not as per-Cup rows
     const pos = await page.evaluate(() => (window as any).__pkNodeScreen('pl-bradmarchand'))
     await page.touchscreen.tap(pos.x, pos.y)
     await expect(sheet).toContainText('Brad Marchand')
-    await expect(sheet).toContainText('2 Cups') // career total - no era/cut phrasing
-    await expect(sheet).not.toContainText('2025 FLA')
-    await expect(sheet).not.toContainText('2011 BOS')
+    await expect(sheet).toContainText('2 Cups:')
+    await expect(sheet).toContainText('2011 BOS')
+    await expect(sheet).toContainText('2025 FLA')
+    await expect(sheet.locator('.t-solo')).toHaveCount(1) // one line...
+    await expect(sheet.locator('.t-cup')).toHaveCount(0)  // ...no desktop rows
     await expect(page).toHaveURL(/focus=cup-2025(&|$)/) // taps stayed inspect-only
   })
 

@@ -13,7 +13,7 @@ S=json.load(open(os.path.join(HERE,"_stage_rosters.json")))
 R={int(y):v for y,v in S["rosters"].items()}
 IB={int(y):v for y,v in S["infobox"].items()}
 CHAMPS=[(int(y),a) for (y,a) in S["champs"]]; TEAMNAME=S["teamname"]; abbr_of=dict(CHAMPS)
-# Verified metadata (runner-up adjudications + Conn Smythe 1968+) lives in a committed source
+# Verified metadata (runner-up adjudications + Conn Smythe 1965+) lives in a committed source
 # file, NOT in this script's own prior output - so a from-scratch rebuild is reproducible.
 OV=json.load(open(os.path.join(HERE,"verified_overrides.json")))
 # Engraving corrections, verified against sources INDEPENDENT of the Finals articles (band

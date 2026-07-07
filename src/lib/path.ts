@@ -7,7 +7,7 @@
  * Cup nodes - and the search runs on the FULL graph, ignoring the current era/filters: the chain
  * exists in the engravings, not in the view (the caller widens the era to show it). Returns the
  * whole alternating chain including both endpoints, or null when nothing connects them.
- * ~1,300 nodes and ~2,300 edges make this instant.
+ * ~1,400 nodes and ~2,300 edges make this instant.
  */
 export function shortestPath(
   adj: Map<string, Set<string>>,

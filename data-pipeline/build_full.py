@@ -176,7 +176,8 @@ def parse_roster(wt):
 
 def parse_infobox(wt):
     """-> (champion_display, runnerup_display, champion_captain_display, series) from the finals
-    infobox. `series` is the game tally 'champWins–runnerWins' (en dash), emitted ONLY when
+    infobox. `series` is the game tally 'champWins–runnerWins' (en dash) - with a trailing
+    '–ties' third field for the early Finals that ended games tied (1927 -> "2–0–2") - emitted ONLY when
     team1_tot/team2_tot are two clean integers that look like game totals (winner 2-4 games,
     loser strictly fewer, best-of-7 max) - pre-1939 best-of-5/3 series qualify, but anything
     resembling total-goals or malformed values is omitted rather than guessed."""

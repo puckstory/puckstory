@@ -94,7 +94,7 @@ describe('setBg derives the canvas ink from the background luminance', () => {
     const g = mk()
     g.setBg('#fdf6e3')
     expect(g.edgeRgb).toBe('92,104,128')               // dark slate edges - light ones vanish on cream
-    expect(g.edgeAlpha).toBe(0.30)                     // the most-lifted tier: dark-on-light contrast is worst
+    expect(g.edgeAlpha).toBe(0.46)                     // the most-lifted tier: dark-on-light contrast is worst
     expect(g.nameFill).toBe('#33373f')
     expect(g.nameHalo).toBe('rgba(253,246,227,0.92)')  // the bg's own r,g,b - melts in, still knocks out edges
     expect(g.hlEdge).toBe('40,44,52')                  // gold highlight edges vanish on light backgrounds
@@ -104,7 +104,7 @@ describe('setBg derives the canvas ink from the background luminance', () => {
     const g = mk()
     g.setBg('#000000')
     expect(g.edgeRgb).toBe('150,170,205')
-    expect(g.edgeAlpha).toBe(0.25)                     // lifted above the 0.18 dark tier for true black
+    expect(g.edgeAlpha).toBe(0.40)                     // lifted above the 0.30 dark tier for true black
     expect(g.nameFill).toBe('#e8edf6')
     expect(g.nameHalo).toBe('rgba(6,9,16,0.92)')
     expect(g.hlEdge).toBe('255,207,77')                // gold reads fine on black
@@ -115,7 +115,7 @@ describe('setBg derives the canvas ink from the background luminance', () => {
     g.setBg('#fdf6e3') // leave the constructor default first - setBg no-ops on an unchanged value
     g.setBg('#1e1e2e')
     expect(g.edgeRgb).toBe('150,170,205')
-    expect(g.edgeAlpha).toBe(0.18)                     // between the light (0.30) and AMOLED (0.25) tiers
+    expect(g.edgeAlpha).toBe(0.30)                     // between the light (0.46) and AMOLED (0.40) tiers
     expect(g.nameFill).toBe('#e8edf6')
     expect(g.nameHalo).toBe('rgba(6,9,16,0.92)')
     expect(g.hlEdge).toBe('255,207,77')
@@ -126,7 +126,7 @@ describe('setBg derives the canvas ink from the background luminance', () => {
     g.setBg('#fdf6e3')          // start light so the fallback demonstrably flips BACK to dark ink
     g.setBg('hsl(20 30% 40%)')  // not #rrggbb - the luminance probe can't read it
     expect(g.edgeRgb).toBe('150,170,205')
-    expect(g.edgeAlpha).toBe(0.18)
+    expect(g.edgeAlpha).toBe(0.30)
     expect(g.nameFill).toBe('#e8edf6')
     expect(g.nameHalo).toBe('rgba(6,9,16,0.92)')
     expect(g.hlEdge).toBe('255,207,77')

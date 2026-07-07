@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { DATA, buildModel, teamColor, posGroup, posFull, inEras, eraBounds, mergeEras, TEAM_COLORS, POS_COLORS, foldText } from '../src/lib/model'
+import { DATA, buildModel, teamColor, teamRgb, posGroup, posFull, inEras, eraBounds, mergeEras, TEAM_COLORS, POS_COLORS, foldText } from '../src/lib/model'
 import { cupSvgPath, connSmytheSvgPath, CAPTAIN_C_PATH, nodeColor } from '../src/lib/render'
 import type { Era } from '../src/lib/types'
 
@@ -76,6 +76,44 @@ describe('data integrity', () => {
     const missing = [...abbrs].filter(a=>!(a in TEAM_COLORS))
     expect(missing).toEqual([])
   })
+  it('TEAM_COLORS carries no dead keys (every entry is worn by some champion)', () => {
+    const abbrs = new Set<string>()
+    d.champions.forEach((c:any)=>abbrs.add(c.abbr))
+    d.players.forEach((p:any)=>p.cups.forEach((c:any)=>abbrs.add(c.abbr)))
+    expect(Object.keys(TEAM_COLORS).filter((k) => !abbrs.has(k))).toEqual([])
+  })
+  // The palette's contract (model.ts): official primaries, nudged the minimum needed so no two
+  // teams read as the same colour. The palette comments INVITE reverting nudged entries to their
+  // official values - several of which are exact duplicates of a kept anchor (CAR's and NJD's
+  // official #ce1126 IS Detroit's colour) - so distinctness must be pinned here or one
+  // well-meaning revert silently merges two franchises in dynasty mode.
+  it('no two team colours read the same: pairwise OKLab dE ≥ 0.045 (documented official-texture pairs ≥ 0.025)', () => {
+    const oklab = (hex: string): [number, number, number] => {
+      const v = [1, 3, 5].map((i) => {
+        const c = parseInt(hex.slice(i, i + 2), 16) / 255
+        return c <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4
+      })
+      const [r, g, b] = v
+      const l = Math.cbrt(0.4122214708 * r + 0.5363325363 * g + 0.0514459929 * b)
+      const m = Math.cbrt(0.2119034982 * r + 0.6806995451 * g + 0.1073969566 * b)
+      const s = Math.cbrt(0.0883024619 * r + 0.2817188376 * g + 0.6299787005 * b)
+      return [0.2104542553 * l + 0.793617785 * m - 0.0040720468 * s,
+              1.9779984951 * l - 2.428592205 * m + 0.4505937099 * s,
+              0.0259040371 * l + 0.7827717662 * m - 0.808675766 * s]
+    }
+    const de = (a: string, b: string) => {
+      const [x, y] = [oklab(a), oklab(b)]
+      return Math.hypot(x[0] - y[0], x[1] - y[1], x[2] - y[2])
+    }
+    // close-but-distinct pairs of ALL-OFFICIAL values the palette accepts (see model.ts header)
+    const TEXTURE = new Set(['MTL|NJD', 'DAL|TSP', 'NYI|TOR', 'FLA|PHI', 'ANA|EDM', 'CHI|FLA', 'CHI|PHI'])
+    const keys = Object.keys(TEAM_COLORS)
+    for (let i = 0; i < keys.length; i++) for (let j = i + 1; j < keys.length; j++) {
+      const pair = [keys[i], keys[j]].sort().join('|')
+      const dist = de(TEAM_COLORS[keys[i]], TEAM_COLORS[keys[j]])
+      expect(dist, `${pair} dE=${dist.toFixed(3)}`).toBeGreaterThanOrEqual(TEXTURE.has(pair) ? 0.025 : 0.045)
+    }
+  })
   it('every position maps to a known group and a non-raw full name', () => {
     const pos = new Set(d.players.map((p:any)=>p.position))
     for (const p of pos) { expect(['F','D','G']).toContain(posGroup(p)); expect(posFull(p).length).toBeGreaterThan(0) }
@@ -140,15 +178,23 @@ describe('coloring', () => {
     expect(nodeColor(pl,'position',model.communityColor)).toBe(POS_COLORS[pl.group!])
     expect(nodeColor(pl,'dynasty',model.communityColor)).toBe(pl.dynastyColor)
   })
-  it('every node has a dynastyColor; split players get an rgb() blend', () => {
+  it('dynasty colour = team: every node has one; a Cup and a one-team player wear the team colour', () => {
     expect(model.nodes.every(n=>typeof n.dynastyColor==='string' && n.dynastyColor!.length>0)).toBe(true)
-    // a player whose cups span >=2 communities should be an rgb() blend
-    const splitPlayer = model.nodes.find(n=>{
-      if (n.type!=='player') return false
-      const comms = new Set(n.cups!.map(c=>model.nodeById.get('cup-'+c.year)?.community))
-      return comms.size>=2
-    })
-    expect(splitPlayer).toBeTruthy()
-    expect(splitPlayer!.dynastyColor!.startsWith('rgb(')).toBe(true)
+    const cup = model.nodes.find(n=>n.type==='cup' && n.abbr==='MTL')!
+    expect(cup.dynastyColor).toBe(teamColor('MTL'))
+    // Henri Richard won all 11 of his Cups with Montreal -> a solid MTL colour (rgb of one team)
+    const henri = model.nodes.find(n=>n.name==='Henri Richard')!
+    const [r,g,b] = teamRgb('MTL')
+    expect(henri.dynastyColor).toBe(`rgb(${r},${g},${b})`)
+  })
+  it('a player who won with two different teams gets a proportional rgb() blend of the two', () => {
+    const split = model.nodes.find(n=>n.type==='player' && new Set(n.cups!.map(c=>c.abbr)).size===2)!
+    expect(split).toBeTruthy()
+    expect(split.dynastyColor!.startsWith('rgb(')).toBe(true)
+    // a blend of two DISTINCT team colours is strictly between them - never identical to either
+    for (const ab of new Set(split.cups!.map(c=>c.abbr))) {
+      const [r,g,b] = teamRgb(ab)
+      expect(split.dynastyColor).not.toBe(`rgb(${r},${g},${b})`)
+    }
   })
 })

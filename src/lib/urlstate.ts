@@ -2,7 +2,7 @@
  * urlstate.ts - the URL ⇄ view-state mapping.
  *
  * One place owns both directions of the deep-link story: parseView() reads the query params
- * (?eras=, ?from=/?to=, ?color=, ?layout=, ?multi=, ?pos=, ?focus=, ?cut=) into the full
+ * (?eras=, ?from=/?to=, ?color=, ?layout=, ?multi=, ?pos=, ?focus=, ?cut=, ?chain=) into the full
  * shareable view - filters, selection, and cut (initState/stateToQuery handle the filter half) -
  * and viewToQuery() serialises it back to one standard query string (omitting defaults, so the
  * address bar stays clean at the default view). App.svelte keeps the address bar in sync via
@@ -20,7 +20,7 @@ export function defaultState(): ViewState {
   return {
     eras: [{ start: Math.max(Y0, 2006), end: Y1 }], // default: cap era
     positions: { F: true, D: true, G: true }, multiOnly: false,
-    colorMode: 'position', layoutMode: 'network',
+    colorMode: 'dynasty', layoutMode: 'hybrid',
   }
 }
 
@@ -54,13 +54,13 @@ export function initState(search: string, yearsOf: (id: string) => number[]): Vi
   if (eras === 'none') s.eras = [] // the shareable "No era selected" state
   else if (eras) { const e = parseEras(eras); if (e.length) s.eras = e }
   else if (from || to) {
-    const a = +(from ?? Y0), b = +(to ?? Y1)
+    const a = +(from || Y0), b = +(to || Y1) // || (not ??) so an EMPTY ?from=/?to= falls back to the window edge, not +('')===0
     // guard against non-numeric ?from=/?to= (would otherwise yield a {NaN,NaN} era → blank screen)
     if (Number.isFinite(a) && Number.isFinite(b))
       s.eras = [{ start: clampYear(Math.min(a, b)), end: clampYear(Math.max(a, b)) }]
   }
   const c = q.get('color'); if (c === 'position' || c === 'dynasty') s.colorMode = c
-  const l = q.get('layout'); if (l === 'network' || l === 'timeline') s.layoutMode = l
+  const l = q.get('layout'); if (l === 'network' || l === 'hybrid' || l === 'timeline') s.layoutMode = l
   if (q.get('multi') === '1') s.multiOnly = true
   const pos = q.get('pos')
   if (pos !== null && /^[FDG]{0,3}$/.test(pos))

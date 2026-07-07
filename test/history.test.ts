@@ -53,7 +53,7 @@ describe('minimalPatch (what a restore actually re-applies)', () => {
     b.eras = [{ start: 1980, end: 1993 }]
     b.positions = { F: true, D: false, G: true }
     b.multiOnly = true
-    b.colorMode = 'dynasty'
+    b.colorMode = 'position' // dynasty is the default, so position is the changed value here
     b.layoutMode = 'timeline'
     const p = minimalPatch(a, b)
     expect(Object.keys(p).sort()).toEqual(['colorMode', 'eras', 'layoutMode', 'multiOnly', 'positions'])

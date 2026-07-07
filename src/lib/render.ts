@@ -30,8 +30,73 @@ export interface DrawState {
   light: boolean    // light-theme background: player fills switch to the darkened palette
 }
 
+// On the two LIGHT themes, the vivid team colours can be too pale to read on the cream/ice
+// background (Bruins/Penguins gold, Kings silver). Scale any colour brighter than a legible ceiling
+// down toward black - preserving hue - so every dynasty node and line clears the contrast floor,
+// exactly as POS_COLORS_LIGHT does for the position palette. Colours already dark enough pass
+// through untouched. Dynasty mode only; memoised (the palette is a few dozen distinct strings).
+const LIGHT_ADJ = new Map<string, string>()
+export function forLight(color: string): string {
+  const hit = LIGHT_ADJ.get(color)
+  if (hit) return hit
+  let r: number, g: number, b: number
+  const hx = /^#([0-9a-f]{6})$/i.exec(color)
+  const rg = /^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/i.exec(color)
+  if (hx) { r = parseInt(hx[1].slice(0, 2), 16); g = parseInt(hx[1].slice(2, 4), 16); b = parseInt(hx[1].slice(4, 6), 16) }
+  else if (rg) { r = +rg[1]; g = +rg[2]; b = +rg[3] }
+  else { LIGHT_ADJ.set(color, color); return color } // unknown format: leave as-is
+  const CEIL = 120 // perceived-luminance target, matching POS_COLORS_LIGHT (~95-111)
+  const lum = 0.299 * r + 0.587 * g + 0.114 * b
+  const out = lum > CEIL
+    ? `rgb(${Math.round(r * CEIL / lum)},${Math.round(g * CEIL / lum)},${Math.round(b * CEIL / lum)})`
+    : color
+  LIGHT_ADJ.set(color, out)
+  return out
+}
+
+// The mirror of forLight for the DARK themes: the darkest official team colours (Colorado burgundy,
+// St. Louis navy) fall close to the background, so their thin EDGES vanish on black. Lift any colour
+// below a floor UP toward it - preserving hue (uniform channel scale) - so every edge clears the
+// contrast floor. Applied to edges only; nodes keep their exact colour (they read on size + the label).
+const DARK_ADJ = new Map<string, string>()
+export function forDark(color: string): string {
+  const hit = DARK_ADJ.get(color)
+  if (hit) return hit
+  let r: number, g: number, b: number
+  const hx = /^#([0-9a-f]{6})$/i.exec(color)
+  const rg = /^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/i.exec(color)
+  if (hx) { r = parseInt(hx[1].slice(0, 2), 16); g = parseInt(hx[1].slice(2, 4), 16); b = parseInt(hx[1].slice(4, 6), 16) }
+  else if (rg) { r = +rg[1]; g = +rg[2]; b = +rg[3] }
+  else { DARK_ADJ.set(color, color); return color } // unknown format: leave as-is
+  const FLOOR = 105 // luminance a thin edge needs to read on the darkest (AMOLED) background
+  const lum = 0.299 * r + 0.587 * g + 0.114 * b
+  let out = color
+  if (lum > 0 && lum < FLOOR) {
+    const k = FLOOR / lum
+    let r2 = Math.min(255, r * k), g2 = Math.min(255, g * k), b2 = Math.min(255, b * k)
+    // uniform scaling CLIPS saturated channels at 255 - a deep red like DET #ce1126 can't reach the
+    // floor by scaling alone (green/blue are ~0 and absorb nothing), which left its edge fan visibly
+    // dimmer than every other franchise on AMOLED. Blend the unreachable remainder toward
+    // white: hue holds for as long as scaling can hold it, then desaturates only as much as the
+    // floor demands.
+    const l2 = 0.299 * r2 + 0.587 * g2 + 0.114 * b2
+    if (l2 < FLOOR - 0.5) {
+      const t = (FLOOR - l2) / (255 - l2)
+      r2 += (255 - r2) * t; g2 += (255 - g2) * t; b2 += (255 - b2) * t
+    }
+    out = `rgb(${Math.round(r2)},${Math.round(g2)},${Math.round(b2)})`
+  }
+  DARK_ADJ.set(color, out)
+  return out
+}
+
 export function nodeColor(n: GNode, mode: ColorMode, cc: (c: number) => string, light = false): string {
-  if (mode === 'dynasty') return n.dynastyColor ?? cc(n.community)
+  if (mode === 'dynasty') {
+    // team colours are the official franchise values now, identical on every theme (draw() rings each
+    // node for contrast instead of shifting the hue); only the community fallback still needs the fold
+    if (n.dynastyColor) return n.dynastyColor
+    return light ? forLight(cc(n.community)) : cc(n.community)
+  }
   return n.type === 'cup' ? teamColor(n.abbr) : (light ? POS_COLORS_LIGHT : POS_COLORS)[n.group || 'F']
 }
 
@@ -44,6 +109,10 @@ export const CUP_EXT = { halfW: 0.66, up: 1.5, down: 1.36 } as const
 // so widths measured against the fallback font are flushed once the real face is ready.
 const labelWidths = new Map<string, number>()
 if (typeof document !== 'undefined') document.fonts?.ready.then(() => labelWidths.clear())
+
+// dynasty edge segments bucketed by team colour, reused across frames (arrays cleared, not
+// reallocated). The colour set is fixed (~30 franchises), so this Map stays a fixed small size.
+const edgeBuckets = new Map<string, number[]>()
 
 export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
   const { tx, ty, k, W, H, dpr, hoverSet, colorMode, communityColor } = s
@@ -61,22 +130,55 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
   // into a single path and strokes once - at full range that turns ~2,400 stroke() calls
   // (each with redundant style sets) into one, the dominant per-frame saving during settles.
   ctx.lineCap = 'round'
-  ctx.strokeStyle = `rgba(${s.edgeRgb},${s.edgeAlpha * (1 - 0.5 * s.focusT)})`
   ctx.lineWidth = 0.8 // 0.6 under-rendered on 1x displays; 0.8 + the alpha in setBg keeps dense views calm
-  ctx.beginPath()
-  for (const l of s.links) {
-    const a = l.source as GNode, b = l.target as GNode
-    if (!a.vis || !b.vis) continue
-    if (hoverSet && hoverSet.has(a.id) && hoverSet.has(b.id)) continue // drawn in the highlight pass below
-    const x1 = sx(a.x!), y1 = sy(a.y!), x2 = sx(b.x!), y2 = sy(b.y!)
-    if (!onScreen(x1, y1, 40) && !onScreen(x2, y2, 40)) continue
-    ctx.moveTo(x1, y1); ctx.lineTo(x2, y2)
+  if (colorMode === 'dynasty') {
+    // Colour each edge by its Cup's team (precomputed once as l._teamCol - the link's target is always
+    // the Cup, see buildModel), so a player's lines fan out in the colours of the teams he won with.
+    // Group segments by colour and stroke once per team (~30 strokes, trivial vs ~2,300 lines). Buckets
+    // are REUSED across frames (arrays cleared, never reallocated); globalAlpha carries the focus-fade.
+    // The highlighted network still redraws in gold on top (the highlight pass below).
+    ctx.globalAlpha = s.edgeAlpha * (1 - 0.5 * s.focusT)
+    for (const arr of edgeBuckets.values()) arr.length = 0
+    for (const l of s.links) {
+      const a = l.source as GNode, b = l.target as GNode
+      if (!a.vis || !b.vis) continue
+      if (hoverSet && hoverSet.has(a.id) && hoverSet.has(b.id)) continue // drawn in the highlight pass below
+      const x1 = sx(a.x!), y1 = sy(a.y!), x2 = sx(b.x!), y2 = sy(b.y!)
+      if (!onScreen(x1, y1, 40) && !onScreen(x2, y2, 40)) continue
+      // edges only: nudge the franchise colour into a legible luminance band for the current background
+      // (brighten the too-dark on dark themes, darken the too-bright on light) so the thin connectors
+      // never vanish; the NODES keep the exact official colour. Deterministic per colour, so bucketing holds.
+      const raw = l._teamCol ?? teamColor(b.abbr)
+      const col = s.light ? forLight(raw) : forDark(raw)
+      let seg = edgeBuckets.get(col)
+      if (!seg) { seg = []; edgeBuckets.set(col, seg) }
+      seg.push(x1, y1, x2, y2)
+    }
+    for (const [col, segs] of edgeBuckets) {
+      if (!segs.length) continue
+      ctx.strokeStyle = col; ctx.beginPath()
+      for (let i = 0; i < segs.length; i += 4) { ctx.moveTo(segs[i], segs[i + 1]); ctx.lineTo(segs[i + 2], segs[i + 3]) }
+      ctx.stroke()
+    }
+    ctx.globalAlpha = 1
+  } else {
+    ctx.strokeStyle = `rgba(${s.edgeRgb},${s.edgeAlpha * (1 - 0.5 * s.focusT)})`
+    ctx.beginPath()
+    for (const l of s.links) {
+      const a = l.source as GNode, b = l.target as GNode
+      if (!a.vis || !b.vis) continue
+      if (hoverSet && hoverSet.has(a.id) && hoverSet.has(b.id)) continue // drawn in the highlight pass below
+      const x1 = sx(a.x!), y1 = sy(a.y!), x2 = sx(b.x!), y2 = sy(b.y!)
+      if (!onScreen(x1, y1, 40) && !onScreen(x2, y2, 40)) continue
+      ctx.moveTo(x1, y1); ctx.lineTo(x2, y2)
+    }
+    ctx.stroke()
   }
-  ctx.stroke()
 
   // one node, either pass
   const drawNode = (n: GNode, dim: boolean) => {
-    const x = sx(n.x!), y = sy(n.y!), r = n.r * k
+    const x = sx(n.x!), y = sy(n.y!), r = n.r * k // cups + players scale straight with zoom, so the
+    // rendered glyph always matches the space the collision force reserved for it (no overlap)
     // cups extend above/below their centre (the tall glyph), so they need a taller cull pad
     // than their nominal radius (shares CUP_EXT with fit/hit/obstacle math); players are circles.
     const cullPad = n.type === 'cup' ? r * CUP_EXT.up + 12 : r + 30
@@ -89,7 +191,7 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
       drawCup(ctx, x, y, r, col)
       // team abbr + year stacked inside the barrel (no external label)
       ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.lineJoin = 'round'
-      const haloW = Math.max(1.5, r * 0.09), tf = Math.max(6, r * 0.385), yf = Math.max(6, r * 0.38)
+      const haloW = r * 0.09, tf = r * 0.385, yf = r * 0.38 // pure proportional: the cup radius is a fixed constant (n.r = 30), so the abbr + year stay in ratio with the glyph
       ctx.strokeStyle = 'rgba(6,9,16,0.6)'; ctx.fillStyle = '#fff'; ctx.lineWidth = haloW
       ctx.font = '800 ' + tf + 'px Inter,-apple-system,Segoe UI,Roboto,sans-serif'
       ctx.strokeText(n.abbr!, x, y + r * 0.2); ctx.fillText(n.abbr!, x, y + r * 0.2)
@@ -103,7 +205,13 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
     } else {
       ctx.globalAlpha = dim ? 1 - 0.65 * s.focusT : 1 // eased dim (1 -> 0.35) so it fades, not snaps
       ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2)
-      ctx.fillStyle = col; ctx.fill() // solid fill, no border
+      ctx.fillStyle = col; ctx.fill()
+      // dynasty dots keep the exact franchise blend on EVERY theme, so - like the cups - they
+      // carry the darkened rim to stay defined against the pale light-theme backgrounds.
+      // Position mode folds its palette per theme instead and stays borderless.
+      if (colorMode === 'dynasty') {
+        ctx.strokeStyle = darkenHex(col, 0.42); ctx.lineWidth = Math.max(1, r * 0.07); ctx.stroke()
+      }
       ctx.globalAlpha = 1
     }
   }
@@ -117,7 +225,11 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
     drawNode(n, !!hoverSet)
   }
   if (hoverSet) {
-    ctx.strokeStyle = `rgba(${s.hlEdge},${0.72 * s.focusT})`; ctx.lineWidth = 1.8
+    // Ramp the highlight opacity UP from the base edge alpha (not from 0): these edges are skipped in
+    // the base pass the instant a selection lands, so fading them in from 0 made them dip darker for a
+    // few frames (a "disappear then reappear"). Starting at edgeAlpha keeps them at least as visible as
+    // before, only ever brightening toward the 0.72 lit weight as the focus eases in.
+    ctx.strokeStyle = `rgba(${s.hlEdge},${s.edgeAlpha + (0.72 - s.edgeAlpha) * s.focusT})`; ctx.lineWidth = 1.8
     ctx.beginPath()
     for (const l of s.links) {
       const a = l.source as GNode, b = l.target as GNode
@@ -282,14 +394,27 @@ const CUP_PATH: readonly [number, number][] = [
   [-0.246,-1.487]
 ]
 
-// Darken a #rgb/#rrggbb team colour toward black by t (0..1) for the cup's rim; a non-hex colour
-// (shouldn't happen - team colours are hex) falls back to a translucent black edge.
+// Darken a team colour toward black by t (0..1) for the cup and dynasty-dot rims. Team colours
+// are #rrggbb; player dynasty blends arrive as rgb(r,g,b). Anything else falls back to a
+// translucent black edge. Memoised because the draw loop now calls this per PLAYER per frame,
+// not just per cup - and capped, since era changes mint fresh blend strings forever.
+const RIM_MEMO = new Map<string, string>()
 function darkenHex(color: string, t: number): string {
-  const m = /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.exec(color)
-  if (!m) return 'rgba(0,0,0,0.45)'
-  let h = m[1]; if (h.length === 3) h = h[0] + h[0] + h[1] + h[1] + h[2] + h[2]
-  const k = 1 - t, c = (i: number) => Math.round(parseInt(h.slice(i, i + 2), 16) * k)
-  return `rgb(${c(0)},${c(2)},${c(4)})`
+  const key = color + '|' + t
+  const hit = RIM_MEMO.get(key)
+  if (hit) return hit
+  let r = -1, g = 0, b = 0
+  const hx = /^#([0-9a-f]{3}|[0-9a-f]{6})$/i.exec(color)
+  const rg = /^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/i.exec(color)
+  if (hx) {
+    let h = hx[1]; if (h.length === 3) h = h[0] + h[0] + h[1] + h[1] + h[2] + h[2]
+    r = parseInt(h.slice(0, 2), 16); g = parseInt(h.slice(2, 4), 16); b = parseInt(h.slice(4, 6), 16)
+  } else if (rg) { r = +rg[1]; g = +rg[2]; b = +rg[3] }
+  const k = 1 - t
+  const out = r < 0 ? 'rgba(0,0,0,0.45)' : `rgb(${Math.round(r * k)},${Math.round(g * k)},${Math.round(b * k)})`
+  if (RIM_MEMO.size > 4096) RIM_MEMO.clear()
+  RIM_MEMO.set(key, out)
+  return out
 }
 
 // Fill the silhouette with one solid colour at (cx,cy), scaled to radius r, then add a thin

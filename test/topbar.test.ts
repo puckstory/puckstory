@@ -122,7 +122,7 @@ describe('search dropdown', () => {
     // all Oilers - his Rangers Cup is 1994, outside this era) must beat out-of-era Éric Messier (2001)
     expect(onPick.mock.calls[0][0].label).toBe('Mark Messier')
   })
-  it('Escape clears the query, closes the dropdown, and blurs the input', async () => {
+  it('Escape clears the query and closes the dropdown, KEEPING desktop focus in the input', async () => {
     const { getByRole, queryByRole } = mount({ eras: [{ start: 1980, end: 1993 }] })
     const input = getByRole('combobox') as HTMLInputElement
     input.focus()
@@ -131,7 +131,9 @@ describe('search dropdown', () => {
     await fireEvent.keyDown(input, { key: 'Escape' })
     expect(input.value).toBe('')
     expect(queryByRole('listbox')).toBeNull()
-    expect(document.activeElement).not.toBe(input) // blurred, so the mobile keyboard dismisses
+    // the blur that dismisses the mobile keyboard is TOUCH-ONLY (isCoarsePointer): on desktop
+    // (this test env) Escape must not dump a keyboard user onto <body>
+    expect(document.activeElement).toBe(input)
   })
   it('ArrowUp with no highlight wraps to the tail of the list instead of clamping at the top', async () => {
     const { getByRole, getAllByRole } = mount({ eras: [{ start: 1980, end: 1993 }] })
@@ -250,7 +252,7 @@ describe('mobile menu submenus', () => {
     await fireEvent.click(filters)                            // accordion: eras closes
     expect(filters.getAttribute('aria-expanded')).toBe('true')
     expect(eras.getAttribute('aria-expanded')).toBe('false')
-    expect(getByText('2+ · Dynasty · Network')).toBeTruthy()  // the Filters summary shows the state
+    expect(getByText('2+ · Dynasty · Hybrid')).toBeTruthy()  // the Filters summary shows the state (Hybrid = default layout)
     expect(container.querySelector('.msec-eras .mh-s')!.textContent).toBe('Cap') // Eras summary names the preset
   })
 })
@@ -277,26 +279,49 @@ describe('toggle state exposure', () => {
     expect(multi.getAttribute('aria-pressed')).toBe('false')
     await fireEvent.click(multi)
     expect(change).toHaveBeenCalledWith({ multiOnly: true })
-    expect(getByLabelText('Colour by position').getAttribute('aria-pressed')).toBe('true')
-    expect(getByLabelText('Colour by dynasty').getAttribute('aria-pressed')).toBe('false')
+    expect(getByLabelText('Colour by dynasty').getAttribute('aria-pressed')).toBe('true') // dynasty is now the default
+    expect(getByLabelText('Colour by position').getAttribute('aria-pressed')).toBe('false')
     expect(getByLabelText('Timeline layout').getAttribute('aria-pressed')).toBe('false')
   })
 })
 
+// the 6° button is pointer-only chrome: aria-hidden and out of the Tab order (an interactive
+// child would flatten into every option's announced name), with Shift+Enter as the keyboard
+// mirror - so tests reach it by class inside the labelled row, not by accessible name
+const degFor = (label: string) =>
+  Array.from(document.querySelectorAll('.tb-result'))
+    .find((r) => r.textContent?.includes(label))?.querySelector('.r-deg') as HTMLElement
+
 describe('Six Degrees (connect mode)', () => {
-  it('every result row carries a 6° connector button', async () => {
-    const { getByRole, getAllByLabelText } = mount()
+  it('every result row carries a 6° connector button (pointer-only: aria-hidden, untabbable)', async () => {
+    const { getByRole } = mount()
     await fireEvent.input(getByRole('combobox'), { target: { value: 'mark' } })
-    const degs = getAllByLabelText(/^Six Degrees - connect/)
+    const degs = Array.from(document.querySelectorAll('.r-deg'))
     expect(degs.length).toBeGreaterThan(1)
     expect(degs[0].textContent).toBe('6°')
+    expect(degs[0].getAttribute('aria-hidden')).toBe('true')
+    expect(degs[0].getAttribute('tabindex')).toBe('-1')
+  })
+  it('Shift+Enter arms the connector on the highlighted result (the keyboard 6°)', async () => {
+    const onConnect = vi.fn()
+    const { getByRole } = mount({}, { onConnect })
+    const input = getByRole('combobox') as HTMLInputElement
+    await fireEvent.input(input, { target: { value: 'mario lemieux' } })
+    await fireEvent.keyDown(input, { key: 'ArrowDown' })
+    await fireEvent.keyDown(input, { key: 'Enter', shiftKey: true })
+    expect(input.placeholder).toContain('Connect Mario Lemieux to')
+    await fireEvent.input(input, { target: { value: 'gretzky' } })
+    await fireEvent.keyDown(input, { key: 'Enter' })
+    expect(onConnect).toHaveBeenCalledTimes(1)
+    expect(onConnect.mock.calls[0][0].label).toBe('Mario Lemieux')
+    expect(onConnect.mock.calls[0][1].label).toContain('Gretzky')
   })
   it('arming, then picking, calls onConnect(from, to) - not onPick', async () => {
     const onConnect = vi.fn()
     const { getByRole, getAllByRole, getAllByLabelText, onPick } = mount({}, { onConnect })
     const input = getByRole('combobox') as HTMLInputElement
     await fireEvent.input(input, { target: { value: 'lemieux' } })
-    await fireEvent.click(getAllByLabelText(/^Six Degrees - connect Mario Lemieux/)[0])
+    await fireEvent.click(degFor('Mario Lemieux'))
     // armed: the box asks for the other end, the banner shows, the 6° buttons retire
     expect(input.placeholder).toContain('Connect Mario Lemieux to')
     expect(document.querySelector('.tb-connect')?.textContent).toContain('Mario Lemieux')
@@ -314,7 +339,7 @@ describe('Six Degrees (connect mode)', () => {
     const { getByRole, getAllByLabelText, queryByRole } = mount()
     const input = getByRole('combobox') as HTMLInputElement
     await fireEvent.input(input, { target: { value: 'lemieux' } })
-    await fireEvent.click(getAllByLabelText(/^Six Degrees - connect Mario Lemieux/)[0])
+    await fireEvent.click(degFor('Mario Lemieux'))
     await fireEvent.keyDown(input, { key: 'Escape' })
     expect(input.placeholder).toContain('Search players / teams') // disarmed...
     await fireEvent.input(input, { target: { value: 'lemieux' } })
@@ -348,7 +373,7 @@ describe('stories in the empty search dropdown', () => {
     const { getByRole, getAllByLabelText, container } = mount()
     const input = getByRole('combobox') as HTMLInputElement
     await fireEvent.input(input, { target: { value: 'lemieux' } })
-    await fireEvent.click(getAllByLabelText(/^Six Degrees - connect Mario Lemieux/)[0])
+    await fireEvent.click(degFor('Mario Lemieux'))
     expect(input.placeholder).toContain('Connect') // armed, query cleared...
     expect(container.querySelectorAll('.tb-story').length).toBe(0) // ...but no stories in the way
   })
@@ -361,7 +386,7 @@ describe('Six Degrees exclusions', () => {
     await fireEvent.input(input, { target: { value: 'lemieux' } })
     const before = getAllByRole('option').map((o) => o.textContent)
     expect(before.some((t) => t!.includes('Mario Lemieux'))).toBe(true)
-    await fireEvent.click(getAllByLabelText(/^Six Degrees - connect Mario Lemieux/)[0])
+    await fireEvent.click(degFor('Mario Lemieux'))
     await fireEvent.input(input, { target: { value: 'lemieux' } })
     const after = queryAllByRole('option').map((o) => o.textContent)
     expect(after.some((t) => t!.includes('Mario Lemieux'))).toBe(false) // he is the FROM end
@@ -385,7 +410,7 @@ describe('keyboard highlight stays inside the list', () => {
     const { getByRole, getAllByLabelText } = mount()
     const input = getByRole('combobox') as HTMLInputElement
     await fireEvent.input(input, { target: { value: 'lemieux' } })
-    await fireEvent.click(getAllByLabelText(/^Six Degrees - connect Mario Lemieux/)[0])
+    await fireEvent.click(degFor('Mario Lemieux'))
     await fireEvent.input(input, { target: { value: 'lemieux' } })
     await fireEvent.keyDown(input, { key: 'ArrowDown' })                 // highlight row 0 (Mario excluded)
     await fireEvent.keyDown(input, { key: 'Escape' })                    // disarm - Mario re-enters at row 0

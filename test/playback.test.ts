@@ -156,19 +156,173 @@ describe('playback state machine', () => {
     gv.destroy()
   })
 
-  it('the camera inset follows the transport: reserved while docked top, released when dragged off', () => {
+  it('the camera reserves a bottom strip for the fixed transport, sized to the bar and cleared on end', () => {
     const { gv } = fresh()
     const g = gv as any
-    gv.setPlaybackTopInset(30)
-    expect(g.insetT).toBe(0)              // no show running: ignored
+    gv.setPlaybackInset(30)
+    expect(g.insetPB).toBe(0)             // no show running: ignored
     gv.startPlayback()
-    expect(g.insetT).toBe(64)             // docked top by default
-    gv.setPlaybackTopInset(0)             // dragged off the top strip
-    expect(g.insetT).toBe(0)
-    gv.setPlaybackTopInset(64)            // dragged back up
-    expect(g.insetT).toBe(64)
+    expect(g.insetPB).toBeGreaterThan(0)  // a default strip is reserved for the bottom bar
+    gv.setPlaybackInset(72)               // App reports the bar's real (measured) height
+    expect(g.insetPB).toBe(72)
     gv.stopPlayback()
-    expect(g.insetT).toBe(0)              // the show always cleans up
+    expect(g.insetPB).toBe(0)             // the show always cleans up
+    gv.destroy()
+  })
+
+  it('picking a year parks on that champion ALONE, no direction chosen yet', () => {
+    const { gv, last, visCups, visPlayers } = fresh()
+    gv.startPlayback()                                     // (auto-plays; the jump interrupts it)
+    gv.playbackJumpToYear(1999)                            // Dallas 1999
+    expect(visCups()).toEqual([1999])                      // just the one Cup...
+    expect(visPlayers().length).toBe(0)                    // ...on its own, no roster
+    expect(last()).toMatchObject({ playing: false, year: 1999 }) // PARKED, waiting for a play button
+    vi.advanceTimersByTime(5000)                           // nothing ticks while parked
+    expect(visCups()).toEqual([1999])
+    gv.destroy()
+  })
+
+  it('from the parked pivot, ▶ (newer) rolls up the years and ◀ (older) rolls down', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()
+    gv.playbackJumpToYear(1999)
+    gv.playbackPlay(1)                                     // ▶ newer
+    expect(last()).toMatchObject({ playing: true, year: 1999 })
+    vi.advanceTimersByTime(2000)                           // roster, then the next NEWER champion
+    expect(Math.max(...visCups())).toBeGreaterThan(1999)
+    expect(visCups().every((y) => y >= 1999)).toBe(true)  // nothing older than the pivot
+    // re-jump and pick the other way
+    gv.playbackJumpToYear(1999)
+    expect(visCups()).toEqual([1999])
+    gv.playbackPlay(-1)                                    // ◀ older
+    vi.advanceTimersByTime(2000)
+    expect(Math.min(...visCups())).toBeLessThan(1999)
+    expect(visCups().every((y) => y <= 1999)).toBe(true)  // nothing newer than the pivot
+    gv.destroy()
+  })
+
+  it('reversing back to a year-jump pivot is not a dead end: the next press continues past it', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()
+    gv.playbackJumpToYear(1999)
+    gv.playbackPlay(1)                                     // ▶ explore NEWER from the pivot
+    vi.advanceTimersByTime(4000)
+    expect(Math.max(...visCups())).toBeGreaterThan(1999)
+    gv.playbackPlay(-1)                                    // ◀ peels the newer reveals back...
+    vi.advanceTimersByTime(10_000)                         // ...all the way to the anchor floor
+    expect(visCups()).toEqual([1999])
+    expect(last()).toMatchObject({ playing: false, year: 1999 })
+    gv.playbackPlay(-1)                                    // ◀ again: re-pivot and roll into OLDER years
+    expect(last()!.playing).toBe(true)
+    vi.advanceTimersByTime(3000)
+    expect(Math.min(...visCups())).toBeLessThan(1999)
+    expect(visCups().every((y) => y <= 1999)).toBe(true)  // the newer half retracted with the re-pivot
+    gv.destroy()
+  })
+
+  it('...and the mirror: exploring older first, then forward past the pivot into newer years', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()
+    gv.playbackJumpToYear(1999)
+    gv.playbackPlay(-1)                                    // ◀ explore OLDER from the pivot
+    vi.advanceTimersByTime(4000)
+    expect(Math.min(...visCups())).toBeLessThan(1999)
+    gv.playbackPlay(1)                                     // ▶ peels back to the pivot...
+    vi.advanceTimersByTime(10_000)
+    expect(last()).toMatchObject({ playing: false, year: 1999 })
+    gv.playbackPlay(1)                                     // ▶ again: continue into NEWER years
+    expect(last()!.playing).toBe(true)
+    vi.advanceTimersByTime(3000)
+    expect(Math.max(...visCups())).toBeGreaterThan(1999)
+    expect(visCups().every((y) => y >= 1999)).toBe(true)
+    gv.destroy()
+  })
+
+  it('a lockout / off year snaps to the nearest champion', () => {
+    const { gv, visCups } = fresh()
+    gv.startPlayback()
+    gv.playbackJumpToYear(2005)                            // no Cup in 2005 (lockout)
+    expect([2004, 2006]).toContain(visCups()[0])          // the nearest champion, alone
+    gv.destroy()
+  })
+
+  it('jumping to the newest/oldest champion then pressing TOWARD that end stays parked (no degenerate one-year show)', () => {
+    const { gv, model, last, visCups } = fresh()
+    gv.startPlayback()
+    const newest = Math.max(...model.cups.map((c) => c.year!))
+    gv.playbackJumpToYear(newest)                          // pivot on the newest champion, parked
+    expect(visCups()).toEqual([newest])
+    expect(last()!.playing).toBe(false)
+    gv.playbackPlay(1)                                     // ▶ (newer) - nothing is newer than the newest
+    expect(last()!.playing).toBe(false)                   // stays parked, NOT a broken un-pausable 1-year show
+    expect(visCups()).toEqual([newest])
+    vi.advanceTimersByTime(3000)
+    expect(visCups()).toEqual([newest])                   // no beats fired - genuinely parked
+    gv.playbackPlay(-1)                                    // ◀ (older) - now there IS somewhere to roll
+    expect(last()!.playing).toBe(true)
+    vi.advanceTimersByTime(2000)
+    expect(visCups().length).toBeGreaterThan(1)           // assembles back through the older champions
+    gv.destroy()
+  })
+
+  it('while a direction is playing, pressing it pauses and pressing the opposite reverses', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()                                     // descending default: time flows toward OLDER (◀ active)
+    vi.advanceTimersByTime(4000)
+    const n = visCups().length
+    gv.playbackPlay(-1)                                    // press ◀ (the active/older direction) -> pause
+    expect(last()!.playing).toBe(false)
+    vi.advanceTimersByTime(3000)
+    expect(visCups().length).toBe(n)                      // paused, nothing moved
+    gv.playbackPlay(1)                                     // press ▶ (opposite) -> reverse, peel back toward newer
+    expect(last()!.playing).toBe(true)
+    vi.advanceTimersByTime(3000)
+    expect(visCups().length).toBeLessThan(n)              // reveals walked back
+    gv.destroy()
+  })
+
+  it('the directional buttons: click a direction to play it; click the LIT one to pause', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()
+    vi.advanceTimersByTime(3000)                          // playing forward (default), a few beats in
+    expect(last()).toMatchObject({ playing: true, dir: 1 })
+    gv.playbackPlayDir(1)                                 // click the LIT (forward) button -> pause
+    expect(last()).toMatchObject({ playing: false, dir: 1 })
+    const held = visCups()
+    vi.advanceTimersByTime(3000)
+    expect(visCups()).toEqual(held)                       // nothing moved while paused
+    gv.playbackPlayDir(1)                                 // click forward again -> resume forward
+    expect(last()).toMatchObject({ playing: true, dir: 1 })
+    gv.destroy()
+  })
+
+  it('clicking the OTHER direction flips and plays that way - no separate reverse control needed', () => {
+    const { gv, last, visCups } = fresh()
+    gv.startPlayback()
+    vi.advanceTimersByTime(5000)                          // forward, a few cups on screen
+    const n = visCups().length
+    expect(n).toBeGreaterThan(2)
+    gv.playbackPlayDir(-1)                                // click rewind -> now peeling back
+    expect(last()).toMatchObject({ playing: true, dir: -1 })
+    vi.advanceTimersByTime(4000)
+    expect(visCups().length).toBeLessThan(n)              // reveals walked back
+    gv.destroy()
+  })
+
+  it('pressing a direction with nowhere to go stays parked - never silently turns around', () => {
+    const { gv, model, last, visCups } = fresh()
+    gv.startPlayback()
+    gv.playbackSpeed()                                    // 2x - drain to the fully assembled end
+    const total = model.cups.length
+    for (let i = 0; i < total * 2 + 4 && last()!.playing; i++) vi.advanceTimersByTime(500)
+    expect(visCups().length).toBe(total)                 // fully assembled, parked
+    gv.playbackPlayDir(1)                                 // press FORWARD at the end - nothing ahead
+    expect(last()).toMatchObject({ playing: false, dir: 1 }) // stays put, does NOT unwind
+    expect(visCups().length).toBe(total)
+    gv.playbackPlayDir(-1)                                // press REWIND - there IS room to peel back
+    expect(last()).toMatchObject({ playing: true, dir: -1 })
+    vi.advanceTimersByTime(1000)
+    expect(visCups().length).toBeLessThan(total)
     gv.destroy()
   })
 

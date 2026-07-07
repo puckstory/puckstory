@@ -170,6 +170,40 @@ describe('selection drives the F/D/G stat pills (selectionPosCounts)', () => {
   })
 })
 
+// The "2+" (Multi-Cup only) filter must narrow the F/D/G pill counts to multi-Cup players, exactly
+// as it narrows the canvas - a single-Cup forward can't still be tallied once 2+ hides it.
+// (Regression: computeStats used to count every in-era player into posCounts regardless of 2+.)
+describe('the 2+ (Multi-Cup) filter narrows the F/D/G stat pills', () => {
+  it('turning 2+ on drops single-Cup players from posCounts; off restores them', () => {
+    let stats:any = null
+    const eras = [{start:1980,end:1993}]        // Islanders + Oilers era: plenty of single-Cup role players
+    const gv = new GraphView(document.createElement('canvas') as any, model,
+      { ...base, eras: eras.map(e=>({...e})), multiOnly:false },
+      { onStats:(s)=>{stats=s}, onHover:noop })
+    // independent breakdowns from the dataset: all in-era players, and multi-Cup-in-era only
+    const byPos = (min:number) => {
+      const c:any = { F:0, D:0, G:0 }
+      for (const n of model.nodes) {
+        if (n.type!=='player') continue
+        let rcc=0; for (const cc of n.cups!) if (inEras(cc.year, eras)) rcc++
+        if (rcc>=min) c[n.group!]++
+      }
+      return c
+    }
+    const all = byPos(1), multi = byPos(2)
+    expect(multi).not.toEqual(all)                     // guard: the era genuinely has single-Cup players
+    expect(stats.posCounts).toEqual(all)               // 2+ off: every in-era player counts
+    gv.setState({ multiOnly:true })
+    expect(stats.posCounts).toEqual(multi)             // 2+ on: only multi-Cup players remain
+    // pills now agree with the canvas: with all positions on, the F/D/G total == visible players
+    const visPlayers = model.nodes.filter(n=>n.vis && n.type==='player').length
+    expect(multi.F+multi.D+multi.G).toBe(visPlayers)
+    gv.setState({ multiOnly:false })
+    expect(stats.posCounts).toEqual(all)               // 2+ off again: restored
+    gv.destroy()
+  })
+})
+
 describe('a selection with no visible matches greys the whole graph out', () => {
   it('highlightSet stays a dim-all (empty, non-null) set once the only selected node is hidden', () => {
     const { gv } = fresh(); const g:any = gv

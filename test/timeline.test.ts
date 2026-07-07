@@ -22,6 +22,21 @@ function bbox() {
   return { w:c-a, h:d-b, n:vis.length, finite: vis.every((n:any)=>Number.isFinite(n.x)&&Number.isFinite(n.y)) }
 }
 
+describe('hybrid: an organic blob ordered top-to-bottom by year', () => {
+  it('older champions settle ABOVE newer ones (seeded from the timeline grid, then relaxed), still finite', () => {
+    gv.setState({ layoutMode:'hybrid', eras:[{start:1915,end:2026}] })
+    gv.sim.alpha(0.9); for (let i=0;i<200;i++) gv.sim.tick(); gv.sim.alpha(0).stop()
+    const cups = model.nodes.filter((n:any)=>n.vis && n.type==='cup').sort((a:any,b:any)=>a.year-b.year)
+    const q = Math.floor(cups.length/4)
+    const meanY = (arr:any[]) => arr.reduce((s:number,n:any)=>s+n.y,0)/arr.length
+    // hybrid seeds x/y from the timeline grid (oldest at the top row) then lets the network forces relax
+    // it; the chronological order survives, so the oldest quartile still sits above (smaller y) the newest
+    expect(meanY(cups.slice(0,q))).toBeLessThan(meanY(cups.slice(-q)))
+    expect(bbox().finite).toBe(true)
+    gv.setState({ layoutMode:'network' }) // reset for later tests
+  })
+})
+
 describe('timeline: animated settle is non-blocking + smooth (per-frame cost)', () => {
   it('setState does not block the main thread (settle runs async over frames)', () => {
     const t = ms(()=>gv.setState({ layoutMode:'timeline', eras:[{start:1915,end:2026}] }), 3)

@@ -42,6 +42,10 @@ describe('initState', () => {
     expect(initState('?from=1993&to=1980', yearsOf).eras).toEqual([{ start: 1980, end: 1993 }])
     expect(initState('?from=1850&to=2200', yearsOf).eras).toEqual([{ start: Y0, end: Y1 }])
   })
+  it('an EMPTY ?from= / ?to= falls back to the window edge, not year 0', () => {
+    expect(initState('?from=1980&to=', yearsOf).eras).toEqual([{ start: 1980, end: Y1 }])
+    expect(initState('?from=&to=1993', yearsOf).eras).toEqual([{ start: Y0, end: 1993 }])
+  })
   it('color / layout / multi / pos params apply; junk values are ignored', () => {
     const s = initState('?color=dynasty&layout=timeline&multi=1&pos=FG', yearsOf)
     expect(s.colorMode).toBe('dynasty'); expect(s.layoutMode).toBe('timeline'); expect(s.multiOnly).toBe(true)
@@ -80,7 +84,7 @@ describe('stateToQuery (the write side of deep links)', () => {
   it('every non-default field round-trips through initState', () => {
     const s = defaultState()
     s.eras = [{ start: 1942, end: 1967 }, { start: 1980, end: 1993 }]
-    s.colorMode = 'dynasty'; s.layoutMode = 'timeline'; s.multiOnly = true
+    s.colorMode = 'position'; s.layoutMode = 'timeline'; s.multiOnly = true // position is now the non-default
     s.positions = { F: true, D: false, G: true }
     const q = stateToQuery(s)
     expect(initState('?' + q, yearsOf)).toEqual(s)

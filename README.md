@@ -18,20 +18,20 @@ champion to light up its entire roster.
 
 ## A few views
 
-| Network (the default) | Timeline | Select a champion |
+| Hybrid (the default) | Timeline | Select a champion |
 |:--:|:--:|:--:|
-| ![The default network view of the salary-cap era](docs/hero.png) | ![Every champion since 1915 in chronological rows](docs/timeline.png) | ![The 2018 Capitals lit up against the faded era](docs/focus.png) |
-| The default view: the current era, one trophy per champion, players coloured by position (orange forwards, purple defense, green goalies). Bigger dots mean more Cups | Timeline layout: every champion since 1915 in order, each roster gathered around its Cup | Click a Cup (or pick anything from search) and its network lights up, names appearing where there is room; the rest of the era fades back |
+| ![The default Hybrid view of the salary-cap era](docs/hero.png) | ![Every champion since 1915 in chronological rows](docs/timeline.png) | ![The 2018 Capitals lit up against the faded era](docs/focus.png) |
+| The current era in the default **Hybrid** layout - seeded from the timeline, then relaxed into a blob that still runs oldest (top) to newest (bottom). Coloured by **team** (the **Dynasty** mode); bigger dots mean more Cups | Timeline layout: every champion since 1915 in order, each roster gathered around its Cup | Click a Cup (or pick anything from search) and its network lights up, names appearing where there is room; the rest of the era fades back |
 
 | Stories | Six Degrees | A Brief History of Stanley |
 |:--:|:--:|:--:|
 | ![The stories dropdown under the empty search box](docs/stories.png) | ![A shortest teammate chain from Lemieux to Gretzky](docs/six.png) | ![The century mid-assembly with the playback transport](docs/playback.png) |
-| Click the empty search box for six curated starting points, each applied as one undoable step | Six Degrees: the shortest teammate chain between any two players or teams - here Lemieux to Gretzky through Paul Coffey - lit against the faded map | The playback story: the century assembles one champion at a time, with a floating transport to pause, reverse, jump between 1915 and 2026, or change speed |
+| Click the empty search box for six curated starting points, each applied as one undoable step | Six Degrees: the shortest teammate chain between any two players or teams - here Lemieux to Gretzky through Paul Coffey - lit against the faded map | The playback story: the century assembles one champion at a time, with a bottom-docked transport - play toward older or newer years, tap the year to jump anywhere, restart from either end of history, or change speed |
 
 ## What you can do
 
-Everything lives in a **top bar** (which condenses on phones: Theme / Filters / Eras collapse to
-tappable summary rows):
+Everything lives in a **bar** (across the top on desktop; on phones it docks at the bottom in two
+compressed rows, where Filters, Eras, and Theme each open as a popover above their button):
 
 - **Scope the era** - multi-select era pills (Pre-O6, Original Six, Expansion, Dynasties, Dead Puck,
   Cap) that **combine into a union**, so you can compare, say, the Original Six and the 1980s
@@ -51,8 +51,10 @@ tappable summary rows):
   Handshake, the Pocket Rocket's Eleven, the Boys on the Bus, the nine three-franchise winners,
   and more). Each is just a saved view, applied as one undoable step. The first, **A Brief
   History of Stanley**, is a playback: the whole century assembles champion by champion from
-  2026 back to 1915, with a floating transport (drag it anywhere) to pause, reverse, jump
-  straight to either end of history, or change speed. Escape or the ✕ ends the show.
+  2026 back to 1915, with a transport docked at the bottom of the screen - two directional play
+  buttons (play toward older or newer years; tap the lit one to pause), a tap-to-jump year readout,
+  an anchor button that restarts from the opposite end of history, and a speed control. Escape or
+  the ✕ ends the show.
 - **Cut** (the scissors) keeps **only the selected network** and hides everything else: carve one
   franchise's story out of the whole league, then change eras to follow just those players around.
   Node sizes recompute to count only the Cups the cut shows. A cut never tears down by accident -
@@ -64,27 +66,34 @@ tappable summary rows):
 - **Copy a link** to the exact view - the address bar mirrors every change live, and the Link
   button copies it (on touch devices it opens the system share sheet instead - see Deep links
   below).
-- **Colour by** *Position* (F / D / G) or *Dynasty* - groups of players who kept winning
-  together, found automatically from the data (computed once in the data pipeline and shipped
-  with the dataset, so the clusters look identical for everyone). On the two light themes the
-  position colours switch to darker shades so every dot stays easy to see.
-- **Lay it out** as a *Network* (force-directed) or a *Timeline* (Cups placed chronologically in a
-  wrapped grid, rosters clustering around them).
+- **Colour by** *Dynasty* (the default) or *Position*. **Dynasty** paints every node and link by
+  **team**: a champion and its roster wear the franchise's colour, a player who won with more than
+  one team gets a blend weighted by how many Cups he won with each (5 Oilers + 1 Rangers reads
+  mostly Edmonton orange), and every link takes its Cup's team colour, so a player's lines fan out
+  in the colours of the teams he won with. The blend follows the current era/cut exactly like node
+  size does. **Position** colours players by F / D / G instead. Team colours are the official
+  franchise primaries and stay identical on every theme - cups and dots carry a darkened rim, and
+  the thin connecting lines shift luminance per theme (darker on light, brighter on dark), so
+  everything stays easy to see without repainting any team.
+- **Lay it out** as a **Hybrid** (the default - the timeline grid seeds each node's position, then the
+  network forces relax it into an organic blob that still reads oldest-at-top to newest-at-bottom), a
+  **Network** (pure force-directed), or a **Timeline** (Cups placed chronologically in a wrapped grid,
+  rosters clustering around them). Switching between the three re-lays-out the graph.
 - **Fit** re-frames to the current selection.
 - Pan, zoom, and drag nodes. Hover a player for their full per-Cup history (with captain and Conn
   Smythe markers); hover a champion for its runner-up **with the Final's series score**,
   engraved-player count, and Conn Smythe winner. On touch the card docks as a compact bottom sheet.
 - Node size reflects **Cups won in the selected range** (or in the cut), so the legends grow into
   the super-hubs.
-- Six **colour themes**, two light and four dark, each with its own personality (Solarized Light
+- Six **colour themes**, two light and four dark, each with its own personality (AMOLED black
   by default).
 - Every empty state explains itself - no era selected, a cut emptied by the era change, a selection
   outside the current era - instead of leaving a blank or faded canvas.
 
 | Cut mode | Six themes | On a phone |
 |:--:|:--:|:--:|
-| ![A cut: one champion's network alone on the canvas](docs/cut.png) | ![The same map in the Nord dark theme](docs/dark.png) | <img src="docs/mobile.png" alt="Phone layout: accordion bar and a bottom-sheet node card" width="270"> |
-| The scissors keeps just the selected network - here the 2018 Capitals, shareable as `?focus=cup-2018&cut=1` | The same map in Nord, one of six themes (two light, four dark) | Phones get a compact accordion bar, and node cards dock as a bottom sheet |
+| ![A cut: one champion's network alone on the canvas](docs/cut.png) | ![The same map in the Nord dark theme](docs/dark.png) | <img src="docs/mobile.png" alt="Phone layout: a two-line bottom bar with popover menus and a bottom-sheet node card" width="270"> |
+| The scissors keeps just the selected network - here the 2018 Capitals, shareable as `?focus=cup-2018&cut=1` | The same map in Nord, one of six themes (two light, four dark) | Phones get a compact two-line bar docked at the bottom (Filters, Eras, and Theme open as popovers), and node cards dock as a bottom sheet |
 
 ## Deep links
 
@@ -107,7 +116,8 @@ exact view - filters, selection, and cut included:
 | UI shell | **Svelte 4** + **TypeScript** |
 | Layout physics | **d3-force** (nodes push apart, teammates pull together, collisions keep it tidy) drawn on **Canvas 2D** |
 | Pan / zoom | **d3-zoom** |
-| Dynasty clusters | **graphology** + `communities-louvain` - build-time only, in the data pipeline; not shipped in the bundle |
+| Team colours | node & link colours keyed on each Cup's team, blended per player (build-time + view-relative) |
+| Dynasty clusters | **graphology** + `communities-louvain` - build-time only; still baked into the dataset, though the on-screen "Dynasty" colouring now keys on team |
 | Tests | **vitest** unit suite + **Playwright** e2e against the built file (desktop Chrome & Safari, phone portrait & landscape) |
 
 ```bash

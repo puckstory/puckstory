@@ -17,7 +17,7 @@ permission notices those licenses require to accompany redistributed copies.
 | Component | License | Copyright |
 |---|---|---|
 | Svelte | MIT | Copyright (c) 2016-23 [Svelte contributors](https://github.com/sveltejs/svelte/graphs/contributors) |
-| d3-force, d3-selection, d3-zoom | ISC | Copyright 2010-2021 Mike Bostock |
+| d3-force, d3-selection, d3-zoom, and their bundled dependencies d3-color, d3-dispatch, d3-drag, d3-ease, d3-interpolate, d3-quadtree, d3-timer, d3-transition | ISC | Copyright 2010-2021 Mike Bostock |
 
 ### MIT License (Svelte)
 
@@ -38,7 +38,7 @@ permission notices those licenses require to accompany redistributed copies.
 > DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### ISC License (d3-force, d3-selection, d3-zoom)
+### ISC License (all d3 modules above)
 
 > Copyright 2010-2021 Mike Bostock
 >

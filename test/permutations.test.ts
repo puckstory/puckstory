@@ -15,7 +15,9 @@ function expected(eras: Era[], positions:{F:boolean;D:boolean;G:boolean}, multi:
   for (const p of d.players) {
     let rcc=0; for (const c of p.cups) if (inEras(c.year,eras)) rcc++
     const g = posGroup(p.position)
-    if (rcc>=1) { statPlayers++; if (rcc>=2) statMulti++; posCounts[g]++ }
+    // posCounts mirror the canvas: with 2+ on, only multi-Cup players count (statPlayers/statMulti
+    // stay era totals). No playback here, so no pb branch.
+    if (rcc>=1) { statPlayers++; if (rcc>=2) statMulti++; if (!multi || rcc>=2) posCounts[g]++ }
     let ok = rcc>=1 && positions[g]; if (multi && rcc<2) ok=false
     if (ok) visPlayers++
   }
@@ -43,7 +45,7 @@ const gv = new GraphView(canvas as any, model, { eras:ERAS[0], positions:POS[0],
 
 describe('exhaustive display permutations', () => {
   let n = 0
-  for (const layoutMode of ['network','timeline'] as LayoutMode[])
+  for (const layoutMode of ['network','hybrid','timeline'] as LayoutMode[])
    for (const colorMode of ['position','dynasty'] as ColorMode[])
     for (const multiOnly of [false,true])
      for (const positions of POS)
@@ -74,7 +76,7 @@ describe('exhaustive display permutations', () => {
           }
         })
       }
-  it(`ran all ${n} permutations`, () => { expect(n).toBe(2*2*2*5*7) })
+  it(`ran all ${n} permutations`, () => { expect(n).toBe(3*2*2*5*7) }) // 3 layout modes × 2 colour × 2 multi × 5 pos × 7 eras
 })
 
 describe('timeline wrapped grid (champions laid chronologically into a 2D grid)', () => {

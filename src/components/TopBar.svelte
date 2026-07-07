@@ -4,8 +4,8 @@
    *
    * Every control the user touches: the search box, the Fit / Link / Undo / Reset / Cut / Redo
    * action grid, the era pills and From / To year boxes, the position (F/D/G) and Multi-Cup
-   * filters, the Position/Dynasty and Network/Timeline toggles, the theme swatches, the GitHub
-   * link, and the hide button - plus the phone-only accordion submenus that regroup them.
+   * filters, the Position/Dynasty and Network/Hybrid/Timeline toggles, the theme swatches, the GitHub
+   * link, and the hide button - plus the phone-only popover submenus that regroup them.
    * It holds no graph state of its own - each control calls back into App.svelte
    * (change / reset / fit / onPick / ...), which drives GraphView.
    */
@@ -59,7 +59,7 @@
   export let searchItems: SearchItem[] = []
   export let onPick: (item: SearchItem) => void
   export let onConnect: (from: SearchItem, to: SearchItem) => void = () => {}
-  // announced just BEFORE the bar changes height (submenu toggles), so the graph stays put
+  // announced before a chrome change that could shift the bar's height (hide/restore, desktop layout) so the graph transform stays pinned and doesn't jump - submenu popovers no longer resize the bar, so that is no longer a trigger
   export let onLayoutShift: () => void = () => {}
   export let onStory: (s: Story) => void = () => {}
 
@@ -123,24 +123,35 @@
     const from = connectFrom
     connectFrom = null
     query = ''; open = false; active = -1
-    searchEl?.blur() // dismiss the mobile keyboard - tapping the canvas to do it would deselect
+    // dismiss the mobile keyboard - tapping the canvas to do it would deselect. TOUCH ONLY:
+    // on desktop the search pick is the keyboard path to the card, and blurring dropped a
+    // keyboard user onto <body> (a full re-Tab through the bar) after every single pick
+    if (isCoarsePointer()) searchEl?.blur()
     if (from) onConnect(from, item)
     else onPick(item)
   }
   function pickStory(s: Story) {
     query = ''; open = false; active = -1
-    searchEl?.blur()
+    if (isCoarsePointer()) searchEl?.blur() // touch only - see pickResult
     onStory(s)
   }
   function onSearchKey(e: KeyboardEvent) {
     if (e.key === 'ArrowDown' && results.length) { e.preventDefault(); open = true; active = (active + 1) % results.length }
     else if (e.key === 'ArrowUp' && results.length) { e.preventDefault(); open = true; active = (active <= 0 ? results.length : active) - 1 }
-    else if (e.key === 'Enter' && results.length) { e.preventDefault(); pickResult(results[active >= 0 && active < results.length ? active : 0]) }
+    else if (e.key === 'Enter' && results.length) {
+      e.preventDefault()
+      const item = results[active >= 0 && active < results.length ? active : 0]
+      // Shift+Enter is the keyboard 6°: arm the connector on the highlighted result instead of
+      // picking it (the visual 6° button is pointer-only - aria-hidden, out of the Tab order)
+      if (e.shiftKey && !connectFrom) armConnect(item)
+      else pickResult(item)
+    }
     else if (e.key === 'Escape') {
       // first Esc only disarms the connector; the highlight resets too - disarming lets the
       // armed item back into the list, which would silently shift a kept index onto another row
       if (connectFrom) { connectFrom = null; active = -1; return }
-      query = ''; open = false; active = -1; searchEl?.blur()
+      query = ''; open = false; active = -1
+      if (isCoarsePointer()) searchEl?.blur() // touch only - see pickResult
     }
   }
 
@@ -149,15 +160,30 @@
   function onDocClick(e: PointerEvent) {
     const t = e.target as HTMLElement
     if (open && !t.closest?.('.tb-searchwrap')) { open = false; active = -1 }
+    // a tap outside an open submenu (its header + popover body live inside .msec) closes it, like the
+    // search dropdown - so tapping the graph dismisses a Filters/Eras popover instead of stranding it
+    if (openSection && !t.closest?.('.msec')) closeSection()
+  }
+  // Escape closes an open submenu too (mirrors the search dropdown's Escape). Playback owns Escape
+  // while a show runs, but the top bar is hidden then, so there is no conflict.
+  function onWinKey(e: KeyboardEvent) { if (e.key === 'Escape' && openSection) closeSection(true) }
+  // every submenu now opens as a popover (absolute, no reflow), so closing never changes the bar
+  // height. Keyboard closes (Escape) return focus to the section's header - display:none would
+  // otherwise strand it on <body>; pointer closes leave focus where the tap put it.
+  let secH: Record<string, HTMLButtonElement | undefined> = {}
+  function closeSection(refocus = false) {
+    if (refocus && openSection) secH[openSection]?.focus()
+    openSection = null
   }
 
-  // On phones, Eras / Filters / Theme are accordion SUBMENUS: each collapses to one summary row
-  // and only one opens at a time, so the bar stays short (all closed = three header buttons +
-  // the action row; the ▴ hide button hands the whole screen to the graph). Session-local, all
-  // closed by default. Desktop renders the wrappers as display:contents - no change there.
+  // On phones the bar docks at the BOTTOM in two rows: row 1 is search + the Filters and Eras submenu
+  // headers, row 2 is the Theme icon-button + the icon actions + hide. Only one submenu opens at a
+  // time; all three (Filters, Eras, Theme) open as popovers above their own header. The ▾ hide button
+  // hands the whole screen to the graph. Session-local, all closed by default. Desktop renders the
+  // wrappers as display:contents - no change there.
   let openSection: 'eras' | 'filters' | 'theme' | null = null
   const toggleSection = (s: 'eras' | 'filters' | 'theme') => {
-    onLayoutShift() // the bar is about to change height - the graph must stay pinned (App → GraphView)
+    onLayoutShift() // keep the graph transform pinned across the toggle (App → GraphView)
     openSection = openSection === s ? null : s
   }
   $: eraSummary = (() => {
@@ -175,7 +201,7 @@
     (['F', 'D', 'G'] as const).some((g) => !state.positions[g])
       ? 'no ' + (['F', 'D', 'G'] as const).filter((g) => !state.positions[g]).join('/') : '',
     state.colorMode === 'dynasty' ? 'Dynasty' : 'Position',
-    state.layoutMode === 'timeline' ? 'Timeline' : 'Network',
+    state.layoutMode === 'timeline' ? 'Timeline' : state.layoutMode === 'hybrid' ? 'Hybrid' : 'Network',
   ].filter(Boolean).join(' · ')
   $: curTheme = THEMES.find((t) => t.id === theme) ?? THEMES[0]
 
@@ -203,16 +229,20 @@
   }
 </script>
 
-<svelte:window on:pointerdown={onDocClick} />
+<svelte:window on:pointerdown={onDocClick} on:keydown={onWinKey} />
 
 <div class="topbar">
   <div class="tb-searchwrap">
     <input class="tb-search" placeholder={connectFrom ? `Connect ${connectFrom.label} to…` : 'Search players / teams…'}
       aria-label={connectFrom ? `Connect ${connectFrom.label} to another player or team` : 'Search players and teams'} autocomplete="off"
       role="combobox" aria-expanded={open} aria-controls="tb-results" aria-autocomplete="list"
-      aria-activedescendant={active >= 0 ? `tb-opt-${active}` : undefined}
+      aria-activedescendant={active >= 0 ? `tb-opt-${active}` : undefined} aria-describedby="tb-search-hint"
       bind:this={searchEl} bind:value={query}
       on:focus={() => (open = true)} on:input={() => (open = true)} on:keydown={onSearchKey} />
+    <!-- the keyboard mirror of the pointer-only 6° button (which is aria-hidden: an interactive
+         child would flatten into every option's announced name and fight the activedescendant
+         focus model) - announced once when the box takes focus -->
+    <span class="sr-only" id="tb-search-hint">Shift plus Enter connects the highlighted result to another player or team through Six Degrees</span>
     <!-- the panel stays mounted for ANY open state: a typo that matches nothing gets an explicit
          "no matches" row instead of the whole dropdown vanishing mid-keystroke -->
     {#if open}
@@ -235,16 +265,23 @@
         <!-- mousedown|preventDefault (action-less) stops the input's blur from dismissing the
              dropdown before a pick can land; the ACTION rides on click, which keyboards fire
              too (Enter/Space on a focused button) - action-on-mousedown left Tab users dead -->
+        <!-- APG combobox: the ROW is the option and must have no interactive descendants in the
+             a11y tree - the option's announced name is its flattened content. Keyboard runs
+             entirely through the input (arrows highlight, Enter picks, Shift+Enter connects), so
+             the row itself is never focused; the 6° button is pointer-only chrome (aria-hidden,
+             out of the Tab order) whose action Shift+Enter mirrors. -->
         {#each results as r, i}
+          <!-- svelte-ignore a11y-click-events-have-key-events a11y-no-static-element-interactions a11y-interactive-supports-focus -->
           <div class="tb-result" class:active={i === active} class:dim={!!r.hiddenNote}
-            id="tb-opt-{i}" role="option" aria-selected={i === active}>
-            <button class="r-main" on:mousedown|preventDefault={() => {}} on:click={() => pickResult(r)}>
+            id="tb-opt-{i}" role="option" aria-selected={i === active}
+            on:mousedown|preventDefault={() => {}} on:click={() => pickResult(r)}>
+            <span class="r-main">
               <span class="r-label">{r.label}</span><span class="r-sub">{r.sub}</span>
               {#if r.hiddenNote}<span class="r-note">{r.hiddenNote}</span>{/if}
-            </button>
+            </span>
             {#if !connectFrom}
-              <button class="r-deg" on:mousedown|preventDefault={() => {}} on:click={() => armConnect(r)}
-                aria-label={`Six Degrees - connect ${r.label} to another player or team`}
+              <button class="r-deg" tabindex="-1" aria-hidden="true"
+                on:mousedown|preventDefault={() => {}} on:click|stopPropagation={() => armConnect(r)}
                 use:tip={'Six Degrees - find the shortest teammate chain to another player or team'}>6°</button>
             {/if}
           </div>
@@ -307,13 +344,15 @@
 
   <span class="divider"></span>
 
-  <!-- On phones each .msec is an accordion submenu (header row + collapsible body); on desktop
-       the wrappers are display:contents and the headers display:none - the flex row is untouched. -->
+  <!-- On phones each .msec is a bottom-bar submenu (header + body); the Eras/Filters bodies open as
+       upward popovers above their header, and Theme's body opens the same way. On desktop the
+       wrappers are display:contents and the headers display:none - the flex row is untouched. -->
   <div class="msec msec-eras" class:mopen={openSection === 'eras'}>
-    <button class="msec-h" on:click={() => toggleSection('eras')} aria-expanded={openSection === 'eras'}>
+    <button class="msec-h" bind:this={secH.eras} on:click={() => toggleSection('eras')}
+      aria-expanded={openSection === 'eras'} aria-controls="msec-b-eras">
       <span class="mh-t">Eras</span><span class="mh-s">{eraSummary}</span><svg class="mh-c" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
     </button>
-    <div class="msec-b">
+    <div class="msec-b" id="msec-b-eras">
       <div class="grp">
         <!-- --mob-order: the phone menu lists eras most-recent-first (CSS `order`); tying the
              value to the data here keeps it correct if an era is ever added or reordered -->
@@ -348,10 +387,11 @@
   <span class="divider"></span>
 
   <div class="msec msec-filt" class:mopen={openSection === 'filters'}>
-    <button class="msec-h" on:click={() => toggleSection('filters')} aria-expanded={openSection === 'filters'}>
+    <button class="msec-h" bind:this={secH.filters} on:click={() => toggleSection('filters')}
+      aria-expanded={openSection === 'filters'} aria-controls="msec-b-filters">
       <span class="mh-t">Filters</span><span class="mh-s">{filterSummary}</span><svg class="mh-c" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
     </button>
-    <div class="msec-b">
+    <div class="msec-b" id="msec-b-filters">
       <div class="grp posgrid">
         <button class="pill multi" class:on={state.multiOnly} aria-pressed={state.multiOnly}
           on:click={() => change({ multiOnly: !state.multiOnly })}
@@ -376,11 +416,19 @@
           <button class:on={state.colorMode === 'dynasty'} aria-pressed={state.colorMode === 'dynasty'}
             on:click={() => change({ colorMode: 'dynasty' })} aria-label="Colour by dynasty">Dynasty</button>
         </div>
-        <div class="seg" role="group" aria-label="Layout">
+        <!-- Layout toggle: text on desktop, icons on phones (CSS swaps .seg-tx <-> .seg-ic). aria-label
+             carries the name for both. Network = connected hub; Hybrid = a connected chain flowing down
+             (network ordered by time); Timeline = a grid of nodes (chronological rows). -->
+        <div class="seg seg-layout" role="group" aria-label="Layout">
           <button class:on={state.layoutMode === 'network'} aria-pressed={state.layoutMode === 'network'}
-            on:click={() => change({ layoutMode: 'network' })} aria-label="Network layout">Network</button>
+            on:click={() => change({ layoutMode: 'network' })} aria-label="Network layout">
+            <svg class="seg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" aria-hidden="true"><path d="M12 12 5 6M12 12 19 7M12 12 7 19M12 12 18 18"/><circle cx="12" cy="12" r="2.4" fill="currentColor" stroke="none"/><circle cx="5" cy="6" r="1.9" fill="currentColor" stroke="none"/><circle cx="19" cy="7" r="1.9" fill="currentColor" stroke="none"/><circle cx="7" cy="19" r="1.9" fill="currentColor" stroke="none"/><circle cx="18" cy="18" r="1.9" fill="currentColor" stroke="none"/></svg><span class="seg-tx">Network</span></button>
+          <button class:on={state.layoutMode === 'hybrid'} aria-pressed={state.layoutMode === 'hybrid'}
+            on:click={() => change({ layoutMode: 'hybrid' })} aria-label="Hybrid layout: network blob ordered by year">
+            <svg class="seg-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 5 13 11 8 16 18 19"/><circle cx="6" cy="5" r="1.9" fill="currentColor" stroke="none"/><circle cx="13" cy="11" r="1.9" fill="currentColor" stroke="none"/><circle cx="8" cy="16" r="1.9" fill="currentColor" stroke="none"/><circle cx="18" cy="19" r="1.9" fill="currentColor" stroke="none"/></svg><span class="seg-tx">Hybrid</span></button>
           <button class:on={state.layoutMode === 'timeline'} aria-pressed={state.layoutMode === 'timeline'}
-            on:click={() => change({ layoutMode: 'timeline' })} aria-label="Timeline layout">Timeline</button>
+            on:click={() => change({ layoutMode: 'timeline' })} aria-label="Timeline layout">
+            <svg class="seg-ic" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><circle cx="5" cy="6" r="1.5"/><circle cx="11" cy="6" r="1.5"/><circle cx="17" cy="6" r="1.5"/><circle cx="5" cy="12" r="1.5"/><circle cx="11" cy="12" r="1.5"/><circle cx="17" cy="12" r="1.5"/><circle cx="5" cy="18" r="1.5"/><circle cx="11" cy="18" r="1.5"/><circle cx="17" cy="18" r="1.5"/></svg><span class="seg-tx">Timeline</span></button>
         </div>
       </div>
     </div>
@@ -390,10 +438,11 @@
 
   <div class="tb-actions">
     <div class="themewrap msec" class:mopen={openSection === 'theme'}>
-      <button class="msec-h" on:click={() => toggleSection('theme')} aria-expanded={openSection === 'theme'}>
+      <button class="msec-h" bind:this={secH.theme} on:click={() => toggleSection('theme')}
+        aria-expanded={openSection === 'theme'} aria-controls="msec-b-theme">
         <span class="mh-t">Theme</span><span class="mh-s">{curTheme.label}</span><svg class="mh-c" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
-      <div class="msec-b">
+      <div class="msec-b" id="msec-b-theme">
         <!-- the swatch strip shows inline on desktop; on phones it is the Theme submenu's body -->
         <div class="themegrid" role="group" aria-label="Colour theme">
           {#each THEMES as t}

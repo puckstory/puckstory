@@ -1,10 +1,10 @@
 import { describe, it, expect } from 'vitest'
-import { buildModel, DATA } from '../src/lib/model'
+import { buildModel, DATA, teamColor } from '../src/lib/model'
 
 // Dynasty communities are PRECOMPUTED by data-pipeline/communities.mjs (seeded Louvain, baked into
-// dataset.json) so the graph libraries stay out of the bundle. The reproducibility guarantee -
-// a reload or a shared ?color=dynasty deep-link always shows the same clusters - now rests on the
-// dataset carrying sane community ids and the runtime colour derivation staying deterministic.
+// dataset.json) and still carried by every record. They no longer drive the on-screen colour -
+// the "dynasty" colouring now follows each node's TEAM (a blend for multi-team players) - but the
+// community ids remain part of the dataset, so these guard that they stay sane and deterministic.
 describe('precomputed dynasty communities', () => {
   const d = DATA as any
   it('every champion and player record carries a community id', () => {
@@ -29,14 +29,8 @@ describe('precomputed dynasty communities', () => {
       expect(n2.dynastyColor).toBe(n1.dynastyColor)
     }
   })
-  it('a player split across communities still gets an rgb() blend of his clusters', () => {
+  it('dynasty colour follows the TEAM, not the community: every Cup wears its own team colour', () => {
     const m = buildModel()
-    const split = m.nodes.find((n) => {
-      if (n.type !== 'player') return false
-      const comms = new Set(n.cups!.map((c) => m.nodeById.get('cup-' + c.year)?.community))
-      return comms.size >= 2
-    })
-    expect(split).toBeTruthy()
-    expect(split!.dynastyColor!.startsWith('rgb(')).toBe(true)
+    for (const c of m.cups) expect(c.dynastyColor).toBe(teamColor(c.abbr))
   })
 })

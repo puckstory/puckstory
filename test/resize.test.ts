@@ -29,15 +29,31 @@ describe('timeline grid reshapes to the window aspect on resize/reflow', () => {
     rect(1280, 720); gv.destroy()
   })
 
-  it('the partial final grid row is centred on the grid centre-line (not left-aligned)', () => {
+  it('the grid snakes: each row starts directly below where the previous one ended, directions alternating', () => {
     rect(1280, 720)
     const gv: any = new GraphView(document.createElement('canvas'), model, { ...base, eras: [{ start: 1915, end: 2026 }] },
       { onStats: noop, onHover: noop })
-    const cups = model.nodes.filter((n: any) => n.vis && n.type === 'cup')
-    const lastY = Math.max(...cups.map((c: any) => Math.round((c as any)._ty)))
-    const lastRowTx = cups.filter((c: any) => Math.round((c as any)._ty) === lastY).map((c: any) => (c as any)._tx)
-    const mid = (Math.min(...lastRowTx) + Math.max(...lastRowTx)) / 2
-    expect(Math.abs(mid)).toBeLessThan(1) // symmetric about x=0
+    // group the pinned cups into rows by _ty, chronological within each row
+    const cups = model.nodes.filter((n: any) => n.vis && n.type === 'cup') as any[]
+    const byRow = new Map<number, any[]>()
+    for (const c of cups) {
+      const y = Math.round(c._ty)
+      if (!byRow.has(y)) byRow.set(y, [])
+      byRow.get(y)!.push(c)
+    }
+    const rowsTop = [...byRow.keys()].sort((a, b) => a - b).map((y) => byRow.get(y)!.sort((a, b) => a.year - b.year))
+    expect(rowsTop.length).toBeGreaterThan(2)
+    for (let r = 0; r + 1 < rowsTop.length; r++) {
+      const row = rowsTop[r], next = rowsTop[r + 1]
+      // the serpentine handoff: the year after a row's last sits in the SAME column one row down
+      // (1950 directly under 1949) - including the short final row, which aligns to the snake
+      expect(Math.abs(row[row.length - 1]._tx - next[0]._tx), `row ${r} -> row ${r + 1} handoff`).toBeLessThan(1)
+      // and consecutive rows run in opposite directions (even L->R, odd R->L)
+      if (row.length > 1 && next.length > 1) {
+        const dir = (rw: any[]) => Math.sign(rw[rw.length - 1]._tx - rw[0]._tx)
+        expect(dir(row) * dir(next), `rows ${r}/${r + 1} alternate direction`).toBe(-1)
+      }
+    }
     rect(1280, 720); gv.destroy()
   })
 

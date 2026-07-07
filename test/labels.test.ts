@@ -170,3 +170,52 @@ describe('edge passes (render.draw)', () => {
     expect(hlMoves).toHaveLength(1)
   })
 })
+
+// A selection lands with focus fully OFF and eases in (focusT 0 -> 1). The selected network's edges are
+// skipped by the base pass immediately, so if the highlight pass faded them in from alpha 0 they dipped
+// darker than the base for the first frames - reading as "the edges disappear then reappear". Guard that
+// the highlight opacity never drops below the base edge alpha.
+describe('highlighted-edge crossfade on select (no disappear-then-reappear)', () => {
+  // records the strokeStyle in effect at each stroke(), so we can read the highlight pass's alpha
+  function strokeMock(strokes: string[]): CanvasRenderingContext2D {
+    let strokeStyle = ''
+    const target: Record<string, unknown> = {
+      measureText: (t: string) => ({ width: t.length * 6 }),
+      stroke: () => strokes.push(strokeStyle),
+    }
+    return new Proxy(target, {
+      get(o, k: string) { if (k === 'strokeStyle') return strokeStyle; if (!(k in o)) o[k] = () => {}; return o[k] },
+      set(o, k: string, v) { if (k === 'strokeStyle') strokeStyle = String(v); else o[k] = v; return true },
+    }) as unknown as CanvasRenderingContext2D
+  }
+  const alphaOf = (rgba: string) => Number(/,\s*([\d.]+)\)\s*$/.exec(rgba)?.[1])
+
+  it('mid-transition the selected edges stay >= the base opacity (never dip on the way in)', () => {
+    const a = player('a', 'A', 350, 300), b = player('b', 'B', 450, 300)
+    const link = { source: a, target: b } as GLink
+    const edgeAlpha = 0.46
+    for (const focusT of [0.25, 0.5, 0.75, 1]) { // sample the whole ease-in
+      const strokes: string[] = []
+      draw(strokeMock(strokes), state([a, b], {
+        links: [link], hoverSet: new Set(['a', 'b']), focusT, edgeAlpha, hlEdge: '255,215,0',
+      }))
+      const hl = strokes.find((s) => s.includes('255,215,0')) // the highlight-edge pass
+      expect(hl, `highlight pass ran at focusT=${focusT}`).toBeTruthy()
+      expect(alphaOf(hl!)).toBeGreaterThanOrEqual(edgeAlpha) // never below base -> no disappear
+    }
+  })
+
+  it('the highlight brightens monotonically from the base alpha to the lit 0.72', () => {
+    const a = player('a', 'A', 350, 300), b = player('b', 'B', 450, 300)
+    const link = { source: a, target: b } as GLink
+    const edgeAlpha = 0.30
+    const hlAlpha = (focusT: number) => {
+      const strokes: string[] = []
+      draw(strokeMock(strokes), state([a, b], { links: [link], hoverSet: new Set(['a', 'b']), focusT, edgeAlpha, hlEdge: '255,215,0' }))
+      return alphaOf(strokes.find((s) => s.includes('255,215,0'))!)
+    }
+    expect(hlAlpha(0)).toBeCloseTo(edgeAlpha, 5) // starts at the base (seamless hand-off, no dip)
+    expect(hlAlpha(1)).toBeCloseTo(0.72, 5)      // ends at the full lit weight
+    expect(hlAlpha(0.5)).toBeGreaterThan(hlAlpha(0.25)) // only ever brightens
+  })
+})

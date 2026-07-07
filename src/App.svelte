@@ -4,12 +4,13 @@
    *
    * Owns the top-level view state, builds the search index, creates the GraphView on mount and
    * relays every control change to it, and renders the chrome layered over the canvas: the top
-   * bar, the node card (a hover tooltip on desktop, a docked bottom sheet on touch), the guidance
+   * bar, the node card (a hover tooltip on desktop, a right-corner card with per-Cup rows on tablets, a
+   * docked bottom-sheet one-liner on phones), the guidance
    * overlays for the empty states, and the floating restore button. The graph itself is drawn on
    * the <canvas> by GraphView - this file is the glue between the controls and that engine.
    */
   import { onMount, onDestroy, tick, afterUpdate } from 'svelte'
-  import { buildModel, DATA, teamColor, posFull, inEras, mergeEras, ERA_PRESETS } from './lib/model'
+  import { buildModel, DATA, teamColor, posFull, posGroup, inEras, mergeEras, ERA_PRESETS } from './lib/model'
   import { GraphView, type RangeStats, type PlaybackState } from './lib/graphview'
   import type { ViewState, GNode, Era } from './lib/types'
   import { parseView, viewToQuery, defaultState } from './lib/urlstate'
@@ -20,7 +21,7 @@
   import { applyTheme, loadTheme, type ThemeId } from './lib/theme'
   import { connSmytheSvgPath, CAPTAIN_C_PATH } from './lib/render'
   import { tip as uitip } from './lib/tip'
-  import { isCoarsePointer } from './lib/env'
+  import { isCoarsePointer, isCornerCard } from './lib/env'
   import TopBar from './components/TopBar.svelte'
 
   // Conn Smythe Trophy silhouette (maple-leaf-on-a-base), shown in place of a trophy emoji
@@ -70,6 +71,10 @@
   // where it lands under the finger, covers the node just tapped, and jumps with every tap.
   // Desktop keeps the cursor-following tooltip (hover exists there).
   const dockTip = isCoarsePointer() // must agree with GraphView's tapTipOnly (same probe)
+  // iPad-class devices dock the card as a right-CORNER card (app.css true-tablet tier), which
+  // changes two things below: the card carries the desktop per-Cup rows (there's room), and it
+  // reserves NO fit inset (it overlays a corner like the desktop tooltip, not a bottom strip)
+  const cornerCard = isCornerCard()
   // short landscape phones start with the chrome hidden - the bar ate 40% of a 360px-tall
   // viewport; the accent ▾ restore button (top-right) brings it back
   let chromeHidden = (() => {
@@ -131,7 +136,7 @@
 
   // ---- undo / redo -------------------------------------------------------------------------
   // Every discrete mutation records a full JSON snapshot of the shareable view (filters +
-  // selection + cut). Simple changes record inside the two funnels - change() and the
+  // selection + cut + chain). Simple changes record inside the two funnels - change() and the
   // onSelection callback; composite actions (a story, a Six Degrees connect, an undo restore)
   // suppress those with the `restoring` flag and record their end state themselves, so one
   // gesture is one undo step.
@@ -139,6 +144,8 @@
   // lib/history.ts (unit-tested there); restores replay wholesale with recording suppressed.
   type Snap = { state: ViewState; ids: string[]; cut: boolean; chain: boolean }
   const snap = (): Snap => ({ state: JSON.parse(JSON.stringify(state)), ids: [...selectedIds], cut: cutActive, chain: chainActive })
+  // the view captured just before "A Brief History of Stanley" ran, so closing the show returns to it
+  let prePlayback: Snap | null = null
   let hist: Hist<Snap> = histInit({ state: JSON.parse(JSON.stringify(state)), ids: [], cut: false, chain: false })
   let restoring = false
   $: canUndo = hist.past.length > 0
@@ -172,13 +179,18 @@
   }
   function onKey(e: KeyboardEvent) {
     // Escape ends a running show - with the top bar gone the only other exits are the
-    // transport's ✕ and Cmd/Ctrl+Z (undo restores the pre-show view, which stops the show),
-    // and Escape is the reflex reach for "stop this"
+    // transport's ✕ and the undo/redo chords (the show is ephemeral, never an undo step, so
+    // mid-show they simply end it, restoring the pre-show view) - and Escape is the reflex
+    // reach for "stop this"
     if (e.key === 'Escape' && pb) { gv?.stopPlayback(); return }
     if (!(e.metaKey || e.ctrlKey)) return
     const t = e.target as HTMLElement
     if (t?.tagName === 'INPUT' || t?.tagName === 'TEXTAREA') return // native text undo stays native
     const k = e.key.toLowerCase()
+    // mid-show, undo/redo mean "get me out": end the show instead of popping history - a pop
+    // would land one step BEFORE the pre-show view (the story never records), and it would
+    // re-enter applySnap from inside restoreView's stopPlayback callback
+    if ((k === 'z' || k === 'y') && pb) { e.preventDefault(); gv?.stopPlayback(); return }
     if (k === 'z') { e.preventDefault(); e.shiftKey ? redo() : undo() }
     else if (k === 'y') { e.preventDefault(); redo() }
   }
@@ -202,11 +214,17 @@
         // BEFORE Svelte tears the panel down, so it can land somewhere useful afterwards
         const hadFocusInBar = ended && !!pbEl && pbEl.contains(document.activeElement)
         pb = st
+        if (!st) editingYear = false // the show closed - drop any half-typed year
         // the show is over (closed, finished with, or interrupted): restore the bar it hid,
         // tell screen readers (the panel just vanishing is otherwise silent), and re-home
         // focus dropped by the unmount
         if (!st && pbHidChrome) { pbHidChrome = false; if (chromeHidden) toggleChrome(false) }
         if (ended) {
+          // return the graph to exactly the view it had before the show started (eras, selection,
+          // cut). If an applySnap is already in flight (its restoreView is what stopped the show),
+          // THAT restore is the exit and owns the target view - drop the stale snapshot rather
+          // than re-entering applySnap from inside itself
+          if (prePlayback) { const p = prePlayback; prePlayback = null; if (!restoring) applySnap(p) }
           announce = 'Playback ended'
           tick().then(() => {
             if (hadFocusInBar || document.activeElement === document.body) {
@@ -232,13 +250,29 @@
     }
     restoring = false
     hist = histInit(snap())
+
+    // Lock browser PAGE zoom so a pinch (or trackpad-pinch) zooms the GRAPH via the canvas's own
+    // d3-zoom, never the whole page - otherwise the fixed menu chrome scales with the visual viewport.
+    // The viewport meta covers Android; iOS Safari ignores it, so kill its pinch gesture events, and
+    // desktop trackpad-pinch arrives as ctrl+wheel. (Desktop keyboard zoom is the browser's own a11y
+    // control and can't be intercepted - and the graph stays fully zoomable, so content zoom is intact.)
+    const noGesture: EventListener = (e) => e.preventDefault()
+    const noCtrlWheel = (e: WheelEvent) => { if (e.ctrlKey) e.preventDefault() }
+    document.addEventListener('gesturestart', noGesture)
+    document.addEventListener('gesturechange', noGesture)
+    document.addEventListener('wheel', noCtrlWheel, { passive: false })
+    return () => {
+      document.removeEventListener('gesturestart', noGesture)
+      document.removeEventListener('gesturechange', noGesture)
+      document.removeEventListener('wheel', noCtrlWheel)
+    }
   })
   onDestroy(() => gv?.destroy())
 
   // Keep the address bar in sync with the view (it used to be read once at boot and never
   // updated): every control,
   // selection, or cut change rewrites the query via replaceState, so the copied URL reproduces
-  // this exact view - filters, selected nodes (?focus=), and cut mode (?cut=1) included.
+  // this exact view - filters, selected nodes (?focus=), cut mode (?cut=1), and Six Degrees chain (?chain=1) included.
   // viewToQuery owns the serialisation (it pins ?eras= whenever a focus rides along). The
   // try/catch guards Safari's replaceState rate quota: a throw here must never abort the
   // caller mid-mutation (it would punch holes in the undo history).
@@ -286,65 +320,68 @@
   function applyStory(s: Story) {
     afterPaint(() => {
       const v = parseView('?' + s.qs, yearsOf, (id) => model.nodeById.has(id))
+      if (s.playback) prePlayback = snap() // remember the current view before the show overwrites it
       applySnap({ state: v.state, ids: v.ids, cut: v.cut, chain: v.chain })
-      record()
       if (s.playback) {
-        // the show, not a snapshot: hand over to the playback engine (it refits every beat).
-        // The top bar leaves for the duration - the transport panel is the only chrome - and
-        // comes back when the show ends. The blurb goes to screen readers only.
+        // the show is EPHEMERAL: hand over to the playback engine (it refits every beat), and DON'T
+        // record an undo step - closing the show restores the pre-story view (prePlayback), so the
+        // story leaves no trace. The top bar leaves for the duration (the transport is the only
+        // chrome) and comes back when the show ends. The blurb goes to screen readers only.
         hoverNode = null
         if (!chromeHidden) { pbHidChrome = true; toggleChrome(true) }
         gv?.startPlayback()
         showFlash(s.blurb, false)
         return
       }
+      record()
       gv?.fit()
-      showFlash(s.blurb, !dockTip) // phones: the story fills the screen; no pill on top of it
+      showFlash(s.blurb) // the blurb pill (top-centre, ~5.6s, wraps if long) - shown on every device
     })
   }
 
-  // live playback state (null = no show running) - drives the floating transport panel
+  // live playback state (null = no show running) - drives the bottom-docked transport panel
   let pb: PlaybackState | null = null
-  // The transport starts docked top-right but the user can grab it (anywhere that isn't a
-  // button) and drag it wherever it blocks the least. null = the default CSS spot; once
-  // dragged it pins to stage coordinates, clamped so it can never strand off-screen.
-  let pbPos: { x: number; y: number } | null = null
-  let pbEl: HTMLDivElement | undefined
-  let pbDragging = false
-  function clampPb(x: number, y: number): { x: number; y: number } {
-    const stage = pbEl?.parentElement?.getBoundingClientRect()
-    const r = pbEl?.getBoundingClientRect()
-    const maxX = Math.max(0, (stage?.width ?? winW) - (r?.width ?? 0))
-    const maxY = Math.max(0, (stage?.height ?? winH) - (r?.height ?? 0))
-    return { x: Math.min(Math.max(0, x), maxX), y: Math.min(Math.max(0, y), maxY) }
+  let pbEl: HTMLDivElement | undefined // the transport panel (kept only for focus-restore on show end)
+  // The transport is fixed at the bottom-centre of the stage. Its year readout doubles as a
+  // jump field: clicking it pauses the show and turns it into an input; typing a year and
+  // pressing Enter jumps the assembly to that year (in whichever direction time is flowing).
+  let editingYear = false
+  let yearInput = ''
+  function startYearEdit() {
+    if (!pb) return
+    if (pb.playing) gv?.playbackToggle() // clicking the year stops the show first
+    yearInput = String(pb.year ?? Y1)
+    editingYear = true
   }
-  function pbDown(e: PointerEvent) {
-    if (!pbEl || (e.target as HTMLElement).closest('button')) return // buttons click, not drag
-    const stage = pbEl.parentElement!.getBoundingClientRect()
-    const r = pbEl.getBoundingClientRect()
-    const offX = e.clientX - r.left, offY = e.clientY - r.top // grab point stays under the finger
-    pbDragging = true
-    pbEl.setPointerCapture(e.pointerId)
-    const move = (ev: PointerEvent) => { pbPos = clampPb(ev.clientX - stage.left - offX, ev.clientY - stage.top - offY) }
-    const up = () => {
-      pbDragging = false
-      // the camera reserves a 64px top strip for the bar; once it's dragged off the top,
-      // reserving a phantom strip would frame content under the bar's new spot instead
-      gv?.setPlaybackTopInset(pbPos && pbPos.y > 72 ? 0 : 64)
-      pbEl?.removeEventListener('pointermove', move)
-      pbEl?.removeEventListener('pointerup', up)
-      pbEl?.removeEventListener('pointercancel', up)
-    }
-    pbEl.addEventListener('pointermove', move)
-    pbEl.addEventListener('pointerup', up)
-    pbEl.addEventListener('pointercancel', up)
-    e.preventDefault() // no text selection mid-drag
+  function commitYear() {
+    if (!editingYear) return
+    editingYear = false
+    const y = parseInt(yearInput, 10)
+    if (!Number.isNaN(y)) gv?.playbackJumpToYear(Math.min(Y1, Math.max(Y0, y))) // clamp to the data span
   }
-  // a window resize re-clamps a dragged transport back into view
-  $: if (pb && pbPos && winW && winH) {
-    const c = clampPb(pbPos.x, pbPos.y)
-    if (c.x !== pbPos.x || c.y !== pbPos.y) pbPos = c
+  function yearKey(e: KeyboardEvent) {
+    if (e.key === 'Enter') { e.preventDefault(); commitYear() }
+    else if (e.key === 'Escape') { e.preventDefault(); editingYear = false } // leave the show where it is
   }
+  // focus + select the year input the instant it appears, so the typed year replaces the old one
+  function focusSelect(node: HTMLInputElement) { node.focus(); node.select() }
+  // the fixed transport reports its real height (it wraps to two rows on narrow screens) so the
+  // camera reserves exactly that bottom strip and frames the show above the bar
+  function pbInset(node: HTMLElement) {
+    const report = () => gv?.setPlaybackInset(node.offsetHeight + 24) // bar height + its bottom gap
+    const ro = new ResizeObserver(report)
+    ro.observe(node); report()
+    return { destroy() { ro.disconnect() } }
+  }
+  // The two play buttons map to the TIME axis, not the internal assemble/peel dir: ◀ plays toward
+  // OLDER years (1915), ▶ toward NEWER years (2026) - so a right arrow always advances the year,
+  // matching the timeline. movingToward is which way time is currently flowing (assembling on an
+  // ascending order climbs to newer; on a descending one it falls to older), so the LIT button
+  // always matches the ticking year. gv.playbackPlay() handles both the lone-pivot pick and the
+  // running-show pause/reverse. 0 = parked pivot (no direction chosen), so neither button lights.
+  $: movingToward = pb && pb.playing ? (pb.fromOldest ? pb.dir : -pb.dir) : 0
+  $: playingOlder = movingToward === -1
+  $: playingNewer = movingToward === 1
   // the show hid the top bar itself (vs the user having hidden it beforehand): only then does
   // ending the show bring the bar back
   let pbHidChrome = false
@@ -419,7 +456,7 @@
     // The span is often the astonishing part (Seattle to Gretzky crosses 67 years) - say it.
     const spanYears = hi - lo
     showFlash(`${a.label} → ${b.label}: connected through ${years.length} Cup${years.length !== 1 ? 's' : ''}`
-      + (spanYears > 0 ? ` spanning ${spanYears} years` : ''), !dockTip)
+      + (spanYears > 0 ? ` spanning ${spanYears} years` : ''))
   }
   // collapse the entire top bar so the graph gets the whole viewport. The graph itself must NOT
   // move or rescale - anchorNextResize pins it to the screen while the stage grows/shrinks.
@@ -427,6 +464,9 @@
     gv?.anchorNextResize()
     chromeHidden = hide
     await tick()
+    // the button that had focus (Hide, or the restore chevron) just unmounted - land focus on its
+    // counterpart so keyboard users aren't stranded on <body> (symmetric with the playback-end path)
+    document.querySelector<HTMLElement>(hide ? '.showchrome' : '[aria-label="Fit view"]')?.focus()
   }
   function reset() {
     // Reset is a HARD reset: nothing it does records, and the history is wiped afterwards -
@@ -446,8 +486,10 @@
   // box at 300px so the horizontal 312 reserve already prevents a right-edge clip.
   afterUpdate(() => {
     if (dockTip) {
-      // reserve the sheet's height at the stage bottom so auto-fit frames content ABOVE it
-      gv?.setBottomInset(hoverNode && tipEl ? tipEl.offsetHeight + 16 : 0)
+      // reserve the sheet's height at the stage bottom so auto-fit frames content ABOVE it - but
+      // NOT for the tablet corner card, which overlays one corner (reserving its height across the
+      // full stage width shoved the whole graph up as if a sheet were open)
+      gv?.setBottomInset(!cornerCard && hoverNode && tipEl ? tipEl.offsetHeight + 16 : 0)
       return
     }
     if (hoverNode && tipEl && hoverNode !== measuredFor) {
@@ -476,7 +518,8 @@
   // Takes the view state and cut flag explicitly so the {@html} expression below re-renders when
   // eras/filters/cut change - Svelte 4 only traces the template's own dependencies, not this
   // function's body. A player card states position + CAREER Cup total; the per-Cup rows (with
-  // era/cut dimming) are DESKTOP-only - the phone sheet is a label, not a directory.
+  // era/cut dimming) belong to desktop AND tablet corner cards - the phone sheet collapses to a
+  // one-line label, not a directory.
   // `sel` is referenced purely so Svelte re-renders the {@html} card when the SELECTION changes:
   // in a cut the desktop rows dim by the keep-set, which moves with the selection.
   function tip(n: GNode, st: ViewState, cut: boolean, sel?: string[]): string {
@@ -488,17 +531,29 @@
       // (champion cards deliberately carry NO roster list - the roster is what the canvas shows)
       return h
     }
+    // dim the Cups the current view excludes; in a cut that is the Cup NODE's visibility
+    // (cut keep-set ∩ era), outside a cut it is the era alone
+    const inRange = (year: number) => cut ? !!model.nodeById.get(`cup-${year}`)?.vis : inEras(year, st.eras)
+    if (dockTip && !cornerCard) {
+      // phones: the whole card collapses to ONE inline line - "Name · F · 2 Cups: 1991 PIT, 1992 PIT"
+      // (the roster is short for a player; it wraps if long). Each Cup that the current view excludes
+      // dims. Tablet corner cards fall through to the desktop rows - a 360px card has the room, and
+      // the one-liner there just wasted it (no swatches, no captain/Conn Smythe marks).
+      const cups = n.cups!.map((c) =>
+        `<span class="tc"${inRange(c.year) ? '' : ' style="opacity:.4"'}>${c.year} ${esc(c.abbr)}`
+        + (inRange(c.year) ? '' : '<span class="sr-only"> (not in the current view)</span>') + `</span>`).join(', ')
+      return `<div class="t-solo"><b>${esc(n.name!)}</b> · ${esc(posGroup(n.position))} · `
+        + `${n.cupCount} Cup${n.cupCount !== 1 ? 's' : ''}: ${cups}</div>`
+    }
+    // desktop + tablet corner card: name, sub, then one row per Cup (swatch + year/team + captain/Conn Smythe marks)
     let h = `<div class="t-name">${esc(n.name!)}</div>`
     h += `<div class="t-sub">${esc(posFull(n.position))} · ${n.cupCount} Cup${n.cupCount !== 1 ? 's' : ''}</div>`
-    if (!dockTip) {
-      for (const c of n.cups!) {
-        // dim the Cup rows the current view excludes; in a cut that is the Cup NODE's visibility
-        // (cut keep-set ∩ era), outside a cut it is the era alone
-        const ir = cut ? !!model.nodeById.get(`cup-${c.year}`)?.vis : inEras(c.year, st.eras)
-        h += `<div class="t-cup" style="opacity:${ir ? 1 : 0.4}"><span class="sw" style="background:${teamColor(c.abbr)}"></span>${c.year} ${esc(c.abbr)}`
-          + (c.captain ? capIcon : '')
-          + (c.connSmythe ? csIcon : '') + `</div>`
-      }
+    for (const c of n.cups!) {
+      // the dimming is opacity-only, which a screen reader can't hear - say it in words too
+      h += `<div class="t-cup" style="opacity:${inRange(c.year) ? 1 : 0.4}"><span class="sw" style="background:${teamColor(c.abbr)}"></span>${c.year} ${esc(c.abbr)}`
+        + (c.captain ? capIcon : '')
+        + (c.connSmythe ? csIcon : '')
+        + (inRange(c.year) ? '' : '<span class="sr-only"> (not in the current view)</span>') + `</div>`
     }
     return h
   }
@@ -526,38 +581,49 @@
 
     {#if chromeHidden && !pb}
       <button class="showchrome" class:pulse={scPulsing} on:click={() => toggleChrome(false)} use:uitip={'Show controls'} aria-label="Show controls">
+        <!-- the exact chevron the Hide button uses, REVERSED: Hide points ^ (collapse the menu away),
+             this points ▾ to pull it back (flipped to ▴ on the bottom-docked phone menu, see app.css) -->
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
     {/if}
 
-    <!-- playback transport for "A Brief History of Stanley": year readout, play/pause,
-         reverse (a U-turn - the action, not the current flow), anchor jump (restart the show
-         from the opposite end of history), speed, and exit. While the show runs this panel is
-         the ONLY chrome - the top bar leaves and returns when the show ends. -->
+    <!-- playback transport for "A Brief History of Stanley": fixed at the bottom-centre of the
+         stage. Year field (click to pause and type a year to jump to), rewind / play (two
+         directional buttons - the lit one is the current direction, click it to pause), anchor
+         jump (restart from the opposite end of history), speed, and exit. While the show runs this
+         panel is the ONLY chrome - the top bar leaves and returns when the show ends. -->
     {#if pb}
-      <!-- svelte-ignore a11y-no-noninteractive-element-interactions - the drag is a pointer-only
-           convenience for repositioning; every control inside is a real, labelled button -->
-      <div class="playbar" class:dragging={pbDragging} bind:this={pbEl} on:pointerdown={pbDown}
-        style={pbPos ? `left:${pbPos.x}px; top:${pbPos.y}px; right:auto` : ''}>
-        <svg class="pb-grip" viewBox="0 0 10 16" fill="currentColor" aria-hidden="true">
-          <circle cx="3" cy="3" r="1.4"/><circle cx="3" cy="8" r="1.4"/><circle cx="3" cy="13" r="1.4"/>
-          <circle cx="7" cy="3" r="1.4"/><circle cx="7" cy="8" r="1.4"/><circle cx="7" cy="13" r="1.4"/>
-        </svg>
-        <span class="pb-year" aria-live="off">{pb.year ?? '–'}</span>
-        <button class="pb-btn" on:click={() => gv?.playbackToggle()} use:uitip={pb.playing ? 'Pause' : 'Play'} aria-label={pb.playing ? 'Pause' : 'Play'}>
-          {#if pb.playing}
+      <div class="playbar" bind:this={pbEl} use:pbInset>
+        {#if editingYear}
+          <input class="pb-year pb-year-edit" type="number" inputmode="numeric" min={Y0} max={Y1}
+            bind:value={yearInput} on:keydown={yearKey} on:blur={commitYear}
+            use:focusSelect aria-label="Jump to year" />
+        {:else}
+          <button class="pb-year" on:click={startYearEdit} use:uitip={'Jump to a year'}
+            aria-label={`Year ${pb.year ?? ''} - click to jump to a specific year`}>{pb.year ?? '–'}</button>
+        {/if}
+        <!-- two directional plays mapped to the TIME axis: ◀ toward older years (1915), ▶ toward
+             newer years (2026), so a right arrow always moves the year up. The LIT one (accent) is
+             the way time is currently flowing - click it to pause, click the other to reverse and
+             play. movingToward (above), derived into playingOlder/playingNewer, resolves the current
+             time direction for either show order, so this stays correct after an anchor swap. -->
+        <button class="pb-btn" class:pb-on={playingOlder} on:click={() => gv?.playbackPlay(-1)}
+          use:uitip={playingOlder ? 'Pause' : 'Older'}
+          aria-label={playingOlder ? 'Pause' : 'Play back toward older years'}>
+          {#if playingOlder}
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1"/><rect x="13.5" y="5" width="4" height="14" rx="1"/></svg>
+          {:else}
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="16 5 5 12 16 19"/></svg>
+          {/if}
+        </button>
+        <button class="pb-btn" class:pb-on={playingNewer} on:click={() => gv?.playbackPlay(1)}
+          use:uitip={playingNewer ? 'Pause' : 'Newer'}
+          aria-label={playingNewer ? 'Pause' : 'Play forward toward newer years'}>
+          {#if playingNewer}
             <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6.5" y="5" width="4" height="14" rx="1"/><rect x="13.5" y="5" width="4" height="14" rx="1"/></svg>
           {:else}
             <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="8 5 19 12 8 19"/></svg>
           {/if}
-        </button>
-        <!-- a U-turn arrow: the ACTION (turn around and unwind the reveals), not the current
-             flow - the ticking year readout already shows which way time is moving -->
-        <button class="pb-btn" on:click={() => gv?.playbackDir()} use:uitip={'Reverse direction'} aria-label="Reverse direction">
-          <!-- road-sign U-turn, American style: up, 180 over the top turning LEFT, back down -->
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M17 19v-8a4 4 0 0 0-8 0v8"/><polyline points="5.5 15.5 9 19 12.5 15.5"/>
-          </svg>
         </button>
         <!-- the jump button names its DESTINATION: the year it will restart the show from -->
         <button class="pb-btn pb-jump" on:click={() => gv?.playbackFlip()}
@@ -583,7 +649,7 @@
     {#if state.eras.length === 0}
       <div class="emptyera">
         <div class="big">No era selected</div>
-        <div class="small">Pick one or more eras from the Eras menu{chromeHidden ? ' (show controls ▾ top-right)' : ' above'}</div>
+        <div class="small">Pick one or more eras from the Eras menu{chromeHidden ? ' (tap the show-controls chevron in the corner)' : ' above'}</div>
       </div>
     {:else if cutActive && stats && stats.visible === 0}
       <div class="emptyera">
@@ -616,7 +682,7 @@
       <div class="tip" class:docked={dockTip} bind:this={tipEl}
         style={dockTip ? '' : `left:${tx}px; top:${ty}px`}>
         {#if dockTip}
-          <button class="tip-close" on:click={() => (hoverNode = null)} aria-label="Dismiss">✕</button>
+          <button class="tip-close" on:click={() => { hoverNode = null; gv?.dismissHover() }} aria-label="Dismiss">✕</button>
         {/if}
         {@html tip(hoverNode, state, cutActive, selectedIds)}
         {#if dockTip && cutActive}

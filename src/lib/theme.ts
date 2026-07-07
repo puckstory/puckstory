@@ -20,7 +20,7 @@ export const THEMES: { id: ThemeId; label: string; accent: string; bg: string }[
   { id: 'solarized-light', label: 'Solarized Light', accent: '#8ecae6', bg: '#fdf6e3' },
 ]
 
-export const DEFAULT_THEME: ThemeId = 'solarized-light'
+export const DEFAULT_THEME: ThemeId = 'amoled'
 const KEY = 'sw-theme'
 
 export function loadTheme(): ThemeId {
