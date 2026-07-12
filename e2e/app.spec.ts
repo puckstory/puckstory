@@ -46,6 +46,20 @@ test('boots clean: title, canvas, controls, zero console errors', async ({ page 
   expect(errors).toEqual([])
 })
 
+test('cold boot fades the solved layout in - never flashes the compact seed then teleports', async ({ page }) => {
+  // the ring SEED used to paint (fitted, so a small centred blob) for the ~300ms the worker took
+  // to solve, then jump to the wide settled layout. Now the canvas is held invisible over the
+  // solid --bg (html/body paint the same colour) until the solve lands, then FADED in via the
+  // 0.4s opacity transition - so there is always an observable sub-1 opacity window, and it ends at 1.
+  await page.emulateMedia({ reducedMotion: 'no-preference' }) // the reveal transition must run
+  await page.goto('/', { waitUntil: 'commit' })
+  const canvas = page.locator('.stage canvas')
+  await canvas.waitFor({ state: 'attached' })
+  const opacity = () => canvas.evaluate((c) => +getComputedStyle(c).opacity)
+  await expect.poll(opacity, { timeout: 3000 }).toBeLessThan(1) // hidden during solve, or mid-fade
+  await expect.poll(opacity, { timeout: 6000 }).toBe(1)         // fully revealed once settled
+})
+
 test('era pills union + URL sync: toggling writes a shareable query string', async ({ page }) => {
   await go(page)
   await openSec(page, 'Eras')
@@ -132,7 +146,7 @@ test('copy-link carries the SELECTION: picking syncs ?focus=, it round-trips, de
   // fitted blob can reach them).
   const bb = (await page.locator('canvas').boundingBox())!
   const emptySpot = { position: { x: bb.width / 2, y: 12 } }
-  await page.waitForTimeout(600) // let the post-reload fit settle so the padding claim holds
+  await page.waitForTimeout(2400) // let the post-reload solve + presentation land so the padding claim holds
   await page.locator('canvas').click(emptySpot)
   await expect(page).toHaveURL(/cut=1/)
   await expect(page.getByLabel('Cut to selection')).toHaveAttribute('aria-pressed', 'true')
@@ -140,7 +154,7 @@ test('copy-link carries the SELECTION: picking syncs ?focus=, it round-trips, de
   // un-cut first; only then does a background tap deselect, clearing both params
   await page.getByLabel('Cut to selection').click()
   await expect(page).not.toHaveURL(/cut=/)
-  await page.waitForTimeout(600) // the un-cut refits; wait for the camera before the empty-spot tap
+  await page.waitForTimeout(2400) // the un-cut refits via solve + choreographed wave (~1.7-2.4s); wait it out before the empty-spot tap
   await page.locator('canvas').click(emptySpot)
   await expect(page).not.toHaveURL(/focus=/)
   await expect(page.getByLabel('Cut to selection')).toBeDisabled()
@@ -226,6 +240,30 @@ test('Stories: an empty focused search box offers curated views; picking one app
   await page.getByLabel('Undo').click() // one story = one undo step, straight back to the start
   await expect(page).not.toHaveURL(/cut=/)
   await expect(page).not.toHaveURL(/focus=/)
+})
+
+test('a story lays its map out FIRST, then fades its network in (highlight deferred until the transition lands)', async ({ page }) => {
+  await page.emulateMedia({ reducedMotion: 'no-preference' }) // the deferred fade must actually run
+  await go(page)
+  await page.waitForTimeout(2600) // the boot presentation settles
+  await page.getByRole('combobox').click()
+  await page.getByRole('button', { name: /The Boys on the Bus/ }).click() // Cap -> Dynasties: a real map transition
+  // sample the eased dim (focusT) while the map animates: it must stay ~0 for EVERY animating
+  // frame (map settling un-highlighted), then rise to 1 once the transition has landed
+  const trace: { focusT: number; animating: boolean }[] = await page.evaluate(() => new Promise((res) => {
+    const seen: { focusT: number; animating: boolean }[] = []
+    const iv = setInterval(() => {
+      const f = (window as any).__pkFocus?.()
+      if (f) seen.push({ focusT: f.focusT, animating: f.animating })
+      // stop once the animation has run AND finished
+      if ((f && !f.animating && seen.some((s) => s.animating)) || seen.length > 80) { clearInterval(iv); res(seen) }
+    }, 50)
+  }))
+  expect(trace.some((s) => s.animating), 'the map actually transitioned').toBe(true)
+  // the connection stays dark (focusT ~0) throughout the map's motion - it does not fade in early
+  expect(trace.filter((s) => s.animating).every((s) => s.focusT < 0.15)).toBe(true)
+  // ...and once settled it lights fully
+  await expect.poll(() => page.evaluate(() => (window as any).__pkFocus?.().focusT ?? 0), { timeout: 4000 }).toBe(1)
 })
 
 test('A Brief History of Stanley: fixed transport marches back in time, plays home, ends restoring the pre-show view', async ({ page }) => {
@@ -320,6 +358,28 @@ test('Six Degrees: the 6° search button connects two players with a shareable c
   await expect(page).toHaveURL(/lemieux/)
   await expect(page).toHaveURL(/gretzky/)
   await expect(page).toHaveURL(/chain=1/)
+})
+
+test('Reset from a cut restores the WHOLE era painted, not just the cut network', async ({ page }) => {
+  await go(page)
+  await page.waitForTimeout(2600) // boot presentation settles
+  const box = page.getByRole('combobox')
+  await box.fill('washington'); await box.press('Enter')          // selects the WSH 2018 Cup
+  await expect(page).toHaveURL(/focus=cup-2018/)
+  await page.getByLabel('Cut to selection').click()               // cut to just that network
+  await expect(page).toHaveURL(/cut=1/)
+  await page.getByLabel('Reset').click()                          // start over
+  await expect(page).not.toHaveURL(/focus=/)
+  await expect(page).not.toHaveURL(/cut=/)
+  await page.waitForTimeout(3200) // the reset transition settles
+  // Reset fires applyFilters twice (clearSelection + setState), so the first solve - which staged
+  // every re-shown champion as an entrance - is dropped stale; without settling those entrances
+  // they strand at _enter=0 (visible + positioned yet never PAINTED). nodeScreen returns null for
+  // an unpainted node, so every one of these non-selected cups must report a real position.
+  const painted = await page.evaluate(() =>
+    ['cup-2010', 'cup-2016', 'cup-2020', 'cup-2022', 'cup-2008', 'cup-2024']
+      .filter((id) => (window as any).__pkNodeScreen?.(id) !== null).length)
+  expect(painted).toBe(6) // the whole cap era is drawn (0 was the stranding bug)
 })
 
 test('Six Degrees re-enables the filters a chain needs: position pills and the 2+ filter', async ({ page }) => {

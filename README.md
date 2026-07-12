@@ -18,10 +18,10 @@ champion to light up its entire roster.
 
 ## A few views
 
-| Hybrid (the default) | Timeline | Select a champion |
+| Network (the default) | Timeline | Select a champion |
 |:--:|:--:|:--:|
-| ![The default Hybrid view of the salary-cap era](docs/hero.png) | ![Every champion since 1915 in chronological rows](docs/timeline.png) | ![The 2018 Capitals lit up against the faded era](docs/focus.png) |
-| The current era in the default **Hybrid** layout - seeded from the timeline, then relaxed into a blob that still runs oldest (top) to newest (bottom). Coloured by **team** (the **Dynasty** mode); bigger dots mean more Cups | Timeline layout: every champion since 1915 in order, each roster gathered around its Cup | Click a Cup (or pick anything from search) and its network lights up, names appearing where there is room; the rest of the era fades back |
+| ![The default Network view of the salary-cap era](docs/hero.png) | ![Every champion since 1915 in chronological rows](docs/timeline.png) | ![The 2018 Capitals lit up against the faded era](docs/focus.png) |
+| The current era in the default **Network** layout - a force-directed blob where each franchise's Cups and rosters settle into their own territory. Coloured by **team** (the **Dynasty** mode); bigger dots mean more Cups | Timeline layout: every champion since 1915 in order, each roster gathered around its Cup | Click a Cup (or pick anything from search) and its network lights up, names appearing where there is room; the rest of the era fades back |
 
 | Stories | Six Degrees | A Brief History of Stanley |
 |:--:|:--:|:--:|
@@ -75,10 +75,11 @@ compressed rows, where Filters, Eras, and Theme each open as a popover above the
   franchise primaries and stay identical on every theme - cups and dots carry a darkened rim, and
   the thin connecting lines shift luminance per theme (darker on light, brighter on dark), so
   everything stays easy to see without repainting any team.
-- **Lay it out** as a **Hybrid** (the default - the timeline grid seeds each node's position, then the
-  network forces relax it into an organic blob that still reads oldest-at-top to newest-at-bottom), a
-  **Network** (pure force-directed), or a **Timeline** (Cups placed chronologically in a wrapped grid,
-  rosters clustering around them). Switching between the three re-lays-out the graph.
+- **Lay it out** as a **Network** (the default - a pure force-directed blob where each franchise's Cups
+  and rosters settle into their own territory), a **Hybrid** (the timeline grid seeds each node's
+  position, then the network forces relax it into an organic blob that still reads oldest-at-top to
+  newest-at-bottom), or a **Timeline** (Cups placed chronologically in a wrapped grid, rosters
+  clustering around them). Switching between the three re-lays-out the graph.
 - **Fit** re-frames to the current selection.
 - Pan, zoom, and drag nodes. Hover a player for their full per-Cup history (with captain and Conn
   Smythe markers); hover a champion for its runner-up **with the Final's series score**,

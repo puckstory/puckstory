@@ -20,7 +20,7 @@ export function defaultState(): ViewState {
   return {
     eras: [{ start: Math.max(Y0, 2006), end: Y1 }], // default: cap era
     positions: { F: true, D: true, G: true }, multiOnly: false,
-    colorMode: 'dynasty', layoutMode: 'hybrid',
+    colorMode: 'dynasty', layoutMode: 'network',
   }
 }
 

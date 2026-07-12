@@ -9,7 +9,7 @@
  */
 import {
   forceSimulation, forceManyBody, forceLink, forceCollide, forceX, forceY,
-  type Simulation, type ForceX, type ForceY,
+  type Simulation, type ForceX, type ForceY, type Force,
 } from 'd3-force'
 import { select } from 'd3-selection'
 import { zoom as d3zoom, zoomIdentity, type ZoomBehavior, type D3ZoomEvent } from 'd3-zoom'
@@ -18,6 +18,14 @@ import type { Model } from './model'
 import { inEras, eraBounds, mergeEras, teamRgb } from './model'
 import { draw, CUP_EXT } from './render'
 import { isCoarsePointer } from './env'
+import { FOREIGN_TUNE, OWNPULL_CSTR, ANNEAL, decayFor, FAST_TAIL, type SolveInput, type SolveResult } from './solve'
+// the pre-solver runs in a worker so the UI never blocks; ?worker&inline keeps the single-file
+// build a single file (the worker ships as an inlined blob and boots even from file://)
+import SolveWorker from './solve.worker?worker&inline'
+
+// a shared empty focus set for render() to pass when the story highlight is deferred (avoids a
+// per-frame allocation; never mutated)
+const EMPTY_FOCUS = new Set<string>()
 
 // The background's own r,g,b - the light themes' label halo is painted in exactly this colour
 // (a pure-white halo read as chalky boxes on the cream backgrounds; the bg-matched one melts in
@@ -165,13 +173,72 @@ export class GraphView {
     this.sim = forceSimulation<GNode>(model.nodes)
       .force('charge', forceManyBody<GNode>().strength((n) => -(24 + n.r * 4)).distanceMax(850).theta(0.85))
       .force('link', forceLink<GNode, GLink>(model.links).id((d: any) => d.id)
-        .distance((l) => (l.source as GNode).r + (l.target as GNode).r + 52).strength(0.16))
+        .distance((l) => (l.source as GNode).r + (l.target as GNode).r + 52)
+        .strength((l) => Math.min(0.85, 0.85 / Math.max(1, (l.source as GNode).rangeCupCount ?? 1))))
       // cups collide on their full glyph extent (~1.5r tall), pills on their circle,
-      // so neither cups nor pills ever overlap one another
-      .force('collide', forceCollide<GNode>((n) => (n.type === 'cup' ? n.r * CUP_EXT.up : n.r + 9)).strength(0.95).iterations(3))
+      // so neither cups nor pills ever overlap one another. (Pill padding 5, not 9: part of the
+      // territory tuning below - the wider halo overcrowded rosters and expelled their own
+      // players into neighbouring franchises' space.)
+      .force('collide', forceCollide<GNode>((n) => (n.type === 'cup' ? n.r * CUP_EXT.up : n.r + 5)).strength(0.95).iterations(3))
+      // The territory quartet (tuned TOGETHER on the full dataset - each knob's combined optimum
+      // sits well below its solo optimum, because all four target the same stragglers):
+      //   cohesion - consecutive same-franchise cups chain together (links set per applyFilters)
+      //   foreign  - players are pushed out of franchises they never won with
+      //   ownpull  - multi-cup players drift toward their nearest own cup
+      //   anneal   - the last stragglers glide home once the settle has converged
+      // Together with the sector seeding (seedRing) they cut "player parked in a foreign
+      // cluster" cases ~85-90% while keeping the blob's size, hybrid's time gradient, and the
+      // settle budget intact; test/layout-territory.test.ts pins that. Timeline mode and
+      // playback gate them (see applyFilters / each force).
+      .force('cohesion', forceLink<GNode, GLink>([]).id((d: any) => d.id).distance(80))
+      .force('foreign', this.makeForeignForce())
+      .force('ownpull', this.makeOwnPullForce())
+      .force('anneal', this.makeAnnealForce())
       .force('x', this.fx).force('y', this.fy)
       .on('tick', () => this.onTick())
-      .on('end', () => { if (this.trackFit) { this.trackFit = false; this.fit() } })
+      // the settle's final frame: keep EASING into the exact fit instead of calling fit()'s
+      // instant transform - the tracking camera deliberately lags its target by ~16%/frame, and
+      // snapping that residual in one jump read as an abrupt "clunk" at the end of every settle
+      .on('end', () => { if (this.trackFit) { this.trackFit = false; this.glideFit() } this.releaseHighlight() })
+
+    // The pre-solver (see the pre-solved transitions block above). Anything failing here - no
+    // Worker in the environment, blob-URL workers blocked, test runners - degrades cleanly:
+    // this.solver stays null and every view change uses the live-physics settle instead.
+    try {
+      this.solver = new SolveWorker()
+      // hold the first frame(s) invisible until the solved layout lands (see revealCanvas / the
+      // .stage canvas opacity transition in app.css). The safety timer is generous: a slow phone
+      // full-range solve can take >1s, and revealing the seed early would reintroduce the very
+      // teleport this hides - 4s only ever catches a genuinely hung worker.
+      this.canvas.style.opacity = '0'
+      this.bootRevealTimer = setTimeout(() => { this.bootRevealTimer = 0; this.canvas.style.opacity = '1' }, 4000)
+      this.solver.onmessage = (e: MessageEvent<SolveResult>) => {
+        this.solveBusy = false
+        if (this.solveQueued && this.solver) { this.solveBusy = true; this.solver.postMessage(this.solveQueued); this.solveQueued = null }
+        this.onSolved(e.data)
+      }
+      this.solver.onerror = () => {
+        // a dying worker mid-solve must not leave the view frozen: drop the solver for the rest
+        // of the session and finish the pending change with the live settle
+        this.solver?.terminate()
+        this.solver = null
+        this.solveBusy = false; this.solveQueued = null
+        this.revealCanvas() // if the worker died before the first present, un-hide the live settle
+        if (this.pendingSolve) {
+          const p = this.pendingSolve
+          this.pendingSolve = null
+          for (const nd of p.enter) delete nd._enter // the live settle shows them normally
+          // finish the pending change with a live settle - but only if it is still the CURRENT
+          // view and nothing else owns the graph (a stale generation, a running show, or an
+          // active drag must not be reheated and refit out from under the user)
+          if (p.gen === this.filterGen && !this.pb && !this.dragNode) {
+            this.cancelTween()
+            this.trackFit = true
+            this.sim.alpha(0.7).restart()
+          }
+        }
+      }
+    } catch { this.solver = null }
 
     this.zoomBeh = d3zoom<HTMLCanvasElement, unknown>()
       .scaleExtent([0.04, 8])
@@ -189,6 +256,15 @@ export class GraphView {
         return !ev.button
       })
       .on('start', (ev: any) => {
+        // a USER gesture takes the camera: stop the settle landing, the tween's camera sweep
+        // (nodes keep going), and mark the auto-fit stale. Programmatic transforms (fit(), the
+        // chrome-toggle pin) also dispatch 'start' but carry no sourceEvent - they must not
+        // cancel the very animations they cooperate with.
+        if (ev.sourceEvent) {
+          cancelAnimationFrame(this.glideRaf)
+          if (this.tw) { this.tw.cam0 = this.tw.cam1 = null }
+          this.autoFit = false
+        }
         const s = ev.sourceEvent
         // remember when d3-zoom owns a live TOUCH gesture: a second finger landing on a NODE
         // during it must stay d3's (forming a native pinch) instead of being claimed by our
@@ -290,11 +366,229 @@ export class GraphView {
       const a = (i / this.m.cups.length) * Math.PI * 2 - Math.PI / 2
       n.x = Math.cos(a) * 360; n.y = Math.sin(a) * 360
     })
-    this.m.nodes.filter((n) => n.type === 'player').forEach((n) => {
-      const first = this.m.nodeById.get('cup-' + n.cups![0].year)
-      const a = Math.random() * Math.PI * 2, rr = 70 + Math.random() * 170
-      n.x = (first?.x ?? 0) + Math.cos(a) * rr; n.y = (first?.y ?? 0) + Math.sin(a) * rr
-    })
+    // Sector seeding: each player starts in a cone on the side of his anchor FACING AWAY from
+    // the nearest foreign franchise's cup - born in his own territory instead of uniformly
+    // around the anchor. Roughly halves cross-cluster misplacement before any force acts, and
+    // costs nothing at steady state. Anchor = the centroid of a multi-cup career (the springs
+    // will hold him between his cups anyway), or the lone cup itself.
+    for (const n of this.m.nodes) {
+      if (n.type !== 'player') continue
+      const franchises = new Set(n.cups!.map((c) => c.abbr))
+      let ax = 0, ay = 0
+      for (const c of n.cups!) { const cup = this.m.nodeById.get('cup-' + c.year); ax += cup?.x ?? 0; ay += cup?.y ?? 0 }
+      ax /= n.cups!.length; ay /= n.cups!.length
+      let best = Infinity, bx = 1, by = 0
+      for (const o of this.m.cups) {
+        if (franchises.has(o.abbr!)) continue
+        const d = (o.x! - ax) ** 2 + (o.y! - ay) ** 2
+        if (d < best) { best = d; bx = o.x! - ax; by = o.y! - ay }
+      }
+      const a = Math.atan2(-by, -bx) + (Math.random() - 0.5) * (Math.PI / 2)
+      const rr = 90 + Math.random() * 100
+      n.x = ax + Math.cos(a) * rr; n.y = ay + Math.sin(a) * rr
+      n.vx = 0; n.vy = 0
+    }
+  }
+
+  /* ---------- the territory forces ----------
+     Empirically tuned as a SET on the full dataset (129 cups x 1306 players, 3 seeds, both
+     layouts): the goal is that no player reads as part of a franchise he never won with, without
+     collapsing the blob (area held), breaking hybrid's top-to-bottom time gradient (year-y
+     correlation stays > 0.97), or blowing the settle budget (all four together add ~0.5ms to a
+     ~6ms tick). Every force reads the ACTIVE node set from its initialize() - sim.nodes(active)
+     in applyFilters re-runs those, so era / cut / position / playback filtering is respected
+     with no extra bookkeeping here. Foreign/anneal sit out during playback (entrances must pop
+     out of their Cup and tiny early assemblies would be scattered); everything sits out in
+     timeline, whose grid pins ARE the layout. */
+  // which regime the per-tick forces run in - set by applyFilters, read at tick time
+  private clusterFx: 'net' | 'hyb' | 'off' = 'hyb'
+  // timeline/hybrid grid cell pitch, stored by timelineTargets (px between adjacent year cells)
+  private gridS = 150
+  // the settle's designed decay rate (set per restart); onTick steepens it below alpha .02
+  private baseAlphaDecay = decayFor(true)
+  /* ---------- pre-solved transitions ----------
+     Every view change (era, filter, layout, cut - anything but playback and drag) is SOLVED to
+     its final resting layout in a worker first, then presented as ONE eased tween from the
+     current view to that known final: the visible animation is a designed interpolation, smooth
+     from first frame to last, landing exactly at the resting state - never live physics with its
+     decaying tail. The live simulation stays fully wired as the fallback (no Worker, worker
+     death) and remains the engine for playback beats and drag re-heats. */
+  private solver: Worker | null = null
+  private solveBusy = false            // one solve in flight at a time...
+  private solveQueued: SolveInput | null = null // ...the LATEST superseding request waits (older ones drop)
+  private hasPresented = false // first solved layout is applied instantly (nothing to animate from)
+  // FIRST-PAINT reveal: with a worker, boot holds the canvas invisible (the page shows solid --bg)
+  // until the first solved layout is ready, then fades it in - so the compact ring SEED never
+  // flashes on screen only to teleport to the settled layout a beat later. A safety timer force-
+  // reveals if no solve ever arrives (a hung worker degrades to the seed, not a blank screen).
+  private bootRevealTimer: ReturnType<typeof setTimeout> | 0 = 0
+  private revealCanvas() {
+    if (this.bootRevealTimer) { clearTimeout(this.bootRevealTimer); this.bootRevealTimer = 0 }
+    this.canvas.style.opacity = '1'
+  }
+  // the camera currently shows an AUTO fit (solved presentation / fit / glide) that no user
+  // gesture has overridden - a chrome-toggle resize arriving PROMPTLY after it (the boot
+  // restore on short landscape phones) re-frames for the new geometry instead of only pinning;
+  // once the view has sat quietly the pin wins, as ever (chrome toggles must not move the graph)
+  private autoFit = false
+  private autoFitAt = 0
+  private pendingSolve: {
+    gen: number; nodes: GNode[]; wantFit: boolean
+    enter: GNode[] // nodes NEW to this view - hidden through the solve, then bloomed out of their cup
+    ghosts: { n: GNode; x0: number; y0: number; cup: GNode | null }[] // nodes that left - fade into their cup
+  } | null = null
+  private tw: {
+    nodes: GNode[]; x0: Float64Array; y0: Float64Array; x1: Float64Array; y1: Float64Array
+    cx: Float64Array; cy: Float64Array   // per-node bezier control (curved, not shoved, paths)
+    del: Float64Array                    // per-node start delay - the chronological wave
+    isEnter: Uint8Array
+    ghosts: { n: GNode; x0: number; y0: number; cup: GNode | null }[]
+    cam0: { x: number; y: number; k: number } | null; cam1: { x: number; y: number; k: number } | null
+    t0: number; travel: number; total: number; raf: number
+  } | null = null
+  // per-frame ghost snapshot handed to render() while a transition plays
+  private ghostDraw: { n: GNode; x: number; y: number; r: number; a: number }[] | null = null
+  // A story applies its era filter AND its highlighted network in one action, but the two should
+  // read as a SEQUENCE: the map transitions into place first, then the story's connection lights
+  // up. The selection is set logically at once (URL / undo / onSelection fire normally); only its
+  // VISUAL (the dim + the lit corridor) is held back - focusT stays pinned at 0 while the
+  // transition runs, then eases in once it lands. Cleared on every fresh relayout (applyFilters
+  // top) and armed by restoreView only when that relayout will actually transition.
+  private highlightDeferred = false
+  private releaseHighlight() { if (this.highlightDeferred) { this.highlightDeferred = false; this.schedule() } }
+  // the cohesion chain set + params of the CURRENT view (built per applyFilters, shared by the
+  // live force and the solve payload so the two can never disagree)
+  private chainPairs: [GNode, GNode][] = []
+  private chainDist = 80
+  private chainK = 0.1
+
+  /** Foreign-cup repulsion: push each player away from nearby cups of franchises he never won
+   *  with. The two layouts want OPPOSITE regimes: network's ring seed needs the hot phase free
+   *  to organise (ungated pushes scatter rosters before their springs engage), so it engages
+   *  only below alpha .45 with a sharp near-cup falloff; hybrid starts pre-organised from the
+   *  timeline grid and takes a longer-range, linear, always-on push. Squared-distance early-outs
+   *  keep the full-range cost at ~0.3-0.5ms/tick; the player -> foreign-cup lists rebuild only
+   *  when the sim's node set changes, never per tick. */
+  private makeForeignForce(): Force<GNode, GLink> {
+    let pairs: [GNode, GNode[]][] = []
+    const force = (alpha: number) => {
+      if (this.clusterFx === 'off' || this.pb) return
+      const { strength, radius: R, gate, linear } = FOREIGN_TUNE[this.clusterFx]
+      if (alpha >= gate) return
+      for (const [n, foreign] of pairs) {
+        for (const c of foreign) {
+          const dx = n.x! - c.x!
+          if (dx > R || dx < -R) continue
+          const dy = n.y! - c.y!
+          if (dy > R || dy < -R) continue
+          const d2 = dx * dx + dy * dy
+          if (d2 >= R * R || d2 < 1e-4) continue
+          const d = Math.sqrt(d2)
+          const w = linear ? 1 - d / R : Math.min(3, R / d - 1) / 3 // ramp to 0 at R | strong near the cup
+          const k = (strength * w * alpha) / d
+          n.vx! += dx * k; n.vy! += dy * k
+        }
+      }
+    }
+    ;(force as unknown as { initialize: (nodes: GNode[]) => void }).initialize = (nodes) => {
+      const cups = nodes.filter((n) => n.type === 'cup')
+      pairs = []
+      for (const n of nodes) {
+        if (n.type !== 'player') continue
+        // CAREER franchise set: a cup he actually won with never repels him, even when that win
+        // is outside the current era range
+        const mine = new Set(n.cups!.map((c) => c.abbr))
+        const foreign = cups.filter((c) => !mine.has(c.abbr!))
+        if (foreign.length) pairs.push([n, foreign])
+      }
+    }
+    return force as Force<GNode, GLink>
+  }
+
+  /** Own-territory pull: multi-cup players drift toward their nearest VISIBLE own cup. Their
+   *  springs are deliberately weak (strength splits across their cups - see the link force), so
+   *  charge pressure can strand them in no-man's-land between wins; this reels them toward
+   *  whichever of their own camps is closest. Single-cup players already sit tight on one strong
+   *  spring and are skipped. Runs through playback too - it only ever reinforces assembly. */
+  private makeOwnPullForce(): Force<GNode, GLink> {
+    let entries: [GNode, GNode[]][] = []
+    const force = (alpha: number) => {
+      if (this.clusterFx === 'off') return
+      const k = OWNPULL_CSTR * alpha
+      for (const [n, own] of entries) {
+        let best = Infinity, bx = 0, by = 0
+        for (const c of own) {
+          const d = (n.x! - c.x!) ** 2 + (n.y! - c.y!) ** 2
+          if (d < best) { best = d; bx = c.x!; by = c.y! }
+        }
+        n.vx! += (bx - n.x!) * k; n.vy! += (by - n.y!) * k
+      }
+    }
+    ;(force as unknown as { initialize: (nodes: GNode[]) => void }).initialize = (nodes) => {
+      entries = []
+      for (const n of nodes) {
+        if (n.type !== 'player') continue
+        const own: GNode[] = []
+        for (const c of n.cups!) { const cup = this.m.nodeById.get('cup-' + c.year); if (cup?.vis) own.push(cup) }
+        if (own.length >= 2) entries.push([n, own])
+      }
+    }
+    return force as Force<GNode, GLink>
+  }
+
+  /** End-game anneal: once a settle is largely organised (alpha < .12), snapshot the
+   *  players still parked nearer a foreign franchise than 1.5x their own distance - the
+   *  stragglers every steady-state force failed to place - and glide exactly those toward their
+   *  nearest own cup at a few px per tick. The whole glide lives INSIDE the settle's last
+   *  coherent stretch (alpha .12 down to the .02 sim floor, ~45 ticks) and its strength fades
+   *  to exactly ZERO at the floor, so the stragglers land WITH the rest of the graph in one
+   *  motion - no second act of crawling dots after the bulk has parked, and no mid-stride
+   *  freeze. K is higher than the old constant-speed version to fit the correction into the
+   *  shorter window. The snapshot clears whenever alpha rises again, so every re-heat (drag,
+   *  filter, layout switch) re-arms it; the periodic re-census both catches stragglers that
+   *  form late and releases the already-repaired. */
+  private makeAnnealForce(): Force<GNode, GLink> {
+    const { TH: ALPHA_TH, K, RISK, FADE_FROM, FLOOR, RESNAP } = ANNEAL
+    let players: GNode[] = [], cups: GNode[] = []
+    let targets: [GNode, GNode[]][] | null = null
+    let sinceSnap = 0
+    const force = (alpha: number) => {
+      if (this.clusterFx === 'off' || this.pb || alpha > ALPHA_TH) { targets = null; return }
+      // re-census every RESNAP ticks: starting at .08 means the layout is still moving, so a
+      // single snapshot both misses stragglers that form later AND keeps boosting players who
+      // have already made it home - the refresh catches the former and releases the latter
+      if (targets && ++sinceSnap >= RESNAP) targets = null
+      if (!targets) {
+        targets = []
+        sinceSnap = 0
+        for (const n of players) {
+          const mineYears = new Set(n.cups!.map((c) => c.year))
+          const franchises = new Set(n.cups!.map((c) => c.abbr))
+          const own: GNode[] = []
+          let od = Infinity, fd = Infinity
+          for (const c of cups) {
+            const d = (n.x! - c.x!) ** 2 + (n.y! - c.y!) ** 2
+            if (mineYears.has(c.year!)) { own.push(c); od = Math.min(od, d) }
+            else if (!franchises.has(c.abbr!)) fd = Math.min(fd, d)
+          }
+          if (own.length && Math.sqrt(fd) < Math.sqrt(od) * RISK) targets.push([n, own])
+        }
+      }
+      // full glide from .08 to .05, then fade linearly to ZERO at the sim's own stopping alpha
+      const kEff = K * Math.min(1, Math.max(0, alpha - FLOOR) / (FADE_FROM - FLOOR))
+      for (const [n, own] of targets) {
+        let best = Infinity, bc = own[0]
+        for (const c of own) { const d = (n.x! - c.x!) ** 2 + (n.y! - c.y!) ** 2; if (d < best) { best = d; bc = c } }
+        const d = Math.sqrt(best) || 1
+        n.vx! += ((bc.x! - n.x!) / d) * kEff; n.vy! += ((bc.y! - n.y!) / d) * kEff
+      }
+    }
+    ;(force as unknown as { initialize: (nodes: GNode[]) => void }).initialize = (nodes) => {
+      players = nodes.filter((n) => n.type === 'player')
+      cups = nodes.filter((n) => n.type === 'cup')
+      targets = null
+    }
+    return force as Force<GNode, GLink>
   }
 
   /** Arm the NEXT stage resize (within ~400ms) to keep the graph pinned to the SCREEN: the canvas
@@ -379,7 +673,7 @@ export class GraphView {
    *  set the cut flag - with at most ONE refilter + sim restart. The piecewise path
    *  (setState + setSelectionIds + setCut) restarted the settle twice whenever a single undo
    *  step crossed a cut boundary. */
-  restoreView(patch: Partial<ViewState>, ids: string[], cut: boolean, chain = false) {
+  restoreView(patch: Partial<ViewState>, ids: string[], cut: boolean, chain = false, deferHighlight = false) {
     const hadPb = !!this.pb
     if (hadPb) this.stopPlayback(false)
     // only these keys change which nodes are visible / where they sit - the same set setState
@@ -400,8 +694,12 @@ export class GraphView {
     this.suppressHoverId = null
     // a refilter is only owed when the visible set can actually change: a state patch, a cut
     // transition, or a selection/chain change while cut (the keep-set follows both)
-    if (hadPb || visPatch || cutChanged || (newCut && (selChanged || chainChanged))) this.applyFilters(true, true)
+    const willTransition = hadPb || visPatch || cutChanged || (newCut && (selChanged || chainChanged))
+    if (willTransition) this.applyFilters(true, true)
     else { this.computeStats(); this.schedule() }
+    // arm the deferred highlight ONLY when there is a transition to wait for (applyFilters cleared
+    // the flag; set it AFTER so it sticks). No transition → nothing to wait for → highlight shows now.
+    this.highlightDeferred = deferHighlight && willTransition
     this.cb.onSelection?.([...this.selSet], this.cut, this.chainSel)
   }
 
@@ -626,10 +924,18 @@ export class GraphView {
    *  the e2e node-targeting hook. Null while the node is hidden. */
   nodeScreen(id: string): { x: number; y: number } | null {
     const n = this.m.nodeById.get(id)
-    if (!n || !n.vis) return null
+    // report null for a node that is not actually PAINTED - hidden, or mid-transition below the
+    // draw threshold (matches drawNode's `_enter <= 0.02` skip). A "visible but never painted"
+    // node (stuck at _enter=0) is exactly the reset-from-cut bug this guards against.
+    if (!n || !n.vis || (n._enter ?? 1) <= 0.02) return null
     const r = this.canvas.getBoundingClientRect()
     return { x: n.x! * this.transform.k + this.transform.x + r.left,
              y: n.y! * this.transform.k + this.transform.y + r.top }
+  }
+  /** Debug/e2e probe: the eased dim amount (0 = no highlight showing) and whether a story's
+   *  highlight is being held back until its map transition lands, plus whether a transition runs. */
+  focusState(): { focusT: number; deferred: boolean; animating: boolean } {
+    return { focusT: this.focusT, deferred: this.highlightDeferred, animating: this.tw !== null }
   }
   /** Remove ONE node from the selection - the bottom sheet's "Remove from cut" action. Refuses
    *  the last remaining anchor while cut (that exit is the scissors, not a card button). */
@@ -671,12 +977,277 @@ export class GraphView {
     if (!t) { this.schedule(); return } // nothing visible - still repaint (e.g. after a resize)
     select(this.canvas).call(this.zoomBeh.transform as any, zoomIdentity.translate(t.x, t.y).scale(t.k))
     this.transform = t
+    this.autoFit = true; this.autoFitAt = performance.now()
     this.schedule()
   }
+  /** Post-settle camera landing: carry on easing toward the final fit with the SAME constant the
+   *  live tracking uses, so the last visible motion decelerates into place (an exponential
+   *  ease-out) instead of snapping the tracker's residual lag in one frame when the sim stops.
+   *  Self-cancels when the gap goes sub-pixel; any user gesture or a fresh settle supersedes it. */
+  private glideRaf = 0
+  private glideFit() {
+    cancelAnimationFrame(this.glideRaf)
+    this.autoFit = true; this.autoFitAt = performance.now()
+    const step = () => {
+      const t = this.computeFit()
+      if (!t) return
+      const dx = t.x - this.transform.x, dy = t.y - this.transform.y, dk = t.k - this.transform.k
+      if (Math.abs(dx) < 0.5 && Math.abs(dy) < 0.5 && Math.abs(dk) * Math.max(this.W, this.H) < 0.5) {
+        this.transform = t
+        ;(this.canvas as any).__zoom = zoomIdentity.translate(t.x, t.y).scale(t.k)
+        this.schedule()
+        return
+      }
+      const e = 0.16 // must match onTick's tracking ease - the landing is a continuation, not a new move
+      this.transform = { x: this.transform.x + dx * e, y: this.transform.y + dy * e, k: this.transform.k + dk * e }
+      ;(this.canvas as any).__zoom = zoomIdentity.translate(this.transform.x, this.transform.y).scale(this.transform.k)
+      this.schedule()
+      this.glideRaf = requestAnimationFrame(step)
+    }
+    this.glideRaf = requestAnimationFrame(step)
+  }
+  /* ---------- the pre-solved transition path ---------- */
+  /** Flatten the current view into the worker's SolveInput: positions, per-node force parameters
+   *  (MUST mirror the charge/fx/fy/collide lambdas in the constructor + applyFilters), per-link
+   *  spring strengths, the cohesion chains, and each player's own/foreign cup index lists in CSR
+   *  layout. The worker owns no model logic - everything semantic is decided here. */
+  private buildSolveInput(active: GNode[], activeLinks: GLink[], timeline: boolean, hybrid: boolean, big: boolean, aspect: number): SolveInput {
+    const n = active.length
+    const idx = new Map<GNode, number>()
+    active.forEach((nd, i) => idx.set(nd, i))
+    const x = new Float64Array(n), y = new Float64Array(n), r = new Float64Array(n), rcol = new Float64Array(n)
+    const charge = new Float64Array(n), tx = new Float64Array(n), ty = new Float64Array(n)
+    const fxs = new Float64Array(n), fys = new Float64Array(n)
+    const tSX = timeline ? 0.06 : hybrid ? 0.015 / aspect : 0.022 / aspect
+    const tSY = timeline ? 0.06 : hybrid ? 0.015 * aspect : 0.022 * aspect
+    for (let i = 0; i < n; i++) {
+      const nd = active[i]
+      x[i] = nd.x ?? 0; y[i] = nd.y ?? 0; r[i] = nd.r
+      rcol[i] = nd.type === 'cup' ? nd.r * CUP_EXT.up : nd.r + 5
+      charge[i] = -(24 + nd.r * 4) * (hybrid ? 1.35 : 1)
+      tx[i] = nd._tx ?? 0; ty[i] = nd._ty ?? 0
+      fxs[i] = nd.type === 'cup' && timeline ? 0.65 : nd.type === 'cup' && hybrid ? 0.015 : tSX
+      fys[i] = nd.type === 'cup' && timeline ? 0.65 : tSY
+    }
+    const L = activeLinks.length
+    const linkS = new Uint32Array(L), linkT = new Uint32Array(L), linkK = new Float64Array(L)
+    for (let i = 0; i < L; i++) {
+      const s = activeLinks[i].source as GNode, t = activeLinks[i].target as GNode
+      linkS[i] = idx.get(s)!; linkT[i] = idx.get(t)!
+      linkK[i] = Math.min(0.85, 0.85 / Math.max(1, s.rangeCupCount ?? 1))
+    }
+    const chainS = new Uint32Array(this.chainPairs.length), chainT = new Uint32Array(this.chainPairs.length)
+    this.chainPairs.forEach(([s, t], i) => { chainS[i] = idx.get(s)!; chainT[i] = idx.get(t)! })
+    // per-player own/foreign visible-cup lists (the same classification the live forces build in
+    // their initialize passes): own = cups he won, foreign = cups of franchises he never won with
+    const cupAt: [string, number][] = []
+    for (let i = 0; i < n; i++) if (active[i].type === 'cup') cupAt.push([active[i].abbr!, i])
+    const yearAt = new Map<number, number>()
+    for (let i = 0; i < n; i++) if (active[i].type === 'cup') yearAt.set(active[i].year!, i)
+    const pIdx: number[] = [], pOwn: number[] = [], pForeign: number[] = []
+    const pOwnOff: number[] = [0], pForeignOff: number[] = [0]
+    for (let i = 0; i < n; i++) {
+      const nd = active[i]
+      if (nd.type !== 'player') continue
+      const mine = new Set(nd.cups!.map((c) => c.abbr))
+      for (const c of nd.cups!) { const ci = yearAt.get(c.year); if (ci !== undefined) pOwn.push(ci) }
+      for (const [ab, ci] of cupAt) if (!mine.has(ab)) pForeign.push(ci)
+      pIdx.push(i); pOwnOff.push(pOwn.length); pForeignOff.push(pForeign.length)
+    }
+    return {
+      gen: this.filterGen, x, y, r, rcol, charge, tx, ty, fxs, fys, linkS, linkT, linkK,
+      chainS, chainT, chainDist: this.chainDist, chainK: this.chainK,
+      pIdx: new Uint32Array(pIdx), pOwnOff: new Uint32Array(pOwnOff), pOwn: new Uint32Array(pOwn),
+      pForeignOff: new Uint32Array(pForeignOff), pForeign: new Uint32Array(pForeign),
+      mode: this.clusterFx, big,
+    }
+  }
+
+  /** A solved layout arrived: play ONE choreographed transition from the view as it stands to
+   *  the known final resting positions. Not a lockstep slide - a WAVE: cups lead, staggered by
+   *  year, so the reorganisation sweeps chronologically across the graph; each roster trails
+   *  its cup a beat behind; every path bows into a gentle arc; nodes new to the view bloom out
+   *  of their cup instead of dropping in, and departed nodes fade into theirs as ghosts. The
+   *  camera sweeps to the final fit across the whole motion. Stale generations are dropped; a
+   *  live drag falls back to physics - the transition must not fight the user's hand. */
+  private onSolved(res: SolveResult) {
+    const p = this.pendingSolve
+    if (!p || res.gen !== this.filterGen || p.gen !== this.filterGen) return
+    this.pendingSolve = null
+    const nodes = p.nodes
+    const settleEnter = () => { for (const nd of p.enter) delete nd._enter }
+    if (res.x.length !== nodes.length) { settleEnter(); this.releaseHighlight(); this.schedule(); return } // defensive: never strand the highlight even on a (currently unreachable) size mismatch
+    // a drag took over while we were solving: physics owns the graph - any older transition
+    // stands down, and the sim continues gently from the positions as they are
+    if (this.dragNode) { settleEnter(); this.cancelTween(); this.releaseHighlight(); this.sim.alpha(0.3).restart(); return }
+    const n = nodes.length
+    const cam1 = p.wantFit ? this.computeFitOf(nodes, res.x, res.y) : null
+    // two cases present the final state directly: reduced-motion users, and the very FIRST
+    // layout of this GraphView's life - a fresh page (or shared link) has no prior view worth
+    // animating away from, so the graph simply appears already settled
+    const reduced = typeof matchMedia !== 'undefined' && matchMedia('(prefers-reduced-motion: reduce)').matches
+    const first = !this.hasPresented
+    this.hasPresented = true
+    if (reduced || first) {
+      this.cancelTween()
+      for (let i = 0; i < n; i++) { nodes[i].x = res.x[i]; nodes[i].y = res.y[i]; nodes[i].vx = 0; nodes[i].vy = 0 }
+      settleEnter()
+      if (cam1) {
+        this.transform = cam1
+        ;(this.canvas as any).__zoom = zoomIdentity.translate(cam1.x, cam1.y).scale(cam1.k)
+        this.autoFit = true; this.autoFitAt = performance.now()
+      }
+      this.schedule()
+      if (first) this.revealCanvas() // fade the settled layout in over the solid --bg boot screen
+      this.releaseHighlight() // instant/reduced-motion present: the map is in place, ease the highlight in
+      return
+    }
+
+    // ---- choreography ----
+    const x1 = res.x, y1 = res.y
+    const x0 = new Float64Array(n), y0 = new Float64Array(n)
+    const cx = new Float64Array(n), cy = new Float64Array(n)
+    const del = new Float64Array(n)
+    const isEnter = new Uint8Array(n)
+    const entering = new Set(p.enter)
+    const hash01 = (s: string) => { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0; return ((h >>> 0) % 1024) / 1024 }
+    // the wave: cups take their cue from their YEAR - the reorganisation sweeps through time
+    const cups = nodes.filter((nd) => nd.type === 'cup').sort((a, b) => a.year! - b.year!)
+    const span = Math.min(1100, 380 + n * 0.55) // stagger window: bigger views get a longer sweep
+    const cupDelay = new Map<GNode, number>()
+    cups.forEach((c, i) => cupDelay.set(c, (cups.length > 1 ? i / (cups.length - 1) : 0) * span * 0.8))
+    const anchorOf = (nd: GNode): GNode | null => {
+      if (nd.type !== 'player') return null
+      for (const c of nd.cups!) { const cc = this.m.nodeById.get('cup-' + c.year); if (cc?.vis) return cc }
+      return null
+    }
+    for (let i = 0; i < n; i++) {
+      const nd = nodes[i]
+      const anchor = anchorOf(nd)
+      // entrances are born AT their cup's starting spot and ride the wave out of it
+      if (entering.has(nd)) {
+        isEnter[i] = 1
+        x0[i] = anchor?.x ?? x1[i]; y0[i] = anchor?.y ?? y1[i]
+      } else { x0[i] = nd.x ?? x1[i]; y0[i] = nd.y ?? y1[i] }
+      del[i] = nd.type === 'cup'
+        ? cupDelay.get(nd) ?? 0
+        : Math.min(span, (anchor ? cupDelay.get(anchor) ?? 0 : span * 0.4) + 120 + hash01(nd.id) * 200)
+      // curved flight: bow the path perpendicular to the straight line, more for longer trips
+      const dx = x1[i] - x0[i], dy = y1[i] - y0[i]
+      const dist = Math.hypot(dx, dy)
+      const mx = (x0[i] + x1[i]) / 2, my = (y0[i] + y1[i]) / 2
+      if (dist < 40) { cx[i] = mx; cy[i] = my }
+      else {
+        const bow = Math.min(90, dist * 0.14) * (hash01(nd.id + 'b') < 0.5 ? -1 : 1)
+        cx[i] = mx + (-dy / dist) * bow; cy[i] = my + (dx / dist) * bow
+      }
+    }
+    const travel = 1250 // each node's own journey time; the stagger makes the whole longer
+    this.startTween(nodes, x0, y0, x1, y1, cx, cy, del, isEnter, p.ghosts, cam1, travel, span + travel)
+  }
+
+  private startTween(nodes: GNode[], x0: Float64Array, y0: Float64Array, x1: Float64Array, y1: Float64Array,
+    cx: Float64Array, cy: Float64Array, del: Float64Array, isEnter: Uint8Array,
+    ghosts: { n: GNode; x0: number; y0: number; cup: GNode | null }[],
+    cam1: { x: number; y: number; k: number } | null, travel: number, total: number) {
+    this.cancelTween()
+    cancelAnimationFrame(this.glideRaf)
+    if (cam1) { this.autoFit = true; this.autoFitAt = performance.now() }
+    const cam0 = cam1 ? { ...this.transform } : null
+    this.tw = { nodes, x0, y0, x1, y1, cx, cy, del, isEnter, ghosts, cam0, cam1, t0: performance.now(), travel, total, raf: 0 }
+    const ease = (t: number) => (t < 0.5 ? 4 * t * t * t : 1 - Math.pow(-2 * t + 2, 3) / 2) // easeInOutCubic
+    const smooth = (t: number) => t * t * (3 - 2 * t)
+    const GHOST_MS = 700
+    const step = () => {
+      const tw = this.tw
+      if (!tw) return
+      const t = performance.now() - tw.t0
+      for (let i = 0; i < tw.nodes.length; i++) {
+        const nd = tw.nodes[i]
+        const lt = Math.min(1, Math.max(0, (t - tw.del[i]) / tw.travel))
+        const e = ease(lt)
+        const u = 1 - e
+        // quadratic bezier through the bowed control point
+        nd.x = u * u * tw.x0[i] + 2 * u * e * tw.cx[i] + e * e * tw.x1[i]
+        nd.y = u * u * tw.y0[i] + 2 * u * e * tw.cy[i] + e * e * tw.y1[i]
+        nd.vx = 0; nd.vy = 0
+        if (tw.isEnter[i]) nd._enter = lt >= 1 ? 1 : smooth(Math.min(1, lt / 0.45))
+      }
+      if (tw.cam0 && tw.cam1) {
+        const ce = ease(Math.min(1, t / tw.total))
+        const x = tw.cam0.x + (tw.cam1.x - tw.cam0.x) * ce
+        const y = tw.cam0.y + (tw.cam1.y - tw.cam0.y) * ce
+        const k = tw.cam0.k + (tw.cam1.k - tw.cam0.k) * ce
+        this.transform = { x, y, k }
+        ;(this.canvas as any).__zoom = zoomIdentity.translate(x, y).scale(k)
+      }
+      // departed nodes glide into their (moving) cup and dissolve
+      if (tw.ghosts.length && t < GHOST_MS) {
+        const gp = t / GHOST_MS, ge = gp * gp
+        this.ghostDraw = tw.ghosts.map((g) => {
+          const txx = g.cup?.vis ? g.cup.x! : g.x0, tyy = g.cup?.vis ? g.cup.y! : g.y0
+          return { n: g.n, x: g.x0 + (txx - g.x0) * ge, y: g.y0 + (tyy - g.y0) * ge, r: g.n.r * (1 - 0.7 * gp), a: 0.85 * (1 - gp) }
+        })
+      } else this.ghostDraw = null
+      this.schedule()
+      if (t < tw.total) tw.raf = requestAnimationFrame(step)
+      else {
+        for (let i = 0; i < tw.nodes.length; i++) {
+          tw.nodes[i].x = tw.x1[i]; tw.nodes[i].y = tw.y1[i]
+          if (tw.isEnter[i]) delete tw.nodes[i]._enter
+        }
+        this.ghostDraw = null
+        this.tw = null
+        this.releaseHighlight() // map has landed - now fade the story's connection in
+        this.schedule()
+      }
+    }
+    this.tw.raf = requestAnimationFrame(step)
+  }
+  private cancelTween() {
+    if (this.tw) {
+      cancelAnimationFrame(this.tw.raf)
+      // never strand a half-bloomed node invisible or a phantom on screen
+      for (let i = 0; i < this.tw.nodes.length; i++) if (this.tw.isEnter[i]) delete this.tw.nodes[i]._enter
+      this.ghostDraw = null
+      this.tw = null
+    }
+    // NB: no releaseHighlight here - startTween() calls cancelTween() to replace a prior tween,
+    // and releasing there would fade the story's highlight in at the START of its map transition.
+    // The release fires at genuine completions (tween end / settle end / instant present) and when
+    // a drag takes the graph over (onDown / touch-drag / the onSolved drag-bail).
+  }
+
+  /** computeFit against explicit positions (the solved final) instead of the live node coords. */
+  private computeFitOf(nodes: GNode[], xs: Float64Array, ys: Float64Array): { x: number; y: number; k: number } | null {
+    let a = 1e9, b = 1e9, c = -1e9, d = -1e9, any = false
+    for (let i = 0; i < nodes.length; i++) {
+      const n = nodes[i]
+      if (!n.vis) continue
+      any = true
+      const lr = n.type === 'cup' ? n.r * CUP_EXT.halfW : n.r
+      const up = n.type === 'cup' ? n.r * CUP_EXT.up : n.r
+      const dn = n.type === 'cup' ? n.r * CUP_EXT.down : n.r
+      a = Math.min(a, xs[i] - lr); b = Math.min(b, ys[i] - up); c = Math.max(c, xs[i] + lr); d = Math.max(d, ys[i] + dn)
+    }
+    if (!any) return null
+    const availH = Math.max(1, this.H - this.insetB - this.insetPB)
+    const w = Math.max(1, c - a), h = Math.max(1, d - b), pad = 36
+    const k = Math.max(0.05, Math.min((this.W - pad * 2) / w, (availH - pad * 2) / h, 3.4))
+    return { x: this.W / 2 - ((a + c) / 2) * k, y: availH / 2 - ((b + d) / 2) * k, k }
+  }
+
   // Runs on every simulation tick (driven by d3's internal timer). While a re-frame is active,
   // ease the camera toward the *live* fit target so the layout reshaping and the re-framing are
   // one continuous motion - no settle-then-snap second pass.
   private onTick() {
+    // Fast tail: below alpha .02 the bulk of the graph is visually parked, but at the base decay
+    // the remaining whisper of energy dribbles on for ~70 more ticks - long enough to read as a
+    // second, phantom settle (stragglers crawling, the camera re-framing around them). Steepen
+    // the decay there so that last whisper FADES OUT in ~25 ticks instead: one landing, ending
+    // in a fade rather than either a long crawl or a single-frame freeze. Restored above the
+    // threshold so drag re-heats and fresh settles keep their designed pacing.
+    this.sim.alphaDecay(this.sim.alpha() < FAST_TAIL.below ? FAST_TAIL.decay : this.baseAlphaDecay)
     if (this.trackFit) {
       const t = this.computeFit()
       if (t) {
@@ -695,6 +1266,11 @@ export class GraphView {
   destroy() {
     this.sim.stop()
     if (this.raf) cancelAnimationFrame(this.raf)
+    cancelAnimationFrame(this.glideRaf)
+    this.cancelTween()
+    if (this.bootRevealTimer) { clearTimeout(this.bootRevealTimer); this.bootRevealTimer = 0 }
+    this.solver?.terminate()
+    this.solver = null
     if (this.reshapeTimer) clearTimeout(this.reshapeTimer)
     if (this.pb?.timer) clearTimeout(this.pb.timer)
     this.clearHold()
@@ -711,6 +1287,7 @@ export class GraphView {
   private inRange = (y: number) => inEras(y, this.st.eras)
   private applyFilters(restart: boolean, refit = false) {
     this.filterGen++ // lets stopPlayback see that a callback already refiltered (skip its own)
+    this.highlightDeferred = false // any fresh relayout drops a stale story-highlight defer; restoreView re-arms it after
     const { positions, multiOnly, layoutMode } = this.st
     const timeline = layoutMode === 'timeline'
     const hybrid = layoutMode === 'hybrid' // network-like blob, but softly biased toward the timeline grid so time reads as a gradient
@@ -718,6 +1295,13 @@ export class GraphView {
     this.lastLayout = layoutMode
     // playback needs to know who was ALREADY on screen, so entrances can be seeded (below)
     if (this.pb) for (const n of this.m.nodes) (n as unknown as { _pv?: boolean })._pv = n.vis
+    // who was visible BEFORE this pass - and where: the pre-solved transition stages entrances
+    // (new nodes bloom out of their cup), exits (departed nodes ghost into theirs), and restores
+    // carried-over nodes to these positions after the seed pass, so the wave departs from the
+    // view AS THE USER SEES IT (the seeds are the solver's starting point, never a visible state)
+    const prevVis = new Set<string>()
+    const prevPos = new Map<string, [number, number]>()
+    for (const n of this.m.nodes) if (n.vis) { prevVis.add(n.id); prevPos.set(n.id, [n.x ?? 0, n.y ?? 0]) }
     // window aspect, clamped - reused by the timeline grid shape and the network force bias
     const aspect = Math.min(1.9, Math.max(0.6, this.W / Math.max(1, this.H)))
     // size by Cups won: +4r per Cup so every count 1..11 (the record) stays a distinct size,
@@ -832,9 +1416,10 @@ export class GraphView {
     }
     // Pass 2. TIMELINE pins each cup to its chronological serpentine grid cell (timelineTargets) and
     // each player to the centroid of its cups' cells -> crisp year-rows held there.
-    // HYBRID "pre-renders as Timeline, then clicks Network": it SEEDS x/y from that same grid but leaves
-    // _tx/_ty at 0, so the Network forces below take over and relax the chronological arrangement into an
-    // organic blob that still remembers where each era started. Re-seeded only when the era set changes
+    // HYBRID "pre-renders as Timeline, then clicks Network": it SEEDS x/y from that same grid, keeps a
+    // soft y-only anchor on the CUPS (their grid row - see below; _tx stays 0 and players keep both 0),
+    // and lets the Network forces relax the rest into an organic blob that still remembers where each
+    // era started. Re-seeded only when the era set changes
     // or on (re)entry (see hybridSig below), not on a position/cut toggle; skipped during playback.
     // Network leaves both position and _tx/_ty untouched here and lets its centred forces shape the blob.
     // hybrid re-seeds from the timeline grid only when the ERA SET changes or on (re)entry - not on a
@@ -846,10 +1431,47 @@ export class GraphView {
       for (const n of this.m.nodes) { if (!n.vis) continue; const p = pos.get(n.id); if (p) { n._tx = p[0]; n._ty = p[1] } }
     } else if (hybrid && !this.pb) {
       const erasSig = this.st.eras.map((e) => e.start + '-' + e.end).join(',')
+      // The grid is built TWICE as wide as the window on purpose: the settle contracts x hard
+      // (consecutive years sit side by side in the serpentine and share most of their rosters,
+      // so hundreds of player springs pull neighbouring columns together - measured, cups end
+      // ~500px inside their columns while holding rows to ~120px) and expands y past the grid.
+      // Seeding ~2x wide means the post-settle blob lands near the WINDOW's aspect instead of
+      // filling barely half its width. Anchors alone can't do this - holding columns against
+      // the roster springs would need timeline-strength pins.
+      const pos = this.timelineTargets(aspect * 2)
+      // soft grid anchors: every visible cup keeps a gentle pull toward its grid cell - y (its
+      // row) holds the top-to-bottom time gradient through any number of hot restarts (the seed
+      // alone measured 0.97 after one settle, 0.92 after two, once the cohesion chains existed),
+      // and a same-strength x pull slows the column contraction (settled width 1.63x-window vs
+      // 1.42x without it). Players keep _tx/_ty 0 (the ordinary centring).
+      for (const c of this.m.cups) { if (!c.vis) continue; const p = pos.get(c.id); if (p) { c._tx = p[0]; c._ty = p[1] } }
       if (erasSig !== this.hybridSig) {
         this.hybridSig = erasSig
-        const pos = this.timelineTargets(aspect)
         for (const n of this.m.nodes) { if (!n.vis) continue; const p = pos.get(n.id); if (p) { n.x = p[0]; n.y = p[1] } }
+        // sector offset (the hybrid half of seedRing's cone seeding): single-cup players start a
+        // step off their cup's grid cell on the side FACING AWAY from the nearest foreign cup,
+        // so the relax phase never has to drag them back across someone else's roster. Multi-cup
+        // players stay at their centroid - their springs place them between camps by design.
+        const away = new Map<string, number>()
+        for (const c of this.m.cups) {
+          if (!c.vis) continue
+          let best = Infinity, bx = 1, by = 0
+          for (const o of this.m.cups) {
+            if (!o.vis || o === c || o.abbr === c.abbr) continue
+            const d = (o.x! - c.x!) ** 2 + (o.y! - c.y!) ** 2
+            if (d < best) { best = d; bx = o.x! - c.x!; by = o.y! - c.y! }
+          }
+          away.set(c.id, Math.atan2(-by, -bx))
+        }
+        for (const n of this.m.nodes) {
+          if (!n.vis || n.type !== 'player' || n.rangeCupCount !== 1) continue
+          const ref = n.cups!.find((c) => this.inRange(c.year))
+          const cup = ref && this.m.nodeById.get('cup-' + ref.year)
+          if (!cup?.vis) continue
+          const a = (away.get(cup.id) ?? 0) + (Math.random() - 0.5) * (Math.PI / 2)
+          const rr = 30 * (0.6 + Math.random() * 0.8)
+          n.x = cup.x! + Math.cos(a) * rr; n.y = cup.y! + Math.sin(a) * rr
+        }
       }
     } else if (layoutSwitched && !this.pb) {
       // switched (back) to Network: re-seed a fresh ring so the graph re-lays-out from scratch instead of
@@ -861,6 +1483,33 @@ export class GraphView {
     const activeLinks = this.m.links.filter((l) => (l.source as GNode).vis && (l.target as GNode).vis)
     this.sim.nodes(active)
     ;(this.sim.force('link') as any).links(activeLinks)
+    // Franchise cohesion: consecutive VISIBLE same-franchise cups chain together so a dynasty's
+    // halos merge into one coherent territory. The year-gap cap is LOAD-BEARING, not a nicety:
+    // uncapped chains drag MTL 1916 toward MTL 1993, fight hybrid's top-to-bottom time gradient,
+    // and measured WORSE than no cohesion at all. Timeline gets no chains (its grid pins are the
+    // semantics); playback inherits the visible-cup filter, so a newly revealed cup slides toward
+    // its franchise siblings as the century assembles.
+    const cohesion = this.sim.force('cohesion') as any
+    this.chainPairs = []
+    if (!timeline) {
+      const gapCap = hybrid ? 8 : 5
+      const lastByAbbr = new Map<string, GNode>()
+      for (const c of this.m.cups) { // already year-sorted
+        if (!c.vis) continue
+        const prev = lastByAbbr.get(c.abbr!)
+        if (prev && c.year! - prev.year! <= gapCap) this.chainPairs.push([prev, c])
+        lastByAbbr.set(c.abbr!, c)
+      }
+    }
+    // hybrid's chain rest length scales with the grid pitch (0.57x - the ratio the recipe was
+    // validated at): a fixed 80px against a ~280px pitch pulled every consecutive-year dynasty
+    // run to a third of its row space, which is what used to squeeze the whole blob narrow.
+    // Network keeps the validated fixed 80 (its ring geometry has no pitch).
+    this.chainDist = hybrid ? Math.max(80, Math.round(this.gridS * 0.57)) : 80
+    this.chainK = hybrid ? 0.5 : 0.1
+    cohesion.links(this.chainPairs.map(([s, t]) => ({ source: s, target: t }))).distance(this.chainDist).strength(this.chainK)
+    // which regime the territory forces run in (foreign/ownpull/anneal read this at tick time)
+    this.clusterFx = timeline ? 'off' : hybrid ? 'hyb' : 'net'
     // Network mode: bias the centring forces by the window aspect so the blob spreads to the
     // window's proportions instead of settling into a square that wastes horizontal space in a
     // wide window - weaker x-pull spreads it wider, stronger y-pull keeps it short. (Timeline
@@ -871,7 +1520,9 @@ export class GraphView {
     // (single-Cup satellites, thin cross-era links) drift apart while tight rosters stay clustered.
     const tStrengthX = timeline ? 0.06 : hybrid ? 0.015 / aspect : 0.022 / aspect
     const tStrengthY = timeline ? 0.06 : hybrid ? 0.015 * aspect : 0.022 * aspect // gentler centring so loose (single-Cup) satellites aren't packed as tight
-    this.fx.strength((n) => (n.type === 'cup' && timeline ? 0.65 : tStrengthX))
+    // hybrid cups: a fixed 0.015 x-pull toward their (widened) grid COLUMN - see the _tx anchor
+    // above; everything else keeps the aspect-biased centring toward 0
+    this.fx.strength((n) => (n.type === 'cup' && timeline ? 0.65 : n.type === 'cup' && hybrid ? 0.015 : tStrengthX))
     this.fy.strength((n) => (n.type === 'cup' && timeline ? 0.65 : tStrengthY))
     // hybrid repels a bit harder so loose nodes spread out; the link springs still hold tight rosters together
     ;(this.sim.force('charge') as any).strength((n: GNode) => -(24 + n.r * 4) * (hybrid ? 1.35 : 1))
@@ -891,8 +1542,64 @@ export class GraphView {
       // gentler, prettier settle.
       const big = active.length > 700
       ;(this.sim.force('collide') as any).iterations(big ? 2 : 3)
-      this.sim.alphaDecay(1 - Math.pow(0.001, 1 / (big ? 170 : 300)))
-      this.sim.alpha(0.7).restart()
+      this.baseAlphaDecay = decayFor(big)
+      this.sim.alphaDecay(this.baseAlphaDecay)
+      cancelAnimationFrame(this.glideRaf) // a fresh settle owns the camera (onTick tracking)
+      if (this.solver && !this.pb && !this.dragNode) {
+        // pre-solved path: freeze the live sim, solve the final layout in the worker, then play
+        // one choreographed transition (onSolved) from the view as it stands to the known
+        // resting state. A live drag skips this branch entirely - stopping the sim would freeze
+        // the node under the user's pointer; drags stay on live physics, as designed.
+        this.sim.stop()
+        // A still-pending solve is being SUPERSEDED by this pass (two applyFilters before the
+        // first's solve returns - e.g. RESET fires it twice: clearSelection then setState). Its
+        // solve will be dropped stale, so un-stage its entrances now: the fresh staging below
+        // re-hides whatever is genuinely new to the NEW view, but any node the old pass hid that
+        // this pass leaves visible would otherwise be stranded at _enter=0 (visible + positioned
+        // yet never painted) forever. Clear first, then re-stage.
+        if (this.pendingSolve) for (const nd of this.pendingSolve.enter) delete nd._enter
+        // stage the cast: entrances hide until their bloom (no dropping in at stale positions),
+        // exits become ghosts that dissolve into their cup once the transition plays. Only after
+        // the first presentation - the initial layout appears settled, no theatrics.
+        const enter: GNode[] = []
+        const ghosts: { n: GNode; x0: number; y0: number; cup: GNode | null }[] = []
+        if (this.hasPresented) {
+          for (const n of this.m.nodes) {
+            const was = prevVis.has(n.id)
+            if (n.vis && !was) { n._enter = 0; enter.push(n) }
+            else if (!n.vis && was && Number.isFinite(n.x)) {
+              let cup: GNode | null = null
+              if (n.type === 'player') {
+                for (const c of n.cups!) { const cc = this.m.nodeById.get('cup-' + c.year); if (cc?.vis) { cup = cc; break } }
+              }
+              ghosts.push({ n, x0: n.x!, y0: n.y!, cup })
+            }
+          }
+        }
+        this.pendingSolve = { gen: this.filterGen, nodes: active, wantFit: this.trackFit || refit, enter, ghosts }
+        this.trackFit = false
+        // collapse rapid-fire changes: one solve in flight, only the NEWEST waits behind it -
+        // scrubbing era pills must cost two solves (current + last), never a backlog of stale ones
+        const input = this.buildSolveInput(active, activeLinks, timeline, hybrid, big, aspect)
+        // the input has now CAPTURED any fresh seed positions (hybrid grid re-seed, layout-switch
+        // ring) as the solver's starting point - put every carried-over node back where the user
+        // last saw it. Without this an era change jump-cut the whole graph to the raw seed
+        // scramble and held it there for the entire solve window.
+        for (const nd of active) {
+          const pp = prevPos.get(nd.id)
+          if (pp) { nd.x = pp[0]; nd.y = pp[1]; nd.vx = 0; nd.vy = 0 }
+        }
+        if (this.solveBusy) this.solveQueued = input
+        else { this.solveBusy = true; this.solver.postMessage(input) }
+        this.schedule() // paint the filter change (visibility/colour) while the worker solves
+      } else {
+        // live-physics restart (playback beat, active drag, no worker): the simulation owns the
+        // graph now - an in-flight presentation MUST stand down or two engines fight over every
+        // node position and the camera, and a stale pending solve must not resurrect later
+        this.cancelTween()
+        if (this.pendingSolve) { for (const nd of this.pendingSolve.enter) delete nd._enter; this.pendingSolve = null }
+        this.sim.alpha(0.7).restart()
+      }
     } else this.schedule()
   }
   /** Chronological serpentine ("boustrophedon") grid target for every visible node - the timeline
@@ -914,6 +1621,7 @@ export class GraphView {
       if (m > maxRoster) maxRoster = m
     }
     const S = Math.min(460, Math.max(150, Math.sqrt(maxRoster) * 50))
+    this.gridS = S // the live cell pitch - hybrid's cohesion distance scales with it (applyFilters)
     const pos = new Map<string, [number, number]>()
     cups.forEach((c, i) => {
       const row = Math.floor(i / C)
@@ -995,6 +1703,7 @@ export class GraphView {
     let best: GNode | null = null, bd2 = 1e18 // squared distance - avoids a sqrt per node on every pointermove
     for (const n of this.m.nodes) {
       if (!n.vis) continue
+      if ((n._enter ?? 1) < 0.5) continue // still blooming into a transition - not clickable yet
       const dx = wx - n.x!, dy = wy - n.y!, dd2 = dx * dx + dy * dy
       // cups: hit-test the tall/narrow glyph as an ellipse (the shared CUP_EXT box, so the
       // clickable region matches what's drawn and the empty corners beside it stay pannable);
@@ -1105,6 +1814,7 @@ export class GraphView {
   }
 
   private onDown = (e: PointerEvent) => {
+    cancelAnimationFrame(this.glideRaf) // a touch/drag takes the camera - stop the settle landing
     if (e.pointerType === 'touch') {
       if (this.touchPtr === null) {
         // a second finger landing on a NODE while d3-zoom already owns a background-started
@@ -1163,7 +1873,7 @@ export class GraphView {
           this.setTransform(this.transform.x + (e.clientX - prev.x), this.transform.y + (e.clientY - prev.y), this.transform.k)
           e.preventDefault()
         } else if (this.touchMode === 'drag' && this.dragNode) {
-          if (!this.sim.alphaTarget()) this.sim.alphaTarget(0.3).restart() // reheat on the first real drag move
+          if (!this.sim.alphaTarget()) { this.cancelTween(); this.releaseHighlight(); this.sim.alphaTarget(0.3).restart() } // reheat on the first real drag move (live physics takes over from any transition)
           const rect = this.canvas.getBoundingClientRect()
           const [wx, wy] = this.screenToWorld(e.clientX - rect.left, e.clientY - rect.top)
           this.dragNode.fx = wx; this.dragNode.fy = wy
@@ -1183,6 +1893,8 @@ export class GraphView {
         Math.abs(e.clientX - this.downX) + Math.abs(e.clientY - this.downY) > 4) {
       this.dragNode = this.pressNode
       this.trackFit = false // dragging a node shouldn't be fought by the auto-fit camera
+      this.autoFit = false
+      this.cancelTween(); this.releaseHighlight() // live physics takes over from any in-flight transition
       this.dragNode.fx = this.dragNode.x; this.dragNode.fy = this.dragNode.y
       this.sim.alphaTarget(0.3).restart()
     }
@@ -1329,9 +2041,20 @@ export class GraphView {
       // paint NOW, not on the next animation frame: resizing the backing store CLEARS the
       // canvas, and one rAF of emptiness reads as a visible flash when the bar toggles
       this.render()
+      // the pin preserved the physical framing, but the stage's usable box changed. Under the
+      // old live tracking the settle re-framed afterwards on its own; with pre-solved
+      // presentations that window doesn't exist, so re-frame here explicitly: a tween in flight
+      // re-aims its camera sweep at the fit for the NEW geometry, and an untouched auto fit
+      // glides to it. A camera the user owns (autoFit false, no sweep) keeps the pin, as before.
+      if (this.tw && this.tw.cam1) this.tw.cam1 = this.computeFitOf(this.tw.nodes, this.tw.x1, this.tw.y1)
+      else if (this.autoFit && performance.now() - this.autoFitAt < 1500) this.glideFit()
       return
     }
-    this.resize(); this.fit()
+    this.resize()
+    // a transition in flight owns the camera: re-aim its sweep at the fit for the NEW viewport
+    // instead of snapping a fit() it would immediately fight frame-by-frame toward a stale target
+    if (this.tw && this.tw.cam1) this.tw.cam1 = this.computeFitOf(this.tw.nodes, this.tw.x1, this.tw.y1)
+    else this.fit()
     this.render() // same flash guard: reframe AND paint before the browser shows the cleared canvas
     // The timeline grid's column/row count and the network aspect-bias are derived from the canvas
     // aspect inside applyFilters, so an aspect change must RE-RUN it to reshape the layout - a bare
@@ -1376,24 +2099,40 @@ export class GraphView {
     this.ensureFocusSets()
     const hs = this.hsCache
     if (hs) this.lastFocus = hs
-    // ease focusT toward "is a focus active" so the dim fades in/out instead of snapping.
-    const target = hs ? 1 : 0
-    const d = target - this.focusT
-    this.focusT = Math.abs(d) < 0.01 ? target : this.focusT + d * 0.25
-    // while fading OUT (hover just ended, hs is null) keep dimming against the last set until fully clear
-    const drawSet = hs ?? (this.focusT > 0.001 ? this.lastFocus : null)
+    // deferred story highlight: while the map transitions into place, draw it UN-dimmed and
+    // UN-highlighted (focusT pinned 0, no lit set); releaseHighlight() lifts this when the
+    // transition lands, and the ease below then fades the connection in
+    let drawSet: Set<string> | null
+    let focusIds: Set<string>
+    let target: number
+    if (this.highlightDeferred) {
+      // focusIds ALSO suppressed: it drives the forced NAME labels of selected nodes, which the
+      // label pass paints at full opacity regardless of focusT - so a carried-over story player
+      // (already on screen from the previous era) would otherwise show its name mid-transition,
+      // before the corridor and dim arrive. Everything about the highlight waits for the landing.
+      this.focusT = 0; target = 0; drawSet = null; focusIds = EMPTY_FOCUS
+    } else {
+      // ease focusT toward "is a focus active" so the dim fades in/out instead of snapping.
+      target = hs ? 1 : 0
+      const d = target - this.focusT
+      this.focusT = Math.abs(d) < 0.01 ? target : this.focusT + d * 0.25
+      // while fading OUT (hover just ended, hs is null) keep dimming against the last set until fully clear
+      drawSet = hs ?? (this.focusT > 0.001 ? this.lastFocus : null)
+      focusIds = this.fiCache
+    }
     draw(this.ctx, {
       nodes: this.m.nodes, links: this.m.links,
       tx: this.transform.x, ty: this.transform.y, k: this.transform.k,
       W: this.W, H: this.H, dpr: this.dpr,
       hoverSet: drawSet,
-      focusIds: this.fiCache,
+      focusIds,
       focusT: this.focusT,
       colorMode: this.st.colorMode,
       communityColor: this.m.communityColor,
       bg: this.bg,
       edgeRgb: this.edgeRgb, edgeAlpha: this.edgeAlpha, nameFill: this.nameFill, nameHalo: this.nameHalo, hlEdge: this.hlEdge,
       light: this.lightBg,
+      ghosts: this.ghostDraw ?? undefined,
     })
     // keep animating until the fade settles (used when idle; sim ticks drive their own frames)
     if (this.focusT !== target && typeof requestAnimationFrame === 'function') this.schedule()

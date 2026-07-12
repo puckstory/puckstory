@@ -45,8 +45,14 @@ export const mergeEras = (eras: Era[]): Era[] => {
 }
 // Team colours are the pixel-exact official franchise primaries, EXCEPT the members of a colour
 // collision (marked "← official …" or "was …"), nudged the minimum needed so no two teams read as the
-// same colour in the graph (every nudged pair now clears OKLab dE 0.045; closest official pairs sit
-// at ~0.03, e.g. MTL-NJD, EDM-ANA - the accepted texture of an official-first palette). Every value is identical on every theme (AMOLED black through cream) - render.ts draws
+// same colour in the graph. The separation floor is ENFORCED by test/palette.test.ts: every pair
+// clears OKLab dE 0.027, every pair with a nudged member clears 0.045 - two accepted exceptions,
+// EDM-ANA at 0.033 (both oranges, eras 14 years apart) and MTL-NJD at 0.028 (the wine is boxed in
+// by DET/CAR/OTS/COL and MTL is an untouchable anchor) - and the closest official-official pair
+// (DAL-TSP at 0.030) is the accepted texture of an official-first palette. The same
+// test pins the POST-FOLD separation of the edge palette (render.ts forDark/forLight), which is where
+// a past revision silently re-merged colours this table had pulled apart. Every value is identical on
+// every theme (AMOLED black through cream) - render.ts draws
 // a team-darkened contrast rim around every cup and dynasty dot instead of shifting hue per theme.
 //   • Revert any single "← official …" team to its noted value for exact fidelity on that club.
 //   • Revert every "← official …" team → fully pixel-exact official (accepting that some teams then share a colour).
@@ -61,7 +67,7 @@ export const TEAM_COLORS: Record<string, string> = {
   TBL: '#267ec3', // ← official #002868 - reads identical to the STL/TOR navy; STL keeps the navy. Deepened off the cut-mode accent #2f80e0 too (a TBL swatch sat beside the identical "Add to cut" button)
   COL: '#8f3352', // ← official #6f263d - true Avalanche burgundy reads dark on the dark themes; lifted
   VGK: '#b4975a',
-  FLA: '#f0563f', // ← official #c8102e - identical to WSH
+  FLA: '#f36665', // ← official #c8102e - identical to WSH; the first tomato nudge (#f0563f) then sat within a JND of the CHI nudge - coral clears PHI/ANA at OKLab >= 0.072 (WSH 0.116) and the softened CHI at 0.058
   CAR: '#c00245', // ← official #ce1126 - identical to DET/NJD, and the first crimson nudge landed on MTL's official red; pushed to a raspberry red clear of all three
   MTL: '#af1e2d',
   BOS: '#ffb81c', //   gold anchor (PIT moves off it)
@@ -72,9 +78,9 @@ export const TEAM_COLORS: Record<string, string> = {
   NJD: '#a51d3a', // ← official #ce1126 - shares DET's red AND both play Dead Puck; wine-red separates them
   DET: '#ce1126', //   red anchor (WSH/FLA/CAR/NJD/CHI move off it)
   DAL: '#006847', ANA: '#f47a38',
-  CHI: '#e6442e', // ← official #cf0a2c - reads identical to the DET crimson
+  CHI: '#e2504d', // ← official #cf0a2c - reads identical to the DET crimson; the first tomato nudge (#e6442e) then sat a hair off the PHI orange anchor - softened red clears PHI/CGY/DET/FLA (OKLab >= 0.058)
   LAK: '#a2aaad',
-  TOR: '#2a56a6', // ← official #00205b - true Leafs navy reads too dark as a filled cup icon; lifted
+  TOR: '#4e629d', // ← official #00205b - true Leafs navy reads too dark as a filled cup icon; the first lift (#2a56a6) landed a JND from NYI's official royal - slate royal clears NYI/TOA/STL/NYR (OKLab >= 0.082)
   // historical / defunct champions (1915–1967)
   VML: '#7a1f2b', //   maroon anchor (VIC moves off it)
   SEA: '#0f8a4c', TSP: '#1b6e3c',

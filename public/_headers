@@ -2,8 +2,14 @@
 # The app is ONE self-contained HTML file: every script/style is inline and every asset is a data:
 # URI, so the CSP can deny all network sources outright - 'unsafe-inline' is required (and safe
 # here: the only HTML injection sink escapes its input, and nothing external can be loaded anyway).
+# worker-src blob: is required for the layout pre-solver, which Vite bundles as an inline Worker
+# booted from a blob: URL (?worker&inline). Without it the Worker falls through to default-src
+# 'none' and is blocked, silently degrading the graph's animations to the live-physics fallback.
+# The two cloudflareinsights allowances are for Cloudflare Web Analytics (auto-injected at the
+# edge): script-src loads beacon.min.js, and connect-src 'self' lets its RUM beacon report back
+# to this same (proxied) origin - the documented pairing for automatic injection.
 /*
-  Content-Security-Policy: default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data:; font-src data:; base-uri 'none'; form-action 'none'; frame-ancestors 'none'
+  Content-Security-Policy: default-src 'none'; script-src 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'unsafe-inline'; img-src 'self' data:; font-src data:; worker-src blob:; child-src blob:; connect-src 'self'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()

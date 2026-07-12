@@ -252,7 +252,7 @@ describe('mobile menu submenus', () => {
     await fireEvent.click(filters)                            // accordion: eras closes
     expect(filters.getAttribute('aria-expanded')).toBe('true')
     expect(eras.getAttribute('aria-expanded')).toBe('false')
-    expect(getByText('2+ · Dynasty · Hybrid')).toBeTruthy()  // the Filters summary shows the state (Hybrid = default layout)
+    expect(getByText('2+ · Dynasty · Network')).toBeTruthy()  // the Filters summary shows the state (Network = default layout)
     expect(container.querySelector('.msec-eras .mh-s')!.textContent).toBe('Cap') // Eras summary names the preset
   })
 })
@@ -368,6 +368,16 @@ describe('stories in the empty search dropdown', () => {
     expect(onStory).toHaveBeenCalledTimes(1)
     expect(onStory.mock.calls[0][0].title).toBe(title)
     expect(queryByRole('listbox')).toBeNull()
+  })
+  it('clicking the STILL-FOCUSED box after a pick reopens the stories (desktop keeps focus, so no focus event ever refires)', async () => {
+    const { getByRole, container, queryByRole } = mount({}, { onStory: vi.fn() })
+    const input = getByRole('combobox') as HTMLInputElement
+    await fireEvent.focus(input)
+    await fireEvent.click(container.querySelector('.tb-story')!)
+    expect(queryByRole('listbox')).toBeNull() // pick closed it; focus never left the input
+    await fireEvent.pointerDown(input)
+    expect(queryByRole('listbox')).toBeTruthy()
+    expect(container.querySelectorAll('.tb-story').length).toBeGreaterThanOrEqual(4) // stories offered again
   })
   it('stories stand aside while the Six Degrees connector is armed', async () => {
     const { getByRole, getAllByLabelText, container } = mount()

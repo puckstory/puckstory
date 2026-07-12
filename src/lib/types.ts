@@ -52,6 +52,9 @@ export interface GNode extends SimulationNodeDatum {
   dynastyColor?: string // precomputed dynasty colour = the franchise colour a node won with (Cup-weighted blend of team colours for multi-team players)
   _tx?: number // layout target (its timeline grid cell, or the middle of its cups' cells); 0 in network + hybrid (non-zero only in timeline)
   _ty?: number
+  // transition entrance, 0..1: a node ENTERING the view during a pre-solved transition blooms in
+  // (radius and edges scale with it) instead of popping at a stale position. 1/undefined = settled.
+  _enter?: number
   // cup
   year?: number
   team?: string

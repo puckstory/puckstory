@@ -28,6 +28,9 @@ export interface DrawState {
   nameHalo: string  // player-name label halo
   hlEdge: string    // highlighted-network edge rgb (gold on dark themes, dark slate on light)
   light: boolean    // light-theme background: player fills switch to the darkened palette
+  // nodes LEAVING the view during a pre-solved transition: drawn as fading, shrinking echoes
+  // gliding into their cup instead of vanishing on the spot (positions/alpha precomputed per frame)
+  ghosts?: { n: GNode; x: number; y: number; r: number; a: number }[]
 }
 
 // On the two LIGHT themes, the vivid team colours can be too pale to read on the cream/ice
@@ -35,6 +38,11 @@ export interface DrawState {
 // down toward black - preserving hue - so every dynasty node and line clears the contrast floor,
 // exactly as POS_COLORS_LIGHT does for the position palette. Colours already dark enough pass
 // through untouched. Dynasty mode only; memoised (the palette is a few dozen distinct strings).
+// This one stays a plain RGB luma scale ON PURPOSE (do not "upgrade" it to the OKLCh treatment
+// forDark uses): darkening toward black preserves the channel ratios - hue AND saturation - so the
+// gold/orange families keep their chroma separation (EDM-ANA hold at CIEDE2000 5.1 here; an
+// equal-contrast OKLCh lightness clamp merges them below 2.5). test/palette.test.ts pins both
+// the post-fold pair floor and the contrast floor.
 const LIGHT_ADJ = new Map<string, string>()
 export function forLight(color: string): string {
   const hit = LIGHT_ADJ.get(color)
@@ -54,10 +62,55 @@ export function forLight(color: string): string {
   return out
 }
 
+// OKLab round-trip for forDark's lift (Björn Ottosson's matrices). Runs once per distinct colour
+// string (the fold is memoised), so the transcendentals cost nothing per frame.
+const srgb2lin = (c: number) => { c /= 255; return c <= 0.04045 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4 }
+const lin2srgb = (c: number) => 255 * (c <= 0.0031308 ? 12.92 * c : 1.055 * c ** (1 / 2.4) - 0.055)
+function rgbToOklab(r: number, g: number, b: number): [number, number, number] {
+  const lr = srgb2lin(r), lg = srgb2lin(g), lb = srgb2lin(b)
+  const l = Math.cbrt(0.4122214708 * lr + 0.5363325363 * lg + 0.0514459929 * lb)
+  const m = Math.cbrt(0.2119034982 * lr + 0.6806995451 * lg + 0.1073969566 * lb)
+  const s = Math.cbrt(0.0883024619 * lr + 0.2817188376 * lg + 0.6299787005 * lb)
+  return [
+    0.2104542553 * l + 0.793617785 * m - 0.0040720468 * s,
+    1.9779984951 * l - 2.428592205 * m + 0.4505937099 * s,
+    0.0259040371 * l + 0.7827717662 * m - 0.808675766 * s,
+  ]
+}
+function oklabToRgb(L: number, a: number, b: number): [number, number, number] {
+  const l = (L + 0.3963377774 * a + 0.2158037573 * b) ** 3
+  const m = (L - 0.1055613458 * a - 0.0638541728 * b) ** 3
+  const s = (L - 0.0894841775 * a - 1.291485548 * b) ** 3
+  return [
+    lin2srgb(4.0767416621 * l - 3.3077115913 * m + 0.2309699292 * s),
+    lin2srgb(-1.2684380046 * l + 2.6097574011 * m - 0.3413193965 * s),
+    lin2srgb(-0.0041960863 * l - 0.7034186147 * m + 1.707614701 * s),
+  ]
+}
+// largest chroma (≤ C) that still fits the sRGB gamut at lightness L for hue h - binary search;
+// memoisation upstream makes the iteration count irrelevant
+function fitChroma(L: number, C: number, h: number): [number, number, number] {
+  const at = (c: number): [number, number, number] => oklabToRgb(L, c * Math.cos(h), c * Math.sin(h))
+  const fits = (rgb: number[]) => rgb.every((v) => v >= -0.001 && v <= 255.001)
+  if (fits(at(C))) return at(C)
+  let lo = 0, hi = C
+  for (let i = 0; i < 20; i++) { const mid = (lo + hi) / 2; if (fits(at(mid))) lo = mid; else hi = mid }
+  return at(lo)
+}
+
 // The mirror of forLight for the DARK themes: the darkest official team colours (Colorado burgundy,
-// St. Louis navy) fall close to the background, so their thin EDGES vanish on black. Lift any colour
-// below a floor UP toward it - preserving hue (uniform channel scale) - so every edge clears the
-// contrast floor. Applied to edges only; nodes keep their exact colour (they read on size + the label).
+// St. Louis navy) fall close to the background, so their thin EDGES vanish on black. This one works
+// in OKLCh, NOT the RGB luma scale forLight uses: the old RGB lift (scale every channel to a flat
+// luma floor, blend the clipped remainder toward white) normalized all dark colours to one lightness
+// and desaturated the deep reds, which re-merged same-hue franchises the palette had deliberately
+// pulled apart - MTL and DET edge fans met at CIEDE2000 1.75 on AMOLED, under a just-noticeable
+// difference. Here the lift holds hue exactly, keeps as much chroma as the gamut allows at the new
+// lightness, and SOFT-clamps L (keeps Q of the deficit below the floor) so families separated mainly
+// by lightness - the STL/NYR royals - keep a compressed slice of that separation instead of landing
+// on one point. Calibrated against the full palette (pinned in test/palette.test.ts): every folded
+// pair stays ≥ CIEDE2000 2.9 and every folded colour clears 3.4:1 on pure black; the old fold
+// bottomed out at 1.45 (NYR-TOR) with six pairs under 3.6. Applied to edges only; nodes keep their
+// exact colour (they read on size + the label).
 const DARK_ADJ = new Map<string, string>()
 export function forDark(color: string): string {
   const hit = DARK_ADJ.get(color)
@@ -68,23 +121,14 @@ export function forDark(color: string): string {
   if (hx) { r = parseInt(hx[1].slice(0, 2), 16); g = parseInt(hx[1].slice(2, 4), 16); b = parseInt(hx[1].slice(4, 6), 16) }
   else if (rg) { r = +rg[1]; g = +rg[2]; b = +rg[3] }
   else { DARK_ADJ.set(color, color); return color } // unknown format: leave as-is
-  const FLOOR = 105 // luminance a thin edge needs to read on the darkest (AMOLED) background
-  const lum = 0.299 * r + 0.587 * g + 0.114 * b
+  const FLOOR = 0.62 // OKLab lightness a thin edge needs to read on the darkest (AMOLED) background
+  const Q = 0.4 // deficit kept: 0 = hard clamp (collapses the lightness-separated royals), 1 = no lift
+  const [L, A, B] = rgbToOklab(r, g, b)
   let out = color
-  if (lum > 0 && lum < FLOOR) {
-    const k = FLOOR / lum
-    let r2 = Math.min(255, r * k), g2 = Math.min(255, g * k), b2 = Math.min(255, b * k)
-    // uniform scaling CLIPS saturated channels at 255 - a deep red like DET #ce1126 can't reach the
-    // floor by scaling alone (green/blue are ~0 and absorb nothing), which left its edge fan visibly
-    // dimmer than every other franchise on AMOLED. Blend the unreachable remainder toward
-    // white: hue holds for as long as scaling can hold it, then desaturates only as much as the
-    // floor demands.
-    const l2 = 0.299 * r2 + 0.587 * g2 + 0.114 * b2
-    if (l2 < FLOOR - 0.5) {
-      const t = (FLOOR - l2) / (255 - l2)
-      r2 += (255 - r2) * t; g2 += (255 - g2) * t; b2 += (255 - b2) * t
-    }
-    out = `rgb(${Math.round(r2)},${Math.round(g2)},${Math.round(b2)})`
+  if (L < FLOOR) {
+    const lifted = fitChroma(FLOOR - Q * (FLOOR - L), Math.hypot(A, B), Math.atan2(B, A))
+    const cl = (v: number) => Math.round(Math.max(0, Math.min(255, v)))
+    out = `rgb(${cl(lifted[0])},${cl(lifted[1])},${cl(lifted[2])})`
   }
   DARK_ADJ.set(color, out)
   return out
@@ -142,6 +186,7 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
     for (const l of s.links) {
       const a = l.source as GNode, b = l.target as GNode
       if (!a.vis || !b.vis) continue
+      if ((a._enter ?? 1) < 0.3 || (b._enter ?? 1) < 0.3) continue // endpoint still blooming in
       if (hoverSet && hoverSet.has(a.id) && hoverSet.has(b.id)) continue // drawn in the highlight pass below
       const x1 = sx(a.x!), y1 = sy(a.y!), x2 = sx(b.x!), y2 = sy(b.y!)
       if (!onScreen(x1, y1, 40) && !onScreen(x2, y2, 40)) continue
@@ -167,6 +212,7 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
     for (const l of s.links) {
       const a = l.source as GNode, b = l.target as GNode
       if (!a.vis || !b.vis) continue
+      if ((a._enter ?? 1) < 0.3 || (b._enter ?? 1) < 0.3) continue // endpoint still blooming in
       if (hoverSet && hoverSet.has(a.id) && hoverSet.has(b.id)) continue // drawn in the highlight pass below
       const x1 = sx(a.x!), y1 = sy(a.y!), x2 = sx(b.x!), y2 = sy(b.y!)
       if (!onScreen(x1, y1, 40) && !onScreen(x2, y2, 40)) continue
@@ -175,9 +221,26 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
     ctx.stroke()
   }
 
+  // transition ghosts: nodes that just left the view glide into their cup as fading, shrinking
+  // echoes - painted UNDER the surviving nodes so nothing settles behind a phantom
+  if (s.ghosts) {
+    for (const g of s.ghosts) {
+      if (g.a <= 0.02) continue
+      const x = sx(g.x), y = sy(g.y), r = Math.max(0.5, g.r * k)
+      if (!onScreen(x, y, r + 20)) continue
+      ctx.globalAlpha = g.a
+      const col = nodeColor(g.n, colorMode, communityColor, s.light)
+      if (g.n.type === 'cup') drawCup(ctx, x, y, r, col)
+      else { ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2); ctx.fillStyle = col; ctx.fill() }
+    }
+    ctx.globalAlpha = 1
+  }
+
   // one node, either pass
   const drawNode = (n: GNode, dim: boolean) => {
-    const x = sx(n.x!), y = sy(n.y!), r = n.r * k // cups + players scale straight with zoom, so the
+    const en = n._enter ?? 1
+    if (en <= 0.02) return // still waiting for its bloom window in a transition
+    const x = sx(n.x!), y = sy(n.y!), r = n.r * en * k // cups + players scale straight with zoom, so the
     // rendered glyph always matches the space the collision force reserved for it (no overlap)
     // cups extend above/below their centre (the tall glyph), so they need a taller cull pad
     // than their nominal radius (shares CUP_EXT with fit/hit/obstacle math); players are circles.
@@ -301,6 +364,7 @@ export function draw(ctx: CanvasRenderingContext2D, s: DrawState) {
   const cands: Cand[] = []
   for (const n of s.nodes) {
     if (!n.vis) continue
+    if ((n._enter ?? 1) < 0.9) continue // no name before the node has bloomed in
     const x = sx(n.x!), y = sy(n.y!)
     if (!onScreen(x, y, 40)) continue
     if (n.type === 'cup') continue // championships label themselves inside the glyph

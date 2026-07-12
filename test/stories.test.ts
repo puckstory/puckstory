@@ -56,6 +56,15 @@ describe('story eras press the pills', () => {
   })
 })
 
+describe('story layouts: every story opens in the Network default', () => {
+  it('no story pins a non-Network layout - they all read as the force-directed blob', () => {
+    for (const s of STORIES) {
+      const v = parseView('?' + s.qs, yearsOf, (id) => model.nodeById.has(id))
+      expect(v.state.layoutMode, `${s.title} layout`).toBe('network')
+    }
+  })
+})
+
 describe('the Handshake stays the true shortest first-to-last chain', () => {
   it('its corridor IS a shortest path from cup-1915 to the newest Cup (recompute on data refresh)', () => {
     const hs = STORIES.find((s) => s.title.includes('Handshake'))!

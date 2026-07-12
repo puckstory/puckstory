@@ -33,6 +33,8 @@ export const STORIES: Story[] = [
     // a CHAIN (?chain=1): the SHORTEST path from cup-1915 to the latest champion, lit against
     // the whole faded century. A stories test re-runs the BFS, so a data refresh that adds a
     // year (or shortens the route) fails loudly until this corridor is recomputed.
+    // Inherits the Network default like every other story - the lit corridor threads the blob
+    // rather than descending a timeline.
     qs: 'eras=1915-1941,1942-1967,1968-1979,1980-1993,1994-2004,2006-2026'
       + '&focus=cup-1915,pl-franknighbor,cup-1927,pl-alecconnell,cup-1935,pl-toeblake,cup-1944,'
       + 'pl-mauricerichard,cup-1956,pl-henririchard,cup-1973,pl-larryrobinson,cup-1986,pl-claudelemieux,cup-1995,'

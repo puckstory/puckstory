@@ -154,11 +154,14 @@
     if (restoring) return
     hist = histRecord(hist, snap()) // deep-equal no-ops are skipped inside
   }
-  function applySnap(s: Snap) {
+  // deferHighlight (stories only): apply the era/layout AND the selection atomically, but let the
+  // map settle before the highlighted network fades in (GraphView holds the dim/corridor until the
+  // transition lands). Undo/redo restores never defer - they should snap back at once.
+  function applySnap(s: Snap, deferHighlight = false) {
     restoring = true
     const patch = minimalPatch(state, s.state) // selection-only steps must not reheat the layout
     state = JSON.parse(JSON.stringify(s.state))
-    gv?.restoreView(patch, s.ids, s.cut, s.chain) // atomic: at most one refilter + sim restart
+    gv?.restoreView(patch, s.ids, s.cut, s.chain, deferHighlight) // atomic: at most one refilter + sim restart
     hoverNode = null // the card/sheet described the pre-restore world - never a restored ghost
     restoring = false
     syncUrl()
@@ -238,6 +241,7 @@
     gv.setBg(applyTheme(theme)) // paint the canvas in the active theme's background
     // deterministic node targeting for the e2e suite (and a handy console helper)
     ;(window as any).__pkNodeScreen = (id: string) => gv?.nodeScreen(id) ?? null
+    ;(window as any).__pkFocus = () => gv?.focusState() ?? null
     document.fonts?.ready.then(() => gv?.fit()) // redraw canvas labels once Inter has decoded
     // apply the deep link's selection + cut (parseView already filtered unknown ids - a
     // mistyped/stale id must not load the graph dimmed with no explanation). The boot
@@ -321,7 +325,8 @@
     afterPaint(() => {
       const v = parseView('?' + s.qs, yearsOf, (id) => model.nodeById.has(id))
       if (s.playback) prePlayback = snap() // remember the current view before the show overwrites it
-      applySnap({ state: v.state, ids: v.ids, cut: v.cut, chain: v.chain })
+      // a non-playback story: let its map lay out first, THEN light up its network (deferHighlight)
+      applySnap({ state: v.state, ids: v.ids, cut: v.cut, chain: v.chain }, !s.playback)
       if (s.playback) {
         // the show is EPHEMERAL: hand over to the playback engine (it refits every beat), and DON'T
         // record an undo step - closing the show restores the pre-story view (prePlayback), so the

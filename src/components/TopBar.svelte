@@ -233,12 +233,16 @@
 
 <div class="topbar">
   <div class="tb-searchwrap">
+    <!-- pointerdown too, not just focus: a desktop pick leaves the input FOCUSED (blur is
+         touch-only), so clicking the box again fires no focus event - without this the
+         stories/results could never reopen after a pick -->
     <input class="tb-search" placeholder={connectFrom ? `Connect ${connectFrom.label} to…` : 'Search players / teams…'}
       aria-label={connectFrom ? `Connect ${connectFrom.label} to another player or team` : 'Search players and teams'} autocomplete="off"
       role="combobox" aria-expanded={open} aria-controls="tb-results" aria-autocomplete="list"
       aria-activedescendant={active >= 0 ? `tb-opt-${active}` : undefined} aria-describedby="tb-search-hint"
       bind:this={searchEl} bind:value={query}
-      on:focus={() => (open = true)} on:input={() => (open = true)} on:keydown={onSearchKey} />
+      on:focus={() => (open = true)} on:input={() => (open = true)} on:pointerdown={() => (open = true)}
+      on:keydown={onSearchKey} />
     <!-- the keyboard mirror of the pointer-only 6° button (which is aria-hidden: an interactive
          child would flatten into every option's announced name and fight the activedescendant
          focus model) - announced once when the box takes focus -->
