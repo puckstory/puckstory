@@ -1082,13 +1082,11 @@ export class GraphView {
     if (this.dragNode) { settleEnter(); this.cancelTween(); this.releaseHighlight(); this.sim.alpha(0.3).restart(); return }
     const n = nodes.length
     const cam1 = p.wantFit ? this.computeFitOf(nodes, res.x, res.y) : null
-    // two cases present the final state directly: reduced-motion users, and the very FIRST
-    // layout of this GraphView's life - a fresh page (or shared link) has no prior view worth
-    // animating away from, so the graph simply appears already settled
+    // reduced-motion users always get the final state directly, no animation.
     const reduced = typeof matchMedia !== 'undefined' && matchMedia('(prefers-reduced-motion: reduce)').matches
     const first = !this.hasPresented
     this.hasPresented = true
-    if (reduced || first) {
+    if (reduced) {
       this.cancelTween()
       for (let i = 0; i < n; i++) { nodes[i].x = res.x[i]; nodes[i].y = res.y[i]; nodes[i].vx = 0; nodes[i].vy = 0 }
       settleEnter()
@@ -1098,18 +1096,32 @@ export class GraphView {
         this.autoFit = true; this.autoFitAt = performance.now()
       }
       this.schedule()
-      if (first) this.revealCanvas() // fade the settled layout in over the solid --bg boot screen
-      this.releaseHighlight() // instant/reduced-motion present: the map is in place, ease the highlight in
+      if (first) this.revealCanvas()
+      this.releaseHighlight()
       return
     }
 
     // ---- choreography ----
+    // FIRST load: the whole graph ASSEMBLES rather than popping in static. A fresh page has no
+    // prior view to travel FROM, so instead every node ENTERS - the Cups appear in a
+    // chronological wave and their rosters bloom out of them - all inside the final camera frame
+    // (positions are already the solved ones; only the entrance bloom + the roster fan animate).
+    // Later view changes bloom only the genuinely-new nodes (p.enter).
+    if (first) {
+      for (let i = 0; i < n; i++) { nodes[i].x = res.x[i]; nodes[i].y = res.y[i]; nodes[i].vx = 0; nodes[i].vy = 0; nodes[i]._enter = 0 }
+      if (cam1) {
+        this.transform = cam1
+        ;(this.canvas as any).__zoom = zoomIdentity.translate(cam1.x, cam1.y).scale(cam1.k)
+        this.autoFit = true; this.autoFitAt = performance.now()
+      }
+      this.revealCanvas() // lift the solid --bg boot screen; the assembly plays over it
+    }
     const x1 = res.x, y1 = res.y
     const x0 = new Float64Array(n), y0 = new Float64Array(n)
     const cx = new Float64Array(n), cy = new Float64Array(n)
     const del = new Float64Array(n)
     const isEnter = new Uint8Array(n)
-    const entering = new Set(p.enter)
+    const entering = first ? new Set(nodes) : new Set(p.enter)
     const hash01 = (s: string) => { let h = 0; for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0; return ((h >>> 0) % 1024) / 1024 }
     // the wave: cups take their cue from their YEAR - the reorganisation sweeps through time
     const cups = nodes.filter((nd) => nd.type === 'cup').sort((a, b) => a.year! - b.year!)
@@ -1143,7 +1155,9 @@ export class GraphView {
       }
     }
     const travel = 1250 // each node's own journey time; the stagger makes the whole longer
-    this.startTween(nodes, x0, y0, x1, y1, cx, cy, del, isEnter, p.ghosts, cam1, travel, span + travel)
+    // first load: the camera is already parked at the final fit (above) and the layout doesn't
+    // move, so pass no camera target - the assembly plays within a stable frame, no sweep
+    this.startTween(nodes, x0, y0, x1, y1, cx, cy, del, isEnter, p.ghosts, first ? null : cam1, travel, span + travel)
   }
 
   private startTween(nodes: GNode[], x0: Float64Array, y0: Float64Array, x1: Float64Array, y1: Float64Array,
